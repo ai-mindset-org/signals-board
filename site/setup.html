@@ -12,10 +12,8 @@
       .field { display: flex; flex-direction: column; gap: 6px; margin: 0 0 16px; }
       .field label { font: 10px/1 var(--mono); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
       .field small { color: var(--muted); font-size: 12px; }
-      input, textarea, select { font: 14px var(--sans); color: var(--ink); background: var(--card); border: 1px solid var(--line); padding: 10px 12px; width: 100%; }
-      input:focus, textarea:focus, select:focus { outline: 2px solid var(--ink); outline-offset: -1px; }
-      textarea { min-height: 92px; resize: vertical; font-family: var(--mono); font-size: 13px; }
-      .two { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+      input, select { font: 14px var(--sans); color: var(--ink); background: var(--card); border: 1px solid var(--line); padding: 10px 12px; width: 100%; }
+      input:focus, select:focus { outline: 2px solid var(--ink); outline-offset: -1px; }
       .out { margin-top: 26px; border-top: 1px solid var(--line); padding-top: 20px; }
       .out h2 { font-size: 16px; margin: 0 0 8px; }
       pre { background: var(--card); border: 1px solid var(--line); padding: 14px; font: 12px/1.55 var(--mono); white-space: pre-wrap; word-break: break-word; max-height: 360px; overflow: auto; }
@@ -23,7 +21,6 @@
       .btn { font: 11px/1 var(--mono); letter-spacing: 0.06em; text-transform: uppercase; padding: 10px 14px; border: 1px solid var(--ink); background: var(--ink); color: var(--bg); cursor: pointer; }
       .btn.ghost { background: transparent; color: var(--ink); }
       .warn { color: var(--hit); font-size: 13px; min-height: 1.2em; }
-      @media (max-width: 640px) { .two { grid-template-columns: 1fr; } }
     </style>
   </head>
   <body>
@@ -38,46 +35,18 @@
 
     <main class="setup">
       <ol class="steps">
-        <li>Заполните тему и авторов ниже.</li>
+        <li>Впишите тему.</li>
         <li>Скопируйте задание и отдайте его своему агенту – Claude Code, Codex или Cursor.</li>
-        <li>Агент скопирует шаблон в ваш GitHub, проверит авторов, попросит один ключ модели и включит ежедневный сбор и сайт.</li>
+        <li>Агент скопирует шаблон в ваш GitHub, сам подберёт и проверит авторов по теме, попросит один ключ модели и включит ежедневный сбор и сайт.</li>
       </ol>
 
       <div class="field">
         <label for="theme">тема</label>
         <input id="theme" placeholder="например: инвестиции для начинающих" />
       </div>
-      <div class="two">
-        <div class="field">
-          <label for="audience">ваша аудитория</label>
-          <input id="audience" placeholder="кто вас читает и смотрит" />
-        </div>
-        <div class="field">
-          <label for="product">ваш продукт или проект</label>
-          <input id="product" placeholder="под него модель пишет «нашу версию»" />
-        </div>
-      </div>
-      <div class="two">
-        <div class="field">
-          <label for="tiktok">авторы tiktok</label>
-          <textarea id="tiktok" placeholder="@handle&#10;@handle2"></textarea>
-          <small>по одному в строке, как в адресе tiktok.com/@…</small>
-        </div>
-        <div class="field">
-          <label for="youtube">авторы youtube</label>
-          <textarea id="youtube" placeholder="@handle&#10;@handle2"></textarea>
-          <small>по одному в строке, как в адресе youtube.com/@…</small>
-        </div>
-      </div>
-      <div class="two">
-        <div class="field">
-          <label for="language">язык разборов</label>
-          <select id="language"><option value="ru">русский</option><option value="en">english</option><option value="uk">українська</option><option value="es">español</option></select>
-        </div>
-        <div class="field">
-          <label for="window">окно, дней</label>
-          <select id="window"><option>7</option><option>14</option><option>30</option></select>
-        </div>
+      <div class="field">
+        <label for="language">язык разборов</label>
+        <select id="language"><option value="ru">русский</option><option value="en">english</option><option value="uk">українська</option><option value="es">español</option></select>
       </div>
       <p class="warn" id="warn"></p>
 
@@ -100,31 +69,27 @@
       // Адрес шаблона подставляется при публикации репозитория.
       const TEMPLATE = 'https://github.com/ai-mindset-org/signals-board';
       const $ = (id) => document.getElementById(id);
-      const handles = (text) => text.split(/[\n,]+/).map((s) => s.trim().replace(/^https?:\/\/(www\.)?(tiktok|youtube)\.com\//, '').replace(/^@/, '').replace(/\/.*$/, '')).filter(Boolean);
 
       function build() {
         const config = {
           theme: $('theme').value.trim(),
-          audience: $('audience').value.trim(),
-          product: $('product').value.trim(),
           language: $('language').value,
-          window_days: Number($('window').value),
+          window_days: 7,
           top_per_platform: 3,
           model: 'anthropic/claude-sonnet-5',
-          tiktok: handles($('tiktok').value).map((handle) => ({ handle })),
-          youtube: handles($('youtube').value).map((handle) => ({ handle })),
+          tiktok: [],
+          youtube: [],
         };
         const json = JSON.stringify(config, null, 2);
         $('config').textContent = json;
-        const n = config.tiktok.length + config.youtube.length;
-        $('warn').textContent = !config.theme ? 'впишите тему' : n < 3 ? 'добавьте хотя бы 3 автора – иначе срез будет пустоват; агент может подобрать их сам' : '';
+        $('warn').textContent = config.theme ? '' : 'впишите тему';
         $('prompt').textContent = [
           `Разверни мне борд сигналов из шаблона ${TEMPLATE}.`,
           '',
           'Сделай всё по AGENTS.md в шаблоне:',
           '1. создай репозиторий из шаблона в моём GitHub (через gh, Use this template);',
           '2. положи в него signals.config.json ниже;',
-          `3. проверь авторов командой node scripts/collect.mjs --probe; если авторов меньше 5 или кто-то не читается – предложи замену по теме «${config.theme || 'моя тема'}» и спроси меня;`,
+          `3. подбери сам 8–12 авторов TikTok и YouTube по теме «${config.theme || 'моя тема'}», которые публикуются хотя бы раз в неделю, проверь их командой node scripts/collect.mjs --probe, впиши в конфиг тех, кто ответил ok, и покажи мне список;`,
           '4. попроси меня положить ключ модели в секреты репозитория (gh secret set OPENROUTER_API_KEY), сам ключ в чат не пиши;',
           '5. включи GitHub Pages и запусти первый сбор, пришли мне адрес сайта.',
           '',
@@ -133,7 +98,7 @@
         ].join('\n');
         return json;
       }
-      document.querySelectorAll('input, textarea, select').forEach((n) => n.addEventListener('input', build));
+      document.querySelectorAll('input, select').forEach((n) => n.addEventListener('input', build));
       document.querySelectorAll('[data-copy]').forEach((b) => b.addEventListener('click', async () => {
         await navigator.clipboard.writeText($(b.dataset.copy).textContent);
         const t = b.textContent; b.textContent = 'скопировано'; setTimeout(() => { b.textContent = t; }, 1500);
