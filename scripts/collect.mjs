@@ -8,7 +8,7 @@
 // Ключи не нужны: TikTok читается с публичных embed-страниц, YouTube – со
 // страницы канала и страницы ролика. Все настройки – в signals.config.json.
 
-import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -355,8 +355,11 @@ async function main() {
     people.add(personOf(best));
   }
 
+  // Остальные посты окна идут на радар с picked: false. Пост, который уже
+  // бывал в срезе, остаётся в срезе и в плитке. Кадр сохраняется у всех.
   const now = new Date().toISOString();
-  for (const signal of slice) {
+  const rest = found.filter((s) => !slice.includes(s));
+  for (const signal of [...slice, ...rest]) {
     const before = previous.get(signal.id);
     const { file, dimensions } = await saveMedia(signal);
     signal.media = file || before?.media || null;
@@ -366,20 +369,7 @@ async function main() {
     delete signal.media_fallback;
     signal.first_seen = before?.first_seen || now;
     for (const key of ['why', 'remake', 'about']) if (before?.[key] && !signal[key]) signal[key] = before[key];
-    signal.picked = true;
-  }
-
-  // Остальные посты окна идут только на радар (picked: false), без кадра.
-  // Пост, который уже бывал в срезе, остаётся в срезе и в плитке.
-  const rest = found.filter((s) => !slice.includes(s));
-  for (const signal of rest) {
-    const before = previous.get(signal.id);
-    signal.media = before?.media || null;
-    delete signal.media_origin;
-    delete signal.media_fallback;
-    signal.first_seen = before?.first_seen || now;
-    for (const key of ['why', 'remake', 'about']) if (before?.[key] && !signal[key]) signal[key] = before[key];
-    signal.picked = before ? before.picked !== false : false;
+    signal.picked = slice.includes(signal) || (before ? before.picked !== false : false);
   }
   const fresh = new Set([...slice, ...rest].map((s) => s.id));
   const kept = (library.signals || []).filter((s) => !fresh.has(s.id)
@@ -405,6 +395,9 @@ async function main() {
   }
   await mkdir(path.dirname(DATA_PATH), { recursive: true });
   await writeFile(DATA_PATH, `${JSON.stringify(output, null, 1)}\n`);
+  // Кадры выбывших постов удаляются, чтобы папка не росла.
+  const used = new Set(output.signals.map((s) => s.media && path.basename(s.media)).filter(Boolean));
+  for (const name of await readdir(MEDIA_DIR).catch(() => [])) if (!used.has(name)) await unlink(path.join(MEDIA_DIR, name));
   console.log(`найдено ${found.length}, в срезе ${slice.length}, в плитке ${output.signals.filter((s) => s.picked !== false).length}, на радаре ${output.signals.length}`);
   for (const row of report.filter((r) => !r.ok)) console.log(`  молчит ${row.source}: ${row.error}`);
 }
