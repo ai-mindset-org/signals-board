@@ -11,7 +11,6 @@
       .steps { margin: 0 0 22px; padding-left: 20px; color: var(--muted); line-height: 1.7; }
       .field { display: flex; flex-direction: column; gap: 6px; margin: 0 0 16px; }
       .field label { font: 10px/1 var(--mono); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
-      .field small { color: var(--muted); font-size: 12px; }
       input, select { font: 14px var(--sans); color: var(--ink); background: var(--card); border: 1px solid var(--line); padding: 10px 12px; width: 100%; }
       input:focus, select:focus { outline: 2px solid var(--ink); outline-offset: -1px; }
       .out { margin-top: 26px; border-top: 1px solid var(--line); padding-top: 20px; }
@@ -19,7 +18,6 @@
       pre { background: var(--card); border: 1px solid var(--line); padding: 14px; font: 12px/1.55 var(--mono); white-space: pre-wrap; word-break: break-word; max-height: 360px; overflow: auto; }
       .actions { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 20px; }
       .btn { font: 11px/1 var(--mono); letter-spacing: 0.06em; text-transform: uppercase; padding: 10px 14px; border: 1px solid var(--ink); background: var(--ink); color: var(--bg); cursor: pointer; }
-      .btn.ghost { background: transparent; color: var(--ink); }
       .warn { color: var(--hit); font-size: 13px; min-height: 1.2em; }
     </style>
   </head>
@@ -56,12 +54,6 @@
         <div class="actions">
           <button class="btn" type="button" data-copy="prompt">скопировать задание</button>
         </div>
-        <h2>signals.config.json</h2>
-        <pre id="config"></pre>
-        <div class="actions">
-          <button class="btn ghost" type="button" data-copy="config">скопировать конфиг</button>
-          <button class="btn ghost" type="button" id="download">скачать файл</button>
-        </div>
       </div>
     </main>
 
@@ -81,7 +73,6 @@
           youtube: [],
         };
         const json = JSON.stringify(config, null, 2);
-        $('config').textContent = json;
         $('warn').textContent = config.theme ? '' : 'впишите тему';
         $('prompt').textContent = [
           `Разверни мне борд сигналов из шаблона ${TEMPLATE}.`,
@@ -96,18 +87,12 @@
           'signals.config.json:',
           json,
         ].join('\n');
-        return json;
       }
       document.querySelectorAll('input, select').forEach((n) => n.addEventListener('input', build));
       document.querySelectorAll('[data-copy]').forEach((b) => b.addEventListener('click', async () => {
         await navigator.clipboard.writeText($(b.dataset.copy).textContent);
         const t = b.textContent; b.textContent = 'скопировано'; setTimeout(() => { b.textContent = t; }, 1500);
       }));
-      $('download').addEventListener('click', () => {
-        const blob = new Blob([build() + '\n'], { type: 'application/json' });
-        const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: 'signals.config.json' });
-        a.click(); URL.revokeObjectURL(a.href);
-      });
       build();
     </script>
   </body>
