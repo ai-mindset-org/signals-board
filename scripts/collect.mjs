@@ -308,6 +308,12 @@ async function main() {
   } catch {
     // первый прогон
   }
+  // Новая тема – чистый лист: репозиторий из шаблона приходит с данными
+  // примера. Посты авторов, которых убрали из конфига, тоже уходят.
+  if ((library.theme || '') !== (config.theme || '')) library = { signals: [] };
+  const handleOf = (a) => String(typeof a === 'string' ? a : a?.handle || '').replace(/^@/, '').toLowerCase();
+  const authors = new Set([...(config.tiktok || []).map((a) => `tiktok @${handleOf(a)}`), ...(config.youtube || []).map((a) => `youtube @${handleOf(a)}`)]);
+  library.signals = (library.signals || []).filter((s) => authors.has(`${s.platform} ${String(s.source).toLowerCase()}`));
   const previous = new Map((library.signals || []).map((s) => [s.id, s]));
 
   const report = [];
