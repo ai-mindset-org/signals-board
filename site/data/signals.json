@@ -1,27 +1,35 @@
 {
- "generated_at": "2026-10-09T11:42:32.203Z",
+ "generated_at": "2026-10-09T11:59:18.636Z",
  "window_days": 7,
  "theme": "обучение AI",
  "digest": [
+  "tiktok:7694081567911693598",
   "youtube:_rtp1XzaP6Q",
   "youtube:dDgncbBAA0c",
   "youtube:ZHVNTTKu9fU",
-  "youtube:wep2EQ9Y_Tc"
+  "tiktok:7692221017917345054"
  ],
  "formats": {
-  "shapes": [],
-  "of": 4
+  "shapes": [
+   {
+    "name": "вертикальный 9:16",
+    "count": 2
+   }
+  ],
+  "of": 5
  },
  "source_report": [
   {
    "source": "tiktok/rileybrown.ai",
-   "ok": false,
-   "error": "embed HTTP 503"
+   "ok": true,
+   "scanned": 13,
+   "fresh": 1
   },
   {
    "source": "tiktok/nate.b.jones",
-   "ok": false,
-   "error": "embed HTTP 503"
+   "ok": true,
+   "scanned": 13,
+   "fresh": 6
   },
   {
    "source": "youtube/deeplearningai",
@@ -63,14 +71,37 @@
  "summary": "За 7 дней на YouTube в теме AI лидируют форматы тревожных заголовков и дайджестов новостей: видео про проблемы контроля моделей OpenAI набрало ≈260000 просмотров, обзор новых моделей (GPT-6.1, Sonnet 5.5, Gemini 4) – ≈153000, а тема исчезающего преимущества крупных игроков в AI – ≈146000. Узкая тема про данные и покупку старых писем Google собрала значительно меньше – ≈12000, что заметно ниже остальных в этой подборке.",
  "signals": [
   {
+   "id": "tiktok:7694081567911693598",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7694081567911693598",
+   "title": "It takes 5 seconds. Try it and let me know your thoughts. #aihack #ai #aiprompts #artificialintelligence #aitips ",
+   "posted_at": "2026-10-08T00:06:03.000Z",
+   "popularity": 637100,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 491200
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-0f53a06ba59a.jpg",
+   "first_seen": "2026-10-09T11:59:18.636Z"
+  },
+  {
    "id": "youtube:_rtp1XzaP6Q",
    "platform": "youtube",
    "source": "@aiexplained-official",
    "person": "aiexplained-official",
    "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
    "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
-   "posted_at": "2026-10-02T11:41:52.827Z",
-   "popularity": 260000,
+   "posted_at": "2026-10-02T11:58:42.093Z",
+   "popularity": 261000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -94,7 +125,7 @@
    "person": "mreflow",
    "url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
    "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
-   "posted_at": "2026-10-03T11:41:58.931Z",
+   "posted_at": "2026-10-03T11:58:47.695Z",
    "popularity": 153000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -119,7 +150,7 @@
    "person": "twominutepapers",
    "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
    "title": "The Billion Dollar AI Advantage Is Disappearing",
-   "posted_at": "2026-10-05T11:41:46.889Z",
+   "posted_at": "2026-10-05T11:58:36.053Z",
    "popularity": 146000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -136,6 +167,29 @@
    "why": "заголовок на контрасте больших денег и их исчезновения создает интригу про смену расклада сил в AI",
    "remake": "показать на примере курса, как раньше преимущество давали большие бюджеты, а теперь – навык применения AI, доступный каждому",
    "about": "Видео о том, что прежнее преимущество крупных компаний в AI за счет больших вложений теряет силу."
+  },
+  {
+   "id": "tiktok:7692221017917345054",
+   "platform": "tiktok",
+   "source": "@rileybrown.ai",
+   "person": "riley brown",
+   "url": "https://www.tiktok.com/@rileybrown.ai/video/7692221017917345054",
+   "title": "Needed to figure out what to do with my old phone.  So I built Bluey, powered by GPT Realtime 2... I think.... idk how it works... Opus 5.5 Built the entire thing Bluey is an iOS app + mac app that is",
+   "posted_at": "2026-10-02T23:46:10.000Z",
+   "popularity": 113600,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 637300
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-0c7439bf5f32.jpg",
+   "first_seen": "2026-10-09T11:59:18.636Z"
   },
   {
    "id": "youtube:wep2EQ9Y_Tc",
