@@ -56,7 +56,7 @@ function card(post) {
     <article class="card" data-id="${esc(post.id)}">
       ${frame}
       <div class="body">
-        <div class="row"><span class="tag">${post.platform}</span><span class="tag">${esc(post.source)}</span>${shape}<span>${when(post.posted_at)}</span></div>
+        <div class="row">${post.picked !== false ? '<span class="tag is-slice">в срезе</span>' : ''}<span class="tag">${post.platform}</span><span class="tag">${esc(post.source)}</span>${shape}<span>${when(post.posted_at)}</span></div>
         <p class="num"><b>${post.approx ? '≈' : ''}${fmt(post.popularity)}</b> ${plural(post.popularity, post.popularity_unit)}</p>
         <h3 class="title"><a href="${esc(post.url)}" target="_blank" rel="noreferrer noopener">${esc(post.title || 'без подписи')}</a></h3>
         ${post.why ? `<p class="why">${esc(post.why)}</p>` : ''}
@@ -210,16 +210,16 @@ function setParam(key, value, empty) {
 }
 
 function renderDigest() {
-  // Плитка – посты, которые бывали в срезе; радар – все посты авторов за окно.
-  const every = state.data.signals || [];
-  const all = state.layout === 'radar' ? every : every.filter((p) => p.picked !== false);
+  // Плитка и радар – все посты авторов за окно; посты среза в плитке стоят первыми.
+  const all = state.data.signals || [];
+  const inSlice = (p) => p.picked !== false;
   const present = PLATFORMS.filter((p) => all.some((x) => x.platform === p));
   const chip = (v, label, n) => `<button type="button" class="chip${state.platform === v ? ' is-active' : ''}" data-platform="${v}">${label} <b>${n}</b></button>`;
   el('platforms').innerHTML = [chip('all', 'все', all.length), ...present.map((p) => chip(p, p, all.filter((x) => x.platform === p).length))].join('');
   document.querySelectorAll('#layouts .chip').forEach((b) => b.classList.toggle('is-active', b.dataset.layout === state.layout));
 
   const posts = (state.platform === 'all' ? all : all.filter((p) => p.platform === state.platform))
-    .slice().sort((a, b) => new Date(b.posted_at) - new Date(a.posted_at));
+    .slice().sort((a, b) => inSlice(b) - inSlice(a) || new Date(b.posted_at) - new Date(a.posted_at));
   if (!posts.length) {
     el('digest').innerHTML = '<p class="empty">постов пока нет: сбор ещё не запускался или авторы ничего не публиковали за окно</p>';
     return;
