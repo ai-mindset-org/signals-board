@@ -1,0 +1,166 @@
+{
+ "generated_at": "2026-10-09T11:42:32.203Z",
+ "window_days": 7,
+ "theme": "обучение AI",
+ "digest": [
+  "youtube:_rtp1XzaP6Q",
+  "youtube:dDgncbBAA0c",
+  "youtube:ZHVNTTKu9fU",
+  "youtube:wep2EQ9Y_Tc"
+ ],
+ "formats": {
+  "shapes": [],
+  "of": 4
+ },
+ "source_report": [
+  {
+   "source": "tiktok/rileybrown.ai",
+   "ok": false,
+   "error": "embed HTTP 503"
+  },
+  {
+   "source": "tiktok/nate.b.jones",
+   "ok": false,
+   "error": "embed HTTP 503"
+  },
+  {
+   "source": "youtube/deeplearningai",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 0
+  },
+  {
+   "source": "youtube/TwoMinutePapers",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 2
+  },
+  {
+   "source": "youtube/aiexplained-official",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 1
+  },
+  {
+   "source": "youtube/mreflow",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 1
+  },
+  {
+   "source": "youtube/matthew_berman",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 4
+  },
+  {
+   "source": "youtube/NateBJones",
+   "ok": true,
+   "scanned": 30,
+   "fresh": 5
+  }
+ ],
+ "summary": "За 7 дней на YouTube в теме AI лидируют форматы тревожных заголовков и дайджестов новостей: видео про проблемы контроля моделей OpenAI набрало ≈260000 просмотров, обзор новых моделей (GPT-6.1, Sonnet 5.5, Gemini 4) – ≈153000, а тема исчезающего преимущества крупных игроков в AI – ≈146000. Узкая тема про данные и покупку старых писем Google собрала значительно меньше – ≈12000, что заметно ниже остальных в этой подборке.",
+ "signals": [
+  {
+   "id": "youtube:_rtp1XzaP6Q",
+   "platform": "youtube",
+   "source": "@aiexplained-official",
+   "person": "aiexplained-official",
+   "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+   "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+   "posted_at": "2026-10-02T11:41:52.827Z",
+   "popularity": 260000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-aa046e8b4d6b.jpg",
+   "first_seen": "2026-10-09T11:42:32.203Z",
+   "why": "залетело за счет тревожного заголовка с конфликтом и словом 'hell', играющим на страхе потери контроля над AI",
+   "remake": "сделать видео про риски и ограничения AI-инструментов в работе с острым заголовком, но с практическим выводом для аудитории курсов",
+   "about": "Видео о сложностях OpenAI с контролем и безопасностью своих моделей."
+  },
+  {
+   "id": "youtube:dDgncbBAA0c",
+   "platform": "youtube",
+   "source": "@mreflow",
+   "person": "mreflow",
+   "url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
+   "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
+   "posted_at": "2026-10-03T11:41:58.931Z",
+   "popularity": 153000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-448ca5bc3ab4.jpg",
+   "first_seen": "2026-10-09T11:42:32.203Z",
+   "why": "формат дайджеста новостей с конкретными названиями моделей собирает тех, кто хочет быть в курсе всего разом",
+   "remake": "делать регулярный дайджест новых AI-инструментов и моделей с акцентом на то, что из этого применимо в работе уже сейчас",
+   "about": "Дайджест новостей AI с обзором новых моделей: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4."
+  },
+  {
+   "id": "youtube:ZHVNTTKu9fU",
+   "platform": "youtube",
+   "source": "@TwoMinutePapers",
+   "person": "twominutepapers",
+   "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+   "title": "The Billion Dollar AI Advantage Is Disappearing",
+   "posted_at": "2026-10-05T11:41:46.889Z",
+   "popularity": 146000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-ace2c8bb608a.jpg",
+   "first_seen": "2026-10-09T11:42:32.203Z",
+   "why": "заголовок на контрасте больших денег и их исчезновения создает интригу про смену расклада сил в AI",
+   "remake": "показать на примере курса, как раньше преимущество давали большие бюджеты, а теперь – навык применения AI, доступный каждому",
+   "about": "Видео о том, что прежнее преимущество крупных компаний в AI за счет больших вложений теряет силу."
+  },
+  {
+   "id": "youtube:wep2EQ9Y_Tc",
+   "platform": "youtube",
+   "source": "@NateBJones",
+   "person": "nate b jones",
+   "url": "https://www.youtube.com/watch?v=wep2EQ9Y_Tc",
+   "title": "Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?",
+   "posted_at": "2026-10-08T20:42:19.306Z",
+   "popularity": 12000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-8c719adad313.jpg",
+   "first_seen": "2026-10-09T11:42:32.203Z",
+   "why": "низкие просмотры говорят, что узкая тема про конкретную сделку Google без явной пользы для зрителя не цепляет так, как новости о моделях",
+   "remake": "избегать слишком нишевых корпоративных новостей без прямой связи с тем, что аудитория может применить",
+   "about": "Видео о том, почему Google, имея много данных, тратит крупную сумму на покупку старых архивов писем."
+  }
+ ]
+}
