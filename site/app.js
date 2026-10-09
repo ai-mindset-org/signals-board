@@ -114,9 +114,10 @@ function radar(posts) {
     const size = (5 + 9 * (rank.get(p.id) ?? 0)).toFixed(1);
     const turn = (((a + Math.PI / 2) % (2 * Math.PI)) + 2 * Math.PI) % (2 * Math.PI);
     const delay = `${((turn / (2 * Math.PI)) * R.sweep).toFixed(2)}s`;
-    return `<circle cx="${x}" cy="${y}" r="${size}" class="ping" style="animation-delay:${delay}"/><circle cx="${x}" cy="${y}" r="${size}" class="dot" style="animation-delay:${delay}" data-dot="${esc(p.id)}" tabindex="0" aria-label="${esc(p.source)}"/>`;
+    const ping = p.picked === false ? '' : `<circle cx="${x}" cy="${y}" r="${size}" class="ping" style="animation-delay:${delay}"/>`;
+    return `${ping}<circle cx="${x}" cy="${y}" r="${size}" class="dot${p.picked === false ? ' is-rest' : ''}" style="animation-delay:${delay}" data-dot="${esc(p.id)}" tabindex="0" aria-label="${esc(p.source)}"/>`;
   }).join('');
-  return `<div class="radar"><svg viewBox="-110 -40 ${R.size + 220} ${R.size + 80}" role="img" aria-label="радар сигналов">${rings}<g class="sweep" style="transform-origin:${c}px ${c}px">${wedges}<line x1="${c}" y1="${c}" x2="${bx.toFixed(1)}" y2="${by.toFixed(1)}" class="beam"/></g>${sectors}${dots}</svg><p class="legend">сектор – площадка · ближе к центру – свежее · крупнее – больше просмотров внутри площадки</p><div class="pop" id="pop" hidden></div></div>`;
+  return `<div class="radar"><svg viewBox="-110 -40 ${R.size + 220} ${R.size + 80}" role="img" aria-label="радар сигналов">${rings}<g class="sweep" style="transform-origin:${c}px ${c}px">${wedges}<line x1="${c}" y1="${c}" x2="${bx.toFixed(1)}" y2="${by.toFixed(1)}" class="beam"/></g>${sectors}${dots}</svg><p class="legend">сектор – площадка · ближе к центру – свежее · крупнее – больше просмотров внутри площадки · залитые – в срезе, полые – остальные посты авторов за окно</p><div class="pop" id="pop" hidden></div></div>`;
 }
 
 function fitRadar() {
@@ -209,7 +210,9 @@ function setParam(key, value, empty) {
 }
 
 function renderDigest() {
-  const all = state.data.signals || [];
+  // Плитка – посты, которые бывали в срезе; радар – все посты авторов за окно.
+  const every = state.data.signals || [];
+  const all = state.layout === 'radar' ? every : every.filter((p) => p.picked !== false);
   const present = PLATFORMS.filter((p) => all.some((x) => x.platform === p));
   const chip = (v, label, n) => `<button type="button" class="chip${state.platform === v ? ' is-active' : ''}" data-platform="${v}">${label} <b>${n}</b></button>`;
   el('platforms').innerHTML = [chip('all', 'все', all.length), ...present.map((p) => chip(p, p, all.filter((x) => x.platform === p).length))].join('');

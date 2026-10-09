@@ -43,7 +43,7 @@ const byId = new Map(data.signals.map((s) => [s.id, s]));
 const digest = (data.digest || []).map((id) => byId.get(id)).filter(Boolean);
 const aboutQueue = [
   ...digest.filter((p) => !p.about),
-  ...data.signals.filter((p) => !p.about && !digest.includes(p)).sort((a, b) => new Date(b.posted_at) - new Date(a.posted_at)),
+  ...data.signals.filter((p) => !p.about && p.picked !== false && !digest.includes(p)).sort((a, b) => new Date(b.posted_at) - new Date(a.posted_at)),
 ].slice(0, 20);
 
 if (!digest.length && !aboutQueue.length) {

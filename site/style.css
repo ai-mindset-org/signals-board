@@ -88,7 +88,9 @@ main { padding: 20px 32px 48px; }
 .sweep { fill: var(--hit); animation: spin 6s linear infinite; }
 .beam { stroke: var(--hit); stroke-width: 1.5; stroke-opacity: 0.8; }
 .dot { fill: var(--hit); fill-opacity: 0.22; stroke: var(--hit); stroke-opacity: 0.55; cursor: pointer; animation: glow 6s linear infinite; }
+.dot.is-rest { fill: var(--bg); fill-opacity: 1; stroke-opacity: 0.8; stroke-width: 1.5; animation: none; }
 .dot:hover, .dot.is-active { fill-opacity: 0.95; stroke-opacity: 1; animation: none; }
+.dot.is-rest:hover, .dot.is-rest.is-active { fill: var(--hit); }
 .ping { fill: none; stroke: var(--hit); stroke-width: 1.5; opacity: 0; pointer-events: none; transform-box: fill-box; transform-origin: center; animation: ping 6s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 @keyframes glow { 0% { fill-opacity: 0.95; } 35% { fill-opacity: 0.35; } 100% { fill-opacity: 0.22; } }

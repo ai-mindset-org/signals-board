@@ -366,7 +366,24 @@ async function main() {
     delete signal.media_fallback;
     signal.first_seen = before?.first_seen || now;
     for (const key of ['why', 'remake', 'about']) if (before?.[key] && !signal[key]) signal[key] = before[key];
+    signal.picked = true;
   }
+
+  // Остальные посты окна идут только на радар (picked: false), без кадра.
+  // Пост, который уже бывал в срезе, остаётся в срезе и в плитке.
+  const rest = found.filter((s) => !slice.includes(s));
+  for (const signal of rest) {
+    const before = previous.get(signal.id);
+    signal.media = before?.media || null;
+    delete signal.media_origin;
+    delete signal.media_fallback;
+    signal.first_seen = before?.first_seen || now;
+    for (const key of ['why', 'remake', 'about']) if (before?.[key] && !signal[key]) signal[key] = before[key];
+    signal.picked = before ? before.picked !== false : false;
+  }
+  const fresh = new Set([...slice, ...rest].map((s) => s.id));
+  const kept = (library.signals || []).filter((s) => !fresh.has(s.id)
+    && (s.picked !== false || new Date(s.posted_at).getTime() >= windowStart));
 
   const tally = (values) => Object.entries(values.filter(Boolean).reduce((acc, v) => ({ ...acc, [v]: (acc[v] || 0) + 1 }), {}))
     .sort((a, b) => b[1] - a[1]).map(([name, count]) => ({ name, count }));
@@ -379,7 +396,7 @@ async function main() {
     formats: { shapes: tally(slice.map((s) => s.format?.name)), of: slice.length },
     source_report: report,
     summary: library.summary || '',
-    signals: [...slice, ...(library.signals || []).filter((s) => !slice.some((t) => t.id === s.id))],
+    signals: [...slice, ...rest, ...kept],
   };
 
   if (DRY_RUN) {
@@ -388,7 +405,7 @@ async function main() {
   }
   await mkdir(path.dirname(DATA_PATH), { recursive: true });
   await writeFile(DATA_PATH, `${JSON.stringify(output, null, 1)}\n`);
-  console.log(`найдено ${found.length}, в срезе ${slice.length}, всего на борде ${output.signals.length}`);
+  console.log(`найдено ${found.length}, в срезе ${slice.length}, в плитке ${output.signals.filter((s) => s.picked !== false).length}, на радаре ${output.signals.length}`);
   for (const row of report.filter((r) => !r.ok)) console.log(`  молчит ${row.source}: ${row.error}`);
 }
 
