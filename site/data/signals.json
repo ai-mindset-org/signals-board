@@ -1,13 +1,12 @@
 {
- "generated_at": "2026-10-10T06:48:40.692Z",
+ "generated_at": "2026-10-11T06:49:37.506Z",
  "window_days": 7,
  "theme": "обучение AI",
  "digest": [
   "tiktok:7694081567911693598",
   "youtube:rxpV3QLV-pg",
-  "youtube:dDgncbBAA0c",
   "youtube:ZHVNTTKu9fU",
-  "youtube:QLv4WCKVqd0"
+  "youtube:cX2kD2yQf88"
  ],
  "formats": {
   "shapes": [
@@ -16,7 +15,7 @@
     "count": 1
    }
   ],
-  "of": 5
+  "of": 4
  },
  "source_report": [
   {
@@ -29,7 +28,7 @@
    "source": "tiktok/nate.b.jones",
    "ok": true,
    "scanned": 13,
-   "fresh": 6
+   "fresh": 5
   },
   {
    "source": "youtube/deeplearningai",
@@ -53,25 +52,25 @@
    "source": "youtube/mreflow",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "source": "youtube/matthew_berman",
    "ok": true,
    "scanned": 30,
-   "fresh": 4
+   "fresh": 5
   },
   {
    "source": "youtube/NateBJones",
    "ok": true,
    "scanned": 30,
-   "fresh": 5
+   "fresh": 4
   },
   {
    "source": "youtube/futurepedia_io",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "source": "youtube/mattvidpro",
@@ -89,7 +88,7 @@
    "source": "youtube/AllAboutAI",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   }
  ],
  "summary": "За 7 дней на YouTube в теме AI лидируют форматы тревожных заголовков и дайджестов новостей: видео про проблемы контроля моделей OpenAI набрало ≈260000 просмотров, обзор новых моделей (GPT-6.1, Sonnet 5.5, Gemini 4) – ≈153000, а тема исчезающего преимущества крупных игроков в AI – ≈146000. Узкая тема про данные и покупку старых писем Google собрала значительно меньше – ≈12000, что заметно ниже остальных в этой подборке.",
@@ -102,10 +101,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7694081567911693598",
    "title": "It takes 5 seconds. Try it and let me know your thoughts. #aihack #ai #aiprompts #artificialintelligence #aitips ",
    "posted_at": "2026-10-08T00:06:03.000Z",
-   "popularity": 766700,
+   "popularity": 821000,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 491400
+    "followers": 491600
    },
    "format": {
     "kind": "видео",
@@ -125,8 +124,8 @@
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=rxpV3QLV-pg",
    "title": "OpenAI’s “Alien Math” Is Freaking People Out",
-   "posted_at": "2026-10-09T06:48:23.719Z",
-   "popularity": 266000,
+   "posted_at": "2026-10-09T06:49:22.785Z",
+   "popularity": 454000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -142,40 +141,14 @@
    "picked": true
   },
   {
-   "id": "youtube:dDgncbBAA0c",
-   "platform": "youtube",
-   "source": "@mreflow",
-   "person": "mreflow",
-   "url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
-   "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
-   "posted_at": "2026-10-03T06:47:35.764Z",
-   "popularity": 154000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-448ca5bc3ab4.jpg",
-   "first_seen": "2026-10-09T11:42:32.203Z",
-   "why": "формат дайджеста новостей с конкретными названиями моделей собирает тех, кто хочет быть в курсе всего разом",
-   "remake": "делать регулярный дайджест новых AI-инструментов и моделей с акцентом на то, что из этого применимо в работе уже сейчас",
-   "about": "Дайджест новостей AI с обзором новых моделей: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4.",
-   "picked": true
-  },
-  {
    "id": "youtube:ZHVNTTKu9fU",
    "platform": "youtube",
    "source": "@TwoMinutePapers",
    "person": "twominutepapers",
    "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
    "title": "The Billion Dollar AI Advantage Is Disappearing",
-   "posted_at": "2026-10-06T06:47:22.245Z",
-   "popularity": 149000,
+   "posted_at": "2026-10-06T06:48:24.502Z",
+   "popularity": 152000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -194,14 +167,14 @@
    "picked": true
   },
   {
-   "id": "youtube:QLv4WCKVqd0",
+   "id": "youtube:cX2kD2yQf88",
    "platform": "youtube",
-   "source": "@futurepedia_io",
-   "person": "futurepedia_io",
-   "url": "https://www.youtube.com/watch?v=QLv4WCKVqd0",
-   "title": "The Ultimate Image Generator Showdown",
-   "posted_at": "2026-10-09T13:48:08.047Z",
-   "popularity": 8900,
+   "source": "@matthew_berman",
+   "person": "matthew_berman",
+   "url": "https://www.youtube.com/watch?v=cX2kD2yQf88",
+   "title": "Everything has been solved",
+   "posted_at": "2026-10-10T18:48:41.270Z",
+   "popularity": 129000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -212,8 +185,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-7b1f79857958.jpg",
-   "first_seen": "2026-10-10T06:48:40.692Z",
+   "media": "data/media/youtube-5c21a84248cb.jpg",
+   "first_seen": "2026-10-11T06:49:37.506Z",
    "picked": true
   },
   {
@@ -224,10 +197,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7694827035641842974",
    "title": "Share yours in the comments. #aihack #mistral #ai #artificialintelligence #aiprompts",
    "posted_at": "2026-10-10T00:18:51.000Z",
-   "popularity": 11800,
+   "popularity": 137800,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 491400
+    "followers": 491600
    },
    "format": {
     "kind": "видео",
@@ -248,10 +221,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7694456013528763678",
    "title": "That’s model vs effort in plain English. #aiexplained #ai #aitips #artificialintelligence #promptengineering ",
    "posted_at": "2026-10-09T00:19:06.000Z",
-   "popularity": 26100,
+   "popularity": 30500,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 491400
+    "followers": 491600
    },
    "format": {
     "kind": "видео",
@@ -272,10 +245,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7693706779225492767",
    "title": "We’ll all find out soon. #ainews #google #argon #ai #artificialintelligence ",
    "posted_at": "2026-10-06T23:51:41.000Z",
-   "popularity": 23800,
+   "popularity": 24400,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 491400
+    "followers": 491600
    },
    "format": {
     "kind": "видео",
@@ -296,10 +269,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7692965678474743071",
    "title": "Where's the line? You decide. #aitake #ai #law #aiethics #artificialintelligence ",
    "posted_at": "2026-10-04T23:55:50.000Z",
-   "popularity": 7011,
+   "popularity": 7203,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 491400
+    "followers": 491600
    },
    "format": {
     "kind": "видео",
@@ -313,38 +286,14 @@
    "picked": false
   },
   {
-   "id": "tiktok:7692593908458507550",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7692593908458507550",
-   "title": "Dozens of these have popped up in the last few months. #ainews #history #learnontiktok #ai #artificialintelligence ",
-   "posted_at": "2026-10-03T23:53:11.000Z",
-   "popularity": 34300,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 491400
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-c96edc147367.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": false
-  },
-  {
    "id": "youtube:Wkaw03p3BrM",
    "platform": "youtube",
    "source": "@TwoMinutePapers",
    "person": "twominutepapers",
    "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "title": "DeepMind's New AI Just Cracked The Code Of Life",
-   "posted_at": "2026-10-08T06:47:20.388Z",
-   "popularity": 131000,
+   "posted_at": "2026-10-08T06:48:22.825Z",
+   "popularity": 137000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -366,8 +315,8 @@
    "person": "mreflow",
    "url": "https://www.youtube.com/watch?v=NUizyuGj-kE",
    "title": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
-   "posted_at": "2026-10-09T15:47:33.664Z",
-   "popularity": 61000,
+   "posted_at": "2026-10-10T06:48:33.962Z",
+   "popularity": 93000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -389,8 +338,8 @@
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=BsNHg6cNjZE",
    "title": "12 Grok Bot Use Cases That Feel Illegal",
-   "posted_at": "2026-10-08T06:47:41.628Z",
-   "popularity": 39000,
+   "posted_at": "2026-10-08T06:48:43.110Z",
+   "popularity": 42000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -435,8 +384,8 @@
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=Hu1JOK6aXsI",
    "title": "Mistral is BACK! (Le Chonk)",
-   "posted_at": "2026-10-07T06:47:45.382Z",
-   "popularity": 109000,
+   "posted_at": "2026-10-07T06:48:46.503Z",
+   "popularity": 111000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -481,8 +430,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=wep2EQ9Y_Tc",
    "title": "Google Has More Data Than Almost Anyone. So Why Is It Bidding $10 Million On Old Emails?",
-   "posted_at": "2026-10-09T06:47:55.097Z",
-   "popularity": 16000,
+   "posted_at": "2026-10-09T06:48:55.617Z",
+   "popularity": 19000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -507,8 +456,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=sVQ3XlM9I40",
    "title": "Google's Gemini Argon Is #1 On A Leaderboard. It Hasn't Passed The Benchmark That Matters.",
-   "posted_at": "2026-10-08T06:47:56.941Z",
-   "popularity": 42000,
+   "posted_at": "2026-10-08T06:48:57.423Z",
+   "popularity": 44000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -530,8 +479,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=0j8wy4jUlsw",
    "title": "The end of the app era: What comes next?",
-   "posted_at": "2026-10-05T06:47:58.856Z",
-   "popularity": 105000,
+   "posted_at": "2026-10-05T06:48:59.173Z",
+   "popularity": 109000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -553,8 +502,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=lnB4Zckx_34",
    "title": "Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?",
-   "posted_at": "2026-10-04T06:48:00.671Z",
-   "popularity": 66000,
+   "posted_at": "2026-10-04T06:49:00.915Z",
+   "popularity": 68000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -570,37 +519,14 @@
    "picked": false
   },
   {
-   "id": "youtube:avN5R3OhxYs",
-   "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=avN5R3OhxYs",
-   "title": "OpenClaw Was Too Dangerous To Install. 7 Months Later Microsoft Is Bringing It To Your Company.",
-   "posted_at": "2026-10-03T06:48:02.495Z",
-   "popularity": 39000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-ad4893664b98.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:OiP0YBHLjqo",
+   "id": "youtube:QLv4WCKVqd0",
    "platform": "youtube",
    "source": "@futurepedia_io",
    "person": "futurepedia_io",
-   "url": "https://www.youtube.com/watch?v=OiP0YBHLjqo",
-   "title": "Gemini Skills Are Finally Here (Master in 9 Minutes)",
-   "posted_at": "2026-10-03T06:48:10.090Z",
-   "popularity": 68000,
+   "url": "https://www.youtube.com/watch?v=QLv4WCKVqd0",
+   "title": "The Ultimate Image Generator Showdown",
+   "posted_at": "2026-10-10T06:49:08.208Z",
+   "popularity": 14000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -611,9 +537,9 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-fbcdcf0d929d.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": false
+   "media": "data/media/youtube-7b1f79857958.jpg",
+   "first_seen": "2026-10-10T06:48:40.692Z",
+   "picked": true
   },
   {
    "id": "youtube:nexQA1qdExw",
@@ -621,9 +547,9 @@
    "source": "@mattvidpro",
    "person": "mattvidpro",
    "url": "https://www.youtube.com/watch?v=nexQA1qdExw",
-   "title": "I Built a Tornado Mod for Red Dead 2 with Claude (free)",
-   "posted_at": "2026-10-09T22:48:15.858Z",
-   "popularity": 2700,
+   "title": "AI Modded a TORNADO into Red Dead Redemption 2",
+   "posted_at": "2026-10-10T06:49:15.518Z",
+   "popularity": 8800,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -645,8 +571,8 @@
    "person": "mattvidpro",
    "url": "https://www.youtube.com/watch?v=COgSlYOwEaI",
    "title": "Create WILD Seamless AI Intros (Full Workflow)",
-   "posted_at": "2026-10-09T06:48:17.679Z",
-   "popularity": 7500,
+   "posted_at": "2026-10-09T06:49:17.255Z",
+   "popularity": 8300,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -668,8 +594,8 @@
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
    "title": "OpenAI's secret model just BROKE math...",
-   "posted_at": "2026-10-07T06:48:25.602Z",
-   "popularity": 140000,
+   "posted_at": "2026-10-07T06:49:24.733Z",
+   "popularity": 141000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -691,8 +617,8 @@
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=9CGsq3A590Q",
    "title": "OpenAI's employee's WARNING",
-   "posted_at": "2026-10-05T06:48:27.512Z",
-   "popularity": 131000,
+   "posted_at": "2026-10-05T06:49:26.659Z",
+   "popularity": 132000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -714,8 +640,8 @@
    "person": "allaboutai",
    "url": "https://www.youtube.com/watch?v=-jgGCvwBz3Q",
    "title": "Start Using AI Predictions To Beat The Market Today (beginner's guide)",
-   "posted_at": "2026-10-07T06:48:35.337Z",
-   "popularity": 6200,
+   "posted_at": "2026-10-07T06:49:32.462Z",
+   "popularity": 6300,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -731,14 +657,14 @@
    "picked": false
   },
   {
-   "id": "youtube:TD0VZSWmUoQ",
+   "id": "youtube:dDgncbBAA0c",
    "platform": "youtube",
-   "source": "@AllAboutAI",
-   "person": "allaboutai",
-   "url": "https://www.youtube.com/watch?v=TD0VZSWmUoQ",
-   "title": "Opus 5.5 Is INSANE: Day Trader Tycoon (with real money)",
-   "posted_at": "2026-10-03T06:48:37.342Z",
-   "popularity": 15000,
+   "source": "@mreflow",
+   "person": "mreflow",
+   "url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
+   "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
+   "posted_at": "2026-10-03T06:47:35.764Z",
+   "popularity": 154000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -749,9 +675,12 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-c49dda52faa8.jpg",
-   "first_seen": "2026-10-09T12:21:04.495Z",
-   "picked": false
+   "media": "data/media/youtube-448ca5bc3ab4.jpg",
+   "first_seen": "2026-10-09T11:42:32.203Z",
+   "why": "формат дайджеста новостей с конкретными названиями моделей собирает тех, кто хочет быть в курсе всего разом",
+   "remake": "делать регулярный дайджест новых AI-инструментов и моделей с акцентом на то, что из этого применимо в работе уже сейчас",
+   "about": "Дайджест новостей AI с обзором новых моделей: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4.",
+   "picked": true
   },
   {
    "id": "youtube:_rtp1XzaP6Q",
