@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T09:29:16.986Z",
+ "generated_at": "2026-10-22T10:19:39.231Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,44 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Duet",
-   "ok": false,
-   "error": "на странице поиска нет ytInitialData"
-  },
-  {
-   "source": "tiktok: Claude Duet",
+   "source": "youtube: NATO’s Maven",
    "ok": true
   },
   {
-   "source": "youtube: anthropic muse claude duet",
+   "source": "tiktok: NATO’s Maven",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic muse claude duet",
+   "source": "youtube: palantir nato maven cannot",
    "ok": true
   },
   {
-   "source": "youtube: walmart",
-   "ok": true
-  },
-  {
-   "source": "tiktok: walmart",
-   "ok": true
-  },
-  {
-   "source": "youtube: Startup That Uses Brain Implants",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Startup That Uses Brain Implants",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai invests startup uses",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai invests startup uses",
+   "source": "tiktok: palantir nato maven cannot",
    "ok": true
   }
  ],
@@ -630,6 +605,37 @@
     "why_now": "никто еще не снял ролик по этой новости, можно быть первыми",
     "verdict": "gap"
    }
+  },
+  {
+   "first_seen": "2026-10-22T10:19:39.231Z",
+   "id": "39331149",
+   "ids": [
+    "39331149",
+    "39333191"
+   ],
+   "title": "Palantir says it cannot switch off NATO’s Maven AI system",
+   "url": "https://thenextweb.com/news/palantir-says-it-cannot-switch-off-natos-maven-ai-system",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-22 07:41:54",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Palantir says it cannot shut off NATO AI systems",
+     "url": "https://www.reuters.com/business/media-telecom/palantir-says-it-cannot-shut-off-nato-ai-system-europeans-fear-us-tech-2026-10-22/"
+    }
+   ],
+   "queries": [
+    "NATO’s Maven",
+    "palantir nato maven cannot"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-22T10:19:46.667Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
