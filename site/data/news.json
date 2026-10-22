@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T20:17:00.949Z",
+ "generated_at": "2026-10-22T20:41:23.160Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: unauthorized us ai agents",
+   "source": "youtube: Grok Bot",
    "ok": true
   },
   {
-   "source": "tiktok: unauthorized us ai agents",
+   "source": "tiktok: Grok Bot",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic grok bot meta",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic grok bot meta",
    "ok": true
   }
  ],
@@ -528,22 +536,22 @@
      "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
      "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
      "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 152908,
-     "age_hours": 16,
+     "views": 190279,
+     "age_hours": 22,
      "relevance": 0.5,
-     "velocity": 9557
+     "velocity": 8649
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:HYb5w4PfPZM",
-     "url": "https://www.youtube.com/watch?v=HYb5w4PfPZM",
-     "title": "I tested Claude Duet. Is it worth switching from Grok Bot?",
-     "channel": "How I AI",
-     "views": 28215,
-     "age_hours": 17,
+     "id": "youtube:PkrjD2IOCm4",
+     "url": "https://www.youtube.com/watch?v=PkrjD2IOCm4",
+     "title": "Claude Duet is the Grok Bot Killer? (LIVE TEST)",
+     "channel": "Brock Mesarich | AI for Non Techies",
+     "views": 14017,
+     "age_hours": 6,
      "relevance": 0.57,
-     "velocity": 1660
+     "velocity": 2336
     },
     {
      "platform": "youtube",
@@ -552,10 +560,34 @@
      "url": "https://www.youtube.com/watch?v=lhA5zHxkr8o",
      "title": "NEW Claude Duet: The Anthropic Agent That Works For You",
      "channel": "Juan Pe Navarro | IA y Automatización",
-     "views": 24449,
-     "age_hours": 15,
+     "views": 32338,
+     "age_hours": 22,
      "relevance": 0.8,
-     "velocity": 1630
+     "velocity": 1470
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HYb5w4PfPZM",
+     "url": "https://www.youtube.com/watch?v=HYb5w4PfPZM",
+     "title": "I tested Claude Duet. Is it worth switching from Grok Bot?",
+     "channel": "How I AI",
+     "views": 34400,
+     "age_hours": 24,
+     "relevance": 0.57,
+     "velocity": 1433
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0sI-GTYetD8",
+     "url": "https://www.youtube.com/shorts/0sI-GTYetD8",
+     "title": "Claude Duet: Anthropic's Proactive Agent",
+     "channel": "",
+     "views": 33000,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -564,41 +596,17 @@
      "url": "https://www.youtube.com/watch?v=rOVomdnWhjQ",
      "title": "Grok Bot 201",
      "channel": "Grok",
-     "views": 16408,
-     "age_hours": 18,
+     "views": 19437,
+     "age_hours": 24,
      "relevance": 0.67,
-     "velocity": 912
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NhrXdX_93Hc",
-     "url": "https://www.youtube.com/watch?v=NhrXdX_93Hc",
-     "title": "Grok Bot for Admins",
-     "channel": "Grok",
-     "views": 7210,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 451
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:U3S4OQl8qwA",
-     "url": "https://www.youtube.com/watch?v=U3S4OQl8qwA",
-     "title": "Grok Bot vs Muse vs Dots: Which One Is Right for You?",
-     "channel": "Christian Peverelli",
-     "views": 5835,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 343
+     "velocity": 810
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-22T14:18:18.588Z"
+   "searched_at": "2026-10-22T20:41:31.008Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -786,7 +794,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-10-22 13:20:53",
    "story_sources": 2,
-   "score_norm": 49,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "in-inc42",
