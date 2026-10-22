@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T17:50:15.459Z",
+ "generated_at": "2026-10-22T18:20:37.422Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Lets You Chat With DNA",
+   "source": "youtube: ChatGPT Work",
    "ok": true
   },
   {
-   "source": "tiktok: Lets You Chat With DNA",
+   "source": "tiktok: ChatGPT Work",
    "ok": true
   },
   {
-   "source": "youtube: hugging face biology lets",
+   "source": "youtube: uber 30 000 chatgpt",
    "ok": true
   },
   {
-   "source": "tiktok: hugging face biology lets",
+   "source": "tiktok: uber 30 000 chatgpt",
    "ok": true
   }
  ],
@@ -35,17 +35,22 @@
     "39333910",
     "39340261"
    ],
-   "title": "Anthropic introduces Claude Duet, a proactive AI agent for professionals",
-   "url": "https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-10-22 13:20:53",
-   "story_sources": 3,
+   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "source_id": "theverge",
+   "published_ts": "2026-10-21 19:53:20",
+   "story_sources": 4,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "theverge",
-     "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+     "source_id": "siliconangle-ai",
+     "title": "Anthropic introduces Claude Duet, a proactive AI agent for professionals",
+     "url": "https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/"
+    },
+    {
+     "source_id": "eu-tnw",
+     "title": "Anthropic previews Claude Duet, an AI agent that works in the background",
+     "url": "https://thenextweb.com/news/anthropic-claude-duet-ai-agent"
     },
     {
      "source_id": "in-inc42",
@@ -163,7 +168,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 18:51:56",
    "story_sources": 3,
-   "score_norm": 95,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -225,264 +230,50 @@
    }
   },
   {
-   "first_seen": "2026-10-22T14:18:10.571Z",
-   "id": "39338145",
+   "first_seen": "2026-10-22T18:20:37.422Z",
+   "id": "39343529",
    "ids": [
-    "39338145",
-    "39329557",
-    "39323382"
+    "39343529",
+    "39344540"
    ],
-   "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
-   "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-10-22 08:35:22",
-   "story_sources": 3,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "sea-lowyat",
-     "title": "Anthropic Unveils Claude Duet Personal Agent To Rival OpenAI Dots, Meta Muse",
-     "url": "https://www.lowyat.net/2026/408109/anthropic-claude-duet-personal-agent/"
-    },
-    {
-     "source_id": "engadget",
-     "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
-     "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/"
-    }
-   ],
-   "queries": [
-    "Grok Bot",
-    "anthropic grok bot meta"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nv1aaP3dHzs",
-     "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
-     "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 152908,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 9557
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HYb5w4PfPZM",
-     "url": "https://www.youtube.com/watch?v=HYb5w4PfPZM",
-     "title": "I tested Claude Duet. Is it worth switching from Grok Bot?",
-     "channel": "How I AI",
-     "views": 28215,
-     "age_hours": 17,
-     "relevance": 0.57,
-     "velocity": 1660
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lhA5zHxkr8o",
-     "url": "https://www.youtube.com/watch?v=lhA5zHxkr8o",
-     "title": "NEW Claude Duet: The Anthropic Agent That Works For You",
-     "channel": "Juan Pe Navarro | IA y Automatización",
-     "views": 24449,
-     "age_hours": 15,
-     "relevance": 0.8,
-     "velocity": 1630
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rOVomdnWhjQ",
-     "url": "https://www.youtube.com/watch?v=rOVomdnWhjQ",
-     "title": "Grok Bot 201",
-     "channel": "Grok",
-     "views": 16408,
-     "age_hours": 18,
-     "relevance": 0.67,
-     "velocity": 912
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NhrXdX_93Hc",
-     "url": "https://www.youtube.com/watch?v=NhrXdX_93Hc",
-     "title": "Grok Bot for Admins",
-     "channel": "Grok",
-     "views": 7210,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 451
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:U3S4OQl8qwA",
-     "url": "https://www.youtube.com/watch?v=U3S4OQl8qwA",
-     "title": "Grok Bot vs Muse vs Dots: Which One Is Right for You?",
-     "channel": "Christian Peverelli",
-     "views": 5835,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 343
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-22T14:18:18.588Z"
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39323714",
-   "ids": [
-    "39323714",
-    "39325410"
-   ],
-   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-21 20:57:40",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation",
-     "url": "https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/"
-    }
-   ],
-   "queries": [
-    "Flapping Airplanes",
-    "year-old flapping airplanes 1b"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:K9s9QQSfZrY",
-     "url": "https://www.youtube.com/watch?v=K9s9QQSfZrY",
-     "title": "Flapping Airplanes Secures 1B, Valued at 6B",
-     "channel": "Ship Log",
-     "views": 15,
-     "age_hours": 18,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bFNnxYNMtL4",
-     "url": "https://www.youtube.com/watch?v=bFNnxYNMtL4",
-     "title": "AI lab Flapping Airplanes raises $1B at a $6B valuation; plus, Recursive launches Flint, a laptop...",
-     "channel": "SpokenLayer",
-     "views": 5,
-     "age_hours": 8,
-     "relevance": 0.89,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zYqAu7NxDwg",
-     "url": "https://www.youtube.com/shorts/zYqAu7NxDwg",
-     "title": "What Is Flapping Airplanes? The New $6B AI Lab Explained",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:I-S1QD-gUQE",
-     "url": "https://www.youtube.com/shorts/I-S1QD-gUQE",
-     "title": "Flapping Airplanes Secures 1B, Valued at 6B #shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RRJN-xk5PIw",
-     "url": "https://www.youtube.com/shorts/RRJN-xk5PIw",
-     "title": "Flapping Airplanes raises $1B at $6B valuation to make AI m…",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-VbQzGDOe2I",
-     "url": "https://www.youtube.com/shorts/-VbQzGDOe2I",
-     "title": "Flapping Airplanes raises $1 Billion in Series A",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T15:42:08.169Z",
-   "queries_llm": [
-    "Flapping Airplanes AI lab funding",
-    "Flapping Airplanes $6B valuation",
-    "Flapping Airplanes startup explained"
-   ],
-   "pitch": {
-    "text": "Короткое объяснение, кто такие Flapping Airplanes и почему их оценка в 6 млрд важна для рынка AI-инструментов",
-    "format": "reels/shorts 30-45 с",
-    "hook": "Годовалый AI-стартап привлек миллиард долларов – кто это",
-    "why_now": "просмотры у всех роликов минимальные, тема свежая и почти никем толком не раскрыта",
-    "verdict": "early"
-   }
-  },
-  {
-   "first_seen": "2026-10-22T11:41:16.006Z",
-   "id": "39334478",
-   "ids": [
-    "39334478",
-    "39334119"
-   ],
-   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-   "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-   "source_id": "x-wired",
-   "published_ts": "2026-10-22 10:00:00",
+   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-10-22 16:00:00",
    "story_sources": 2,
    "score_norm": 75,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Hugging Face model lets you chat with your DNA",
-     "url": "https://huggingface.co/spaces/HuggingFaceBio/Carbon-X-Release"
+     "source_id": "openai-blog",
+     "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+     "url": "https://openai.com/index/uber-chatgpt-work-rollout"
     }
    ],
    "queries": [
-    "Lets You Chat With DNA",
-    "hugging face biology lets"
+    "ChatGPT Work",
+    "uber 30 000 chatgpt"
    ],
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l16Gw7oVLNQ",
+     "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
+     "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
+     "channel": "OpenAI",
+     "views": 361,
+     "age_hours": 0.3333333333333333,
+     "relevance": 0.75,
+     "velocity": 361
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:N1p9AcaNlV4",
-     "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
-     "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
+     "id": "youtube:AX17Jwdx7P8",
+     "url": "https://www.youtube.com/shorts/AX17Jwdx7P8",
+     "title": "How Does ChatGPT Actually Work? 🤖",
      "channel": "",
-     "views": 36,
+     "views": 224,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -490,9 +281,33 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:EUHov0ZfFuc",
-     "url": "https://www.youtube.com/shorts/EUHov0ZfFuc",
-     "title": "Hugging Face s New AI Biology Model Lets You Chat With DNA",
+     "id": "youtube:kKvor9MQI2A",
+     "url": "https://www.youtube.com/shorts/kKvor9MQI2A",
+     "title": "How does chatgpt actually work .",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AnR1Ohphp58",
+     "url": "https://www.youtube.com/shorts/AnR1Ohphp58",
+     "title": "Uber Gives ChatGPT Work To Its Whole Company",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kK7RNnACzP4",
+     "url": "https://www.youtube.com/shorts/kK7RNnACzP4",
+     "title": "BREAKING: Uber puts all 30,000 employees on ChatGPT Work | #Shorts",
      "channel": "",
      "views": 0,
      "age_hours": null,
@@ -504,116 +319,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-22T17:50:23.717Z"
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39322301",
-   "ids": [
-    "39322301",
-    "39331730"
-   ],
-   "title": "Walmart is inviting AI agents to shop for you",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-   "source_id": "theverge",
-   "published_ts": "2026-10-21 19:30:00",
-   "story_sources": 2,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Walmart launches tools for AI agents to shop for customers",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/walmart-launches-tools-for-ai-agents-to-shop-for-customers-10931735/"
-    }
-   ],
-   "queries": [
-    "walmart inviting ai agents",
-    "Walmart AI shopping agents"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:icLU6RYKm2M",
-     "url": "https://www.youtube.com/watch?v=icLU6RYKm2M",
-     "title": "Walmart Agent Gateway: Why Walmart Is Welcoming AI Shopping Agents",
-     "channel": "Quantum Synergy",
-     "views": 8,
-     "age_hours": 15,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:i9OOTYYANbs",
-     "url": "https://www.youtube.com/watch?v=i9OOTYYANbs",
-     "title": "Amazon (AMZN): Blocks AI shopping agents as Walmart lets them buy | Oct 22, 2026",
-     "channel": "Stock News Daily",
-     "views": 2,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Pqqen_CXhhs",
-     "url": "https://www.youtube.com/watch?v=Pqqen_CXhhs",
-     "title": "Why Walmart Is Letting AI Shopping Agents In | Decoding Retail",
-     "channel": "THE RETAIL PODCAST",
-     "views": 5,
-     "age_hours": 10,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ey30e1ceka8",
-     "url": "https://www.youtube.com/shorts/ey30e1ceka8",
-     "title": "Would You Let an AI Shop at Walmart for You? Agent Profiles, Explained #shorts",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lAJbnKBQqXM",
-     "url": "https://www.youtube.com/shorts/lAJbnKBQqXM",
-     "title": "Walmart Just Let AI Shop For You! 🤖 #shorts",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YyGrui97pPg",
-     "url": "https://www.youtube.com/shorts/YyGrui97pPg",
-     "title": "Walmart AI Agents: Welcome Mat With a Leash (Checked)",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T15:42:15.336Z",
-   "queries_llm": [
-    "Walmart AI shopping agents",
-    "Walmart AI agents shop for you",
-    "Walmart AI commerce agents"
-   ]
+   "searched_at": "2026-10-22T18:20:45.232Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -732,6 +438,397 @@
    }
   },
   {
+   "first_seen": "2026-10-22T14:18:10.571Z",
+   "id": "39338145",
+   "ids": [
+    "39338145",
+    "39329557",
+    "39323382"
+   ],
+   "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+   "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-10-22 08:35:22",
+   "story_sources": 3,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "sea-lowyat",
+     "title": "Anthropic Unveils Claude Duet Personal Agent To Rival OpenAI Dots, Meta Muse",
+     "url": "https://www.lowyat.net/2026/408109/anthropic-claude-duet-personal-agent/"
+    },
+    {
+     "source_id": "engadget",
+     "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+     "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/"
+    }
+   ],
+   "queries": [
+    "Grok Bot",
+    "anthropic grok bot meta"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nv1aaP3dHzs",
+     "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
+     "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
+     "channel": "Brock Mesarich | AI for Non Techies",
+     "views": 152908,
+     "age_hours": 16,
+     "relevance": 0.5,
+     "velocity": 9557
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HYb5w4PfPZM",
+     "url": "https://www.youtube.com/watch?v=HYb5w4PfPZM",
+     "title": "I tested Claude Duet. Is it worth switching from Grok Bot?",
+     "channel": "How I AI",
+     "views": 28215,
+     "age_hours": 17,
+     "relevance": 0.57,
+     "velocity": 1660
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lhA5zHxkr8o",
+     "url": "https://www.youtube.com/watch?v=lhA5zHxkr8o",
+     "title": "NEW Claude Duet: The Anthropic Agent That Works For You",
+     "channel": "Juan Pe Navarro | IA y Automatización",
+     "views": 24449,
+     "age_hours": 15,
+     "relevance": 0.8,
+     "velocity": 1630
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rOVomdnWhjQ",
+     "url": "https://www.youtube.com/watch?v=rOVomdnWhjQ",
+     "title": "Grok Bot 201",
+     "channel": "Grok",
+     "views": 16408,
+     "age_hours": 18,
+     "relevance": 0.67,
+     "velocity": 912
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NhrXdX_93Hc",
+     "url": "https://www.youtube.com/watch?v=NhrXdX_93Hc",
+     "title": "Grok Bot for Admins",
+     "channel": "Grok",
+     "views": 7210,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 451
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:U3S4OQl8qwA",
+     "url": "https://www.youtube.com/watch?v=U3S4OQl8qwA",
+     "title": "Grok Bot vs Muse vs Dots: Which One Is Right for You?",
+     "channel": "Christian Peverelli",
+     "views": 5835,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 343
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-22T14:18:18.588Z"
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39323714",
+   "ids": [
+    "39323714",
+    "39325410"
+   ],
+   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-21 20:57:40",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation",
+     "url": "https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/"
+    }
+   ],
+   "queries": [
+    "Flapping Airplanes",
+    "year-old flapping airplanes 1b"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:K9s9QQSfZrY",
+     "url": "https://www.youtube.com/watch?v=K9s9QQSfZrY",
+     "title": "Flapping Airplanes Secures 1B, Valued at 6B",
+     "channel": "Ship Log",
+     "views": 15,
+     "age_hours": 18,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bFNnxYNMtL4",
+     "url": "https://www.youtube.com/watch?v=bFNnxYNMtL4",
+     "title": "AI lab Flapping Airplanes raises $1B at a $6B valuation; plus, Recursive launches Flint, a laptop...",
+     "channel": "SpokenLayer",
+     "views": 5,
+     "age_hours": 8,
+     "relevance": 0.89,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zYqAu7NxDwg",
+     "url": "https://www.youtube.com/shorts/zYqAu7NxDwg",
+     "title": "What Is Flapping Airplanes? The New $6B AI Lab Explained",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I-S1QD-gUQE",
+     "url": "https://www.youtube.com/shorts/I-S1QD-gUQE",
+     "title": "Flapping Airplanes Secures 1B, Valued at 6B #shorts",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RRJN-xk5PIw",
+     "url": "https://www.youtube.com/shorts/RRJN-xk5PIw",
+     "title": "Flapping Airplanes raises $1B at $6B valuation to make AI m…",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-VbQzGDOe2I",
+     "url": "https://www.youtube.com/shorts/-VbQzGDOe2I",
+     "title": "Flapping Airplanes raises $1 Billion in Series A",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T15:42:08.169Z",
+   "queries_llm": [
+    "Flapping Airplanes AI lab funding",
+    "Flapping Airplanes $6B valuation",
+    "Flapping Airplanes startup explained"
+   ],
+   "pitch": {
+    "text": "Короткое объяснение, кто такие Flapping Airplanes и почему их оценка в 6 млрд важна для рынка AI-инструментов",
+    "format": "reels/shorts 30-45 с",
+    "hook": "Годовалый AI-стартап привлек миллиард долларов – кто это",
+    "why_now": "просмотры у всех роликов минимальные, тема свежая и почти никем толком не раскрыта",
+    "verdict": "early"
+   }
+  },
+  {
+   "first_seen": "2026-10-22T11:41:16.006Z",
+   "id": "39334478",
+   "ids": [
+    "39334478",
+    "39334119"
+   ],
+   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+   "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "source_id": "x-wired",
+   "published_ts": "2026-10-22 10:00:00",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Hugging Face model lets you chat with your DNA",
+     "url": "https://huggingface.co/spaces/HuggingFaceBio/Carbon-X-Release"
+    }
+   ],
+   "queries": [
+    "Lets You Chat With DNA",
+    "hugging face biology lets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:N1p9AcaNlV4",
+     "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
+     "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
+     "channel": "",
+     "views": 36,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:EUHov0ZfFuc",
+     "url": "https://www.youtube.com/shorts/EUHov0ZfFuc",
+     "title": "Hugging Face s New AI Biology Model Lets You Chat With DNA",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T17:50:23.717Z"
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322301",
+   "ids": [
+    "39322301",
+    "39331730"
+   ],
+   "title": "Walmart is inviting AI agents to shop for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+   "source_id": "theverge",
+   "published_ts": "2026-10-21 19:30:00",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Walmart launches tools for AI agents to shop for customers",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/walmart-launches-tools-for-ai-agents-to-shop-for-customers-10931735/"
+    }
+   ],
+   "queries": [
+    "walmart inviting ai agents",
+    "Walmart AI shopping agents"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:icLU6RYKm2M",
+     "url": "https://www.youtube.com/watch?v=icLU6RYKm2M",
+     "title": "Walmart Agent Gateway: Why Walmart Is Welcoming AI Shopping Agents",
+     "channel": "Quantum Synergy",
+     "views": 8,
+     "age_hours": 15,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:i9OOTYYANbs",
+     "url": "https://www.youtube.com/watch?v=i9OOTYYANbs",
+     "title": "Amazon (AMZN): Blocks AI shopping agents as Walmart lets them buy | Oct 22, 2026",
+     "channel": "Stock News Daily",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Pqqen_CXhhs",
+     "url": "https://www.youtube.com/watch?v=Pqqen_CXhhs",
+     "title": "Why Walmart Is Letting AI Shopping Agents In | Decoding Retail",
+     "channel": "THE RETAIL PODCAST",
+     "views": 5,
+     "age_hours": 10,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ey30e1ceka8",
+     "url": "https://www.youtube.com/shorts/ey30e1ceka8",
+     "title": "Would You Let an AI Shop at Walmart for You? Agent Profiles, Explained #shorts",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lAJbnKBQqXM",
+     "url": "https://www.youtube.com/shorts/lAJbnKBQqXM",
+     "title": "Walmart Just Let AI Shop For You! 🤖 #shorts",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YyGrui97pPg",
+     "url": "https://www.youtube.com/shorts/YyGrui97pPg",
+     "title": "Walmart AI Agents: Welcome Mat With a Leash (Checked)",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T15:42:15.336Z",
+   "queries_llm": [
+    "Walmart AI shopping agents",
+    "Walmart AI agents shop for you",
+    "Walmart AI commerce agents"
+   ]
+  },
+  {
    "first_seen": "2026-10-22T10:19:39.231Z",
    "id": "39331149",
    "ids": [
@@ -743,7 +840,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-22 07:41:54",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 53,
    "related_news": [
     {
      "source_id": "hn",
@@ -791,7 +888,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-10-22 06:16:53",
    "story_sources": 2,
-   "score_norm": 56,
+   "score_norm": 46,
    "related_news": [
     {
      "source_id": "sea-techinasia",
