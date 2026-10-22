@@ -38,7 +38,10 @@ jobs:
         id: gate
         env:
           NEWS_ENABLED: ${{ vars.NEWS_ENABLED }}
-        run: node -e "process.stdout.write('on=' + (process.env.NEWS_ENABLED === '1' || require('./signals.config.json').news?.enabled ? '1' : '0') + '\n')" >> "$GITHUB_OUTPUT"
+        # Блок «|»: в строке после «run:» YAML читает «: '0'» как новое поле,
+        # и весь файл перестаёт разбираться.
+        run: |
+          node -e "process.stdout.write('on=' + (process.env.NEWS_ENABLED === '1' || require('./signals.config.json').news?.enabled ? '1' : '0') + '\n')" >> "$GITHUB_OUTPUT"
       - name: Новости и поиск роликов
         if: steps.gate.outputs.on == '1'
         env:
