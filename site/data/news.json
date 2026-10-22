@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T12:26:39.894Z",
+ "generated_at": "2026-10-22T13:19:27.569Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -87,6 +87,128 @@
     "hook": "Юридический AI-стартап стоит почти 9 миллиардов – почему",
     "why_now": "тему почти не снимают и просмотры минимальные, есть шанс закрыть нишу раньше других",
     "verdict": "early"
+   }
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322408",
+   "ids": [
+    "39322408",
+    "39331034",
+    "39333910"
+   ],
+   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "source_id": "theverge",
+   "published_ts": "2026-10-21 19:53:20",
+   "story_sources": 3,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Anthropic previews Claude Duet, an AI agent that works in the background",
+     "url": "https://thenextweb.com/news/anthropic-claude-duet-ai-agent"
+    },
+    {
+     "source_id": "in-inc42",
+     "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
+     "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/"
+    }
+   ],
+   "queries": [
+    "Claude Duet",
+    "anthropic muse claude duet"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nv1aaP3dHzs",
+     "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
+     "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
+     "channel": "Brock Mesarich | AI for Non Techies",
+     "views": 123359,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 11214
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nkY917A5Ygw",
+     "url": "https://www.youtube.com/watch?v=nkY917A5Ygw",
+     "title": "Claude Duet Is Here: What It Is & How to Get In",
+     "channel": "Marty AI",
+     "views": 367,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 61
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FQHEPxhHNII",
+     "url": "https://www.youtube.com/watch?v=FQHEPxhHNII",
+     "title": "Claude Duet: Claude’s New AI Agent Is Here",
+     "channel": "Julian Goldie SEO",
+     "views": 60,
+     "age_hours": 1,
+     "relevance": 0.8,
+     "velocity": 60
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rhdlfTJFOH4",
+     "url": "https://www.youtube.com/shorts/rhdlfTJFOH4",
+     "title": "What is Claude Duet?",
+     "channel": "",
+     "views": 1300,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:e0YEXNjaJFQ",
+     "url": "https://www.youtube.com/shorts/e0YEXNjaJFQ",
+     "title": "Claude Duet: Anthropic's New AI Assistant Explained",
+     "channel": "",
+     "views": 1300,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_eY1lyoYKqE",
+     "url": "https://www.youtube.com/shorts/_eY1lyoYKqE",
+     "title": "Anthropic LAUNCHES Claude Duet, an AI Agent That Starts Work Before You Ask",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-22T09:29:25.830Z",
+   "queries_llm": [
+    "Claude Duet how to use",
+    "Claude Duet workflow examples",
+    "Claude Duet agent tutorial"
+   ],
+   "pitch": {
+    "text": "Не снимать отдельный ролик про запуск – сделать практический разбор, как использовать Claude Duet в рабочих задачах",
+    "format": "разбор 6-10 мин",
+    "hook": "Claude Duet уже обсуждают все – а вот как его применять в работе",
+    "why_now": "тема уже залетает с сотнями тысяч просмотров, конкурировать с анонсом смысла нет, но есть ниша практического применения",
+    "verdict": "covered"
    }
   },
   {
@@ -217,7 +339,7 @@
    "source_id": "x-wired",
    "published_ts": "2026-10-22 10:00:00",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -355,123 +477,6 @@
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39322408",
-   "ids": [
-    "39322408",
-    "39331034",
-    "39333910"
-   ],
-   "title": "Anthropic previews Claude Duet, an AI agent that works in the background",
-   "url": "https://thenextweb.com/news/anthropic-claude-duet-ai-agent",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-22 10:27:32",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "theverge",
-     "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
-    }
-   ],
-   "queries": [
-    "Claude Duet",
-    "anthropic muse claude duet"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nv1aaP3dHzs",
-     "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
-     "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 123359,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 11214
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nkY917A5Ygw",
-     "url": "https://www.youtube.com/watch?v=nkY917A5Ygw",
-     "title": "Claude Duet Is Here: What It Is & How to Get In",
-     "channel": "Marty AI",
-     "views": 367,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 61
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FQHEPxhHNII",
-     "url": "https://www.youtube.com/watch?v=FQHEPxhHNII",
-     "title": "Claude Duet: Claude’s New AI Agent Is Here",
-     "channel": "Julian Goldie SEO",
-     "views": 60,
-     "age_hours": 1,
-     "relevance": 0.8,
-     "velocity": 60
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rhdlfTJFOH4",
-     "url": "https://www.youtube.com/shorts/rhdlfTJFOH4",
-     "title": "What is Claude Duet?",
-     "channel": "",
-     "views": 1300,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:e0YEXNjaJFQ",
-     "url": "https://www.youtube.com/shorts/e0YEXNjaJFQ",
-     "title": "Claude Duet: Anthropic's New AI Assistant Explained",
-     "channel": "",
-     "views": 1300,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_eY1lyoYKqE",
-     "url": "https://www.youtube.com/shorts/_eY1lyoYKqE",
-     "title": "Anthropic LAUNCHES Claude Duet, an AI Agent That Starts Work Before You Ask",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-22T09:29:25.830Z",
-   "queries_llm": [
-    "Claude Duet how to use",
-    "Claude Duet workflow examples",
-    "Claude Duet agent tutorial"
-   ],
-   "pitch": {
-    "text": "Не снимать отдельный ролик про запуск – сделать практический разбор, как использовать Claude Duet в рабочих задачах",
-    "format": "разбор 6-10 мин",
-    "hook": "Claude Duet уже обсуждают все – а вот как его применять в работе",
-    "why_now": "тема уже залетает с сотнями тысяч просмотров, конкурировать с анонсом смысла нет, но есть ниша практического применения",
-    "verdict": "covered"
-   }
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
    "id": "39322301",
    "ids": [
     "39322301",
@@ -524,7 +529,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-22 07:41:54",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "hn",
@@ -565,11 +570,6 @@
      "source_id": "hn",
      "title": "OpenAI Models in Google Cloud",
      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers"
-    },
-    {
-     "source_id": "hn",
-     "title": "OpenAI models are coming to Google Cloud",
-     "url": "https://openai.com/index/openai-models-google-cloud/"
     }
    ],
    "queries": [
