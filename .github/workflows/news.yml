@@ -31,12 +31,18 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+      # Включаются переменной репозитория NEWS_ENABLED=1 либо news.enabled в
+      # конфиге. Конфиг копируется в каждый репозиторий из шаблона, поэтому в
+      # шаблоне он выключен, а пример включён переменной.
       - name: Зацепки включены
         id: gate
-        run: node -e "process.stdout.write('on=' + (require('./signals.config.json').news?.enabled ? '1' : '0') + '\n')" >> "$GITHUB_OUTPUT"
+        env:
+          NEWS_ENABLED: ${{ vars.NEWS_ENABLED }}
+        run: node -e "process.stdout.write('on=' + (process.env.NEWS_ENABLED === '1' || require('./signals.config.json').news?.enabled ? '1' : '0') + '\n')" >> "$GITHUB_OUTPUT"
       - name: Новости и поиск роликов
         if: steps.gate.outputs.on == '1'
         env:
+          NEWS_ENABLED: ${{ vars.NEWS_ENABLED }}
           CLAWDIGEST_API_KEY: ${{ secrets.CLAWDIGEST_API_KEY }}
         run: node scripts/news.mjs
       - name: Подача моделью

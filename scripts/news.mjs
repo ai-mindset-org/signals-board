@@ -229,6 +229,7 @@ async function searchStory(story, signals, news, report) {
   const terms = storyTerms(story.title);
   const queries = [...new Set([entityQuery(story.title), queryOf(story.title), ...(story.queries_llm || [])].filter(Boolean))].slice(0, 2);
   const found = new Map();
+  let youtubeAnswered = 0;
   for (const query of queries) {
     for (const [name, search] of [['youtube', searchYoutube], ['tiktok', searchTiktok]]) {
       try {
@@ -238,6 +239,7 @@ async function searchStory(story, signals, news, report) {
           if (v.age_hours !== null && v.age_hours > news.search_window_hours) continue;
           if (!found.has(v.id)) found.set(v.id, { ...v, relevance: Number(rel.toFixed(2)) });
         }
+        if (name === 'youtube') youtubeAnswered += 1;
         report.push({ source: `${name}: ${query}`, ok: true });
       } catch (error) {
         report.push({ source: `${name}: ${query}`, ok: false, error: String(error.message || error) });
@@ -245,6 +247,10 @@ async function searchStory(story, signals, news, report) {
       await sleep(GAP_MS);
     }
   }
+  // YouTube не ответил ни на один запрос – роликов не видно, но это не значит,
+  // что их нет. Вердикт «окно» здесь был бы ложным, поэтому сюжет остаётся
+  // как был и ищется в следующий прогон.
+  if (!youtubeAnswered) return null;
   for (const v of boardMatches(terms, signals, news)) if (!found.has(v.id)) found.set(v.id, { ...v, relevance: Number(v.relevance.toFixed(2)) });
 
   // Скорость = просмотры в час: свежий ролик с 20 тыс. за 5 часов важнее
@@ -268,6 +274,7 @@ function storyIds(item) {
 async function main() {
   const config = JSON.parse(await readFile(CONFIG_PATH, 'utf8'));
   const news = { ...DEFAULTS, ...(config.news || {}) };
+  if (process.env.NEWS_ENABLED === '1') news.enabled = true;
   const signals = JSON.parse(await readFile(SIGNALS_PATH, 'utf8').catch(() => '{"signals":[]}')).signals || [];
 
   const storyAt = process.argv.indexOf('--story');
@@ -288,8 +295,11 @@ async function main() {
     // первый прогон
   }
   // Прогон идёт каждые 15 минут; файл переписывается, только если изменились
-  // сами сюжеты, иначе каждый прогон давал бы пустой коммит.
-  const before = JSON.stringify(library.stories || []);
+  // сами сюжеты, иначе каждый прогон давал бы пустой коммит. score_norm
+  // ClawDigest считает относительно самой сильной записи ответа, он сдвигается
+  // почти каждый прогон и сам по себе поводом для коммита не считается.
+  const essence = (list) => JSON.stringify([...list].map(({ score_norm, ...rest }) => rest).sort((a, b) => String(a.id).localeCompare(String(b.id))));
+  const before = essence(library.stories || []);
   const now = Date.now();
   const { endpoint, items } = await fetchStories(news);
   const strong = items
@@ -320,10 +330,12 @@ async function main() {
     const stale = !story.searched_at || now - new Date(story.searched_at).getTime() > news.refresh_hours * HOUR;
     if (!stale || searched >= news.max_new_per_run) continue;
     const verdictBefore = story.verdict?.code;
-    Object.assign(story, await searchStory(story, signals, news, report), { searched_at: new Date().toISOString() });
+    const result = await searchStory(story, signals, news, report);
+    searched += 1;
+    if (!result) continue;
+    Object.assign(story, result, { searched_at: new Date().toISOString() });
     // Подача пересобирается моделью, только когда сменился вердикт.
     if (verdictBefore && verdictBefore !== story.verdict.code) delete story.pitch;
-    searched += 1;
   }
 
   const output = {
@@ -336,7 +348,7 @@ async function main() {
     console.log(JSON.stringify(output, null, 1));
     return;
   }
-  if (JSON.stringify(output.stories) === before) {
+  if (essence(output.stories) === before) {
     console.log(`без изменений: новостей ${items.length}, жирных ${strong.length}, на борде ${output.stories.length}`);
     return;
   }

@@ -50,7 +50,7 @@
     }
   ],
   "news": {
-    "enabled": true,
+    "enabled": false,
     "category": "ai",
     "hours": 24,
     "min_sources": 2,
