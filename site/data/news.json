@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T18:20:37.422Z",
+ "generated_at": "2026-10-22T18:46:04.637Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: ChatGPT Work",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ChatGPT Work",
-   "ok": true
-  },
-  {
-   "source": "youtube: uber 30 000 chatgpt",
-   "ok": true
-  },
-  {
-   "source": "tiktok: uber 30 000 chatgpt",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -155,81 +138,6 @@
    }
   },
   {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39322398",
-   "ids": [
-    "39322398",
-    "39329740",
-    "39315383",
-    "39320833"
-   ],
-   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-21 18:51:56",
-   "story_sources": 3,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Swedish legal AI startup Legora raises $550m",
-     "url": "https://www.techinasia.com/news/swedish-legal-ai-startup-legora-raises-550m"
-    },
-    {
-     "source_id": "hn",
-     "title": "Legora Agentic Legal AI raises $550M at $8B Valuation",
-     "url": "https://legora.com/blog/series-e"
-    }
-   ],
-   "queries": [
-    "550M Series E",
-    "legal legora 550m series"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qVZDgteH-74",
-     "url": "https://www.youtube.com/shorts/qVZDgteH-74",
-     "title": "Legal AI Startup Hits $8.8B Valuation! 🤯 #Shorts",
-     "channel": "",
-     "views": 91,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:15ImzYTqLwU",
-     "url": "https://www.youtube.com/shorts/15ImzYTqLwU",
-     "title": "Legora raises $550M at an $8.8B valuation as legal AI reaches in-house teams #Shorts",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.78,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T15:42:01.066Z",
-   "queries_llm": [
-    "Legora legal AI funding",
-    "Legora $8.8B valuation",
-    "legal AI startup Series E"
-   ],
-   "pitch": {
-    "text": "Короткий разбор, зачем юристам и бизнесу AI-инструменты вроде Legora и как это меняет работу с договорами",
-    "format": "reels/shorts 30-45 с",
-    "hook": "Юридический AI-стартап стоит почти 9 миллиардов – почему",
-    "why_now": "тему почти не снимают и просмотры минимальные, есть шанс закрыть нишу раньше других",
-    "verdict": "early"
-   }
-  },
-  {
    "first_seen": "2026-10-22T18:20:37.422Z",
    "id": "39343529",
    "ids": [
@@ -241,7 +149,7 @@
    "source_id": "x-techcrunch",
    "published_ts": "2026-10-22 16:00:00",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "openai-blog",
@@ -827,6 +735,76 @@
     "Walmart AI agents shop for you",
     "Walmart AI commerce agents"
    ]
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322398",
+   "ids": [
+    "39322398",
+    "39329740",
+    "39315383",
+    "39320833"
+   ],
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-21 18:51:56",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Swedish legal AI startup Legora raises $550m",
+     "url": "https://www.techinasia.com/news/swedish-legal-ai-startup-legora-raises-550m"
+    }
+   ],
+   "queries": [
+    "550M Series E",
+    "legal legora 550m series"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qVZDgteH-74",
+     "url": "https://www.youtube.com/shorts/qVZDgteH-74",
+     "title": "Legal AI Startup Hits $8.8B Valuation! 🤯 #Shorts",
+     "channel": "",
+     "views": 91,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:15ImzYTqLwU",
+     "url": "https://www.youtube.com/shorts/15ImzYTqLwU",
+     "title": "Legora raises $550M at an $8.8B valuation as legal AI reaches in-house teams #Shorts",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T15:42:01.066Z",
+   "queries_llm": [
+    "Legora legal AI funding",
+    "Legora $8.8B valuation",
+    "legal AI startup Series E"
+   ],
+   "pitch": {
+    "text": "Короткий разбор, зачем юристам и бизнесу AI-инструменты вроде Legora и как это меняет работу с договорами",
+    "format": "reels/shorts 30-45 с",
+    "hook": "Юридический AI-стартап стоит почти 9 миллиардов – почему",
+    "why_now": "тему почти не снимают и просмотры минимальные, есть шанс закрыть нишу раньше других",
+    "verdict": "early"
+   }
   },
   {
    "first_seen": "2026-10-22T10:19:39.231Z",
