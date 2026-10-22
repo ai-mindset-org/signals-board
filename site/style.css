@@ -111,3 +111,17 @@ main { padding: 20px 32px 48px; }
 @media (max-width: 640px) {
   .top, .tabs, main { padding-left: 16px; padding-right: 16px; }
 }
+
+/* новостные зацепки (news.js) */
+.story { max-width: 860px; border-bottom: 1px solid var(--line); padding: 16px 0; }
+.story h3 { margin: 8px 0; font: 600 14px/1.4 var(--sans); }
+.story h3 a { color: var(--ink); text-decoration: none; }
+.story h3 a:hover { text-decoration: underline; }
+.story .pitch { margin: 8px 0; padding: 10px 12px; background: var(--soft); border-left: 2px solid var(--hit); }
+.story .pitch p { margin: 0 0 4px; }
+.story .meta { color: var(--muted); font-size: 12px; margin-left: 8px; }
+.story .pitch .meta, .story > .meta { margin-left: 0; }
+.story .videos { margin: 8px 0 0; padding-left: 18px; }
+.story .videos li { margin: 2px 0; }
+.tag.is-gap { background: var(--hit); border-color: var(--hit); color: #fff; }
+.tag.is-early { border-color: var(--hit); color: var(--hit); }

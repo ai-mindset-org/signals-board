@@ -29,8 +29,23 @@ for (const post of data.signals || []) {
 }
 for (const id of data.digest || []) must(ids.has(id), `срез ссылается на ${id}, которого нет в списке`);
 
+// Новостные зацепки (scripts/news.mjs) – файл появляется после первого прогона.
+let news = null;
+try { news = JSON.parse(await readFile(path.join(ROOT, 'site', 'data', 'news.json'), 'utf8')); } catch { /* зацепок ещё нет */ }
+if (news) {
+  must(Array.isArray(news.stories), 'site/data/news.json: stories должен быть списком');
+  const storyIds = new Set();
+  for (const story of news.stories || []) {
+    must(story.id && !storyIds.has(story.id), `повтор или пустой id сюжета ${story.id}`);
+    storyIds.add(story.id);
+    must(story.title && story.url, `у сюжета ${story.id} нет заголовка или ссылки`);
+    if (story.verdict) must(['gap', 'early', 'covered'].includes(story.verdict.code), `странный вердикт у сюжета ${story.id}: ${story.verdict.code}`);
+    for (const v of story.videos || []) must(/^https:\/\//.test(v.url || ''), `у ролика ${v.id} сюжета ${story.id} нет ссылки`);
+  }
+}
+
 if (problems.length) {
   for (const p of problems) console.error(`ошибка: ${p}`);
   process.exit(1);
 }
-console.log(`проверки прошли: авторов ${(config.tiktok?.length || 0) + (config.youtube?.length || 0)}, постов на борде ${data.signals.length}`);
+console.log(`проверки прошли: авторов ${(config.tiktok?.length || 0) + (config.youtube?.length || 0)}, постов на борде ${data.signals.length}${news ? `, новостных зацепок ${news.stories.length}` : ''}`);
