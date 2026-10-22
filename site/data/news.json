@@ -1,0 +1,703 @@
+{
+ "generated_at": "2026-10-22T09:29:16.986Z",
+ "source": {
+  "name": "clawdigest",
+  "endpoint": "/api/trending?hours=24&limit=20&category=ai",
+  "category": "ai",
+  "hours": 24,
+  "min_sources": 2
+ },
+ "search_report": [
+  {
+   "source": "youtube: Claude Duet",
+   "ok": false,
+   "error": "на странице поиска нет ytInitialData"
+  },
+  {
+   "source": "tiktok: Claude Duet",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic muse claude duet",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic muse claude duet",
+   "ok": true
+  },
+  {
+   "source": "youtube: walmart",
+   "ok": true
+  },
+  {
+   "source": "tiktok: walmart",
+   "ok": true
+  },
+  {
+   "source": "youtube: Startup That Uses Brain Implants",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Startup That Uses Brain Implants",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai invests startup uses",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai invests startup uses",
+   "ok": true
+  }
+ ],
+ "stories": [
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39319132",
+   "ids": [
+    "39319132",
+    "39329747",
+    "39322110",
+    "39315880",
+    "39313488"
+   ],
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-21 12:00:00",
+   "story_sources": 4,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "OpenAI to bring AI models, Codex to Google Cloud",
+     "url": "https://www.techinasia.com/news/openai-bring-ai-models-codex-google-cloud"
+    },
+    {
+     "source_id": "x-arstechnica",
+     "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+     "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+    },
+    {
+     "source_id": "hn",
+     "title": "OpenAI Models in Google Cloud",
+     "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers"
+    },
+    {
+     "source_id": "hn",
+     "title": "OpenAI models are coming to Google Cloud",
+     "url": "https://openai.com/index/openai-models-google-cloud/"
+    }
+   ],
+   "queries": [
+    "Google Cloud",
+    "openai google cloud"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Mc6ojGeei7M",
+     "url": "https://www.youtube.com/shorts/Mc6ojGeei7M",
+     "title": "OpenAI Just Joined Forces With Google?! GPT-6 Hits Google Cloud | 77 News",
+     "channel": "",
+     "views": 152,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:X-KepBNCNiA",
+     "url": "https://www.youtube.com/shorts/X-KepBNCNiA",
+     "title": "OPENAI MODELS Reach Google Cloud — The Access Catch",
+     "channel": "",
+     "views": 90,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:B-YjzhCQi5I",
+     "url": "https://www.youtube.com/shorts/B-YjzhCQi5I",
+     "title": "OpenAI + Google Cloud ? AI Rivals Team Up #aiagents #cybersecurity",
+     "channel": "",
+     "views": 59,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GFA-opLFs-I",
+     "url": "https://www.youtube.com/shorts/GFA-opLFs-I",
+     "title": "OpenAI Just Landed on Google Cloud 🤯 #Shorts",
+     "channel": "",
+     "views": 57,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:joJHfCIDzOc",
+     "url": "https://www.youtube.com/watch?v=joJHfCIDzOc",
+     "title": "OpenAI Partners with Google Cloud: GPT-6 Astra & Codex",
+     "channel": "Quantum Synergy",
+     "views": 10,
+     "age_hours": 19,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ljyW3KpH7_0",
+     "url": "https://www.youtube.com/watch?v=ljyW3KpH7_0",
+     "title": "How to Access OpenAI AI Frontier Models in Google Cloud",
+     "channel": "Reality PC",
+     "views": 8,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T09:28:45.024Z",
+   "queries_llm": [
+    "OpenAI models Google Cloud partnership",
+    "GPT models available Google Cloud",
+    "OpenAI Google Cloud access tutorial"
+   ],
+   "pitch": {
+    "text": "Разбор, что доступ моделей OpenAI в Google Cloud значит для команд, которые уже выбирают облако для AI-проектов на работе",
+    "format": "разбор 6-10 мин",
+    "hook": "GPT-модели теперь в Google Cloud – что это меняет для вас",
+    "why_now": "ролики уже снимают, но просмотры низкие, тема не раскрыта и можно зайти с понятным объяснением",
+    "verdict": "early"
+   }
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322398",
+   "ids": [
+    "39322398",
+    "39329740",
+    "39315383",
+    "39320833"
+   ],
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-21 18:51:56",
+   "story_sources": 4,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Swedish legal AI startup Legora raises $550m",
+     "url": "https://www.techinasia.com/news/swedish-legal-ai-startup-legora-raises-550m"
+    },
+    {
+     "source_id": "eu-tnw",
+     "title": "Swedish legal AI firm Legora raises $550M led by Atreides at $8.8B valuation",
+     "url": "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation"
+    },
+    {
+     "source_id": "hn",
+     "title": "Legora Agentic Legal AI raises $550M at $8B Valuation",
+     "url": "https://legora.com/blog/series-e"
+    }
+   ],
+   "queries": [
+    "550M Series E",
+    "legal legora 550m series"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qVZDgteH-74",
+     "url": "https://www.youtube.com/shorts/qVZDgteH-74",
+     "title": "Legal AI Startup Hits $8.8B Valuation! 🤯 #Shorts",
+     "channel": "",
+     "views": 71,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:15ImzYTqLwU",
+     "url": "https://www.youtube.com/shorts/15ImzYTqLwU",
+     "title": "Legora raises $550M at an $8.8B valuation as legal AI reaches in-house teams #Shorts",
+     "channel": "",
+     "views": 14,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T09:28:52.080Z",
+   "queries_llm": [
+    "Legora legal AI funding",
+    "Legora $8.8B valuation",
+    "legal AI startup Series E"
+   ],
+   "pitch": {
+    "text": "Короткий разбор, зачем юристам и бизнесу AI-инструменты вроде Legora и как это меняет работу с договорами",
+    "format": "reels/shorts 30-45 с",
+    "hook": "Юридический AI-стартап стоит почти 9 миллиардов – почему",
+    "why_now": "тему почти не снимают и просмотры минимальные, есть шанс закрыть нишу раньше других",
+    "verdict": "early"
+   }
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39319133",
+   "ids": [
+    "39319133",
+    "39315592"
+   ],
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-21 13:00:00",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "ChatGPT Ads expands to 26 new countries",
+     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/"
+    }
+   ],
+   "queries": [
+    "ChatGPT Ads",
+    "chatgpt ads 26 100"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:h9i-c8oMz6U",
+     "url": "https://www.youtube.com/shorts/h9i-c8oMz6U",
+     "title": "Is ChatGPT targeting you with ads?",
+     "channel": "",
+     "views": 888,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Otd3EMy66Is",
+     "url": "https://www.youtube.com/shorts/Otd3EMy66Is",
+     "title": "ChatGPT Ads",
+     "channel": "",
+     "views": 157,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cKL72Wu5qQs",
+     "url": "https://www.youtube.com/shorts/cKL72Wu5qQs",
+     "title": "Ads in ChatGPT — A New Era of Marketing?",
+     "channel": "",
+     "views": 118,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZdubcgkagUg",
+     "url": "https://www.youtube.com/shorts/ZdubcgkagUg",
+     "title": "ChatGPT Ads Expands To 26 New Countries",
+     "channel": "",
+     "views": 86,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Qpw4HyrzokI",
+     "url": "https://www.youtube.com/shorts/Qpw4HyrzokI",
+     "title": "ChatGPT Ads expand to 26 new countries as 100k+ brands join",
+     "channel": "",
+     "views": 81,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tbtBrXph49Q",
+     "url": "https://www.youtube.com/shorts/tbtBrXph49Q",
+     "title": "ChatGPT ads expand: countries, plans and limits",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T09:28:59.848Z",
+   "queries_llm": [
+    "ChatGPT ads rollout",
+    "ChatGPT advertising expansion countries",
+    "ChatGPT ads for marketers"
+   ],
+   "pitch": {
+    "text": "Объяснить простыми словами, как реклама в ChatGPT повлияет на обычных пользователей и маркетологов",
+    "format": "reels/shorts 30-45 с",
+    "hook": "В ChatGPT теперь показывают рекламу – вот что это значит",
+    "why_now": "один из роликов уже набрал почти 900 просмотров, тема цепляет аудиторию, но большинство форматов мало смотрят",
+    "verdict": "early"
+   }
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39323714",
+   "ids": [
+    "39323714",
+    "39325410"
+   ],
+   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-21 20:57:40",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Year-old AI research lab Flapping Airplanes raises $1B at a reported $6B valuation",
+     "url": "https://siliconangle.com/2026/10/21/year-old-ai-research-lab-flapping-airplanes-raises-1b-at-a-reported-6b-valuation/"
+    }
+   ],
+   "queries": [
+    "Flapping Airplanes",
+    "year-old flapping airplanes 1b"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:K9s9QQSfZrY",
+     "url": "https://www.youtube.com/watch?v=K9s9QQSfZrY",
+     "title": "Flapping Airplanes Secures 1B, Valued at 6B",
+     "channel": "Ship Log",
+     "views": 14,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zYqAu7NxDwg",
+     "url": "https://www.youtube.com/shorts/zYqAu7NxDwg",
+     "title": "What Is Flapping Airplanes? The New $6B AI Lab Explained",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I-S1QD-gUQE",
+     "url": "https://www.youtube.com/shorts/I-S1QD-gUQE",
+     "title": "Flapping Airplanes Secures 1B, Valued at 6B #shorts",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bFNnxYNMtL4",
+     "url": "https://www.youtube.com/watch?v=bFNnxYNMtL4",
+     "title": "AI lab Flapping Airplanes raises $1B at a $6B valuation; plus, Recursive launches Flint, a laptop...",
+     "channel": "SpokenLayer",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.89,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T09:29:07.138Z",
+   "queries_llm": [
+    "Flapping Airplanes AI lab funding",
+    "Flapping Airplanes $6B valuation",
+    "Flapping Airplanes startup explained"
+   ],
+   "pitch": {
+    "text": "Короткое объяснение, кто такие Flapping Airplanes и почему их оценка в 6 млрд важна для рынка AI-инструментов",
+    "format": "reels/shorts 30-45 с",
+    "hook": "Годовалый AI-стартап привлек миллиард долларов – кто это",
+    "why_now": "просмотры у всех роликов минимальные, тема свежая и почти никем толком не раскрыта",
+    "verdict": "early"
+   }
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322408",
+   "ids": [
+    "39322408",
+    "39331034"
+   ],
+   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "source_id": "theverge",
+   "published_ts": "2026-10-21 19:53:20",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "in-inc42",
+     "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
+     "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/"
+    }
+   ],
+   "queries": [
+    "Claude Duet",
+    "anthropic muse claude duet"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nv1aaP3dHzs",
+     "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
+     "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
+     "channel": "Brock Mesarich | AI for Non Techies",
+     "views": 123359,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 11214
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nkY917A5Ygw",
+     "url": "https://www.youtube.com/watch?v=nkY917A5Ygw",
+     "title": "Claude Duet Is Here: What It Is & How to Get In",
+     "channel": "Marty AI",
+     "views": 367,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 61
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FQHEPxhHNII",
+     "url": "https://www.youtube.com/watch?v=FQHEPxhHNII",
+     "title": "Claude Duet: Claude’s New AI Agent Is Here",
+     "channel": "Julian Goldie SEO",
+     "views": 60,
+     "age_hours": 1,
+     "relevance": 0.8,
+     "velocity": 60
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rhdlfTJFOH4",
+     "url": "https://www.youtube.com/shorts/rhdlfTJFOH4",
+     "title": "What is Claude Duet?",
+     "channel": "",
+     "views": 1300,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:e0YEXNjaJFQ",
+     "url": "https://www.youtube.com/shorts/e0YEXNjaJFQ",
+     "title": "Claude Duet: Anthropic's New AI Assistant Explained",
+     "channel": "",
+     "views": 1300,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_eY1lyoYKqE",
+     "url": "https://www.youtube.com/shorts/_eY1lyoYKqE",
+     "title": "Anthropic LAUNCHES Claude Duet, an AI Agent That Starts Work Before You Ask",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-22T09:29:25.830Z",
+   "queries_llm": [
+    "Claude Duet how to use",
+    "Claude Duet workflow examples",
+    "Claude Duet agent tutorial"
+   ],
+   "pitch": {
+    "text": "Не снимать отдельный ролик про запуск – сделать практический разбор, как использовать Claude Duet в рабочих задачах",
+    "format": "разбор 6-10 мин",
+    "hook": "Claude Duet уже обсуждают все – а вот как его применять в работе",
+    "why_now": "тема уже залетает с сотнями тысяч просмотров, конкурировать с анонсом смысла нет, но есть ниша практического применения",
+    "verdict": "covered"
+   }
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322301",
+   "ids": [
+    "39322301",
+    "39331730"
+   ],
+   "title": "Walmart is inviting AI agents to shop for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+   "source_id": "theverge",
+   "published_ts": "2026-10-21 19:30:00",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Walmart launches tools for AI agents to shop for customers",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/walmart-launches-tools-for-ai-agents-to-shop-for-customers-10931735/"
+    }
+   ],
+   "queries": [
+    "walmart"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-22T09:29:29.527Z",
+   "queries_llm": [
+    "Walmart AI shopping agents",
+    "Walmart AI agents shop for you",
+    "Walmart AI commerce agents"
+   ],
+   "pitch": {
+    "text": "Объяснить на простом примере, как AI-агенты будут делать покупки за вас на Walmart и что это значит для привычек потребления",
+    "format": "reels/shorts 30-45 с",
+    "hook": "Walmart разрешил AI-агентам делать покупки вместо вас",
+    "why_now": "никто еще не снял ролик по этой новости, можно быть первыми",
+    "verdict": "gap"
+   }
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39316178",
+   "ids": [
+    "39316178",
+    "39311824"
+   ],
+   "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+   "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+   "source_id": "wired",
+   "published_ts": "2026-10-21 10:30:00",
+   "story_sources": 2,
+   "score_norm": 41,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xbk598/openai_invests_in_startup_that_uses_brain/"
+    }
+   ],
+   "queries": [
+    "Startup That Uses Brain Implants",
+    "openai invests startup uses"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xhkoX2iJwOM",
+     "url": "https://www.youtube.com/shorts/xhkoX2iJwOM",
+     "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LlRGPZt5noE",
+     "url": "https://www.youtube.com/watch?v=LlRGPZt5noE",
+     "title": "OpenAI Is Betting on a Brain Implant Built to Detect and Treat Cancer",
+     "channel": "AI Wire Daily",
+     "views": 3,
+     "age_hours": 21,
+     "relevance": 0.5,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T09:29:37.011Z",
+   "pitch": {
+    "text": "Разбор, зачем OpenAI вкладывается в стартап с мозговыми имплантами для диагностики рака – объяснить аудитории, как AI проникает в медтех и что это значит для будущего применения AI вне офисных задач",
+    "format": "разбор 6-10 мин",
+    "hook": "OpenAI вложился в стартап, который вживляет чипы в мозг против рака",
+    "why_now": "Тема только начала набирать обороты – ролики уже есть, но просмотров почти нет, можно зайти одними из первых",
+    "verdict": "early"
+   },
+   "queries_llm": [
+    "OpenAI brain implant cancer startup investment",
+    "OpenAI invests brain chip cancer detection",
+    "OpenAI neurotech startup funding 2026"
+   ]
+  }
+ ]
+}

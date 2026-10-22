@@ -48,5 +48,14 @@
     {
       "handle": "AllAboutAI"
     }
-  ]
+  ],
+  "news": {
+    "enabled": false,
+    "category": "ai",
+    "hours": 24,
+    "min_sources": 2,
+    "max_new_per_run": 4,
+    "refresh_hours": 6,
+    "keep_hours": 72
+  }
 }

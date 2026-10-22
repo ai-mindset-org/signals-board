@@ -34,6 +34,7 @@
 
     <nav class="tabs" aria-label="Разделы">
       <button class="tab is-active" data-view="digest" type="button">дайджест</button>
+      <button class="tab" data-view="news" type="button">новости</button>
       <button class="tab" data-view="sources" type="button">источники</button>
     </nav>
 
@@ -50,6 +51,11 @@
         <div id="digest"></div>
       </section>
 
+      <section class="view" data-panel="news">
+        <p class="note">Новости темы, о которых написали несколько изданий (ClawDigest), и что по ним уже вышло на YouTube и у авторов борда. «окно» – никто не снял, «рано» – снимают, но мало смотрят, «залетает» – смотреть подачу и делать свой угол.</p>
+        <div id="news"></div>
+      </section>
+
       <section class="view" data-panel="sources">
         <p class="note">Посты отслеживаемых авторов за окно, по 3 лучших с площадки по числу просмотров, плюс лучший пост последних суток. Один человек – один пост. Числа TikTok и YouTube между собой не сравниваются.</p>
         <div id="sources"></div>
@@ -57,5 +63,6 @@
     </main>
 
     <script type="module" src="./app.js?v=4"></script>
+    <script type="module" src="./news.js?v=1"></script>
   </body>
 </html>
