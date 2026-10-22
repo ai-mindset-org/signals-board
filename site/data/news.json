@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T19:51:36.864Z",
+ "generated_at": "2026-10-22T20:17:00.949Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: olmoearth v1.3 state-of-the-art embeddings",
+   "source": "youtube: unauthorized us ai agents",
    "ok": true
   },
   {
-   "source": "tiktok: olmoearth v1.3 state-of-the-art embeddings",
+   "source": "tiktok: unauthorized us ai agents",
    "ok": true
   }
  ],
@@ -47,134 +47,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-22T19:51:41.006Z"
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39322408",
-   "ids": [
-    "39322408",
-    "39331034",
-    "39333910",
-    "39340261"
-   ],
-   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-   "source_id": "theverge",
-   "published_ts": "2026-10-21 19:53:20",
-   "story_sources": 4,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Anthropic introduces Claude Duet, a proactive AI agent for professionals",
-     "url": "https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/"
-    },
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic previews Claude Duet, an AI agent that works in the background",
-     "url": "https://thenextweb.com/news/anthropic-claude-duet-ai-agent"
-    },
-    {
-     "source_id": "in-inc42",
-     "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
-     "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/"
-    }
-   ],
-   "queries": [
-    "Claude Duet",
-    "anthropic claude duet introduces"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Fb-68zqcSVs",
-     "url": "https://www.youtube.com/watch?v=Fb-68zqcSVs",
-     "title": "Introducing Claude Duet",
-     "channel": "Claude",
-     "views": 598286,
-     "age_hours": 20,
-     "relevance": 0.67,
-     "velocity": 29914
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nv1aaP3dHzs",
-     "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
-     "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 162300,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 9547
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:D-pz8L1orVI",
-     "url": "https://www.youtube.com/watch?v=D-pz8L1orVI",
-     "title": "Claude Duet Is Here! Is Anthropic’s Personal Agent Useful?",
-     "channel": "Peter Yang",
-     "views": 57535,
-     "age_hours": 20,
-     "relevance": 0.57,
-     "velocity": 2877
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lhA5zHxkr8o",
-     "url": "https://www.youtube.com/watch?v=lhA5zHxkr8o",
-     "title": "NEW Claude Duet: The Anthropic Agent That Works For You",
-     "channel": "Juan Pe Navarro | IA y Automatización",
-     "views": 25894,
-     "age_hours": 17,
-     "relevance": 0.8,
-     "velocity": 1523
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:PkrjD2IOCm4",
-     "url": "https://www.youtube.com/watch?v=PkrjD2IOCm4",
-     "title": "I Tested Claude Duet and It’s… Good??",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 1040,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 1040
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0sI-GTYetD8",
-     "url": "https://www.youtube.com/shorts/0sI-GTYetD8",
-     "title": "Claude Duet: Anthropic's Proactive Agent",
-     "channel": "",
-     "views": 23000,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-22T15:41:54.244Z",
-   "queries_llm": [
-    "Claude Duet how to use",
-    "Claude Duet workflow examples",
-    "Claude Duet agent tutorial"
-   ],
-   "pitch": {
-    "text": "Не снимать отдельный ролик про запуск – сделать практический разбор, как использовать Claude Duet в рабочих задачах",
-    "format": "разбор 6-10 мин",
-    "hook": "Claude Duet уже обсуждают все – а вот как его применять в работе",
-    "why_now": "тема уже залетает с сотнями тысяч просмотров, конкурировать с анонсом смысла нет, но есть ниша практического применения",
-    "verdict": "covered"
-   }
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -564,6 +436,61 @@
    }
   },
   {
+   "first_seen": "2026-10-22T20:17:00.949Z",
+   "id": "39347225",
+   "ids": [
+    "39347225",
+    "39338037"
+   ],
+   "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
+   "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-22 18:02:04",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Unvetted AI agents are accessing U.S. bank accounts",
+     "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access"
+    }
+   ],
+   "queries": [
+    "unauthorized us ai agents"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FSh7A6XzVSk",
+     "url": "https://www.youtube.com/watch?v=FSh7A6XzVSk",
+     "title": "Prepare for \"Day After\" Scenario: Unvetted AI Agents Have Been Caught Accessing US Bank Accounts",
+     "channel": "DAHBOO77",
+     "views": 9066,
+     "age_hours": 3,
+     "relevance": 0.67,
+     "velocity": 3022
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D9YGa1Ck67Q",
+     "url": "https://www.youtube.com/shorts/D9YGa1Ck67Q",
+     "title": "US banks detect unauthorized AI agents inside accounts",
+     "channel": "",
+     "views": 55,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T20:17:05.108Z"
+  },
+  {
    "first_seen": "2026-10-22T14:18:10.571Z",
    "id": "39338145",
    "ids": [
@@ -685,7 +612,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 20:57:40",
    "story_sources": 2,
-   "score_norm": 51,
+   "score_norm": 52,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -801,7 +728,7 @@
    "source_id": "x-wired",
    "published_ts": "2026-10-22 10:00:00",
    "story_sources": 2,
-   "score_norm": 49,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "hn",
@@ -844,6 +771,124 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-22T17:50:23.717Z"
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322408",
+   "ids": [
+    "39322408",
+    "39331034",
+    "39333910",
+    "39340261"
+   ],
+   "title": "Anthropic introduces Claude Duet, a proactive AI agent for professionals",
+   "url": "https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-10-22 13:20:53",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "in-inc42",
+     "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
+     "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/"
+    }
+   ],
+   "queries": [
+    "Claude Duet",
+    "anthropic claude duet introduces"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Fb-68zqcSVs",
+     "url": "https://www.youtube.com/watch?v=Fb-68zqcSVs",
+     "title": "Introducing Claude Duet",
+     "channel": "Claude",
+     "views": 598286,
+     "age_hours": 20,
+     "relevance": 0.67,
+     "velocity": 29914
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nv1aaP3dHzs",
+     "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
+     "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
+     "channel": "Brock Mesarich | AI for Non Techies",
+     "views": 162300,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 9547
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:D-pz8L1orVI",
+     "url": "https://www.youtube.com/watch?v=D-pz8L1orVI",
+     "title": "Claude Duet Is Here! Is Anthropic’s Personal Agent Useful?",
+     "channel": "Peter Yang",
+     "views": 57535,
+     "age_hours": 20,
+     "relevance": 0.57,
+     "velocity": 2877
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lhA5zHxkr8o",
+     "url": "https://www.youtube.com/watch?v=lhA5zHxkr8o",
+     "title": "NEW Claude Duet: The Anthropic Agent That Works For You",
+     "channel": "Juan Pe Navarro | IA y Automatización",
+     "views": 25894,
+     "age_hours": 17,
+     "relevance": 0.8,
+     "velocity": 1523
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:PkrjD2IOCm4",
+     "url": "https://www.youtube.com/watch?v=PkrjD2IOCm4",
+     "title": "I Tested Claude Duet and It’s… Good??",
+     "channel": "Brock Mesarich | AI for Non Techies",
+     "views": 1040,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 1040
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0sI-GTYetD8",
+     "url": "https://www.youtube.com/shorts/0sI-GTYetD8",
+     "title": "Claude Duet: Anthropic's Proactive Agent",
+     "channel": "",
+     "views": 23000,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-22T15:41:54.244Z",
+   "queries_llm": [
+    "Claude Duet how to use",
+    "Claude Duet workflow examples",
+    "Claude Duet agent tutorial"
+   ],
+   "pitch": {
+    "text": "Не снимать отдельный ролик про запуск – сделать практический разбор, как использовать Claude Duet в рабочих задачах",
+    "format": "разбор 6-10 мин",
+    "hook": "Claude Duet уже обсуждают все – а вот как его применять в работе",
+    "why_now": "тема уже залетает с сотнями тысяч просмотров, конкурировать с анонсом смысла нет, но есть ниша практического применения",
+    "verdict": "covered"
+   }
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
