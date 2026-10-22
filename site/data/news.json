@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T15:41:46.510Z",
+ "generated_at": "2026-10-22T15:53:00.734Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,67 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Duet",
+   "source": "youtube: Google Cloud",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Duet",
+   "source": "tiktok: Google Cloud",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude duet introduces",
+   "source": "youtube: openai google cloud partners",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude duet introduces",
-   "ok": true
-  },
-  {
-   "source": "youtube: 550M Series E",
-   "ok": true
-  },
-  {
-   "source": "tiktok: 550M Series E",
-   "ok": true
-  },
-  {
-   "source": "youtube: legal legora 550m series",
-   "ok": true
-  },
-  {
-   "source": "tiktok: legal legora 550m series",
-   "ok": true
-  },
-  {
-   "source": "youtube: Flapping Airplanes",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Flapping Airplanes",
-   "ok": true
-  },
-  {
-   "source": "youtube: year-old flapping airplanes 1b",
-   "ok": true
-  },
-  {
-   "source": "tiktok: year-old flapping airplanes 1b",
-   "ok": true
-  },
-  {
-   "source": "youtube: walmart inviting ai agents",
-   "ok": true
-  },
-  {
-   "source": "tiktok: walmart inviting ai agents",
-   "ok": true
-  },
-  {
-   "source": "youtube: Walmart AI shopping agents",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Walmart AI shopping agents",
+   "source": "tiktok: openai google cloud partners",
    "ok": true
   }
  ],
@@ -826,7 +778,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-10-22 06:16:53",
    "story_sources": 2,
-   "score_norm": 55,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -836,17 +788,17 @@
    ],
    "queries": [
     "Google Cloud",
-    "openai google cloud"
+    "openai google cloud partners"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Mc6ojGeei7M",
-     "url": "https://www.youtube.com/shorts/Mc6ojGeei7M",
-     "title": "OpenAI Just Joined Forces With Google?! GPT-6 Hits Google Cloud | 77 News",
+     "id": "youtube:XCAKW3SA1Tw",
+     "url": "https://www.youtube.com/shorts/XCAKW3SA1Tw",
+     "title": "OpenAI Joins Google Cloud! #Shorts",
      "channel": "",
-     "views": 152,
+     "views": 271,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -858,33 +810,45 @@
      "url": "https://www.youtube.com/shorts/X-KepBNCNiA",
      "title": "OPENAI MODELS Reach Google Cloud — The Access Catch",
      "channel": "",
-     "views": 90,
+     "views": 95,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aGj59bvPBH4",
+     "url": "https://www.youtube.com/shorts/aGj59bvPBH4",
+     "title": "AI News in 60 Sec: OpenAI Joins Google Cloud 🤖",
+     "channel": "",
+     "views": 62,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qYCAn2RgU80",
+     "url": "https://www.youtube.com/shorts/qYCAn2RgU80",
+     "title": "OpenAI and Google… partners? 😳 GPT-6 Astra comes to Google Cloud #shorts",
+     "channel": "",
+     "views": 47,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BxuwvUDIx04",
+     "url": "https://www.youtube.com/shorts/BxuwvUDIx04",
+     "title": "OpenAI models coming to Google Cloud",
+     "channel": "",
+     "views": 43,
      "age_hours": null,
      "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:B-YjzhCQi5I",
-     "url": "https://www.youtube.com/shorts/B-YjzhCQi5I",
-     "title": "OpenAI + Google Cloud ? AI Rivals Team Up #aiagents #cybersecurity",
-     "channel": "",
-     "views": 59,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GFA-opLFs-I",
-     "url": "https://www.youtube.com/shorts/GFA-opLFs-I",
-     "title": "OpenAI Just Landed on Google Cloud 🤯 #Shorts",
-     "channel": "",
-     "views": 57,
-     "age_hours": null,
-     "relevance": 0.6,
      "velocity": null
     },
     {
@@ -894,21 +858,9 @@
      "url": "https://www.youtube.com/watch?v=joJHfCIDzOc",
      "title": "OpenAI Partners with Google Cloud: GPT-6 Astra & Codex",
      "channel": "Quantum Synergy",
-     "views": 10,
-     "age_hours": 19,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ljyW3KpH7_0",
-     "url": "https://www.youtube.com/watch?v=ljyW3KpH7_0",
-     "title": "How to Access OpenAI AI Frontier Models in Google Cloud",
-     "channel": "Reality PC",
-     "views": 8,
-     "age_hours": 7,
-     "relevance": 0.8,
+     "views": 15,
+     "age_hours": 24,
+     "relevance": 0.71,
      "velocity": 1
     }
    ],
@@ -916,7 +868,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-22T09:28:45.024Z",
+   "searched_at": "2026-10-22T15:53:08.561Z",
    "queries_llm": [
     "OpenAI models Google Cloud partnership",
     "GPT models available Google Cloud",
