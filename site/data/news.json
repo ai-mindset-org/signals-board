@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T10:19:39.231Z",
+ "generated_at": "2026-10-22T10:53:56.390Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: NATO’s Maven",
-   "ok": true
-  },
-  {
-   "source": "tiktok: NATO’s Maven",
-   "ok": true
-  },
-  {
-   "source": "youtube: palantir nato maven cannot",
-   "ok": true
-  },
-  {
-   "source": "tiktok: palantir nato maven cannot",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -174,7 +157,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 18:51:56",
    "story_sources": 4,
-   "score_norm": 93,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -453,19 +436,20 @@
    "id": "39322408",
    "ids": [
     "39322408",
-    "39331034"
+    "39331034",
+    "39333910"
    ],
-   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-   "source_id": "theverge",
-   "published_ts": "2026-10-21 19:53:20",
+   "title": "Anthropic previews Claude Duet, an AI agent that works in the background",
+   "url": "https://thenextweb.com/news/anthropic-claude-duet-ai-agent",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-22 10:27:32",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
-     "source_id": "in-inc42",
-     "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
-     "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/"
+     "source_id": "theverge",
+     "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
     }
    ],
    "queries": [
