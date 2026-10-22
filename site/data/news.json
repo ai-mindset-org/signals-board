@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T18:46:04.637Z",
+ "generated_at": "2026-10-22T19:51:36.864Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,47 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: olmoearth v1.3 state-of-the-art embeddings",
+   "ok": true
+  },
+  {
+   "source": "tiktok: olmoearth v1.3 state-of-the-art embeddings",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-10-22T19:51:36.864Z",
+   "id": "39346574",
+   "ids": [
+    "39346574",
+    "39340262"
+   ],
+   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+   "source_id": "hf-blog",
+   "published_ts": "2026-10-22 16:11:31",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Ai2 releases OlmoEarth v1.3 state-of-the-art AI-ready satellite embeddings for the whole planet",
+     "url": "https://siliconangle.com/2026/10/22/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embeddings-for-the-whole-planet/"
+    }
+   ],
+   "queries": [
+    "olmoearth v1.3 state-of-the-art embeddings"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-22T19:51:41.006Z"
+  },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
    "id": "39322408",
@@ -23,7 +62,7 @@
    "source_id": "theverge",
    "published_ts": "2026-10-21 19:53:20",
    "story_sources": 4,
-   "score_norm": 100,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -136,98 +175,6 @@
     "why_now": "тема уже залетает с сотнями тысяч просмотров, конкурировать с анонсом смысла нет, но есть ниша практического применения",
     "verdict": "covered"
    }
-  },
-  {
-   "first_seen": "2026-10-22T18:20:37.422Z",
-   "id": "39343529",
-   "ids": [
-    "39343529",
-    "39344540"
-   ],
-   "title": "Uber puts all 30,000 employees on ChatGPT Work",
-   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-10-22 16:00:00",
-   "story_sources": 2,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "openai-blog",
-     "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-     "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-    }
-   ],
-   "queries": [
-    "ChatGPT Work",
-    "uber 30 000 chatgpt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l16Gw7oVLNQ",
-     "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
-     "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
-     "channel": "OpenAI",
-     "views": 361,
-     "age_hours": 0.3333333333333333,
-     "relevance": 0.75,
-     "velocity": 361
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AX17Jwdx7P8",
-     "url": "https://www.youtube.com/shorts/AX17Jwdx7P8",
-     "title": "How Does ChatGPT Actually Work? 🤖",
-     "channel": "",
-     "views": 224,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kKvor9MQI2A",
-     "url": "https://www.youtube.com/shorts/kKvor9MQI2A",
-     "title": "How does chatgpt actually work .",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AnR1Ohphp58",
-     "url": "https://www.youtube.com/shorts/AnR1Ohphp58",
-     "title": "Uber Gives ChatGPT Work To Its Whole Company",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kK7RNnACzP4",
-     "url": "https://www.youtube.com/shorts/kK7RNnACzP4",
-     "title": "BREAKING: Uber puts all 30,000 employees on ChatGPT Work | #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T18:20:45.232Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -346,6 +293,277 @@
    }
   },
   {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322301",
+   "ids": [
+    "39322301",
+    "39331730"
+   ],
+   "title": "Walmart is inviting AI agents to shop for you",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+   "source_id": "theverge",
+   "published_ts": "2026-10-21 19:30:00",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Walmart launches tools for AI agents to shop for customers",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/walmart-launches-tools-for-ai-agents-to-shop-for-customers-10931735/"
+    }
+   ],
+   "queries": [
+    "walmart inviting ai agents",
+    "Walmart AI shopping agents"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:icLU6RYKm2M",
+     "url": "https://www.youtube.com/watch?v=icLU6RYKm2M",
+     "title": "Walmart Agent Gateway: Why Walmart Is Welcoming AI Shopping Agents",
+     "channel": "Quantum Synergy",
+     "views": 8,
+     "age_hours": 15,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:i9OOTYYANbs",
+     "url": "https://www.youtube.com/watch?v=i9OOTYYANbs",
+     "title": "Amazon (AMZN): Blocks AI shopping agents as Walmart lets them buy | Oct 22, 2026",
+     "channel": "Stock News Daily",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Pqqen_CXhhs",
+     "url": "https://www.youtube.com/watch?v=Pqqen_CXhhs",
+     "title": "Why Walmart Is Letting AI Shopping Agents In | Decoding Retail",
+     "channel": "THE RETAIL PODCAST",
+     "views": 5,
+     "age_hours": 10,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ey30e1ceka8",
+     "url": "https://www.youtube.com/shorts/ey30e1ceka8",
+     "title": "Would You Let an AI Shop at Walmart for You? Agent Profiles, Explained #shorts",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lAJbnKBQqXM",
+     "url": "https://www.youtube.com/shorts/lAJbnKBQqXM",
+     "title": "Walmart Just Let AI Shop For You! 🤖 #shorts",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YyGrui97pPg",
+     "url": "https://www.youtube.com/shorts/YyGrui97pPg",
+     "title": "Walmart AI Agents: Welcome Mat With a Leash (Checked)",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T15:42:15.336Z",
+   "queries_llm": [
+    "Walmart AI shopping agents",
+    "Walmart AI agents shop for you",
+    "Walmart AI commerce agents"
+   ]
+  },
+  {
+   "first_seen": "2026-10-22T18:20:37.422Z",
+   "id": "39343529",
+   "ids": [
+    "39343529",
+    "39344540"
+   ],
+   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-10-22 16:00:00",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "openai-blog",
+     "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+     "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+    }
+   ],
+   "queries": [
+    "ChatGPT Work",
+    "uber 30 000 chatgpt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l16Gw7oVLNQ",
+     "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
+     "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
+     "channel": "OpenAI",
+     "views": 361,
+     "age_hours": 0.3333333333333333,
+     "relevance": 0.75,
+     "velocity": 361
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AX17Jwdx7P8",
+     "url": "https://www.youtube.com/shorts/AX17Jwdx7P8",
+     "title": "How Does ChatGPT Actually Work? 🤖",
+     "channel": "",
+     "views": 224,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kKvor9MQI2A",
+     "url": "https://www.youtube.com/shorts/kKvor9MQI2A",
+     "title": "How does chatgpt actually work .",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AnR1Ohphp58",
+     "url": "https://www.youtube.com/shorts/AnR1Ohphp58",
+     "title": "Uber Gives ChatGPT Work To Its Whole Company",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kK7RNnACzP4",
+     "url": "https://www.youtube.com/shorts/kK7RNnACzP4",
+     "title": "BREAKING: Uber puts all 30,000 employees on ChatGPT Work | #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T18:20:45.232Z"
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39322398",
+   "ids": [
+    "39322398",
+    "39329740",
+    "39315383",
+    "39320833"
+   ],
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-21 18:51:56",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Swedish legal AI startup Legora raises $550m",
+     "url": "https://www.techinasia.com/news/swedish-legal-ai-startup-legora-raises-550m"
+    }
+   ],
+   "queries": [
+    "550M Series E",
+    "legal legora 550m series"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qVZDgteH-74",
+     "url": "https://www.youtube.com/shorts/qVZDgteH-74",
+     "title": "Legal AI Startup Hits $8.8B Valuation! 🤯 #Shorts",
+     "channel": "",
+     "views": 91,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:15ImzYTqLwU",
+     "url": "https://www.youtube.com/shorts/15ImzYTqLwU",
+     "title": "Legora raises $550M at an $8.8B valuation as legal AI reaches in-house teams #Shorts",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T15:42:01.066Z",
+   "queries_llm": [
+    "Legora legal AI funding",
+    "Legora $8.8B valuation",
+    "legal AI startup Series E"
+   ],
+   "pitch": {
+    "text": "Короткий разбор, зачем юристам и бизнесу AI-инструменты вроде Legora и как это меняет работу с договорами",
+    "format": "reels/shorts 30-45 с",
+    "hook": "Юридический AI-стартап стоит почти 9 миллиардов – почему",
+    "why_now": "тему почти не снимают и просмотры минимальные, есть шанс закрыть нишу раньше других",
+    "verdict": "early"
+   }
+  },
+  {
    "first_seen": "2026-10-22T14:18:10.571Z",
    "id": "39338145",
    "ids": [
@@ -358,17 +576,17 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-10-22 08:35:22",
    "story_sources": 3,
-   "score_norm": 65,
+   "score_norm": 53,
    "related_news": [
-    {
-     "source_id": "sea-lowyat",
-     "title": "Anthropic Unveils Claude Duet Personal Agent To Rival OpenAI Dots, Meta Muse",
-     "url": "https://www.lowyat.net/2026/408109/anthropic-claude-duet-personal-agent/"
-    },
     {
      "source_id": "engadget",
      "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
      "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/"
+    },
+    {
+     "source_id": "sea-lowyat",
+     "title": "Anthropic Unveils Claude Duet Personal Agent To Rival OpenAI Dots, Meta Muse",
+     "url": "https://www.lowyat.net/2026/408109/anthropic-claude-duet-personal-agent/"
     }
    ],
    "queries": [
@@ -467,7 +685,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 20:57:40",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -583,7 +801,7 @@
    "source_id": "x-wired",
    "published_ts": "2026-10-22 10:00:00",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 49,
    "related_news": [
     {
      "source_id": "hn",
@@ -626,229 +844,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-22T17:50:23.717Z"
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39322301",
-   "ids": [
-    "39322301",
-    "39331730"
-   ],
-   "title": "Walmart is inviting AI agents to shop for you",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-   "source_id": "theverge",
-   "published_ts": "2026-10-21 19:30:00",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Walmart launches tools for AI agents to shop for customers",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/walmart-launches-tools-for-ai-agents-to-shop-for-customers-10931735/"
-    }
-   ],
-   "queries": [
-    "walmart inviting ai agents",
-    "Walmart AI shopping agents"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:icLU6RYKm2M",
-     "url": "https://www.youtube.com/watch?v=icLU6RYKm2M",
-     "title": "Walmart Agent Gateway: Why Walmart Is Welcoming AI Shopping Agents",
-     "channel": "Quantum Synergy",
-     "views": 8,
-     "age_hours": 15,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:i9OOTYYANbs",
-     "url": "https://www.youtube.com/watch?v=i9OOTYYANbs",
-     "title": "Amazon (AMZN): Blocks AI shopping agents as Walmart lets them buy | Oct 22, 2026",
-     "channel": "Stock News Daily",
-     "views": 2,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Pqqen_CXhhs",
-     "url": "https://www.youtube.com/watch?v=Pqqen_CXhhs",
-     "title": "Why Walmart Is Letting AI Shopping Agents In | Decoding Retail",
-     "channel": "THE RETAIL PODCAST",
-     "views": 5,
-     "age_hours": 10,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ey30e1ceka8",
-     "url": "https://www.youtube.com/shorts/ey30e1ceka8",
-     "title": "Would You Let an AI Shop at Walmart for You? Agent Profiles, Explained #shorts",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lAJbnKBQqXM",
-     "url": "https://www.youtube.com/shorts/lAJbnKBQqXM",
-     "title": "Walmart Just Let AI Shop For You! 🤖 #shorts",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YyGrui97pPg",
-     "url": "https://www.youtube.com/shorts/YyGrui97pPg",
-     "title": "Walmart AI Agents: Welcome Mat With a Leash (Checked)",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T15:42:15.336Z",
-   "queries_llm": [
-    "Walmart AI shopping agents",
-    "Walmart AI agents shop for you",
-    "Walmart AI commerce agents"
-   ]
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39322398",
-   "ids": [
-    "39322398",
-    "39329740",
-    "39315383",
-    "39320833"
-   ],
-   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-21 18:51:56",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Swedish legal AI startup Legora raises $550m",
-     "url": "https://www.techinasia.com/news/swedish-legal-ai-startup-legora-raises-550m"
-    }
-   ],
-   "queries": [
-    "550M Series E",
-    "legal legora 550m series"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qVZDgteH-74",
-     "url": "https://www.youtube.com/shorts/qVZDgteH-74",
-     "title": "Legal AI Startup Hits $8.8B Valuation! 🤯 #Shorts",
-     "channel": "",
-     "views": 91,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:15ImzYTqLwU",
-     "url": "https://www.youtube.com/shorts/15ImzYTqLwU",
-     "title": "Legora raises $550M at an $8.8B valuation as legal AI reaches in-house teams #Shorts",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.78,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T15:42:01.066Z",
-   "queries_llm": [
-    "Legora legal AI funding",
-    "Legora $8.8B valuation",
-    "legal AI startup Series E"
-   ],
-   "pitch": {
-    "text": "Короткий разбор, зачем юристам и бизнесу AI-инструменты вроде Legora и как это меняет работу с договорами",
-    "format": "reels/shorts 30-45 с",
-    "hook": "Юридический AI-стартап стоит почти 9 миллиардов – почему",
-    "why_now": "тему почти не снимают и просмотры минимальные, есть шанс закрыть нишу раньше других",
-    "verdict": "early"
-   }
-  },
-  {
-   "first_seen": "2026-10-22T10:19:39.231Z",
-   "id": "39331149",
-   "ids": [
-    "39331149",
-    "39333191"
-   ],
-   "title": "Palantir says it cannot switch off NATO’s Maven AI system",
-   "url": "https://thenextweb.com/news/palantir-says-it-cannot-switch-off-natos-maven-ai-system",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-22 07:41:54",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Palantir says it cannot shut off NATO AI systems",
-     "url": "https://www.reuters.com/business/media-telecom/palantir-says-it-cannot-shut-off-nato-ai-system-europeans-fear-us-tech-2026-10-22/"
-    }
-   ],
-   "queries": [
-    "NATO’s Maven",
-    "palantir nato maven cannot"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ilBnAr5gLq0",
-     "url": "https://www.youtube.com/shorts/ilBnAr5gLq0",
-     "title": "Palantir's NATO AI Has No Kill Switch, US Bans DeepSeek & More | ARL 119 #shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T16:20:50.323Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -969,6 +964,50 @@
     "why_now": "ролики уже снимают, но просмотры низкие, тема не раскрыта и можно зайти с понятным объяснением",
     "verdict": "early"
    }
+  },
+  {
+   "first_seen": "2026-10-22T10:19:39.231Z",
+   "id": "39331149",
+   "ids": [
+    "39331149",
+    "39333191"
+   ],
+   "title": "Palantir says it cannot switch off NATO’s Maven AI system",
+   "url": "https://thenextweb.com/news/palantir-says-it-cannot-switch-off-natos-maven-ai-system",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-22 07:41:54",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Palantir says it cannot shut off NATO AI systems",
+     "url": "https://www.reuters.com/business/media-telecom/palantir-says-it-cannot-shut-off-nato-ai-system-europeans-fear-us-tech-2026-10-22/"
+    }
+   ],
+   "queries": [
+    "NATO’s Maven",
+    "palantir nato maven cannot"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ilBnAr5gLq0",
+     "url": "https://www.youtube.com/shorts/ilBnAr5gLq0",
+     "title": "Palantir's NATO AI Has No Kill Switch, US Bans DeepSeek & More | ARL 119 #shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T16:20:50.323Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
