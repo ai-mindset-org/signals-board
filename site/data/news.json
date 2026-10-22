@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T10:53:56.390Z",
+ "generated_at": "2026-10-22T11:41:16.006Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Lets You Chat With DNA",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Lets You Chat With DNA",
+   "ok": true
+  },
+  {
+   "source": "youtube: hugging face biology lets",
+   "ok": true
+  },
+  {
+   "source": "tiktok: hugging face biology lets",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -340,6 +357,62 @@
    }
   },
   {
+   "first_seen": "2026-10-22T11:41:16.006Z",
+   "id": "39334478",
+   "ids": [
+    "39334478",
+    "39334119"
+   ],
+   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+   "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "source_id": "x-wired",
+   "published_ts": "2026-10-22 10:00:00",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Hugging Face model lets you chat with your DNA",
+     "url": "https://huggingface.co/spaces/HuggingFaceBio/Carbon-X-Release"
+    }
+   ],
+   "queries": [
+    "Lets You Chat With DNA",
+    "hugging face biology lets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8v3-ySI03js",
+     "url": "https://www.youtube.com/shorts/8v3-ySI03js",
+     "title": "Offline AI Agents Got Into Hugging Face?",
+     "channel": "",
+     "views": 90,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:N1p9AcaNlV4",
+     "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
+     "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
+     "channel": "",
+     "views": 28,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T11:41:24.534Z"
+  },
+  {
    "first_seen": "2026-10-22T09:28:35.978Z",
    "id": "39323714",
    "ids": [
@@ -351,7 +424,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 20:57:40",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -444,7 +517,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-22 10:27:32",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "theverge",
@@ -602,7 +675,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-22 07:41:54",
    "story_sources": 2,
-   "score_norm": 55,
+   "score_norm": 54,
    "related_news": [
     {
      "source_id": "hn",
