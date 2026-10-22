@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T21:16:16.342Z",
+ "generated_at": "2026-10-22T21:50:18.731Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: The Hackening Begins",
+   "source": "youtube: Claude Duet",
    "ok": true
   },
   {
-   "source": "tiktok: The Hackening Begins",
+   "source": "tiktok: Claude Duet",
    "ok": true
   },
   {
-   "source": "youtube: 191 hackening begins ai",
+   "source": "youtube: anthropic claude duet introduces",
    "ok": true
   },
   {
-   "source": "tiktok: 191 hackening begins ai",
+   "source": "tiktok: anthropic claude duet introduces",
    "ok": true
   }
  ],
@@ -814,10 +814,10 @@
      "url": "https://www.youtube.com/watch?v=Fb-68zqcSVs",
      "title": "Introducing Claude Duet",
      "channel": "Claude",
-     "views": 598286,
-     "age_hours": 20,
+     "views": 739925,
+     "age_hours": 24,
      "relevance": 0.67,
-     "velocity": 29914
+     "velocity": 30830
     },
     {
      "platform": "youtube",
@@ -826,22 +826,10 @@
      "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
      "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
      "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 162300,
-     "age_hours": 17,
+     "views": 196428,
+     "age_hours": 23,
      "relevance": 0.5,
-     "velocity": 9547
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:D-pz8L1orVI",
-     "url": "https://www.youtube.com/watch?v=D-pz8L1orVI",
-     "title": "Claude Duet Is Here! Is Anthropic’s Personal Agent Useful?",
-     "channel": "Peter Yang",
-     "views": 57535,
-     "age_hours": 20,
-     "relevance": 0.57,
-     "velocity": 2877
+     "velocity": 8540
     },
     {
      "platform": "youtube",
@@ -850,22 +838,10 @@
      "url": "https://www.youtube.com/watch?v=lhA5zHxkr8o",
      "title": "NEW Claude Duet: The Anthropic Agent That Works For You",
      "channel": "Juan Pe Navarro | IA y Automatización",
-     "views": 25894,
-     "age_hours": 17,
+     "views": 33964,
+     "age_hours": 23,
      "relevance": 0.8,
-     "velocity": 1523
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:PkrjD2IOCm4",
-     "url": "https://www.youtube.com/watch?v=PkrjD2IOCm4",
-     "title": "I Tested Claude Duet and It’s… Good??",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 1040,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 1040
+     "velocity": 1477
     },
     {
      "platform": "youtube",
@@ -874,7 +850,31 @@
      "url": "https://www.youtube.com/shorts/0sI-GTYetD8",
      "title": "Claude Duet: Anthropic's Proactive Agent",
      "channel": "",
-     "views": 23000,
+     "views": 36000,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gDAhmQAHjL4",
+     "url": "https://www.youtube.com/watch?v=gDAhmQAHjL4",
+     "title": "Claude Duet: The New Proactive Agent",
+     "channel": "Tool Finder",
+     "views": 8271,
+     "age_hours": 9,
+     "relevance": 1,
+     "velocity": 919
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rhdlfTJFOH4",
+     "url": "https://www.youtube.com/shorts/rhdlfTJFOH4",
+     "title": "What is Claude Duet?",
+     "channel": "",
+     "views": 21000,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -884,7 +884,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-22T15:41:54.244Z",
+   "searched_at": "2026-10-22T21:50:26.767Z",
    "queries_llm": [
     "Claude Duet how to use",
     "Claude Duet workflow examples",
