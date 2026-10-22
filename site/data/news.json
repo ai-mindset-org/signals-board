@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T21:50:18.731Z",
+ "generated_at": "2026-10-22T22:28:53.931Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Duet",
+   "source": "youtube: NATO’s Maven",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Duet",
+   "source": "tiktok: NATO’s Maven",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude duet introduces",
+   "source": "youtube: palantir nato maven cannot",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude duet introduces",
+   "source": "tiktok: palantir nato maven cannot",
    "ok": true
   }
  ],
@@ -1102,11 +1102,47 @@
     {
      "platform": "youtube",
      "kind": "shorts",
+     "id": "youtube:_nTEZvjsnn8",
+     "url": "https://www.youtube.com/shorts/_nTEZvjsnn8",
+     "title": "Can America SWITCH OFF NATO's Military AI?",
+     "channel": "",
+     "views": 303,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YL_2ZDCkxzk",
+     "url": "https://www.youtube.com/watch?v=YL_2ZDCkxzk",
+     "title": "Palantir NATO AI: No US Kill Switch? Europe Fears Growing Dependence on American Tech | TSG",
+     "channel": "The Sunday Guardian",
+     "views": 4,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
      "id": "youtube:ilBnAr5gLq0",
      "url": "https://www.youtube.com/shorts/ilBnAr5gLq0",
      "title": "Palantir's NATO AI Has No Kill Switch, US Bans DeepSeek & More | ARL 119 #shorts",
      "channel": "",
-     "views": 2,
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:75dKNO2JwOc",
+     "url": "https://www.youtube.com/shorts/75dKNO2JwOc",
+     "title": "Palantir Addresses European Concerns Over NATO AI System Control · Oct 22, 2026",
+     "channel": "",
+     "views": 0,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1116,7 +1152,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-22T16:20:50.323Z"
+   "searched_at": "2026-10-22T22:29:01.569Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
