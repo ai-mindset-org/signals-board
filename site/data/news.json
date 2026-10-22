@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T16:20:41.765Z",
+ "generated_at": "2026-10-22T17:50:15.459Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: NATO’s Maven",
+   "source": "youtube: Lets You Chat With DNA",
    "ok": true
   },
   {
-   "source": "tiktok: NATO’s Maven",
+   "source": "tiktok: Lets You Chat With DNA",
    "ok": true
   },
   {
-   "source": "youtube: palantir nato maven cannot",
+   "source": "youtube: hugging face biology lets",
    "ok": true
   },
   {
-   "source": "tiktok: palantir nato maven cannot",
+   "source": "tiktok: hugging face biology lets",
    "ok": true
   }
  ],
@@ -163,7 +163,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 18:51:56",
    "story_sources": 3,
-   "score_norm": 93,
+   "score_norm": 95,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -237,7 +237,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-10-22 08:35:22",
    "story_sources": 3,
-   "score_norm": 79,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "sea-lowyat",
@@ -346,7 +346,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 20:57:40",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -462,7 +462,7 @@
    "source_id": "x-wired",
    "published_ts": "2026-10-22 10:00:00",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "hn",
@@ -478,11 +478,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:8v3-ySI03js",
-     "url": "https://www.youtube.com/shorts/8v3-ySI03js",
-     "title": "Offline AI Agents Got Into Hugging Face?",
+     "id": "youtube:N1p9AcaNlV4",
+     "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
+     "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
      "channel": "",
-     "views": 90,
+     "views": 36,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -490,13 +490,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:N1p9AcaNlV4",
-     "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
-     "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
+     "id": "youtube:EUHov0ZfFuc",
+     "url": "https://www.youtube.com/shorts/EUHov0ZfFuc",
+     "title": "Hugging Face s New AI Biology Model Lets You Chat With DNA",
      "channel": "",
-     "views": 28,
+     "views": 0,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 1,
      "velocity": null
     }
    ],
@@ -504,7 +504,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-22T11:41:24.534Z"
+   "searched_at": "2026-10-22T17:50:23.717Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -518,7 +518,7 @@
    "source_id": "theverge",
    "published_ts": "2026-10-21 19:30:00",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -743,7 +743,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-22 07:41:54",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
