@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T11:41:16.006Z",
+ "generated_at": "2026-10-22T12:26:39.894Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,159 +7,8 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Lets You Chat With DNA",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Lets You Chat With DNA",
-   "ok": true
-  },
-  {
-   "source": "youtube: hugging face biology lets",
-   "ok": true
-  },
-  {
-   "source": "tiktok: hugging face biology lets",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39319132",
-   "ids": [
-    "39319132",
-    "39329747",
-    "39322110",
-    "39315880",
-    "39313488"
-   ],
-   "title": "OpenAI models are coming to Google Cloud",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-21 12:00:00",
-   "story_sources": 4,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "OpenAI to bring AI models, Codex to Google Cloud",
-     "url": "https://www.techinasia.com/news/openai-bring-ai-models-codex-google-cloud"
-    },
-    {
-     "source_id": "x-arstechnica",
-     "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-     "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
-    },
-    {
-     "source_id": "hn",
-     "title": "OpenAI Models in Google Cloud",
-     "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers"
-    },
-    {
-     "source_id": "hn",
-     "title": "OpenAI models are coming to Google Cloud",
-     "url": "https://openai.com/index/openai-models-google-cloud/"
-    }
-   ],
-   "queries": [
-    "Google Cloud",
-    "openai google cloud"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Mc6ojGeei7M",
-     "url": "https://www.youtube.com/shorts/Mc6ojGeei7M",
-     "title": "OpenAI Just Joined Forces With Google?! GPT-6 Hits Google Cloud | 77 News",
-     "channel": "",
-     "views": 152,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:X-KepBNCNiA",
-     "url": "https://www.youtube.com/shorts/X-KepBNCNiA",
-     "title": "OPENAI MODELS Reach Google Cloud — The Access Catch",
-     "channel": "",
-     "views": 90,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:B-YjzhCQi5I",
-     "url": "https://www.youtube.com/shorts/B-YjzhCQi5I",
-     "title": "OpenAI + Google Cloud ? AI Rivals Team Up #aiagents #cybersecurity",
-     "channel": "",
-     "views": 59,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GFA-opLFs-I",
-     "url": "https://www.youtube.com/shorts/GFA-opLFs-I",
-     "title": "OpenAI Just Landed on Google Cloud 🤯 #Shorts",
-     "channel": "",
-     "views": 57,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:joJHfCIDzOc",
-     "url": "https://www.youtube.com/watch?v=joJHfCIDzOc",
-     "title": "OpenAI Partners with Google Cloud: GPT-6 Astra & Codex",
-     "channel": "Quantum Synergy",
-     "views": 10,
-     "age_hours": 19,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ljyW3KpH7_0",
-     "url": "https://www.youtube.com/watch?v=ljyW3KpH7_0",
-     "title": "How to Access OpenAI AI Frontier Models in Google Cloud",
-     "channel": "Reality PC",
-     "views": 8,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T09:28:45.024Z",
-   "queries_llm": [
-    "OpenAI models Google Cloud partnership",
-    "GPT models available Google Cloud",
-    "OpenAI Google Cloud access tutorial"
-   ],
-   "pitch": {
-    "text": "Разбор, что доступ моделей OpenAI в Google Cloud значит для команд, которые уже выбирают облако для AI-проектов на работе",
-    "format": "разбор 6-10 мин",
-    "hook": "GPT-модели теперь в Google Cloud – что это меняет для вас",
-    "why_now": "ролики уже снимают, но просмотры низкие, тема не раскрыта и можно зайти с понятным объяснением",
-    "verdict": "early"
-   }
-  },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
    "id": "39322398",
@@ -174,7 +23,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 18:51:56",
    "story_sources": 4,
-   "score_norm": 92,
+   "score_norm": 100,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -252,7 +101,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-21 13:00:00",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -368,7 +217,7 @@
    "source_id": "x-wired",
    "published_ts": "2026-10-22 10:00:00",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
@@ -424,7 +273,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-21 20:57:40",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -517,7 +366,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-22 10:27:32",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "theverge",
@@ -633,7 +482,7 @@
    "source_id": "theverge",
    "published_ts": "2026-10-21 19:30:00",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -675,7 +524,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-22 07:41:54",
    "story_sources": 2,
-   "score_norm": 54,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "hn",
@@ -693,6 +542,131 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-22T10:19:46.667Z"
+  },
+  {
+   "first_seen": "2026-10-22T09:28:35.978Z",
+   "id": "39319132",
+   "ids": [
+    "39319132",
+    "39329747",
+    "39322110",
+    "39315880",
+    "39313488",
+    "39330397"
+   ],
+   "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+   "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+   "source_id": "x-arstechnica",
+   "published_ts": "2026-10-21 18:51:42",
+   "story_sources": 2,
+   "score_norm": 44,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI Models in Google Cloud",
+     "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers"
+    },
+    {
+     "source_id": "hn",
+     "title": "OpenAI models are coming to Google Cloud",
+     "url": "https://openai.com/index/openai-models-google-cloud/"
+    }
+   ],
+   "queries": [
+    "Google Cloud",
+    "openai google cloud"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Mc6ojGeei7M",
+     "url": "https://www.youtube.com/shorts/Mc6ojGeei7M",
+     "title": "OpenAI Just Joined Forces With Google?! GPT-6 Hits Google Cloud | 77 News",
+     "channel": "",
+     "views": 152,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:X-KepBNCNiA",
+     "url": "https://www.youtube.com/shorts/X-KepBNCNiA",
+     "title": "OPENAI MODELS Reach Google Cloud — The Access Catch",
+     "channel": "",
+     "views": 90,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:B-YjzhCQi5I",
+     "url": "https://www.youtube.com/shorts/B-YjzhCQi5I",
+     "title": "OpenAI + Google Cloud ? AI Rivals Team Up #aiagents #cybersecurity",
+     "channel": "",
+     "views": 59,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GFA-opLFs-I",
+     "url": "https://www.youtube.com/shorts/GFA-opLFs-I",
+     "title": "OpenAI Just Landed on Google Cloud 🤯 #Shorts",
+     "channel": "",
+     "views": 57,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:joJHfCIDzOc",
+     "url": "https://www.youtube.com/watch?v=joJHfCIDzOc",
+     "title": "OpenAI Partners with Google Cloud: GPT-6 Astra & Codex",
+     "channel": "Quantum Synergy",
+     "views": 10,
+     "age_hours": 19,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ljyW3KpH7_0",
+     "url": "https://www.youtube.com/watch?v=ljyW3KpH7_0",
+     "title": "How to Access OpenAI AI Frontier Models in Google Cloud",
+     "channel": "Reality PC",
+     "views": 8,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T09:28:45.024Z",
+   "queries_llm": [
+    "OpenAI models Google Cloud partnership",
+    "GPT models available Google Cloud",
+    "OpenAI Google Cloud access tutorial"
+   ],
+   "pitch": {
+    "text": "Разбор, что доступ моделей OpenAI в Google Cloud значит для команд, которые уже выбирают облако для AI-проектов на работе",
+    "format": "разбор 6-10 мин",
+    "hook": "GPT-модели теперь в Google Cloud – что это меняет для вас",
+    "why_now": "ролики уже снимают, но просмотры низкие, тема не раскрыта и можно зайти с понятным объяснением",
+    "verdict": "early"
+   }
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
