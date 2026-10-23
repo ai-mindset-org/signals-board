@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T22:28:53.931Z",
+ "generated_at": "2026-10-23T00:45:40.615Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: NATO’s Maven",
+   "source": "youtube: What FDE",
    "ok": true
   },
   {
-   "source": "tiktok: NATO’s Maven",
+   "source": "tiktok: What FDE",
    "ok": true
   },
   {
-   "source": "youtube: palantir nato maven cannot",
+   "source": "youtube: fde openai means",
    "ok": true
   },
   {
-   "source": "tiktok: palantir nato maven cannot",
+   "source": "tiktok: fde openai means",
+   "ok": true
+  },
+  {
+   "source": "youtube: Lets You Chat With DNA",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Lets You Chat With DNA",
+   "ok": true
+  },
+  {
+   "source": "youtube: hugging face biology lets",
+   "ok": true
+  },
+  {
+   "source": "tiktok: hugging face biology lets",
    "ok": true
   }
  ],
@@ -55,6 +71,62 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-22T19:51:41.006Z"
+  },
+  {
+   "first_seen": "2026-10-23T00:45:40.615Z",
+   "id": "39337632",
+   "ids": [
+    "39337632",
+    "39351280"
+   ],
+   "title": "What FDE means at OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-22 06:00:00",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "What FDE Means at OpenAI",
+     "url": "https://openai.com/index/forward-deployed-engineering-means/"
+    }
+   ],
+   "queries": [
+    "What FDE",
+    "fde openai means"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:C0rrRuhKsv4",
+     "url": "https://www.youtube.com/shorts/C0rrRuhKsv4",
+     "title": "OpenAI explains the FDE job: the gap is the job",
+     "channel": "",
+     "views": 36,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZA2Ad-dt86c",
+     "url": "https://www.youtube.com/shorts/ZA2Ad-dt86c",
+     "title": "OpenAI's New Policy Means You're Overpaying for AI Right Now",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T00:45:49.199Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -444,61 +516,6 @@
    }
   },
   {
-   "first_seen": "2026-10-22T20:17:00.949Z",
-   "id": "39347225",
-   "ids": [
-    "39347225",
-    "39338037"
-   ],
-   "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
-   "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
-   "source_id": "engadget",
-   "published_ts": "2026-10-22 18:02:04",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Unvetted AI agents are accessing U.S. bank accounts",
-     "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access"
-    }
-   ],
-   "queries": [
-    "unauthorized us ai agents"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FSh7A6XzVSk",
-     "url": "https://www.youtube.com/watch?v=FSh7A6XzVSk",
-     "title": "Prepare for \"Day After\" Scenario: Unvetted AI Agents Have Been Caught Accessing US Bank Accounts",
-     "channel": "DAHBOO77",
-     "views": 9066,
-     "age_hours": 3,
-     "relevance": 0.67,
-     "velocity": 3022
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D9YGa1Ck67Q",
-     "url": "https://www.youtube.com/shorts/D9YGa1Ck67Q",
-     "title": "US banks detect unauthorized AI agents inside accounts",
-     "channel": "",
-     "views": 55,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T20:17:05.108Z"
-  },
-  {
    "first_seen": "2026-10-22T14:18:10.571Z",
    "id": "39338145",
    "ids": [
@@ -607,6 +624,61 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-22T20:41:31.008Z"
+  },
+  {
+   "first_seen": "2026-10-22T20:17:00.949Z",
+   "id": "39347225",
+   "ids": [
+    "39347225",
+    "39338037"
+   ],
+   "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
+   "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-22 18:02:04",
+   "story_sources": 2,
+   "score_norm": 52,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Unvetted AI agents are accessing U.S. bank accounts",
+     "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access"
+    }
+   ],
+   "queries": [
+    "unauthorized us ai agents"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FSh7A6XzVSk",
+     "url": "https://www.youtube.com/watch?v=FSh7A6XzVSk",
+     "title": "Prepare for \"Day After\" Scenario: Unvetted AI Agents Have Been Caught Accessing US Bank Accounts",
+     "channel": "DAHBOO77",
+     "views": 9066,
+     "age_hours": 3,
+     "relevance": 0.67,
+     "velocity": 3022
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D9YGa1Ck67Q",
+     "url": "https://www.youtube.com/shorts/D9YGa1Ck67Q",
+     "title": "US banks detect unauthorized AI agents inside accounts",
+     "channel": "",
+     "views": 55,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-22T20:17:05.108Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -736,7 +808,7 @@
    "source_id": "x-wired",
    "published_ts": "2026-10-22 10:00:00",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "hn",
@@ -756,9 +828,21 @@
      "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
      "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
      "channel": "",
-     "views": 36,
+     "views": 43,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:S_bArc237kU",
+     "url": "https://www.youtube.com/shorts/S_bArc237kU",
+     "title": "Hugging Face's Carbon-X Lets You Chat With DNA #Shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -768,9 +852,33 @@
      "url": "https://www.youtube.com/shorts/EUHov0ZfFuc",
      "title": "Hugging Face s New AI Biology Model Lets You Chat With DNA",
      "channel": "",
-     "views": 0,
+     "views": 3,
      "age_hours": null,
      "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7ARvPTg7pc8",
+     "url": "https://www.youtube.com/shorts/7ARvPTg7pc8",
+     "title": "Chat With DNA? Hugging Face's Laptop AI! #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gQPzY723X_g",
+     "url": "https://www.youtube.com/shorts/gQPzY723X_g",
+     "title": "Scientists Can Now Chat With DNA Using a New AI From Hugging Face",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -778,7 +886,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-22T17:50:23.717Z"
+   "searched_at": "2026-10-23T00:45:56.468Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
