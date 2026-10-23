@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T06:57:38.835Z",
+ "generated_at": "2026-10-23T07:46:41.300Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Lets You Chat With DNA",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Lets You Chat With DNA",
-   "ok": true
-  },
-  {
-   "source": "youtube: hugging face biology lets",
-   "ok": true
-  },
-  {
-   "source": "tiktok: hugging face biology lets",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-22T19:51:36.864Z",
@@ -717,7 +700,8 @@
    "id": "39347225",
    "ids": [
     "39347225",
-    "39338037"
+    "39338037",
+    "39357316"
    ],
    "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
    "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
@@ -726,6 +710,11 @@
    "story_sources": 2,
    "score_norm": 52,
    "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Unauthorized AI agents are reportedly accessing US bank accounts",
+     "url": "https://www.msn.com/en-us/news/other/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/ar-AA2fQDti"
+    },
     {
      "source_id": "hn",
      "title": "Unvetted AI agents are accessing U.S. bank accounts",
