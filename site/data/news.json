@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T01:53:56.369Z",
+ "generated_at": "2026-10-23T02:24:33.942Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: olmoearth v1.3 state-of-the-art embeddings",
+   "source": "youtube: unauthorized us ai agents",
    "ok": true
   },
   {
-   "source": "tiktok: olmoearth v1.3 state-of-the-art embeddings",
-   "ok": true
-  },
-  {
-   "source": "youtube: donating skills agentic foundation",
-   "ok": true
-  },
-  {
-   "source": "tiktok: donating skills agentic foundation",
+   "source": "tiktok: unauthorized us ai agents",
    "ok": true
   }
  ],
@@ -743,10 +735,22 @@
      "url": "https://www.youtube.com/watch?v=FSh7A6XzVSk",
      "title": "Prepare for \"Day After\" Scenario: Unvetted AI Agents Have Been Caught Accessing US Bank Accounts",
      "channel": "DAHBOO77",
-     "views": 9066,
-     "age_hours": 3,
+     "views": 26001,
+     "age_hours": 9,
      "relevance": 0.67,
-     "velocity": 3022
+     "velocity": 2889
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c6dcn_2i0w8",
+     "url": "https://www.youtube.com/shorts/c6dcn_2i0w8",
+     "title": "The US Government's Playbook for Rogue AI Agents 🛑",
+     "channel": "",
+     "views": 199,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -755,17 +759,29 @@
      "url": "https://www.youtube.com/shorts/D9YGa1Ck67Q",
      "title": "US banks detect unauthorized AI agents inside accounts",
      "channel": "",
-     "views": 55,
+     "views": 156,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ps9ZVSVx7R8",
+     "url": "https://www.youtube.com/watch?v=ps9ZVSVx7R8",
+     "title": "AI AGENTS UNAUTHORIZED ACCOUNT ACCESS!",
+     "channel": "greatmillstonedailybread411",
+     "views": 3,
+     "age_hours": 4,
+     "relevance": 0.6,
+     "velocity": 1
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-22T20:17:05.108Z"
+   "searched_at": "2026-10-23T02:24:38.245Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
