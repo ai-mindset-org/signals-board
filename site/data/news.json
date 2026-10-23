@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T12:24:20.857Z",
+ "generated_at": "2026-10-23T12:49:16.842Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: unvetted u.s ai agents",
+   "source": "youtube: microsoft develops ai tool",
    "ok": true
   },
   {
-   "source": "tiktok: unvetted u.s ai agents",
+   "source": "tiktok: microsoft develops ai tool",
    "ok": true
   }
  ],
@@ -314,6 +314,49 @@
    }
   },
   {
+   "first_seen": "2026-10-23T12:49:16.842Z",
+   "id": "39357217",
+   "ids": [
+    "39357217",
+    "39362432"
+   ],
+   "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+   "url": "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-23 05:07:29",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/"
+    }
+   ],
+   "queries": [
+    "microsoft develops ai tool"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xiEWjQ2_2IQ",
+     "url": "https://www.youtube.com/watch?v=xiEWjQ2_2IQ",
+     "title": "RERIGHT · Microsoft develops AI tool that can diagnose 'sequentially'",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 0.55,
+     "relevance": 0.88,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T12:49:21.130Z"
+  },
+  {
    "first_seen": "2026-10-23T01:53:56.369Z",
    "id": "39352505",
    "ids": [
@@ -325,7 +368,7 @@
    "source_id": "simonw",
    "published_ts": "2026-10-22 18:09:56",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
