@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T04:19:50.514Z",
+ "generated_at": "2026-10-23T06:57:38.835Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Duet",
+   "source": "youtube: Lets You Chat With DNA",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Duet",
+   "source": "tiktok: Lets You Chat With DNA",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude duet introduces",
+   "source": "youtube: hugging face biology lets",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude duet introduces",
+   "source": "tiktok: hugging face biology lets",
    "ok": true
   }
  ],
@@ -823,7 +823,7 @@
      "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
      "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
      "channel": "",
-     "views": 43,
+     "views": 45,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -835,7 +835,19 @@
      "url": "https://www.youtube.com/shorts/S_bArc237kU",
      "title": "Hugging Face's Carbon-X Lets You Chat With DNA #Shorts",
      "channel": "",
-     "views": 9,
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7ARvPTg7pc8",
+     "url": "https://www.youtube.com/shorts/7ARvPTg7pc8",
+     "title": "Chat With DNA? Hugging Face's Laptop AI! #Shorts",
+     "channel": "",
+     "views": 8,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
@@ -847,7 +859,7 @@
      "url": "https://www.youtube.com/shorts/EUHov0ZfFuc",
      "title": "Hugging Face s New AI Biology Model Lets You Chat With DNA",
      "channel": "",
-     "views": 3,
+     "views": 4,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -855,25 +867,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:7ARvPTg7pc8",
-     "url": "https://www.youtube.com/shorts/7ARvPTg7pc8",
-     "title": "Chat With DNA? Hugging Face's Laptop AI! #Shorts",
+     "id": "youtube:XK1BlUHlstk",
+     "url": "https://www.youtube.com/shorts/XK1BlUHlstk",
+     "title": "Hugging Face's open DNA AI Carbon-X: 66.7% vs GPT-6.1 Sol's 67.5%",
      "channel": "",
-     "views": 1,
+     "views": 2,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:gQPzY723X_g",
-     "url": "https://www.youtube.com/shorts/gQPzY723X_g",
-     "title": "Scientists Can Now Chat With DNA Using a New AI From Hugging Face",
+     "id": "youtube:eXiLO4WZRc4",
+     "url": "https://www.youtube.com/shorts/eXiLO4WZRc4",
+     "title": "Open DNA model, near GPT-6.1 Sol: Hugging Face Carbon-X",
      "channel": "",
-     "views": 0,
+     "views": 1,
      "age_hours": null,
-     "relevance": 0.63,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -881,7 +893,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-23T00:45:56.468Z"
+   "searched_at": "2026-10-23T06:57:46.487Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
