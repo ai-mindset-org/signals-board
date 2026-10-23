@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T02:24:33.942Z",
+ "generated_at": "2026-10-23T04:19:50.514Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: unauthorized us ai agents",
+   "source": "youtube: Claude Duet",
    "ok": true
   },
   {
-   "source": "tiktok: unauthorized us ai agents",
+   "source": "tiktok: Claude Duet",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude duet introduces",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude duet introduces",
    "ok": true
   }
  ],
@@ -60,7 +68,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-22 06:00:00",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "hn",
@@ -116,7 +124,7 @@
    "source_id": "simonw",
    "published_ts": "2026-10-22 18:09:56",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "hn",
@@ -784,6 +792,98 @@
    "searched_at": "2026-10-23T02:24:38.245Z"
   },
   {
+   "first_seen": "2026-10-22T11:41:16.006Z",
+   "id": "39334478",
+   "ids": [
+    "39334478",
+    "39334119"
+   ],
+   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+   "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "source_id": "x-wired",
+   "published_ts": "2026-10-22 10:00:00",
+   "story_sources": 2,
+   "score_norm": 52,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Hugging Face model lets you chat with your DNA",
+     "url": "https://huggingface.co/spaces/HuggingFaceBio/Carbon-X-Release"
+    }
+   ],
+   "queries": [
+    "Lets You Chat With DNA",
+    "hugging face biology lets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:N1p9AcaNlV4",
+     "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
+     "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
+     "channel": "",
+     "views": 43,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:S_bArc237kU",
+     "url": "https://www.youtube.com/shorts/S_bArc237kU",
+     "title": "Hugging Face's Carbon-X Lets You Chat With DNA #Shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:EUHov0ZfFuc",
+     "url": "https://www.youtube.com/shorts/EUHov0ZfFuc",
+     "title": "Hugging Face s New AI Biology Model Lets You Chat With DNA",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7ARvPTg7pc8",
+     "url": "https://www.youtube.com/shorts/7ARvPTg7pc8",
+     "title": "Chat With DNA? Hugging Face's Laptop AI! #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gQPzY723X_g",
+     "url": "https://www.youtube.com/shorts/gQPzY723X_g",
+     "title": "Scientists Can Now Chat With DNA Using a New AI From Hugging Face",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T00:45:56.468Z"
+  },
+  {
    "first_seen": "2026-10-22T09:28:35.978Z",
    "id": "39323714",
    "ids": [
@@ -900,98 +1000,6 @@
    }
   },
   {
-   "first_seen": "2026-10-22T11:41:16.006Z",
-   "id": "39334478",
-   "ids": [
-    "39334478",
-    "39334119"
-   ],
-   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-   "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-   "source_id": "x-wired",
-   "published_ts": "2026-10-22 10:00:00",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Hugging Face model lets you chat with your DNA",
-     "url": "https://huggingface.co/spaces/HuggingFaceBio/Carbon-X-Release"
-    }
-   ],
-   "queries": [
-    "Lets You Chat With DNA",
-    "hugging face biology lets"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:N1p9AcaNlV4",
-     "url": "https://www.youtube.com/shorts/N1p9AcaNlV4",
-     "title": "#1 trending on Hugging Face: DeepSeek-V4.1-Flash-1017",
-     "channel": "",
-     "views": 43,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:S_bArc237kU",
-     "url": "https://www.youtube.com/shorts/S_bArc237kU",
-     "title": "Hugging Face's Carbon-X Lets You Chat With DNA #Shorts",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:EUHov0ZfFuc",
-     "url": "https://www.youtube.com/shorts/EUHov0ZfFuc",
-     "title": "Hugging Face s New AI Biology Model Lets You Chat With DNA",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7ARvPTg7pc8",
-     "url": "https://www.youtube.com/shorts/7ARvPTg7pc8",
-     "title": "Chat With DNA? Hugging Face's Laptop AI! #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gQPzY723X_g",
-     "url": "https://www.youtube.com/shorts/gQPzY723X_g",
-     "title": "Scientists Can Now Chat With DNA Using a New AI From Hugging Face",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-23T00:45:56.468Z"
-  },
-  {
    "first_seen": "2026-10-22T09:28:35.978Z",
    "id": "39322408",
    "ids": [
@@ -1005,7 +1013,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-10-22 13:20:53",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "in-inc42",
@@ -1025,10 +1033,10 @@
      "url": "https://www.youtube.com/watch?v=Fb-68zqcSVs",
      "title": "Introducing Claude Duet",
      "channel": "Claude",
-     "views": 739925,
+     "views": 806264,
      "age_hours": 24,
      "relevance": 0.67,
-     "velocity": 30830
+     "velocity": 33594
     },
     {
      "platform": "youtube",
@@ -1037,10 +1045,10 @@
      "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
      "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
      "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 196428,
-     "age_hours": 23,
+     "views": 218222,
+     "age_hours": 24,
      "relevance": 0.5,
-     "velocity": 8540
+     "velocity": 9093
     },
     {
      "platform": "youtube",
@@ -1049,10 +1057,10 @@
      "url": "https://www.youtube.com/watch?v=lhA5zHxkr8o",
      "title": "NEW Claude Duet: The Anthropic Agent That Works For You",
      "channel": "Juan Pe Navarro | IA y Automatización",
-     "views": 33964,
-     "age_hours": 23,
+     "views": 38449,
+     "age_hours": 24,
      "relevance": 0.8,
-     "velocity": 1477
+     "velocity": 1602
     },
     {
      "platform": "youtube",
@@ -1061,7 +1069,7 @@
      "url": "https://www.youtube.com/shorts/0sI-GTYetD8",
      "title": "Claude Duet: Anthropic's Proactive Agent",
      "channel": "",
-     "views": 36000,
+     "views": 43000,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -1071,12 +1079,12 @@
      "kind": "видео",
      "id": "youtube:gDAhmQAHjL4",
      "url": "https://www.youtube.com/watch?v=gDAhmQAHjL4",
-     "title": "Claude Duet: The New Proactive Agent",
+     "title": "Claude Duet Explained in 5 Minutes",
      "channel": "Tool Finder",
-     "views": 8271,
-     "age_hours": 9,
-     "relevance": 1,
-     "velocity": 919
+     "views": 11905,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 794
     },
     {
      "platform": "youtube",
@@ -1085,7 +1093,7 @@
      "url": "https://www.youtube.com/shorts/rhdlfTJFOH4",
      "title": "What is Claude Duet?",
      "channel": "",
-     "views": 21000,
+     "views": 27000,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -1095,7 +1103,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-22T21:50:26.767Z",
+   "searched_at": "2026-10-23T04:19:58.447Z",
    "queries_llm": [
     "Claude Duet how to use",
     "Claude Duet workflow examples",
