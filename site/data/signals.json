@@ -1,14 +1,13 @@
 {
- "generated_at": "2026-10-22T06:49:09.350Z",
+ "generated_at": "2026-10-23T06:48:38.417Z",
  "window_days": 7,
  "theme": "обучение AI",
  "digest": [
   "tiktok:7697437954792344863",
   "youtube:ehcBwqyUGjo",
+  "youtube:3gXLmy7DK_4",
   "youtube:LWxX6vvHfrc",
-  "youtube:Ge1B-Ok1Pfk",
-  "tiktok:7698490726438472991",
-  "youtube:3gXLmy7DK_4"
+  "tiktok:7698490726438472991"
  ],
  "formats": {
   "shapes": [
@@ -17,7 +16,7 @@
     "count": 2
    }
   ],
-  "of": 6
+  "of": 5
  },
  "source_report": [
   {
@@ -36,7 +35,7 @@
    "source": "youtube/deeplearningai",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "source": "youtube/TwoMinutePapers",
@@ -60,13 +59,13 @@
    "source": "youtube/matthew_berman",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 2
   },
   {
    "source": "youtube/NateBJones",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 4
   },
   {
    "source": "youtube/futurepedia_io",
@@ -84,7 +83,7 @@
    "source": "youtube/WesRoth",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "source": "youtube/AllAboutAI",
@@ -103,10 +102,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7697437954792344863",
    "title": "Prompt in the comments. #aihack #ai #aiprompts #artificialintelligence #aitips ",
    "posted_at": "2026-10-17T01:10:33.000Z",
-   "popularity": 650200,
+   "popularity": 683100,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 494600
+    "followers": 495000
    },
    "format": {
     "kind": "видео",
@@ -126,8 +125,8 @@
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo",
    "title": "they’re shutting it DOWN",
-   "posted_at": "2026-10-21T20:48:56.676Z",
-   "popularity": 280000,
+   "posted_at": "2026-10-22T06:48:27.611Z",
+   "popularity": 435000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -143,84 +142,14 @@
    "picked": true
   },
   {
-   "id": "youtube:LWxX6vvHfrc",
-   "platform": "youtube",
-   "source": "@TwoMinutePapers",
-   "person": "twominutepapers",
-   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-   "title": "Gemini 4 Argon Is Not What I Expected",
-   "posted_at": "2026-10-20T06:48:00.998Z",
-   "popularity": 208000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-79d137abcc20.jpg",
-   "first_seen": "2026-10-20T06:47:56.415Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:Ge1B-Ok1Pfk",
-   "platform": "youtube",
-   "source": "@futurepedia_io",
-   "person": "futurepedia_io",
-   "url": "https://www.youtube.com/watch?v=Ge1B-Ok1Pfk",
-   "title": "Claude Makes a New Kind of Video - Full Tutorial",
-   "posted_at": "2026-10-20T06:48:43.647Z",
-   "popularity": 180000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-c426f2d4df8d.jpg",
-   "first_seen": "2026-10-20T06:47:56.415Z",
-   "picked": true
-  },
-  {
-   "id": "tiktok:7698490726438472991",
-   "platform": "tiktok",
-   "source": "@rileybrown.ai",
-   "person": "riley brown",
-   "url": "https://www.tiktok.com/@rileybrown.ai/video/7698490726438472991",
-   "title": "I’ve been using dots in ChatGPT, and I highly recommend trying it out. Go see what it can do for you. Link in bio. @chatgpt #ChatGPT_Partner",
-   "posted_at": "2026-10-19T21:15:51.000Z",
-   "popularity": 25500,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 638500
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-a2967469cc30.jpg",
-   "first_seen": "2026-10-20T06:47:56.415Z",
-   "picked": true
-  },
-  {
    "id": "youtube:3gXLmy7DK_4",
    "platform": "youtube",
    "source": "@matthew_berman",
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
    "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
-   "posted_at": "2026-10-21T15:48:21.554Z",
-   "popularity": 124000,
+   "posted_at": "2026-10-22T06:47:54.142Z",
+   "popularity": 231000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -236,6 +165,53 @@
    "picked": true
   },
   {
+   "id": "youtube:LWxX6vvHfrc",
+   "platform": "youtube",
+   "source": "@TwoMinutePapers",
+   "person": "twominutepapers",
+   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+   "title": "Gemini 4 Argon Is Not What I Expected",
+   "posted_at": "2026-10-20T06:47:37.131Z",
+   "popularity": 216000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-79d137abcc20.jpg",
+   "first_seen": "2026-10-20T06:47:56.415Z",
+   "picked": true
+  },
+  {
+   "id": "tiktok:7698490726438472991",
+   "platform": "tiktok",
+   "source": "@rileybrown.ai",
+   "person": "riley brown",
+   "url": "https://www.tiktok.com/@rileybrown.ai/video/7698490726438472991",
+   "title": "I’ve been using dots in ChatGPT, and I highly recommend trying it out. Go see what it can do for you. Link in bio. @chatgpt #ChatGPT_Partner",
+   "posted_at": "2026-10-19T21:15:51.000Z",
+   "popularity": 27600,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 638600
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-a2967469cc30.jpg",
+   "first_seen": "2026-10-20T06:47:56.415Z",
+   "picked": true
+  },
+  {
    "id": "tiktok:7698117291329867039",
    "platform": "tiktok",
    "source": "@rileybrown.ai",
@@ -243,10 +219,10 @@
    "url": "https://www.tiktok.com/@rileybrown.ai/video/7698117291329867039",
    "title": "This video was edited with 1 prompt with Opus 5.5.  I uploaded a single video of myself (with many mistakes). Opus went on to:   1. Analyze the transcript 2. Search Twitter for the relevant B-roll (Cl",
    "posted_at": "2026-10-18T21:06:43.000Z",
-   "popularity": 17500,
+   "popularity": 18000,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 638500
+    "followers": 638600
    },
    "format": {
     "kind": "видео",
@@ -260,6 +236,30 @@
    "picked": true
   },
   {
+   "id": "tiktok:7699728618791980318",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7699728618791980318",
+   "title": "This is the worst day for cyber attacks in my entire career #ai #news #learn #learnontiktok  If you want to learn more start by looking up PHP Then ask your AI to please scan your system for vulnerabi",
+   "posted_at": "2026-10-23T05:19:30.000Z",
+   "popularity": 21500,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 495000
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-bd028147e55a.jpg",
+   "first_seen": "2026-10-23T06:48:38.417Z",
+   "picked": false
+  },
+  {
    "id": "tiktok:7699272776267369759",
    "platform": "tiktok",
    "source": "@nate.b.jones",
@@ -267,10 +267,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7699272776267369759",
    "title": "Let me know how it goes. #aihack #ai #aiprompts #artificialintelligence #aitips",
    "posted_at": "2026-10-21T23:50:36.000Z",
-   "popularity": 42200,
+   "popularity": 105200,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 494600
+    "followers": 495000
    },
    "format": {
     "kind": "видео",
@@ -291,10 +291,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7698904256962759967",
    "title": "Share this with someone unprepared. #aihack #cybersecurity #aisafety #ai #artificialintelligence ",
    "posted_at": "2026-10-21T00:00:33.000Z",
-   "popularity": 55100,
+   "popularity": 64200,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 494600
+    "followers": 495000
    },
    "format": {
     "kind": "видео",
@@ -315,10 +315,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7698162774685388062",
    "title": "Tell me what you got. #aihack #ai #aiprompts #artificialintelligence #aitips ",
    "posted_at": "2026-10-19T00:03:13.000Z",
-   "popularity": 44900,
+   "popularity": 48100,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 494600
+    "followers": 495000
    },
    "format": {
     "kind": "видео",
@@ -339,10 +339,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7697792409446452510",
    "title": "The black box is opening. #learnontiktok #aisafety #interpretability #ai #artificialintelligence",
    "posted_at": "2026-10-18T00:06:01.000Z",
-   "popularity": 124100,
+   "popularity": 128500,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 494600
+    "followers": 495000
    },
    "format": {
     "kind": "видео",
@@ -356,38 +356,14 @@
    "picked": false
   },
   {
-   "id": "tiktok:7697047653414194462",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7697047653414194462",
-   "title": "We are all going to live in this version of the internet whether we are ready or not. #ainews #aiagents #aisafety #artificialintelligence #cybersecurity ",
-   "posted_at": "2026-10-15T23:55:59.000Z",
-   "popularity": 77100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 494600
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-c401c1cdd62d.jpg",
-   "first_seen": "2026-10-16T06:48:25.760Z",
-   "picked": false
-  },
-  {
    "id": "youtube:CUjHZlvQufk",
    "platform": "youtube",
    "source": "@deeplearningai",
    "person": "deeplearningai",
    "url": "https://www.youtube.com/watch?v=CUjHZlvQufk",
    "title": "Learn to build better AI Agents through better context",
-   "posted_at": "2026-10-21T06:47:53.826Z",
-   "popularity": 5200,
+   "posted_at": "2026-10-21T06:47:29.770Z",
+   "popularity": 6000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -403,37 +379,14 @@
    "picked": true
   },
   {
-   "id": "youtube:2IuO_80wB0s",
-   "platform": "youtube",
-   "source": "@deeplearningai",
-   "person": "deeplearningai",
-   "url": "https://www.youtube.com/watch?v=2IuO_80wB0s",
-   "title": "Give your team AI skills you can trust",
-   "posted_at": "2026-10-15T06:47:55.527Z",
-   "popularity": 6000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-67aa5c2b4676.jpg",
-   "first_seen": "2026-10-15T06:48:33.357Z",
-   "picked": true
-  },
-  {
    "id": "youtube:umGZrkyTRtw",
    "platform": "youtube",
    "source": "@mreflow",
    "person": "mreflow",
    "url": "https://www.youtube.com/watch?v=umGZrkyTRtw",
    "title": "AI Breakthroughs Everyone Missed",
-   "posted_at": "2026-10-21T17:48:12.143Z",
-   "popularity": 64000,
+   "posted_at": "2026-10-22T06:47:46.600Z",
+   "popularity": 110000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -455,8 +408,8 @@
    "person": "mreflow",
    "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI",
    "title": "AI News: 6 New Models & A Nano Banana Killer",
-   "posted_at": "2026-10-17T06:48:14.112Z",
-   "popularity": 173000,
+   "posted_at": "2026-10-17T06:47:48.584Z",
+   "popularity": 175000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -495,14 +448,14 @@
    "picked": false
   },
   {
-   "id": "youtube:ajF-1DodUaU",
+   "id": "youtube:15gxN8DnC8s",
    "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=ajF-1DodUaU",
-   "title": "I got to interview Sam Altman! (Coming Soon)",
-   "posted_at": "2026-10-15T22:08:07.000Z",
-   "popularity": 0,
+   "source": "@NateBJones",
+   "person": "nate b jones",
+   "url": "https://www.youtube.com/watch?v=15gxN8DnC8s",
+   "title": "I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.",
+   "posted_at": "2026-10-22T14:48:03.470Z",
+   "popularity": 15000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -513,8 +466,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-eaa88f72afbc.jpg",
-   "first_seen": "2026-10-16T06:48:25.760Z",
+   "media": "data/media/youtube-f0cce44e82bf.jpg",
+   "first_seen": "2026-10-23T06:48:38.417Z",
    "picked": false
   },
   {
@@ -524,8 +477,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=xUl-RD4l4i4",
    "title": "Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.",
-   "posted_at": "2026-10-21T06:48:32.461Z",
-   "popularity": 35000,
+   "posted_at": "2026-10-21T06:48:05.346Z",
+   "popularity": 37000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -547,8 +500,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=btUxMt_tssA",
    "title": "What Really Happens When AI Agents Meet in the Wild?",
-   "posted_at": "2026-10-19T06:48:34.247Z",
-   "popularity": 55000,
+   "posted_at": "2026-10-19T06:48:07.081Z",
+   "popularity": 56000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -570,8 +523,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=PseF3LyXQ04",
    "title": "Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.",
-   "posted_at": "2026-10-16T06:48:36.109Z",
-   "popularity": 92000,
+   "posted_at": "2026-10-16T06:48:08.866Z",
+   "popularity": 93000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -587,14 +540,37 @@
    "picked": false
   },
   {
+   "id": "youtube:Ge1B-Ok1Pfk",
+   "platform": "youtube",
+   "source": "@futurepedia_io",
+   "person": "futurepedia_io",
+   "url": "https://www.youtube.com/watch?v=Ge1B-Ok1Pfk",
+   "title": "Claude Makes a New Kind of Video - Full Tutorial",
+   "posted_at": "2026-10-20T06:48:14.382Z",
+   "popularity": 207000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-c426f2d4df8d.jpg",
+   "first_seen": "2026-10-20T06:47:56.415Z",
+   "picked": true
+  },
+  {
    "id": "youtube:B0HN9kLxf7A",
    "platform": "youtube",
    "source": "@mattvidpro",
    "person": "mattvidpro",
    "url": "https://www.youtube.com/watch?v=B0HN9kLxf7A",
    "title": "Claude Rebuilt This AI Video in Unreal Engine (Zero Imported Assets)",
-   "posted_at": "2026-10-21T22:48:49.339Z",
-   "popularity": 8100,
+   "posted_at": "2026-10-22T06:48:20.117Z",
+   "popularity": 21000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -616,7 +592,7 @@
    "person": "mattvidpro",
    "url": "https://www.youtube.com/watch?v=H6eduK5LgSI",
    "title": "Gemini 4 Argon is Cheaper Than Opus... But the Catch?",
-   "posted_at": "2026-10-17T06:48:51.189Z",
+   "posted_at": "2026-10-17T06:48:21.987Z",
    "popularity": 18000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -633,37 +609,14 @@
    "picked": true
   },
   {
-   "id": "youtube:EmaXeEdlJkI",
-   "platform": "youtube",
-   "source": "@WesRoth",
-   "person": "wesroth",
-   "url": "https://www.youtube.com/watch?v=EmaXeEdlJkI",
-   "title": "AI just BROKE all of the software industry...",
-   "posted_at": "2026-10-15T06:48:58.501Z",
-   "popularity": 180000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-a24c612a7e57.jpg",
-   "first_seen": "2026-10-15T06:48:33.357Z",
-   "picked": false
-  },
-  {
    "id": "youtube:dheMFHbM-lQ",
    "platform": "youtube",
    "source": "@AllAboutAI",
    "person": "allaboutai",
    "url": "https://www.youtube.com/watch?v=dheMFHbM-lQ",
    "title": "We Put AI In a Time Machine. Did It Spot What NOBODY Else Did?",
-   "posted_at": "2026-10-18T06:49:06.010Z",
-   "popularity": 4200,
+   "posted_at": "2026-10-18T06:48:35.092Z",
+   "popularity": 4300,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -676,6 +629,29 @@
    },
    "media": "data/media/youtube-1b04483482c3.jpg",
    "first_seen": "2026-10-18T06:43:53.082Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:2IuO_80wB0s",
+   "platform": "youtube",
+   "source": "@deeplearningai",
+   "person": "deeplearningai",
+   "url": "https://www.youtube.com/watch?v=2IuO_80wB0s",
+   "title": "Give your team AI skills you can trust",
+   "posted_at": "2026-10-15T06:47:55.527Z",
+   "popularity": 6000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-67aa5c2b4676.jpg",
+   "first_seen": "2026-10-15T06:48:33.357Z",
    "picked": true
   },
   {
