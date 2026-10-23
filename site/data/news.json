@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T12:49:16.842Z",
+ "generated_at": "2026-10-23T14:56:29.556Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: microsoft develops ai tool",
+   "source": "youtube: donating skills agentic foundation",
    "ok": true
   },
   {
-   "source": "tiktok: microsoft develops ai tool",
+   "source": "tiktok: donating skills agentic foundation",
    "ok": true
   }
  ],
@@ -140,6 +140,152 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-23T08:46:31.686Z"
+  },
+  {
+   "first_seen": "2026-10-23T12:49:16.842Z",
+   "id": "39357217",
+   "ids": [
+    "39357217",
+    "39362432"
+   ],
+   "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+   "url": "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-23 05:07:29",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/"
+    }
+   ],
+   "queries": [
+    "microsoft develops ai tool"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xiEWjQ2_2IQ",
+     "url": "https://www.youtube.com/watch?v=xiEWjQ2_2IQ",
+     "title": "RERIGHT · Microsoft develops AI tool that can diagnose 'sequentially'",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 0.55,
+     "relevance": 0.88,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T12:49:21.130Z"
+  },
+  {
+   "first_seen": "2026-10-23T01:53:56.369Z",
+   "id": "39352505",
+   "ids": [
+    "39352505",
+    "39344407"
+   ],
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+   "source_id": "simonw",
+   "published_ts": "2026-10-22 18:09:56",
+   "story_sources": 2,
+   "score_norm": 80,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Donating Agent Skills to the Agentic AI Foundation",
+     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+    }
+   ],
+   "queries": [
+    "donating skills agentic foundation"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:upDQHjrHECw",
+     "url": "https://www.youtube.com/shorts/upDQHjrHECw",
+     "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
+     "channel": "",
+     "views": 53,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mg5thnMlsdg",
+     "url": "https://www.youtube.com/shorts/mg5thnMlsdg",
+     "title": "Anthropic gives away Agent Skills: 70+ AI agent platforms use it",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PlsZ4ZhdZO0",
+     "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
+     "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:FJkCISVF7fg",
+     "url": "https://www.youtube.com/shorts/FJkCISVF7fg",
+     "title": "Anthropic donates Agent Skills standard to the Agentic AI Foundation",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GXZDa-4mSic",
+     "url": "https://www.youtube.com/shorts/GXZDa-4mSic",
+     "title": "Anthropic donates Agent Skills to the Agentic AI Foundation #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0bPCQcW7QZg",
+     "url": "https://www.youtube.com/shorts/0bPCQcW7QZg",
+     "title": "Agent Skills Joins Neutral AI Foundation",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T14:56:33.889Z"
   },
   {
    "first_seen": "2026-10-23T00:45:40.615Z",
@@ -312,152 +458,6 @@
     "why_now": "один из роликов уже набрал почти 900 просмотров, тема цепляет аудиторию, но большинство форматов мало смотрят",
     "verdict": "early"
    }
-  },
-  {
-   "first_seen": "2026-10-23T12:49:16.842Z",
-   "id": "39357217",
-   "ids": [
-    "39357217",
-    "39362432"
-   ],
-   "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
-   "url": "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-23 05:07:29",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
-     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/"
-    }
-   ],
-   "queries": [
-    "microsoft develops ai tool"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xiEWjQ2_2IQ",
-     "url": "https://www.youtube.com/watch?v=xiEWjQ2_2IQ",
-     "title": "RERIGHT · Microsoft develops AI tool that can diagnose 'sequentially'",
-     "channel": "reright",
-     "views": 0,
-     "age_hours": 0.55,
-     "relevance": 0.88,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-23T12:49:21.130Z"
-  },
-  {
-   "first_seen": "2026-10-23T01:53:56.369Z",
-   "id": "39352505",
-   "ids": [
-    "39352505",
-    "39344407"
-   ],
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-   "source_id": "simonw",
-   "published_ts": "2026-10-22 18:09:56",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Donating Agent Skills to the Agentic AI Foundation",
-     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-    }
-   ],
-   "queries": [
-    "donating skills agentic foundation"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:drxxWqs6nJc",
-     "url": "https://www.youtube.com/shorts/drxxWqs6nJc",
-     "title": "177 open-source skills that turn your AI agent into a scientist",
-     "channel": "",
-     "views": 71,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wyK79HJd_1M",
-     "url": "https://www.youtube.com/shorts/wyK79HJd_1M",
-     "title": "Agentic AI & Automation Course | Learn Future-Ready AI Skills | Sky States LLC",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5YEgfVPv1P8",
-     "url": "https://www.youtube.com/shorts/5YEgfVPv1P8",
-     "title": "Everyone is underestimating agentic AI",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:upDQHjrHECw",
-     "url": "https://www.youtube.com/shorts/upDQHjrHECw",
-     "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PlsZ4ZhdZO0",
-     "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
-     "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0bPCQcW7QZg",
-     "url": "https://www.youtube.com/shorts/0bPCQcW7QZg",
-     "title": "Agent Skills Joins Neutral AI Foundation",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-23T08:46:35.193Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
