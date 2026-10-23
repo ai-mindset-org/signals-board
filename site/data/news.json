@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T15:19:36.989Z",
+ "generated_at": "2026-10-23T16:43:56.926Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: European Shops Aren't Switching It Off",
+   "source": "youtube: barclays calls ai icing",
    "ok": true
   },
   {
-   "source": "tiktok: European Shops Aren't Switching It Off",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai ad pixel tracks",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai ad pixel tracks",
+   "source": "tiktok: barclays calls ai icing",
    "ok": true
   }
  ],
@@ -237,6 +229,73 @@
    "searched_at": "2026-10-23T00:45:49.199Z"
   },
   {
+   "first_seen": "2026-10-23T16:43:56.926Z",
+   "id": "39361090",
+   "ids": [
+    "39361090",
+    "39367945"
+   ],
+   "title": "Barclays calls AI ‘icing on the cake’ as it culls jobs",
+   "url": "https://www.itweb.co.za/article/barclays-calls-ai-icing-on-the-cake-as-it-culls-jobs/Kjlyr7wBQm6vk6am",
+   "source_id": "africa-itweb",
+   "published_ts": "2026-10-23 08:58:30",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "gdelt-ai-global",
+     "title": "Barclays CEO Calls AI  Icing On The Cake  As 5 , 000 Jobs Get Axed",
+     "url": "https://dailycaller.com/2026/10/22/banking-giant-ceo-calls-ai-icing-on-the-cake-as-5000-jobs-get-axed/"
+    }
+   ],
+   "queries": [
+    "barclays calls ai icing"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fMH_1Vs_t14",
+     "url": "https://www.youtube.com/watch?v=fMH_1Vs_t14",
+     "title": "Barclays Is Cutting 5,000 Jobs. Is It Really AI?",
+     "channel": "Automation Check",
+     "views": 47,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:-s3NaWBUJic",
+     "url": "https://www.youtube.com/watch?v=-s3NaWBUJic",
+     "title": "Barclays is axing 5,000 jobs",
+     "channel": "Musafir مُسافر",
+     "views": 12,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8aUMlAxxJoM",
+     "url": "https://www.youtube.com/watch?v=8aUMlAxxJoM",
+     "title": "AI Job Cuts at Barclays? The CEO Calls AI the Icing",
+     "channel": "CyberGlitchs",
+     "views": 6,
+     "age_hours": 22,
+     "relevance": 0.57,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T16:44:00.914Z"
+  },
+  {
    "first_seen": "2026-10-23T12:49:16.842Z",
    "id": "39357217",
    "ids": [
@@ -248,7 +307,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-10-23 05:07:29",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
@@ -278,6 +337,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T12:49:21.130Z"
+  },
+  {
+   "first_seen": "2026-10-23T01:53:56.369Z",
+   "id": "39352505",
+   "ids": [
+    "39352505",
+    "39344407"
+   ],
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+   "source_id": "simonw",
+   "published_ts": "2026-10-22 18:09:56",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Donating Agent Skills to the Agentic AI Foundation",
+     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+    }
+   ],
+   "queries": [
+    "donating skills agentic foundation"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:upDQHjrHECw",
+     "url": "https://www.youtube.com/shorts/upDQHjrHECw",
+     "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
+     "channel": "",
+     "views": 53,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mg5thnMlsdg",
+     "url": "https://www.youtube.com/shorts/mg5thnMlsdg",
+     "title": "Anthropic gives away Agent Skills: 70+ AI agent platforms use it",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PlsZ4ZhdZO0",
+     "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
+     "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:FJkCISVF7fg",
+     "url": "https://www.youtube.com/shorts/FJkCISVF7fg",
+     "title": "Anthropic donates Agent Skills standard to the Agentic AI Foundation",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GXZDa-4mSic",
+     "url": "https://www.youtube.com/shorts/GXZDa-4mSic",
+     "title": "Anthropic donates Agent Skills to the Agentic AI Foundation #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0bPCQcW7QZg",
+     "url": "https://www.youtube.com/shorts/0bPCQcW7QZg",
+     "title": "Agent Skills Joins Neutral AI Foundation",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T14:56:33.889Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -394,109 +556,6 @@
     "why_now": "один из роликов уже набрал почти 900 просмотров, тема цепляет аудиторию, но большинство форматов мало смотрят",
     "verdict": "early"
    }
-  },
-  {
-   "first_seen": "2026-10-23T01:53:56.369Z",
-   "id": "39352505",
-   "ids": [
-    "39352505",
-    "39344407"
-   ],
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-   "source_id": "simonw",
-   "published_ts": "2026-10-22 18:09:56",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Donating Agent Skills to the Agentic AI Foundation",
-     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-    }
-   ],
-   "queries": [
-    "donating skills agentic foundation"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:upDQHjrHECw",
-     "url": "https://www.youtube.com/shorts/upDQHjrHECw",
-     "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
-     "channel": "",
-     "views": 53,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mg5thnMlsdg",
-     "url": "https://www.youtube.com/shorts/mg5thnMlsdg",
-     "title": "Anthropic gives away Agent Skills: 70+ AI agent platforms use it",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PlsZ4ZhdZO0",
-     "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
-     "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:FJkCISVF7fg",
-     "url": "https://www.youtube.com/shorts/FJkCISVF7fg",
-     "title": "Anthropic donates Agent Skills standard to the Agentic AI Foundation",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GXZDa-4mSic",
-     "url": "https://www.youtube.com/shorts/GXZDa-4mSic",
-     "title": "Anthropic donates Agent Skills to the Agentic AI Foundation #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0bPCQcW7QZg",
-     "url": "https://www.youtube.com/shorts/0bPCQcW7QZg",
-     "title": "Agent Skills Joins Neutral AI Foundation",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-23T14:56:33.889Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
