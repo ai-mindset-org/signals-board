@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T00:45:40.615Z",
+ "generated_at": "2026-10-23T01:53:56.369Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: What FDE",
+   "source": "youtube: olmoearth v1.3 state-of-the-art embeddings",
    "ok": true
   },
   {
-   "source": "tiktok: What FDE",
+   "source": "tiktok: olmoearth v1.3 state-of-the-art embeddings",
    "ok": true
   },
   {
-   "source": "youtube: fde openai means",
+   "source": "youtube: donating skills agentic foundation",
    "ok": true
   },
   {
-   "source": "tiktok: fde openai means",
-   "ok": true
-  },
-  {
-   "source": "youtube: Lets You Chat With DNA",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Lets You Chat With DNA",
-   "ok": true
-  },
-  {
-   "source": "youtube: hugging face biology lets",
-   "ok": true
-  },
-  {
-   "source": "tiktok: hugging face biology lets",
+   "source": "tiktok: donating skills agentic foundation",
    "ok": true
   }
  ],
@@ -70,7 +54,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-22T19:51:41.006Z"
+   "searched_at": "2026-10-23T01:54:00.468Z"
   },
   {
    "first_seen": "2026-10-23T00:45:40.615Z",
@@ -84,7 +68,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-22 06:00:00",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "hn",
@@ -127,6 +111,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T00:45:49.199Z"
+  },
+  {
+   "first_seen": "2026-10-23T01:53:56.369Z",
+   "id": "39352505",
+   "ids": [
+    "39352505",
+    "39344407"
+   ],
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+   "source_id": "simonw",
+   "published_ts": "2026-10-22 18:09:56",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Donating Agent Skills to the Agentic AI Foundation",
+     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+    }
+   ],
+   "queries": [
+    "donating skills agentic foundation"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RjZMUMV4Mws",
+     "url": "https://www.youtube.com/shorts/RjZMUMV4Mws",
+     "title": "AI Agent vs Agentic AI: What's the Difference?",
+     "channel": "",
+     "views": 94,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:drxxWqs6nJc",
+     "url": "https://www.youtube.com/shorts/drxxWqs6nJc",
+     "title": "177 open-source skills that turn your AI agent into a scientist",
+     "channel": "",
+     "views": 86,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5YEgfVPv1P8",
+     "url": "https://www.youtube.com/shorts/5YEgfVPv1P8",
+     "title": "Everyone is underestimating agentic AI",
+     "channel": "",
+     "views": 37,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iIE_4Rxtj6U",
+     "url": "https://www.youtube.com/shorts/iIE_4Rxtj6U",
+     "title": "Perspectives on AI and the agentic future",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:upDQHjrHECw",
+     "url": "https://www.youtube.com/shorts/upDQHjrHECw",
+     "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PlsZ4ZhdZO0",
+     "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
+     "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T01:54:04.077Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
