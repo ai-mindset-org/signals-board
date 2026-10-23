@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T08:46:27.919Z",
+ "generated_at": "2026-10-23T12:24:20.857Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,108 @@
  },
  "search_report": [
   {
-   "source": "youtube: olmoearth v1.3 state-of-the-art embeddings",
+   "source": "youtube: unvetted u.s ai agents",
    "ok": true
   },
   {
-   "source": "tiktok: olmoearth v1.3 state-of-the-art embeddings",
-   "ok": true
-  },
-  {
-   "source": "youtube: donating skills agentic foundation",
-   "ok": true
-  },
-  {
-   "source": "tiktok: donating skills agentic foundation",
+   "source": "tiktok: unvetted u.s ai agents",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-10-22T20:17:00.949Z",
+   "id": "39347225",
+   "ids": [
+    "39347225",
+    "39338037",
+    "39357316",
+    "39361786"
+   ],
+   "title": "Unvetted AI agents are accessing U.S. bank accounts and the banks are shutting them down",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xdbt9u/unvetted_ai_agents_are_accessing_us_bank_accounts/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-23 11:48:17",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Unvetted AI agents are accessing U.S. bank accounts",
+     "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access"
+    }
+   ],
+   "queries": [
+    "unvetted u.s ai agents"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FSh7A6XzVSk",
+     "url": "https://www.youtube.com/watch?v=FSh7A6XzVSk",
+     "title": "Prepare for \"Day After\" Scenario: Unvetted AI Agents Have Been Caught Accessing US Bank Accounts",
+     "channel": "DAHBOO77",
+     "views": 30720,
+     "age_hours": 19,
+     "relevance": 0.55,
+     "velocity": 1617
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VUfk8a23a8A",
+     "url": "https://www.youtube.com/watch?v=VUfk8a23a8A",
+     "title": "AI Agents Are Accessing BANK ACCOUNTS?! Major U.S Banks Sound The Alarm ",
+     "channel": "Oba News",
+     "views": 305,
+     "age_hours": 13,
+     "relevance": 0.7,
+     "velocity": 23
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iBv2YqDbESA",
+     "url": "https://www.youtube.com/shorts/iBv2YqDbESA",
+     "title": "AI Agents in Bank Accounts? U.S. Banks Push Back, Axios Reports #AINews #BankingNews #USNews #Shorts",
+     "channel": "",
+     "views": 174,
+     "age_hours": null,
+     "relevance": 0.55,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AztUeWEih3Y",
+     "url": "https://www.youtube.com/shorts/AztUeWEih3Y",
+     "title": "JUST IN: Rogue AI Agents Found INSIDE U.S. Bank Accounts, and Banks Are HORRIFIED",
+     "channel": "",
+     "views": 142,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jncMtJ761Rs",
+     "url": "https://www.youtube.com/watch?v=jncMtJ761Rs",
+     "title": "WARNING: Unvetted AI Agents Are Accessing US Bank Accounts",
+     "channel": "Wetter in Österreich",
+     "views": 47,
+     "age_hours": 17,
+     "relevance": 0.75,
+     "velocity": 3
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-23T12:24:24.886Z"
+  },
   {
    "first_seen": "2026-10-22T19:51:36.864Z",
    "id": "39346574",
@@ -38,7 +123,7 @@
    "source_id": "hf-blog",
    "published_ts": "2026-10-22 16:11:31",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -111,109 +196,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T00:45:49.199Z"
-  },
-  {
-   "first_seen": "2026-10-23T01:53:56.369Z",
-   "id": "39352505",
-   "ids": [
-    "39352505",
-    "39344407"
-   ],
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-   "source_id": "simonw",
-   "published_ts": "2026-10-22 18:09:56",
-   "story_sources": 2,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Donating Agent Skills to the Agentic AI Foundation",
-     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-    }
-   ],
-   "queries": [
-    "donating skills agentic foundation"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:drxxWqs6nJc",
-     "url": "https://www.youtube.com/shorts/drxxWqs6nJc",
-     "title": "177 open-source skills that turn your AI agent into a scientist",
-     "channel": "",
-     "views": 71,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wyK79HJd_1M",
-     "url": "https://www.youtube.com/shorts/wyK79HJd_1M",
-     "title": "Agentic AI & Automation Course | Learn Future-Ready AI Skills | Sky States LLC",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5YEgfVPv1P8",
-     "url": "https://www.youtube.com/shorts/5YEgfVPv1P8",
-     "title": "Everyone is underestimating agentic AI",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:upDQHjrHECw",
-     "url": "https://www.youtube.com/shorts/upDQHjrHECw",
-     "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PlsZ4ZhdZO0",
-     "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
-     "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0bPCQcW7QZg",
-     "url": "https://www.youtube.com/shorts/0bPCQcW7QZg",
-     "title": "Agent Skills Joins Neutral AI Foundation",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-23T08:46:35.193Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -330,6 +312,109 @@
     "why_now": "один из роликов уже набрал почти 900 просмотров, тема цепляет аудиторию, но большинство форматов мало смотрят",
     "verdict": "early"
    }
+  },
+  {
+   "first_seen": "2026-10-23T01:53:56.369Z",
+   "id": "39352505",
+   "ids": [
+    "39352505",
+    "39344407"
+   ],
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+   "source_id": "simonw",
+   "published_ts": "2026-10-22 18:09:56",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Donating Agent Skills to the Agentic AI Foundation",
+     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+    }
+   ],
+   "queries": [
+    "donating skills agentic foundation"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:drxxWqs6nJc",
+     "url": "https://www.youtube.com/shorts/drxxWqs6nJc",
+     "title": "177 open-source skills that turn your AI agent into a scientist",
+     "channel": "",
+     "views": 71,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wyK79HJd_1M",
+     "url": "https://www.youtube.com/shorts/wyK79HJd_1M",
+     "title": "Agentic AI & Automation Course | Learn Future-Ready AI Skills | Sky States LLC",
+     "channel": "",
+     "views": 63,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5YEgfVPv1P8",
+     "url": "https://www.youtube.com/shorts/5YEgfVPv1P8",
+     "title": "Everyone is underestimating agentic AI",
+     "channel": "",
+     "views": 38,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:upDQHjrHECw",
+     "url": "https://www.youtube.com/shorts/upDQHjrHECw",
+     "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PlsZ4ZhdZO0",
+     "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
+     "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0bPCQcW7QZg",
+     "url": "https://www.youtube.com/shorts/0bPCQcW7QZg",
+     "title": "Agent Skills Joins Neutral AI Foundation",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-23T08:46:35.193Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -711,91 +796,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-22T20:41:31.008Z"
-  },
-  {
-   "first_seen": "2026-10-22T20:17:00.949Z",
-   "id": "39347225",
-   "ids": [
-    "39347225",
-    "39338037",
-    "39357316"
-   ],
-   "title": "Unauthorized AI agents are reportedly already accessing US bank accounts",
-   "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/",
-   "source_id": "engadget",
-   "published_ts": "2026-10-22 18:02:04",
-   "story_sources": 2,
-   "score_norm": 52,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Unauthorized AI agents are reportedly accessing US bank accounts",
-     "url": "https://www.msn.com/en-us/news/other/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/ar-AA2fQDti"
-    },
-    {
-     "source_id": "hn",
-     "title": "Unvetted AI agents are accessing U.S. bank accounts",
-     "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access"
-    }
-   ],
-   "queries": [
-    "unauthorized us ai agents"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FSh7A6XzVSk",
-     "url": "https://www.youtube.com/watch?v=FSh7A6XzVSk",
-     "title": "Prepare for \"Day After\" Scenario: Unvetted AI Agents Have Been Caught Accessing US Bank Accounts",
-     "channel": "DAHBOO77",
-     "views": 26001,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 2889
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c6dcn_2i0w8",
-     "url": "https://www.youtube.com/shorts/c6dcn_2i0w8",
-     "title": "The US Government's Playbook for Rogue AI Agents 🛑",
-     "channel": "",
-     "views": 199,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D9YGa1Ck67Q",
-     "url": "https://www.youtube.com/shorts/D9YGa1Ck67Q",
-     "title": "US banks detect unauthorized AI agents inside accounts",
-     "channel": "",
-     "views": 156,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ps9ZVSVx7R8",
-     "url": "https://www.youtube.com/watch?v=ps9ZVSVx7R8",
-     "title": "AI AGENTS UNAUTHORIZED ACCOUNT ACCESS!",
-     "channel": "greatmillstonedailybread411",
-     "views": 3,
-     "age_hours": 4,
-     "relevance": 0.6,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-23T02:24:38.245Z"
   },
   {
    "first_seen": "2026-10-22T11:41:16.006Z",
