@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T07:46:41.300Z",
+ "generated_at": "2026-10-23T08:46:27.919Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: olmoearth v1.3 state-of-the-art embeddings",
+   "ok": true
+  },
+  {
+   "source": "tiktok: olmoearth v1.3 state-of-the-art embeddings",
+   "ok": true
+  },
+  {
+   "source": "youtube: donating skills agentic foundation",
+   "ok": true
+  },
+  {
+   "source": "tiktok: donating skills agentic foundation",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-22T19:51:36.864Z",
@@ -37,7 +54,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-23T01:54:00.468Z"
+   "searched_at": "2026-10-23T08:46:31.686Z"
   },
   {
    "first_seen": "2026-10-23T00:45:40.615Z",
@@ -122,23 +139,23 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:RjZMUMV4Mws",
-     "url": "https://www.youtube.com/shorts/RjZMUMV4Mws",
-     "title": "AI Agent vs Agentic AI: What's the Difference?",
+     "id": "youtube:drxxWqs6nJc",
+     "url": "https://www.youtube.com/shorts/drxxWqs6nJc",
+     "title": "177 open-source skills that turn your AI agent into a scientist",
      "channel": "",
-     "views": 94,
+     "views": 71,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:drxxWqs6nJc",
-     "url": "https://www.youtube.com/shorts/drxxWqs6nJc",
-     "title": "177 open-source skills that turn your AI agent into a scientist",
+     "id": "youtube:wyK79HJd_1M",
+     "url": "https://www.youtube.com/shorts/wyK79HJd_1M",
+     "title": "Agentic AI & Automation Course | Learn Future-Ready AI Skills | Sky States LLC",
      "channel": "",
-     "views": 86,
+     "views": 63,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -150,19 +167,7 @@
      "url": "https://www.youtube.com/shorts/5YEgfVPv1P8",
      "title": "Everyone is underestimating agentic AI",
      "channel": "",
-     "views": 37,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iIE_4Rxtj6U",
-     "url": "https://www.youtube.com/shorts/iIE_4Rxtj6U",
-     "title": "Perspectives on AI and the agentic future",
-     "channel": "",
-     "views": 10,
+     "views": 38,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -174,7 +179,7 @@
      "url": "https://www.youtube.com/shorts/upDQHjrHECw",
      "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
      "channel": "",
-     "views": 4,
+     "views": 20,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -186,9 +191,21 @@
      "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
      "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
      "channel": "",
-     "views": 2,
+     "views": 3,
      "age_hours": null,
      "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0bPCQcW7QZg",
+     "url": "https://www.youtube.com/shorts/0bPCQcW7QZg",
+     "title": "Agent Skills Joins Neutral AI Foundation",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -196,7 +213,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-23T01:54:04.077Z"
+   "searched_at": "2026-10-23T08:46:35.193Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
