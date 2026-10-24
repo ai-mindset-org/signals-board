@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T03:44:23.356Z",
+ "generated_at": "2026-10-24T07:40:34.510Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,79 @@
  },
  "search_report": [
   {
-   "source": "youtube: European Shops Aren't Switching It Off",
+   "source": "youtube: Part II",
    "ok": true
   },
   {
-   "source": "tiktok: European Shops Aren't Switching It Off",
+   "source": "tiktok: Part II",
    "ok": true
   },
   {
-   "source": "youtube: openai ad pixel tracks",
+   "source": "youtube: rapidly chatgpt ii scaling",
    "ok": true
   },
   {
-   "source": "tiktok: openai ad pixel tracks",
+   "source": "tiktok: rapidly chatgpt ii scaling",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-10-24T07:40:34.510Z",
+   "id": "39371392",
+   "ids": [
+    "39371392",
+    "39380435"
+   ],
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-23 17:00:00",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Rapidly scaling online storage to serve over 1B ChatGPT users (Part II)",
+     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two/"
+    }
+   ],
+   "queries": [
+    "Part II",
+    "rapidly chatgpt ii scaling"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IJyPOOqaMlU",
+     "url": "https://www.youtube.com/shorts/IJyPOOqaMlU",
+     "title": "OpenAI: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tpFiX4xA_ZI",
+     "url": "https://www.youtube.com/shorts/tpFiX4xA_ZI",
+     "title": "OpenAI scaled ChatGPT storage 12× faster for 1 billion users",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-24T07:40:42.577Z"
+  },
   {
    "first_seen": "2026-10-22T20:17:00.949Z",
    "id": "39347225",
@@ -417,37 +473,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T14:56:33.889Z"
-  },
-  {
-   "first_seen": "2026-10-23T15:19:36.989Z",
-   "id": "39365732",
-   "ids": [
-    "39365732",
-    "39360868"
-   ],
-   "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xdbe24/openais_ad_pixel_tracks_by_default_and_european/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-23 11:26:27",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
-     "url": "https://ciphercue.com/blog/openai-chatgpt-ad-pixel-european-shops"
-    }
-   ],
-   "queries": [
-    "European Shops Aren't Switching It Off",
-    "openai ad pixel tracks"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-24T03:44:31.178Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
@@ -1459,6 +1484,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-22T21:16:23.907Z"
+  },
+  {
+   "first_seen": "2026-10-23T15:19:36.989Z",
+   "id": "39365732",
+   "ids": [
+    "39365732",
+    "39360868"
+   ],
+   "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xdbe24/openais_ad_pixel_tracks_by_default_and_european/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-23 11:26:27",
+   "story_sources": 2,
+   "score_norm": 44,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
+     "url": "https://ciphercue.com/blog/openai-chatgpt-ad-pixel-european-shops"
+    }
+   ],
+   "queries": [
+    "European Shops Aren't Switching It Off",
+    "openai ad pixel tracks"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-24T03:44:31.178Z"
   },
   {
    "first_seen": "2026-10-22T10:19:39.231Z",
