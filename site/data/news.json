@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T21:14:55.232Z",
+ "generated_at": "2026-10-24T22:27:14.864Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,129 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Sweden's Government Offices Block ChatGPT",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Sweden's Government Offices Block ChatGPT",
+   "ok": true
+  },
+  {
+   "source": "youtube: sweden government offices block",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sweden government offices block",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-10-24T16:16:00.002Z",
+   "id": "39386166",
+   "ids": [
+    "39386166",
+    "39381212"
+   ],
+   "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+   "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-24 16:01:03",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Sweden's Government Offices will block ChatGPT and Claude on staff computers",
+     "url": "https://twitter.com/intcyberdigest/status/2113815992984080865"
+    }
+   ],
+   "queries": [
+    "Sweden's Government Offices Block ChatGPT",
+    "sweden government offices block"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jEtzx2-E7kw",
+     "url": "https://www.youtube.com/shorts/jEtzx2-E7kw",
+     "title": "🚨 Sweden Bans ChatGPT and Claude on Government PCs #AINews",
+     "channel": "",
+     "views": 84,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:peeF_suRZNk",
+     "url": "https://www.youtube.com/shorts/peeF_suRZNk",
+     "title": "Why Did Sweden Block ChatGPT and Claude? Explained #chatgpt #claude #ai",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sQwLNEm2EE0",
+     "url": "https://www.youtube.com/shorts/sQwLNEm2EE0",
+     "title": "🚫 Sweden BLOCKS ChatGPT and Claude in government… and the infinite-context HOAX #shorts",
+     "channel": "",
+     "views": 37,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HuHV84BDYPE",
+     "url": "https://www.youtube.com/shorts/HuHV84BDYPE",
+     "title": "Sweden's government blocks ChatGPT and Claude",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:E3v4jhTRVE8",
+     "url": "https://www.youtube.com/shorts/E3v4jhTRVE8",
+     "title": "Sweden's Government Just Banned ChatGPT and Claude",
+     "channel": "",
+     "views": 23,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dpktK5Hvo7g",
+     "url": "https://www.youtube.com/shorts/dpktK5Hvo7g",
+     "title": "Sweden's Government Blocked ChatGPT and Claude From Monday",
+     "channel": "",
+     "views": 21,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-24T22:27:22.836Z"
+  },
   {
    "first_seen": "2026-10-22T20:17:00.949Z",
    "id": "39347225",
@@ -101,110 +222,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-23T12:24:24.886Z"
-  },
-  {
-   "first_seen": "2026-10-24T16:16:00.002Z",
-   "id": "39386166",
-   "ids": [
-    "39386166",
-    "39381212"
-   ],
-   "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-   "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-24 16:01:03",
-   "story_sources": 2,
-   "score_norm": 99,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Sweden's Government Offices will block ChatGPT and Claude on staff computers",
-     "url": "https://twitter.com/intcyberdigest/status/2113815992984080865"
-    }
-   ],
-   "queries": [
-    "Sweden's Government Offices Block ChatGPT",
-    "sweden government offices block"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jEtzx2-E7kw",
-     "url": "https://www.youtube.com/shorts/jEtzx2-E7kw",
-     "title": "🚨 Sweden Bans ChatGPT and Claude on Government PCs #AINews",
-     "channel": "",
-     "views": 65,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sQwLNEm2EE0",
-     "url": "https://www.youtube.com/shorts/sQwLNEm2EE0",
-     "title": "🚫 Sweden BLOCKS ChatGPT and Claude in government… and the infinite-context HOAX #shorts",
-     "channel": "",
-     "views": 37,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:peeF_suRZNk",
-     "url": "https://www.youtube.com/shorts/peeF_suRZNk",
-     "title": "Why Did Sweden Block ChatGPT and Claude? Explained #chatgpt #claude #ai",
-     "channel": "",
-     "views": 36,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:HuHV84BDYPE",
-     "url": "https://www.youtube.com/shorts/HuHV84BDYPE",
-     "title": "Sweden's government blocks ChatGPT and Claude",
-     "channel": "",
-     "views": 23,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dpktK5Hvo7g",
-     "url": "https://www.youtube.com/shorts/dpktK5Hvo7g",
-     "title": "Sweden's Government Blocked ChatGPT and Claude From Monday",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:E3v4jhTRVE8",
-     "url": "https://www.youtube.com/shorts/E3v4jhTRVE8",
-     "title": "Sweden's Government Just Banned ChatGPT and Claude",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-24T16:16:07.768Z"
   },
   {
    "first_seen": "2026-10-24T07:40:34.510Z",
