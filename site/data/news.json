@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T22:27:14.864Z",
+ "generated_at": "2026-10-24T23:25:28.636Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,80 +9,56 @@
  },
  "search_report": [
   {
-   "source": "youtube: Sweden's Government Offices Block ChatGPT",
+   "source": "youtube: Biosecurity Lab",
    "ok": true
   },
   {
-   "source": "tiktok: Sweden's Government Offices Block ChatGPT",
+   "source": "tiktok: Biosecurity Lab",
    "ok": true
   },
   {
-   "source": "youtube: sweden government offices block",
+   "source": "youtube: uk 100m biosecurity lab",
    "ok": true
   },
   {
-   "source": "tiktok: sweden government offices block",
+   "source": "tiktok: uk 100m biosecurity lab",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-24T16:16:00.002Z",
-   "id": "39386166",
+   "first_seen": "2026-10-24T23:25:28.636Z",
+   "id": "39391609",
    "ids": [
-    "39386166",
-    "39381212"
+    "39391609",
+    "39381071"
    ],
-   "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
-   "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-24 16:01:03",
+   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xem3kc/uk_to_invest_100m_in_world_first_ai_biosecurity/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-24 22:45:29",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Sweden's Government Offices will block ChatGPT and Claude on staff computers",
-     "url": "https://twitter.com/intcyberdigest/status/2113815992984080865"
+     "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
+     "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo"
     }
    ],
    "queries": [
-    "Sweden's Government Offices Block ChatGPT",
-    "sweden government offices block"
+    "Biosecurity Lab",
+    "uk 100m biosecurity lab"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:jEtzx2-E7kw",
-     "url": "https://www.youtube.com/shorts/jEtzx2-E7kw",
-     "title": "🚨 Sweden Bans ChatGPT and Claude on Government PCs #AINews",
+     "id": "youtube:Sy_sGrq_6uM",
+     "url": "https://www.youtube.com/shorts/Sy_sGrq_6uM",
+     "title": "UK Unveils $800 Million AI Safety Plan With New Biosecurity Lab",
      "channel": "",
-     "views": 84,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:peeF_suRZNk",
-     "url": "https://www.youtube.com/shorts/peeF_suRZNk",
-     "title": "Why Did Sweden Block ChatGPT and Claude? Explained #chatgpt #claude #ai",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sQwLNEm2EE0",
-     "url": "https://www.youtube.com/shorts/sQwLNEm2EE0",
-     "title": "🚫 Sweden BLOCKS ChatGPT and Claude in government… and the infinite-context HOAX #shorts",
-     "channel": "",
-     "views": 37,
+     "views": 98,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -90,45 +66,69 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:HuHV84BDYPE",
-     "url": "https://www.youtube.com/shorts/HuHV84BDYPE",
-     "title": "Sweden's government blocks ChatGPT and Claude",
+     "id": "youtube:H3lAfx8bdxA",
+     "url": "https://www.youtube.com/shorts/H3lAfx8bdxA",
+     "title": "UK commits £100 million to a new AI Biosecurity Lab",
      "channel": "",
-     "views": 35,
+     "views": 95,
      "age_hours": null,
-     "relevance": 0.8,
+     "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:E3v4jhTRVE8",
-     "url": "https://www.youtube.com/shorts/E3v4jhTRVE8",
-     "title": "Sweden's Government Just Banned ChatGPT and Claude",
-     "channel": "",
-     "views": 23,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:iwnTTHE5ZJM",
+     "url": "https://www.youtube.com/watch?v=iwnTTHE5ZJM",
+     "title": "UK launches £100m AI Biosecurity Lab to counter future threats.",
+     "channel": "9ine Africa",
+     "views": 36,
+     "age_hours": 18,
+     "relevance": 0.63,
+     "velocity": 2
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:dpktK5Hvo7g",
-     "url": "https://www.youtube.com/shorts/dpktK5Hvo7g",
-     "title": "Sweden's Government Blocked ChatGPT and Claude From Monday",
+     "id": "youtube:5OORS3xLY_I",
+     "url": "https://www.youtube.com/shorts/5OORS3xLY_I",
+     "title": "UK AI Biosecurity Lab: £100M pledge, backed by OpenAI and Anthropic",
      "channel": "",
-     "views": 21,
+     "views": 48,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.63,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DP_KPYmwTOo",
+     "url": "https://www.youtube.com/watch?v=DP_KPYmwTOo",
+     "title": "UK Unveils AI Biosecurity Lab to Detect Future Pandemic Threats",
+     "channel": "Britain Breaking",
+     "views": 8,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wJa1Gm8EuH4",
+     "url": "https://www.youtube.com/watch?v=wJa1Gm8EuH4",
+     "title": "Tech News Today: UK funds £100m AI biosecurity lab with OpenAI & more | 24 OCT 2026",
+     "channel": "AIT",
+     "views": 12,
+     "age_hours": 10,
+     "relevance": 0.63,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-24T22:27:22.836Z"
+   "searched_at": "2026-10-24T23:25:36.365Z"
   },
   {
    "first_seen": "2026-10-22T20:17:00.949Z",
@@ -308,6 +308,110 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-23T08:46:31.686Z"
+  },
+  {
+   "first_seen": "2026-10-24T16:16:00.002Z",
+   "id": "39386166",
+   "ids": [
+    "39386166",
+    "39381212"
+   ],
+   "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+   "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-24 16:01:03",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Sweden's Government Offices will block ChatGPT and Claude on staff computers",
+     "url": "https://twitter.com/intcyberdigest/status/2113815992984080865"
+    }
+   ],
+   "queries": [
+    "Sweden's Government Offices Block ChatGPT",
+    "sweden government offices block"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jEtzx2-E7kw",
+     "url": "https://www.youtube.com/shorts/jEtzx2-E7kw",
+     "title": "🚨 Sweden Bans ChatGPT and Claude on Government PCs #AINews",
+     "channel": "",
+     "views": 84,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:peeF_suRZNk",
+     "url": "https://www.youtube.com/shorts/peeF_suRZNk",
+     "title": "Why Did Sweden Block ChatGPT and Claude? Explained #chatgpt #claude #ai",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sQwLNEm2EE0",
+     "url": "https://www.youtube.com/shorts/sQwLNEm2EE0",
+     "title": "🚫 Sweden BLOCKS ChatGPT and Claude in government… and the infinite-context HOAX #shorts",
+     "channel": "",
+     "views": 37,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HuHV84BDYPE",
+     "url": "https://www.youtube.com/shorts/HuHV84BDYPE",
+     "title": "Sweden's government blocks ChatGPT and Claude",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:E3v4jhTRVE8",
+     "url": "https://www.youtube.com/shorts/E3v4jhTRVE8",
+     "title": "Sweden's Government Just Banned ChatGPT and Claude",
+     "channel": "",
+     "views": 23,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dpktK5Hvo7g",
+     "url": "https://www.youtube.com/shorts/dpktK5Hvo7g",
+     "title": "Sweden's Government Blocked ChatGPT and Claude From Monday",
+     "channel": "",
+     "views": 21,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-24T22:27:22.836Z"
   },
   {
    "first_seen": "2026-10-24T07:51:13.332Z",
