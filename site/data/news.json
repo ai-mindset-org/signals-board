@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T13:50:08.543Z",
+ "generated_at": "2026-10-24T14:14:19.861Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Part II",
+   "source": "youtube: Jack Dorsey’s Block",
    "ok": true
   },
   {
-   "source": "tiktok: Part II",
+   "source": "tiktok: Jack Dorsey’s Block",
    "ok": true
   },
   {
-   "source": "youtube: rapidly chatgpt ii scaling",
+   "source": "youtube: jack dorsey block made",
    "ok": true
   },
   {
-   "source": "tiktok: rapidly chatgpt ii scaling",
+   "source": "tiktok: jack dorsey block made",
    "ok": true
   }
  ],
@@ -237,10 +237,10 @@
      "url": "https://www.youtube.com/watch?v=NqO39Fjy1C0",
      "title": "Jack Dorsey Dessa AI Voice is INSANE!",
      "channel": "Julian Goldie SEO",
-     "views": 1173,
-     "age_hours": 4,
+     "views": 4765,
+     "age_hours": 10,
      "relevance": 0.5,
-     "velocity": 293
+     "velocity": 477
     },
     {
      "platform": "youtube",
@@ -249,8 +249,8 @@
      "url": "https://www.youtube.com/watch?v=Gq8bRtE3qjI",
      "title": "Jack Dorsey's Block made an AI model that talks to you like an awkward new friend",
      "channel": "World Talk Brief",
-     "views": 5,
-     "age_hours": 6,
+     "views": 12,
+     "age_hours": 12,
      "relevance": 1,
      "velocity": 1
     }
@@ -259,7 +259,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-24T07:51:20.802Z"
+   "searched_at": "2026-10-24T14:14:27.671Z"
   },
   {
    "first_seen": "2026-10-23T00:45:40.615Z",
