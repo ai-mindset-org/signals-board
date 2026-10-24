@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T07:51:13.332Z",
+ "generated_at": "2026-10-24T10:38:44.632Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Jack Dorsey’s Block",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Jack Dorsey’s Block",
-   "ok": true
-  },
-  {
-   "source": "youtube: jack dorsey block made",
-   "ok": true
-  },
-  {
-   "source": "tiktok: jack dorsey block made",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-24T07:40:34.510Z",
@@ -1651,74 +1634,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-22T22:29:01.569Z"
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39316178",
-   "ids": [
-    "39316178",
-    "39311824"
-   ],
-   "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-   "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-   "source_id": "wired",
-   "published_ts": "2026-10-21 10:30:00",
-   "story_sources": 2,
-   "score_norm": 41,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xbk598/openai_invests_in_startup_that_uses_brain/"
-    }
-   ],
-   "queries": [
-    "Startup That Uses Brain Implants",
-    "openai invests startup uses"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xhkoX2iJwOM",
-     "url": "https://www.youtube.com/shorts/xhkoX2iJwOM",
-     "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LlRGPZt5noE",
-     "url": "https://www.youtube.com/watch?v=LlRGPZt5noE",
-     "title": "OpenAI Is Betting on a Brain Implant Built to Detect and Treat Cancer",
-     "channel": "AI Wire Daily",
-     "views": 3,
-     "age_hours": 21,
-     "relevance": 0.5,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T09:29:37.011Z",
-   "pitch": {
-    "text": "Разбор, зачем OpenAI вкладывается в стартап с мозговыми имплантами для диагностики рака – объяснить аудитории, как AI проникает в медтех и что это значит для будущего применения AI вне офисных задач",
-    "format": "разбор 6-10 мин",
-    "hook": "OpenAI вложился в стартап, который вживляет чипы в мозг против рака",
-    "why_now": "Тема только начала набирать обороты – ролики уже есть, но просмотров почти нет, можно зайти одними из первых",
-    "verdict": "early"
-   },
-   "queries_llm": [
-    "OpenAI brain implant cancer startup investment",
-    "OpenAI invests brain chip cancer detection",
-    "OpenAI neurotech startup funding 2026"
-   ]
   }
  ]
 }
