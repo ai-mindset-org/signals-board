@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T07:40:34.510Z",
+ "generated_at": "2026-10-24T07:51:13.332Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Part II",
+   "source": "youtube: Jack Dorsey’s Block",
    "ok": true
   },
   {
-   "source": "tiktok: Part II",
+   "source": "tiktok: Jack Dorsey’s Block",
    "ok": true
   },
   {
-   "source": "youtube: rapidly chatgpt ii scaling",
+   "source": "youtube: jack dorsey block made",
    "ok": true
   },
   {
-   "source": "tiktok: rapidly chatgpt ii scaling",
+   "source": "tiktok: jack dorsey block made",
    "ok": true
   }
  ],
@@ -204,6 +204,62 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-23T08:46:31.686Z"
+  },
+  {
+   "first_seen": "2026-10-24T07:51:13.332Z",
+   "id": "39372000",
+   "ids": [
+    "39372000",
+    "39380577"
+   ],
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+   "source_id": "theverge",
+   "published_ts": "2026-10-23 19:32:39",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Jack Dorsey’s Block unveils new voice AI model that talks like a real human",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/jack-dorsey-voice-ai-dessa-block-inc-10934777/"
+    }
+   ],
+   "queries": [
+    "Jack Dorsey’s Block",
+    "jack dorsey block made"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NqO39Fjy1C0",
+     "url": "https://www.youtube.com/watch?v=NqO39Fjy1C0",
+     "title": "Jack Dorsey Dessa AI Voice is INSANE!",
+     "channel": "Julian Goldie SEO",
+     "views": 1173,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 293
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Gq8bRtE3qjI",
+     "url": "https://www.youtube.com/watch?v=Gq8bRtE3qjI",
+     "title": "Jack Dorsey's Block made an AI model that talks to you like an awkward new friend",
+     "channel": "World Talk Brief",
+     "views": 5,
+     "age_hours": 6,
+     "relevance": 1,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-24T07:51:20.802Z"
   },
   {
    "first_seen": "2026-10-23T00:45:40.615Z",
