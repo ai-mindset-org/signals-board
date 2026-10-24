@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T21:38:41.731Z",
+ "generated_at": "2026-10-24T03:44:23.356Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -419,6 +419,37 @@
    "searched_at": "2026-10-23T14:56:33.889Z"
   },
   {
+   "first_seen": "2026-10-23T15:19:36.989Z",
+   "id": "39365732",
+   "ids": [
+    "39365732",
+    "39360868"
+   ],
+   "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xdbe24/openais_ad_pixel_tracks_by_default_and_european/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-23 11:26:27",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
+     "url": "https://ciphercue.com/blog/openai-chatgpt-ad-pixel-european-shops"
+    }
+   ],
+   "queries": [
+    "European Shops Aren't Switching It Off",
+    "openai ad pixel tracks"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-24T03:44:31.178Z"
+  },
+  {
    "first_seen": "2026-10-22T09:28:35.978Z",
    "id": "39319133",
    "ids": [
@@ -533,37 +564,6 @@
     "why_now": "один из роликов уже набрал почти 900 просмотров, тема цепляет аудиторию, но большинство форматов мало смотрят",
     "verdict": "early"
    }
-  },
-  {
-   "first_seen": "2026-10-23T15:19:36.989Z",
-   "id": "39365732",
-   "ids": [
-    "39365732",
-    "39360868"
-   ],
-   "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xdbe24/openais_ad_pixel_tracks_by_default_and_european/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-23 11:26:27",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
-     "url": "https://ciphercue.com/blog/openai-chatgpt-ad-pixel-european-shops"
-    }
-   ],
-   "queries": [
-    "European Shops Aren't Switching It Off",
-    "openai ad pixel tracks"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-23T21:38:49.477Z"
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
