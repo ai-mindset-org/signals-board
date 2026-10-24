@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T14:14:19.861Z",
+ "generated_at": "2026-10-24T16:16:00.002Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,70 +9,118 @@
  },
  "search_report": [
   {
-   "source": "youtube: Jack Dorsey’s Block",
+   "source": "youtube: Sweden's Government Offices Block ChatGPT",
    "ok": true
   },
   {
-   "source": "tiktok: Jack Dorsey’s Block",
+   "source": "tiktok: Sweden's Government Offices Block ChatGPT",
    "ok": true
   },
   {
-   "source": "youtube: jack dorsey block made",
+   "source": "youtube: sweden government offices block",
    "ok": true
   },
   {
-   "source": "tiktok: jack dorsey block made",
+   "source": "tiktok: sweden government offices block",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-24T07:40:34.510Z",
-   "id": "39371392",
+   "first_seen": "2026-10-24T16:16:00.002Z",
+   "id": "39386166",
    "ids": [
-    "39371392",
-    "39380435"
+    "39386166",
+    "39381212"
    ],
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-23 17:00:00",
+   "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+   "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-24 16:01:03",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Rapidly scaling online storage to serve over 1B ChatGPT users (Part II)",
-     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two/"
+     "title": "Sweden's Government Offices will block ChatGPT and Claude on staff computers",
+     "url": "https://twitter.com/intcyberdigest/status/2113815992984080865"
     }
    ],
    "queries": [
-    "Part II",
-    "rapidly chatgpt ii scaling"
+    "Sweden's Government Offices Block ChatGPT",
+    "sweden government offices block"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:IJyPOOqaMlU",
-     "url": "https://www.youtube.com/shorts/IJyPOOqaMlU",
-     "title": "OpenAI: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+     "id": "youtube:jEtzx2-E7kw",
+     "url": "https://www.youtube.com/shorts/jEtzx2-E7kw",
+     "title": "🚨 Sweden Bans ChatGPT and Claude on Government PCs #AINews",
      "channel": "",
-     "views": 1,
+     "views": 65,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:tpFiX4xA_ZI",
-     "url": "https://www.youtube.com/shorts/tpFiX4xA_ZI",
-     "title": "OpenAI scaled ChatGPT storage 12× faster for 1 billion users",
+     "id": "youtube:sQwLNEm2EE0",
+     "url": "https://www.youtube.com/shorts/sQwLNEm2EE0",
+     "title": "🚫 Sweden BLOCKS ChatGPT and Claude in government… and the infinite-context HOAX #shorts",
      "channel": "",
-     "views": 0,
+     "views": 37,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:peeF_suRZNk",
+     "url": "https://www.youtube.com/shorts/peeF_suRZNk",
+     "title": "Why Did Sweden Block ChatGPT and Claude? Explained #chatgpt #claude #ai",
+     "channel": "",
+     "views": 36,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HuHV84BDYPE",
+     "url": "https://www.youtube.com/shorts/HuHV84BDYPE",
+     "title": "Sweden's government blocks ChatGPT and Claude",
+     "channel": "",
+     "views": 23,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dpktK5Hvo7g",
+     "url": "https://www.youtube.com/shorts/dpktK5Hvo7g",
+     "title": "Sweden's Government Blocked ChatGPT and Claude From Monday",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:E3v4jhTRVE8",
+     "url": "https://www.youtube.com/shorts/E3v4jhTRVE8",
+     "title": "Sweden's Government Just Banned ChatGPT and Claude",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.8,
      "velocity": null
     }
    ],
@@ -80,7 +128,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-24T13:50:16.353Z"
+   "searched_at": "2026-10-24T16:16:07.768Z"
   },
   {
    "first_seen": "2026-10-22T20:17:00.949Z",
@@ -176,6 +224,62 @@
    "searched_at": "2026-10-23T12:24:24.886Z"
   },
   {
+   "first_seen": "2026-10-24T07:40:34.510Z",
+   "id": "39371392",
+   "ids": [
+    "39371392",
+    "39380435"
+   ],
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-23 17:00:00",
+   "story_sources": 2,
+   "score_norm": 95,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Rapidly scaling online storage to serve over 1B ChatGPT users (Part II)",
+     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two/"
+    }
+   ],
+   "queries": [
+    "Part II",
+    "rapidly chatgpt ii scaling"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IJyPOOqaMlU",
+     "url": "https://www.youtube.com/shorts/IJyPOOqaMlU",
+     "title": "OpenAI: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tpFiX4xA_ZI",
+     "url": "https://www.youtube.com/shorts/tpFiX4xA_ZI",
+     "title": "OpenAI scaled ChatGPT storage 12× faster for 1 billion users",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-24T13:50:16.353Z"
+  },
+  {
    "first_seen": "2026-10-22T19:51:36.864Z",
    "id": "39346574",
    "ids": [
@@ -204,62 +308,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-23T08:46:31.686Z"
-  },
-  {
-   "first_seen": "2026-10-24T07:51:13.332Z",
-   "id": "39372000",
-   "ids": [
-    "39372000",
-    "39380577"
-   ],
-   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-   "source_id": "theverge",
-   "published_ts": "2026-10-23 19:32:39",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Jack Dorsey’s Block unveils new voice AI model that talks like a real human",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/jack-dorsey-voice-ai-dessa-block-inc-10934777/"
-    }
-   ],
-   "queries": [
-    "Jack Dorsey’s Block",
-    "jack dorsey block made"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NqO39Fjy1C0",
-     "url": "https://www.youtube.com/watch?v=NqO39Fjy1C0",
-     "title": "Jack Dorsey Dessa AI Voice is INSANE!",
-     "channel": "Julian Goldie SEO",
-     "views": 4765,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 477
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Gq8bRtE3qjI",
-     "url": "https://www.youtube.com/watch?v=Gq8bRtE3qjI",
-     "title": "Jack Dorsey's Block made an AI model that talks to you like an awkward new friend",
-     "channel": "World Talk Brief",
-     "views": 12,
-     "age_hours": 12,
-     "relevance": 1,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-24T14:14:27.671Z"
   },
   {
    "first_seen": "2026-10-23T00:45:40.615Z",
@@ -316,6 +364,62 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T00:45:49.199Z"
+  },
+  {
+   "first_seen": "2026-10-24T07:51:13.332Z",
+   "id": "39372000",
+   "ids": [
+    "39372000",
+    "39380577"
+   ],
+   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+   "source_id": "theverge",
+   "published_ts": "2026-10-23 19:32:39",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Jack Dorsey’s Block unveils new voice AI model that talks like a real human",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/jack-dorsey-voice-ai-dessa-block-inc-10934777/"
+    }
+   ],
+   "queries": [
+    "Jack Dorsey’s Block",
+    "jack dorsey block made"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NqO39Fjy1C0",
+     "url": "https://www.youtube.com/watch?v=NqO39Fjy1C0",
+     "title": "Jack Dorsey Dessa AI Voice is INSANE!",
+     "channel": "Julian Goldie SEO",
+     "views": 4765,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 477
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Gq8bRtE3qjI",
+     "url": "https://www.youtube.com/watch?v=Gq8bRtE3qjI",
+     "title": "Jack Dorsey's Block made an AI model that talks to you like an awkward new friend",
+     "channel": "World Talk Brief",
+     "views": 12,
+     "age_hours": 12,
+     "relevance": 1,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-24T14:14:27.671Z"
   },
   {
    "first_seen": "2026-10-23T16:43:56.926Z",
