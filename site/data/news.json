@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T13:14:33.059Z",
+ "generated_at": "2026-10-24T13:50:08.543Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Part II",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Part II",
+   "ok": true
+  },
+  {
+   "source": "youtube: rapidly chatgpt ii scaling",
+   "ok": true
+  },
+  {
+   "source": "tiktok: rapidly chatgpt ii scaling",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-24T07:40:34.510Z",
@@ -63,7 +80,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-24T07:40:42.577Z"
+   "searched_at": "2026-10-24T13:50:16.353Z"
   },
   {
    "first_seen": "2026-10-22T20:17:00.949Z",
