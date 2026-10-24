@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T10:38:44.632Z",
+ "generated_at": "2026-10-24T13:14:33.059Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -200,7 +200,7 @@
    "source_id": "theverge",
    "published_ts": "2026-10-23 19:32:39",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -512,122 +512,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T14:56:33.889Z"
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39319133",
-   "ids": [
-    "39319133",
-    "39315592"
-   ],
-   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-21 13:00:00",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "ChatGPT Ads expands to 26 new countries",
-     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries/"
-    }
-   ],
-   "queries": [
-    "ChatGPT Ads",
-    "chatgpt ads 26 100"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:h9i-c8oMz6U",
-     "url": "https://www.youtube.com/shorts/h9i-c8oMz6U",
-     "title": "Is ChatGPT targeting you with ads?",
-     "channel": "",
-     "views": 888,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Otd3EMy66Is",
-     "url": "https://www.youtube.com/shorts/Otd3EMy66Is",
-     "title": "ChatGPT Ads",
-     "channel": "",
-     "views": 157,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cKL72Wu5qQs",
-     "url": "https://www.youtube.com/shorts/cKL72Wu5qQs",
-     "title": "Ads in ChatGPT — A New Era of Marketing?",
-     "channel": "",
-     "views": 118,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZdubcgkagUg",
-     "url": "https://www.youtube.com/shorts/ZdubcgkagUg",
-     "title": "ChatGPT Ads Expands To 26 New Countries",
-     "channel": "",
-     "views": 86,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Qpw4HyrzokI",
-     "url": "https://www.youtube.com/shorts/Qpw4HyrzokI",
-     "title": "ChatGPT Ads expand to 26 new countries as 100k+ brands join",
-     "channel": "",
-     "views": 81,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tbtBrXph49Q",
-     "url": "https://www.youtube.com/shorts/tbtBrXph49Q",
-     "title": "ChatGPT ads expand: countries, plans and limits",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T09:28:59.848Z",
-   "queries_llm": [
-    "ChatGPT ads rollout",
-    "ChatGPT advertising expansion countries",
-    "ChatGPT ads for marketers"
-   ],
-   "pitch": {
-    "text": "Объяснить простыми словами, как реклама в ChatGPT повлияет на обычных пользователей и маркетологов",
-    "format": "reels/shorts 30-45 с",
-    "hook": "В ChatGPT теперь показывают рекламу – вот что это значит",
-    "why_now": "один из роликов уже набрал почти 900 просмотров, тема цепляет аудиторию, но большинство форматов мало смотрят",
-    "verdict": "early"
-   }
   },
   {
    "first_seen": "2026-10-22T09:28:35.978Z",
