@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T18:18:41.268Z",
+ "generated_at": "2026-10-25T23:14:07.761Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: ChatGPT Is Building Detailed Psychological Profiles",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ChatGPT Is Building Detailed Psychological Profiles",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt building detailed psychological",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt building detailed psychological",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-22T20:17:00.949Z",
@@ -101,6 +118,62 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-23T12:24:24.886Z"
+  },
+  {
+   "first_seen": "2026-10-25T23:14:07.761Z",
+   "id": "39406357",
+   "ids": [
+    "39406357",
+    "39399256"
+   ],
+   "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-25 19:02:22",
+   "story_sources": 2,
+   "score_norm": 99,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+     "url": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users"
+    }
+   ],
+   "queries": [
+    "ChatGPT Is Building Detailed Psychological Profiles",
+    "chatgpt building detailed psychological"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Y9GRvKUeEMg",
+     "url": "https://www.youtube.com/watch?v=Y9GRvKUeEMg",
+     "title": "ChatGPT Is Building a Psychological Profile of You",
+     "channel": "Dylan Bradley",
+     "views": 275,
+     "age_hours": 48,
+     "relevance": 0.75,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kiZLJ2PgmgY",
+     "url": "https://www.youtube.com/shorts/kiZLJ2PgmgY",
+     "title": "ChatGPT is building a psychological profile on you, tracking insecurities, personality traits, and e",
+     "channel": "",
+     "views": 53,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-25T23:14:15.712Z"
   },
   {
    "first_seen": "2026-10-24T07:40:34.510Z",
