@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T07:51:34.332Z",
+ "generated_at": "2026-10-25T08:43:33.802Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -200,7 +200,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-24 22:45:29",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "hn",
@@ -360,7 +360,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-10-24 16:01:03",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "hn",
@@ -756,116 +756,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-22T18:20:45.232Z"
-  },
-  {
-   "first_seen": "2026-10-22T14:18:10.571Z",
-   "id": "39338145",
-   "ids": [
-    "39338145",
-    "39329557",
-    "39323382"
-   ],
-   "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
-   "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-10-22 08:35:22",
-   "story_sources": 3,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
-     "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/"
-    },
-    {
-     "source_id": "sea-lowyat",
-     "title": "Anthropic Unveils Claude Duet Personal Agent To Rival OpenAI Dots, Meta Muse",
-     "url": "https://www.lowyat.net/2026/408109/anthropic-claude-duet-personal-agent/"
-    }
-   ],
-   "queries": [
-    "Grok Bot",
-    "anthropic grok bot meta"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nv1aaP3dHzs",
-     "url": "https://www.youtube.com/watch?v=nv1aaP3dHzs",
-     "title": "Anthropic Just Dropped Claude Duet (Full Breakdown)",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 190279,
-     "age_hours": 22,
-     "relevance": 0.5,
-     "velocity": 8649
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:PkrjD2IOCm4",
-     "url": "https://www.youtube.com/watch?v=PkrjD2IOCm4",
-     "title": "Claude Duet is the Grok Bot Killer? (LIVE TEST)",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 14017,
-     "age_hours": 6,
-     "relevance": 0.57,
-     "velocity": 2336
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lhA5zHxkr8o",
-     "url": "https://www.youtube.com/watch?v=lhA5zHxkr8o",
-     "title": "NEW Claude Duet: The Anthropic Agent That Works For You",
-     "channel": "Juan Pe Navarro | IA y Automatización",
-     "views": 32338,
-     "age_hours": 22,
-     "relevance": 0.8,
-     "velocity": 1470
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HYb5w4PfPZM",
-     "url": "https://www.youtube.com/watch?v=HYb5w4PfPZM",
-     "title": "I tested Claude Duet. Is it worth switching from Grok Bot?",
-     "channel": "How I AI",
-     "views": 34400,
-     "age_hours": 24,
-     "relevance": 0.57,
-     "velocity": 1433
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0sI-GTYetD8",
-     "url": "https://www.youtube.com/shorts/0sI-GTYetD8",
-     "title": "Claude Duet: Anthropic's Proactive Agent",
-     "channel": "",
-     "views": 33000,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rOVomdnWhjQ",
-     "url": "https://www.youtube.com/watch?v=rOVomdnWhjQ",
-     "title": "Grok Bot 201",
-     "channel": "Grok",
-     "views": 19437,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 810
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-22T20:41:31.008Z"
   },
   {
    "first_seen": "2026-10-22T11:41:16.006Z",
