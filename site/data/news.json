@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T13:27:14.694Z",
+ "generated_at": "2026-10-25T15:28:25.750Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -756,62 +756,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-22T18:20:45.232Z"
-  },
-  {
-   "first_seen": "2026-10-22T21:16:16.342Z",
-   "id": "39348057",
-   "ids": [
-    "39348057",
-    "39341574"
-   ],
-   "title": "AI #191: The Hackening Begins",
-   "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-10-22 15:20:56",
-   "story_sources": 2,
-   "score_norm": 45,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI #191: The Hackening Begins",
-     "url": "https://thezvi.substack.com/p/ai-191-the-hackening-begins"
-    }
-   ],
-   "queries": [
-    "The Hackening Begins",
-    "191 hackening begins ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gigKf3t1Loc",
-     "url": "https://www.youtube.com/watch?v=gigKf3t1Loc",
-     "title": "It Begins: A Rogue AI Fleet Got Caught. It Said It Was Claude.",
-     "channel": "VestedLens",
-     "views": 4716,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 66
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Hdnv1cLWQqc",
-     "url": "https://www.youtube.com/watch?v=Hdnv1cLWQqc",
-     "title": "AI #191: The Hackening Begins",
-     "channel": "AskwhoCasts AI",
-     "views": 28,
-     "age_hours": 5,
-     "relevance": 1,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T21:16:23.907Z"
   },
   {
    "first_seen": "2026-10-23T15:19:36.989Z",
