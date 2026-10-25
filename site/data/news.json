@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:16:32.430Z",
+ "generated_at": "2026-10-25T18:18:41.268Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -531,109 +531,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T12:49:21.130Z"
-  },
-  {
-   "first_seen": "2026-10-23T01:53:56.369Z",
-   "id": "39352505",
-   "ids": [
-    "39352505",
-    "39344407"
-   ],
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-   "source_id": "simonw",
-   "published_ts": "2026-10-22 18:09:56",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Donating Agent Skills to the Agentic AI Foundation",
-     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-    }
-   ],
-   "queries": [
-    "donating skills agentic foundation"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:upDQHjrHECw",
-     "url": "https://www.youtube.com/shorts/upDQHjrHECw",
-     "title": "Anthropic Is Donating Agent Skills. Here's What Changes",
-     "channel": "",
-     "views": 53,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mg5thnMlsdg",
-     "url": "https://www.youtube.com/shorts/mg5thnMlsdg",
-     "title": "Anthropic gives away Agent Skills: 70+ AI agent platforms use it",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PlsZ4ZhdZO0",
-     "url": "https://www.youtube.com/shorts/PlsZ4ZhdZO0",
-     "title": "Anthropic Donates Agent Skills To The Agentic AI Foundation",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:FJkCISVF7fg",
-     "url": "https://www.youtube.com/shorts/FJkCISVF7fg",
-     "title": "Anthropic donates Agent Skills standard to the Agentic AI Foundation",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GXZDa-4mSic",
-     "url": "https://www.youtube.com/shorts/GXZDa-4mSic",
-     "title": "Anthropic donates Agent Skills to the Agentic AI Foundation #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0bPCQcW7QZg",
-     "url": "https://www.youtube.com/shorts/0bPCQcW7QZg",
-     "title": "Agent Skills Joins Neutral AI Foundation",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-23T14:56:33.889Z"
   },
   {
    "first_seen": "2026-10-23T15:19:36.989Z",
