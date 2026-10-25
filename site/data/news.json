@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T15:28:25.750Z",
+ "generated_at": "2026-10-25T16:16:32.430Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -157,36 +157,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-24T13:50:16.353Z"
-  },
-  {
-   "first_seen": "2026-10-22T19:51:36.864Z",
-   "id": "39346574",
-   "ids": [
-    "39346574",
-    "39340262"
-   ],
-   "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-   "source_id": "hf-blog",
-   "published_ts": "2026-10-22 16:11:31",
-   "story_sources": 2,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Ai2 releases OlmoEarth v1.3 state-of-the-art AI-ready satellite embeddings for the whole planet",
-     "url": "https://siliconangle.com/2026/10/22/ai2-releases-olmoearth-v1-3-state-of-the-art-ai-ready-satellite-embeddings-for-the-whole-planet/"
-    }
-   ],
-   "queries": [
-    "olmoearth v1.3 state-of-the-art embeddings"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-23T08:46:31.686Z"
   },
   {
    "first_seen": "2026-10-24T23:25:28.636Z",
@@ -664,98 +634,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T14:56:33.889Z"
-  },
-  {
-   "first_seen": "2026-10-22T18:20:37.422Z",
-   "id": "39343529",
-   "ids": [
-    "39343529",
-    "39344540"
-   ],
-   "title": "Uber puts all 30,000 employees on ChatGPT Work",
-   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-10-22 16:00:00",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "openai-blog",
-     "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-     "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-    }
-   ],
-   "queries": [
-    "ChatGPT Work",
-    "uber 30 000 chatgpt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l16Gw7oVLNQ",
-     "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
-     "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
-     "channel": "OpenAI",
-     "views": 361,
-     "age_hours": 0.3333333333333333,
-     "relevance": 0.75,
-     "velocity": 361
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AX17Jwdx7P8",
-     "url": "https://www.youtube.com/shorts/AX17Jwdx7P8",
-     "title": "How Does ChatGPT Actually Work? 🤖",
-     "channel": "",
-     "views": 224,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kKvor9MQI2A",
-     "url": "https://www.youtube.com/shorts/kKvor9MQI2A",
-     "title": "How does chatgpt actually work .",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AnR1Ohphp58",
-     "url": "https://www.youtube.com/shorts/AnR1Ohphp58",
-     "title": "Uber Gives ChatGPT Work To Its Whole Company",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kK7RNnACzP4",
-     "url": "https://www.youtube.com/shorts/kK7RNnACzP4",
-     "title": "BREAKING: Uber puts all 30,000 employees on ChatGPT Work | #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T18:20:45.232Z"
   },
   {
    "first_seen": "2026-10-23T15:19:36.989Z",
