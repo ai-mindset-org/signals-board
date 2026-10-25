@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T05:40:50.079Z",
+ "generated_at": "2026-10-25T06:26:50.304Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Biosecurity Lab",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Biosecurity Lab",
-   "ok": true
-  },
-  {
-   "source": "youtube: uk 100m biosecurity lab",
-   "ok": true
-  },
-  {
-   "source": "tiktok: uk 100m biosecurity lab",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-24T23:25:28.636Z",
@@ -291,7 +274,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-10-24 16:01:03",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "hn",
@@ -468,62 +451,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-24T14:14:27.671Z"
-  },
-  {
-   "first_seen": "2026-10-23T00:45:40.615Z",
-   "id": "39337632",
-   "ids": [
-    "39337632",
-    "39351280"
-   ],
-   "title": "What FDE means at OpenAI",
-   "url": "https://openai.com/index/forward-deployed-engineering-means",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-22 06:00:00",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "What FDE Means at OpenAI",
-     "url": "https://openai.com/index/forward-deployed-engineering-means/"
-    }
-   ],
-   "queries": [
-    "What FDE",
-    "fde openai means"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:C0rrRuhKsv4",
-     "url": "https://www.youtube.com/shorts/C0rrRuhKsv4",
-     "title": "OpenAI explains the FDE job: the gap is the job",
-     "channel": "",
-     "views": 36,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZA2Ad-dt86c",
-     "url": "https://www.youtube.com/shorts/ZA2Ad-dt86c",
-     "title": "OpenAI's New Policy Means You're Overpaying for AI Right Now",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-23T00:45:49.199Z"
   },
   {
    "first_seen": "2026-10-23T16:43:56.926Z",
@@ -1160,126 +1087,6 @@
     "hook": "Claude Duet уже обсуждают все – а вот как его применять в работе",
     "why_now": "тема уже залетает с сотнями тысяч просмотров, конкурировать с анонсом смысла нет, но есть ниша практического применения",
     "verdict": "covered"
-   }
-  },
-  {
-   "first_seen": "2026-10-22T09:28:35.978Z",
-   "id": "39319132",
-   "ids": [
-    "39319132",
-    "39329747",
-    "39322110",
-    "39315880",
-    "39313488",
-    "39330397"
-   ],
-   "title": "OpenAI partners with Google Cloud to offer AI models, codex workflows",
-   "url": "https://www.thehindubusinessline.com/news/openai-partners-with-google-cloud-to-offer-ai-models-codex-workflows/article71610243.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-10-22 06:16:53",
-   "story_sources": 2,
-   "score_norm": 46,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "OpenAI to bring AI models, Codex to Google Cloud",
-     "url": "https://www.techinasia.com/news/openai-bring-ai-models-codex-google-cloud"
-    }
-   ],
-   "queries": [
-    "Google Cloud",
-    "openai google cloud partners"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XCAKW3SA1Tw",
-     "url": "https://www.youtube.com/shorts/XCAKW3SA1Tw",
-     "title": "OpenAI Joins Google Cloud! #Shorts",
-     "channel": "",
-     "views": 271,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:X-KepBNCNiA",
-     "url": "https://www.youtube.com/shorts/X-KepBNCNiA",
-     "title": "OPENAI MODELS Reach Google Cloud — The Access Catch",
-     "channel": "",
-     "views": 95,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aGj59bvPBH4",
-     "url": "https://www.youtube.com/shorts/aGj59bvPBH4",
-     "title": "AI News in 60 Sec: OpenAI Joins Google Cloud 🤖",
-     "channel": "",
-     "views": 62,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qYCAn2RgU80",
-     "url": "https://www.youtube.com/shorts/qYCAn2RgU80",
-     "title": "OpenAI and Google… partners? 😳 GPT-6 Astra comes to Google Cloud #shorts",
-     "channel": "",
-     "views": 47,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BxuwvUDIx04",
-     "url": "https://www.youtube.com/shorts/BxuwvUDIx04",
-     "title": "OpenAI models coming to Google Cloud",
-     "channel": "",
-     "views": 43,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:joJHfCIDzOc",
-     "url": "https://www.youtube.com/watch?v=joJHfCIDzOc",
-     "title": "OpenAI Partners with Google Cloud: GPT-6 Astra & Codex",
-     "channel": "Quantum Synergy",
-     "views": 15,
-     "age_hours": 24,
-     "relevance": 0.71,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-22T15:53:08.561Z",
-   "queries_llm": [
-    "OpenAI models Google Cloud partnership",
-    "GPT models available Google Cloud",
-    "OpenAI Google Cloud access tutorial"
-   ],
-   "pitch": {
-    "text": "Разбор, что доступ моделей OpenAI в Google Cloud значит для команд, которые уже выбирают облако для AI-проектов на работе",
-    "format": "разбор 6-10 мин",
-    "hook": "GPT-модели теперь в Google Cloud – что это меняет для вас",
-    "why_now": "ролики уже снимают, но просмотры низкие, тема не раскрыта и можно зайти с понятным объяснением",
-    "verdict": "early"
    }
   },
   {
