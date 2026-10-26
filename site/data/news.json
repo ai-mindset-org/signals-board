@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:46:30.201Z",
+ "generated_at": "2026-10-26T17:15:42.765Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,249 +9,85 @@
  },
  "search_report": [
   {
-   "source": "youtube: musk 200 warns ai",
+   "source": "youtube: anthropic officially files public",
    "ok": true
   },
   {
-   "source": "tiktok: musk 200 warns ai",
+   "source": "tiktok: anthropic officially files public",
+   "ok": true
+  },
+  {
+   "source": "youtube: Gemini 4 Argon",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Gemini 4 Argon",
+   "ok": true
+  },
+  {
+   "source": "youtube: gemini argon safety cards",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gemini argon safety cards",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-26T15:40:41.349Z",
-   "id": "39418044",
+   "first_seen": "2026-10-26T17:15:42.765Z",
+   "id": "39420034",
    "ids": [
-    "39418044",
-    "39416584"
+    "39420034",
+    "39418547"
    ],
-   "title": "Meta Plans to Raise Up to $95 Billion in New Shares to Pay for AI",
-   "url": "https://dailyai.com/2026/10/meta-plans-to-raise-up-to-95-billion-in-new-shares-to-pay-for-ai/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-10-26 14:21:51",
+   "title": "Anthropic officially files for its public debut",
+   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-26 14:35:22",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "in-businessline",
-     "title": "Meta plans to raise up to $95 billion to fund AI and data centre expansion",
-     "url": "https://www.thehindubusinessline.com/markets/meta-plans-to-raise-up-to-95-billion-to-fund-ai-and-data-centre-expansion/article71627458.ece"
+     "source_id": "engadget",
+     "title": "Anthropic files to go public",
+     "url": "https://www.engadget.com/2296724/anthropic-files-to-go-public/"
     }
    ],
    "queries": [
-    "Meta Plans",
-    "meta plans raise up"
+    "anthropic officially files public"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:TVTzucPran4",
-     "url": "https://www.youtube.com/watch?v=TVTzucPran4",
-     "title": "How Meta plans to cash in on Muse",
-     "channel": "Prof G Markets",
-     "views": 19176,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 266
+     "id": "youtube:VSRm-rWi_BQ",
+     "url": "https://www.youtube.com/watch?v=VSRm-rWi_BQ",
+     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
+     "channel": "Forbes Breaking News",
+     "views": 446,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 223
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:J-5m-JBBveI",
-     "url": "https://www.youtube.com/watch?v=J-5m-JBBveI",
-     "title": "Meta Doubles Down on AI Spending, Plans New Class C Shares",
-     "channel": "Bloomberg Tech",
-     "views": 15837,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 220
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3OnJopLqhAc",
-     "url": "https://www.youtube.com/watch?v=3OnJopLqhAc",
-     "title": "AI Capital Rush: SpaceX Eyes $40 Billion Debt Deal, Meta Plans $95 Billion Fundraise | IBH",
-     "channel": "CNBC-TV18",
-     "views": 25,
-     "age_hours": 0.4,
-     "relevance": 0.56,
-     "velocity": 25
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LGHIeA_fpCM",
-     "url": "https://www.youtube.com/watch?v=LGHIeA_fpCM",
-     "title": "Meta's New Shares: Funding AI Without Losing Control",
-     "channel": "WorkDefine",
+     "id": "youtube:zXSuugqCT0g",
+     "url": "https://www.youtube.com/watch?v=zXSuugqCT0g",
+     "title": "ANTHROPIC FILES FOR IPO!",
+     "channel": "Anilsingta",
      "views": 0,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Ov6Vgj8vL7g",
-     "url": "https://www.youtube.com/watch?v=Ov6Vgj8vL7g",
-     "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-     "channel": "The AI Sea",
-     "views": 0,
-     "age_hours": 0.48333333333333334,
+     "age_hours": 0.06666666666666667,
      "relevance": 0.67,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-26T15:40:49.224Z"
-  },
-  {
-   "first_seen": "2026-10-26T15:05:05.711Z",
-   "id": "39416621",
-   "ids": [
-    "39416621",
-    "39417446"
-   ],
-   "title": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
-   "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-10-26 13:20:08",
-   "story_sources": 2,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic files for Nasdaq IPO as half-year revenue hits $16.3bn",
-     "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1"
-    }
-   ],
-   "queries": [
-    "IPO With 16.3 Billion",
-    "anthropic files ipo 16.3"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MASlYoBBDrg",
-     "url": "https://www.youtube.com/shorts/MASlYoBBDrg",
-     "title": "Anthropic publicly files for IPO",
-     "channel": "",
-     "views": 633,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f4DV_yD_U7E",
-     "url": "https://www.youtube.com/shorts/f4DV_yD_U7E",
-     "title": "Anthropic IPO: Net revenue retention at 900% as H1 loss swells to $80.7 billion",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T15:05:13.346Z"
-  },
-  {
-   "first_seen": "2026-10-26T16:25:59.394Z",
-   "id": "39419079",
-   "ids": [
-    "39419079",
-    "39412522"
-   ],
-   "title": "Tata Communications To Pour Up To $450 Mn In Build AI Connectivity Infrastructure",
-   "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-10-26 15:27:25",
-   "story_sources": 2,
-   "score_norm": 96,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Tata Communications to spend $450 million on AI connectivity infrastructure",
-     "url": "https://www.thehindubusinessline.com/info-tech/tata-communications-to-spend-450-million-on-ai-connectivity-infrastructure/article71626132.ece"
-    }
-   ],
-   "queries": [
-    "Tata Communications To Pour Up To 450 Mn In Build",
-    "tata communications pour up"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T16:26:07.271Z"
-  },
-  {
-   "first_seen": "2026-10-24T07:40:34.510Z",
-   "id": "39371392",
-   "ids": [
-    "39371392",
-    "39380435"
-   ],
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-23 17:00:00",
-   "story_sources": 2,
-   "score_norm": 95,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Rapidly scaling online storage to serve over 1B ChatGPT users (Part II)",
-     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two/"
-    }
-   ],
-   "queries": [
-    "Part II",
-    "rapidly chatgpt ii scaling"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IJyPOOqaMlU",
-     "url": "https://www.youtube.com/shorts/IJyPOOqaMlU",
-     "title": "OpenAI: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tpFiX4xA_ZI",
-     "url": "https://www.youtube.com/shorts/tpFiX4xA_ZI",
-     "title": "OpenAI scaled ChatGPT storage 12× faster for 1 billion users",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-24T13:50:16.353Z"
+   "searched_at": "2026-10-26T17:15:47.688Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -388,85 +224,6 @@
    "searched_at": "2026-10-25T05:40:57.685Z"
   },
   {
-   "first_seen": "2026-10-26T10:31:55.367Z",
-   "id": "39410456",
-   "ids": [
-    "39410456",
-    "39413157"
-   ],
-   "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-   "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source_id": "crypto-cointelegraph",
-   "published_ts": "2026-10-26 05:13:33",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI cloud computing firms face 'guppy-level death', Elon Musk warns",
-     "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
-    }
-   ],
-   "queries": [
-    "musk 200 warns ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:aeg4w1MUW7A",
-     "url": "https://www.youtube.com/watch?v=aeg4w1MUW7A",
-     "title": "The AI ​​bubble has truly burst! Musk warns: A wave of 200 cloud service providers going bankrupt",
-     "channel": "寰宇新聞 頻道",
-     "views": 28534,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 9511
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6R41Wq8I1tg",
-     "url": "https://www.youtube.com/watch?v=6R41Wq8I1tg",
-     "title": "Elon Musk Warns 200+ AI Neoclouds to See “Guppy Level Death” as Debt Markets Have Shut Off the Money",
-     "channel": "Ox Talks",
-     "views": 32019,
-     "age_hours": 17,
-     "relevance": 0.75,
-     "velocity": 1883
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QOOM3pnwJFU",
-     "url": "https://www.youtube.com/watch?v=QOOM3pnwJFU",
-     "title": "Musk Splurges $40 Billion on Nvidia Chips, Warns 200 AI Cloud Firms Face Collapse | #MirrorMedia",
-     "channel": "鏡新聞",
-     "views": 14665,
-     "age_hours": 8,
-     "relevance": 0.63,
-     "velocity": 1833
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:u5zOcd7kuL8",
-     "url": "https://www.youtube.com/watch?v=u5zOcd7kuL8",
-     "title": "⚠️ Elon Musk: 200+ AI Companies Are About to DIE 💀🔥",
-     "channel": "Shravan",
-     "views": 40,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 13
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-26T16:46:34.366Z"
-  },
-  {
    "first_seen": "2026-10-24T07:51:13.332Z",
    "id": "39372000",
    "ids": [
@@ -521,110 +278,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-24T14:14:27.671Z"
-  },
-  {
-   "first_seen": "2026-10-26T13:51:30.960Z",
-   "id": "39415040",
-   "ids": [
-    "39415040",
-    "39412643"
-   ],
-   "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
-   "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
-   "source_id": "engadget",
-   "published_ts": "2026-10-26 11:23:48",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
-     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
-    }
-   ],
-   "queries": [
-    "Elvis Presley's",
-    "elvis presley anthropic estate"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KeigEN5fBE4",
-     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
-     "title": "ELVIS PRESLEY — FOREVER THE KING",
-     "channel": "",
-     "views": 7400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:d8JinAVQDQw",
-     "url": "https://www.youtube.com/watch?v=d8JinAVQDQw",
-     "title": "Elvis Presley Estate vs  AI Company Anthropic...",
-     "channel": "wild1studios",
-     "views": 79,
-     "age_hours": 15,
-     "relevance": 0.57,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8Rlqoe_RufA",
-     "url": "https://www.youtube.com/watch?v=8Rlqoe_RufA",
-     "title": "Elvis Presley's estate sues Anthropic for $41M",
-     "channel": "The Contextian",
-     "views": 2,
-     "age_hours": 0.7,
-     "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4Ye_QX3P_OQ",
-     "url": "https://www.youtube.com/watch?v=4Ye_QX3P_OQ",
-     "title": "Elvis Presley's estate sued Anthropic over 274 songs. Could it cost $41 million?",
-     "channel": "instinctHub LMS | Train Employees, Sell Courses",
-     "views": 22,
-     "age_hours": 19,
-     "relevance": 0.57,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:a2ZY7q1DP_A",
-     "url": "https://www.youtube.com/watch?v=a2ZY7q1DP_A",
-     "title": "🚨 Today's biggest AI news: Elvis Estate Sues Anthropic for Copyright Infringement | #shorts #ai",
-     "channel": "Learn AI",
-     "views": 21,
-     "age_hours": 24,
-     "relevance": 0.71,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3YDP5bGsSzs",
-     "url": "https://www.youtube.com/watch?v=3YDP5bGsSzs",
-     "title": "Elvis Presley's Estate Just Sued Anthropic — 274 Songs Used to Train AI",
-     "channel": "Exit9media",
-     "views": 30,
-     "age_hours": 24,
-     "relevance": 0.57,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T13:51:38.783Z"
   },
   {
    "first_seen": "2026-10-24T16:16:00.002Z",
@@ -731,35 +384,183 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
-   "first_seen": "2026-10-26T07:15:16.481Z",
-   "id": "39411099",
+   "first_seen": "2026-10-26T15:40:41.349Z",
+   "id": "39418044",
    "ids": [
-    "39411099",
-    "39406629"
+    "39418044",
+    "39416584"
    ],
-   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
-   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
-   "source_id": "cn-pandaily",
-   "published_ts": "2026-10-26 06:51:59",
+   "title": "Meta Plans to Raise Up to $95 Billion in New Shares to Pay for AI",
+   "url": "https://dailyai.com/2026/10/meta-plans-to-raise-up-to-95-billion-in-new-shares-to-pay-for-ai/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-10-26 14:21:51",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
-     "source_id": "in-marktechpost",
-     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
+     "source_id": "in-businessline",
+     "title": "Meta plans to raise up to $95 billion to fund AI and data centre expansion",
+     "url": "https://www.thehindubusinessline.com/markets/meta-plans-to-raise-up-to-95-billion-to-fund-ai-and-data-centre-expansion/article71627458.ece"
     }
    ],
    "queries": [
-    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-    "boss zhipin nanbeige team"
+    "Meta Plans",
+    "meta plans raise up"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TVTzucPran4",
+     "url": "https://www.youtube.com/watch?v=TVTzucPran4",
+     "title": "How Meta plans to cash in on Muse",
+     "channel": "Prof G Markets",
+     "views": 19176,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 266
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:J-5m-JBBveI",
+     "url": "https://www.youtube.com/watch?v=J-5m-JBBveI",
+     "title": "Meta Doubles Down on AI Spending, Plans New Class C Shares",
+     "channel": "Bloomberg Tech",
+     "views": 15837,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 220
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3OnJopLqhAc",
+     "url": "https://www.youtube.com/watch?v=3OnJopLqhAc",
+     "title": "AI Capital Rush: SpaceX Eyes $40 Billion Debt Deal, Meta Plans $95 Billion Fundraise | IBH",
+     "channel": "CNBC-TV18",
+     "views": 25,
+     "age_hours": 0.4,
+     "relevance": 0.56,
+     "velocity": 25
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LGHIeA_fpCM",
+     "url": "https://www.youtube.com/watch?v=LGHIeA_fpCM",
+     "title": "Meta's New Shares: Funding AI Without Losing Control",
+     "channel": "WorkDefine",
+     "views": 0,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Ov6Vgj8vL7g",
+     "url": "https://www.youtube.com/watch?v=Ov6Vgj8vL7g",
+     "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
+     "channel": "The AI Sea",
+     "views": 0,
+     "age_hours": 0.48333333333333334,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-26T15:40:49.224Z"
+  },
+  {
+   "first_seen": "2026-10-26T15:05:05.711Z",
+   "id": "39416621",
+   "ids": [
+    "39416621",
+    "39417446"
+   ],
+   "title": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-10-26 13:20:08",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Anthropic files for Nasdaq IPO as half-year revenue hits $16.3bn",
+     "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1"
+    }
+   ],
+   "queries": [
+    "IPO With 16.3 Billion",
+    "anthropic files ipo 16.3"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MASlYoBBDrg",
+     "url": "https://www.youtube.com/shorts/MASlYoBBDrg",
+     "title": "Anthropic publicly files for IPO",
+     "channel": "",
+     "views": 633,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f4DV_yD_U7E",
+     "url": "https://www.youtube.com/shorts/f4DV_yD_U7E",
+     "title": "Anthropic IPO: Net revenue retention at 900% as H1 loss swells to $80.7 billion",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T15:05:13.346Z"
+  },
+  {
+   "first_seen": "2026-10-26T16:25:59.394Z",
+   "id": "39419079",
+   "ids": [
+    "39419079",
+    "39412522"
+   ],
+   "title": "Tata Communications To Pour Up To $450 Mn In Build AI Connectivity Infrastructure",
+   "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-10-26 15:27:25",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Tata Communications to spend $450 million on AI connectivity infrastructure",
+     "url": "https://www.thehindubusinessline.com/info-tech/tata-communications-to-spend-450-million-on-ai-connectivity-infrastructure/article71626132.ece"
+    }
+   ],
+   "queries": [
+    "Tata Communications To Pour Up To 450 Mn In Build",
+    "tata communications pour up"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-26T13:51:45.464Z"
+   "searched_at": "2026-10-26T16:26:07.271Z"
   },
   {
    "first_seen": "2026-10-25T23:14:07.761Z",
@@ -941,6 +742,85 @@
    "searched_at": "2026-10-26T10:54:12.898Z"
   },
   {
+   "first_seen": "2026-10-26T10:31:55.367Z",
+   "id": "39410456",
+   "ids": [
+    "39410456",
+    "39413157"
+   ],
+   "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+   "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source_id": "crypto-cointelegraph",
+   "published_ts": "2026-10-26 05:13:33",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI cloud computing firms face 'guppy-level death', Elon Musk warns",
+     "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
+    }
+   ],
+   "queries": [
+    "musk 200 warns ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:aeg4w1MUW7A",
+     "url": "https://www.youtube.com/watch?v=aeg4w1MUW7A",
+     "title": "The AI ​​bubble has truly burst! Musk warns: A wave of 200 cloud service providers going bankrupt",
+     "channel": "寰宇新聞 頻道",
+     "views": 28534,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 9511
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6R41Wq8I1tg",
+     "url": "https://www.youtube.com/watch?v=6R41Wq8I1tg",
+     "title": "Elon Musk Warns 200+ AI Neoclouds to See “Guppy Level Death” as Debt Markets Have Shut Off the Money",
+     "channel": "Ox Talks",
+     "views": 32019,
+     "age_hours": 17,
+     "relevance": 0.75,
+     "velocity": 1883
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QOOM3pnwJFU",
+     "url": "https://www.youtube.com/watch?v=QOOM3pnwJFU",
+     "title": "Musk Splurges $40 Billion on Nvidia Chips, Warns 200 AI Cloud Firms Face Collapse | #MirrorMedia",
+     "channel": "鏡新聞",
+     "views": 14665,
+     "age_hours": 8,
+     "relevance": 0.63,
+     "velocity": 1833
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:u5zOcd7kuL8",
+     "url": "https://www.youtube.com/watch?v=u5zOcd7kuL8",
+     "title": "⚠️ Elon Musk: 200+ AI Companies Are About to DIE 💀🔥",
+     "channel": "Shravan",
+     "views": 40,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 13
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-26T16:46:34.366Z"
+  },
+  {
    "first_seen": "2026-10-26T10:02:10.420Z",
    "id": "39412821",
    "ids": [
@@ -1042,6 +922,245 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T10:02:14.451Z"
+  },
+  {
+   "first_seen": "2026-10-26T17:15:42.765Z",
+   "id": "39415950",
+   "ids": [
+    "39415950",
+    "39420177"
+   ],
+   "title": "Gemini 4 Argon: The Model and Safety Cards",
+   "url": "https://www.lesswrong.com/posts/EeT8MEqgpuPtpdmJE/gemini-4-argon-the-model-and-safety-cards",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-10-26 13:00:56",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Argon: The Model and Safety Cards",
+     "url": "https://thezvi.substack.com/p/gemini-4-argon-the-model-and-safety"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Argon",
+    "gemini argon safety cards"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:LWxX6vvHfrc",
+     "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+     "title": "Gemini 4 Argon Is Not What I Expected",
+     "channel": "@TwoMinutePapers",
+     "views": 234000,
+     "age_hours": 154.23702555555556,
+     "relevance": 0.5,
+     "velocity": 1517
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:NL0yDYXAQ0E",
+     "url": "https://www.youtube.com/watch?v=NL0yDYXAQ0E",
+     "title": "GEMINI 4 ARGON IS WEIRD...",
+     "channel": "@WesRoth",
+     "views": 269000,
+     "age_hours": 298.46977111111113,
+     "relevance": 0.67,
+     "velocity": 901
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:-rriX9N_Pgo",
+     "url": "https://www.youtube.com/watch?v=-rriX9N_Pgo",
+     "title": "I tried Gemini 4 Argon... Again",
+     "channel": "WeeklyHow",
+     "views": 14765,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 308
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GACblD4jcqg",
+     "url": "https://www.youtube.com/watch?v=GACblD4jcqg",
+     "title": "Lifehack: Bypass Billing to Get 18 Months of Google's Latest Gemini 4 Argon Model (Secret Method)",
+     "channel": "萌祥种树",
+     "views": 1089,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 45
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Br5RvYC1u0s",
+     "url": "https://www.youtube.com/shorts/Br5RvYC1u0s",
+     "title": "Gemini 4 Argon is Insane!!!",
+     "channel": "",
+     "views": 1500,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tewGZfKlg6w",
+     "url": "https://www.youtube.com/shorts/tewGZfKlg6w",
+     "title": "Gemini 4 Argon Model Is the BEST AI 🤯🔥",
+     "channel": "",
+     "views": 1400,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-26T17:15:54.826Z"
+  },
+  {
+   "first_seen": "2026-10-26T13:51:30.960Z",
+   "id": "39415040",
+   "ids": [
+    "39415040",
+    "39412643"
+   ],
+   "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+   "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-26 11:23:48",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
+    }
+   ],
+   "queries": [
+    "Elvis Presley's",
+    "elvis presley anthropic estate"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KeigEN5fBE4",
+     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
+     "title": "ELVIS PRESLEY — FOREVER THE KING",
+     "channel": "",
+     "views": 7400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:d8JinAVQDQw",
+     "url": "https://www.youtube.com/watch?v=d8JinAVQDQw",
+     "title": "Elvis Presley Estate vs  AI Company Anthropic...",
+     "channel": "wild1studios",
+     "views": 79,
+     "age_hours": 15,
+     "relevance": 0.57,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8Rlqoe_RufA",
+     "url": "https://www.youtube.com/watch?v=8Rlqoe_RufA",
+     "title": "Elvis Presley's estate sues Anthropic for $41M",
+     "channel": "The Contextian",
+     "views": 2,
+     "age_hours": 0.7,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4Ye_QX3P_OQ",
+     "url": "https://www.youtube.com/watch?v=4Ye_QX3P_OQ",
+     "title": "Elvis Presley's estate sued Anthropic over 274 songs. Could it cost $41 million?",
+     "channel": "instinctHub LMS | Train Employees, Sell Courses",
+     "views": 22,
+     "age_hours": 19,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:a2ZY7q1DP_A",
+     "url": "https://www.youtube.com/watch?v=a2ZY7q1DP_A",
+     "title": "🚨 Today's biggest AI news: Elvis Estate Sues Anthropic for Copyright Infringement | #shorts #ai",
+     "channel": "Learn AI",
+     "views": 21,
+     "age_hours": 24,
+     "relevance": 0.71,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3YDP5bGsSzs",
+     "url": "https://www.youtube.com/watch?v=3YDP5bGsSzs",
+     "title": "Elvis Presley's Estate Just Sued Anthropic — 274 Songs Used to Train AI",
+     "channel": "Exit9media",
+     "views": 30,
+     "age_hours": 24,
+     "relevance": 0.57,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T13:51:38.783Z"
+  },
+  {
+   "first_seen": "2026-10-26T07:15:16.481Z",
+   "id": "39411099",
+   "ids": [
+    "39411099",
+    "39406629"
+   ],
+   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
+   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-10-26 06:51:59",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "in-marktechpost",
+     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
+    }
+   ],
+   "queries": [
+    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
+    "boss zhipin nanbeige team"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T13:51:45.464Z"
   }
  ]
 }
