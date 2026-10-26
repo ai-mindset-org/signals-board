@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T22:17:12.038Z",
+ "generated_at": "2026-10-26T22:42:18.380Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: 60.000 Mitarbeitern Abfindungen",
+   "source": "youtube: Tata Communications To Pour Up To 450 Mn In Build",
    "ok": true
   },
   {
-   "source": "tiktok: 60.000 Mitarbeitern Abfindungen",
+   "source": "tiktok: Tata Communications To Pour Up To 450 Mn In Build",
    "ok": true
   },
   {
-   "source": "youtube: ki-kosten microsoft 60.000 mitarbeitern",
+   "source": "youtube: tata communications pour up",
    "ok": true
   },
   {
-   "source": "tiktok: ki-kosten microsoft 60.000 mitarbeitern",
+   "source": "tiktok: tata communications pour up",
    "ok": true
   }
  ],
@@ -968,7 +968,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-26T16:26:07.271Z"
+   "searched_at": "2026-10-26T22:42:26.344Z"
   },
   {
    "first_seen": "2026-10-25T23:14:07.761Z",
