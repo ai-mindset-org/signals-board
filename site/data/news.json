@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T05:19:28.291Z",
+ "generated_at": "2026-10-26T07:15:16.481Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,76 +9,53 @@
  },
  "search_report": [
   {
-   "source": "youtube: make ai morally good",
+   "source": "youtube: BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
    "ok": true
   },
   {
-   "source": "tiktok: make ai morally good",
+   "source": "tiktok: BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
    "ok": true
   },
   {
-   "source": "youtube: Anthropic's Claude",
+   "source": "youtube: boss zhipin nanbeige team",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic's Claude",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic claude georgia axios",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic claude georgia axios",
-   "ok": true
-  },
-  {
-   "source": "youtube: ChatGPT Is Building Detailed Psychological Profiles",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ChatGPT Is Building Detailed Psychological Profiles",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt building detailed psychological",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt building detailed psychological",
+   "source": "tiktok: boss zhipin nanbeige team",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409961",
+   "first_seen": "2026-10-26T07:15:16.481Z",
+   "id": "39411099",
    "ids": [
-    "39409961",
-    "39399467"
+    "39411099",
+    "39406629"
    ],
-   "title": "To make AI morally good, tech companies are turning to religion, in spite of doubts",
-   "url": "https://www.thehindu.com/sci-tech/technology/to-make-ai-morally-good-tech-companies-are-turning-to-religion-in-spite-of-doubts/article71625515.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 04:30:49",
+   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
+   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-10-26 06:51:59",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "To make AI morally good, tech companies are turning to religion",
-     "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec"
+     "source_id": "in-marktechpost",
+     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
     }
    ],
    "queries": [
-    "make ai morally good"
+    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
+    "boss zhipin nanbeige team"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-26T05:19:32.711Z"
+   "searched_at": "2026-10-26T07:15:23.945Z"
   },
   {
    "first_seen": "2026-10-22T20:17:00.949Z",
@@ -231,6 +208,36 @@
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
+   "id": "39409961",
+   "ids": [
+    "39409961",
+    "39399467"
+   ],
+   "title": "To make AI morally good, tech companies are turning to religion, in spite of doubts",
+   "url": "https://www.thehindu.com/sci-tech/technology/to-make-ai-morally-good-tech-companies-are-turning-to-religion-in-spite-of-doubts/article71625515.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-26 04:30:49",
+   "story_sources": 2,
+   "score_norm": 90,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "To make AI morally good, tech companies are turning to religion",
+     "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec"
+    }
+   ],
+   "queries": [
+    "make ai morally good"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T05:19:32.711Z"
+  },
+  {
+   "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409964",
    "ids": [
     "39409964",
@@ -241,7 +248,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-10-26 03:13:29",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -538,62 +545,6 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
-   "first_seen": "2026-10-25T23:14:07.761Z",
-   "id": "39406357",
-   "ids": [
-    "39406357",
-    "39399256"
-   ],
-   "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-25 19:02:22",
-   "story_sources": 2,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
-     "url": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users"
-    }
-   ],
-   "queries": [
-    "ChatGPT Is Building Detailed Psychological Profiles",
-    "chatgpt building detailed psychological"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Y9GRvKUeEMg",
-     "url": "https://www.youtube.com/watch?v=Y9GRvKUeEMg",
-     "title": "ChatGPT Is Building a Psychological Profile of You",
-     "channel": "Dylan Bradley",
-     "views": 289,
-     "age_hours": 48,
-     "relevance": 0.75,
-     "velocity": 6
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kiZLJ2PgmgY",
-     "url": "https://www.youtube.com/shorts/kiZLJ2PgmgY",
-     "title": "ChatGPT is building a psychological profile on you, tracking insecurities, personality traits, and e",
-     "channel": "",
-     "views": 55,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T05:19:47.137Z"
-  },
-  {
    "first_seen": "2026-10-23T16:43:56.926Z",
    "id": "39361090",
    "ids": [
@@ -659,6 +610,62 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-23T16:44:00.914Z"
+  },
+  {
+   "first_seen": "2026-10-25T23:14:07.761Z",
+   "id": "39406357",
+   "ids": [
+    "39406357",
+    "39399256"
+   ],
+   "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-25 19:02:22",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+     "url": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users"
+    }
+   ],
+   "queries": [
+    "ChatGPT Is Building Detailed Psychological Profiles",
+    "chatgpt building detailed psychological"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Y9GRvKUeEMg",
+     "url": "https://www.youtube.com/watch?v=Y9GRvKUeEMg",
+     "title": "ChatGPT Is Building a Psychological Profile of You",
+     "channel": "Dylan Bradley",
+     "views": 289,
+     "age_hours": 48,
+     "relevance": 0.75,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kiZLJ2PgmgY",
+     "url": "https://www.youtube.com/shorts/kiZLJ2PgmgY",
+     "title": "ChatGPT is building a psychological profile on you, tracking insecurities, personality traits, and e",
+     "channel": "",
+     "views": 55,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T05:19:47.137Z"
   },
   {
    "first_seen": "2026-10-23T15:19:36.989Z",
