@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T07:15:16.481Z",
+ "generated_at": "2026-10-26T09:02:34.644Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-   "ok": true
-  },
-  {
-   "source": "tiktok: BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-   "ok": true
-  },
-  {
-   "source": "youtube: boss zhipin nanbeige team",
-   "ok": true
-  },
-  {
-   "source": "tiktok: boss zhipin nanbeige team",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-26T07:15:16.481Z",
@@ -218,7 +201,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-10-26 04:30:49",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "hn",
@@ -545,73 +528,6 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
-   "first_seen": "2026-10-23T16:43:56.926Z",
-   "id": "39361090",
-   "ids": [
-    "39361090",
-    "39367945"
-   ],
-   "title": "Barclays calls AI ‘icing on the cake’ as it culls jobs",
-   "url": "https://www.itweb.co.za/article/barclays-calls-ai-icing-on-the-cake-as-it-culls-jobs/Kjlyr7wBQm6vk6am",
-   "source_id": "africa-itweb",
-   "published_ts": "2026-10-23 08:58:30",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "gdelt-ai-global",
-     "title": "Barclays CEO Calls AI  Icing On The Cake  As 5 , 000 Jobs Get Axed",
-     "url": "https://dailycaller.com/2026/10/22/banking-giant-ceo-calls-ai-icing-on-the-cake-as-5000-jobs-get-axed/"
-    }
-   ],
-   "queries": [
-    "barclays calls ai icing"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fMH_1Vs_t14",
-     "url": "https://www.youtube.com/watch?v=fMH_1Vs_t14",
-     "title": "Barclays Is Cutting 5,000 Jobs. Is It Really AI?",
-     "channel": "Automation Check",
-     "views": 47,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:-s3NaWBUJic",
-     "url": "https://www.youtube.com/watch?v=-s3NaWBUJic",
-     "title": "Barclays is axing 5,000 jobs",
-     "channel": "Musafir مُسافر",
-     "views": 12,
-     "age_hours": 15,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8aUMlAxxJoM",
-     "url": "https://www.youtube.com/watch?v=8aUMlAxxJoM",
-     "title": "AI Job Cuts at Barclays? The CEO Calls AI the Icing",
-     "channel": "CyberGlitchs",
-     "views": 6,
-     "age_hours": 22,
-     "relevance": 0.57,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-23T16:44:00.914Z"
-  },
-  {
    "first_seen": "2026-10-25T23:14:07.761Z",
    "id": "39406357",
    "ids": [
@@ -623,7 +539,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-10-25 19:02:22",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "futurism-ai",
