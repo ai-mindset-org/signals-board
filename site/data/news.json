@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T10:02:10.420Z",
+ "generated_at": "2026-10-26T10:31:55.367Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,45 +9,81 @@
  },
  "search_report": [
   {
-   "source": "youtube: apollo zero financial payoff",
+   "source": "youtube: musk 200 warns ai",
    "ok": true
   },
   {
-   "source": "tiktok: apollo zero financial payoff",
+   "source": "tiktok: musk 200 warns ai",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-26T07:15:16.481Z",
-   "id": "39411099",
+   "first_seen": "2026-10-26T10:31:55.367Z",
+   "id": "39410456",
    "ids": [
-    "39411099",
-    "39406629"
+    "39410456",
+    "39413157"
    ],
-   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
-   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
-   "source_id": "cn-pandaily",
-   "published_ts": "2026-10-26 06:51:59",
+   "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+   "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source_id": "crypto-cointelegraph",
+   "published_ts": "2026-10-26 05:13:33",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "in-marktechpost",
-     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
+     "source_id": "hn",
+     "title": "AI cloud computing firms face 'guppy-level death', Elon Musk warns",
+     "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
     }
    ],
    "queries": [
-    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-    "boss zhipin nanbeige team"
+    "musk 200 warns ai"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6R41Wq8I1tg",
+     "url": "https://www.youtube.com/watch?v=6R41Wq8I1tg",
+     "title": "Elon Musk Warns 200+ AI Neoclouds to See “Guppy Level Death” as Debt Markets Have Shut Off the Money",
+     "channel": "Ox Talks",
+     "views": 27032,
+     "age_hours": 11,
+     "relevance": 0.75,
+     "velocity": 2457
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QOOM3pnwJFU",
+     "url": "https://www.youtube.com/watch?v=QOOM3pnwJFU",
+     "title": "Musk Splurges $40 Billion on Nvidia Chips, Warns 200 AI Cloud Firms Face Collapse | #MirrorMedia",
+     "channel": "鏡新聞",
+     "views": 857,
+     "age_hours": 1,
+     "relevance": 0.63,
+     "velocity": 857
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QDAZNx5a0n0",
+     "url": "https://www.youtube.com/shorts/QDAZNx5a0n0",
+     "title": "AI News: Musk Says 200+ AI Clouds Will Die",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-26T07:15:23.945Z"
+   "searched_at": "2026-10-26T10:31:59.446Z"
   },
   {
    "first_seen": "2026-10-22T20:17:00.949Z",
@@ -199,6 +235,37 @@
    "searched_at": "2026-10-24T13:50:16.353Z"
   },
   {
+   "first_seen": "2026-10-26T07:15:16.481Z",
+   "id": "39411099",
+   "ids": [
+    "39411099",
+    "39406629"
+   ],
+   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
+   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-10-26 06:51:59",
+   "story_sources": 2,
+   "score_norm": 91,
+   "related_news": [
+    {
+     "source_id": "in-marktechpost",
+     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
+    }
+   ],
+   "queries": [
+    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
+    "boss zhipin nanbeige team"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T07:15:23.945Z"
+  },
+  {
    "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409961",
    "ids": [
@@ -210,7 +277,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-10-26 04:30:49",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "hn",
@@ -227,50 +294,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T05:19:32.711Z"
-  },
-  {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409964",
-   "ids": [
-    "39409964",
-    "39409862"
-   ],
-   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 03:13:29",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
-     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
-    }
-   ],
-   "queries": [
-    "Anthropic's Claude",
-    "anthropic claude georgia axios"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:LGhKfCTdEPA",
-     "url": "https://www.youtube.com/shorts/LGhKfCTdEPA",
-     "title": "When Anthropic Asked Claude What it Was Thinking",
-     "channel": "",
-     "views": 3900,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T05:19:39.982Z"
   },
   {
    "first_seen": "2026-10-24T23:25:28.636Z",
@@ -377,109 +400,6 @@
    "searched_at": "2026-10-25T05:40:57.685Z"
   },
   {
-   "first_seen": "2026-10-26T10:02:10.420Z",
-   "id": "39412821",
-   "ids": [
-    "39412821",
-    "39406250"
-   ],
-   "title": "‘Zero financial payoff outside tech’: Apollo chief economist on AI productivity growth",
-   "url": "https://indianexpress.com/article/technology/tech-news-technology/zero-financial-payoff-apollo-chief-economist-ai-productivity-10937132/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-10-26 07:23:38",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-     "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
-    }
-   ],
-   "queries": [
-    "apollo zero financial payoff"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T4GTu6pBbIs",
-     "url": "https://www.youtube.com/shorts/T4GTu6pBbIs",
-     "title": "Apollo economist: no signs of AI payoff outside the tech sector",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aOrXfl9UqJI",
-     "url": "https://www.youtube.com/shorts/aOrXfl9UqJI",
-     "title": "Apollo's Chief Economist: AI Has Delivered 'Zero' Payoff Outside Big Tech #shorts",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.73,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tsLv0mXZ0Uk",
-     "url": "https://www.youtube.com/shorts/tsLv0mXZ0Uk",
-     "title": "Apollo Economist: AI Has Delivered Zero Financial Payoff to the S&P 493 #Shorts",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9jvTFANHR0s",
-     "url": "https://www.youtube.com/shorts/9jvTFANHR0s",
-     "title": "AI has delivered zero financial payoff outside tech, says Apollo economist",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.89,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s31giKvLpPQ",
-     "url": "https://www.youtube.com/shorts/s31giKvLpPQ",
-     "title": "Apollo's Economist: AI Has 'Zero' Payoff Outside Big Tech",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Br8A9E_ebgE",
-     "url": "https://www.youtube.com/shorts/Br8A9E_ebgE",
-     "title": "Apollo's chief economist says AI has delivered 'zero financial payoff' outside tech",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.9,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T10:02:14.451Z"
-  },
-  {
    "first_seen": "2026-10-24T07:51:13.332Z",
    "id": "39372000",
    "ids": [
@@ -534,6 +454,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-24T14:14:27.671Z"
+  },
+  {
+   "first_seen": "2026-10-26T05:19:28.291Z",
+   "id": "39409964",
+   "ids": [
+    "39409964",
+    "39409862"
+   ],
+   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-26 03:13:29",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
+    }
+   ],
+   "queries": [
+    "Anthropic's Claude",
+    "anthropic claude georgia axios"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:LGhKfCTdEPA",
+     "url": "https://www.youtube.com/shorts/LGhKfCTdEPA",
+     "title": "When Anthropic Asked Claude What it Was Thinking",
+     "channel": "",
+     "views": 3900,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T05:19:39.982Z"
   },
   {
    "first_seen": "2026-10-24T16:16:00.002Z",
@@ -640,6 +604,109 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
+   "first_seen": "2026-10-26T10:02:10.420Z",
+   "id": "39412821",
+   "ids": [
+    "39412821",
+    "39406250"
+   ],
+   "title": "‘Zero financial payoff outside tech’: Apollo chief economist on AI productivity growth",
+   "url": "https://indianexpress.com/article/technology/tech-news-technology/zero-financial-payoff-apollo-chief-economist-ai-productivity-10937132/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-10-26 07:23:38",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+     "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
+    }
+   ],
+   "queries": [
+    "apollo zero financial payoff"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T4GTu6pBbIs",
+     "url": "https://www.youtube.com/shorts/T4GTu6pBbIs",
+     "title": "Apollo economist: no signs of AI payoff outside the tech sector",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aOrXfl9UqJI",
+     "url": "https://www.youtube.com/shorts/aOrXfl9UqJI",
+     "title": "Apollo's Chief Economist: AI Has Delivered 'Zero' Payoff Outside Big Tech #shorts",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.73,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tsLv0mXZ0Uk",
+     "url": "https://www.youtube.com/shorts/tsLv0mXZ0Uk",
+     "title": "Apollo Economist: AI Has Delivered Zero Financial Payoff to the S&P 493 #Shorts",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9jvTFANHR0s",
+     "url": "https://www.youtube.com/shorts/9jvTFANHR0s",
+     "title": "AI has delivered zero financial payoff outside tech, says Apollo economist",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.89,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:s31giKvLpPQ",
+     "url": "https://www.youtube.com/shorts/s31giKvLpPQ",
+     "title": "Apollo's Economist: AI Has 'Zero' Payoff Outside Big Tech",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Br8A9E_ebgE",
+     "url": "https://www.youtube.com/shorts/Br8A9E_ebgE",
+     "title": "Apollo's chief economist says AI has delivered 'zero financial payoff' outside tech",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.9,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T10:02:14.451Z"
+  },
+  {
    "first_seen": "2026-10-25T23:14:07.761Z",
    "id": "39406357",
    "ids": [
@@ -651,7 +718,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-10-25 19:02:22",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "futurism-ai",
