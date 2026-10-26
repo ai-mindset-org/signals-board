@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:15:42.765Z",
+ "generated_at": "2026-10-26T17:41:12.710Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic officially files public",
+   "source": "youtube: anthropic ipo ai giant",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic officially files public",
-   "ok": true
-  },
-  {
-   "source": "youtube: Gemini 4 Argon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini 4 Argon",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini argon safety cards",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini argon safety cards",
+   "source": "tiktok: anthropic ipo ai giant",
    "ok": true
   }
  ],
@@ -278,6 +262,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-24T14:14:27.671Z"
+  },
+  {
+   "first_seen": "2026-10-26T17:41:12.710Z",
+   "id": "39419033",
+   "ids": [
+    "39419033",
+    "39420956"
+   ],
+   "title": "AI giant Anthropic files for blockbuster IPO",
+   "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+   "source_id": "crypto-coindesk",
+   "published_ts": "2026-10-26 13:22:09",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
+     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
+    }
+   ],
+   "queries": [
+    "anthropic ipo ai giant"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sKEliKGZLck",
+     "url": "https://www.youtube.com/watch?v=sKEliKGZLck",
+     "title": "AI giant Anthropic files paperwork to go public",
+     "channel": "LiveNOW from FOX",
+     "views": 11171,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 5586
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IjCJKr_KzRw",
+     "url": "https://www.youtube.com/watch?v=IjCJKr_KzRw",
+     "title": "AI startup Anthropic unveils its public IPO filing for the first time",
+     "channel": "NBC News",
+     "views": 3382,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 3382
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:g22k8xMrfvU",
+     "url": "https://www.youtube.com/watch?v=g22k8xMrfvU",
+     "title": "CVC Marathon's Richards on Anthropic IPO, AI Buildout",
+     "channel": "Bloomberg Television",
+     "views": 821,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 821
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Zc-e04prg-Q",
+     "url": "https://www.youtube.com/shorts/Zc-e04prg-Q",
+     "title": "Wall Street is awaiting Anthropic's IPO — and more AI news you may have missed this week",
+     "channel": "",
+     "views": 26000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:o2YHmfgNBQw",
+     "url": "https://www.youtube.com/shorts/o2YHmfgNBQw",
+     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
+     "channel": "",
+     "views": 12000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:v5C25oHxBPU",
+     "url": "https://www.youtube.com/shorts/v5C25oHxBPU",
+     "title": "Anthropic files IPO",
+     "channel": "",
+     "views": 1900,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-26T17:41:16.822Z"
   },
   {
    "first_seen": "2026-10-24T16:16:00.002Z",
