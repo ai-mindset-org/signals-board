@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T09:02:34.644Z",
+ "generated_at": "2026-10-26T10:02:10.420Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: apollo zero financial payoff",
+   "ok": true
+  },
+  {
+   "source": "tiktok: apollo zero financial payoff",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-26T07:15:16.481Z",
@@ -231,7 +240,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-10-26 03:13:29",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -366,6 +375,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-25T05:40:57.685Z"
+  },
+  {
+   "first_seen": "2026-10-26T10:02:10.420Z",
+   "id": "39412821",
+   "ids": [
+    "39412821",
+    "39406250"
+   ],
+   "title": "‘Zero financial payoff outside tech’: Apollo chief economist on AI productivity growth",
+   "url": "https://indianexpress.com/article/technology/tech-news-technology/zero-financial-payoff-apollo-chief-economist-ai-productivity-10937132/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-10-26 07:23:38",
+   "story_sources": 2,
+   "score_norm": 80,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+     "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
+    }
+   ],
+   "queries": [
+    "apollo zero financial payoff"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T4GTu6pBbIs",
+     "url": "https://www.youtube.com/shorts/T4GTu6pBbIs",
+     "title": "Apollo economist: no signs of AI payoff outside the tech sector",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aOrXfl9UqJI",
+     "url": "https://www.youtube.com/shorts/aOrXfl9UqJI",
+     "title": "Apollo's Chief Economist: AI Has Delivered 'Zero' Payoff Outside Big Tech #shorts",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.73,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tsLv0mXZ0Uk",
+     "url": "https://www.youtube.com/shorts/tsLv0mXZ0Uk",
+     "title": "Apollo Economist: AI Has Delivered Zero Financial Payoff to the S&P 493 #Shorts",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9jvTFANHR0s",
+     "url": "https://www.youtube.com/shorts/9jvTFANHR0s",
+     "title": "AI has delivered zero financial payoff outside tech, says Apollo economist",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.89,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:s31giKvLpPQ",
+     "url": "https://www.youtube.com/shorts/s31giKvLpPQ",
+     "title": "Apollo's Economist: AI Has 'Zero' Payoff Outside Big Tech",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Br8A9E_ebgE",
+     "url": "https://www.youtube.com/shorts/Br8A9E_ebgE",
+     "title": "Apollo's chief economist says AI has delivered 'zero financial payoff' outside tech",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.9,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T10:02:14.451Z"
   },
   {
    "first_seen": "2026-10-24T07:51:13.332Z",
@@ -539,7 +651,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-10-25 19:02:22",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "futurism-ai",
