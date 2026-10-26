@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T10:31:55.367Z",
+ "generated_at": "2026-10-26T10:54:08.835Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: musk 200 warns ai",
+   "source": "youtube: openai anthropic llm 80",
    "ok": true
   },
   {
-   "source": "tiktok: musk 200 warns ai",
+   "source": "tiktok: openai anthropic llm 80",
    "ok": true
   }
  ],
@@ -705,6 +705,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T10:02:14.451Z"
+  },
+  {
+   "first_seen": "2026-10-26T10:54:08.835Z",
+   "id": "39413469",
+   "ids": [
+    "39413469",
+    "39405147"
+   ],
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-26 02:16:40",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "url": "https://minimaxir.com/2026/10/cheap-llms/"
+    }
+   ],
+   "queries": [
+    "openai anthropic llm 80"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JlVVdB4GsSo",
+     "url": "https://www.youtube.com/watch?v=JlVVdB4GsSo",
+     "title": "How OpenAI & Anthropic Cut LLM Prices Up to 80%",
+     "channel": "Dev4Code",
+     "views": 0,
+     "age_hours": 6,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T10:54:12.898Z"
   },
   {
    "first_seen": "2026-10-25T23:14:07.761Z",
