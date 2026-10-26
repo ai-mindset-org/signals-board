@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T21:41:24.418Z",
+ "generated_at": "2026-10-26T22:17:12.038Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Meta Plans",
+   "source": "youtube: 60.000 Mitarbeitern Abfindungen",
    "ok": true
   },
   {
-   "source": "tiktok: Meta Plans",
+   "source": "tiktok: 60.000 Mitarbeitern Abfindungen",
    "ok": true
   },
   {
-   "source": "youtube: meta plans raise up",
+   "source": "youtube: ki-kosten microsoft 60.000 mitarbeitern",
    "ok": true
   },
   {
-   "source": "tiktok: meta plans raise up",
-   "ok": true
-  },
-  {
-   "source": "youtube: Smuggling WebMCP",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Smuggling WebMCP",
-   "ok": true
-  },
-  {
-   "source": "youtube: smuggling webmcp chatgpt",
-   "ok": true
-  },
-  {
-   "source": "tiktok: smuggling webmcp chatgpt",
+   "source": "tiktok: ki-kosten microsoft 60.000 mitarbeitern",
    "ok": true
   }
  ],
@@ -397,6 +381,62 @@
    "searched_at": "2026-10-26T17:41:16.822Z"
   },
   {
+   "first_seen": "2026-10-26T22:17:12.038Z",
+   "id": "39422784",
+   "ids": [
+    "39422784",
+    "39426096"
+   ],
+   "title": "KI-Kosten: Microsoft bietet bis zu 60.000 Mitarbeitern Abfindungen an",
+   "url": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html",
+   "source_id": "eu-golem",
+   "published_ts": "2026-10-26 18:50:03",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Wegen hoher KI-Investitionen: Microsoft bietet 60.000 Mitarbeitern Abfindungen an",
+     "url": "https://t3n.de/news/ki-microsoft-abfindungen-1770007/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "60.000 Mitarbeitern Abfindungen",
+    "ki-kosten microsoft 60.000 mitarbeitern"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pNWUJ8v3wDo",
+     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
+     "channel": "CTV News",
+     "views": 9436,
+     "age_hours": 3,
+     "relevance": 0.83,
+     "velocity": 3145
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tcLqlcjwsN4",
+     "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an, da KI Effizienzschub erzwingt",
+     "channel": "CNBC Television",
+     "views": 6635,
+     "age_hours": 3,
+     "relevance": 0.63,
+     "velocity": 2212
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T22:17:19.864Z"
+  },
+  {
    "first_seen": "2026-10-26T19:41:04.975Z",
    "id": "39423292",
    "ids": [
@@ -408,7 +448,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-26 18:46:33",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "hn",
@@ -568,7 +608,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-26 17:50:15",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
