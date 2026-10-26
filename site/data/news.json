@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T15:40:41.349Z",
+ "generated_at": "2026-10-26T16:25:59.394Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Meta Plans",
+   "source": "youtube: Tata Communications To Pour Up To 450 Mn In Build",
    "ok": true
   },
   {
-   "source": "tiktok: Meta Plans",
+   "source": "tiktok: Tata Communications To Pour Up To 450 Mn In Build",
    "ok": true
   },
   {
-   "source": "youtube: meta plans raise up",
+   "source": "youtube: tata communications pour up",
    "ok": true
   },
   {
-   "source": "tiktok: meta plans raise up",
+   "source": "tiktok: tata communications pour up",
    "ok": true
   }
  ],
@@ -173,6 +173,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T15:05:13.346Z"
+  },
+  {
+   "first_seen": "2026-10-26T16:25:59.394Z",
+   "id": "39419079",
+   "ids": [
+    "39419079",
+    "39412522"
+   ],
+   "title": "Tata Communications To Pour Up To $450 Mn In Build AI Connectivity Infrastructure",
+   "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-10-26 15:27:25",
+   "story_sources": 2,
+   "score_norm": 96,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Tata Communications to spend $450 million on AI connectivity infrastructure",
+     "url": "https://www.thehindubusinessline.com/info-tech/tata-communications-to-spend-450-million-on-ai-connectivity-infrastructure/article71626132.ece"
+    }
+   ],
+   "queries": [
+    "Tata Communications To Pour Up To 450 Mn In Build",
+    "tata communications pour up"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T16:26:07.271Z"
   },
   {
    "first_seen": "2026-10-24T07:40:34.510Z",
@@ -376,7 +407,7 @@
    "source_id": "crypto-cointelegraph",
    "published_ts": "2026-10-26 05:13:33",
    "story_sources": 2,
-   "score_norm": 80,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "hn",
@@ -488,6 +519,110 @@
    "searched_at": "2026-10-24T14:14:27.671Z"
   },
   {
+   "first_seen": "2026-10-26T13:51:30.960Z",
+   "id": "39415040",
+   "ids": [
+    "39415040",
+    "39412643"
+   ],
+   "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+   "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-26 11:23:48",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
+    }
+   ],
+   "queries": [
+    "Elvis Presley's",
+    "elvis presley anthropic estate"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KeigEN5fBE4",
+     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
+     "title": "ELVIS PRESLEY — FOREVER THE KING",
+     "channel": "",
+     "views": 7400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:d8JinAVQDQw",
+     "url": "https://www.youtube.com/watch?v=d8JinAVQDQw",
+     "title": "Elvis Presley Estate vs  AI Company Anthropic...",
+     "channel": "wild1studios",
+     "views": 79,
+     "age_hours": 15,
+     "relevance": 0.57,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8Rlqoe_RufA",
+     "url": "https://www.youtube.com/watch?v=8Rlqoe_RufA",
+     "title": "Elvis Presley's estate sues Anthropic for $41M",
+     "channel": "The Contextian",
+     "views": 2,
+     "age_hours": 0.7,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4Ye_QX3P_OQ",
+     "url": "https://www.youtube.com/watch?v=4Ye_QX3P_OQ",
+     "title": "Elvis Presley's estate sued Anthropic over 274 songs. Could it cost $41 million?",
+     "channel": "instinctHub LMS | Train Employees, Sell Courses",
+     "views": 22,
+     "age_hours": 19,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:a2ZY7q1DP_A",
+     "url": "https://www.youtube.com/watch?v=a2ZY7q1DP_A",
+     "title": "🚨 Today's biggest AI news: Elvis Estate Sues Anthropic for Copyright Infringement | #shorts #ai",
+     "channel": "Learn AI",
+     "views": 21,
+     "age_hours": 24,
+     "relevance": 0.71,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3YDP5bGsSzs",
+     "url": "https://www.youtube.com/watch?v=3YDP5bGsSzs",
+     "title": "Elvis Presley's Estate Just Sued Anthropic — 274 Songs Used to Train AI",
+     "channel": "Exit9media",
+     "views": 30,
+     "age_hours": 24,
+     "relevance": 0.57,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T13:51:38.783Z"
+  },
+  {
    "first_seen": "2026-10-24T16:16:00.002Z",
    "id": "39386166",
    "ids": [
@@ -592,110 +727,6 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
-   "first_seen": "2026-10-26T13:51:30.960Z",
-   "id": "39415040",
-   "ids": [
-    "39415040",
-    "39412643"
-   ],
-   "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
-   "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
-   "source_id": "engadget",
-   "published_ts": "2026-10-26 11:23:48",
-   "story_sources": 2,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
-     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
-    }
-   ],
-   "queries": [
-    "Elvis Presley's",
-    "elvis presley anthropic estate"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KeigEN5fBE4",
-     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
-     "title": "ELVIS PRESLEY — FOREVER THE KING",
-     "channel": "",
-     "views": 7400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:d8JinAVQDQw",
-     "url": "https://www.youtube.com/watch?v=d8JinAVQDQw",
-     "title": "Elvis Presley Estate vs  AI Company Anthropic...",
-     "channel": "wild1studios",
-     "views": 79,
-     "age_hours": 15,
-     "relevance": 0.57,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8Rlqoe_RufA",
-     "url": "https://www.youtube.com/watch?v=8Rlqoe_RufA",
-     "title": "Elvis Presley's estate sues Anthropic for $41M",
-     "channel": "The Contextian",
-     "views": 2,
-     "age_hours": 0.7,
-     "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4Ye_QX3P_OQ",
-     "url": "https://www.youtube.com/watch?v=4Ye_QX3P_OQ",
-     "title": "Elvis Presley's estate sued Anthropic over 274 songs. Could it cost $41 million?",
-     "channel": "instinctHub LMS | Train Employees, Sell Courses",
-     "views": 22,
-     "age_hours": 19,
-     "relevance": 0.57,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:a2ZY7q1DP_A",
-     "url": "https://www.youtube.com/watch?v=a2ZY7q1DP_A",
-     "title": "🚨 Today's biggest AI news: Elvis Estate Sues Anthropic for Copyright Infringement | #shorts #ai",
-     "channel": "Learn AI",
-     "views": 21,
-     "age_hours": 24,
-     "relevance": 0.71,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3YDP5bGsSzs",
-     "url": "https://www.youtube.com/watch?v=3YDP5bGsSzs",
-     "title": "Elvis Presley's Estate Just Sued Anthropic — 274 Songs Used to Train AI",
-     "channel": "Exit9media",
-     "views": 30,
-     "age_hours": 24,
-     "relevance": 0.57,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T13:51:38.783Z"
-  },
-  {
    "first_seen": "2026-10-26T07:15:16.481Z",
    "id": "39411099",
    "ids": [
@@ -794,7 +825,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-10-26 03:13:29",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "in-businessline",
