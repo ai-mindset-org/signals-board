@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T22:42:18.380Z",
+ "generated_at": "2026-10-26T22:53:43.049Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Tata Communications To Pour Up To 450 Mn In Build",
+   "source": "youtube: musk 200 warns ai",
    "ok": true
   },
   {
-   "source": "tiktok: Tata Communications To Pour Up To 450 Mn In Build",
-   "ok": true
-  },
-  {
-   "source": "youtube: tata communications pour up",
-   "ok": true
-  },
-  {
-   "source": "tiktok: tata communications pour up",
+   "source": "tiktok: musk 200 warns ai",
    "ok": true
   }
  ],
@@ -1133,14 +1125,14 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:aeg4w1MUW7A",
-     "url": "https://www.youtube.com/watch?v=aeg4w1MUW7A",
-     "title": "The AI ​​bubble has truly burst! Musk warns: A wave of 200 cloud service providers going bankrupt",
-     "channel": "寰宇新聞 頻道",
-     "views": 28534,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 9511
+     "id": "youtube:wwC2ZcsO3p0",
+     "url": "https://www.youtube.com/watch?v=wwC2ZcsO3p0",
+     "title": "Elon Warns 200+ AI Companies Face \"Guppy-Level Death\" as Money Dries Up",
+     "channel": "Steven Van Metre",
+     "views": 1637,
+     "age_hours": 0.8833333333333333,
+     "relevance": 0.75,
+     "velocity": 1637
     },
     {
      "platform": "youtube",
@@ -1149,22 +1141,34 @@
      "url": "https://www.youtube.com/watch?v=6R41Wq8I1tg",
      "title": "Elon Musk Warns 200+ AI Neoclouds to See “Guppy Level Death” as Debt Markets Have Shut Off the Money",
      "channel": "Ox Talks",
-     "views": 32019,
-     "age_hours": 17,
+     "views": 34401,
+     "age_hours": 23,
      "relevance": 0.75,
-     "velocity": 1883
+     "velocity": 1496
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:QOOM3pnwJFU",
-     "url": "https://www.youtube.com/watch?v=QOOM3pnwJFU",
-     "title": "Musk Splurges $40 Billion on Nvidia Chips, Warns 200 AI Cloud Firms Face Collapse | #MirrorMedia",
-     "channel": "鏡新聞",
-     "views": 14665,
-     "age_hours": 8,
-     "relevance": 0.63,
-     "velocity": 1833
+     "id": "youtube:8q6-KCs-16g",
+     "url": "https://www.youtube.com/watch?v=8q6-KCs-16g",
+     "title": "Elon Warns 200+ AI Companies Face \"Guppy-Level Death\" as Money Dries Up",
+     "channel": "Steven Van Metre",
+     "views": 263,
+     "age_hours": 0.8833333333333333,
+     "relevance": 0.75,
+     "velocity": 263
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FQd9UYnSgyg",
+     "url": "https://www.youtube.com/watch?v=FQd9UYnSgyg",
+     "title": "MUSK'S WARNING: 200 COMPANIES FACE \"GUPPY-LEVEL DEATH\"",
+     "channel": "STAY WINNING WEALTH",
+     "views": 351,
+     "age_hours": 2,
+     "relevance": 0.71,
+     "velocity": 176
     },
     {
      "platform": "youtube",
@@ -1173,17 +1177,29 @@
      "url": "https://www.youtube.com/watch?v=u5zOcd7kuL8",
      "title": "⚠️ Elon Musk: 200+ AI Companies Are About to DIE 💀🔥",
      "channel": "Shravan",
-     "views": 40,
-     "age_hours": 3,
+     "views": 82,
+     "age_hours": 9,
      "relevance": 0.5,
-     "velocity": 13
+     "velocity": 9
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sf8lVLNo8pg",
+     "url": "https://www.youtube.com/watch?v=sf8lVLNo8pg",
+     "title": "MUSK'S WARNING: 200 COMPANIES FACE \"GUPPY-LEVEL DEATH\"",
+     "channel": "STAY WINNING WEALTH",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.71,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-26T16:46:34.366Z"
+   "searched_at": "2026-10-26T22:53:47.420Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
