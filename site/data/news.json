@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T10:54:08.835Z",
+ "generated_at": "2026-10-26T11:45:41.107Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,43 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai anthropic llm 80",
+   "source": "youtube: make ai morally good",
    "ok": true
   },
   {
-   "source": "tiktok: openai anthropic llm 80",
+   "source": "tiktok: make ai morally good",
+   "ok": true
+  },
+  {
+   "source": "youtube: Anthropic's Claude",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Anthropic's Claude",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude georgia axios",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude georgia axios",
+   "ok": true
+  },
+  {
+   "source": "youtube: ChatGPT Is Building Detailed Psychological Profiles",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ChatGPT Is Building Detailed Psychological Profiles",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt building detailed psychological",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt building detailed psychological",
    "ok": true
   }
  ],
@@ -246,7 +278,7 @@
    "source_id": "cn-pandaily",
    "published_ts": "2026-10-26 06:51:59",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "in-marktechpost",
@@ -277,7 +309,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-10-26 04:30:49",
    "story_sources": 2,
-   "score_norm": 82,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -293,7 +325,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-26T05:19:32.711Z"
+   "searched_at": "2026-10-26T11:45:45.415Z"
   },
   {
    "first_seen": "2026-10-24T23:25:28.636Z",
@@ -482,13 +514,49 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:LGhKfCTdEPA",
-     "url": "https://www.youtube.com/shorts/LGhKfCTdEPA",
-     "title": "When Anthropic Asked Claude What it Was Thinking",
-     "channel": "",
-     "views": 3900,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:lZAWmvVbtok",
+     "url": "https://www.youtube.com/watch?v=lZAWmvVbtok",
+     "title": "Reuters: Anthropic Says Claude Bypassed a Georgia PAYWALL",
+     "channel": "Alignment Addict",
+     "views": 17,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:S6DHCamDzIc",
+     "url": "https://www.youtube.com/watch?v=S6DHCamDzIc",
+     "title": "Anthropic Says Claude Skipped a Fee to Get Georgia Vote Counts",
+     "channel": "Unified Memory",
+     "views": 11,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XHmVz1ekuWI",
+     "url": "https://www.youtube.com/watch?v=XHmVz1ekuWI",
+     "title": "Claude Bypassed Georgia Vote Paywall",
+     "channel": "The System Prompt",
+     "views": 3,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5FQeuKSzWmQ",
+     "url": "https://www.youtube.com/watch?v=5FQeuKSzWmQ",
+     "title": "Claude Slipped Past a Paywall for Georgia Vote Data #Shorts",
+     "channel": "The AI Rollout",
+     "views": 0,
+     "age_hours": 0.75,
      "relevance": 0.5,
      "velocity": null
     }
@@ -497,7 +565,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T05:19:39.982Z"
+   "searched_at": "2026-10-26T11:45:52.437Z"
   },
   {
    "first_seen": "2026-10-24T16:16:00.002Z",
@@ -761,7 +829,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-10-25 19:02:22",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "futurism-ai",
@@ -781,10 +849,10 @@
      "url": "https://www.youtube.com/watch?v=Y9GRvKUeEMg",
      "title": "ChatGPT Is Building a Psychological Profile of You",
      "channel": "Dylan Bradley",
-     "views": 289,
+     "views": 320,
      "age_hours": 48,
      "relevance": 0.75,
-     "velocity": 6
+     "velocity": 7
     },
     {
      "platform": "youtube",
@@ -793,7 +861,7 @@
      "url": "https://www.youtube.com/shorts/kiZLJ2PgmgY",
      "title": "ChatGPT is building a psychological profile on you, tracking insecurities, personality traits, and e",
      "channel": "",
-     "views": 55,
+     "views": 56,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -803,38 +871,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T05:19:47.137Z"
-  },
-  {
-   "first_seen": "2026-10-23T15:19:36.989Z",
-   "id": "39365732",
-   "ids": [
-    "39365732",
-    "39360868"
-   ],
-   "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xdbe24/openais_ad_pixel_tracks_by_default_and_european/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-23 11:26:27",
-   "story_sources": 2,
-   "score_norm": 44,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI's Ad Pixel Tracks by Default, and European Shops Aren't Switching It Off",
-     "url": "https://ciphercue.com/blog/openai-chatgpt-ad-pixel-european-shops"
-    }
-   ],
-   "queries": [
-    "European Shops Aren't Switching It Off",
-    "openai ad pixel tracks"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-24T03:44:31.178Z"
+   "searched_at": "2026-10-26T11:45:59.605Z"
   }
  ]
 }
