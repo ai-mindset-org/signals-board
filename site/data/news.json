@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:25:59.394Z",
+ "generated_at": "2026-10-26T16:46:30.201Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Tata Communications To Pour Up To 450 Mn In Build",
+   "source": "youtube: musk 200 warns ai",
    "ok": true
   },
   {
-   "source": "tiktok: Tata Communications To Pour Up To 450 Mn In Build",
-   "ok": true
-  },
-  {
-   "source": "youtube: tata communications pour up",
-   "ok": true
-  },
-  {
-   "source": "tiktok: tata communications pour up",
+   "source": "tiktok: musk 200 warns ai",
    "ok": true
   }
  ],
@@ -422,14 +414,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:aeg4w1MUW7A",
+     "url": "https://www.youtube.com/watch?v=aeg4w1MUW7A",
+     "title": "The AI ​​bubble has truly burst! Musk warns: A wave of 200 cloud service providers going bankrupt",
+     "channel": "寰宇新聞 頻道",
+     "views": 28534,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 9511
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:6R41Wq8I1tg",
      "url": "https://www.youtube.com/watch?v=6R41Wq8I1tg",
      "title": "Elon Musk Warns 200+ AI Neoclouds to See “Guppy Level Death” as Debt Markets Have Shut Off the Money",
      "channel": "Ox Talks",
-     "views": 27032,
-     "age_hours": 11,
+     "views": 32019,
+     "age_hours": 17,
      "relevance": 0.75,
-     "velocity": 2457
+     "velocity": 1883
     },
     {
      "platform": "youtube",
@@ -438,29 +442,29 @@
      "url": "https://www.youtube.com/watch?v=QOOM3pnwJFU",
      "title": "Musk Splurges $40 Billion on Nvidia Chips, Warns 200 AI Cloud Firms Face Collapse | #MirrorMedia",
      "channel": "鏡新聞",
-     "views": 857,
-     "age_hours": 1,
+     "views": 14665,
+     "age_hours": 8,
      "relevance": 0.63,
-     "velocity": 857
+     "velocity": 1833
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QDAZNx5a0n0",
-     "url": "https://www.youtube.com/shorts/QDAZNx5a0n0",
-     "title": "AI News: Musk Says 200+ AI Clouds Will Die",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:u5zOcd7kuL8",
+     "url": "https://www.youtube.com/watch?v=u5zOcd7kuL8",
+     "title": "⚠️ Elon Musk: 200+ AI Companies Are About to DIE 💀🔥",
+     "channel": "Shravan",
+     "views": 40,
+     "age_hours": 3,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 13
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-26T10:31:59.446Z"
+   "searched_at": "2026-10-26T16:46:34.366Z"
   },
   {
    "first_seen": "2026-10-24T07:51:13.332Z",
@@ -738,7 +742,7 @@
    "source_id": "cn-pandaily",
    "published_ts": "2026-10-26 06:51:59",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "in-marktechpost",
