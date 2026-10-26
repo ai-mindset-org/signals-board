@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T21:15:44.932Z",
+ "generated_at": "2026-10-26T21:41:24.418Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: IPO With 16.3 Billion",
+   "source": "youtube: Meta Plans",
    "ok": true
   },
   {
-   "source": "tiktok: IPO With 16.3 Billion",
+   "source": "tiktok: Meta Plans",
    "ok": true
   },
   {
-   "source": "youtube: anthropic files ipo 16.3",
+   "source": "youtube: meta plans raise up",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic files ipo 16.3",
+   "source": "tiktok: meta plans raise up",
+   "ok": true
+  },
+  {
+   "source": "youtube: Smuggling WebMCP",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Smuggling WebMCP",
+   "ok": true
+  },
+  {
+   "source": "youtube: smuggling webmcp chatgpt",
+   "ok": true
+  },
+  {
+   "source": "tiktok: smuggling webmcp chatgpt",
    "ok": true
   }
  ],
@@ -94,7 +110,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-10-26 18:09:42",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -278,61 +294,6 @@
    "searched_at": "2026-10-25T05:40:57.685Z"
   },
   {
-   "first_seen": "2026-10-26T19:41:04.975Z",
-   "id": "39423292",
-   "ids": [
-    "39423292",
-    "39415560"
-   ],
-   "title": "Reddit’s r/opensource bans AI projects, and non-English speakers too",
-   "url": "https://thenextweb.com/news/reddits-r-opensource-bans-ai-projects-and-non-english-speakers-too",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-26 18:46:33",
-   "story_sources": 2,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
-     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers"
-    }
-   ],
-   "queries": [
-    "reddit opensource bans ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5eIuMjwFONU",
-     "url": "https://www.youtube.com/shorts/5eIuMjwFONU",
-     "title": "🔥 Reddit's r/opensource Forum Bans All AI Projects #AINews",
-     "channel": "",
-     "views": 43,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:SOpjcCuOq50",
-     "url": "https://www.youtube.com/shorts/SOpjcCuOq50",
-     "title": "Reddit r/opensource Bans AI Projects: Even Linux at Risk?",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T19:41:08.975Z"
-  },
-  {
    "first_seen": "2026-10-26T17:41:12.710Z",
    "id": "39419033",
    "ids": [
@@ -344,7 +305,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-10-26 13:22:09",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -434,6 +395,61 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-26T17:41:16.822Z"
+  },
+  {
+   "first_seen": "2026-10-26T19:41:04.975Z",
+   "id": "39423292",
+   "ids": [
+    "39423292",
+    "39415560"
+   ],
+   "title": "Reddit’s r/opensource bans AI projects, and non-English speakers too",
+   "url": "https://thenextweb.com/news/reddits-r-opensource-bans-ai-projects-and-non-english-speakers-too",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-26 18:46:33",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers"
+    }
+   ],
+   "queries": [
+    "reddit opensource bans ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5eIuMjwFONU",
+     "url": "https://www.youtube.com/shorts/5eIuMjwFONU",
+     "title": "🔥 Reddit's r/opensource Forum Bans All AI Projects #AINews",
+     "channel": "",
+     "views": 43,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:SOpjcCuOq50",
+     "url": "https://www.youtube.com/shorts/SOpjcCuOq50",
+     "title": "Reddit r/opensource Bans AI Projects: Even Linux at Risk?",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T19:41:08.975Z"
   },
   {
    "first_seen": "2026-10-24T16:16:00.002Z",
@@ -645,6 +661,37 @@
    "searched_at": "2026-10-26T19:51:48.608Z"
   },
   {
+   "first_seen": "2026-10-26T21:41:24.418Z",
+   "id": "39425727",
+   "ids": [
+    "39425727",
+    "39419402"
+   ],
+   "title": "Smuggling WebMCP into ChatGPT",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xg217w/smuggling_webmcp_into_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-26 16:40:51",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Smuggling WebMCP into ChatGPT",
+     "url": "https://blog.danielbrain.ai/smuggling-webmcp-into-chatgpt"
+    }
+   ],
+   "queries": [
+    "Smuggling WebMCP",
+    "smuggling webmcp chatgpt"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T21:41:39.368Z"
+  },
+  {
    "first_seen": "2026-10-26T15:40:41.349Z",
    "id": "39418044",
    "ids": [
@@ -672,69 +719,81 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:TVTzucPran4",
-     "url": "https://www.youtube.com/watch?v=TVTzucPran4",
-     "title": "How Meta plans to cash in on Muse",
-     "channel": "Prof G Markets",
-     "views": 19176,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 266
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:J-5m-JBBveI",
-     "url": "https://www.youtube.com/watch?v=J-5m-JBBveI",
-     "title": "Meta Doubles Down on AI Spending, Plans New Class C Shares",
-     "channel": "Bloomberg Tech",
-     "views": 15837,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 220
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:3OnJopLqhAc",
      "url": "https://www.youtube.com/watch?v=3OnJopLqhAc",
      "title": "AI Capital Rush: SpaceX Eyes $40 Billion Debt Deal, Meta Plans $95 Billion Fundraise | IBH",
      "channel": "CNBC-TV18",
-     "views": 25,
-     "age_hours": 0.4,
+     "views": 1709,
+     "age_hours": 6,
      "relevance": 0.56,
-     "velocity": 25
+     "velocity": 285
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LGHIeA_fpCM",
-     "url": "https://www.youtube.com/watch?v=LGHIeA_fpCM",
-     "title": "Meta's New Shares: Funding AI Without Losing Control",
-     "channel": "WorkDefine",
-     "views": 0,
-     "age_hours": 8,
-     "relevance": 0.5,
+     "kind": "shorts",
+     "id": "youtube:8MILenztPcY",
+     "url": "https://www.youtube.com/shorts/8MILenztPcY",
+     "title": "Meta Wants $95 Billion for AI. Here's Why",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Ov6Vgj8vL7g",
-     "url": "https://www.youtube.com/watch?v=Ov6Vgj8vL7g",
-     "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-     "channel": "The AI Sea",
-     "views": 0,
-     "age_hours": 0.48333333333333334,
+     "kind": "shorts",
+     "id": "youtube:5GXhXo00b28",
+     "url": "https://www.youtube.com/shorts/5GXhXo00b28",
+     "title": "Meta Plans to Raise $95 Billion in Stock to Pay for AI",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-lU8KxGkeCw",
+     "url": "https://www.youtube.com/shorts/-lU8KxGkeCw",
+     "title": "Meta Wants Up to $95 Billion in New Stock to Pay Its AI Bill",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
      "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c0smSv0PjXs",
+     "url": "https://www.youtube.com/shorts/c0smSv0PjXs",
+     "title": "🔥 Meta Wants Up to $95 Billion From Stock Sales to Pay for AI #AINews",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CCeAyUm7NcM",
+     "url": "https://www.youtube.com/shorts/CCeAyUm7NcM",
+     "title": "Meta to Raise 95 billion dollars for AI Buildout | Tech News in English",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.56,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T15:40:49.224Z"
+   "searched_at": "2026-10-26T21:41:32.617Z"
   },
   {
    "first_seen": "2026-10-26T15:05:05.711Z",
@@ -1087,6 +1146,97 @@
    "searched_at": "2026-10-26T16:46:34.366Z"
   },
   {
+   "first_seen": "2026-10-26T18:27:30.783Z",
+   "id": "39420549",
+   "ids": [
+    "39420549",
+    "39421830"
+   ],
+   "title": "SpaceX raised $40B of debt financing to purchase chips for AI",
+   "url": "https://en.ain.ua/2026/10/26/spacex-raised-40b-of-debt-financing-to-purchase-chips-for-ai/",
+   "source_id": "cee-ain",
+   "published_ts": "2026-10-26 12:50:00",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "SpaceX closes $40B debt deal for AI chips",
+     "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+    }
+   ],
+   "queries": [
+    "spacex 40b raised debt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CzSgrXwj5y8",
+     "url": "https://www.youtube.com/watch?v=CzSgrXwj5y8",
+     "title": "AI Daily: Musk: SpaceX Closed $40B GPU Debt, Sees a Neocloud #Shorts",
+     "channel": "The Business Engineer",
+     "views": 33,
+     "age_hours": 21,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:i1TEuZKWfGY",
+     "url": "https://www.youtube.com/watch?v=i1TEuZKWfGY",
+     "title": "SpaceX Secures $40B Debt Financing for NVIDIA AI Chips",
+     "channel": "Quantum Synergy",
+     "views": 14,
+     "age_hours": 19,
+     "relevance": 0.75,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wlYRlEeCN60",
+     "url": "https://www.youtube.com/watch?v=wlYRlEeCN60",
+     "title": "SpaceX Just Raised $40 Billion for AI Chips. Here’s the Real Warning",
+     "channel": "Generational Wealth Investments",
+     "views": 9,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:EHO61EoOflU",
+     "url": "https://www.youtube.com/watch?v=EHO61EoOflU",
+     "title": "Top 5 AI News Today (26 Oct 2026): Elvis Estate Sues Anthropic, SpaceX $40B GPU Debt",
+     "channel": "Signal Drop",
+     "views": 19,
+     "age_hours": 18,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Zf5Dlab4ja4",
+     "url": "https://www.youtube.com/watch?v=Zf5Dlab4ja4",
+     "title": "SpaceX Borrows $40B For GPUs",
+     "channel": "The System Prompt",
+     "views": 4,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T18:27:42.257Z"
+  },
+  {
    "first_seen": "2026-10-26T10:54:08.835Z",
    "id": "39413469",
    "ids": [
@@ -1231,97 +1381,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T10:02:14.451Z"
-  },
-  {
-   "first_seen": "2026-10-26T18:27:30.783Z",
-   "id": "39420549",
-   "ids": [
-    "39420549",
-    "39421830"
-   ],
-   "title": "SpaceX raised $40B of debt financing to purchase chips for AI",
-   "url": "https://en.ain.ua/2026/10/26/spacex-raised-40b-of-debt-financing-to-purchase-chips-for-ai/",
-   "source_id": "cee-ain",
-   "published_ts": "2026-10-26 12:50:00",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "SpaceX closes $40B debt deal for AI chips",
-     "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
-    }
-   ],
-   "queries": [
-    "spacex 40b raised debt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CzSgrXwj5y8",
-     "url": "https://www.youtube.com/watch?v=CzSgrXwj5y8",
-     "title": "AI Daily: Musk: SpaceX Closed $40B GPU Debt, Sees a Neocloud #Shorts",
-     "channel": "The Business Engineer",
-     "views": 33,
-     "age_hours": 21,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:i1TEuZKWfGY",
-     "url": "https://www.youtube.com/watch?v=i1TEuZKWfGY",
-     "title": "SpaceX Secures $40B Debt Financing for NVIDIA AI Chips",
-     "channel": "Quantum Synergy",
-     "views": 14,
-     "age_hours": 19,
-     "relevance": 0.75,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wlYRlEeCN60",
-     "url": "https://www.youtube.com/watch?v=wlYRlEeCN60",
-     "title": "SpaceX Just Raised $40 Billion for AI Chips. Here’s the Real Warning",
-     "channel": "Generational Wealth Investments",
-     "views": 9,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:EHO61EoOflU",
-     "url": "https://www.youtube.com/watch?v=EHO61EoOflU",
-     "title": "Top 5 AI News Today (26 Oct 2026): Elvis Estate Sues Anthropic, SpaceX $40B GPU Debt",
-     "channel": "Signal Drop",
-     "views": 19,
-     "age_hours": 18,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Zf5Dlab4ja4",
-     "url": "https://www.youtube.com/watch?v=Zf5Dlab4ja4",
-     "title": "SpaceX Borrows $40B For GPUs",
-     "channel": "The System Prompt",
-     "views": 4,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T18:27:42.257Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
