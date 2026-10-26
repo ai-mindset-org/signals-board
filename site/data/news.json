@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T19:51:40.717Z",
+ "generated_at": "2026-10-26T21:15:44.932Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Elvis Presley’s",
+   "source": "youtube: IPO With 16.3 Billion",
    "ok": true
   },
   {
-   "source": "tiktok: Elvis Presley’s",
+   "source": "tiktok: IPO With 16.3 Billion",
    "ok": true
   },
   {
-   "source": "youtube: elvis presley anthropic 274",
+   "source": "youtube: anthropic files ipo 16.3",
    "ok": true
   },
   {
-   "source": "tiktok: elvis presley anthropic 274",
+   "source": "tiktok: anthropic files ipo 16.3",
    "ok": true
   }
  ],
@@ -763,15 +763,63 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:v5C25oHxBPU",
+     "url": "https://www.youtube.com/watch?v=v5C25oHxBPU",
+     "title": "Anthropic files IPO",
+     "channel": "Jack Boudreau",
+     "views": 2197,
+     "age_hours": 20,
+     "relevance": 1,
+     "velocity": 110
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nV7JqCmErZQ",
+     "url": "https://www.youtube.com/watch?v=nV7JqCmErZQ",
+     "title": "Anthropic just filed for IPO. Everyone’s looking at $16.3 billion in revenue in the first half of th",
+     "channel": "Prompting Iron",
+     "views": 62,
+     "age_hours": 1,
+     "relevance": 0.71,
+     "velocity": 62
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sWR1L0kwEt0",
+     "url": "https://www.youtube.com/watch?v=sWR1L0kwEt0",
+     "title": "Anthropic Files For IPO: Massive Revenue Growth and Staggering Losses Revealed",
+     "channel": "Seeking Alpha",
+     "views": 17,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 9
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:MASlYoBBDrg",
-     "url": "https://www.youtube.com/shorts/MASlYoBBDrg",
-     "title": "Anthropic publicly files for IPO",
+     "id": "youtube:jfg1SHCpbJM",
+     "url": "https://www.youtube.com/shorts/jfg1SHCpbJM",
+     "title": "Anthropic files for IPO: $16.3B revenue in 6 months, $80.7B loss",
      "channel": "",
-     "views": 633,
+     "views": 47,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.57,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:cQg75gou3kk",
+     "url": "https://www.youtube.com/watch?v=cQg75gou3kk",
+     "title": "Anthropic Files Huge IPO! | Short News",
+     "channel": "Shadow English",
+     "views": 3,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 1
     },
     {
      "platform": "youtube",
@@ -780,7 +828,7 @@
      "url": "https://www.youtube.com/shorts/f4DV_yD_U7E",
      "title": "Anthropic IPO: Net revenue retention at 900% as H1 loss swells to $80.7 billion",
      "channel": "",
-     "views": 7,
+     "views": 32,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -790,7 +838,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T15:05:13.346Z"
+   "searched_at": "2026-10-26T21:15:52.841Z"
   },
   {
    "first_seen": "2026-10-26T16:25:59.394Z",
@@ -971,7 +1019,7 @@
    "source_id": "crypto-cointelegraph",
    "published_ts": "2026-10-26 05:13:33",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
