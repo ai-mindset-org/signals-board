@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T11:45:41.107Z",
+ "generated_at": "2026-10-26T13:51:30.960Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,43 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: make ai morally good",
+   "source": "youtube: Elvis Presley's",
    "ok": true
   },
   {
-   "source": "tiktok: make ai morally good",
+   "source": "tiktok: Elvis Presley's",
    "ok": true
   },
   {
-   "source": "youtube: Anthropic's Claude",
+   "source": "youtube: elvis presley anthropic estate",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic's Claude",
+   "source": "tiktok: elvis presley anthropic estate",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude georgia axios",
+   "source": "youtube: BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude georgia axios",
+   "source": "tiktok: BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
    "ok": true
   },
   {
-   "source": "youtube: ChatGPT Is Building Detailed Psychological Profiles",
+   "source": "youtube: boss zhipin nanbeige team",
    "ok": true
   },
   {
-   "source": "tiktok: ChatGPT Is Building Detailed Psychological Profiles",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt building detailed psychological",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt building detailed psychological",
+   "source": "tiktok: boss zhipin nanbeige team",
    "ok": true
   }
  ],
@@ -118,99 +110,6 @@
    "searched_at": "2026-10-26T10:31:59.446Z"
   },
   {
-   "first_seen": "2026-10-22T20:17:00.949Z",
-   "id": "39347225",
-   "ids": [
-    "39347225",
-    "39338037",
-    "39357316",
-    "39361786"
-   ],
-   "title": "Unvetted AI agents are accessing U.S. bank accounts and the banks are shutting them down",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xdbt9u/unvetted_ai_agents_are_accessing_us_bank_accounts/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-23 11:48:17",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Unvetted AI agents are accessing U.S. bank accounts",
-     "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access"
-    }
-   ],
-   "queries": [
-    "unvetted u.s ai agents"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FSh7A6XzVSk",
-     "url": "https://www.youtube.com/watch?v=FSh7A6XzVSk",
-     "title": "Prepare for \"Day After\" Scenario: Unvetted AI Agents Have Been Caught Accessing US Bank Accounts",
-     "channel": "DAHBOO77",
-     "views": 30720,
-     "age_hours": 19,
-     "relevance": 0.55,
-     "velocity": 1617
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VUfk8a23a8A",
-     "url": "https://www.youtube.com/watch?v=VUfk8a23a8A",
-     "title": "AI Agents Are Accessing BANK ACCOUNTS?! Major U.S Banks Sound The Alarm ",
-     "channel": "Oba News",
-     "views": 305,
-     "age_hours": 13,
-     "relevance": 0.7,
-     "velocity": 23
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iBv2YqDbESA",
-     "url": "https://www.youtube.com/shorts/iBv2YqDbESA",
-     "title": "AI Agents in Bank Accounts? U.S. Banks Push Back, Axios Reports #AINews #BankingNews #USNews #Shorts",
-     "channel": "",
-     "views": 174,
-     "age_hours": null,
-     "relevance": 0.55,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AztUeWEih3Y",
-     "url": "https://www.youtube.com/shorts/AztUeWEih3Y",
-     "title": "JUST IN: Rogue AI Agents Found INSIDE U.S. Bank Accounts, and Banks Are HORRIFIED",
-     "channel": "",
-     "views": 142,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jncMtJ761Rs",
-     "url": "https://www.youtube.com/watch?v=jncMtJ761Rs",
-     "title": "WARNING: Unvetted AI Agents Are Accessing US Bank Accounts",
-     "channel": "Wetter in Österreich",
-     "views": 47,
-     "age_hours": 17,
-     "relevance": 0.75,
-     "velocity": 3
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-23T12:24:24.886Z"
-  },
-  {
    "first_seen": "2026-10-24T07:40:34.510Z",
    "id": "39371392",
    "ids": [
@@ -267,6 +166,110 @@
    "searched_at": "2026-10-24T13:50:16.353Z"
   },
   {
+   "first_seen": "2026-10-26T13:51:30.960Z",
+   "id": "39415040",
+   "ids": [
+    "39415040",
+    "39412643"
+   ],
+   "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+   "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-26 11:23:48",
+   "story_sources": 2,
+   "score_norm": 94,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
+    }
+   ],
+   "queries": [
+    "Elvis Presley's",
+    "elvis presley anthropic estate"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KeigEN5fBE4",
+     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
+     "title": "ELVIS PRESLEY — FOREVER THE KING",
+     "channel": "",
+     "views": 7400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:d8JinAVQDQw",
+     "url": "https://www.youtube.com/watch?v=d8JinAVQDQw",
+     "title": "Elvis Presley Estate vs  AI Company Anthropic...",
+     "channel": "wild1studios",
+     "views": 79,
+     "age_hours": 15,
+     "relevance": 0.57,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8Rlqoe_RufA",
+     "url": "https://www.youtube.com/watch?v=8Rlqoe_RufA",
+     "title": "Elvis Presley's estate sues Anthropic for $41M",
+     "channel": "The Contextian",
+     "views": 2,
+     "age_hours": 0.7,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4Ye_QX3P_OQ",
+     "url": "https://www.youtube.com/watch?v=4Ye_QX3P_OQ",
+     "title": "Elvis Presley's estate sued Anthropic over 274 songs. Could it cost $41 million?",
+     "channel": "instinctHub LMS | Train Employees, Sell Courses",
+     "views": 22,
+     "age_hours": 19,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:a2ZY7q1DP_A",
+     "url": "https://www.youtube.com/watch?v=a2ZY7q1DP_A",
+     "title": "🚨 Today's biggest AI news: Elvis Estate Sues Anthropic for Copyright Infringement | #shorts #ai",
+     "channel": "Learn AI",
+     "views": 21,
+     "age_hours": 24,
+     "relevance": 0.71,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3YDP5bGsSzs",
+     "url": "https://www.youtube.com/watch?v=3YDP5bGsSzs",
+     "title": "Elvis Presley's Estate Just Sued Anthropic — 274 Songs Used to Train AI",
+     "channel": "Exit9media",
+     "views": 30,
+     "age_hours": 24,
+     "relevance": 0.57,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T13:51:38.783Z"
+  },
+  {
    "first_seen": "2026-10-26T07:15:16.481Z",
    "id": "39411099",
    "ids": [
@@ -295,7 +298,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-26T07:15:23.945Z"
+   "searched_at": "2026-10-26T13:51:45.464Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -672,6 +675,49 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
+   "first_seen": "2026-10-26T10:54:08.835Z",
+   "id": "39413469",
+   "ids": [
+    "39413469",
+    "39405147"
+   ],
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-26 02:16:40",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+     "url": "https://minimaxir.com/2026/10/cheap-llms/"
+    }
+   ],
+   "queries": [
+    "openai anthropic llm 80"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JlVVdB4GsSo",
+     "url": "https://www.youtube.com/watch?v=JlVVdB4GsSo",
+     "title": "How OpenAI & Anthropic Cut LLM Prices Up to 80%",
+     "channel": "Dev4Code",
+     "views": 0,
+     "age_hours": 6,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T10:54:12.898Z"
+  },
+  {
    "first_seen": "2026-10-26T10:02:10.420Z",
    "id": "39412821",
    "ids": [
@@ -773,49 +819,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T10:02:14.451Z"
-  },
-  {
-   "first_seen": "2026-10-26T10:54:08.835Z",
-   "id": "39413469",
-   "ids": [
-    "39413469",
-    "39405147"
-   ],
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-26 02:16:40",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-     "url": "https://minimaxir.com/2026/10/cheap-llms/"
-    }
-   ],
-   "queries": [
-    "openai anthropic llm 80"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JlVVdB4GsSo",
-     "url": "https://www.youtube.com/watch?v=JlVVdB4GsSo",
-     "title": "How OpenAI & Anthropic Cut LLM Prices Up to 80%",
-     "channel": "Dev4Code",
-     "views": 0,
-     "age_hours": 6,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T10:54:12.898Z"
   },
   {
    "first_seen": "2026-10-25T23:14:07.761Z",
