@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:41:12.710Z",
+ "generated_at": "2026-10-26T18:27:30.783Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic ipo ai giant",
+   "source": "youtube: Launches GPT 6.1 TERRA",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic ipo ai giant",
+   "source": "tiktok: Launches GPT 6.1 TERRA",
+   "ok": true
+  },
+  {
+   "source": "youtube: launches gpt 6.1 terra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: launches gpt 6.1 terra",
+   "ok": true
+  },
+  {
+   "source": "youtube: spacex 40b raised debt",
+   "ok": true
+  },
+  {
+   "source": "tiktok: spacex 40b raised debt",
    "ok": true
   }
  ],
@@ -72,6 +88,68 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T17:15:47.688Z"
+  },
+  {
+   "first_seen": "2026-10-26T18:27:30.783Z",
+   "id": "39422180",
+   "ids": [
+    "39422180",
+    "39421829",
+    "39421726"
+   ],
+   "title": "openAI Launches GPT 6.1 TERRA",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-26 18:09:42",
+   "story_sources": 2,
+   "score_norm": 85,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-6.1 Terra",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+    },
+    {
+     "source_id": "hn",
+     "title": "GPT 6.1 Terra",
+     "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra"
+    }
+   ],
+   "queries": [
+    "Launches GPT 6.1 TERRA",
+    "launches gpt 6.1 terra"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FV2OGJMq-m8",
+     "url": "https://www.youtube.com/watch?v=FV2OGJMq-m8",
+     "title": "Kimi K3.1 Beats Opus 5.5?, Gpt 6.1 Terra soon, Gemini 4 carbon?",
+     "channel": "OutofTokens",
+     "views": 370,
+     "age_hours": 48,
+     "relevance": 0.6,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pyQrA0etpSE",
+     "url": "https://www.youtube.com/shorts/pyQrA0etpSE",
+     "title": "OpenAI Launches GPT-6.1 Terra for Workflow Automation",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T18:27:38.716Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -1009,6 +1087,97 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T10:02:14.451Z"
+  },
+  {
+   "first_seen": "2026-10-26T18:27:30.783Z",
+   "id": "39420549",
+   "ids": [
+    "39420549",
+    "39421830"
+   ],
+   "title": "SpaceX raised $40B of debt financing to purchase chips for AI",
+   "url": "https://en.ain.ua/2026/10/26/spacex-raised-40b-of-debt-financing-to-purchase-chips-for-ai/",
+   "source_id": "cee-ain",
+   "published_ts": "2026-10-26 12:50:00",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "SpaceX closes $40B debt deal for AI chips",
+     "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+    }
+   ],
+   "queries": [
+    "spacex 40b raised debt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CzSgrXwj5y8",
+     "url": "https://www.youtube.com/watch?v=CzSgrXwj5y8",
+     "title": "AI Daily: Musk: SpaceX Closed $40B GPU Debt, Sees a Neocloud #Shorts",
+     "channel": "The Business Engineer",
+     "views": 33,
+     "age_hours": 21,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:i1TEuZKWfGY",
+     "url": "https://www.youtube.com/watch?v=i1TEuZKWfGY",
+     "title": "SpaceX Secures $40B Debt Financing for NVIDIA AI Chips",
+     "channel": "Quantum Synergy",
+     "views": 14,
+     "age_hours": 19,
+     "relevance": 0.75,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wlYRlEeCN60",
+     "url": "https://www.youtube.com/watch?v=wlYRlEeCN60",
+     "title": "SpaceX Just Raised $40 Billion for AI Chips. Here’s the Real Warning",
+     "channel": "Generational Wealth Investments",
+     "views": 9,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:EHO61EoOflU",
+     "url": "https://www.youtube.com/watch?v=EHO61EoOflU",
+     "title": "Top 5 AI News Today (26 Oct 2026): Elvis Estate Sues Anthropic, SpaceX $40B GPU Debt",
+     "channel": "Signal Drop",
+     "views": 19,
+     "age_hours": 18,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Zf5Dlab4ja4",
+     "url": "https://www.youtube.com/watch?v=Zf5Dlab4ja4",
+     "title": "SpaceX Borrows $40B For GPUs",
+     "channel": "The System Prompt",
+     "views": 4,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T18:27:42.257Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
