@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T13:51:30.960Z",
+ "generated_at": "2026-10-26T15:05:05.711Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,105 +9,78 @@
  },
  "search_report": [
   {
-   "source": "youtube: Elvis Presley's",
+   "source": "youtube: IPO With 16.3 Billion",
    "ok": true
   },
   {
-   "source": "tiktok: Elvis Presley's",
+   "source": "tiktok: IPO With 16.3 Billion",
    "ok": true
   },
   {
-   "source": "youtube: elvis presley anthropic estate",
+   "source": "youtube: anthropic files ipo 16.3",
    "ok": true
   },
   {
-   "source": "tiktok: elvis presley anthropic estate",
-   "ok": true
-  },
-  {
-   "source": "youtube: BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-   "ok": true
-  },
-  {
-   "source": "tiktok: BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-   "ok": true
-  },
-  {
-   "source": "youtube: boss zhipin nanbeige team",
-   "ok": true
-  },
-  {
-   "source": "tiktok: boss zhipin nanbeige team",
+   "source": "tiktok: anthropic files ipo 16.3",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-26T10:31:55.367Z",
-   "id": "39410456",
+   "first_seen": "2026-10-26T15:05:05.711Z",
+   "id": "39416621",
    "ids": [
-    "39410456",
-    "39413157"
+    "39416621",
+    "39417446"
    ],
-   "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-   "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source_id": "crypto-cointelegraph",
-   "published_ts": "2026-10-26 05:13:33",
+   "title": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-10-26 13:20:08",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "AI cloud computing firms face 'guppy-level death', Elon Musk warns",
-     "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
+     "source_id": "eu-tnw",
+     "title": "Anthropic files for Nasdaq IPO as half-year revenue hits $16.3bn",
+     "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1"
     }
    ],
    "queries": [
-    "musk 200 warns ai"
+    "IPO With 16.3 Billion",
+    "anthropic files ipo 16.3"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6R41Wq8I1tg",
-     "url": "https://www.youtube.com/watch?v=6R41Wq8I1tg",
-     "title": "Elon Musk Warns 200+ AI Neoclouds to See “Guppy Level Death” as Debt Markets Have Shut Off the Money",
-     "channel": "Ox Talks",
-     "views": 27032,
-     "age_hours": 11,
+     "kind": "shorts",
+     "id": "youtube:MASlYoBBDrg",
+     "url": "https://www.youtube.com/shorts/MASlYoBBDrg",
+     "title": "Anthropic publicly files for IPO",
+     "channel": "",
+     "views": 633,
+     "age_hours": null,
      "relevance": 0.75,
-     "velocity": 2457
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QOOM3pnwJFU",
-     "url": "https://www.youtube.com/watch?v=QOOM3pnwJFU",
-     "title": "Musk Splurges $40 Billion on Nvidia Chips, Warns 200 AI Cloud Firms Face Collapse | #MirrorMedia",
-     "channel": "鏡新聞",
-     "views": 857,
-     "age_hours": 1,
-     "relevance": 0.63,
-     "velocity": 857
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:QDAZNx5a0n0",
-     "url": "https://www.youtube.com/shorts/QDAZNx5a0n0",
-     "title": "AI News: Musk Says 200+ AI Clouds Will Die",
+     "id": "youtube:f4DV_yD_U7E",
+     "url": "https://www.youtube.com/shorts/f4DV_yD_U7E",
+     "title": "Anthropic IPO: Net revenue retention at 900% as H1 loss swells to $80.7 billion",
      "channel": "",
-     "views": 1,
+     "views": 7,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T10:31:59.446Z"
+   "searched_at": "2026-10-26T15:05:13.346Z"
   },
   {
    "first_seen": "2026-10-24T07:40:34.510Z",
@@ -166,141 +139,6 @@
    "searched_at": "2026-10-24T13:50:16.353Z"
   },
   {
-   "first_seen": "2026-10-26T13:51:30.960Z",
-   "id": "39415040",
-   "ids": [
-    "39415040",
-    "39412643"
-   ],
-   "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
-   "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
-   "source_id": "engadget",
-   "published_ts": "2026-10-26 11:23:48",
-   "story_sources": 2,
-   "score_norm": 94,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
-     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
-    }
-   ],
-   "queries": [
-    "Elvis Presley's",
-    "elvis presley anthropic estate"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KeigEN5fBE4",
-     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
-     "title": "ELVIS PRESLEY — FOREVER THE KING",
-     "channel": "",
-     "views": 7400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:d8JinAVQDQw",
-     "url": "https://www.youtube.com/watch?v=d8JinAVQDQw",
-     "title": "Elvis Presley Estate vs  AI Company Anthropic...",
-     "channel": "wild1studios",
-     "views": 79,
-     "age_hours": 15,
-     "relevance": 0.57,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8Rlqoe_RufA",
-     "url": "https://www.youtube.com/watch?v=8Rlqoe_RufA",
-     "title": "Elvis Presley's estate sues Anthropic for $41M",
-     "channel": "The Contextian",
-     "views": 2,
-     "age_hours": 0.7,
-     "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4Ye_QX3P_OQ",
-     "url": "https://www.youtube.com/watch?v=4Ye_QX3P_OQ",
-     "title": "Elvis Presley's estate sued Anthropic over 274 songs. Could it cost $41 million?",
-     "channel": "instinctHub LMS | Train Employees, Sell Courses",
-     "views": 22,
-     "age_hours": 19,
-     "relevance": 0.57,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:a2ZY7q1DP_A",
-     "url": "https://www.youtube.com/watch?v=a2ZY7q1DP_A",
-     "title": "🚨 Today's biggest AI news: Elvis Estate Sues Anthropic for Copyright Infringement | #shorts #ai",
-     "channel": "Learn AI",
-     "views": 21,
-     "age_hours": 24,
-     "relevance": 0.71,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3YDP5bGsSzs",
-     "url": "https://www.youtube.com/watch?v=3YDP5bGsSzs",
-     "title": "Elvis Presley's Estate Just Sued Anthropic — 274 Songs Used to Train AI",
-     "channel": "Exit9media",
-     "views": 30,
-     "age_hours": 24,
-     "relevance": 0.57,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T13:51:38.783Z"
-  },
-  {
-   "first_seen": "2026-10-26T07:15:16.481Z",
-   "id": "39411099",
-   "ids": [
-    "39411099",
-    "39406629"
-   ],
-   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
-   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
-   "source_id": "cn-pandaily",
-   "published_ts": "2026-10-26 06:51:59",
-   "story_sources": 2,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "in-marktechpost",
-     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
-    }
-   ],
-   "queries": [
-    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-    "boss zhipin nanbeige team"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T13:51:45.464Z"
-  },
-  {
    "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409961",
    "ids": [
@@ -329,6 +167,73 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T11:45:45.415Z"
+  },
+  {
+   "first_seen": "2026-10-26T10:31:55.367Z",
+   "id": "39410456",
+   "ids": [
+    "39410456",
+    "39413157"
+   ],
+   "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
+   "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "source_id": "crypto-cointelegraph",
+   "published_ts": "2026-10-26 05:13:33",
+   "story_sources": 2,
+   "score_norm": 82,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI cloud computing firms face 'guppy-level death', Elon Musk warns",
+     "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
+    }
+   ],
+   "queries": [
+    "musk 200 warns ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6R41Wq8I1tg",
+     "url": "https://www.youtube.com/watch?v=6R41Wq8I1tg",
+     "title": "Elon Musk Warns 200+ AI Neoclouds to See “Guppy Level Death” as Debt Markets Have Shut Off the Money",
+     "channel": "Ox Talks",
+     "views": 27032,
+     "age_hours": 11,
+     "relevance": 0.75,
+     "velocity": 2457
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QOOM3pnwJFU",
+     "url": "https://www.youtube.com/watch?v=QOOM3pnwJFU",
+     "title": "Musk Splurges $40 Billion on Nvidia Chips, Warns 200 AI Cloud Firms Face Collapse | #MirrorMedia",
+     "channel": "鏡新聞",
+     "views": 857,
+     "age_hours": 1,
+     "relevance": 0.63,
+     "velocity": 857
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QDAZNx5a0n0",
+     "url": "https://www.youtube.com/shorts/QDAZNx5a0n0",
+     "title": "AI News: Musk Says 200+ AI Clouds Will Die",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-26T10:31:59.446Z"
   },
   {
    "first_seen": "2026-10-24T23:25:28.636Z",
@@ -491,84 +396,108 @@
    "searched_at": "2026-10-24T14:14:27.671Z"
   },
   {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409964",
+   "first_seen": "2026-10-26T13:51:30.960Z",
+   "id": "39415040",
    "ids": [
-    "39409964",
-    "39409862"
+    "39415040",
+    "39412643"
    ],
-   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 03:13:29",
+   "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+   "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-26 11:23:48",
    "story_sources": 2,
    "score_norm": 77,
    "related_news": [
     {
-     "source_id": "in-businessline",
-     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
-     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
+     "source_id": "hn",
+     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
     }
    ],
    "queries": [
-    "Anthropic's Claude",
-    "anthropic claude georgia axios"
+    "Elvis Presley's",
+    "elvis presley anthropic estate"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lZAWmvVbtok",
-     "url": "https://www.youtube.com/watch?v=lZAWmvVbtok",
-     "title": "Reuters: Anthropic Says Claude Bypassed a Georgia PAYWALL",
-     "channel": "Alignment Addict",
-     "views": 17,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 4
+     "kind": "shorts",
+     "id": "youtube:KeigEN5fBE4",
+     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
+     "title": "ELVIS PRESLEY — FOREVER THE KING",
+     "channel": "",
+     "views": 7400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:S6DHCamDzIc",
-     "url": "https://www.youtube.com/watch?v=S6DHCamDzIc",
-     "title": "Anthropic Says Claude Skipped a Fee to Get Georgia Vote Counts",
-     "channel": "Unified Memory",
-     "views": 11,
-     "age_hours": 9,
-     "relevance": 0.5,
+     "id": "youtube:d8JinAVQDQw",
+     "url": "https://www.youtube.com/watch?v=d8JinAVQDQw",
+     "title": "Elvis Presley Estate vs  AI Company Anthropic...",
+     "channel": "wild1studios",
+     "views": 79,
+     "age_hours": 15,
+     "relevance": 0.57,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8Rlqoe_RufA",
+     "url": "https://www.youtube.com/watch?v=8Rlqoe_RufA",
+     "title": "Elvis Presley's estate sues Anthropic for $41M",
+     "channel": "The Contextian",
+     "views": 2,
+     "age_hours": 0.7,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4Ye_QX3P_OQ",
+     "url": "https://www.youtube.com/watch?v=4Ye_QX3P_OQ",
+     "title": "Elvis Presley's estate sued Anthropic over 274 songs. Could it cost $41 million?",
+     "channel": "instinctHub LMS | Train Employees, Sell Courses",
+     "views": 22,
+     "age_hours": 19,
+     "relevance": 0.57,
      "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:XHmVz1ekuWI",
-     "url": "https://www.youtube.com/watch?v=XHmVz1ekuWI",
-     "title": "Claude Bypassed Georgia Vote Paywall",
-     "channel": "The System Prompt",
-     "views": 3,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 0
+     "id": "youtube:a2ZY7q1DP_A",
+     "url": "https://www.youtube.com/watch?v=a2ZY7q1DP_A",
+     "title": "🚨 Today's biggest AI news: Elvis Estate Sues Anthropic for Copyright Infringement | #shorts #ai",
+     "channel": "Learn AI",
+     "views": 21,
+     "age_hours": 24,
+     "relevance": 0.71,
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:5FQeuKSzWmQ",
-     "url": "https://www.youtube.com/watch?v=5FQeuKSzWmQ",
-     "title": "Claude Slipped Past a Paywall for Georgia Vote Data #Shorts",
-     "channel": "The AI Rollout",
-     "views": 0,
-     "age_hours": 0.75,
-     "relevance": 0.5,
-     "velocity": null
+     "id": "youtube:3YDP5bGsSzs",
+     "url": "https://www.youtube.com/watch?v=3YDP5bGsSzs",
+     "title": "Elvis Presley's Estate Just Sued Anthropic — 274 Songs Used to Train AI",
+     "channel": "Exit9media",
+     "views": 30,
+     "age_hours": 24,
+     "relevance": 0.57,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T11:45:52.437Z"
+   "searched_at": "2026-10-26T13:51:38.783Z"
   },
   {
    "first_seen": "2026-10-24T16:16:00.002Z",
@@ -675,6 +604,173 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
+   "first_seen": "2026-10-26T07:15:16.481Z",
+   "id": "39411099",
+   "ids": [
+    "39411099",
+    "39406629"
+   ],
+   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
+   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-10-26 06:51:59",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "in-marktechpost",
+     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
+    }
+   ],
+   "queries": [
+    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
+    "boss zhipin nanbeige team"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T13:51:45.464Z"
+  },
+  {
+   "first_seen": "2026-10-25T23:14:07.761Z",
+   "id": "39406357",
+   "ids": [
+    "39406357",
+    "39399256"
+   ],
+   "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-25 19:02:22",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+     "url": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users"
+    }
+   ],
+   "queries": [
+    "ChatGPT Is Building Detailed Psychological Profiles",
+    "chatgpt building detailed psychological"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Y9GRvKUeEMg",
+     "url": "https://www.youtube.com/watch?v=Y9GRvKUeEMg",
+     "title": "ChatGPT Is Building a Psychological Profile of You",
+     "channel": "Dylan Bradley",
+     "views": 320,
+     "age_hours": 48,
+     "relevance": 0.75,
+     "velocity": 7
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kiZLJ2PgmgY",
+     "url": "https://www.youtube.com/shorts/kiZLJ2PgmgY",
+     "title": "ChatGPT is building a psychological profile on you, tracking insecurities, personality traits, and e",
+     "channel": "",
+     "views": 56,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T11:45:59.605Z"
+  },
+  {
+   "first_seen": "2026-10-26T05:19:28.291Z",
+   "id": "39409964",
+   "ids": [
+    "39409964",
+    "39409862"
+   ],
+   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-26 03:13:29",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
+    }
+   ],
+   "queries": [
+    "Anthropic's Claude",
+    "anthropic claude georgia axios"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lZAWmvVbtok",
+     "url": "https://www.youtube.com/watch?v=lZAWmvVbtok",
+     "title": "Reuters: Anthropic Says Claude Bypassed a Georgia PAYWALL",
+     "channel": "Alignment Addict",
+     "views": 17,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:S6DHCamDzIc",
+     "url": "https://www.youtube.com/watch?v=S6DHCamDzIc",
+     "title": "Anthropic Says Claude Skipped a Fee to Get Georgia Vote Counts",
+     "channel": "Unified Memory",
+     "views": 11,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XHmVz1ekuWI",
+     "url": "https://www.youtube.com/watch?v=XHmVz1ekuWI",
+     "title": "Claude Bypassed Georgia Vote Paywall",
+     "channel": "The System Prompt",
+     "views": 3,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5FQeuKSzWmQ",
+     "url": "https://www.youtube.com/watch?v=5FQeuKSzWmQ",
+     "title": "Claude Slipped Past a Paywall for Georgia Vote Data #Shorts",
+     "channel": "The AI Rollout",
+     "views": 0,
+     "age_hours": 0.75,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T11:45:52.437Z"
+  },
+  {
    "first_seen": "2026-10-26T10:54:08.835Z",
    "id": "39413469",
    "ids": [
@@ -686,7 +782,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-10-26 02:16:40",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "hn",
@@ -729,7 +825,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-10-26 07:23:38",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "hn",
@@ -819,62 +915,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T10:02:14.451Z"
-  },
-  {
-   "first_seen": "2026-10-25T23:14:07.761Z",
-   "id": "39406357",
-   "ids": [
-    "39406357",
-    "39399256"
-   ],
-   "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-25 19:02:22",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
-     "url": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users"
-    }
-   ],
-   "queries": [
-    "ChatGPT Is Building Detailed Psychological Profiles",
-    "chatgpt building detailed psychological"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Y9GRvKUeEMg",
-     "url": "https://www.youtube.com/watch?v=Y9GRvKUeEMg",
-     "title": "ChatGPT Is Building a Psychological Profile of You",
-     "channel": "Dylan Bradley",
-     "views": 320,
-     "age_hours": 48,
-     "relevance": 0.75,
-     "velocity": 7
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kiZLJ2PgmgY",
-     "url": "https://www.youtube.com/shorts/kiZLJ2PgmgY",
-     "title": "ChatGPT is building a psychological profile on you, tracking insecurities, personality traits, and e",
-     "channel": "",
-     "views": 56,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T11:45:59.605Z"
   }
  ]
 }
