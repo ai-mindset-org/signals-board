@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:46:59.677Z",
+ "generated_at": "2026-10-27T15:18:39.648Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: M6 MacBook Pro",
+   "source": "youtube: OpenAI Launches GPT-6.1 Terra",
    "ok": true
   },
   {
-   "source": "tiktok: M6 MacBook Pro",
+   "source": "tiktok: OpenAI Launches GPT-6.1 Terra",
    "ok": true
   },
   {
-   "source": "youtube: apple m6 macbook pro",
+   "source": "youtube: openai launches gpt-6.1 terra",
    "ok": true
   },
   {
-   "source": "tiktok: apple m6 macbook pro",
+   "source": "tiktok: openai launches gpt-6.1 terra",
+   "ok": true
+  },
+  {
+   "source": "youtube: microsoft 60 000 offers",
+   "ok": true
+  },
+  {
+   "source": "tiktok: microsoft 60 000 offers",
    "ok": true
   }
  ],
@@ -254,6 +262,36 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
+   "first_seen": "2026-10-26T05:19:28.291Z",
+   "id": "39409961",
+   "ids": [
+    "39409961",
+    "39399467"
+   ],
+   "title": "To make AI morally good, tech companies are turning to religion, in spite of doubts",
+   "url": "https://www.thehindu.com/sci-tech/technology/to-make-ai-morally-good-tech-companies-are-turning-to-religion-in-spite-of-doubts/article71625515.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-26 04:30:49",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "To make AI morally good, tech companies are turning to religion",
+     "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec"
+    }
+   ],
+   "queries": [
+    "make ai morally good"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T11:45:45.415Z"
+  },
+  {
    "first_seen": "2026-10-27T14:46:59.677Z",
    "id": "39441053",
    "ids": [
@@ -265,7 +303,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-10-27 14:16:20",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "hn",
@@ -356,36 +394,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T14:47:08.080Z"
-  },
-  {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409961",
-   "ids": [
-    "39409961",
-    "39399467"
-   ],
-   "title": "To make AI morally good, tech companies are turning to religion, in spite of doubts",
-   "url": "https://www.thehindu.com/sci-tech/technology/to-make-ai-morally-good-tech-companies-are-turning-to-religion-in-spite-of-doubts/article71625515.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 04:30:49",
-   "story_sources": 2,
-   "score_norm": 83,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "To make AI morally good, tech companies are turning to religion",
-     "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec"
-    }
-   ],
-   "queries": [
-    "make ai morally good"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T11:45:45.415Z"
   },
   {
    "first_seen": "2026-10-24T23:25:28.636Z",
@@ -1184,6 +1192,110 @@
   },
   {
    "first_seen": "2026-10-27T02:38:37.666Z",
+   "id": "39426050",
+   "ids": [
+    "39426050",
+    "39430204"
+   ],
+   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-26 21:46:02",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
+     "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/"
+    }
+   ],
+   "queries": [
+    "OpenAI Launches GPT-6.1 Terra",
+    "openai launches gpt-6.1 terra"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:B8cxOLB2OdQ",
+     "url": "https://www.youtube.com/watch?v=B8cxOLB2OdQ",
+     "title": "GPT-6.1 Terra just Changed AI Agents FOREVER!",
+     "channel": "Julian Goldie SEO",
+     "views": 3810,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 423
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VGx3cvNtyTc",
+     "url": "https://www.youtube.com/watch?v=VGx3cvNtyTc",
+     "title": "GPT-6.1 Terra Is Here: I Tested OpenAI’s New AI Model",
+     "channel": "Neel's World",
+     "views": 424,
+     "age_hours": 18,
+     "relevance": 0.71,
+     "velocity": 24
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:L1QBXuF_HtM",
+     "url": "https://www.youtube.com/watch?v=L1QBXuF_HtM",
+     "title": "OpenAI's GPT-6.1 Terra uses your computer for less",
+     "channel": "Coding with Sela",
+     "views": 410,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 24
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:o95RilWisFM",
+     "url": "https://www.youtube.com/watch?v=o95RilWisFM",
+     "title": "GPT-6.1 Terra: the cheapest model OpenAI ships",
+     "channel": "Nexus The AI Singularity",
+     "views": 193,
+     "age_hours": 18,
+     "relevance": 0.67,
+     "velocity": 11
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yLYW1hxQmfM",
+     "url": "https://www.youtube.com/shorts/yLYW1hxQmfM",
+     "title": "GPT-6.1 Terra: OpenAI's cheaper computer-use AI. What's the catch? #Shorts",
+     "channel": "",
+     "views": 280,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:X0wbwdXFXRo",
+     "url": "https://www.youtube.com/watch?v=X0wbwdXFXRo",
+     "title": "GPT-6.1 Terra: What the Lower Price Actually Gets You",
+     "channel": "AI Mode + Automation",
+     "views": 76,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T15:18:47.746Z"
+  },
+  {
+   "first_seen": "2026-10-27T02:38:37.666Z",
    "id": "39430201",
    "ids": [
     "39430201",
@@ -1209,14 +1321,38 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:AZHnzFOFCe0",
+     "url": "https://www.youtube.com/watch?v=AZHnzFOFCe0",
+     "title": "'Take The Money & Go': Microsoft's Soft Layoff? Buyouts Offered to 60,000 Employees| Firstpost Live",
+     "channel": "Firstpost",
+     "views": 697913,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 77546
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:pljVEhNxFO4",
      "url": "https://www.youtube.com/watch?v=pljVEhNxFO4",
      "title": "Microsoft Targets 60,000 Jobs For Termination",
      "channel": "Mark Savant",
-     "views": 95816,
-     "age_hours": 11,
+     "views": 110402,
+     "age_hours": 17,
      "relevance": 0.5,
-     "velocity": 8711
+     "velocity": 6494
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:j-UeAHKxZ8k",
+     "url": "https://www.youtube.com/watch?v=j-UeAHKxZ8k",
+     "title": "Microsoft offers buyouts to 60,000 employees as spending on AI grows",
+     "channel": "ABC News",
+     "views": 27830,
+     "age_hours": 5,
+     "relevance": 0.78,
+     "velocity": 5566
     },
     {
      "platform": "youtube",
@@ -1225,22 +1361,10 @@
      "url": "https://www.youtube.com/watch?v=0jU4nLhCeWY",
      "title": "Microsoft Offers Buyouts to 60,000 Employees",
      "channel": "Bloomberg Tech",
-     "views": 95193,
-     "age_hours": 16,
+     "views": 104522,
+     "age_hours": 23,
      "relevance": 1,
-     "velocity": 5950
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_IcJVVs4NtY",
-     "url": "https://www.youtube.com/watch?v=_IcJVVs4NtY",
-     "title": "Microsoft's AI Investment Sparks Voluntary Buyouts for 60,000 Employees | Tech Layoff | News18",
-     "channel": "CNN-News18",
-     "views": 28262,
-     "age_hours": 5,
-     "relevance": 0.7,
-     "velocity": 5652
+     "velocity": 4544
     },
     {
      "platform": "youtube",
@@ -1249,145 +1373,29 @@
      "url": "https://www.youtube.com/watch?v=IJrxpS0Vpxg",
      "title": "Microsoft Offers Buyouts To 25% Of Company",
      "channel": "Forbes Breaking News",
-     "views": 41437,
-     "age_hours": 13,
+     "views": 44874,
+     "age_hours": 19,
      "relevance": 0.6,
-     "velocity": 3187
+     "velocity": 2362
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:_znbXJaWkD4",
-     "url": "https://www.youtube.com/watch?v=_znbXJaWkD4",
-     "title": "60,000 Microsoft workers offered 'voluntary exit' deals",
-     "channel": "KIRO 7 News",
-     "views": 25474,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 3184
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tcLqlcjwsN4",
-     "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
-     "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-     "channel": "CNBC Television",
-     "views": 31720,
-     "age_hours": 14,
-     "relevance": 0.8,
-     "velocity": 2266
+     "id": "youtube:eTWiWVmdzTc",
+     "url": "https://www.youtube.com/watch?v=eTWiWVmdzTc",
+     "title": "Microsoft offers quarter of global workforce voluntary buyouts",
+     "channel": "ABC News",
+     "views": 25534,
+     "age_hours": 15,
+     "relevance": 0.57,
+     "velocity": 1702
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T08:51:15.836Z"
-  },
-  {
-   "first_seen": "2026-10-27T02:38:37.666Z",
-   "id": "39426050",
-   "ids": [
-    "39426050",
-    "39430204"
-   ],
-   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
-   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-26 21:46:02",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
-     "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/"
-    }
-   ],
-   "queries": [
-    "OpenAI Launches GPT-6.1 Terra",
-    "openai launches gpt-6.1 terra"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B8cxOLB2OdQ",
-     "url": "https://www.youtube.com/watch?v=B8cxOLB2OdQ",
-     "title": "GPT-6.1 Terra Is HERE!",
-     "channel": "Julian Goldie SEO",
-     "views": 1337,
-     "age_hours": 3,
-     "relevance": 0.67,
-     "velocity": 446
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VGx3cvNtyTc",
-     "url": "https://www.youtube.com/watch?v=VGx3cvNtyTc",
-     "title": "GPT-6.1 Terra Is Here: I Tested OpenAI’s New AI Model",
-     "channel": "Neel's World",
-     "views": 360,
-     "age_hours": 12,
-     "relevance": 0.71,
-     "velocity": 30
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:-gPrSjUttt4",
-     "url": "https://www.youtube.com/watch?v=-gPrSjUttt4",
-     "title": "OpenAI Skipped This Model. Now It Rivals Astra | GPT-6.1 Terra",
-     "channel": "Beyond The Model",
-     "views": 314,
-     "age_hours": 11,
-     "relevance": 0.57,
-     "velocity": 29
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:L1QBXuF_HtM",
-     "url": "https://www.youtube.com/watch?v=L1QBXuF_HtM",
-     "title": "OpenAI's GPT-6.1 Terra uses your computer for less",
-     "channel": "Coding with Sela",
-     "views": 170,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 17
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:o95RilWisFM",
-     "url": "https://www.youtube.com/watch?v=o95RilWisFM",
-     "title": "GPT-6.1 Terra: the cheapest model OpenAI ships",
-     "channel": "Nexus The AI Singularity",
-     "views": 164,
-     "age_hours": 11,
-     "relevance": 0.67,
-     "velocity": 15
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:X0wbwdXFXRo",
-     "url": "https://www.youtube.com/watch?v=X0wbwdXFXRo",
-     "title": "GPT-6.1 Terra: What the Lower Price Actually Gets You",
-     "channel": "AI Mode + Automation",
-     "views": 63,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 9
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T08:51:23.023Z"
+   "searched_at": "2026-10-27T15:18:56.370Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
