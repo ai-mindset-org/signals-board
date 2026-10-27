@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T22:49:53.709Z",
+ "generated_at": "2026-10-27T23:10:46.714Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: bitcoin luxor 16 mining",
+   "ok": true
+  },
+  {
+   "source": "tiktok: bitcoin luxor 16 mining",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-27T19:21:07.287Z",
@@ -373,7 +382,7 @@
      "url": "https://www.youtube.com/shorts/lfFG3BU8Luc",
      "title": "Your Heater Could Be Mining Bitcoin",
      "channel": "",
-     "views": 189,
+     "views": 243,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -383,7 +392,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-27T16:50:01.426Z"
+   "searched_at": "2026-10-27T23:10:50.906Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
