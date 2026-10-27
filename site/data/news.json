@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T10:17:39.956Z",
+ "generated_at": "2026-10-27T10:43:47.690Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Meta Plans",
+   "source": "youtube: 60.000 Mitarbeitern Abfindungen",
    "ok": true
   },
   {
-   "source": "tiktok: Meta Plans",
+   "source": "tiktok: 60.000 Mitarbeitern Abfindungen",
    "ok": true
   },
   {
-   "source": "youtube: meta plans raise up",
+   "source": "youtube: ki-kosten microsoft 60.000 mitarbeitern",
    "ok": true
   },
   {
-   "source": "tiktok: meta plans raise up",
+   "source": "tiktok: ki-kosten microsoft 60.000 mitarbeitern",
    "ok": true
   }
  ],
@@ -380,6 +380,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-25T04:44:22.571Z"
+  },
+  {
+   "first_seen": "2026-10-26T17:41:12.710Z",
+   "id": "39419033",
+   "ids": [
+    "39419033",
+    "39420956",
+    "39436235"
+   ],
+   "title": "Anthropic nearing blockbuster IPO with final paperwork",
+   "url": "https://www.siliconrepublic.com/business/anthropic-nearing-blockbuster-ipo-with-final-paperwork",
+   "source_id": "eu-siliconrepublic",
+   "published_ts": "2026-10-27 08:38:47",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
+     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
+    }
+   ],
+   "queries": [
+    "anthropic ipo ai giant"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IjCJKr_KzRw",
+     "url": "https://www.youtube.com/watch?v=IjCJKr_KzRw",
+     "title": "AI startup Anthropic unveils its public IPO filing for the first time",
+     "channel": "NBC News",
+     "views": 65602,
+     "age_hours": 14,
+     "relevance": 0.5,
+     "velocity": 4686
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hIEF43hTzaw",
+     "url": "https://www.youtube.com/watch?v=hIEF43hTzaw",
+     "title": "Anthropic's IPO to test market appetite and profitability for AI giants | ABC NEWS",
+     "channel": "ABC News (Australia)",
+     "views": 5878,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 1959
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sKEliKGZLck",
+     "url": "https://www.youtube.com/watch?v=sKEliKGZLck",
+     "title": "AI giant Anthropic files paperwork to go public",
+     "channel": "LiveNOW from FOX",
+     "views": 18667,
+     "age_hours": 14,
+     "relevance": 0.67,
+     "velocity": 1333
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N44YP5F5H38",
+     "url": "https://www.youtube.com/watch?v=N44YP5F5H38",
+     "title": "Anthropic reports $16B in revenue, over $80B in net losses as AI giant moves to go public",
+     "channel": "Global News",
+     "views": 6496,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1299
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:g22k8xMrfvU",
+     "url": "https://www.youtube.com/watch?v=g22k8xMrfvU",
+     "title": "CVC Marathon's Richards on Anthropic IPO, AI Buildout",
+     "channel": "Bloomberg Television",
+     "views": 13641,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 1049
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:710meF33_78",
+     "url": "https://www.youtube.com/watch?v=710meF33_78",
+     "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
+     "channel": "PBS NewsHour",
+     "views": 6759,
+     "age_hours": 7,
+     "relevance": 0.5,
+     "velocity": 966
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-27T05:44:16.621Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
@@ -1376,109 +1480,6 @@
    "searched_at": "2026-10-26T17:15:54.826Z"
   },
   {
-   "first_seen": "2026-10-26T17:41:12.710Z",
-   "id": "39419033",
-   "ids": [
-    "39419033",
-    "39420956"
-   ],
-   "title": "AI giant Anthropic files for blockbuster IPO",
-   "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-   "source_id": "crypto-coindesk",
-   "published_ts": "2026-10-26 13:22:09",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
-    }
-   ],
-   "queries": [
-    "anthropic ipo ai giant"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IjCJKr_KzRw",
-     "url": "https://www.youtube.com/watch?v=IjCJKr_KzRw",
-     "title": "AI startup Anthropic unveils its public IPO filing for the first time",
-     "channel": "NBC News",
-     "views": 65602,
-     "age_hours": 14,
-     "relevance": 0.5,
-     "velocity": 4686
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hIEF43hTzaw",
-     "url": "https://www.youtube.com/watch?v=hIEF43hTzaw",
-     "title": "Anthropic's IPO to test market appetite and profitability for AI giants | ABC NEWS",
-     "channel": "ABC News (Australia)",
-     "views": 5878,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 1959
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sKEliKGZLck",
-     "url": "https://www.youtube.com/watch?v=sKEliKGZLck",
-     "title": "AI giant Anthropic files paperwork to go public",
-     "channel": "LiveNOW from FOX",
-     "views": 18667,
-     "age_hours": 14,
-     "relevance": 0.67,
-     "velocity": 1333
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:N44YP5F5H38",
-     "url": "https://www.youtube.com/watch?v=N44YP5F5H38",
-     "title": "Anthropic reports $16B in revenue, over $80B in net losses as AI giant moves to go public",
-     "channel": "Global News",
-     "views": 6496,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 1299
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:g22k8xMrfvU",
-     "url": "https://www.youtube.com/watch?v=g22k8xMrfvU",
-     "title": "CVC Marathon's Richards on Anthropic IPO, AI Buildout",
-     "channel": "Bloomberg Television",
-     "views": 13641,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 1049
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:710meF33_78",
-     "url": "https://www.youtube.com/watch?v=710meF33_78",
-     "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
-     "channel": "PBS NewsHour",
-     "views": 6759,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 966
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T05:44:16.621Z"
-  },
-  {
    "first_seen": "2026-10-26T07:15:16.481Z",
    "id": "39411099",
    "ids": [
@@ -1537,26 +1538,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:pNWUJ8v3wDo",
-     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
-     "channel": "CTV News",
-     "views": 24024,
-     "age_hours": 9,
-     "relevance": 0.83,
-     "velocity": 2669
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:tcLqlcjwsN4",
      "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
      "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an, da KI Effizienzschub erzwingt",
      "channel": "CNBC Television",
-     "views": 22637,
-     "age_hours": 9,
+     "views": 33483,
+     "age_hours": 16,
      "relevance": 0.63,
-     "velocity": 2515
+     "velocity": 2093
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pNWUJ8v3wDo",
+     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
+     "channel": "CTV News",
+     "views": 28353,
+     "age_hours": 15,
+     "relevance": 0.83,
+     "velocity": 1890
     },
     {
      "platform": "youtube",
@@ -1565,10 +1566,22 @@
      "url": "https://www.youtube.com/watch?v=l4_gyQ7eKy0",
      "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
      "channel": "CTV News",
-     "views": 2167,
-     "age_hours": 2,
+     "views": 5105,
+     "age_hours": 8,
      "relevance": 0.83,
-     "velocity": 1084
+     "velocity": 638
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rSCsTgK07pM",
+     "url": "https://www.youtube.com/watch?v=rSCsTgK07pM",
+     "title": "Microsoft bietet 60.000 Mitarbeitern Abfindungen an. Das ist das KI-Problem.",
+     "channel": "Harness",
+     "views": 1201,
+     "age_hours": 13,
+     "relevance": 0.63,
+     "velocity": 92
     },
     {
      "platform": "youtube",
@@ -1577,41 +1590,29 @@
      "url": "https://www.youtube.com/watch?v=LoEOUfa7RrE",
      "title": "Microsoft bietet 60.000 Mitarbeitern Abfindungen an, während Milliarden in KI fließen",
      "channel": "The Future of Work Podcast",
-     "views": 544,
-     "age_hours": 4,
+     "views": 792,
+     "age_hours": 11,
      "relevance": 0.63,
-     "velocity": 136
+     "velocity": 72
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:ASpdjXDCvno",
-     "url": "https://www.youtube.com/watch?v=ASpdjXDCvno",
-     "title": "Microsoft bietet 60.000 Mitarbeitern weltweit freiwillige Abfindungsprogramme an",
-     "channel": "AGENCIA EFE",
-     "views": 77,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 39
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Pj3a-dy5kE4",
-     "url": "https://www.youtube.com/watch?v=Pj3a-dy5kE4",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
-     "channel": "B.C. Begley",
-     "views": 5,
-     "age_hours": 2,
-     "relevance": 0.83,
-     "velocity": 3
+     "id": "youtube:nWXidV_uPMg",
+     "url": "https://www.youtube.com/watch?v=nWXidV_uPMg",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an: Tech-Gigant strukturiert Belegsc...",
+     "channel": "The Intel Desk",
+     "views": 522,
+     "age_hours": 17,
+     "relevance": 0.63,
+     "velocity": 31
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T04:19:33.371Z"
+   "searched_at": "2026-10-27T10:43:55.098Z"
   },
   {
    "first_seen": "2026-10-26T19:41:04.975Z",
