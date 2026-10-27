@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T08:27:35.055Z",
+ "generated_at": "2026-10-27T08:51:11.590Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: reddit opensource bans ai",
+   "source": "youtube: microsoft 60 000 offers",
    "ok": true
   },
   {
-   "source": "tiktok: reddit opensource bans ai",
+   "source": "tiktok: microsoft 60 000 offers",
+   "ok": true
+  },
+  {
+   "source": "youtube: OpenAI Launches GPT-6.1 Terra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: OpenAI Launches GPT-6.1 Terra",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai launches gpt-6.1 terra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai launches gpt-6.1 terra",
    "ok": true
   }
  ],
@@ -643,10 +659,10 @@
      "url": "https://www.youtube.com/watch?v=pljVEhNxFO4",
      "title": "Microsoft Targets 60,000 Jobs For Termination",
      "channel": "Mark Savant",
-     "views": 63679,
-     "age_hours": 5,
+     "views": 95816,
+     "age_hours": 11,
      "relevance": 0.5,
-     "velocity": 12736
+     "velocity": 8711
     },
     {
      "platform": "youtube",
@@ -655,22 +671,22 @@
      "url": "https://www.youtube.com/watch?v=0jU4nLhCeWY",
      "title": "Microsoft Offers Buyouts to 60,000 Employees",
      "channel": "Bloomberg Tech",
-     "views": 58680,
-     "age_hours": 10,
+     "views": 95193,
+     "age_hours": 16,
      "relevance": 1,
-     "velocity": 5868
+     "velocity": 5950
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:utC-7QW33DU",
-     "url": "https://www.youtube.com/watch?v=utC-7QW33DU",
-     "title": "Microsoft is about to CUT 60,000 More Jobs!",
-     "channel": "Tyrone Magnus",
-     "views": 20475,
-     "age_hours": 7,
-     "relevance": 0.6,
-     "velocity": 2925
+     "id": "youtube:_IcJVVs4NtY",
+     "url": "https://www.youtube.com/watch?v=_IcJVVs4NtY",
+     "title": "Microsoft's AI Investment Sparks Voluntary Buyouts for 60,000 Employees | Tech Layoff | News18",
+     "channel": "CNN-News18",
+     "views": 28262,
+     "age_hours": 5,
+     "relevance": 0.7,
+     "velocity": 5652
     },
     {
      "platform": "youtube",
@@ -679,22 +695,22 @@
      "url": "https://www.youtube.com/watch?v=IJrxpS0Vpxg",
      "title": "Microsoft Offers Buyouts To 25% Of Company",
      "channel": "Forbes Breaking News",
-     "views": 20204,
-     "age_hours": 7,
+     "views": 41437,
+     "age_hours": 13,
      "relevance": 0.6,
-     "velocity": 2886
+     "velocity": 3187
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:pNWUJ8v3wDo",
-     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
-     "title": "Microsoft offering voluntary buyouts to 60,000 employees in workforce",
-     "channel": "CTV News",
-     "views": 20172,
-     "age_hours": 7,
-     "relevance": 0.75,
-     "velocity": 2882
+     "id": "youtube:_znbXJaWkD4",
+     "url": "https://www.youtube.com/watch?v=_znbXJaWkD4",
+     "title": "60,000 Microsoft workers offered 'voluntary exit' deals",
+     "channel": "KIRO 7 News",
+     "views": 25474,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 3184
     },
     {
      "platform": "youtube",
@@ -703,17 +719,17 @@
      "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
      "channel": "CNBC Television",
-     "views": 17444,
-     "age_hours": 8,
+     "views": 31720,
+     "age_hours": 14,
      "relevance": 0.8,
-     "velocity": 2181
+     "velocity": 2266
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T02:38:42.130Z"
+   "searched_at": "2026-10-27T08:51:15.836Z"
   },
   {
    "first_seen": "2026-10-26T10:31:55.367Z",
@@ -846,26 +862,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:VGx3cvNtyTc",
-     "url": "https://www.youtube.com/watch?v=VGx3cvNtyTc",
-     "title": "GPT-6.1 Terra Is Here: I Tested OpenAI’s New AI Model",
-     "channel": "Neel's World",
-     "views": 230,
-     "age_hours": 6,
-     "relevance": 0.71,
-     "velocity": 38
+     "id": "youtube:B8cxOLB2OdQ",
+     "url": "https://www.youtube.com/watch?v=B8cxOLB2OdQ",
+     "title": "GPT-6.1 Terra Is HERE!",
+     "channel": "Julian Goldie SEO",
+     "views": 1337,
+     "age_hours": 3,
+     "relevance": 0.67,
+     "velocity": 446
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:o95RilWisFM",
-     "url": "https://www.youtube.com/watch?v=o95RilWisFM",
-     "title": "GPT-6.1 Terra: the cheapest model OpenAI ships",
-     "channel": "Nexus The AI Singularity",
-     "views": 101,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 20
+     "id": "youtube:VGx3cvNtyTc",
+     "url": "https://www.youtube.com/watch?v=VGx3cvNtyTc",
+     "title": "GPT-6.1 Terra Is Here: I Tested OpenAI’s New AI Model",
+     "channel": "Neel's World",
+     "views": 360,
+     "age_hours": 12,
+     "relevance": 0.71,
+     "velocity": 30
     },
     {
      "platform": "youtube",
@@ -874,22 +890,10 @@
      "url": "https://www.youtube.com/watch?v=-gPrSjUttt4",
      "title": "OpenAI Skipped This Model. Now It Rivals Astra | GPT-6.1 Terra",
      "channel": "Beyond The Model",
-     "views": 100,
-     "age_hours": 5,
+     "views": 314,
+     "age_hours": 11,
      "relevance": 0.57,
-     "velocity": 20
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:azRot3GBEh4",
-     "url": "https://www.youtube.com/shorts/azRot3GBEh4",
-     "title": "GPT-6.1 Terra: half the price, fewer mistakes",
-     "channel": "",
-     "views": 556,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
+     "velocity": 29
     },
     {
      "platform": "youtube",
@@ -898,10 +902,22 @@
      "url": "https://www.youtube.com/watch?v=L1QBXuF_HtM",
      "title": "OpenAI's GPT-6.1 Terra uses your computer for less",
      "channel": "Coding with Sela",
-     "views": 56,
-     "age_hours": 4,
+     "views": 170,
+     "age_hours": 10,
      "relevance": 0.5,
-     "velocity": 14
+     "velocity": 17
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:o95RilWisFM",
+     "url": "https://www.youtube.com/watch?v=o95RilWisFM",
+     "title": "GPT-6.1 Terra: the cheapest model OpenAI ships",
+     "channel": "Nexus The AI Singularity",
+     "views": 164,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 15
     },
     {
      "platform": "youtube",
@@ -910,17 +926,17 @@
      "url": "https://www.youtube.com/watch?v=X0wbwdXFXRo",
      "title": "GPT-6.1 Terra: What the Lower Price Actually Gets You",
      "channel": "AI Mode + Automation",
-     "views": 12,
-     "age_hours": 1,
+     "views": 63,
+     "age_hours": 7,
      "relevance": 0.5,
-     "velocity": 12
+     "velocity": 9
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-27T02:38:49.318Z"
+   "searched_at": "2026-10-27T08:51:23.023Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
