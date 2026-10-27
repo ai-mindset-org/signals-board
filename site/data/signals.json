@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-10-26T07:02:45.284Z",
+ "generated_at": "2026-10-27T06:50:41.139Z",
  "window_days": 7,
  "theme": "обучение AI",
  "digest": [
   "youtube:ehcBwqyUGjo",
-  "tiktok:7699728618791980318",
   "youtube:3gXLmy7DK_4",
+  "tiktok:7699728618791980318",
   "youtube:Ge1B-Ok1Pfk",
-  "tiktok:7698490726438472991"
+  "youtube:6Il7tudXo1E"
  ],
  "formats": {
   "shapes": [
    {
     "name": "вертикальный 9:16",
-    "count": 2
+    "count": 1
    }
   ],
   "of": 5
@@ -23,13 +23,13 @@
    "source": "tiktok/rileybrown.ai",
    "ok": true,
    "scanned": 13,
-   "fresh": 1
+   "fresh": 0
   },
   {
    "source": "tiktok/nate.b.jones",
    "ok": true,
    "scanned": 13,
-   "fresh": 5
+   "fresh": 6
   },
   {
    "source": "youtube/deeplearningai",
@@ -59,13 +59,13 @@
    "source": "youtube/matthew_berman",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 4
   },
   {
    "source": "youtube/NateBJones",
    "ok": true,
    "scanned": 30,
-   "fresh": 5
+   "fresh": 4
   },
   {
    "source": "youtube/futurepedia_io",
@@ -77,7 +77,7 @@
    "source": "youtube/mattvidpro",
    "ok": true,
    "scanned": 30,
-   "fresh": 1
+   "fresh": 2
   },
   {
    "source": "youtube/WesRoth",
@@ -101,8 +101,8 @@
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=ehcBwqyUGjo",
    "title": "they’re shutting it DOWN",
-   "posted_at": "2026-10-22T07:02:36.206Z",
-   "popularity": 491000,
+   "posted_at": "2026-10-22T06:50:34.002Z",
+   "popularity": 495000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -118,38 +118,14 @@
    "picked": true
   },
   {
-   "id": "tiktok:7699728618791980318",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7699728618791980318",
-   "title": "This is the worst day for cyber attacks in my entire career #ai #news #learn #learnontiktok  If you want to learn more start by looking up PHP Then ask your AI to please scan your system for vulnerabi",
-   "posted_at": "2026-10-23T05:19:30.000Z",
-   "popularity": 408100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 496900
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-bd028147e55a.jpg",
-   "first_seen": "2026-10-23T06:48:38.417Z",
-   "picked": true
-  },
-  {
    "id": "youtube:3gXLmy7DK_4",
    "platform": "youtube",
    "source": "@matthew_berman",
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
    "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
-   "posted_at": "2026-10-22T07:02:02.033Z",
-   "popularity": 389000,
+   "posted_at": "2026-10-22T06:50:00.217Z",
+   "popularity": 424000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -165,14 +141,38 @@
    "picked": true
   },
   {
+   "id": "tiktok:7699728618791980318",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7699728618791980318",
+   "title": "This is the worst day for cyber attacks in my entire career #ai #news #learn #learnontiktok  If you want to learn more start by looking up PHP Then ask your AI to please scan your system for vulnerabi",
+   "posted_at": "2026-10-23T05:19:30.000Z",
+   "popularity": 418100,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 497200
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-bd028147e55a.jpg",
+   "first_seen": "2026-10-23T06:48:38.417Z",
+   "picked": true
+  },
+  {
    "id": "youtube:Ge1B-Ok1Pfk",
    "platform": "youtube",
    "source": "@futurepedia_io",
    "person": "futurepedia_io",
    "url": "https://www.youtube.com/watch?v=Ge1B-Ok1Pfk",
    "title": "Claude Makes a New Kind of Video - Full Tutorial",
-   "posted_at": "2026-10-20T07:02:22.684Z",
-   "popularity": 276000,
+   "posted_at": "2026-10-20T06:50:18.711Z",
+   "popularity": 299000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -186,6 +186,448 @@
    "media": "data/media/youtube-c426f2d4df8d.jpg",
    "first_seen": "2026-10-20T06:47:56.415Z",
    "picked": true
+  },
+  {
+   "id": "youtube:6Il7tudXo1E",
+   "platform": "youtube",
+   "source": "@mattvidpro",
+   "person": "mattvidpro",
+   "url": "https://www.youtube.com/watch?v=6Il7tudXo1E",
+   "title": "GPT-6.1 Terra vs Claude 5.5: Same Prompt, Not Even Close",
+   "posted_at": "2026-10-26T23:50:24.487Z",
+   "popularity": 6200,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-3b12f220aaf5.jpg",
+   "first_seen": "2026-10-27T06:50:41.139Z",
+   "picked": true
+  },
+  {
+   "id": "tiktok:7701131957123419423",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7701131957123419423",
+   "title": "Tell me what yours came up with in the comments. #aihack #chatgpt #ai #music #aiprompts ",
+   "posted_at": "2026-10-27T00:05:10.000Z",
+   "popularity": 9855,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 497200
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-292526d91dcf.jpg",
+   "first_seen": "2026-10-27T06:50:41.139Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7700759789533433119",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7700759789533433119",
+   "title": "Scan yourself before hackers do. #aihack #cybersecurity #aisafety #ai #artificialintelligence ",
+   "posted_at": "2026-10-26T00:00:58.000Z",
+   "popularity": 120000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 497200
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-dc1ad526a513.jpg",
+   "first_seen": "2026-10-26T07:02:45.284Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7700089628379974942",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7700089628379974942",
+   "title": "Yes the internet needs a complete rethink. Agents don’t just find bugs — the do WEIRD stuff humans wouldn’t ever think of doing all the way down to bare metal. We need a fresh approach to security now",
+   "posted_at": "2026-10-24T04:40:24.000Z",
+   "popularity": 42800,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 497200
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-e56613bf18a4.jpg",
+   "first_seen": "2026-10-24T06:47:31.689Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7699272776267369759",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7699272776267369759",
+   "title": "Let me know how it goes. #aihack #ai #aiprompts #artificialintelligence #aitips",
+   "posted_at": "2026-10-21T23:50:36.000Z",
+   "popularity": 166800,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 497200
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-d737ceaeaab5.jpg",
+   "first_seen": "2026-10-22T06:49:09.350Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7698904256962759967",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7698904256962759967",
+   "title": "Share this with someone unprepared. #aihack #cybersecurity #aisafety #ai #artificialintelligence ",
+   "posted_at": "2026-10-21T00:00:33.000Z",
+   "popularity": 91800,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 497200
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-ae65fb5d0243.jpg",
+   "first_seen": "2026-10-21T06:48:54.757Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:CUjHZlvQufk",
+   "platform": "youtube",
+   "source": "@deeplearningai",
+   "person": "deeplearningai",
+   "url": "https://www.youtube.com/watch?v=CUjHZlvQufk",
+   "title": "Learn to build better AI Agents through better context",
+   "posted_at": "2026-10-21T06:49:31.845Z",
+   "popularity": 7800,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-11dbe2dfb929.jpg",
+   "first_seen": "2026-10-21T06:48:54.757Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:LWxX6vvHfrc",
+   "platform": "youtube",
+   "source": "@TwoMinutePapers",
+   "person": "twominutepapers",
+   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+   "title": "Gemini 4 Argon Is Not What I Expected",
+   "posted_at": "2026-10-20T06:49:37.534Z",
+   "popularity": 239000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-79d137abcc20.jpg",
+   "first_seen": "2026-10-20T06:47:56.415Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:TVRCcMlvR10",
+   "platform": "youtube",
+   "source": "@mreflow",
+   "person": "mreflow",
+   "url": "https://www.youtube.com/watch?v=TVRCcMlvR10",
+   "title": "AI News: 24 Things You Need To Know This Week",
+   "posted_at": "2026-10-24T06:49:46.815Z",
+   "popularity": 141000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-daf779ba35ec.jpg",
+   "first_seen": "2026-10-24T06:47:31.689Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:umGZrkyTRtw",
+   "platform": "youtube",
+   "source": "@mreflow",
+   "person": "mreflow",
+   "url": "https://www.youtube.com/watch?v=umGZrkyTRtw",
+   "title": "11 AI Breakthroughs You Didn’t Know Existed",
+   "posted_at": "2026-10-22T06:49:48.516Z",
+   "popularity": 147000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-0e47e338a0da.jpg",
+   "first_seen": "2026-10-22T06:49:09.350Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:JI3bbZNdyeA",
+   "platform": "youtube",
+   "source": "@matthew_berman",
+   "person": "matthew_berman",
+   "url": "https://www.youtube.com/watch?v=JI3bbZNdyeA",
+   "title": "It's happening...",
+   "posted_at": "2026-10-27T02:49:54.337Z",
+   "popularity": 31000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-b4ee2b20d1a3.jpg",
+   "first_seen": "2026-10-27T06:50:41.139Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:5sEVvu4mQ8g",
+   "platform": "youtube",
+   "source": "@matthew_berman",
+   "person": "matthew_berman",
+   "url": "https://www.youtube.com/watch?v=5sEVvu4mQ8g",
+   "title": "They actually did it... (Kimi K3.1)",
+   "posted_at": "2026-10-24T06:49:56.130Z",
+   "popularity": 149000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-92c4044361f9.jpg",
+   "first_seen": "2026-10-24T06:47:31.689Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:fHY0sjAejcA",
+   "platform": "youtube",
+   "source": "@matthew_berman",
+   "person": "matthew_berman",
+   "url": "https://www.youtube.com/watch?v=fHY0sjAejcA",
+   "title": "Who is local AI really for?",
+   "posted_at": "2026-10-24T06:49:58.104Z",
+   "popularity": 68000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-2cc1e6b3dd0c.jpg",
+   "first_seen": "2026-10-24T06:47:31.689Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:RvnQZQAHUDc",
+   "platform": "youtube",
+   "source": "@NateBJones",
+   "person": "nate b jones",
+   "url": "https://www.youtube.com/watch?v=RvnQZQAHUDc",
+   "title": "Enterprise AI Pricing: Why Everything You Know Is Wrong",
+   "posted_at": "2026-10-26T06:50:05.815Z",
+   "popularity": 30000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-0122e2448ca0.jpg",
+   "first_seen": "2026-10-26T07:02:45.284Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:qDYe2eTl_D4",
+   "platform": "youtube",
+   "source": "@NateBJones",
+   "person": "nate b jones",
+   "url": "https://www.youtube.com/watch?v=qDYe2eTl_D4",
+   "title": "Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.",
+   "posted_at": "2026-10-25T06:50:07.661Z",
+   "popularity": 54000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-1a2b43aaf8aa.jpg",
+   "first_seen": "2026-10-25T06:45:10.982Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:15gxN8DnC8s",
+   "platform": "youtube",
+   "source": "@NateBJones",
+   "person": "nate b jones",
+   "url": "https://www.youtube.com/watch?v=15gxN8DnC8s",
+   "title": "I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.",
+   "posted_at": "2026-10-23T06:50:09.548Z",
+   "popularity": 22000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-f0cce44e82bf.jpg",
+   "first_seen": "2026-10-23T06:48:38.417Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:xUl-RD4l4i4",
+   "platform": "youtube",
+   "source": "@NateBJones",
+   "person": "nate b jones",
+   "url": "https://www.youtube.com/watch?v=xUl-RD4l4i4",
+   "title": "Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.",
+   "posted_at": "2026-10-21T06:50:11.430Z",
+   "popularity": 42000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-f83f56e19f5b.jpg",
+   "first_seen": "2026-10-21T06:48:54.757Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:B0HN9kLxf7A",
+   "platform": "youtube",
+   "source": "@mattvidpro",
+   "person": "mattvidpro",
+   "url": "https://www.youtube.com/watch?v=B0HN9kLxf7A",
+   "title": "Claude Rebuilt This AI Video in Unreal Engine (Zero Imported Assets)",
+   "posted_at": "2026-10-22T06:50:26.142Z",
+   "popularity": 33000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-abfd62cea900.jpg",
+   "first_seen": "2026-10-22T06:49:09.350Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:eK7Sn0_zHQw",
+   "platform": "youtube",
+   "source": "@WesRoth",
+   "person": "wesroth",
+   "url": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
+   "title": "it's WORSE than we thought...",
+   "posted_at": "2026-10-24T06:50:31.994Z",
+   "popularity": 285000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-421ece25dcdf.jpg",
+   "first_seen": "2026-10-24T06:47:31.689Z",
+   "picked": false
   },
   {
    "id": "tiktok:7698490726438472991",
@@ -210,401 +652,6 @@
    "media": "data/media/tiktok-a2967469cc30.jpg",
    "first_seen": "2026-10-20T06:47:56.415Z",
    "picked": true
-  },
-  {
-   "id": "tiktok:7700759789533433119",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7700759789533433119",
-   "title": "Scan yourself before hackers do. #aihack #cybersecurity #aisafety #ai #artificialintelligence ",
-   "posted_at": "2026-10-26T00:00:58.000Z",
-   "popularity": 63800,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 496900
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-dc1ad526a513.jpg",
-   "first_seen": "2026-10-26T07:02:45.284Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7700089628379974942",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7700089628379974942",
-   "title": "Yes the internet needs a complete rethink. Agents don’t just find bugs — the do WEIRD stuff humans wouldn’t ever think of doing all the way down to bare metal. We need a fresh approach to security now",
-   "posted_at": "2026-10-24T04:40:24.000Z",
-   "popularity": 39800,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 496900
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-e56613bf18a4.jpg",
-   "first_seen": "2026-10-24T06:47:31.689Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7699272776267369759",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7699272776267369759",
-   "title": "Let me know how it goes. #aihack #ai #aiprompts #artificialintelligence #aitips",
-   "posted_at": "2026-10-21T23:50:36.000Z",
-   "popularity": 161300,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 496900
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-d737ceaeaab5.jpg",
-   "first_seen": "2026-10-22T06:49:09.350Z",
-   "picked": false
-  },
-  {
-   "id": "tiktok:7698904256962759967",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7698904256962759967",
-   "title": "Share this with someone unprepared. #aihack #cybersecurity #aisafety #ai #artificialintelligence ",
-   "posted_at": "2026-10-21T00:00:33.000Z",
-   "popularity": 89700,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 496900
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-ae65fb5d0243.jpg",
-   "first_seen": "2026-10-21T06:48:54.757Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:CUjHZlvQufk",
-   "platform": "youtube",
-   "source": "@deeplearningai",
-   "person": "deeplearningai",
-   "url": "https://www.youtube.com/watch?v=CUjHZlvQufk",
-   "title": "Learn to build better AI Agents through better context",
-   "posted_at": "2026-10-21T07:01:35.782Z",
-   "popularity": 7400,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-11dbe2dfb929.jpg",
-   "first_seen": "2026-10-21T06:48:54.757Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:LWxX6vvHfrc",
-   "platform": "youtube",
-   "source": "@TwoMinutePapers",
-   "person": "twominutepapers",
-   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-   "title": "Gemini 4 Argon Is Not What I Expected",
-   "posted_at": "2026-10-20T07:01:41.534Z",
-   "popularity": 234000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-79d137abcc20.jpg",
-   "first_seen": "2026-10-20T06:47:56.415Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:TVRCcMlvR10",
-   "platform": "youtube",
-   "source": "@mreflow",
-   "person": "mreflow",
-   "url": "https://www.youtube.com/watch?v=TVRCcMlvR10",
-   "title": "AI News: 24 Things You Need To Know This Week",
-   "posted_at": "2026-10-24T07:01:50.962Z",
-   "popularity": 127000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-daf779ba35ec.jpg",
-   "first_seen": "2026-10-24T06:47:31.689Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:umGZrkyTRtw",
-   "platform": "youtube",
-   "source": "@mreflow",
-   "person": "mreflow",
-   "url": "https://www.youtube.com/watch?v=umGZrkyTRtw",
-   "title": "11 AI Breakthroughs You Didn’t Know Existed",
-   "posted_at": "2026-10-22T07:01:52.711Z",
-   "popularity": 142000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-0e47e338a0da.jpg",
-   "first_seen": "2026-10-22T06:49:09.350Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:5sEVvu4mQ8g",
-   "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=5sEVvu4mQ8g",
-   "title": "They actually did it... (Kimi K3.1)",
-   "posted_at": "2026-10-24T07:01:58.450Z",
-   "popularity": 136000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-92c4044361f9.jpg",
-   "first_seen": "2026-10-24T06:47:31.689Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:fHY0sjAejcA",
-   "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=fHY0sjAejcA",
-   "title": "Who is local AI really for?",
-   "posted_at": "2026-10-24T07:02:00.297Z",
-   "popularity": 65000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-2cc1e6b3dd0c.jpg",
-   "first_seen": "2026-10-24T06:47:31.689Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:RvnQZQAHUDc",
-   "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=RvnQZQAHUDc",
-   "title": "Enterprise AI Pricing: Why Everything You Know Is Wrong",
-   "posted_at": "2026-10-25T16:02:09.355Z",
-   "popularity": 20000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-0122e2448ca0.jpg",
-   "first_seen": "2026-10-26T07:02:45.284Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:qDYe2eTl_D4",
-   "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=qDYe2eTl_D4",
-   "title": "Black October Isn't Just A PHP Bug. Attackers Want Your AI Keys.",
-   "posted_at": "2026-10-25T07:02:11.235Z",
-   "popularity": 45000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-1a2b43aaf8aa.jpg",
-   "first_seen": "2026-10-25T06:45:10.982Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:15gxN8DnC8s",
-   "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=15gxN8DnC8s",
-   "title": "I Read Goodfire's New Essay. AI May Be Far Easier To Understand Than We Thought.",
-   "posted_at": "2026-10-23T07:02:13.060Z",
-   "popularity": 22000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-f0cce44e82bf.jpg",
-   "first_seen": "2026-10-23T06:48:38.417Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:xUl-RD4l4i4",
-   "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=xUl-RD4l4i4",
-   "title": "Mac Mini For AI Agents: How Much Memory You Need, And How To Use What You Have.",
-   "posted_at": "2026-10-21T07:02:14.947Z",
-   "popularity": 41000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-f83f56e19f5b.jpg",
-   "first_seen": "2026-10-21T06:48:54.757Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:btUxMt_tssA",
-   "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=btUxMt_tssA",
-   "title": "What Really Happens When AI Agents Meet in the Wild?",
-   "posted_at": "2026-10-19T07:02:17.032Z",
-   "popularity": 58000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-7f65c353b924.jpg",
-   "first_seen": "2026-10-19T07:01:22.959Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:B0HN9kLxf7A",
-   "platform": "youtube",
-   "source": "@mattvidpro",
-   "person": "mattvidpro",
-   "url": "https://www.youtube.com/watch?v=B0HN9kLxf7A",
-   "title": "Claude Rebuilt This AI Video in Unreal Engine (Zero Imported Assets)",
-   "posted_at": "2026-10-22T07:02:28.533Z",
-   "popularity": 32000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-abfd62cea900.jpg",
-   "first_seen": "2026-10-22T06:49:09.350Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:eK7Sn0_zHQw",
-   "platform": "youtube",
-   "source": "@WesRoth",
-   "person": "wesroth",
-   "url": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
-   "title": "it's WORSE than we thought...",
-   "posted_at": "2026-10-24T07:02:34.277Z",
-   "popularity": 259000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-421ece25dcdf.jpg",
-   "first_seen": "2026-10-24T06:47:31.689Z",
-   "picked": false
   },
   {
    "id": "tiktok:7698117291329867039",
