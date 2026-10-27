@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:19:44.314Z",
+ "generated_at": "2026-10-27T14:46:59.677Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Cohere Says Alibaba’s Qwen",
+   "source": "youtube: M6 MacBook Pro",
    "ok": true
   },
   {
-   "source": "tiktok: Cohere Says Alibaba’s Qwen",
+   "source": "tiktok: M6 MacBook Pro",
    "ok": true
   },
   {
-   "source": "youtube: cohere alibaba qwen tried",
+   "source": "youtube: apple m6 macbook pro",
    "ok": true
   },
   {
-   "source": "tiktok: cohere alibaba qwen tried",
+   "source": "tiktok: apple m6 macbook pro",
    "ok": true
   }
  ],
@@ -252,6 +252,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T13:22:45.058Z"
+  },
+  {
+   "first_seen": "2026-10-27T14:46:59.677Z",
+   "id": "39441053",
+   "ids": [
+    "39441053",
+    "39441043"
+   ],
+   "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
+   "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-10-27 14:16:20",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
+     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
+    }
+   ],
+   "queries": [
+    "M6 MacBook Pro",
+    "apple m6 macbook pro"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xWfNhWn88Bc",
+     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
+     "title": "The new 14” MacBook Pro with M6",
+     "channel": "Apple",
+     "views": 153145,
+     "age_hours": 1,
+     "relevance": 0.75,
+     "velocity": 153145
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iY4R1h8CtNs",
+     "url": "https://www.youtube.com/watch?v=iY4R1h8CtNs",
+     "title": "NEW M6 MACBOOK PRO AND M6 IMAC: WHAT’S CHANGED, WHAT’S NEW",
+     "channel": "Giulio Brotini",
+     "views": 882,
+     "age_hours": 1,
+     "relevance": 0.8,
+     "velocity": 882
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tTUEpW351V0",
+     "url": "https://www.youtube.com/watch?v=tTUEpW351V0",
+     "title": "Why The M6 MacBook Pro Might Be A Skip This Year?",
+     "channel": "Infinkey Infopedia",
+     "views": 6390,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 266
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BLg9q88BHAU",
+     "url": "https://www.youtube.com/watch?v=BLg9q88BHAU",
+     "title": "M6 MacBook Pro LEAKED — Apple’s Biggest MacBook Upgrade Yet",
+     "channel": "Tech Town",
+     "views": 3043,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 127
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JwWM6smkL3w",
+     "url": "https://www.youtube.com/watch?v=JwWM6smkL3w",
+     "title": "The new 14” MacBook Pro with M6",
+     "channel": "Apple UK",
+     "views": 79,
+     "age_hours": 0.4,
+     "relevance": 0.75,
+     "velocity": 79
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:t8OweaSrirA",
+     "url": "https://www.youtube.com/shorts/t8OweaSrirA",
+     "title": "M6 MacBook Pro, but No M6 Pro? What Apple Reportedly Skips",
+     "channel": "",
+     "views": 1700,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-27T14:47:08.080Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -492,6 +596,61 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
+   "first_seen": "2026-10-27T13:22:36.433Z",
+   "id": "39431659",
+   "ids": [
+    "39431659",
+    "39439365"
+   ],
+   "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-27 03:57:56",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+     "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
+    }
+   ],
+   "queries": [
+    "openai announces three discoveries"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:oE5qTfdTvos",
+     "url": "https://www.youtube.com/shorts/oE5qTfdTvos",
+     "title": "OpenAI claims 3 discoveries #Shorts",
+     "channel": "",
+     "views": 40,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tPiODvm1E_Q",
+     "url": "https://www.youtube.com/shorts/tPiODvm1E_Q",
+     "title": "OPENAI CLAIMS THREE SCIENCE DISCOVERIES. PROOFS UNDER REVIEW.",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T13:22:48.656Z"
+  },
+  {
    "first_seen": "2026-10-26T17:15:42.765Z",
    "id": "39420034",
    "ids": [
@@ -593,61 +752,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T11:54:48.983Z"
-  },
-  {
-   "first_seen": "2026-10-27T13:22:36.433Z",
-   "id": "39431659",
-   "ids": [
-    "39431659",
-    "39439365"
-   ],
-   "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-27 03:57:56",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
-     "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
-    }
-   ],
-   "queries": [
-    "openai announces three discoveries"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oE5qTfdTvos",
-     "url": "https://www.youtube.com/shorts/oE5qTfdTvos",
-     "title": "OpenAI claims 3 discoveries #Shorts",
-     "channel": "",
-     "views": 40,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tPiODvm1E_Q",
-     "url": "https://www.youtube.com/shorts/tPiODvm1E_Q",
-     "title": "OPENAI CLAIMS THREE SCIENCE DISCOVERIES. PROOFS UNDER REVIEW.",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T13:22:48.656Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
