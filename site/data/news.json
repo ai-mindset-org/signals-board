@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T08:51:11.590Z",
+ "generated_at": "2026-10-27T10:17:39.956Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: microsoft 60 000 offers",
+   "source": "youtube: Meta Plans",
    "ok": true
   },
   {
-   "source": "tiktok: microsoft 60 000 offers",
+   "source": "tiktok: Meta Plans",
    "ok": true
   },
   {
-   "source": "youtube: OpenAI Launches GPT-6.1 Terra",
+   "source": "youtube: meta plans raise up",
    "ok": true
   },
   {
-   "source": "tiktok: OpenAI Launches GPT-6.1 Terra",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai launches gpt-6.1 terra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai launches gpt-6.1 terra",
+   "source": "tiktok: meta plans raise up",
    "ok": true
   }
  ],
@@ -401,7 +393,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-26 14:35:22",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "engadget",
@@ -1395,7 +1387,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-10-26 13:22:09",
    "story_sources": 2,
-   "score_norm": 53,
+   "score_norm": 54,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -1756,10 +1748,10 @@
      "url": "https://www.youtube.com/watch?v=3OnJopLqhAc",
      "title": "AI Capital Rush: SpaceX Eyes $40 Billion Debt Deal, Meta Plans $95 Billion Fundraise | IBH",
      "channel": "CNBC-TV18",
-     "views": 1768,
-     "age_hours": 12,
+     "views": 1799,
+     "age_hours": 19,
      "relevance": 0.56,
-     "velocity": 147
+     "velocity": 95
     },
     {
      "platform": "youtube",
@@ -1768,22 +1760,10 @@
      "url": "https://www.youtube.com/watch?v=SckwXINEEdg",
      "title": "Meta aims to raise up to $95 billion to expand AI efforts",
      "channel": "CBS19",
-     "views": 369,
-     "age_hours": 5,
+     "views": 506,
+     "age_hours": 11,
      "relevance": 0.67,
-     "velocity": 74
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:k6Hlm217KI8",
-     "url": "https://www.youtube.com/watch?v=k6Hlm217KI8",
-     "title": "$95 Billion: Guess Meta's Biggest-Ever AI Stock Raise Before the Reveal #shorts",
-     "channel": "Insight Meter",
-     "views": 5,
-     "age_hours": 2,
-     "relevance": 0.56,
-     "velocity": 3
+     "velocity": 46
     },
     {
      "platform": "youtube",
@@ -1792,32 +1772,44 @@
      "url": "https://www.youtube.com/watch?v=MGPW4SOqro4",
      "title": "Meta Plans to Raise Up to $95 Billion to Fund Artificial Intelligence Expansion",
      "channel": "B.C. Begley",
-     "views": 2,
-     "age_hours": 1,
+     "views": 25,
+     "age_hours": 7,
      "relevance": 0.67,
-     "velocity": 2
+     "velocity": 4
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:LGHIeA_fpCM",
-     "url": "https://www.youtube.com/watch?v=LGHIeA_fpCM",
-     "title": "Meta's New Shares: Funding AI Without Losing Control",
-     "channel": "WorkDefine",
-     "views": 2,
-     "age_hours": 20,
-     "relevance": 0.5,
-     "velocity": 0
+     "id": "youtube:8iimuUymw5Q",
+     "url": "https://www.youtube.com/watch?v=8iimuUymw5Q",
+     "title": "Learn English A1 | Slow English News with Subtitles: Meta Plans to Raise $95 Billion for AI",
+     "channel": "Learn English with News | LinguaWire",
+     "views": 7,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:Ov6Vgj8vL7g",
-     "url": "https://www.youtube.com/watch?v=Ov6Vgj8vL7g",
-     "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-     "channel": "The AI Sea",
-     "views": 1,
-     "age_hours": 12,
+     "id": "youtube:k6Hlm217KI8",
+     "url": "https://www.youtube.com/watch?v=k6Hlm217KI8",
+     "title": "$95 Billion: Guess Meta's Biggest-Ever AI Stock Raise Before the Reveal #shorts",
+     "channel": "Insight Meter",
+     "views": 6,
+     "age_hours": 9,
+     "relevance": 0.56,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:b2rcwIXHgK0",
+     "url": "https://www.youtube.com/watch?v=b2rcwIXHgK0",
+     "title": "Meta Plans Up to $95 Billion for AI — Chipmakers May Invest #Shorts",
+     "channel": "The Daily Orb",
+     "views": 7,
+     "age_hours": 15,
      "relevance": 0.67,
      "velocity": 0
     }
@@ -1826,7 +1818,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-27T03:48:33.776Z"
+   "searched_at": "2026-10-27T10:17:48.058Z"
   },
   {
    "first_seen": "2026-10-26T13:51:30.960Z",
