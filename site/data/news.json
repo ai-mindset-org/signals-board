@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T02:38:37.666Z",
+ "generated_at": "2026-10-27T03:25:25.629Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: microsoft 60 000 offers",
+   "source": "youtube: IPO With 16.3 Billion",
    "ok": true
   },
   {
-   "source": "tiktok: microsoft 60 000 offers",
+   "source": "tiktok: IPO With 16.3 Billion",
    "ok": true
   },
   {
-   "source": "youtube: OpenAI Launches GPT-6.1 Terra",
+   "source": "youtube: anthropic files ipo 16.3",
    "ok": true
   },
   {
-   "source": "tiktok: OpenAI Launches GPT-6.1 Terra",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai launches gpt-6.1 terra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai launches gpt-6.1 terra",
+   "source": "tiktok: anthropic files ipo 16.3",
    "ok": true
   }
  ],
@@ -46,7 +38,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-26 14:35:22",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "engadget",
@@ -100,6 +92,112 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T23:28:49.259Z"
+  },
+  {
+   "first_seen": "2026-10-26T18:27:30.783Z",
+   "id": "39422180",
+   "ids": [
+    "39422180",
+    "39421829",
+    "39421726",
+    "39430646"
+   ],
+   "title": "OpenAI launches GPT-6.1 Terra at 50% lower API prices",
+   "url": "https://www.techinasia.com/news/openai-launches-gpt61-terra-50-api-prices",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-27 01:02:16",
+   "story_sources": 2,
+   "score_norm": 91,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "openAI Launches GPT 6.1 TERRA",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/"
+    }
+   ],
+   "queries": [
+    "Launches GPT 6.1 TERRA",
+    "launches gpt 6.1 terra"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IhpOdbPEsdw",
+     "url": "https://www.youtube.com/watch?v=IhpOdbPEsdw",
+     "title": "GPT 6.1 Terra vs GPT 6 Astra: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 12,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xYz3dUqdjwA",
+     "url": "https://www.youtube.com/watch?v=xYz3dUqdjwA",
+     "title": "GPT 6.1 Terra vs Claude Opus 5.5: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 8,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cuRujdZEBrY",
+     "url": "https://www.youtube.com/shorts/cuRujdZEBrY",
+     "title": "Use GPT 6.1 Terra For Everyday Work, It Is Over 3 Times Faster Than Sol At Half The Price",
+     "channel": "",
+     "views": 192,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FCcN980zkj0",
+     "url": "https://www.youtube.com/watch?v=FCcN980zkj0",
+     "title": "GPT 6.1 Terra vs Qwen 3.8 Max: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 3,
+     "age_hours": 0.7333333333333333,
+     "relevance": 0.6,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pyQrA0etpSE",
+     "url": "https://www.youtube.com/shorts/pyQrA0etpSE",
+     "title": "OpenAI Launches GPT-6.1 Terra for Workflow Automation",
+     "channel": "",
+     "views": 102,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rqJvc3z0lmw",
+     "url": "https://www.youtube.com/shorts/rqJvc3z0lmw",
+     "title": "OpenAI Launches GPT-6.1 Terra: Cheaper Computer-Use Model #AI #OpenAI #ChatGPT",
+     "channel": "",
+     "views": 26,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T00:45:22.116Z"
   },
   {
    "first_seen": "2026-10-27T02:38:37.666Z",
@@ -443,116 +541,6 @@
    "searched_at": "2026-10-25T05:40:57.685Z"
   },
   {
-   "first_seen": "2026-10-26T18:27:30.783Z",
-   "id": "39422180",
-   "ids": [
-    "39422180",
-    "39421829",
-    "39421726"
-   ],
-   "title": "openAI Launches GPT 6.1 TERRA",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-26 18:09:42",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT-6.1 Terra",
-     "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
-    },
-    {
-     "source_id": "hn",
-     "title": "GPT 6.1 Terra",
-     "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra"
-    }
-   ],
-   "queries": [
-    "Launches GPT 6.1 TERRA",
-    "launches gpt 6.1 terra"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IhpOdbPEsdw",
-     "url": "https://www.youtube.com/watch?v=IhpOdbPEsdw",
-     "title": "GPT 6.1 Terra vs GPT 6 Astra: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 12,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xYz3dUqdjwA",
-     "url": "https://www.youtube.com/watch?v=xYz3dUqdjwA",
-     "title": "GPT 6.1 Terra vs Claude Opus 5.5: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 8,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cuRujdZEBrY",
-     "url": "https://www.youtube.com/shorts/cuRujdZEBrY",
-     "title": "Use GPT 6.1 Terra For Everyday Work, It Is Over 3 Times Faster Than Sol At Half The Price",
-     "channel": "",
-     "views": 192,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FCcN980zkj0",
-     "url": "https://www.youtube.com/watch?v=FCcN980zkj0",
-     "title": "GPT 6.1 Terra vs Qwen 3.8 Max: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 3,
-     "age_hours": 0.7333333333333333,
-     "relevance": 0.6,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pyQrA0etpSE",
-     "url": "https://www.youtube.com/shorts/pyQrA0etpSE",
-     "title": "OpenAI Launches GPT-6.1 Terra for Workflow Automation",
-     "channel": "",
-     "views": 102,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rqJvc3z0lmw",
-     "url": "https://www.youtube.com/shorts/rqJvc3z0lmw",
-     "title": "OpenAI Launches GPT-6.1 Terra: Cheaper Computer-Use Model #AI #OpenAI #ChatGPT",
-     "channel": "",
-     "views": 26,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T00:45:22.116Z"
-  },
-  {
    "first_seen": "2026-10-24T16:16:00.002Z",
    "id": "39386166",
    "ids": [
@@ -668,7 +656,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-10-26 13:22:09",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -827,7 +815,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-26 18:46:33",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -1174,50 +1162,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:v5C25oHxBPU",
-     "url": "https://www.youtube.com/watch?v=v5C25oHxBPU",
-     "title": "Anthropic files IPO",
-     "channel": "Jack Boudreau",
-     "views": 2197,
-     "age_hours": 20,
-     "relevance": 1,
-     "velocity": 110
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:nV7JqCmErZQ",
      "url": "https://www.youtube.com/watch?v=nV7JqCmErZQ",
      "title": "Anthropic just filed for IPO. Everyone’s looking at $16.3 billion in revenue in the first half of th",
      "channel": "Prompting Iron",
-     "views": 62,
-     "age_hours": 1,
+     "views": 285,
+     "age_hours": 7,
      "relevance": 0.71,
-     "velocity": 62
+     "velocity": 41
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:sWR1L0kwEt0",
-     "url": "https://www.youtube.com/watch?v=sWR1L0kwEt0",
-     "title": "Anthropic Files For IPO: Massive Revenue Growth and Staggering Losses Revealed",
-     "channel": "Seeking Alpha",
-     "views": 17,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 9
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jfg1SHCpbJM",
-     "url": "https://www.youtube.com/shorts/jfg1SHCpbJM",
-     "title": "Anthropic files for IPO: $16.3B revenue in 6 months, $80.7B loss",
-     "channel": "",
-     "views": 47,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
+     "id": "youtube:rnhDcPJi_5s",
+     "url": "https://www.youtube.com/watch?v=rnhDcPJi_5s",
+     "title": "Anthropic Just Filed for a $100 BILLION IPO! 🤯 #shorts",
+     "channel": "JANTRU AI CASTER ",
+     "views": 1,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 1
     },
     {
      "platform": "youtube",
@@ -1227,19 +1191,31 @@
      "title": "Anthropic Files Huge IPO! | Short News",
      "channel": "Shadow English",
      "views": 3,
-     "age_hours": 6,
+     "age_hours": 12,
      "relevance": 0.5,
-     "velocity": 1
+     "velocity": 0
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f4DV_yD_U7E",
-     "url": "https://www.youtube.com/shorts/f4DV_yD_U7E",
-     "title": "Anthropic IPO: Net revenue retention at 900% as H1 loss swells to $80.7 billion",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:5NtvjwsdWVw",
+     "url": "https://www.youtube.com/watch?v=5NtvjwsdWVw",
+     "title": "[2026-10-27] Anthropic Files for IPO: $16.3B Revenue and an $80.7B Loss | Daily_Daily",
+     "channel": "Daily_Daily",
+     "views": 1,
+     "age_hours": 4,
+     "relevance": 0.57,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jxrk3MFTRAw",
+     "url": "https://www.youtube.com/watch?v=jxrk3MFTRAw",
+     "title": "Anthropic Files to IPO: $16.3B Revenue in Six Months",
+     "channel": "AINewsDaily",
+     "views": 0,
+     "age_hours": 2,
      "relevance": 0.57,
      "velocity": null
     }
@@ -1248,7 +1224,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T21:15:52.841Z"
+   "searched_at": "2026-10-27T03:25:33.350Z"
   },
   {
    "first_seen": "2026-10-25T23:14:07.761Z",
