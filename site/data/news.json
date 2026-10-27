@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:18:39.648Z",
+ "generated_at": "2026-10-27T15:55:27.929Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: OpenAI Launches GPT-6.1 Terra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: OpenAI Launches GPT-6.1 Terra",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai launches gpt-6.1 terra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai launches gpt-6.1 terra",
-   "ok": true
-  },
-  {
-   "source": "youtube: microsoft 60 000 offers",
-   "ok": true
-  },
-  {
-   "source": "tiktok: microsoft 60 000 offers",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -159,7 +134,7 @@
    "source_id": "simonw",
    "published_ts": "2026-10-26 23:53:07",
    "story_sources": 3,
-   "score_norm": 98,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "x-reddit",
@@ -916,11 +891,6 @@
      "source_id": "hn",
      "title": "Analysis – In China, the AI bubble has burst",
      "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN"
-    },
-    {
-     "source_id": "hn",
-     "title": "In China, the AI bubble has burst",
-     "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/"
     }
    ],
    "queries": [
