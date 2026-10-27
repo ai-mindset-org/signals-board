@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:49:57.324Z",
+ "generated_at": "2026-10-27T18:15:27.826Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,168 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: bitcoin luxor 16 mining",
+   "source": "youtube: Bubble Has Just Burst",
    "ok": true
   },
   {
-   "source": "tiktok: bitcoin luxor 16 mining",
+   "source": "tiktok: Bubble Has Just Burst",
+   "ok": true
+  },
+  {
+   "source": "youtube: appears bubble burst china",
+   "ok": true
+  },
+  {
+   "source": "tiktok: appears bubble burst china",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-10-27T16:49:57.324Z",
-   "id": "39444046",
-   "ids": [
-    "39444046",
-    "39440016"
-   ],
-   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-10-27 14:32:08",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "crypto-decrypt",
-     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
-    }
-   ],
-   "queries": [
-    "bitcoin luxor 16 mining"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lfFG3BU8Luc",
-     "url": "https://www.youtube.com/shorts/lfFG3BU8Luc",
-     "title": "Your Heater Could Be Mining Bitcoin",
-     "channel": "",
-     "views": 189,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T16:50:01.426Z"
-  },
-  {
-   "first_seen": "2026-10-27T07:56:12.221Z",
-   "id": "39433985",
-   "ids": [
-    "39433985",
-    "39426152",
-    "39440116"
-   ],
-   "title": "Cohere Says Alibaba’s Qwen Model Tried to Send a File to Beijing",
-   "url": "https://dailyai.com/2026/10/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-10-27 09:15:58",
-   "story_sources": 3,
-   "score_norm": 98,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-     "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
-    },
-    {
-     "source_id": "eu-tnw",
-     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
-     "url": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test"
-    }
-   ],
-   "queries": [
-    "Cohere Says Alibaba’s Qwen",
-    "cohere alibaba qwen tried"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4nflEp1v9CA",
-     "url": "https://www.youtube.com/shorts/4nflEp1v9CA",
-     "title": "Qwen AI tried to send data to China, Cohere says",
-     "channel": "",
-     "views": 128,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s5jA2IFJkhw",
-     "url": "https://www.youtube.com/shorts/s5jA2IFJkhw",
-     "title": "Qwen 3.8 Promised No Tools. Then It Tried Sending a File to Beijing",
-     "channel": "",
-     "views": 66,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_ZLGFT7ZuuY",
-     "url": "https://www.youtube.com/shorts/_ZLGFT7ZuuY",
-     "title": "Qwen3.8 AI Tried to Upload a File to Beijing, Cohere Says",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:PLYm4Ixke8s",
-     "url": "https://www.youtube.com/watch?v=PLYm4Ixke8s",
-     "title": "Alibaba's Qwen Tried to Upload a File to Beijing, Cohere Says",
-     "channel": "DX Today Podcast",
-     "views": 2,
-     "age_hours": 3,
-     "relevance": 0.86,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:K448qaF8PTc",
-     "url": "https://www.youtube.com/shorts/K448qaF8PTc",
-     "title": "Cohere: Qwen3.8 tried calling Beijing. Self-hosting isn't safe #qwen #alibaba #ai",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pwQYfdMjYNk",
-     "url": "https://www.youtube.com/shorts/pwQYfdMjYNk",
-     "title": "Cohere Says Alibaba's Qwen AI Tried to Reach a Beijing Server in a Test #Shorts",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T14:19:56.757Z"
-  },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
    "id": "39422180",
@@ -287,6 +142,270 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T13:22:45.058Z"
+  },
+  {
+   "first_seen": "2026-10-27T11:18:45.828Z",
+   "id": "39437238",
+   "ids": [
+    "39437238",
+    "39425820",
+    "39418793",
+    "39446052"
+   ],
+   "title": "It Appears That the AI Bubble Has Just Burst in China",
+   "url": "https://futurism.com/artificial-intelligence/ai-bubble-burst-china",
+   "source_id": "futurism-ai",
+   "published_ts": "2026-10-27 14:57:47",
+   "story_sources": 3,
+   "score_norm": 90,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "In China, the AI bubble has already burst",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/in-china-the-ai-bubble-has-already-burst-10938963/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Analysis – In China, the AI bubble has burst",
+     "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN"
+    }
+   ],
+   "queries": [
+    "Bubble Has Just Burst",
+    "appears bubble burst china"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:uU2WeAX2w8g",
+     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
+     "title": "In China, the AI bubble has already burst",
+     "channel": "Reuters",
+     "views": 105291,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 15042
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tWv-_0_s42o",
+     "url": "https://www.youtube.com/watch?v=tWv-_0_s42o",
+     "title": "फूट गया Ai Bubble | China Market Crash: चीन में मचा हाहाकार, 45% टूट गया बाज़ार | STAR 50 Drops 40%",
+     "channel": "Stock Market का Commando",
+     "views": 6536,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 6536
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:d-DcNKEpd58",
+     "url": "https://www.youtube.com/watch?v=d-DcNKEpd58",
+     "title": "China AI bubble has just burst! US next?",
+     "channel": "1M65",
+     "views": 43167,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 6167
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LhkuNV1RGfI",
+     "url": "https://www.youtube.com/watch?v=LhkuNV1RGfI",
+     "title": "China's AI Bubble Has Burst. Who Will Pay The Price? | The Palki Sharma Show | IGR",
+     "channel": "India Global Review",
+     "views": 5469,
+     "age_hours": 1,
+     "relevance": 0.8,
+     "velocity": 5469
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:w6RyLJmNPHE",
+     "url": "https://www.youtube.com/watch?v=w6RyLJmNPHE",
+     "title": "Has China's AI Stock Bubble Finally Burst? $480 Billion Wipeout Puts Tech Valuations Under Scrutiny",
+     "channel": "Mint",
+     "views": 3214,
+     "age_hours": 2,
+     "relevance": 0.8,
+     "velocity": 1607
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CjquP0fupG4",
+     "url": "https://www.youtube.com/watch?v=CjquP0fupG4",
+     "title": "AI Bubble Burst? Bitcoin to Zero? Hedge Funds Wrecked? Sounds Like a Bottom is Near",
+     "channel": "Jordi Visser",
+     "views": 45702,
+     "age_hours": 48,
+     "relevance": 0.6,
+     "velocity": 952
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-27T18:15:35.856Z"
+  },
+  {
+   "first_seen": "2026-10-27T16:49:57.324Z",
+   "id": "39444046",
+   "ids": [
+    "39444046",
+    "39440016"
+   ],
+   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-10-27 14:32:08",
+   "story_sources": 2,
+   "score_norm": 89,
+   "related_news": [
+    {
+     "source_id": "crypto-decrypt",
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
+    }
+   ],
+   "queries": [
+    "bitcoin luxor 16 mining"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lfFG3BU8Luc",
+     "url": "https://www.youtube.com/shorts/lfFG3BU8Luc",
+     "title": "Your Heater Could Be Mining Bitcoin",
+     "channel": "",
+     "views": 189,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T16:50:01.426Z"
+  },
+  {
+   "first_seen": "2026-10-27T07:56:12.221Z",
+   "id": "39433985",
+   "ids": [
+    "39433985",
+    "39426152",
+    "39440116"
+   ],
+   "title": "Cohere Says Alibaba’s Qwen Model Tried to Send a File to Beijing",
+   "url": "https://dailyai.com/2026/10/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-10-27 09:15:58",
+   "story_sources": 3,
+   "score_norm": 87,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+     "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    },
+    {
+     "source_id": "eu-tnw",
+     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
+     "url": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test"
+    }
+   ],
+   "queries": [
+    "Cohere Says Alibaba’s Qwen",
+    "cohere alibaba qwen tried"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4nflEp1v9CA",
+     "url": "https://www.youtube.com/shorts/4nflEp1v9CA",
+     "title": "Qwen AI tried to send data to China, Cohere says",
+     "channel": "",
+     "views": 128,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:s5jA2IFJkhw",
+     "url": "https://www.youtube.com/shorts/s5jA2IFJkhw",
+     "title": "Qwen 3.8 Promised No Tools. Then It Tried Sending a File to Beijing",
+     "channel": "",
+     "views": 66,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_ZLGFT7ZuuY",
+     "url": "https://www.youtube.com/shorts/_ZLGFT7ZuuY",
+     "title": "Qwen3.8 AI Tried to Upload a File to Beijing, Cohere Says",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:PLYm4Ixke8s",
+     "url": "https://www.youtube.com/watch?v=PLYm4Ixke8s",
+     "title": "Alibaba's Qwen Tried to Upload a File to Beijing, Cohere Says",
+     "channel": "DX Today Podcast",
+     "views": 2,
+     "age_hours": 3,
+     "relevance": 0.86,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:K448qaF8PTc",
+     "url": "https://www.youtube.com/shorts/K448qaF8PTc",
+     "title": "Cohere: Qwen3.8 tried calling Beijing. Self-hosting isn't safe #qwen #alibaba #ai",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pwQYfdMjYNk",
+     "url": "https://www.youtube.com/shorts/pwQYfdMjYNk",
+     "title": "Cohere Says Alibaba's Qwen AI Tried to Reach a Beijing Server in a Test #Shorts",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T14:19:56.757Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -434,7 +553,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-10-27 14:16:20",
    "story_sources": 2,
-   "score_norm": 80,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -628,61 +747,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T11:54:48.983Z"
-  },
-  {
-   "first_seen": "2026-10-27T13:22:36.433Z",
-   "id": "39431659",
-   "ids": [
-    "39431659",
-    "39439365"
-   ],
-   "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-27 03:57:56",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
-     "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
-    }
-   ],
-   "queries": [
-    "openai announces three discoveries"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oE5qTfdTvos",
-     "url": "https://www.youtube.com/shorts/oE5qTfdTvos",
-     "title": "OpenAI claims 3 discoveries #Shorts",
-     "channel": "",
-     "views": 40,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tPiODvm1E_Q",
-     "url": "https://www.youtube.com/shorts/tPiODvm1E_Q",
-     "title": "OPENAI CLAIMS THREE SCIENCE DISCOVERIES. PROOFS UNDER REVIEW.",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T13:22:48.656Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -901,109 +965,59 @@
    "searched_at": "2026-10-26T11:45:52.437Z"
   },
   {
-   "first_seen": "2026-10-27T11:18:45.828Z",
-   "id": "39437238",
+   "first_seen": "2026-10-27T13:22:36.433Z",
+   "id": "39431659",
    "ids": [
-    "39437238",
-    "39425820",
-    "39418793"
+    "39431659",
+    "39439365"
    ],
-   "title": "In China, the AI bubble has already burst",
-   "url": "https://indianexpress.com/article/technology/tech-news-technology/in-china-the-ai-bubble-has-already-burst-10938963/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-10-27 10:33:34",
+   "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-27 03:57:56",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 61,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Analysis – In China, the AI bubble has burst",
-     "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN"
+     "source_id": "engadget",
+     "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+     "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
     }
    ],
    "queries": [
-    "In China",
-    "china ai bubble already"
+    "openai announces three discoveries"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1HAnL8iINrc",
-     "url": "https://www.youtube.com/watch?v=1HAnL8iINrc",
-     "title": "[Why Times Political Analysis 4332] China’s AI Bubble Has Already Burst… $480 Billion Vanishes, C...",
-     "channel": "Why Times",
-     "views": 12643,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 4214
+     "kind": "shorts",
+     "id": "youtube:oE5qTfdTvos",
+     "url": "https://www.youtube.com/shorts/oE5qTfdTvos",
+     "title": "OpenAI claims 3 discoveries #Shorts",
+     "channel": "",
+     "views": 40,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1qHsBa6nSAs",
-     "url": "https://www.youtube.com/watch?v=1qHsBa6nSAs",
-     "title": "China Just Declared WAR On The AI Bubble. (Here's What Happens Next)",
-     "channel": "Money Strategist",
-     "views": 9016,
-     "age_hours": 19,
-     "relevance": 0.6,
-     "velocity": 475
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JyUFZMRYCOU",
-     "url": "https://www.youtube.com/watch?v=JyUFZMRYCOU",
-     "title": "Is the AI Bubble Bursting? China’s Gold Rush and the 9-Bank Warning",
-     "channel": "Zang International with Lynette Zang",
-     "views": 4739,
-     "age_hours": 10,
-     "relevance": 0.6,
-     "velocity": 474
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:uU2WeAX2w8g",
-     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
-     "title": "In China, the AI bubble has already burst",
-     "channel": "Reuters",
-     "views": 256,
-     "age_hours": 0.25,
-     "relevance": 1,
-     "velocity": 256
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Wj7kKSun9Ak",
-     "url": "https://www.youtube.com/watch?v=Wj7kKSun9Ak",
-     "title": "China’s $480 Billion AI Bubble Just Burst",
-     "channel": "Built Big",
-     "views": 477,
-     "age_hours": 13,
-     "relevance": 0.8,
-     "velocity": 37
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SlfXSohnWCA",
-     "url": "https://www.youtube.com/watch?v=SlfXSohnWCA",
-     "title": "China's AI Stock Bubble Bursts? $480 Billion Wiped Out as Tech Shares Crash Up to 70% | RB1G",
-     "channel": "DRM News",
-     "views": 8,
-     "age_hours": 0.06666666666666667,
-     "relevance": 0.6,
-     "velocity": 8
+     "kind": "shorts",
+     "id": "youtube:tPiODvm1E_Q",
+     "url": "https://www.youtube.com/shorts/tPiODvm1E_Q",
+     "title": "OPENAI CLAIMS THREE SCIENCE DISCOVERIES. PROOFS UNDER REVIEW.",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-27T11:18:53.844Z"
+   "searched_at": "2026-10-27T13:22:48.656Z"
   },
   {
    "first_seen": "2026-10-26T10:31:55.367Z",
