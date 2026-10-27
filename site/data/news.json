@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T03:48:25.923Z",
+ "generated_at": "2026-10-27T04:19:25.738Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Meta Plans",
+   "source": "youtube: 60.000 Mitarbeitern Abfindungen",
    "ok": true
   },
   {
-   "source": "tiktok: Meta Plans",
+   "source": "tiktok: 60.000 Mitarbeitern Abfindungen",
    "ok": true
   },
   {
-   "source": "youtube: meta plans raise up",
+   "source": "youtube: ki-kosten microsoft 60.000 mitarbeitern",
    "ok": true
   },
   {
-   "source": "tiktok: meta plans raise up",
-   "ok": true
-  },
-  {
-   "source": "youtube: Smuggling WebMCP",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Smuggling WebMCP",
-   "ok": true
-  },
-  {
-   "source": "youtube: smuggling webmcp chatgpt",
-   "ok": true
-  },
-  {
-   "source": "tiktok: smuggling webmcp chatgpt",
+   "source": "tiktok: ki-kosten microsoft 60.000 mitarbeitern",
    "ok": true
   }
  ],
@@ -227,7 +211,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-10-27 01:43:57",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "hn",
@@ -775,7 +759,7 @@
    "source_id": "eu-golem",
    "published_ts": "2026-10-26 18:50:03",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "eu-t3n",
@@ -795,10 +779,10 @@
      "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
      "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
      "channel": "CTV News",
-     "views": 9436,
-     "age_hours": 3,
+     "views": 24024,
+     "age_hours": 9,
      "relevance": 0.83,
-     "velocity": 3145
+     "velocity": 2669
     },
     {
      "platform": "youtube",
@@ -807,17 +791,65 @@
      "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
      "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an, da KI Effizienzschub erzwingt",
      "channel": "CNBC Television",
-     "views": 6635,
-     "age_hours": 3,
+     "views": 22637,
+     "age_hours": 9,
      "relevance": 0.63,
-     "velocity": 2212
+     "velocity": 2515
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l4_gyQ7eKy0",
+     "url": "https://www.youtube.com/watch?v=l4_gyQ7eKy0",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
+     "channel": "CTV News",
+     "views": 2167,
+     "age_hours": 2,
+     "relevance": 0.83,
+     "velocity": 1084
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LoEOUfa7RrE",
+     "url": "https://www.youtube.com/watch?v=LoEOUfa7RrE",
+     "title": "Microsoft bietet 60.000 Mitarbeitern Abfindungen an, während Milliarden in KI fließen",
+     "channel": "The Future of Work Podcast",
+     "views": 544,
+     "age_hours": 4,
+     "relevance": 0.63,
+     "velocity": 136
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ASpdjXDCvno",
+     "url": "https://www.youtube.com/watch?v=ASpdjXDCvno",
+     "title": "Microsoft bietet 60.000 Mitarbeitern weltweit freiwillige Abfindungsprogramme an",
+     "channel": "AGENCIA EFE",
+     "views": 77,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 39
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Pj3a-dy5kE4",
+     "url": "https://www.youtube.com/watch?v=Pj3a-dy5kE4",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
+     "channel": "B.C. Begley",
+     "views": 5,
+     "age_hours": 2,
+     "relevance": 0.83,
+     "velocity": 3
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-26T22:17:19.864Z"
+   "searched_at": "2026-10-27T04:19:33.371Z"
   },
   {
    "first_seen": "2026-10-26T19:41:04.975Z",
@@ -1027,7 +1059,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-26 17:50:15",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -1131,7 +1163,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-10-26 16:40:51",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "hn",
