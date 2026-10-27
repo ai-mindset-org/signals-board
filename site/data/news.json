@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T04:19:25.738Z",
+ "generated_at": "2026-10-27T04:45:46.539Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: 60.000 Mitarbeitern Abfindungen",
+   "source": "youtube: Tata Communications To Pour Up To 450 Mn In Build",
    "ok": true
   },
   {
-   "source": "tiktok: 60.000 Mitarbeitern Abfindungen",
+   "source": "tiktok: Tata Communications To Pour Up To 450 Mn In Build",
    "ok": true
   },
   {
-   "source": "youtube: ki-kosten microsoft 60.000 mitarbeitern",
+   "source": "youtube: tata communications pour up",
    "ok": true
   },
   {
-   "source": "tiktok: ki-kosten microsoft 60.000 mitarbeitern",
+   "source": "tiktok: tata communications pour up",
    "ok": true
   }
  ],
@@ -38,7 +38,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-26 14:35:22",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 93,
    "related_news": [
     {
      "source_id": "engadget",
@@ -1194,7 +1194,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-10-26 13:20:08",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1354,12 +1354,25 @@
     "Tata Communications To Pour Up To 450 Mn In Build",
     "tata communications pour up"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1PdAC0qKK4Q",
+     "url": "https://www.youtube.com/shorts/1PdAC0qKK4Q",
+     "title": "Tata Communications Commits $450 Million to Build AI Super Highway Across India #shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T22:42:26.344Z"
+   "searched_at": "2026-10-27T04:45:54.114Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
