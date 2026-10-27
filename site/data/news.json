@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:24:47.708Z",
+ "generated_at": "2026-10-27T20:49:50.490Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Cohere Says Alibaba’s Qwen",
+   "source": "youtube: M6 MacBook Pro",
    "ok": true
   },
   {
-   "source": "tiktok: Cohere Says Alibaba’s Qwen",
+   "source": "tiktok: M6 MacBook Pro",
    "ok": true
   },
   {
-   "source": "youtube: cohere alibaba qwen tried",
+   "source": "youtube: apple m6 macbook pro",
    "ok": true
   },
   {
-   "source": "tiktok: cohere alibaba qwen tried",
+   "source": "tiktok: apple m6 macbook pro",
    "ok": true
   }
  ],
@@ -328,7 +328,8 @@
     "39437238",
     "39425820",
     "39418793",
-    "39446052"
+    "39446052",
+    "39449837"
    ],
    "title": "It Appears That the AI Bubble Has Just Burst in China",
    "url": "https://futurism.com/artificial-intelligence/ai-bubble-burst-china",
@@ -341,6 +342,11 @@
      "source_id": "in-express-tech",
      "title": "In China, the AI bubble has already burst",
      "url": "https://indianexpress.com/article/technology/tech-news-technology/in-china-the-ai-bubble-has-already-burst-10938963/"
+    },
+    {
+     "source_id": "hn",
+     "title": "In China, the AI bubble has burst",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html"
     },
     {
      "source_id": "hn",
@@ -936,77 +942,77 @@
      "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
      "title": "The new 14” MacBook Pro with M6",
      "channel": "Apple",
-     "views": 153145,
-     "age_hours": 1,
+     "views": 1281096,
+     "age_hours": 7,
      "relevance": 0.75,
-     "velocity": 153145
+     "velocity": 183014
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:iY4R1h8CtNs",
-     "url": "https://www.youtube.com/watch?v=iY4R1h8CtNs",
-     "title": "NEW M6 MACBOOK PRO AND M6 IMAC: WHAT’S CHANGED, WHAT’S NEW",
-     "channel": "Giulio Brotini",
-     "views": 882,
-     "age_hours": 1,
-     "relevance": 0.8,
-     "velocity": 882
+     "id": "youtube:0qRwIqtO3Bo",
+     "url": "https://www.youtube.com/watch?v=0qRwIqtO3Bo",
+     "title": "Apple Just Announced the M6 iMac & MacBook Pro! | What's New?",
+     "channel": "9to5Mac",
+     "views": 97029,
+     "age_hours": 6,
+     "relevance": 0.83,
+     "velocity": 16172
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:tTUEpW351V0",
-     "url": "https://www.youtube.com/watch?v=tTUEpW351V0",
-     "title": "Why The M6 MacBook Pro Might Be A Skip This Year?",
-     "channel": "Infinkey Infopedia",
-     "views": 6390,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 266
+     "id": "youtube:bLvVskwoCDk",
+     "url": "https://www.youtube.com/watch?v=bLvVskwoCDk",
+     "title": "New M6 MacBook Pro is HERE (..it's a Beast!)",
+     "channel": "Max Tech",
+     "views": 27083,
+     "age_hours": 3,
+     "relevance": 0.6,
+     "velocity": 9028
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:BLg9q88BHAU",
-     "url": "https://www.youtube.com/watch?v=BLg9q88BHAU",
-     "title": "M6 MacBook Pro LEAKED — Apple’s Biggest MacBook Upgrade Yet",
-     "channel": "Tech Town",
-     "views": 3043,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 127
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JwWM6smkL3w",
-     "url": "https://www.youtube.com/watch?v=JwWM6smkL3w",
-     "title": "The new 14” MacBook Pro with M6",
-     "channel": "Apple UK",
-     "views": 79,
-     "age_hours": 0.4,
-     "relevance": 0.75,
-     "velocity": 79
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:t8OweaSrirA",
-     "url": "https://www.youtube.com/shorts/t8OweaSrirA",
-     "title": "M6 MacBook Pro, but No M6 Pro? What Apple Reportedly Skips",
-     "channel": "",
-     "views": 1700,
-     "age_hours": null,
+     "id": "youtube:3lKQgcfYBYo",
+     "url": "https://www.youtube.com/watch?v=3lKQgcfYBYo",
+     "title": "M6 MacBook Pro & iMac Are Here — Should You Upgrade?",
+     "channel": "MacRumors",
+     "views": 42527,
+     "age_hours": 5,
      "relevance": 0.57,
-     "velocity": null
+     "velocity": 8505
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ul9sPNxddhg",
+     "url": "https://www.youtube.com/watch?v=ul9sPNxddhg",
+     "title": "Apple Didn't Mention THESE M6 iMac & MacBook Pro Details!",
+     "channel": "9to5Mac",
+     "views": 15370,
+     "age_hours": 4,
+     "relevance": 0.63,
+     "velocity": 3843
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OZoRQ6-l2-U",
+     "url": "https://www.youtube.com/watch?v=OZoRQ6-l2-U",
+     "title": "M6 iMac and M6 MacBook Pro: Better Inside, Same Catches",
+     "channel": "Adam Talks Tech",
+     "views": 9148,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1830
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T14:47:08.080Z"
+   "searched_at": "2026-10-27T20:49:59.124Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
