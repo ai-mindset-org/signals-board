@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T00:45:14.089Z",
+ "generated_at": "2026-10-27T02:01:35.306Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: Launches GPT 6.1 TERRA",
+   "source": "youtube: reddit opensource bans ai",
    "ok": true
   },
   {
-   "source": "tiktok: Launches GPT 6.1 TERRA",
+   "source": "tiktok: reddit opensource bans ai",
    "ok": true
   },
   {
-   "source": "youtube: launches gpt 6.1 terra",
+   "source": "youtube: Elvis Presley’s",
    "ok": true
   },
   {
-   "source": "tiktok: launches gpt 6.1 terra",
+   "source": "tiktok: Elvis Presley’s",
+   "ok": true
+  },
+  {
+   "source": "youtube: elvis presley anthropic 274",
+   "ok": true
+  },
+  {
+   "source": "tiktok: elvis presley anthropic 274",
    "ok": true
   }
  ],
@@ -38,7 +46,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-26 14:35:22",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "engadget",
@@ -228,6 +236,116 @@
    "searched_at": "2026-10-25T05:40:57.685Z"
   },
   {
+   "first_seen": "2026-10-26T18:27:30.783Z",
+   "id": "39422180",
+   "ids": [
+    "39422180",
+    "39421829",
+    "39421726"
+   ],
+   "title": "openAI Launches GPT 6.1 TERRA",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-26 18:09:42",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-6.1 Terra",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+    },
+    {
+     "source_id": "hn",
+     "title": "GPT 6.1 Terra",
+     "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra"
+    }
+   ],
+   "queries": [
+    "Launches GPT 6.1 TERRA",
+    "launches gpt 6.1 terra"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IhpOdbPEsdw",
+     "url": "https://www.youtube.com/watch?v=IhpOdbPEsdw",
+     "title": "GPT 6.1 Terra vs GPT 6 Astra: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 12,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xYz3dUqdjwA",
+     "url": "https://www.youtube.com/watch?v=xYz3dUqdjwA",
+     "title": "GPT 6.1 Terra vs Claude Opus 5.5: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 8,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cuRujdZEBrY",
+     "url": "https://www.youtube.com/shorts/cuRujdZEBrY",
+     "title": "Use GPT 6.1 Terra For Everyday Work, It Is Over 3 Times Faster Than Sol At Half The Price",
+     "channel": "",
+     "views": 192,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FCcN980zkj0",
+     "url": "https://www.youtube.com/watch?v=FCcN980zkj0",
+     "title": "GPT 6.1 Terra vs Qwen 3.8 Max: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 3,
+     "age_hours": 0.7333333333333333,
+     "relevance": 0.6,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pyQrA0etpSE",
+     "url": "https://www.youtube.com/shorts/pyQrA0etpSE",
+     "title": "OpenAI Launches GPT-6.1 Terra for Workflow Automation",
+     "channel": "",
+     "views": 102,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rqJvc3z0lmw",
+     "url": "https://www.youtube.com/shorts/rqJvc3z0lmw",
+     "title": "OpenAI Launches GPT-6.1 Terra: Cheaper Computer-Use Model #AI #OpenAI #ChatGPT",
+     "channel": "",
+     "views": 26,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T00:45:22.116Z"
+  },
+  {
    "first_seen": "2026-10-24T16:16:00.002Z",
    "id": "39386166",
    "ids": [
@@ -332,116 +450,6 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
-   "first_seen": "2026-10-26T18:27:30.783Z",
-   "id": "39422180",
-   "ids": [
-    "39422180",
-    "39421829",
-    "39421726"
-   ],
-   "title": "openAI Launches GPT 6.1 TERRA",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-26 18:09:42",
-   "story_sources": 2,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT-6.1 Terra",
-     "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
-    },
-    {
-     "source_id": "hn",
-     "title": "GPT 6.1 Terra",
-     "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra"
-    }
-   ],
-   "queries": [
-    "Launches GPT 6.1 TERRA",
-    "launches gpt 6.1 terra"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IhpOdbPEsdw",
-     "url": "https://www.youtube.com/watch?v=IhpOdbPEsdw",
-     "title": "GPT 6.1 Terra vs GPT 6 Astra: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 12,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xYz3dUqdjwA",
-     "url": "https://www.youtube.com/watch?v=xYz3dUqdjwA",
-     "title": "GPT 6.1 Terra vs Claude Opus 5.5: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 8,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cuRujdZEBrY",
-     "url": "https://www.youtube.com/shorts/cuRujdZEBrY",
-     "title": "Use GPT 6.1 Terra For Everyday Work, It Is Over 3 Times Faster Than Sol At Half The Price",
-     "channel": "",
-     "views": 192,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FCcN980zkj0",
-     "url": "https://www.youtube.com/watch?v=FCcN980zkj0",
-     "title": "GPT 6.1 Terra vs Qwen 3.8 Max: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 3,
-     "age_hours": 0.7333333333333333,
-     "relevance": 0.6,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pyQrA0etpSE",
-     "url": "https://www.youtube.com/shorts/pyQrA0etpSE",
-     "title": "OpenAI Launches GPT-6.1 Terra for Workflow Automation",
-     "channel": "",
-     "views": 102,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rqJvc3z0lmw",
-     "url": "https://www.youtube.com/shorts/rqJvc3z0lmw",
-     "title": "OpenAI Launches GPT-6.1 Terra: Cheaper Computer-Use Model #AI #OpenAI #ChatGPT",
-     "channel": "",
-     "views": 26,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T00:45:22.116Z"
-  },
-  {
    "first_seen": "2026-10-26T17:41:12.710Z",
    "id": "39419033",
    "ids": [
@@ -453,7 +461,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-10-26 13:22:09",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -627,13 +635,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:5eIuMjwFONU",
-     "url": "https://www.youtube.com/shorts/5eIuMjwFONU",
-     "title": "🔥 Reddit's r/opensource Forum Bans All AI Projects #AINews",
+     "id": "youtube:aEjADUe9pzg",
+     "url": "https://www.youtube.com/shorts/aEjADUe9pzg",
+     "title": "Reddit's r/opensource bans AI projects, and solo devs get hit #shorts",
      "channel": "",
-     "views": 43,
+     "views": 35,
      "age_hours": null,
      "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YyjjNeuvRTA",
+     "url": "https://www.youtube.com/shorts/YyjjNeuvRTA",
+     "title": "Reddit's r/opensource bans AI projects and non-English speakers #tech",
+     "channel": "",
+     "views": 34,
+     "age_hours": null,
+     "relevance": 0.88,
      "velocity": null
     },
     {
@@ -643,52 +663,19 @@
      "url": "https://www.youtube.com/shorts/SOpjcCuOq50",
      "title": "Reddit r/opensource Bans AI Projects: Even Linux at Risk?",
      "channel": "",
-     "views": 15,
+     "views": 16,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T19:41:08.975Z"
-  },
-  {
-   "first_seen": "2026-10-26T13:51:30.960Z",
-   "id": "39415040",
-   "ids": [
-    "39415040",
-    "39412643",
-    "39423296"
-   ],
-   "title": "Elvis Presley’s music owners sue Anthropic over 274 songs used by Claude",
-   "url": "https://thenextweb.com/news/elvis-presley-anthropic-lawsuit-274-songs-claude",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-26 17:50:15",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
-     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
-    }
-   ],
-   "queries": [
-    "Elvis Presley’s",
-    "elvis presley anthropic 274"
-   ],
-   "videos": [
+    },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:KeigEN5fBE4",
-     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
-     "title": "ELVIS PRESLEY — FOREVER THE KING",
+     "id": "youtube:84ICkCgACGM",
+     "url": "https://www.youtube.com/shorts/84ICkCgACGM",
+     "title": "Reddit Moderators Just BANNED AI And More",
      "channel": "",
-     "views": 7700,
+     "views": 3,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -696,69 +683,21 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Ol2UfkFxfAw",
-     "url": "https://www.youtube.com/shorts/Ol2UfkFxfAw",
-     "title": "Elvis Presley's Music Owners Sue Anthropic Over AI #shorts",
+     "id": "youtube:bIRV2HxU5nc",
+     "url": "https://www.youtube.com/shorts/bIRV2HxU5nc",
+     "title": "Reddit’s r/opensource bans AI projects and non-English speakers",
      "channel": "",
-     "views": 660,
+     "views": 1,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 1,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tm6CzUTk7Qw",
-     "url": "https://www.youtube.com/shorts/tm6CzUTk7Qw",
-     "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-     "channel": "",
-     "views": 167,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mSDUsaDvuo4",
-     "url": "https://www.youtube.com/shorts/mSDUsaDvuo4",
-     "title": "Anthropic Sued Over 274 Elvis Presley Songs 🎶",
-     "channel": "",
-     "views": 86,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7C8PoLYg44Q",
-     "url": "https://www.youtube.com/shorts/7C8PoLYg44Q",
-     "title": "Elvis Presley Rights Holders Sue Anthropic Over 274 Songs",
-     "channel": "",
-     "views": 40,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:kg3kx7DhnOM",
-     "url": "https://www.youtube.com/watch?v=kg3kx7DhnOM",
-     "title": "Elvis Presley's Estate Sues Anthropic Over 274 Song",
-     "channel": "News Rush",
-     "views": 7,
-     "age_hours": 10,
-     "relevance": 0.57,
-     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T19:51:48.608Z"
+   "searched_at": "2026-10-27T02:01:39.491Z"
   },
   {
    "first_seen": "2026-10-26T15:40:41.349Z",
@@ -772,7 +711,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-10-26 14:21:51",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -865,6 +804,142 @@
    "searched_at": "2026-10-26T21:41:32.617Z"
   },
   {
+   "first_seen": "2026-10-26T13:51:30.960Z",
+   "id": "39415040",
+   "ids": [
+    "39415040",
+    "39412643",
+    "39423296"
+   ],
+   "title": "Elvis Presley’s music owners sue Anthropic over 274 songs used by Claude",
+   "url": "https://thenextweb.com/news/elvis-presley-anthropic-lawsuit-274-songs-claude",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-26 17:50:15",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
+    }
+   ],
+   "queries": [
+    "Elvis Presley’s",
+    "elvis presley anthropic 274"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:K9wOe0MKKhQ",
+     "url": "https://www.youtube.com/watch?v=K9wOe0MKKhQ",
+     "title": "Elvis's heirs sue Anthropic for using 274 songs without permission | RTVE News",
+     "channel": "RTVE Noticias",
+     "views": 9364,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 1561
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mUAvUFIsE3Q",
+     "url": "https://www.youtube.com/watch?v=mUAvUFIsE3Q",
+     "title": "Elvis Presley's music owners sue AI company Anthropic over copyright",
+     "channel": "WREG News Channel 3",
+     "views": 742,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 371
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KeigEN5fBE4",
+     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
+     "title": "ELVIS PRESLEY — FOREVER THE KING",
+     "channel": "",
+     "views": 7800,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ol2UfkFxfAw",
+     "url": "https://www.youtube.com/shorts/Ol2UfkFxfAw",
+     "title": "Elvis Presley's Music Owners Sue Anthropic Over AI #shorts",
+     "channel": "",
+     "views": 783,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tm6CzUTk7Qw",
+     "url": "https://www.youtube.com/shorts/tm6CzUTk7Qw",
+     "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+     "channel": "",
+     "views": 168,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:LD6k0tcL3_o",
+     "url": "https://www.youtube.com/shorts/LD6k0tcL3_o",
+     "title": "Elvis Presley rights holders sue Anthropic over 274 songs",
+     "channel": "",
+     "views": 109,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T02:01:47.076Z"
+  },
+  {
+   "first_seen": "2026-10-26T21:41:24.418Z",
+   "id": "39425727",
+   "ids": [
+    "39425727",
+    "39419402"
+   ],
+   "title": "Smuggling WebMCP into ChatGPT",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xg217w/smuggling_webmcp_into_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-26 16:40:51",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Smuggling WebMCP into ChatGPT",
+     "url": "https://blog.danielbrain.ai/smuggling-webmcp-into-chatgpt"
+    }
+   ],
+   "queries": [
+    "Smuggling WebMCP",
+    "smuggling webmcp chatgpt"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T21:41:39.368Z"
+  },
+  {
    "first_seen": "2026-10-25T23:14:07.761Z",
    "id": "39406357",
    "ids": [
@@ -919,37 +994,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T11:45:59.605Z"
-  },
-  {
-   "first_seen": "2026-10-26T21:41:24.418Z",
-   "id": "39425727",
-   "ids": [
-    "39425727",
-    "39419402"
-   ],
-   "title": "Smuggling WebMCP into ChatGPT",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xg217w/smuggling_webmcp_into_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-26 16:40:51",
-   "story_sources": 2,
-   "score_norm": 64,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Smuggling WebMCP into ChatGPT",
-     "url": "https://blog.danielbrain.ai/smuggling-webmcp-into-chatgpt"
-    }
-   ],
-   "queries": [
-    "Smuggling WebMCP",
-    "smuggling webmcp chatgpt"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T21:41:39.368Z"
   },
   {
    "first_seen": "2026-10-26T15:05:05.711Z",
