@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:17:06.414Z",
+ "generated_at": "2026-10-27T16:49:57.324Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,60 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: bitcoin luxor 16 mining",
+   "ok": true
+  },
+  {
+   "source": "tiktok: bitcoin luxor 16 mining",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-10-27T16:49:57.324Z",
+   "id": "39444046",
+   "ids": [
+    "39444046",
+    "39440016"
+   ],
+   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-10-27 14:32:08",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "crypto-decrypt",
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
+    }
+   ],
+   "queries": [
+    "bitcoin luxor 16 mining"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lfFG3BU8Luc",
+     "url": "https://www.youtube.com/shorts/lfFG3BU8Luc",
+     "title": "Your Heater Could Be Mining Bitcoin",
+     "channel": "",
+     "views": 189,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T16:50:01.426Z"
+  },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
    "id": "39433985",
@@ -22,7 +74,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-10-27 09:15:58",
    "story_sources": 3,
-   "score_norm": 100,
+   "score_norm": 98,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -134,7 +186,7 @@
    "source_id": "simonw",
    "published_ts": "2026-10-26 23:53:07",
    "story_sources": 3,
-   "score_norm": 99,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "x-reddit",
@@ -267,110 +319,6 @@
    "searched_at": "2026-10-26T11:45:45.415Z"
   },
   {
-   "first_seen": "2026-10-27T14:46:59.677Z",
-   "id": "39441053",
-   "ids": [
-    "39441053",
-    "39441043"
-   ],
-   "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
-   "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-10-27 14:16:20",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
-     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
-    }
-   ],
-   "queries": [
-    "M6 MacBook Pro",
-    "apple m6 macbook pro"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xWfNhWn88Bc",
-     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
-     "title": "The new 14” MacBook Pro with M6",
-     "channel": "Apple",
-     "views": 153145,
-     "age_hours": 1,
-     "relevance": 0.75,
-     "velocity": 153145
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:iY4R1h8CtNs",
-     "url": "https://www.youtube.com/watch?v=iY4R1h8CtNs",
-     "title": "NEW M6 MACBOOK PRO AND M6 IMAC: WHAT’S CHANGED, WHAT’S NEW",
-     "channel": "Giulio Brotini",
-     "views": 882,
-     "age_hours": 1,
-     "relevance": 0.8,
-     "velocity": 882
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tTUEpW351V0",
-     "url": "https://www.youtube.com/watch?v=tTUEpW351V0",
-     "title": "Why The M6 MacBook Pro Might Be A Skip This Year?",
-     "channel": "Infinkey Infopedia",
-     "views": 6390,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 266
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:BLg9q88BHAU",
-     "url": "https://www.youtube.com/watch?v=BLg9q88BHAU",
-     "title": "M6 MacBook Pro LEAKED — Apple’s Biggest MacBook Upgrade Yet",
-     "channel": "Tech Town",
-     "views": 3043,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 127
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JwWM6smkL3w",
-     "url": "https://www.youtube.com/watch?v=JwWM6smkL3w",
-     "title": "The new 14” MacBook Pro with M6",
-     "channel": "Apple UK",
-     "views": 79,
-     "age_hours": 0.4,
-     "relevance": 0.75,
-     "velocity": 79
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:t8OweaSrirA",
-     "url": "https://www.youtube.com/shorts/t8OweaSrirA",
-     "title": "M6 MacBook Pro, but No M6 Pro? What Apple Reportedly Skips",
-     "channel": "",
-     "views": 1700,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T14:47:08.080Z"
-  },
-  {
    "first_seen": "2026-10-24T23:25:28.636Z",
    "id": "39391609",
    "ids": [
@@ -475,59 +423,108 @@
    "searched_at": "2026-10-25T05:40:57.685Z"
   },
   {
-   "first_seen": "2026-10-27T13:22:36.433Z",
-   "id": "39431659",
+   "first_seen": "2026-10-27T14:46:59.677Z",
+   "id": "39441053",
    "ids": [
-    "39431659",
-    "39439365"
+    "39441053",
+    "39441043"
    ],
-   "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-27 03:57:56",
+   "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
+   "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-10-27 14:16:20",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 80,
    "related_news": [
     {
-     "source_id": "engadget",
-     "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
-     "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
+     "source_id": "hn",
+     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
+     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
     }
    ],
    "queries": [
-    "openai announces three discoveries"
+    "M6 MacBook Pro",
+    "apple m6 macbook pro"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oE5qTfdTvos",
-     "url": "https://www.youtube.com/shorts/oE5qTfdTvos",
-     "title": "OpenAI claims 3 discoveries #Shorts",
-     "channel": "",
-     "views": 40,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:xWfNhWn88Bc",
+     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
+     "title": "The new 14” MacBook Pro with M6",
+     "channel": "Apple",
+     "views": 153145,
+     "age_hours": 1,
+     "relevance": 0.75,
+     "velocity": 153145
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iY4R1h8CtNs",
+     "url": "https://www.youtube.com/watch?v=iY4R1h8CtNs",
+     "title": "NEW M6 MACBOOK PRO AND M6 IMAC: WHAT’S CHANGED, WHAT’S NEW",
+     "channel": "Giulio Brotini",
+     "views": 882,
+     "age_hours": 1,
+     "relevance": 0.8,
+     "velocity": 882
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tTUEpW351V0",
+     "url": "https://www.youtube.com/watch?v=tTUEpW351V0",
+     "title": "Why The M6 MacBook Pro Might Be A Skip This Year?",
+     "channel": "Infinkey Infopedia",
+     "views": 6390,
+     "age_hours": 24,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 266
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BLg9q88BHAU",
+     "url": "https://www.youtube.com/watch?v=BLg9q88BHAU",
+     "title": "M6 MacBook Pro LEAKED — Apple’s Biggest MacBook Upgrade Yet",
+     "channel": "Tech Town",
+     "views": 3043,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 127
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JwWM6smkL3w",
+     "url": "https://www.youtube.com/watch?v=JwWM6smkL3w",
+     "title": "The new 14” MacBook Pro with M6",
+     "channel": "Apple UK",
+     "views": 79,
+     "age_hours": 0.4,
+     "relevance": 0.75,
+     "velocity": 79
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:tPiODvm1E_Q",
-     "url": "https://www.youtube.com/shorts/tPiODvm1E_Q",
-     "title": "OPENAI CLAIMS THREE SCIENCE DISCOVERIES. PROOFS UNDER REVIEW.",
+     "id": "youtube:t8OweaSrirA",
+     "url": "https://www.youtube.com/shorts/t8OweaSrirA",
+     "title": "M6 MacBook Pro, but No M6 Pro? What Apple Reportedly Skips",
      "channel": "",
-     "views": 1,
+     "views": 1700,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T13:22:48.656Z"
+   "searched_at": "2026-10-27T14:47:08.080Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
@@ -631,6 +628,61 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T11:54:48.983Z"
+  },
+  {
+   "first_seen": "2026-10-27T13:22:36.433Z",
+   "id": "39431659",
+   "ids": [
+    "39431659",
+    "39439365"
+   ],
+   "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-27 03:57:56",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+     "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
+    }
+   ],
+   "queries": [
+    "openai announces three discoveries"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:oE5qTfdTvos",
+     "url": "https://www.youtube.com/shorts/oE5qTfdTvos",
+     "title": "OpenAI claims 3 discoveries #Shorts",
+     "channel": "",
+     "views": 40,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tPiODvm1E_Q",
+     "url": "https://www.youtube.com/shorts/tPiODvm1E_Q",
+     "title": "OPENAI CLAIMS THREE SCIENCE DISCOVERIES. PROOFS UNDER REVIEW.",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T13:22:48.656Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -769,6 +821,86 @@
    "searched_at": "2026-10-26T11:45:59.605Z"
   },
   {
+   "first_seen": "2026-10-26T05:19:28.291Z",
+   "id": "39409964",
+   "ids": [
+    "39409964",
+    "39409862"
+   ],
+   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-26 03:13:29",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
+    }
+   ],
+   "queries": [
+    "Anthropic's Claude",
+    "anthropic claude georgia axios"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lZAWmvVbtok",
+     "url": "https://www.youtube.com/watch?v=lZAWmvVbtok",
+     "title": "Reuters: Anthropic Says Claude Bypassed a Georgia PAYWALL",
+     "channel": "Alignment Addict",
+     "views": 17,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:S6DHCamDzIc",
+     "url": "https://www.youtube.com/watch?v=S6DHCamDzIc",
+     "title": "Anthropic Says Claude Skipped a Fee to Get Georgia Vote Counts",
+     "channel": "Unified Memory",
+     "views": 11,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XHmVz1ekuWI",
+     "url": "https://www.youtube.com/watch?v=XHmVz1ekuWI",
+     "title": "Claude Bypassed Georgia Vote Paywall",
+     "channel": "The System Prompt",
+     "views": 3,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5FQeuKSzWmQ",
+     "url": "https://www.youtube.com/watch?v=5FQeuKSzWmQ",
+     "title": "Claude Slipped Past a Paywall for Georgia Vote Data #Shorts",
+     "channel": "The AI Rollout",
+     "views": 0,
+     "age_hours": 0.75,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T11:45:52.437Z"
+  },
+  {
    "first_seen": "2026-10-27T11:18:45.828Z",
    "id": "39437238",
    "ids": [
@@ -781,7 +913,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-10-27 10:33:34",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "hn",
@@ -872,86 +1004,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T11:18:53.844Z"
-  },
-  {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409964",
-   "ids": [
-    "39409964",
-    "39409862"
-   ],
-   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 03:13:29",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
-     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
-    }
-   ],
-   "queries": [
-    "Anthropic's Claude",
-    "anthropic claude georgia axios"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lZAWmvVbtok",
-     "url": "https://www.youtube.com/watch?v=lZAWmvVbtok",
-     "title": "Reuters: Anthropic Says Claude Bypassed a Georgia PAYWALL",
-     "channel": "Alignment Addict",
-     "views": 17,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:S6DHCamDzIc",
-     "url": "https://www.youtube.com/watch?v=S6DHCamDzIc",
-     "title": "Anthropic Says Claude Skipped a Fee to Get Georgia Vote Counts",
-     "channel": "Unified Memory",
-     "views": 11,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XHmVz1ekuWI",
-     "url": "https://www.youtube.com/watch?v=XHmVz1ekuWI",
-     "title": "Claude Bypassed Georgia Vote Paywall",
-     "channel": "The System Prompt",
-     "views": 3,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5FQeuKSzWmQ",
-     "url": "https://www.youtube.com/watch?v=5FQeuKSzWmQ",
-     "title": "Claude Slipped Past a Paywall for Georgia Vote Data #Shorts",
-     "channel": "The AI Rollout",
-     "views": 0,
-     "age_hours": 0.75,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T11:45:52.437Z"
   },
   {
    "first_seen": "2026-10-26T10:31:55.367Z",
