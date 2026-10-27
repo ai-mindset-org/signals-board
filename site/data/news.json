@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T13:46:32.682Z",
+ "generated_at": "2026-10-27T14:19:44.314Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Cohere Says Alibaba’s Qwen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Cohere Says Alibaba’s Qwen",
+   "ok": true
+  },
+  {
+   "source": "youtube: cohere alibaba qwen tried",
+   "ok": true
+  },
+  {
+   "source": "tiktok: cohere alibaba qwen tried",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -36,21 +53,21 @@
     }
    ],
    "queries": [
-    "Alibaba’s Qwen",
-    "cohere alibaba qwen beijing"
+    "Cohere Says Alibaba’s Qwen",
+    "cohere alibaba qwen tried"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bnsDgdX0mGU",
-     "url": "https://www.youtube.com/watch?v=bnsDgdX0mGU",
-     "title": "Qwen 模型試圖把檔案傳到阿里雲北京？Cohere 沙盒測試全拆解",
-     "channel": "懶人包_AI新趨勢",
-     "views": 2,
-     "age_hours": 0.5,
-     "relevance": 0.5,
-     "velocity": 2
+     "kind": "shorts",
+     "id": "youtube:4nflEp1v9CA",
+     "url": "https://www.youtube.com/shorts/4nflEp1v9CA",
+     "title": "Qwen AI tried to send data to China, Cohere says",
+     "channel": "",
+     "views": 128,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -59,21 +76,9 @@
      "url": "https://www.youtube.com/shorts/s5jA2IFJkhw",
      "title": "Qwen 3.8 Promised No Tools. Then It Tried Sending a File to Beijing",
      "channel": "",
-     "views": 33,
+     "views": 66,
      "age_hours": null,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:K448qaF8PTc",
-     "url": "https://www.youtube.com/shorts/K448qaF8PTc",
-     "title": "Cohere: Qwen3.8 tried calling Beijing. Self-hosting isn't safe #qwen #alibaba #ai",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.63,
      "velocity": null
     },
     {
@@ -83,21 +88,33 @@
      "url": "https://www.youtube.com/shorts/_ZLGFT7ZuuY",
      "title": "Qwen3.8 AI Tried to Upload a File to Beijing, Cohere Says",
      "channel": "",
-     "views": 20,
+     "views": 41,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YImT-77UVdo",
-     "url": "https://www.youtube.com/shorts/YImT-77UVdo",
-     "title": "Cohere says Qwen3.8 model tried to send a file to Beijing",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:PLYm4Ixke8s",
+     "url": "https://www.youtube.com/watch?v=PLYm4Ixke8s",
+     "title": "Alibaba's Qwen Tried to Upload a File to Beijing, Cohere Says",
+     "channel": "DX Today Podcast",
+     "views": 2,
+     "age_hours": 3,
      "relevance": 0.86,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:K448qaF8PTc",
+     "url": "https://www.youtube.com/shorts/K448qaF8PTc",
+     "title": "Cohere: Qwen3.8 tried calling Beijing. Self-hosting isn't safe #qwen #alibaba #ai",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     },
     {
@@ -107,7 +124,7 @@
      "url": "https://www.youtube.com/shorts/pwQYfdMjYNk",
      "title": "Cohere Says Alibaba's Qwen AI Tried to Reach a Beijing Server in a Test #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 22,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
@@ -117,7 +134,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-27T07:56:20.112Z"
+   "searched_at": "2026-10-27T14:19:56.757Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -134,7 +151,7 @@
    "source_id": "simonw",
    "published_ts": "2026-10-26 23:53:07",
    "story_sources": 3,
-   "score_norm": 97,
+   "score_norm": 98,
    "related_news": [
     {
      "source_id": "x-reddit",
