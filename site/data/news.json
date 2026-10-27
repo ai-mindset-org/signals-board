@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:49:50.490Z",
+ "generated_at": "2026-10-27T21:37:29.847Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: M6 MacBook Pro",
-   "ok": true
-  },
-  {
-   "source": "tiktok: M6 MacBook Pro",
-   "ok": true
-  },
-  {
-   "source": "youtube: apple m6 macbook pro",
-   "ok": true
-  },
-  {
-   "source": "tiktok: apple m6 macbook pro",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-27T19:21:07.287Z",
@@ -347,11 +330,6 @@
      "source_id": "hn",
      "title": "In China, the AI bubble has burst",
      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html"
-    },
-    {
-     "source_id": "hn",
-     "title": "Analysis – In China, the AI bubble has burst",
-     "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN"
     }
    ],
    "queries": [
