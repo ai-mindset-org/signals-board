@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:15:27.826Z",
+ "generated_at": "2026-10-27T19:21:07.287Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,67 @@
  },
  "search_report": [
   {
-   "source": "youtube: Bubble Has Just Burst",
+   "source": "youtube: UK Home Office May Face Investigation Over Use",
    "ok": true
   },
   {
-   "source": "tiktok: Bubble Has Just Burst",
+   "source": "tiktok: UK Home Office May Face Investigation Over Use",
    "ok": true
   },
   {
-   "source": "youtube: appears bubble burst china",
+   "source": "youtube: uk home office may",
    "ok": true
   },
   {
-   "source": "tiktok: appears bubble burst china",
+   "source": "tiktok: uk home office may",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-10-27T19:21:07.287Z",
+   "id": "39442175",
+   "ids": [
+    "39442175",
+    "39447749"
+   ],
+   "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+   "source_id": "wired",
+   "published_ts": "2026-10-27 15:10:26",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xgvr62/uk_home_office_may_face_investigation_over_use_of/"
+    }
+   ],
+   "queries": [
+    "UK Home Office May Face Investigation Over Use",
+    "uk home office may"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QUSPbO2wtQ4",
+     "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
+     "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
+     "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
+     "views": 31,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 8
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T19:21:15.888Z"
+  },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
    "id": "39422180",
@@ -142,270 +186,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T13:22:45.058Z"
-  },
-  {
-   "first_seen": "2026-10-27T11:18:45.828Z",
-   "id": "39437238",
-   "ids": [
-    "39437238",
-    "39425820",
-    "39418793",
-    "39446052"
-   ],
-   "title": "It Appears That the AI Bubble Has Just Burst in China",
-   "url": "https://futurism.com/artificial-intelligence/ai-bubble-burst-china",
-   "source_id": "futurism-ai",
-   "published_ts": "2026-10-27 14:57:47",
-   "story_sources": 3,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "In China, the AI bubble has already burst",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/in-china-the-ai-bubble-has-already-burst-10938963/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Analysis – In China, the AI bubble has burst",
-     "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN"
-    }
-   ],
-   "queries": [
-    "Bubble Has Just Burst",
-    "appears bubble burst china"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:uU2WeAX2w8g",
-     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
-     "title": "In China, the AI bubble has already burst",
-     "channel": "Reuters",
-     "views": 105291,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 15042
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tWv-_0_s42o",
-     "url": "https://www.youtube.com/watch?v=tWv-_0_s42o",
-     "title": "फूट गया Ai Bubble | China Market Crash: चीन में मचा हाहाकार, 45% टूट गया बाज़ार | STAR 50 Drops 40%",
-     "channel": "Stock Market का Commando",
-     "views": 6536,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 6536
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:d-DcNKEpd58",
-     "url": "https://www.youtube.com/watch?v=d-DcNKEpd58",
-     "title": "China AI bubble has just burst! US next?",
-     "channel": "1M65",
-     "views": 43167,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 6167
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LhkuNV1RGfI",
-     "url": "https://www.youtube.com/watch?v=LhkuNV1RGfI",
-     "title": "China's AI Bubble Has Burst. Who Will Pay The Price? | The Palki Sharma Show | IGR",
-     "channel": "India Global Review",
-     "views": 5469,
-     "age_hours": 1,
-     "relevance": 0.8,
-     "velocity": 5469
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:w6RyLJmNPHE",
-     "url": "https://www.youtube.com/watch?v=w6RyLJmNPHE",
-     "title": "Has China's AI Stock Bubble Finally Burst? $480 Billion Wipeout Puts Tech Valuations Under Scrutiny",
-     "channel": "Mint",
-     "views": 3214,
-     "age_hours": 2,
-     "relevance": 0.8,
-     "velocity": 1607
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CjquP0fupG4",
-     "url": "https://www.youtube.com/watch?v=CjquP0fupG4",
-     "title": "AI Bubble Burst? Bitcoin to Zero? Hedge Funds Wrecked? Sounds Like a Bottom is Near",
-     "channel": "Jordi Visser",
-     "views": 45702,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 952
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T18:15:35.856Z"
-  },
-  {
-   "first_seen": "2026-10-27T16:49:57.324Z",
-   "id": "39444046",
-   "ids": [
-    "39444046",
-    "39440016"
-   ],
-   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-10-27 14:32:08",
-   "story_sources": 2,
-   "score_norm": 89,
-   "related_news": [
-    {
-     "source_id": "crypto-decrypt",
-     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
-    }
-   ],
-   "queries": [
-    "bitcoin luxor 16 mining"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lfFG3BU8Luc",
-     "url": "https://www.youtube.com/shorts/lfFG3BU8Luc",
-     "title": "Your Heater Could Be Mining Bitcoin",
-     "channel": "",
-     "views": 189,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T16:50:01.426Z"
-  },
-  {
-   "first_seen": "2026-10-27T07:56:12.221Z",
-   "id": "39433985",
-   "ids": [
-    "39433985",
-    "39426152",
-    "39440116"
-   ],
-   "title": "Cohere Says Alibaba’s Qwen Model Tried to Send a File to Beijing",
-   "url": "https://dailyai.com/2026/10/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-10-27 09:15:58",
-   "story_sources": 3,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-     "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
-    },
-    {
-     "source_id": "eu-tnw",
-     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
-     "url": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test"
-    }
-   ],
-   "queries": [
-    "Cohere Says Alibaba’s Qwen",
-    "cohere alibaba qwen tried"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4nflEp1v9CA",
-     "url": "https://www.youtube.com/shorts/4nflEp1v9CA",
-     "title": "Qwen AI tried to send data to China, Cohere says",
-     "channel": "",
-     "views": 128,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s5jA2IFJkhw",
-     "url": "https://www.youtube.com/shorts/s5jA2IFJkhw",
-     "title": "Qwen 3.8 Promised No Tools. Then It Tried Sending a File to Beijing",
-     "channel": "",
-     "views": 66,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_ZLGFT7ZuuY",
-     "url": "https://www.youtube.com/shorts/_ZLGFT7ZuuY",
-     "title": "Qwen3.8 AI Tried to Upload a File to Beijing, Cohere Says",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:PLYm4Ixke8s",
-     "url": "https://www.youtube.com/watch?v=PLYm4Ixke8s",
-     "title": "Alibaba's Qwen Tried to Upload a File to Beijing, Cohere Says",
-     "channel": "DX Today Podcast",
-     "views": 2,
-     "age_hours": 3,
-     "relevance": 0.86,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:K448qaF8PTc",
-     "url": "https://www.youtube.com/shorts/K448qaF8PTc",
-     "title": "Cohere: Qwen3.8 tried calling Beijing. Self-hosting isn't safe #qwen #alibaba #ai",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pwQYfdMjYNk",
-     "url": "https://www.youtube.com/shorts/pwQYfdMjYNk",
-     "title": "Cohere Says Alibaba's Qwen AI Tried to Reach a Beijing Server in a Test #Shorts",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T14:19:56.757Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -542,108 +322,268 @@
    "searched_at": "2026-10-25T05:40:57.685Z"
   },
   {
-   "first_seen": "2026-10-27T14:46:59.677Z",
-   "id": "39441053",
+   "first_seen": "2026-10-27T11:18:45.828Z",
+   "id": "39437238",
    "ids": [
-    "39441053",
-    "39441043"
+    "39437238",
+    "39425820",
+    "39418793",
+    "39446052"
    ],
-   "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
-   "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-10-27 14:16:20",
-   "story_sources": 2,
-   "score_norm": 70,
+   "title": "It Appears That the AI Bubble Has Just Burst in China",
+   "url": "https://futurism.com/artificial-intelligence/ai-bubble-burst-china",
+   "source_id": "futurism-ai",
+   "published_ts": "2026-10-27 14:57:47",
+   "story_sources": 3,
+   "score_norm": 78,
    "related_news": [
     {
+     "source_id": "in-express-tech",
+     "title": "In China, the AI bubble has already burst",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/in-china-the-ai-bubble-has-already-burst-10938963/"
+    },
+    {
      "source_id": "hn",
-     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
-     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
+     "title": "Analysis – In China, the AI bubble has burst",
+     "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN"
     }
    ],
    "queries": [
-    "M6 MacBook Pro",
-    "apple m6 macbook pro"
+    "Bubble Has Just Burst",
+    "appears bubble burst china"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:xWfNhWn88Bc",
-     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
-     "title": "The new 14” MacBook Pro with M6",
-     "channel": "Apple",
-     "views": 153145,
-     "age_hours": 1,
-     "relevance": 0.75,
-     "velocity": 153145
+     "id": "youtube:uU2WeAX2w8g",
+     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
+     "title": "In China, the AI bubble has already burst",
+     "channel": "Reuters",
+     "views": 105291,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 15042
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:iY4R1h8CtNs",
-     "url": "https://www.youtube.com/watch?v=iY4R1h8CtNs",
-     "title": "NEW M6 MACBOOK PRO AND M6 IMAC: WHAT’S CHANGED, WHAT’S NEW",
-     "channel": "Giulio Brotini",
-     "views": 882,
+     "id": "youtube:tWv-_0_s42o",
+     "url": "https://www.youtube.com/watch?v=tWv-_0_s42o",
+     "title": "फूट गया Ai Bubble | China Market Crash: चीन में मचा हाहाकार, 45% टूट गया बाज़ार | STAR 50 Drops 40%",
+     "channel": "Stock Market का Commando",
+     "views": 6536,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 6536
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:d-DcNKEpd58",
+     "url": "https://www.youtube.com/watch?v=d-DcNKEpd58",
+     "title": "China AI bubble has just burst! US next?",
+     "channel": "1M65",
+     "views": 43167,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 6167
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LhkuNV1RGfI",
+     "url": "https://www.youtube.com/watch?v=LhkuNV1RGfI",
+     "title": "China's AI Bubble Has Burst. Who Will Pay The Price? | The Palki Sharma Show | IGR",
+     "channel": "India Global Review",
+     "views": 5469,
      "age_hours": 1,
      "relevance": 0.8,
-     "velocity": 882
+     "velocity": 5469
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:tTUEpW351V0",
-     "url": "https://www.youtube.com/watch?v=tTUEpW351V0",
-     "title": "Why The M6 MacBook Pro Might Be A Skip This Year?",
-     "channel": "Infinkey Infopedia",
-     "views": 6390,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 266
+     "id": "youtube:w6RyLJmNPHE",
+     "url": "https://www.youtube.com/watch?v=w6RyLJmNPHE",
+     "title": "Has China's AI Stock Bubble Finally Burst? $480 Billion Wipeout Puts Tech Valuations Under Scrutiny",
+     "channel": "Mint",
+     "views": 3214,
+     "age_hours": 2,
+     "relevance": 0.8,
+     "velocity": 1607
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:BLg9q88BHAU",
-     "url": "https://www.youtube.com/watch?v=BLg9q88BHAU",
-     "title": "M6 MacBook Pro LEAKED — Apple’s Biggest MacBook Upgrade Yet",
-     "channel": "Tech Town",
-     "views": 3043,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 127
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JwWM6smkL3w",
-     "url": "https://www.youtube.com/watch?v=JwWM6smkL3w",
-     "title": "The new 14” MacBook Pro with M6",
-     "channel": "Apple UK",
-     "views": 79,
-     "age_hours": 0.4,
-     "relevance": 0.75,
-     "velocity": 79
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:t8OweaSrirA",
-     "url": "https://www.youtube.com/shorts/t8OweaSrirA",
-     "title": "M6 MacBook Pro, but No M6 Pro? What Apple Reportedly Skips",
-     "channel": "",
-     "views": 1700,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
+     "id": "youtube:CjquP0fupG4",
+     "url": "https://www.youtube.com/watch?v=CjquP0fupG4",
+     "title": "AI Bubble Burst? Bitcoin to Zero? Hedge Funds Wrecked? Sounds Like a Bottom is Near",
+     "channel": "Jordi Visser",
+     "views": 45702,
+     "age_hours": 48,
+     "relevance": 0.6,
+     "velocity": 952
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T14:47:08.080Z"
+   "searched_at": "2026-10-27T18:15:35.856Z"
+  },
+  {
+   "first_seen": "2026-10-27T16:49:57.324Z",
+   "id": "39444046",
+   "ids": [
+    "39444046",
+    "39440016"
+   ],
+   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-10-27 14:32:08",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "crypto-decrypt",
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
+    }
+   ],
+   "queries": [
+    "bitcoin luxor 16 mining"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lfFG3BU8Luc",
+     "url": "https://www.youtube.com/shorts/lfFG3BU8Luc",
+     "title": "Your Heater Could Be Mining Bitcoin",
+     "channel": "",
+     "views": 189,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T16:50:01.426Z"
+  },
+  {
+   "first_seen": "2026-10-27T07:56:12.221Z",
+   "id": "39433985",
+   "ids": [
+    "39433985",
+    "39426152",
+    "39440116"
+   ],
+   "title": "Cohere Says Alibaba’s Qwen Model Tried to Send a File to Beijing",
+   "url": "https://dailyai.com/2026/10/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-10-27 09:15:58",
+   "story_sources": 3,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+     "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+    },
+    {
+     "source_id": "eu-tnw",
+     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
+     "url": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test"
+    }
+   ],
+   "queries": [
+    "Cohere Says Alibaba’s Qwen",
+    "cohere alibaba qwen tried"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4nflEp1v9CA",
+     "url": "https://www.youtube.com/shorts/4nflEp1v9CA",
+     "title": "Qwen AI tried to send data to China, Cohere says",
+     "channel": "",
+     "views": 128,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:s5jA2IFJkhw",
+     "url": "https://www.youtube.com/shorts/s5jA2IFJkhw",
+     "title": "Qwen 3.8 Promised No Tools. Then It Tried Sending a File to Beijing",
+     "channel": "",
+     "views": 66,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_ZLGFT7ZuuY",
+     "url": "https://www.youtube.com/shorts/_ZLGFT7ZuuY",
+     "title": "Qwen3.8 AI Tried to Upload a File to Beijing, Cohere Says",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:PLYm4Ixke8s",
+     "url": "https://www.youtube.com/watch?v=PLYm4Ixke8s",
+     "title": "Alibaba's Qwen Tried to Upload a File to Beijing, Cohere Says",
+     "channel": "DX Today Podcast",
+     "views": 2,
+     "age_hours": 3,
+     "relevance": 0.86,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:K448qaF8PTc",
+     "url": "https://www.youtube.com/shorts/K448qaF8PTc",
+     "title": "Cohere: Qwen3.8 tried calling Beijing. Self-hosting isn't safe #qwen #alibaba #ai",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pwQYfdMjYNk",
+     "url": "https://www.youtube.com/shorts/pwQYfdMjYNk",
+     "title": "Cohere Says Alibaba's Qwen AI Tried to Reach a Beijing Server in a Test #Shorts",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T14:19:56.757Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
@@ -963,6 +903,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T11:45:52.437Z"
+  },
+  {
+   "first_seen": "2026-10-27T14:46:59.677Z",
+   "id": "39441053",
+   "ids": [
+    "39441053",
+    "39441043"
+   ],
+   "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
+   "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-10-27 14:16:20",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
+     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
+    }
+   ],
+   "queries": [
+    "M6 MacBook Pro",
+    "apple m6 macbook pro"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xWfNhWn88Bc",
+     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
+     "title": "The new 14” MacBook Pro with M6",
+     "channel": "Apple",
+     "views": 153145,
+     "age_hours": 1,
+     "relevance": 0.75,
+     "velocity": 153145
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iY4R1h8CtNs",
+     "url": "https://www.youtube.com/watch?v=iY4R1h8CtNs",
+     "title": "NEW M6 MACBOOK PRO AND M6 IMAC: WHAT’S CHANGED, WHAT’S NEW",
+     "channel": "Giulio Brotini",
+     "views": 882,
+     "age_hours": 1,
+     "relevance": 0.8,
+     "velocity": 882
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tTUEpW351V0",
+     "url": "https://www.youtube.com/watch?v=tTUEpW351V0",
+     "title": "Why The M6 MacBook Pro Might Be A Skip This Year?",
+     "channel": "Infinkey Infopedia",
+     "views": 6390,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 266
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BLg9q88BHAU",
+     "url": "https://www.youtube.com/watch?v=BLg9q88BHAU",
+     "title": "M6 MacBook Pro LEAKED — Apple’s Biggest MacBook Upgrade Yet",
+     "channel": "Tech Town",
+     "views": 3043,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 127
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JwWM6smkL3w",
+     "url": "https://www.youtube.com/watch?v=JwWM6smkL3w",
+     "title": "The new 14” MacBook Pro with M6",
+     "channel": "Apple UK",
+     "views": 79,
+     "age_hours": 0.4,
+     "relevance": 0.75,
+     "velocity": 79
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:t8OweaSrirA",
+     "url": "https://www.youtube.com/shorts/t8OweaSrirA",
+     "title": "M6 MacBook Pro, but No M6 Pro? What Apple Reportedly Skips",
+     "channel": "",
+     "views": 1700,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-27T14:47:08.080Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
