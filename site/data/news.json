@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T04:45:46.539Z",
+ "generated_at": "2026-10-27T05:44:08.601Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,90 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: Tata Communications To Pour Up To 450 Mn In Build",
+   "source": "youtube: anthropic officially files public",
    "ok": true
   },
   {
-   "source": "tiktok: Tata Communications To Pour Up To 450 Mn In Build",
+   "source": "tiktok: anthropic officially files public",
    "ok": true
   },
   {
-   "source": "youtube: tata communications pour up",
+   "source": "youtube: anthropic ipo ai giant",
    "ok": true
   },
   {
-   "source": "tiktok: tata communications pour up",
+   "source": "tiktok: anthropic ipo ai giant",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-10-26T17:15:42.765Z",
-   "id": "39420034",
-   "ids": [
-    "39420034",
-    "39418547"
-   ],
-   "title": "Anthropic officially files for its public debut",
-   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-26 14:35:22",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Anthropic files to go public",
-     "url": "https://www.engadget.com/2296724/anthropic-files-to-go-public/"
-    }
-   ],
-   "queries": [
-    "anthropic officially files public"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4Xn18m93ytg",
-     "url": "https://www.youtube.com/watch?v=4Xn18m93ytg",
-     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
-     "channel": "Forbes",
-     "views": 5489,
-     "age_hours": 3,
-     "relevance": 0.6,
-     "velocity": 1830
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VSRm-rWi_BQ",
-     "url": "https://www.youtube.com/watch?v=VSRm-rWi_BQ",
-     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
-     "channel": "Forbes Breaking News",
-     "views": 3441,
-     "age_hours": 8,
-     "relevance": 0.6,
-     "velocity": 430
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gYR1EqkRw0k",
-     "url": "https://www.youtube.com/watch?v=gYR1EqkRw0k",
-     "title": "Anthropic files public S-1: IPO terms still unset",
-     "channel": "OG SenseAI",
-     "views": 0,
-     "age_hours": 9,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T23:28:49.259Z"
-  },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
    "id": "39422180",
@@ -100,19 +33,30 @@
     "39422180",
     "39421829",
     "39421726",
-    "39430646"
+    "39430646",
+    "39432096"
    ],
-   "title": "OpenAI launches GPT-6.1 Terra at 50% lower API prices",
-   "url": "https://www.techinasia.com/news/openai-launches-gpt61-terra-50-api-prices",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-27 01:02:16",
-   "story_sources": 2,
-   "score_norm": 91,
+   "title": "GPT-6.1 Terra",
+   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "source_id": "simonw",
+   "published_ts": "2026-10-26 23:53:07",
+   "story_sources": 3,
+   "score_norm": 100,
    "related_news": [
     {
      "source_id": "x-reddit",
      "title": "openAI Launches GPT 6.1 TERRA",
      "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/"
+    },
+    {
+     "source_id": "hn",
+     "title": "GPT-6.1 Terra",
+     "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+    },
+    {
+     "source_id": "hn",
+     "title": "GPT 6.1 Terra",
+     "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra"
     }
    ],
    "queries": [
@@ -198,213 +142,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T00:45:22.116Z"
-  },
-  {
-   "first_seen": "2026-10-27T02:38:37.666Z",
-   "id": "39430201",
-   "ids": [
-    "39430201",
-    "39420475"
-   ],
-   "title": "Microsoft offers voluntary buyouts to 60,000 employees amid AI investments",
-   "url": "https://siliconangle.com/2026/10/26/microsoft-offers-voluntary-buyouts-to-60000-employees-amid-ai-investments/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-10-27 01:43:57",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Microsoft offers voluntary buyouts to 60,000 employees in AI efficiency push",
-     "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
-    }
-   ],
-   "queries": [
-    "microsoft 60 000 offers"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pljVEhNxFO4",
-     "url": "https://www.youtube.com/watch?v=pljVEhNxFO4",
-     "title": "Microsoft Targets 60,000 Jobs For Termination",
-     "channel": "Mark Savant",
-     "views": 63679,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 12736
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0jU4nLhCeWY",
-     "url": "https://www.youtube.com/watch?v=0jU4nLhCeWY",
-     "title": "Microsoft Offers Buyouts to 60,000 Employees",
-     "channel": "Bloomberg Tech",
-     "views": 58680,
-     "age_hours": 10,
-     "relevance": 1,
-     "velocity": 5868
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:utC-7QW33DU",
-     "url": "https://www.youtube.com/watch?v=utC-7QW33DU",
-     "title": "Microsoft is about to CUT 60,000 More Jobs!",
-     "channel": "Tyrone Magnus",
-     "views": 20475,
-     "age_hours": 7,
-     "relevance": 0.6,
-     "velocity": 2925
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IJrxpS0Vpxg",
-     "url": "https://www.youtube.com/watch?v=IJrxpS0Vpxg",
-     "title": "Microsoft Offers Buyouts To 25% Of Company",
-     "channel": "Forbes Breaking News",
-     "views": 20204,
-     "age_hours": 7,
-     "relevance": 0.6,
-     "velocity": 2886
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pNWUJ8v3wDo",
-     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
-     "title": "Microsoft offering voluntary buyouts to 60,000 employees in workforce",
-     "channel": "CTV News",
-     "views": 20172,
-     "age_hours": 7,
-     "relevance": 0.75,
-     "velocity": 2882
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tcLqlcjwsN4",
-     "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
-     "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-     "channel": "CNBC Television",
-     "views": 17444,
-     "age_hours": 8,
-     "relevance": 0.8,
-     "velocity": 2181
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T02:38:42.130Z"
-  },
-  {
-   "first_seen": "2026-10-27T02:38:37.666Z",
-   "id": "39426050",
-   "ids": [
-    "39426050",
-    "39430204"
-   ],
-   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
-   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-26 21:46:02",
-   "story_sources": 2,
-   "score_norm": 84,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
-     "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/"
-    }
-   ],
-   "queries": [
-    "OpenAI Launches GPT-6.1 Terra",
-    "openai launches gpt-6.1 terra"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VGx3cvNtyTc",
-     "url": "https://www.youtube.com/watch?v=VGx3cvNtyTc",
-     "title": "GPT-6.1 Terra Is Here: I Tested OpenAI’s New AI Model",
-     "channel": "Neel's World",
-     "views": 230,
-     "age_hours": 6,
-     "relevance": 0.71,
-     "velocity": 38
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:o95RilWisFM",
-     "url": "https://www.youtube.com/watch?v=o95RilWisFM",
-     "title": "GPT-6.1 Terra: the cheapest model OpenAI ships",
-     "channel": "Nexus The AI Singularity",
-     "views": 101,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 20
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:-gPrSjUttt4",
-     "url": "https://www.youtube.com/watch?v=-gPrSjUttt4",
-     "title": "OpenAI Skipped This Model. Now It Rivals Astra | GPT-6.1 Terra",
-     "channel": "Beyond The Model",
-     "views": 100,
-     "age_hours": 5,
-     "relevance": 0.57,
-     "velocity": 20
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:azRot3GBEh4",
-     "url": "https://www.youtube.com/shorts/azRot3GBEh4",
-     "title": "GPT-6.1 Terra: half the price, fewer mistakes",
-     "channel": "",
-     "views": 556,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:L1QBXuF_HtM",
-     "url": "https://www.youtube.com/watch?v=L1QBXuF_HtM",
-     "title": "OpenAI's GPT-6.1 Terra uses your computer for less",
-     "channel": "Coding with Sela",
-     "views": 56,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 14
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:X0wbwdXFXRo",
-     "url": "https://www.youtube.com/watch?v=X0wbwdXFXRo",
-     "title": "GPT-6.1 Terra: What the Lower Price Actually Gets You",
-     "channel": "AI Mode + Automation",
-     "views": 12,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 12
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T02:38:49.318Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -645,634 +382,107 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
-   "first_seen": "2026-10-26T17:41:12.710Z",
-   "id": "39419033",
+   "first_seen": "2026-10-26T17:15:42.765Z",
+   "id": "39420034",
    "ids": [
-    "39419033",
-    "39420956"
+    "39420034",
+    "39418547"
    ],
-   "title": "AI giant Anthropic files for blockbuster IPO",
-   "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-   "source_id": "crypto-coindesk",
-   "published_ts": "2026-10-26 13:22:09",
+   "title": "Anthropic officially files for its public debut",
+   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-26 14:35:22",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 66,
    "related_news": [
     {
-     "source_id": "siliconangle-ai",
-     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
+     "source_id": "engadget",
+     "title": "Anthropic files to go public",
+     "url": "https://www.engadget.com/2296724/anthropic-files-to-go-public/"
     }
    ],
    "queries": [
-    "anthropic ipo ai giant"
+    "anthropic officially files public"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:IjCJKr_KzRw",
-     "url": "https://www.youtube.com/watch?v=IjCJKr_KzRw",
-     "title": "AI startup Anthropic unveils its public IPO filing for the first time",
-     "channel": "NBC News",
-     "views": 48436,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 6055
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sKEliKGZLck",
-     "url": "https://www.youtube.com/watch?v=sKEliKGZLck",
-     "title": "AI giant Anthropic files paperwork to go public",
-     "channel": "LiveNOW from FOX",
-     "views": 17041,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 2130
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:g22k8xMrfvU",
-     "url": "https://www.youtube.com/watch?v=g22k8xMrfvU",
-     "title": "CVC Marathon's Richards on Anthropic IPO, AI Buildout",
-     "channel": "Bloomberg Television",
-     "views": 10281,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 1469
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eNMCcgwz0II",
-     "url": "https://www.youtube.com/watch?v=eNMCcgwz0II",
-     "title": "What Anthropic's IPO Filing Reveals",
-     "channel": "The Information",
-     "views": 3059,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 765
+     "id": "youtube:4Xn18m93ytg",
+     "url": "https://www.youtube.com/watch?v=4Xn18m93ytg",
+     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
+     "channel": "Forbes",
+     "views": 13081,
+     "age_hours": 10,
+     "relevance": 0.6,
+     "velocity": 1308
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Zc-e04prg-Q",
-     "url": "https://www.youtube.com/shorts/Zc-e04prg-Q",
-     "title": "Wall Street is awaiting Anthropic's IPO — and more AI news you may have missed this week",
+     "id": "youtube:NtWSRf2g73o",
+     "url": "https://www.youtube.com/shorts/NtWSRf2g73o",
+     "title": "Anthropic Files to Go Public",
      "channel": "",
-     "views": 27000,
+     "views": 35000,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VSRm-rWi_BQ",
+     "url": "https://www.youtube.com/watch?v=VSRm-rWi_BQ",
+     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
+     "channel": "Forbes Breaking News",
+     "views": 4324,
+     "age_hours": 14,
+     "relevance": 0.6,
+     "velocity": 309
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MASlYoBBDrg",
+     "url": "https://www.youtube.com/shorts/MASlYoBBDrg",
+     "title": "Anthropic publicly files for IPO",
+     "channel": "",
+     "views": 2200,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:710meF33_78",
-     "url": "https://www.youtube.com/watch?v=710meF33_78",
-     "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
-     "channel": "PBS NewsHour",
-     "views": 578,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 578
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-26T23:42:11.721Z"
-  },
-  {
-   "first_seen": "2026-10-26T22:17:12.038Z",
-   "id": "39422784",
-   "ids": [
-    "39422784",
-    "39426096"
-   ],
-   "title": "KI-Kosten: Microsoft bietet bis zu 60.000 Mitarbeitern Abfindungen an",
-   "url": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html",
-   "source_id": "eu-golem",
-   "published_ts": "2026-10-26 18:50:03",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Wegen hoher KI-Investitionen: Microsoft bietet 60.000 Mitarbeitern Abfindungen an",
-     "url": "https://t3n.de/news/ki-microsoft-abfindungen-1770007/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "60.000 Mitarbeitern Abfindungen",
-    "ki-kosten microsoft 60.000 mitarbeitern"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pNWUJ8v3wDo",
-     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
-     "channel": "CTV News",
-     "views": 24024,
-     "age_hours": 9,
-     "relevance": 0.83,
-     "velocity": 2669
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tcLqlcjwsN4",
-     "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an, da KI Effizienzschub erzwingt",
-     "channel": "CNBC Television",
-     "views": 22637,
-     "age_hours": 9,
-     "relevance": 0.63,
-     "velocity": 2515
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l4_gyQ7eKy0",
-     "url": "https://www.youtube.com/watch?v=l4_gyQ7eKy0",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
-     "channel": "CTV News",
-     "views": 2167,
-     "age_hours": 2,
-     "relevance": 0.83,
-     "velocity": 1084
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LoEOUfa7RrE",
-     "url": "https://www.youtube.com/watch?v=LoEOUfa7RrE",
-     "title": "Microsoft bietet 60.000 Mitarbeitern Abfindungen an, während Milliarden in KI fließen",
-     "channel": "The Future of Work Podcast",
-     "views": 544,
-     "age_hours": 4,
-     "relevance": 0.63,
-     "velocity": 136
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ASpdjXDCvno",
-     "url": "https://www.youtube.com/watch?v=ASpdjXDCvno",
-     "title": "Microsoft bietet 60.000 Mitarbeitern weltweit freiwillige Abfindungsprogramme an",
-     "channel": "AGENCIA EFE",
-     "views": 77,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 39
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Pj3a-dy5kE4",
-     "url": "https://www.youtube.com/watch?v=Pj3a-dy5kE4",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
-     "channel": "B.C. Begley",
-     "views": 5,
-     "age_hours": 2,
-     "relevance": 0.83,
-     "velocity": 3
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T04:19:33.371Z"
-  },
-  {
-   "first_seen": "2026-10-26T19:41:04.975Z",
-   "id": "39423292",
-   "ids": [
-    "39423292",
-    "39415560"
-   ],
-   "title": "Reddit’s r/opensource bans AI projects, and non-English speakers too",
-   "url": "https://thenextweb.com/news/reddits-r-opensource-bans-ai-projects-and-non-english-speakers-too",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-26 18:46:33",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
-     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers"
-    }
-   ],
-   "queries": [
-    "reddit opensource bans ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:aEjADUe9pzg",
-     "url": "https://www.youtube.com/shorts/aEjADUe9pzg",
-     "title": "Reddit's r/opensource bans AI projects, and solo devs get hit #shorts",
-     "channel": "",
-     "views": 35,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YyjjNeuvRTA",
-     "url": "https://www.youtube.com/shorts/YyjjNeuvRTA",
-     "title": "Reddit's r/opensource bans AI projects and non-English speakers #tech",
-     "channel": "",
-     "views": 34,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:SOpjcCuOq50",
-     "url": "https://www.youtube.com/shorts/SOpjcCuOq50",
-     "title": "Reddit r/opensource Bans AI Projects: Even Linux at Risk?",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:84ICkCgACGM",
-     "url": "https://www.youtube.com/shorts/84ICkCgACGM",
-     "title": "Reddit Moderators Just BANNED AI And More",
+     "id": "youtube:0D-KCOY7FVY",
+     "url": "https://www.youtube.com/shorts/0D-KCOY7FVY",
+     "title": "Anthropic IPO: The Company Behind Claude Files to Go Public as \"ANT\" #shorts",
      "channel": "",
      "views": 3,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.6,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bIRV2HxU5nc",
-     "url": "https://www.youtube.com/shorts/bIRV2HxU5nc",
-     "title": "Reddit’s r/opensource bans AI projects and non-English speakers",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:23R30kVH_wA",
+     "url": "https://www.youtube.com/watch?v=23R30kVH_wA",
+     "title": "Anthropic officially files for its public debut #shorts #AI #Tech",
+     "channel": "GloblePulseAi",
+     "views": 0,
+     "age_hours": 0.9166666666666666,
      "relevance": 1,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T02:01:39.491Z"
-  },
-  {
-   "first_seen": "2026-10-26T15:40:41.349Z",
-   "id": "39418044",
-   "ids": [
-    "39418044",
-    "39416584"
-   ],
-   "title": "Meta Plans to Raise Up to $95 Billion in New Shares to Pay for AI",
-   "url": "https://dailyai.com/2026/10/meta-plans-to-raise-up-to-95-billion-in-new-shares-to-pay-for-ai/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-10-26 14:21:51",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Meta plans to raise up to $95 billion to fund AI and data centre expansion",
-     "url": "https://www.thehindubusinessline.com/markets/meta-plans-to-raise-up-to-95-billion-to-fund-ai-and-data-centre-expansion/article71627458.ece"
-    }
-   ],
-   "queries": [
-    "Meta Plans",
-    "meta plans raise up"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3OnJopLqhAc",
-     "url": "https://www.youtube.com/watch?v=3OnJopLqhAc",
-     "title": "AI Capital Rush: SpaceX Eyes $40 Billion Debt Deal, Meta Plans $95 Billion Fundraise | IBH",
-     "channel": "CNBC-TV18",
-     "views": 1768,
-     "age_hours": 12,
-     "relevance": 0.56,
-     "velocity": 147
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SckwXINEEdg",
-     "url": "https://www.youtube.com/watch?v=SckwXINEEdg",
-     "title": "Meta aims to raise up to $95 billion to expand AI efforts",
-     "channel": "CBS19",
-     "views": 369,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 74
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:k6Hlm217KI8",
-     "url": "https://www.youtube.com/watch?v=k6Hlm217KI8",
-     "title": "$95 Billion: Guess Meta's Biggest-Ever AI Stock Raise Before the Reveal #shorts",
-     "channel": "Insight Meter",
-     "views": 5,
-     "age_hours": 2,
-     "relevance": 0.56,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:MGPW4SOqro4",
-     "url": "https://www.youtube.com/watch?v=MGPW4SOqro4",
-     "title": "Meta Plans to Raise Up to $95 Billion to Fund Artificial Intelligence Expansion",
-     "channel": "B.C. Begley",
-     "views": 2,
-     "age_hours": 1,
-     "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LGHIeA_fpCM",
-     "url": "https://www.youtube.com/watch?v=LGHIeA_fpCM",
-     "title": "Meta's New Shares: Funding AI Without Losing Control",
-     "channel": "WorkDefine",
-     "views": 2,
-     "age_hours": 20,
-     "relevance": 0.5,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Ov6Vgj8vL7g",
-     "url": "https://www.youtube.com/watch?v=Ov6Vgj8vL7g",
-     "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-     "channel": "The AI Sea",
-     "views": 1,
-     "age_hours": 12,
-     "relevance": 0.67,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T03:48:33.776Z"
-  },
-  {
-   "first_seen": "2026-10-26T13:51:30.960Z",
-   "id": "39415040",
-   "ids": [
-    "39415040",
-    "39412643",
-    "39423296"
-   ],
-   "title": "Elvis Presley’s music owners sue Anthropic over 274 songs used by Claude",
-   "url": "https://thenextweb.com/news/elvis-presley-anthropic-lawsuit-274-songs-claude",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-26 17:50:15",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
-     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
-    }
-   ],
-   "queries": [
-    "Elvis Presley’s",
-    "elvis presley anthropic 274"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:K9wOe0MKKhQ",
-     "url": "https://www.youtube.com/watch?v=K9wOe0MKKhQ",
-     "title": "Elvis's heirs sue Anthropic for using 274 songs without permission | RTVE News",
-     "channel": "RTVE Noticias",
-     "views": 9364,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 1561
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mUAvUFIsE3Q",
-     "url": "https://www.youtube.com/watch?v=mUAvUFIsE3Q",
-     "title": "Elvis Presley's music owners sue AI company Anthropic over copyright",
-     "channel": "WREG News Channel 3",
-     "views": 742,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 371
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KeigEN5fBE4",
-     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
-     "title": "ELVIS PRESLEY — FOREVER THE KING",
-     "channel": "",
-     "views": 7800,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ol2UfkFxfAw",
-     "url": "https://www.youtube.com/shorts/Ol2UfkFxfAw",
-     "title": "Elvis Presley's Music Owners Sue Anthropic Over AI #shorts",
-     "channel": "",
-     "views": 783,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tm6CzUTk7Qw",
-     "url": "https://www.youtube.com/shorts/tm6CzUTk7Qw",
-     "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-     "channel": "",
-     "views": 168,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:LD6k0tcL3_o",
-     "url": "https://www.youtube.com/shorts/LD6k0tcL3_o",
-     "title": "Elvis Presley rights holders sue Anthropic over 274 songs",
-     "channel": "",
-     "views": 109,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T02:01:47.076Z"
-  },
-  {
-   "first_seen": "2026-10-26T21:41:24.418Z",
-   "id": "39425727",
-   "ids": [
-    "39425727",
-    "39419402"
-   ],
-   "title": "Smuggling WebMCP into ChatGPT",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xg217w/smuggling_webmcp_into_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-26 16:40:51",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Smuggling WebMCP into ChatGPT",
-     "url": "https://blog.danielbrain.ai/smuggling-webmcp-into-chatgpt"
-    }
-   ],
-   "queries": [
-    "Smuggling WebMCP",
-    "smuggling webmcp chatgpt"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-27T03:48:40.594Z"
-  },
-  {
-   "first_seen": "2026-10-26T15:05:05.711Z",
-   "id": "39416621",
-   "ids": [
-    "39416621",
-    "39417446"
-   ],
-   "title": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
-   "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-10-26 13:20:08",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic files for Nasdaq IPO as half-year revenue hits $16.3bn",
-     "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1"
-    }
-   ],
-   "queries": [
-    "IPO With 16.3 Billion",
-    "anthropic files ipo 16.3"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nV7JqCmErZQ",
-     "url": "https://www.youtube.com/watch?v=nV7JqCmErZQ",
-     "title": "Anthropic just filed for IPO. Everyone’s looking at $16.3 billion in revenue in the first half of th",
-     "channel": "Prompting Iron",
-     "views": 285,
-     "age_hours": 7,
-     "relevance": 0.71,
-     "velocity": 41
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rnhDcPJi_5s",
-     "url": "https://www.youtube.com/watch?v=rnhDcPJi_5s",
-     "title": "Anthropic Just Filed for a $100 BILLION IPO! 🤯 #shorts",
-     "channel": "JANTRU AI CASTER ",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:cQg75gou3kk",
-     "url": "https://www.youtube.com/watch?v=cQg75gou3kk",
-     "title": "Anthropic Files Huge IPO! | Short News",
-     "channel": "Shadow English",
-     "views": 3,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5NtvjwsdWVw",
-     "url": "https://www.youtube.com/watch?v=5NtvjwsdWVw",
-     "title": "[2026-10-27] Anthropic Files for IPO: $16.3B Revenue and an $80.7B Loss | Daily_Daily",
-     "channel": "Daily_Daily",
-     "views": 1,
-     "age_hours": 4,
-     "relevance": 0.57,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jxrk3MFTRAw",
-     "url": "https://www.youtube.com/watch?v=jxrk3MFTRAw",
-     "title": "Anthropic Files to IPO: $16.3B Revenue in Six Months",
-     "channel": "AINewsDaily",
-     "views": 0,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T03:25:33.350Z"
+   "searched_at": "2026-10-27T05:44:13.046Z"
   },
   {
    "first_seen": "2026-10-25T23:14:07.761Z",
@@ -1329,50 +539,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T11:45:59.605Z"
-  },
-  {
-   "first_seen": "2026-10-26T16:25:59.394Z",
-   "id": "39419079",
-   "ids": [
-    "39419079",
-    "39412522"
-   ],
-   "title": "Tata Communications To Pour Up To $450 Mn In Build AI Connectivity Infrastructure",
-   "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-10-26 15:27:25",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Tata Communications to spend $450 million on AI connectivity infrastructure",
-     "url": "https://www.thehindubusinessline.com/info-tech/tata-communications-to-spend-450-million-on-ai-connectivity-infrastructure/article71626132.ece"
-    }
-   ],
-   "queries": [
-    "Tata Communications To Pour Up To 450 Mn In Build",
-    "tata communications pour up"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1PdAC0qKK4Q",
-     "url": "https://www.youtube.com/shorts/1PdAC0qKK4Q",
-     "title": "Tata Communications Commits $450 Million to Build AI Super Highway Across India #shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T04:45:54.114Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -1453,6 +619,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T11:45:52.437Z"
+  },
+  {
+   "first_seen": "2026-10-27T02:38:37.666Z",
+   "id": "39430201",
+   "ids": [
+    "39430201",
+    "39420475"
+   ],
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees amid AI investments",
+   "url": "https://siliconangle.com/2026/10/26/microsoft-offers-voluntary-buyouts-to-60000-employees-amid-ai-investments/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-10-27 01:43:57",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Microsoft offers voluntary buyouts to 60,000 employees in AI efficiency push",
+     "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
+    }
+   ],
+   "queries": [
+    "microsoft 60 000 offers"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pljVEhNxFO4",
+     "url": "https://www.youtube.com/watch?v=pljVEhNxFO4",
+     "title": "Microsoft Targets 60,000 Jobs For Termination",
+     "channel": "Mark Savant",
+     "views": 63679,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 12736
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0jU4nLhCeWY",
+     "url": "https://www.youtube.com/watch?v=0jU4nLhCeWY",
+     "title": "Microsoft Offers Buyouts to 60,000 Employees",
+     "channel": "Bloomberg Tech",
+     "views": 58680,
+     "age_hours": 10,
+     "relevance": 1,
+     "velocity": 5868
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:utC-7QW33DU",
+     "url": "https://www.youtube.com/watch?v=utC-7QW33DU",
+     "title": "Microsoft is about to CUT 60,000 More Jobs!",
+     "channel": "Tyrone Magnus",
+     "views": 20475,
+     "age_hours": 7,
+     "relevance": 0.6,
+     "velocity": 2925
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IJrxpS0Vpxg",
+     "url": "https://www.youtube.com/watch?v=IJrxpS0Vpxg",
+     "title": "Microsoft Offers Buyouts To 25% Of Company",
+     "channel": "Forbes Breaking News",
+     "views": 20204,
+     "age_hours": 7,
+     "relevance": 0.6,
+     "velocity": 2886
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pNWUJ8v3wDo",
+     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
+     "title": "Microsoft offering voluntary buyouts to 60,000 employees in workforce",
+     "channel": "CTV News",
+     "views": 20172,
+     "age_hours": 7,
+     "relevance": 0.75,
+     "velocity": 2882
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tcLqlcjwsN4",
+     "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
+     "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+     "channel": "CNBC Television",
+     "views": 17444,
+     "age_hours": 8,
+     "relevance": 0.8,
+     "velocity": 2181
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-27T02:38:42.130Z"
   },
   {
    "first_seen": "2026-10-26T10:31:55.367Z",
@@ -1556,6 +825,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-26T22:53:47.420Z"
+  },
+  {
+   "first_seen": "2026-10-27T02:38:37.666Z",
+   "id": "39426050",
+   "ids": [
+    "39426050",
+    "39430204"
+   ],
+   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-26 21:46:02",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
+     "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/"
+    }
+   ],
+   "queries": [
+    "OpenAI Launches GPT-6.1 Terra",
+    "openai launches gpt-6.1 terra"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VGx3cvNtyTc",
+     "url": "https://www.youtube.com/watch?v=VGx3cvNtyTc",
+     "title": "GPT-6.1 Terra Is Here: I Tested OpenAI’s New AI Model",
+     "channel": "Neel's World",
+     "views": 230,
+     "age_hours": 6,
+     "relevance": 0.71,
+     "velocity": 38
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:o95RilWisFM",
+     "url": "https://www.youtube.com/watch?v=o95RilWisFM",
+     "title": "GPT-6.1 Terra: the cheapest model OpenAI ships",
+     "channel": "Nexus The AI Singularity",
+     "views": 101,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 20
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:-gPrSjUttt4",
+     "url": "https://www.youtube.com/watch?v=-gPrSjUttt4",
+     "title": "OpenAI Skipped This Model. Now It Rivals Astra | GPT-6.1 Terra",
+     "channel": "Beyond The Model",
+     "views": 100,
+     "age_hours": 5,
+     "relevance": 0.57,
+     "velocity": 20
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:azRot3GBEh4",
+     "url": "https://www.youtube.com/shorts/azRot3GBEh4",
+     "title": "GPT-6.1 Terra: half the price, fewer mistakes",
+     "channel": "",
+     "views": 556,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:L1QBXuF_HtM",
+     "url": "https://www.youtube.com/watch?v=L1QBXuF_HtM",
+     "title": "OpenAI's GPT-6.1 Terra uses your computer for less",
+     "channel": "Coding with Sela",
+     "views": 56,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 14
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:X0wbwdXFXRo",
+     "url": "https://www.youtube.com/watch?v=X0wbwdXFXRo",
+     "title": "GPT-6.1 Terra: What the Lower Price Actually Gets You",
+     "channel": "AI Mode + Automation",
+     "views": 12,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 12
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T02:38:49.318Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -1928,6 +1301,680 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T13:51:45.464Z"
+  },
+  {
+   "first_seen": "2026-10-26T17:41:12.710Z",
+   "id": "39419033",
+   "ids": [
+    "39419033",
+    "39420956"
+   ],
+   "title": "AI giant Anthropic files for blockbuster IPO",
+   "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+   "source_id": "crypto-coindesk",
+   "published_ts": "2026-10-26 13:22:09",
+   "story_sources": 2,
+   "score_norm": 52,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
+     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
+    }
+   ],
+   "queries": [
+    "anthropic ipo ai giant"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IjCJKr_KzRw",
+     "url": "https://www.youtube.com/watch?v=IjCJKr_KzRw",
+     "title": "AI startup Anthropic unveils its public IPO filing for the first time",
+     "channel": "NBC News",
+     "views": 65602,
+     "age_hours": 14,
+     "relevance": 0.5,
+     "velocity": 4686
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hIEF43hTzaw",
+     "url": "https://www.youtube.com/watch?v=hIEF43hTzaw",
+     "title": "Anthropic's IPO to test market appetite and profitability for AI giants | ABC NEWS",
+     "channel": "ABC News (Australia)",
+     "views": 5878,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 1959
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sKEliKGZLck",
+     "url": "https://www.youtube.com/watch?v=sKEliKGZLck",
+     "title": "AI giant Anthropic files paperwork to go public",
+     "channel": "LiveNOW from FOX",
+     "views": 18667,
+     "age_hours": 14,
+     "relevance": 0.67,
+     "velocity": 1333
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N44YP5F5H38",
+     "url": "https://www.youtube.com/watch?v=N44YP5F5H38",
+     "title": "Anthropic reports $16B in revenue, over $80B in net losses as AI giant moves to go public",
+     "channel": "Global News",
+     "views": 6496,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1299
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:g22k8xMrfvU",
+     "url": "https://www.youtube.com/watch?v=g22k8xMrfvU",
+     "title": "CVC Marathon's Richards on Anthropic IPO, AI Buildout",
+     "channel": "Bloomberg Television",
+     "views": 13641,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 1049
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:710meF33_78",
+     "url": "https://www.youtube.com/watch?v=710meF33_78",
+     "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
+     "channel": "PBS NewsHour",
+     "views": 6759,
+     "age_hours": 7,
+     "relevance": 0.5,
+     "velocity": 966
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-27T05:44:16.621Z"
+  },
+  {
+   "first_seen": "2026-10-26T22:17:12.038Z",
+   "id": "39422784",
+   "ids": [
+    "39422784",
+    "39426096"
+   ],
+   "title": "KI-Kosten: Microsoft bietet bis zu 60.000 Mitarbeitern Abfindungen an",
+   "url": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html",
+   "source_id": "eu-golem",
+   "published_ts": "2026-10-26 18:50:03",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Wegen hoher KI-Investitionen: Microsoft bietet 60.000 Mitarbeitern Abfindungen an",
+     "url": "https://t3n.de/news/ki-microsoft-abfindungen-1770007/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "60.000 Mitarbeitern Abfindungen",
+    "ki-kosten microsoft 60.000 mitarbeitern"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pNWUJ8v3wDo",
+     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
+     "channel": "CTV News",
+     "views": 24024,
+     "age_hours": 9,
+     "relevance": 0.83,
+     "velocity": 2669
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tcLqlcjwsN4",
+     "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an, da KI Effizienzschub erzwingt",
+     "channel": "CNBC Television",
+     "views": 22637,
+     "age_hours": 9,
+     "relevance": 0.63,
+     "velocity": 2515
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l4_gyQ7eKy0",
+     "url": "https://www.youtube.com/watch?v=l4_gyQ7eKy0",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
+     "channel": "CTV News",
+     "views": 2167,
+     "age_hours": 2,
+     "relevance": 0.83,
+     "velocity": 1084
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LoEOUfa7RrE",
+     "url": "https://www.youtube.com/watch?v=LoEOUfa7RrE",
+     "title": "Microsoft bietet 60.000 Mitarbeitern Abfindungen an, während Milliarden in KI fließen",
+     "channel": "The Future of Work Podcast",
+     "views": 544,
+     "age_hours": 4,
+     "relevance": 0.63,
+     "velocity": 136
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ASpdjXDCvno",
+     "url": "https://www.youtube.com/watch?v=ASpdjXDCvno",
+     "title": "Microsoft bietet 60.000 Mitarbeitern weltweit freiwillige Abfindungsprogramme an",
+     "channel": "AGENCIA EFE",
+     "views": 77,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 39
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Pj3a-dy5kE4",
+     "url": "https://www.youtube.com/watch?v=Pj3a-dy5kE4",
+     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
+     "channel": "B.C. Begley",
+     "views": 5,
+     "age_hours": 2,
+     "relevance": 0.83,
+     "velocity": 3
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-27T04:19:33.371Z"
+  },
+  {
+   "first_seen": "2026-10-26T19:41:04.975Z",
+   "id": "39423292",
+   "ids": [
+    "39423292",
+    "39415560"
+   ],
+   "title": "Reddit’s r/opensource bans AI projects, and non-English speakers too",
+   "url": "https://thenextweb.com/news/reddits-r-opensource-bans-ai-projects-and-non-english-speakers-too",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-26 18:46:33",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers"
+    }
+   ],
+   "queries": [
+    "reddit opensource bans ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aEjADUe9pzg",
+     "url": "https://www.youtube.com/shorts/aEjADUe9pzg",
+     "title": "Reddit's r/opensource bans AI projects, and solo devs get hit #shorts",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YyjjNeuvRTA",
+     "url": "https://www.youtube.com/shorts/YyjjNeuvRTA",
+     "title": "Reddit's r/opensource bans AI projects and non-English speakers #tech",
+     "channel": "",
+     "views": 34,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:SOpjcCuOq50",
+     "url": "https://www.youtube.com/shorts/SOpjcCuOq50",
+     "title": "Reddit r/opensource Bans AI Projects: Even Linux at Risk?",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:84ICkCgACGM",
+     "url": "https://www.youtube.com/shorts/84ICkCgACGM",
+     "title": "Reddit Moderators Just BANNED AI And More",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bIRV2HxU5nc",
+     "url": "https://www.youtube.com/shorts/bIRV2HxU5nc",
+     "title": "Reddit’s r/opensource bans AI projects and non-English speakers",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T02:01:39.491Z"
+  },
+  {
+   "first_seen": "2026-10-26T15:40:41.349Z",
+   "id": "39418044",
+   "ids": [
+    "39418044",
+    "39416584"
+   ],
+   "title": "Meta Plans to Raise Up to $95 Billion in New Shares to Pay for AI",
+   "url": "https://dailyai.com/2026/10/meta-plans-to-raise-up-to-95-billion-in-new-shares-to-pay-for-ai/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-10-26 14:21:51",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Meta plans to raise up to $95 billion to fund AI and data centre expansion",
+     "url": "https://www.thehindubusinessline.com/markets/meta-plans-to-raise-up-to-95-billion-to-fund-ai-and-data-centre-expansion/article71627458.ece"
+    }
+   ],
+   "queries": [
+    "Meta Plans",
+    "meta plans raise up"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3OnJopLqhAc",
+     "url": "https://www.youtube.com/watch?v=3OnJopLqhAc",
+     "title": "AI Capital Rush: SpaceX Eyes $40 Billion Debt Deal, Meta Plans $95 Billion Fundraise | IBH",
+     "channel": "CNBC-TV18",
+     "views": 1768,
+     "age_hours": 12,
+     "relevance": 0.56,
+     "velocity": 147
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SckwXINEEdg",
+     "url": "https://www.youtube.com/watch?v=SckwXINEEdg",
+     "title": "Meta aims to raise up to $95 billion to expand AI efforts",
+     "channel": "CBS19",
+     "views": 369,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 74
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:k6Hlm217KI8",
+     "url": "https://www.youtube.com/watch?v=k6Hlm217KI8",
+     "title": "$95 Billion: Guess Meta's Biggest-Ever AI Stock Raise Before the Reveal #shorts",
+     "channel": "Insight Meter",
+     "views": 5,
+     "age_hours": 2,
+     "relevance": 0.56,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:MGPW4SOqro4",
+     "url": "https://www.youtube.com/watch?v=MGPW4SOqro4",
+     "title": "Meta Plans to Raise Up to $95 Billion to Fund Artificial Intelligence Expansion",
+     "channel": "B.C. Begley",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LGHIeA_fpCM",
+     "url": "https://www.youtube.com/watch?v=LGHIeA_fpCM",
+     "title": "Meta's New Shares: Funding AI Without Losing Control",
+     "channel": "WorkDefine",
+     "views": 2,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Ov6Vgj8vL7g",
+     "url": "https://www.youtube.com/watch?v=Ov6Vgj8vL7g",
+     "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
+     "channel": "The AI Sea",
+     "views": 1,
+     "age_hours": 12,
+     "relevance": 0.67,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T03:48:33.776Z"
+  },
+  {
+   "first_seen": "2026-10-26T21:41:24.418Z",
+   "id": "39425727",
+   "ids": [
+    "39425727",
+    "39419402"
+   ],
+   "title": "Smuggling WebMCP into ChatGPT",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xg217w/smuggling_webmcp_into_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-26 16:40:51",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Smuggling WebMCP into ChatGPT",
+     "url": "https://blog.danielbrain.ai/smuggling-webmcp-into-chatgpt"
+    }
+   ],
+   "queries": [
+    "Smuggling WebMCP",
+    "smuggling webmcp chatgpt"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-27T03:48:40.594Z"
+  },
+  {
+   "first_seen": "2026-10-26T15:05:05.711Z",
+   "id": "39416621",
+   "ids": [
+    "39416621",
+    "39417446"
+   ],
+   "title": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-10-26 13:20:08",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Anthropic files for Nasdaq IPO as half-year revenue hits $16.3bn",
+     "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1"
+    }
+   ],
+   "queries": [
+    "IPO With 16.3 Billion",
+    "anthropic files ipo 16.3"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nV7JqCmErZQ",
+     "url": "https://www.youtube.com/watch?v=nV7JqCmErZQ",
+     "title": "Anthropic just filed for IPO. Everyone’s looking at $16.3 billion in revenue in the first half of th",
+     "channel": "Prompting Iron",
+     "views": 285,
+     "age_hours": 7,
+     "relevance": 0.71,
+     "velocity": 41
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rnhDcPJi_5s",
+     "url": "https://www.youtube.com/watch?v=rnhDcPJi_5s",
+     "title": "Anthropic Just Filed for a $100 BILLION IPO! 🤯 #shorts",
+     "channel": "JANTRU AI CASTER ",
+     "views": 1,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:cQg75gou3kk",
+     "url": "https://www.youtube.com/watch?v=cQg75gou3kk",
+     "title": "Anthropic Files Huge IPO! | Short News",
+     "channel": "Shadow English",
+     "views": 3,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5NtvjwsdWVw",
+     "url": "https://www.youtube.com/watch?v=5NtvjwsdWVw",
+     "title": "[2026-10-27] Anthropic Files for IPO: $16.3B Revenue and an $80.7B Loss | Daily_Daily",
+     "channel": "Daily_Daily",
+     "views": 1,
+     "age_hours": 4,
+     "relevance": 0.57,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jxrk3MFTRAw",
+     "url": "https://www.youtube.com/watch?v=jxrk3MFTRAw",
+     "title": "Anthropic Files to IPO: $16.3B Revenue in Six Months",
+     "channel": "AINewsDaily",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T03:25:33.350Z"
+  },
+  {
+   "first_seen": "2026-10-26T13:51:30.960Z",
+   "id": "39415040",
+   "ids": [
+    "39415040",
+    "39412643",
+    "39423296"
+   ],
+   "title": "Elvis Presley’s music owners sue Anthropic over 274 songs used by Claude",
+   "url": "https://thenextweb.com/news/elvis-presley-anthropic-lawsuit-274-songs-claude",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-26 17:50:15",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
+    }
+   ],
+   "queries": [
+    "Elvis Presley’s",
+    "elvis presley anthropic 274"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:K9wOe0MKKhQ",
+     "url": "https://www.youtube.com/watch?v=K9wOe0MKKhQ",
+     "title": "Elvis's heirs sue Anthropic for using 274 songs without permission | RTVE News",
+     "channel": "RTVE Noticias",
+     "views": 9364,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 1561
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mUAvUFIsE3Q",
+     "url": "https://www.youtube.com/watch?v=mUAvUFIsE3Q",
+     "title": "Elvis Presley's music owners sue AI company Anthropic over copyright",
+     "channel": "WREG News Channel 3",
+     "views": 742,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 371
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KeigEN5fBE4",
+     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
+     "title": "ELVIS PRESLEY — FOREVER THE KING",
+     "channel": "",
+     "views": 7800,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ol2UfkFxfAw",
+     "url": "https://www.youtube.com/shorts/Ol2UfkFxfAw",
+     "title": "Elvis Presley's Music Owners Sue Anthropic Over AI #shorts",
+     "channel": "",
+     "views": 783,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tm6CzUTk7Qw",
+     "url": "https://www.youtube.com/shorts/tm6CzUTk7Qw",
+     "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+     "channel": "",
+     "views": 168,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:LD6k0tcL3_o",
+     "url": "https://www.youtube.com/shorts/LD6k0tcL3_o",
+     "title": "Elvis Presley rights holders sue Anthropic over 274 songs",
+     "channel": "",
+     "views": 109,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T02:01:47.076Z"
+  },
+  {
+   "first_seen": "2026-10-26T16:25:59.394Z",
+   "id": "39419079",
+   "ids": [
+    "39419079",
+    "39412522"
+   ],
+   "title": "Tata Communications To Pour Up To $450 Mn In Build AI Connectivity Infrastructure",
+   "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-10-26 15:27:25",
+   "story_sources": 2,
+   "score_norm": 45,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Tata Communications to spend $450 million on AI connectivity infrastructure",
+     "url": "https://www.thehindubusinessline.com/info-tech/tata-communications-to-spend-450-million-on-ai-connectivity-infrastructure/article71626132.ece"
+    }
+   ],
+   "queries": [
+    "Tata Communications To Pour Up To 450 Mn In Build",
+    "tata communications pour up"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1PdAC0qKK4Q",
+     "url": "https://www.youtube.com/shorts/1PdAC0qKK4Q",
+     "title": "Tata Communications Commits $450 Million to Build AI Super Highway Across India #shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T04:45:54.114Z"
   }
  ]
 }
