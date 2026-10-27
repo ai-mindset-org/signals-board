@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T22:11:15.888Z",
+ "generated_at": "2026-10-27T22:49:53.709Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: openai oracle chatgpt expands",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai oracle chatgpt expands",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-27T19:21:07.287Z",
@@ -210,110 +201,6 @@
    "searched_at": "2026-10-26T11:45:45.415Z"
   },
   {
-   "first_seen": "2026-10-24T23:25:28.636Z",
-   "id": "39391609",
-   "ids": [
-    "39391609",
-    "39381071"
-   ],
-   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xem3kc/uk_to_invest_100m_in_world_first_ai_biosecurity/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-24 22:45:29",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
-     "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo"
-    }
-   ],
-   "queries": [
-    "Biosecurity Lab",
-    "uk 100m biosecurity lab"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QLXmUulQBd0",
-     "url": "https://www.youtube.com/watch?v=QLXmUulQBd0",
-     "title": "UK Announces World First AI Biosecurity Lab to Detect Future Threats! | Breaking News",
-     "channel": "Geo News",
-     "views": 3721,
-     "age_hours": 5,
-     "relevance": 0.75,
-     "velocity": 744
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:neiUT8jgjbQ",
-     "url": "https://www.youtube.com/watch?v=neiUT8jgjbQ",
-     "title": "UK Announces World First AI Biosecurity Lab to Detect Future Threats! | Breaking News",
-     "channel": "Geo News",
-     "views": 1979,
-     "age_hours": 4,
-     "relevance": 0.75,
-     "velocity": 495
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:H3lAfx8bdxA",
-     "url": "https://www.youtube.com/watch?v=H3lAfx8bdxA",
-     "title": "UK commits £100 million to a new AI Biosecurity Lab",
-     "channel": "Panis News",
-     "views": 143,
-     "age_hours": 10,
-     "relevance": 0.57,
-     "velocity": 14
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Sy_sGrq_6uM",
-     "url": "https://www.youtube.com/watch?v=Sy_sGrq_6uM",
-     "title": "UK Unveils $800 Million AI Safety Plan With New Biosecurity Lab",
-     "channel": "Dosy Technology",
-     "views": 108,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 9
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HwrOIgiflww",
-     "url": "https://www.youtube.com/watch?v=HwrOIgiflww",
-     "title": "£100m AI Biosecurity Lab: Credits, Not Cash",
-     "channel": "Hajrë",
-     "views": 28,
-     "age_hours": 15,
-     "relevance": 0.57,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5OORS3xLY_I",
-     "url": "https://www.youtube.com/watch?v=5OORS3xLY_I",
-     "title": "UK AI Biosecurity Lab: £100M pledge, backed by OpenAI and Anthropic",
-     "channel": "The AI Pin",
-     "views": 49,
-     "age_hours": 20,
-     "relevance": 0.63,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-25T05:40:57.685Z"
-  },
-  {
    "first_seen": "2026-10-27T22:11:15.888Z",
    "id": "39451143",
    "ids": [
@@ -325,7 +212,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-27 07:00:00",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "hn",
