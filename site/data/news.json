@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T03:25:25.629Z",
+ "generated_at": "2026-10-27T03:48:25.923Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: IPO With 16.3 Billion",
+   "source": "youtube: Meta Plans",
    "ok": true
   },
   {
-   "source": "tiktok: IPO With 16.3 Billion",
+   "source": "tiktok: Meta Plans",
    "ok": true
   },
   {
-   "source": "youtube: anthropic files ipo 16.3",
+   "source": "youtube: meta plans raise up",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic files ipo 16.3",
+   "source": "tiktok: meta plans raise up",
+   "ok": true
+  },
+  {
+   "source": "youtube: Smuggling WebMCP",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Smuggling WebMCP",
+   "ok": true
+  },
+  {
+   "source": "youtube: smuggling webmcp chatgpt",
+   "ok": true
+  },
+  {
+   "source": "tiktok: smuggling webmcp chatgpt",
    "ok": true
   }
  ],
@@ -906,7 +922,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-10-26 14:21:51",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -926,77 +942,77 @@
      "url": "https://www.youtube.com/watch?v=3OnJopLqhAc",
      "title": "AI Capital Rush: SpaceX Eyes $40 Billion Debt Deal, Meta Plans $95 Billion Fundraise | IBH",
      "channel": "CNBC-TV18",
-     "views": 1709,
-     "age_hours": 6,
+     "views": 1768,
+     "age_hours": 12,
      "relevance": 0.56,
-     "velocity": 285
+     "velocity": 147
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8MILenztPcY",
-     "url": "https://www.youtube.com/shorts/8MILenztPcY",
-     "title": "Meta Wants $95 Billion for AI. Here's Why",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:SckwXINEEdg",
+     "url": "https://www.youtube.com/watch?v=SckwXINEEdg",
+     "title": "Meta aims to raise up to $95 billion to expand AI efforts",
+     "channel": "CBS19",
+     "views": 369,
+     "age_hours": 5,
      "relevance": 0.67,
-     "velocity": null
+     "velocity": 74
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5GXhXo00b28",
-     "url": "https://www.youtube.com/shorts/5GXhXo00b28",
-     "title": "Meta Plans to Raise $95 Billion in Stock to Pay for AI",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-lU8KxGkeCw",
-     "url": "https://www.youtube.com/shorts/-lU8KxGkeCw",
-     "title": "Meta Wants Up to $95 Billion in New Stock to Pay Its AI Bill",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c0smSv0PjXs",
-     "url": "https://www.youtube.com/shorts/c0smSv0PjXs",
-     "title": "🔥 Meta Wants Up to $95 Billion From Stock Sales to Pay for AI #AINews",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CCeAyUm7NcM",
-     "url": "https://www.youtube.com/shorts/CCeAyUm7NcM",
-     "title": "Meta to Raise 95 billion dollars for AI Buildout | Tech News in English",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:k6Hlm217KI8",
+     "url": "https://www.youtube.com/watch?v=k6Hlm217KI8",
+     "title": "$95 Billion: Guess Meta's Biggest-Ever AI Stock Raise Before the Reveal #shorts",
+     "channel": "Insight Meter",
+     "views": 5,
+     "age_hours": 2,
      "relevance": 0.56,
-     "velocity": null
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:MGPW4SOqro4",
+     "url": "https://www.youtube.com/watch?v=MGPW4SOqro4",
+     "title": "Meta Plans to Raise Up to $95 Billion to Fund Artificial Intelligence Expansion",
+     "channel": "B.C. Begley",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LGHIeA_fpCM",
+     "url": "https://www.youtube.com/watch?v=LGHIeA_fpCM",
+     "title": "Meta's New Shares: Funding AI Without Losing Control",
+     "channel": "WorkDefine",
+     "views": 2,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Ov6Vgj8vL7g",
+     "url": "https://www.youtube.com/watch?v=Ov6Vgj8vL7g",
+     "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
+     "channel": "The AI Sea",
+     "views": 1,
+     "age_hours": 12,
+     "relevance": 0.67,
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T21:41:32.617Z"
+   "searched_at": "2026-10-27T03:48:33.776Z"
   },
   {
    "first_seen": "2026-10-26T13:51:30.960Z",
@@ -1132,7 +1148,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-26T21:41:39.368Z"
+   "searched_at": "2026-10-27T03:48:40.594Z"
   },
   {
    "first_seen": "2026-10-26T15:05:05.711Z",
