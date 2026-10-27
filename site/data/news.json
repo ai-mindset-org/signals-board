@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T23:42:07.287Z",
+ "generated_at": "2026-10-27T00:45:14.089Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic ipo ai giant",
+   "source": "youtube: Launches GPT 6.1 TERRA",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic ipo ai giant",
+   "source": "tiktok: Launches GPT 6.1 TERRA",
+   "ok": true
+  },
+  {
+   "source": "youtube: launches gpt 6.1 terra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: launches gpt 6.1 terra",
    "ok": true
   }
  ],
@@ -30,7 +38,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-26 14:35:22",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "engadget",
@@ -357,14 +365,50 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:FV2OGJMq-m8",
-     "url": "https://www.youtube.com/watch?v=FV2OGJMq-m8",
-     "title": "Kimi K3.1 Beats Opus 5.5?, Gpt 6.1 Terra soon, Gemini 4 carbon?",
-     "channel": "OutofTokens",
-     "views": 370,
-     "age_hours": 48,
+     "id": "youtube:IhpOdbPEsdw",
+     "url": "https://www.youtube.com/watch?v=IhpOdbPEsdw",
+     "title": "GPT 6.1 Terra vs GPT 6 Astra: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 12,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xYz3dUqdjwA",
+     "url": "https://www.youtube.com/watch?v=xYz3dUqdjwA",
+     "title": "GPT 6.1 Terra vs Claude Opus 5.5: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 8,
+     "age_hours": 1,
      "relevance": 0.6,
      "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cuRujdZEBrY",
+     "url": "https://www.youtube.com/shorts/cuRujdZEBrY",
+     "title": "Use GPT 6.1 Terra For Everyday Work, It Is Over 3 Times Faster Than Sol At Half The Price",
+     "channel": "",
+     "views": 192,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FCcN980zkj0",
+     "url": "https://www.youtube.com/watch?v=FCcN980zkj0",
+     "title": "GPT 6.1 Terra vs Qwen 3.8 Max: 10-Round SHOWDOWN",
+     "channel": "Lifey Guy",
+     "views": 3,
+     "age_hours": 0.7333333333333333,
+     "relevance": 0.6,
+     "velocity": 3
     },
     {
      "platform": "youtube",
@@ -373,7 +417,19 @@
      "url": "https://www.youtube.com/shorts/pyQrA0etpSE",
      "title": "OpenAI Launches GPT-6.1 Terra for Workflow Automation",
      "channel": "",
-     "views": 0,
+     "views": 102,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rqJvc3z0lmw",
+     "url": "https://www.youtube.com/shorts/rqJvc3z0lmw",
+     "title": "OpenAI Launches GPT-6.1 Terra: Cheaper Computer-Use Model #AI #OpenAI #ChatGPT",
+     "channel": "",
+     "views": 26,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -383,7 +439,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T18:27:38.716Z"
+   "searched_at": "2026-10-27T00:45:22.116Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -397,7 +453,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-10-26 13:22:09",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -500,7 +556,7 @@
    "source_id": "eu-golem",
    "published_ts": "2026-10-26 18:50:03",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "eu-t3n",
@@ -612,7 +668,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-26 17:50:15",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "hn",
@@ -705,93 +761,6 @@
    "searched_at": "2026-10-26T19:51:48.608Z"
   },
   {
-   "first_seen": "2026-10-25T23:14:07.761Z",
-   "id": "39406357",
-   "ids": [
-    "39406357",
-    "39399256"
-   ],
-   "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-25 19:02:22",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
-     "url": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users"
-    }
-   ],
-   "queries": [
-    "ChatGPT Is Building Detailed Psychological Profiles",
-    "chatgpt building detailed psychological"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Y9GRvKUeEMg",
-     "url": "https://www.youtube.com/watch?v=Y9GRvKUeEMg",
-     "title": "ChatGPT Is Building a Psychological Profile of You",
-     "channel": "Dylan Bradley",
-     "views": 320,
-     "age_hours": 48,
-     "relevance": 0.75,
-     "velocity": 7
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kiZLJ2PgmgY",
-     "url": "https://www.youtube.com/shorts/kiZLJ2PgmgY",
-     "title": "ChatGPT is building a psychological profile on you, tracking insecurities, personality traits, and e",
-     "channel": "",
-     "views": 56,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T11:45:59.605Z"
-  },
-  {
-   "first_seen": "2026-10-26T21:41:24.418Z",
-   "id": "39425727",
-   "ids": [
-    "39425727",
-    "39419402"
-   ],
-   "title": "Smuggling WebMCP into ChatGPT",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xg217w/smuggling_webmcp_into_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-26 16:40:51",
-   "story_sources": 2,
-   "score_norm": 64,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Smuggling WebMCP into ChatGPT",
-     "url": "https://blog.danielbrain.ai/smuggling-webmcp-into-chatgpt"
-    }
-   ],
-   "queries": [
-    "Smuggling WebMCP",
-    "smuggling webmcp chatgpt"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T21:41:39.368Z"
-  },
-  {
    "first_seen": "2026-10-26T15:40:41.349Z",
    "id": "39418044",
    "ids": [
@@ -803,7 +772,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-10-26 14:21:51",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -896,6 +865,93 @@
    "searched_at": "2026-10-26T21:41:32.617Z"
   },
   {
+   "first_seen": "2026-10-25T23:14:07.761Z",
+   "id": "39406357",
+   "ids": [
+    "39406357",
+    "39399256"
+   ],
+   "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xfapw3/chatgpt_is_building_detailed_psychological/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-25 19:02:22",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users",
+     "url": "https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users"
+    }
+   ],
+   "queries": [
+    "ChatGPT Is Building Detailed Psychological Profiles",
+    "chatgpt building detailed psychological"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Y9GRvKUeEMg",
+     "url": "https://www.youtube.com/watch?v=Y9GRvKUeEMg",
+     "title": "ChatGPT Is Building a Psychological Profile of You",
+     "channel": "Dylan Bradley",
+     "views": 320,
+     "age_hours": 48,
+     "relevance": 0.75,
+     "velocity": 7
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kiZLJ2PgmgY",
+     "url": "https://www.youtube.com/shorts/kiZLJ2PgmgY",
+     "title": "ChatGPT is building a psychological profile on you, tracking insecurities, personality traits, and e",
+     "channel": "",
+     "views": 56,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T11:45:59.605Z"
+  },
+  {
+   "first_seen": "2026-10-26T21:41:24.418Z",
+   "id": "39425727",
+   "ids": [
+    "39425727",
+    "39419402"
+   ],
+   "title": "Smuggling WebMCP into ChatGPT",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xg217w/smuggling_webmcp_into_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-26 16:40:51",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Smuggling WebMCP into ChatGPT",
+     "url": "https://blog.danielbrain.ai/smuggling-webmcp-into-chatgpt"
+    }
+   ],
+   "queries": [
+    "Smuggling WebMCP",
+    "smuggling webmcp chatgpt"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T21:41:39.368Z"
+  },
+  {
    "first_seen": "2026-10-26T15:05:05.711Z",
    "id": "39416621",
    "ids": [
@@ -907,7 +963,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-10-26 13:20:08",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1091,7 +1147,7 @@
    "source_id": "in-inc42",
    "published_ts": "2026-10-26 15:27:25",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "in-businessline",
