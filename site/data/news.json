@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T11:54:44.558Z",
+ "generated_at": "2026-10-27T13:22:36.433Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic officially files public",
+   "source": "youtube: GPT-6.1 Terra",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic officially files public",
+   "source": "tiktok: GPT-6.1 Terra",
    "ok": true
   },
   {
-   "source": "youtube: anthropic ipo nearing blockbuster",
+   "source": "youtube: gpt-6.1 terra",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic ipo nearing blockbuster",
+   "source": "tiktok: gpt-6.1 terra",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai announces three discoveries",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai announces three discoveries",
    "ok": true
   }
  ],
@@ -71,10 +79,10 @@
      "url": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
      "title": "GPT-6.1 Terra is now in orbit",
      "channel": "OpenAI",
-     "views": 319719,
-     "age_hours": 12,
+     "views": 362403,
+     "age_hours": 19,
      "relevance": 1,
-     "velocity": 26643
+     "velocity": 19074
     },
     {
      "platform": "youtube",
@@ -83,22 +91,10 @@
      "url": "https://www.youtube.com/watch?v=SyUjFWgqDNo",
      "title": "HUGE ANTHROPIC BOMBSHELL! Claude REA UNBANNED?! GPT-6.1 Terra, Qwen 4 27B, & Fable 5.5! AI NEWS",
      "channel": "WorldofAI",
-     "views": 4269,
-     "age_hours": 0.85,
+     "views": 60690,
+     "age_hours": 7,
      "relevance": 1,
-     "velocity": 4269
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l8JleC6D14Q",
-     "url": "https://www.youtube.com/watch?v=l8JleC6D14Q",
-     "title": "OpenAI's New GPT-6.1 Terra Is WAY Better Than It Should Be (10x Cheaper, 3x Faster)",
-     "channel": "AI Revolution",
-     "views": 24749,
-     "age_hours": 6,
-     "relevance": 1,
-     "velocity": 4125
+     "velocity": 8670
     },
     {
      "platform": "youtube",
@@ -107,10 +103,22 @@
      "url": "https://www.youtube.com/watch?v=VHJfY-c7VkA",
      "title": "GPT-6.1 Terra Is HERE – Is THIS the FASTEST Model Yet?",
      "channel": "Bijan Bowen",
-     "views": 5086,
-     "age_hours": 2,
+     "views": 33162,
+     "age_hours": 8,
      "relevance": 1,
-     "velocity": 2543
+     "velocity": 4145
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l8JleC6D14Q",
+     "url": "https://www.youtube.com/watch?v=l8JleC6D14Q",
+     "title": "OpenAI's New GPT-6.1 Terra Is WAY Better Than It Should Be (10x Cheaper, 3x Faster)",
+     "channel": "AI Revolution",
+     "views": 38563,
+     "age_hours": 12,
+     "relevance": 1,
+     "velocity": 3214
     },
     {
      "platform": "youtube",
@@ -119,29 +127,29 @@
      "url": "https://www.youtube.com/watch?v=y1j3O5NBeKw",
      "title": "GPT-6.1 Terra Just Dropped. What you need to know.",
      "channel": "Duncan Rogoff | Learn Claude Code",
-     "views": 22334,
-     "age_hours": 11,
+     "views": 25658,
+     "age_hours": 17,
      "relevance": 1,
-     "velocity": 2030
+     "velocity": 1509
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:6Il7tudXo1E",
-     "url": "https://www.youtube.com/watch?v=6Il7tudXo1E",
-     "title": "GPT-6.1 Terra vs Claude 5.5: Same Prompt, Not Even Close",
-     "channel": "MattVidPro",
-     "views": 6400,
-     "age_hours": 7,
+     "id": "youtube:HHJRWx6eejE",
+     "url": "https://www.youtube.com/watch?v=HHJRWx6eejE",
+     "title": "I Tested NEW GPT-6.1 Terra on Coding. Better than Luna?",
+     "channel": "AI Coding Daily",
+     "views": 3393,
+     "age_hours": 3,
      "relevance": 1,
-     "velocity": 914
+     "velocity": 1131
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T07:06:40.388Z"
+   "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -382,6 +390,61 @@
    "searched_at": "2026-10-25T04:44:22.571Z"
   },
   {
+   "first_seen": "2026-10-27T13:22:36.433Z",
+   "id": "39431659",
+   "ids": [
+    "39431659",
+    "39439365"
+   ],
+   "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-27 03:57:56",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+     "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
+    }
+   ],
+   "queries": [
+    "openai announces three discoveries"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:oE5qTfdTvos",
+     "url": "https://www.youtube.com/shorts/oE5qTfdTvos",
+     "title": "OpenAI claims 3 discoveries #Shorts",
+     "channel": "",
+     "views": 40,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tPiODvm1E_Q",
+     "url": "https://www.youtube.com/shorts/tPiODvm1E_Q",
+     "title": "OPENAI CLAIMS THREE SCIENCE DISCOVERIES. PROOFS UNDER REVIEW.",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T13:22:48.656Z"
+  },
+  {
    "first_seen": "2026-10-26T17:15:42.765Z",
    "id": "39420034",
    "ids": [
@@ -497,7 +560,7 @@
    "source_id": "eu-siliconrepublic",
    "published_ts": "2026-10-27 08:38:47",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -577,7 +640,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-10-27 10:33:34",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "hn",
