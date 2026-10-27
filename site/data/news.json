@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T05:44:08.601Z",
+ "generated_at": "2026-10-27T07:06:32.359Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic officially files public",
+   "source": "youtube: GPT-6.1 Terra",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic officially files public",
+   "source": "tiktok: GPT-6.1 Terra",
    "ok": true
   },
   {
-   "source": "youtube: anthropic ipo ai giant",
+   "source": "youtube: gpt-6.1 terra",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic ipo ai giant",
+   "source": "tiktok: gpt-6.1 terra",
    "ok": true
   }
  ],
@@ -60,88 +60,88 @@
     }
    ],
    "queries": [
-    "Launches GPT 6.1 TERRA",
-    "launches gpt 6.1 terra"
+    "GPT-6.1 Terra",
+    "gpt-6.1 terra"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:IhpOdbPEsdw",
-     "url": "https://www.youtube.com/watch?v=IhpOdbPEsdw",
-     "title": "GPT 6.1 Terra vs GPT 6 Astra: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 12,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 12
+     "id": "youtube:tTuk4pGnT0A",
+     "url": "https://www.youtube.com/watch?v=tTuk4pGnT0A",
+     "title": "GPT-6.1 Terra is now in orbit",
+     "channel": "OpenAI",
+     "views": 319719,
+     "age_hours": 12,
+     "relevance": 1,
+     "velocity": 26643
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:xYz3dUqdjwA",
-     "url": "https://www.youtube.com/watch?v=xYz3dUqdjwA",
-     "title": "GPT 6.1 Terra vs Claude Opus 5.5: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 8,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cuRujdZEBrY",
-     "url": "https://www.youtube.com/shorts/cuRujdZEBrY",
-     "title": "Use GPT 6.1 Terra For Everyday Work, It Is Over 3 Times Faster Than Sol At Half The Price",
-     "channel": "",
-     "views": 192,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
+     "id": "youtube:SyUjFWgqDNo",
+     "url": "https://www.youtube.com/watch?v=SyUjFWgqDNo",
+     "title": "HUGE ANTHROPIC BOMBSHELL! Claude REA UNBANNED?! GPT-6.1 Terra, Qwen 4 27B, & Fable 5.5! AI NEWS",
+     "channel": "WorldofAI",
+     "views": 4269,
+     "age_hours": 0.85,
+     "relevance": 1,
+     "velocity": 4269
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:FCcN980zkj0",
-     "url": "https://www.youtube.com/watch?v=FCcN980zkj0",
-     "title": "GPT 6.1 Terra vs Qwen 3.8 Max: 10-Round SHOWDOWN",
-     "channel": "Lifey Guy",
-     "views": 3,
-     "age_hours": 0.7333333333333333,
-     "relevance": 0.6,
-     "velocity": 3
+     "id": "youtube:l8JleC6D14Q",
+     "url": "https://www.youtube.com/watch?v=l8JleC6D14Q",
+     "title": "OpenAI's New GPT-6.1 Terra Is WAY Better Than It Should Be (10x Cheaper, 3x Faster)",
+     "channel": "AI Revolution",
+     "views": 24749,
+     "age_hours": 6,
+     "relevance": 1,
+     "velocity": 4125
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pyQrA0etpSE",
-     "url": "https://www.youtube.com/shorts/pyQrA0etpSE",
-     "title": "OpenAI Launches GPT-6.1 Terra for Workflow Automation",
-     "channel": "",
-     "views": 102,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:VHJfY-c7VkA",
+     "url": "https://www.youtube.com/watch?v=VHJfY-c7VkA",
+     "title": "GPT-6.1 Terra Is HERE – Is THIS the FASTEST Model Yet?",
+     "channel": "Bijan Bowen",
+     "views": 5086,
+     "age_hours": 2,
+     "relevance": 1,
+     "velocity": 2543
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rqJvc3z0lmw",
-     "url": "https://www.youtube.com/shorts/rqJvc3z0lmw",
-     "title": "OpenAI Launches GPT-6.1 Terra: Cheaper Computer-Use Model #AI #OpenAI #ChatGPT",
-     "channel": "",
-     "views": 26,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:y1j3O5NBeKw",
+     "url": "https://www.youtube.com/watch?v=y1j3O5NBeKw",
+     "title": "GPT-6.1 Terra Just Dropped. What you need to know.",
+     "channel": "Duncan Rogoff | Learn Claude Code",
+     "views": 22334,
+     "age_hours": 11,
+     "relevance": 1,
+     "velocity": 2030
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6Il7tudXo1E",
+     "url": "https://www.youtube.com/watch?v=6Il7tudXo1E",
+     "title": "GPT-6.1 Terra vs Claude 5.5: Same Prompt, Not Even Close",
+     "channel": "MattVidPro",
+     "views": 6400,
+     "age_hours": 7,
+     "relevance": 1,
+     "velocity": 914
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T00:45:22.116Z"
+   "searched_at": "2026-10-27T07:06:40.388Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -1272,37 +1272,6 @@
    "searched_at": "2026-10-26T17:15:54.826Z"
   },
   {
-   "first_seen": "2026-10-26T07:15:16.481Z",
-   "id": "39411099",
-   "ids": [
-    "39411099",
-    "39406629"
-   ],
-   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
-   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
-   "source_id": "cn-pandaily",
-   "published_ts": "2026-10-26 06:51:59",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "in-marktechpost",
-     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
-    }
-   ],
-   "queries": [
-    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-    "boss zhipin nanbeige team"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T13:51:45.464Z"
-  },
-  {
    "first_seen": "2026-10-26T17:41:12.710Z",
    "id": "39419033",
    "ids": [
@@ -1314,7 +1283,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-10-26 13:22:09",
    "story_sources": 2,
-   "score_norm": 52,
+   "score_norm": 53,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -1404,6 +1373,37 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T05:44:16.621Z"
+  },
+  {
+   "first_seen": "2026-10-26T07:15:16.481Z",
+   "id": "39411099",
+   "ids": [
+    "39411099",
+    "39406629"
+   ],
+   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
+   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-10-26 06:51:59",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "in-marktechpost",
+     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
+    }
+   ],
+   "queries": [
+    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
+    "boss zhipin nanbeige team"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T13:51:45.464Z"
   },
   {
    "first_seen": "2026-10-26T22:17:12.038Z",
@@ -1521,7 +1521,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-26 18:46:33",
    "story_sources": 2,
-   "score_norm": 49,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "hn",
@@ -1705,6 +1705,111 @@
    "searched_at": "2026-10-27T03:48:33.776Z"
   },
   {
+   "first_seen": "2026-10-26T13:51:30.960Z",
+   "id": "39415040",
+   "ids": [
+    "39415040",
+    "39412643",
+    "39423296"
+   ],
+   "title": "Elvis Presley’s music owners sue Anthropic over 274 songs used by Claude",
+   "url": "https://thenextweb.com/news/elvis-presley-anthropic-lawsuit-274-songs-claude",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-26 17:50:15",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
+     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
+    }
+   ],
+   "queries": [
+    "Elvis Presley’s",
+    "elvis presley anthropic 274"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:K9wOe0MKKhQ",
+     "url": "https://www.youtube.com/watch?v=K9wOe0MKKhQ",
+     "title": "Elvis's heirs sue Anthropic for using 274 songs without permission | RTVE News",
+     "channel": "RTVE Noticias",
+     "views": 9364,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 1561
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mUAvUFIsE3Q",
+     "url": "https://www.youtube.com/watch?v=mUAvUFIsE3Q",
+     "title": "Elvis Presley's music owners sue AI company Anthropic over copyright",
+     "channel": "WREG News Channel 3",
+     "views": 742,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 371
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KeigEN5fBE4",
+     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
+     "title": "ELVIS PRESLEY — FOREVER THE KING",
+     "channel": "",
+     "views": 7800,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ol2UfkFxfAw",
+     "url": "https://www.youtube.com/shorts/Ol2UfkFxfAw",
+     "title": "Elvis Presley's Music Owners Sue Anthropic Over AI #shorts",
+     "channel": "",
+     "views": 783,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tm6CzUTk7Qw",
+     "url": "https://www.youtube.com/shorts/tm6CzUTk7Qw",
+     "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+     "channel": "",
+     "views": 168,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:LD6k0tcL3_o",
+     "url": "https://www.youtube.com/shorts/LD6k0tcL3_o",
+     "title": "Elvis Presley rights holders sue Anthropic over 274 songs",
+     "channel": "",
+     "views": 109,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T02:01:47.076Z"
+  },
+  {
    "first_seen": "2026-10-26T21:41:24.418Z",
    "id": "39425727",
    "ids": [
@@ -1826,111 +1931,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T03:25:33.350Z"
-  },
-  {
-   "first_seen": "2026-10-26T13:51:30.960Z",
-   "id": "39415040",
-   "ids": [
-    "39415040",
-    "39412643",
-    "39423296"
-   ],
-   "title": "Elvis Presley’s music owners sue Anthropic over 274 songs used by Claude",
-   "url": "https://thenextweb.com/news/elvis-presley-anthropic-lawsuit-274-songs-claude",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-26 17:50:15",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Owners of Elvis Presley's Music Sue Anthropic for Copyright Infringement",
-     "url": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html"
-    }
-   ],
-   "queries": [
-    "Elvis Presley’s",
-    "elvis presley anthropic 274"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:K9wOe0MKKhQ",
-     "url": "https://www.youtube.com/watch?v=K9wOe0MKKhQ",
-     "title": "Elvis's heirs sue Anthropic for using 274 songs without permission | RTVE News",
-     "channel": "RTVE Noticias",
-     "views": 9364,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 1561
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mUAvUFIsE3Q",
-     "url": "https://www.youtube.com/watch?v=mUAvUFIsE3Q",
-     "title": "Elvis Presley's music owners sue AI company Anthropic over copyright",
-     "channel": "WREG News Channel 3",
-     "views": 742,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 371
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KeigEN5fBE4",
-     "url": "https://www.youtube.com/shorts/KeigEN5fBE4",
-     "title": "ELVIS PRESLEY — FOREVER THE KING",
-     "channel": "",
-     "views": 7800,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ol2UfkFxfAw",
-     "url": "https://www.youtube.com/shorts/Ol2UfkFxfAw",
-     "title": "Elvis Presley's Music Owners Sue Anthropic Over AI #shorts",
-     "channel": "",
-     "views": 783,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tm6CzUTk7Qw",
-     "url": "https://www.youtube.com/shorts/tm6CzUTk7Qw",
-     "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-     "channel": "",
-     "views": 168,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:LD6k0tcL3_o",
-     "url": "https://www.youtube.com/shorts/LD6k0tcL3_o",
-     "title": "Elvis Presley rights holders sue Anthropic over 274 songs",
-     "channel": "",
-     "views": 109,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T02:01:47.076Z"
   },
   {
    "first_seen": "2026-10-26T16:25:59.394Z",
