@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T06:44:20.008Z",
+ "generated_at": "2026-10-28T07:50:03.223Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Bubble Has Just Burst",
+   "source": "youtube: UK Home Office May Face Investigation Over Use",
    "ok": true
   },
   {
-   "source": "tiktok: Bubble Has Just Burst",
+   "source": "tiktok: UK Home Office May Face Investigation Over Use",
    "ok": true
   },
   {
-   "source": "youtube: appears bubble burst china",
+   "source": "youtube: uk home office may",
    "ok": true
   },
   {
-   "source": "tiktok: appears bubble burst china",
+   "source": "tiktok: uk home office may",
    "ok": true
   }
  ],
@@ -514,7 +514,7 @@
    "source_id": "wired",
    "published_ts": "2026-10-27 15:10:26",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "x-reddit",
@@ -534,29 +534,17 @@
      "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
      "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
      "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
-     "views": 97,
-     "age_hours": 10,
+     "views": 105,
+     "age_hours": 16,
      "relevance": 0.5,
-     "velocity": 10
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KAkZdNRhtlI",
-     "url": "https://www.youtube.com/shorts/KAkZdNRhtlI",
-     "title": "The Home Office & Visa Fraud",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "velocity": 7
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T01:40:40.663Z"
+   "searched_at": "2026-10-28T07:50:11.014Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -1660,7 +1648,7 @@
    "source_id": "futurism-ai",
    "published_ts": "2026-10-27 14:57:47",
    "story_sources": 3,
-   "score_norm": 51,
+   "score_norm": 52,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -1756,6 +1744,36 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-28T06:44:35.489Z"
+  },
+  {
+   "first_seen": "2026-10-27T16:49:57.324Z",
+   "id": "39444046",
+   "ids": [
+    "39444046",
+    "39440016"
+   ],
+   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-10-27 14:32:08",
+   "story_sources": 2,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "crypto-decrypt",
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
+    }
+   ],
+   "queries": [
+    "bitcoin luxor 16 mining"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-28T05:13:53.174Z"
   },
   {
    "first_seen": "2026-10-26T22:17:12.038Z",
@@ -1928,36 +1946,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T02:38:16.707Z"
-  },
-  {
-   "first_seen": "2026-10-27T16:49:57.324Z",
-   "id": "39444046",
-   "ids": [
-    "39444046",
-    "39440016"
-   ],
-   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-10-27 14:32:08",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "crypto-decrypt",
-     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
-    }
-   ],
-   "queries": [
-    "bitcoin luxor 16 mining"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-28T05:13:53.174Z"
   },
   {
    "first_seen": "2026-10-26T19:41:04.975Z",
