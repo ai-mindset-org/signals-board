@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T01:40:32.856Z",
+ "generated_at": "2026-10-28T02:38:08.439Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: UK Home Office May Face Investigation Over Use",
+   "source": "youtube: Major Apple Creator Studio",
    "ok": true
   },
   {
-   "source": "tiktok: UK Home Office May Face Investigation Over Use",
+   "source": "tiktok: Major Apple Creator Studio",
    "ok": true
   },
   {
-   "source": "youtube: uk home office may",
+   "source": "youtube: major apple creator studio",
    "ok": true
   },
   {
-   "source": "tiktok: uk home office may",
+   "source": "tiktok: major apple creator studio",
    "ok": true
   }
  ],
@@ -211,7 +211,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-27 07:00:00",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "hn",
@@ -258,6 +258,74 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T11:45:45.415Z"
+  },
+  {
+   "first_seen": "2026-10-28T02:38:08.439Z",
+   "id": "39454904",
+   "ids": [
+    "39454904",
+    "39439578"
+   ],
+   "title": "Major Apple Creator Studio Update Adds More Creative Tools, AI-Powered Features",
+   "url": "https://www.lowyat.net/2026/408585/apple-creator-studio-update/",
+   "source_id": "sea-lowyat",
+   "published_ts": "2026-10-28 02:00:35",
+   "story_sources": 2,
+   "score_norm": 80,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apple Creator Studio adds powerful new AI features and more creative tools",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
+    }
+   ],
+   "queries": [
+    "Major Apple Creator Studio",
+    "major apple creator studio"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:V5xxrYneZDA",
+     "url": "https://www.youtube.com/shorts/V5xxrYneZDA",
+     "title": "Apple just announced a MASSIVE update to Creator Studio!",
+     "channel": "",
+     "views": 5700,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ei5OuQCHYPw",
+     "url": "https://www.youtube.com/shorts/ei5OuQCHYPw",
+     "title": "Apple Creator Studio: New AI Tools Arrive in November",
+     "channel": "",
+     "views": 273,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:abfwc5r0wks",
+     "url": "https://www.youtube.com/shorts/abfwc5r0wks",
+     "title": "Apple Unveils AI‑Powered Creator Studio",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T02:38:16.707Z"
   },
   {
    "first_seen": "2026-10-27T11:18:45.828Z",
