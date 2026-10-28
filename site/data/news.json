@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T21:37:00.791Z",
+ "generated_at": "2026-10-28T22:49:48.356Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: legora building agentic operating",
+   "source": "youtube: Stephen Cas Casper",
    "ok": true
   },
   {
-   "source": "tiktok: legora building agentic operating",
+   "source": "tiktok: Stephen Cas Casper",
+   "ok": true
+  },
+  {
+   "source": "youtube: ama wednesday stephen casper",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ama wednesday stephen casper",
+   "ok": true
+  },
+  {
+   "source": "youtube: Says It Can’t Access Its BTC",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Says It Can’t Access Its BTC",
+   "ok": true
+  },
+  {
+   "source": "youtube: bitcoin treasury datavault can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: bitcoin treasury datavault can",
    "ok": true
   }
  ],
@@ -315,17 +339,17 @@
      "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
      "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
      "channel": "FAR․AI",
-     "views": 1409,
+     "views": 1454,
      "age_hours": 48,
      "relevance": 0.55,
-     "velocity": 29
+     "velocity": 30
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T16:39:34.672Z"
+   "searched_at": "2026-10-28T22:49:55.820Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -438,6 +462,49 @@
    "searched_at": "2026-10-27T20:24:55.659Z"
   },
   {
+   "first_seen": "2026-10-28T21:37:00.791Z",
+   "id": "39474658",
+   "ids": [
+    "39474658",
+    "39464516"
+   ],
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-28 09:30:00",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Legora is building the agentic operating system for legal work",
+     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+    }
+   ],
+   "queries": [
+    "legora building agentic operating"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:UOfmD1fY-i8",
+     "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
+     "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+     "channel": "OpenAI",
+     "views": 5807,
+     "age_hours": 11,
+     "relevance": 0.57,
+     "velocity": 528
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T21:37:05.455Z"
+  },
+  {
    "first_seen": "2026-10-26T17:15:42.765Z",
    "id": "39420034",
    "ids": [
@@ -541,47 +608,60 @@
    "searched_at": "2026-10-27T11:54:48.983Z"
   },
   {
-   "first_seen": "2026-10-28T21:37:00.791Z",
-   "id": "39474658",
+   "first_seen": "2026-10-28T22:49:48.356Z",
+   "id": "39475897",
    "ids": [
-    "39474658",
-    "39464516"
+    "39475897",
+    "39457957"
    ],
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-28 09:30:00",
+   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-28 21:46:02",
    "story_sources": 2,
    "score_norm": 68,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Legora is building the agentic operating system for legal work",
-     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+     "source_id": "crypto-coindesk",
+     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
     }
    ],
    "queries": [
-    "legora building agentic operating"
+    "Says It Can’t Access Its BTC",
+    "bitcoin treasury datavault can"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:UOfmD1fY-i8",
-     "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
-     "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
-     "channel": "OpenAI",
-     "views": 5807,
-     "age_hours": 11,
-     "relevance": 0.57,
-     "velocity": 528
+     "id": "youtube:JwSZDYB9ID0",
+     "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
+     "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
+     "channel": "Bullion & Bits",
+     "views": 67,
+     "age_hours": 7,
+     "relevance": 0.56,
+     "velocity": 10
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3GEgONNLSzA",
+     "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
+     "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
+     "channel": "",
+     "views": 228,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T21:37:05.455Z"
+   "searched_at": "2026-10-28T22:50:02.975Z"
   },
   {
    "first_seen": "2026-10-28T18:16:34.779Z",
@@ -848,7 +928,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-10-28 12:10:55",
    "story_sources": 3,
-   "score_norm": 61,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
