@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T12:19:38.363Z",
+ "generated_at": "2026-10-28T12:41:33.035Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: Flow Map Speculative Decoding",
+   "source": "youtube: M6 MacBook Pro",
    "ok": true
   },
   {
-   "source": "tiktok: Flow Map Speculative Decoding",
+   "source": "tiktok: M6 MacBook Pro",
    "ok": true
   },
   {
-   "source": "youtube: princeton polymathic flashmap flow",
+   "source": "youtube: apple m6 macbook pro",
    "ok": true
   },
   {
-   "source": "tiktok: princeton polymathic flashmap flow",
+   "source": "tiktok: apple m6 macbook pro",
+   "ok": true
+  },
+  {
+   "source": "youtube: Google’s TPU",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Google’s TPU",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai google tpu nvidia",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai google tpu nvidia",
    "ok": true
   }
  ],
@@ -70,10 +86,10 @@
      "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
      "title": "The new 14” MacBook Pro with M6",
      "channel": "Apple",
-     "views": 3405054,
-     "age_hours": 17,
+     "views": 6757498,
+     "age_hours": 23,
      "relevance": 0.75,
-     "velocity": 200297
+     "velocity": 293804
     },
     {
      "platform": "youtube",
@@ -82,10 +98,10 @@
      "url": "https://www.youtube.com/watch?v=0qRwIqtO3Bo",
      "title": "Apple Just Announced the M6 iMac & MacBook Pro! | What's New?",
      "channel": "9to5Mac",
-     "views": 155149,
-     "age_hours": 15,
+     "views": 165074,
+     "age_hours": 22,
      "relevance": 0.83,
-     "velocity": 10343
+     "velocity": 7503
     },
     {
      "platform": "youtube",
@@ -94,53 +110,53 @@
      "url": "https://www.youtube.com/watch?v=bLvVskwoCDk",
      "title": "New M6 MacBook Pro is HERE (..it's a Beast!)",
      "channel": "Max Tech",
-     "views": 108292,
-     "age_hours": 13,
+     "views": 132312,
+     "age_hours": 19,
      "relevance": 0.6,
-     "velocity": 8330
+     "velocity": 6964
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:3lKQgcfYBYo",
      "url": "https://www.youtube.com/watch?v=3lKQgcfYBYo",
-     "title": "M6 MacBook Pro & iMac Are Here — Should You Upgrade?",
+     "title": "Apple’s M6 MacBook Pro & iMac: Everything New!",
      "channel": "MacRumors",
-     "views": 91765,
-     "age_hours": 14,
-     "relevance": 0.57,
-     "velocity": 6555
+     "views": 105303,
+     "age_hours": 20,
+     "relevance": 0.83,
+     "velocity": 5265
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:69lLJQlt-z0",
      "url": "https://www.youtube.com/watch?v=69lLJQlt-z0",
-     "title": "Apple anuncia el MacBook Pro de 14 pulgadas con chip M6 y el iMac con M6: ¡Todo lo que necesitas ...",
+     "title": "Apple Announces M6 14-Inch MacBook Pro & M6 iMac - What You Need To Know!",
      "channel": "Brian Tong",
-     "views": 50623,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 5625
+     "views": 62298,
+     "age_hours": 16,
+     "relevance": 0.56,
+     "velocity": 3894
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:h0MjeWA2Gbg",
-     "url": "https://www.youtube.com/watch?v=h0MjeWA2Gbg",
-     "title": "iMac y MacBook Pro M6 OFICIALES: novedades, precios y lanzamiento",
-     "channel": "La Manzana Mordida - Todo sobre Apple",
-     "views": 36323,
-     "age_hours": 12,
+     "id": "youtube:OZoRQ6-l2-U",
+     "url": "https://www.youtube.com/watch?v=OZoRQ6-l2-U",
+     "title": "M6 iMac and M6 MacBook Pro: Better Inside, Same Catches",
+     "channel": "Adam Talks Tech",
+     "views": 14949,
+     "age_hours": 21,
      "relevance": 0.5,
-     "velocity": 3027
+     "velocity": 712
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-28T06:22:22.492Z"
+   "searched_at": "2026-10-28T12:41:41.446Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -600,29 +616,66 @@
     }
    ],
    "queries": [
-    "openai google report plans"
+    "Google’s TPU",
+    "openai google tpu nvidia"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1GOysQljQI",
-     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
-     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
-     "channel": "",
-     "views": 565,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:NCUZKak2pgU",
+     "url": "https://www.youtube.com/watch?v=NCUZKak2pgU",
+     "title": "OpenAI Buys Google TPU Chips #Shorts",
+     "channel": "OIA - for Al Apps",
+     "views": 7,
+     "age_hours": 6,
      "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OCvdqdSvneM",
+     "url": "https://www.youtube.com/watch?v=OCvdqdSvneM",
+     "title": "OpenAI Buys Google TPU Chips #Shorts",
+     "channel": "OIA - for Al Apps",
+     "views": 3,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:V9rD-RMWmd8",
+     "url": "https://www.youtube.com/shorts/V9rD-RMWmd8",
+     "title": "Why Use Google’s AI Chips AND Nvidia’s?",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.6,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:5rQmqdfBWz8",
-     "url": "https://www.youtube.com/shorts/5rQmqdfBWz8",
-     "title": "⚡️ Google had ChatGPT 5 years before OpenAI",
+     "id": "youtube:cTl0TcIXXZk",
+     "url": "https://www.youtube.com/shorts/cTl0TcIXXZk",
+     "title": "OpenAI Plans to Purchase Google TPUs",
      "channel": "",
-     "views": 301,
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1Sq-kN1X7rM",
+     "url": "https://www.youtube.com/shorts/1Sq-kN1X7rM",
+     "title": "OpenAI Wants Google's AI Chips #shorts",
+     "channel": "",
+     "views": 2,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -630,25 +683,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:yZSypLyR2GI",
-     "url": "https://www.youtube.com/shorts/yZSypLyR2GI",
-     "title": "\"Google and OpenAI will kill the $20 AI plans\" #shorts",
+     "id": "youtube:KWJpHbV83zk",
+     "url": "https://www.youtube.com/shorts/KWJpHbV83zk",
+     "title": "Oracle plans to offer Google TPU chips next to Nvidia in its cloud",
      "channel": "",
-     "views": 9,
+     "views": 0,
      "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mPCu-x8uF50",
-     "url": "https://www.youtube.com/shorts/mPCu-x8uF50",
-     "title": "OpenAI Plans to Buy Google's AI Chips, The Information Repor #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.86,
+     "relevance": 0.56,
      "velocity": null
     }
    ],
@@ -656,7 +697,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T06:22:26.126Z"
+   "searched_at": "2026-10-28T12:41:48.661Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
