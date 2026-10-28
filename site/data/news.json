@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T16:39:22.662Z",
+ "generated_at": "2026-10-28T18:16:34.779Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,67 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: Stephen Cas Casper",
+   "source": "youtube: Waddle World",
    "ok": true
   },
   {
-   "source": "tiktok: Stephen Cas Casper",
+   "source": "tiktok: Waddle World",
    "ok": true
   },
   {
-   "source": "youtube: ama wednesday stephen casper",
+   "source": "youtube: meta waddle world ai",
    "ok": true
   },
   {
-   "source": "tiktok: ama wednesday stephen casper",
+   "source": "tiktok: meta waddle world ai",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-10-28T16:39:22.662Z",
-   "id": "39468281",
-   "ids": [
-    "39468281",
-    "39463152"
-   ],
-   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-10-28 14:30:25",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
-    }
-   ],
-   "queries": [
-    "Stephen Cas Casper",
-    "ama wednesday stephen casper"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Og_VPf2XQmU",
-     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
-     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
-     "channel": "FAR․AI",
-     "views": 1409,
-     "age_hours": 48,
-     "relevance": 0.55,
-     "velocity": 29
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T16:39:34.672Z"
-  },
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
    "id": "39457132",
@@ -188,6 +144,50 @@
    "searched_at": "2026-10-28T12:41:48.661Z"
   },
   {
+   "first_seen": "2026-10-28T16:39:22.662Z",
+   "id": "39468281",
+   "ids": [
+    "39468281",
+    "39463152"
+   ],
+   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-10-28 14:30:25",
+   "story_sources": 2,
+   "score_norm": 99,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
+    }
+   ],
+   "queries": [
+    "Stephen Cas Casper",
+    "ama wednesday stephen casper"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Og_VPf2XQmU",
+     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
+     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
+     "channel": "FAR․AI",
+     "views": 1409,
+     "age_hours": 48,
+     "relevance": 0.55,
+     "velocity": 29
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T16:39:34.672Z"
+  },
+  {
    "first_seen": "2026-10-26T18:27:30.783Z",
    "id": "39422180",
    "ids": [
@@ -303,6 +303,98 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T13:22:45.058Z"
+  },
+  {
+   "first_seen": "2026-10-28T18:16:34.779Z",
+   "id": "39470666",
+   "ids": [
+    "39470666",
+    "39460335"
+   ],
+   "title": "Meta has a new AI pet app called Waddle World",
+   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-28 13:53:31",
+   "story_sources": 2,
+   "score_norm": 88,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+     "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
+    }
+   ],
+   "queries": [
+    "Waddle World",
+    "meta waddle world ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nwEVWpIw2MU",
+     "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
+     "title": "Meta Waddle World: A Secret AI Journal",
+     "channel": "",
+     "views": 89,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VGZUEc9RWCQ",
+     "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
+     "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bii_mIJY3yA",
+     "url": "https://www.youtube.com/shorts/Bii_mIJY3yA",
+     "title": "Meta Made an AI Pet That Writes Your Diary | Waddle World #Shorts",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0Y6k9gmi--I",
+     "url": "https://www.youtube.com/shorts/0Y6k9gmi--I",
+     "title": "Meta's Waddle World Pet App Calls Itself a 'Daily Journal'",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:duA5LFJro8M",
+     "url": "https://www.youtube.com/shorts/duA5LFJro8M",
+     "title": "Meta's New AI Pet Is Secretly a Diary #shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T18:16:42.819Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -1580,6 +1672,37 @@
    "searched_at": "2026-10-26T17:15:54.826Z"
   },
   {
+   "first_seen": "2026-10-28T12:19:38.363Z",
+   "id": "39461351",
+   "ids": [
+    "39461351",
+    "39463077"
+   ],
+   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-28 10:48:19",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "in-marktechpost",
+     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+     "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/"
+    }
+   ],
+   "queries": [
+    "Flow Map Speculative Decoding",
+    "princeton polymathic flashmap flow"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-28T12:19:45.680Z"
+  },
+  {
    "first_seen": "2026-10-27T22:11:15.888Z",
    "id": "39451143",
    "ids": [
@@ -1633,37 +1756,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T04:15:08.946Z"
-  },
-  {
-   "first_seen": "2026-10-28T12:19:38.363Z",
-   "id": "39461351",
-   "ids": [
-    "39461351",
-    "39463077"
-   ],
-   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-28 10:48:19",
-   "story_sources": 2,
-   "score_norm": 55,
-   "related_news": [
-    {
-     "source_id": "in-marktechpost",
-     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
-     "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/"
-    }
-   ],
-   "queries": [
-    "Flow Map Speculative Decoding",
-    "princeton polymathic flashmap flow"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-28T12:19:45.680Z"
   },
   {
    "first_seen": "2026-10-27T16:49:57.324Z",
