@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:13:49.196Z",
+ "generated_at": "2026-10-28T06:22:04.652Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,70 +9,146 @@
  },
  "search_report": [
   {
-   "source": "youtube: bitcoin luxor 16 mining",
+   "source": "youtube: M6 MacBook Pro",
    "ok": true
   },
   {
-   "source": "tiktok: bitcoin luxor 16 mining",
+   "source": "tiktok: M6 MacBook Pro",
+   "ok": true
+  },
+  {
+   "source": "youtube: apple m6 macbook pro",
+   "ok": true
+  },
+  {
+   "source": "tiktok: apple m6 macbook pro",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai google report plans",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai google report plans",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-27T19:21:07.287Z",
-   "id": "39442175",
+   "first_seen": "2026-10-27T14:46:59.677Z",
+   "id": "39441053",
    "ids": [
-    "39442175",
-    "39447749"
+    "39441053",
+    "39441043",
+    "39457133",
+    "39449048"
    ],
-   "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-   "source_id": "wired",
-   "published_ts": "2026-10-27 15:10:26",
-   "story_sources": 2,
+   "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
+   "url": "https://www.thehindu.com/sci-tech/technology/apple-launches-m6-macbook-pro-and-imac-pitches-faster-on-device-ai/article71634165.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-28 03:18:15",
+   "story_sources": 4,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "x-reddit",
-     "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xgvr62/uk_home_office_may_face_investigation_over_use_of/"
+     "source_id": "in-businessline",
+     "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
+     "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece"
+    },
+    {
+     "source_id": "in-express-tech",
+     "title": "Apple launches new M6 MacBook Pro, iMac; adds AI features to Creator Studio",
+     "url": "https://indianexpress.com/article/technology/apple-launches-new-m6-macbook-pro-imac-adds-ai-features-to-creator-studio-10939394/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
+     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
     }
    ],
    "queries": [
-    "UK Home Office May Face Investigation Over Use",
-    "uk home office may"
+    "M6 MacBook Pro",
+    "apple m6 macbook pro"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:QUSPbO2wtQ4",
-     "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
-     "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
-     "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
-     "views": 97,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 10
+     "id": "youtube:xWfNhWn88Bc",
+     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
+     "title": "The new 14” MacBook Pro with M6",
+     "channel": "Apple",
+     "views": 3405054,
+     "age_hours": 17,
+     "relevance": 0.75,
+     "velocity": 200297
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KAkZdNRhtlI",
-     "url": "https://www.youtube.com/shorts/KAkZdNRhtlI",
-     "title": "The Home Office & Visa Fraud",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:0qRwIqtO3Bo",
+     "url": "https://www.youtube.com/watch?v=0qRwIqtO3Bo",
+     "title": "Apple Just Announced the M6 iMac & MacBook Pro! | What's New?",
+     "channel": "9to5Mac",
+     "views": 155149,
+     "age_hours": 15,
+     "relevance": 0.83,
+     "velocity": 10343
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bLvVskwoCDk",
+     "url": "https://www.youtube.com/watch?v=bLvVskwoCDk",
+     "title": "New M6 MacBook Pro is HERE (..it's a Beast!)",
+     "channel": "Max Tech",
+     "views": 108292,
+     "age_hours": 13,
+     "relevance": 0.6,
+     "velocity": 8330
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3lKQgcfYBYo",
+     "url": "https://www.youtube.com/watch?v=3lKQgcfYBYo",
+     "title": "M6 MacBook Pro & iMac Are Here — Should You Upgrade?",
+     "channel": "MacRumors",
+     "views": 91765,
+     "age_hours": 14,
+     "relevance": 0.57,
+     "velocity": 6555
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:69lLJQlt-z0",
+     "url": "https://www.youtube.com/watch?v=69lLJQlt-z0",
+     "title": "Apple anuncia el MacBook Pro de 14 pulgadas con chip M6 y el iMac con M6: ¡Todo lo que necesitas ...",
+     "channel": "Brian Tong",
+     "views": 50623,
+     "age_hours": 9,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 5625
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:h0MjeWA2Gbg",
+     "url": "https://www.youtube.com/watch?v=h0MjeWA2Gbg",
+     "title": "iMac y MacBook Pro M6 OFICIALES: novedades, precios y lanzamiento",
+     "channel": "La Manzana Mordida - Todo sobre Apple",
+     "views": 36323,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 3027
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-28T01:40:40.663Z"
+   "searched_at": "2026-10-28T06:22:22.492Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -192,61 +268,6 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
-   "first_seen": "2026-10-27T22:11:15.888Z",
-   "id": "39451143",
-   "ids": [
-    "39451143",
-    "39443477"
-   ],
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-27 07:00:00",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-     "url": "https://openai.com/index/oracle-apps-in-chatgpt/"
-    }
-   ],
-   "queries": [
-    "openai oracle chatgpt expands"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KkYhV-arKFE",
-     "url": "https://www.youtube.com/watch?v=KkYhV-arKFE",
-     "title": "Oracle Expands OpenAI Partnership: Can ChatGPT Turn Access Into Growth?",
-     "channel": "MegaDesk",
-     "views": 17,
-     "age_hours": 7,
-     "relevance": 0.71,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:MF-mZyR75ok",
-     "url": "https://www.youtube.com/watch?v=MF-mZyR75ok",
-     "title": "OpenAI and Oracle Partner to Bring ChatGPT to Enterprise Software",
-     "channel": "Quantum Synergy",
-     "views": 1,
-     "age_hours": 3,
-     "relevance": 0.57,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T04:15:08.946Z"
-  },
-  {
    "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409961",
    "ids": [
@@ -275,216 +296,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T11:45:45.415Z"
-  },
-  {
-   "first_seen": "2026-10-28T02:38:08.439Z",
-   "id": "39454904",
-   "ids": [
-    "39454904",
-    "39439578"
-   ],
-   "title": "Major Apple Creator Studio Update Adds More Creative Tools, AI-Powered Features",
-   "url": "https://www.lowyat.net/2026/408585/apple-creator-studio-update/",
-   "source_id": "sea-lowyat",
-   "published_ts": "2026-10-28 02:00:35",
-   "story_sources": 2,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apple Creator Studio adds powerful new AI features and more creative tools",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
-    }
-   ],
-   "queries": [
-    "Major Apple Creator Studio",
-    "major apple creator studio"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:V5xxrYneZDA",
-     "url": "https://www.youtube.com/shorts/V5xxrYneZDA",
-     "title": "Apple just announced a MASSIVE update to Creator Studio!",
-     "channel": "",
-     "views": 5700,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ei5OuQCHYPw",
-     "url": "https://www.youtube.com/shorts/ei5OuQCHYPw",
-     "title": "Apple Creator Studio: New AI Tools Arrive in November",
-     "channel": "",
-     "views": 273,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:abfwc5r0wks",
-     "url": "https://www.youtube.com/shorts/abfwc5r0wks",
-     "title": "Apple Unveils AI‑Powered Creator Studio",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T02:38:16.707Z"
-  },
-  {
-   "first_seen": "2026-10-27T11:18:45.828Z",
-   "id": "39437238",
-   "ids": [
-    "39437238",
-    "39425820",
-    "39418793",
-    "39446052",
-    "39449837"
-   ],
-   "title": "It Appears That the AI Bubble Has Just Burst in China",
-   "url": "https://futurism.com/artificial-intelligence/ai-bubble-burst-china",
-   "source_id": "futurism-ai",
-   "published_ts": "2026-10-27 14:57:47",
-   "story_sources": 3,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "In China, the AI bubble has already burst",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/in-china-the-ai-bubble-has-already-burst-10938963/"
-    },
-    {
-     "source_id": "hn",
-     "title": "In China, the AI bubble has burst",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html"
-    }
-   ],
-   "queries": [
-    "Bubble Has Just Burst",
-    "appears bubble burst china"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LhkuNV1RGfI",
-     "url": "https://www.youtube.com/watch?v=LhkuNV1RGfI",
-     "title": "China's AI Bubble Has Burst. Who Will Pay The Price? | The Palki Sharma Show | IGR",
-     "channel": "India Global Review",
-     "views": 443602,
-     "age_hours": 8,
-     "relevance": 0.8,
-     "velocity": 55450
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:MgngwkPAuqQ",
-     "url": "https://www.youtube.com/watch?v=MgngwkPAuqQ",
-     "title": "The AI bubble is about to pop...",
-     "channel": "The Infographics Show",
-     "views": 181324,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 45331
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:uU2WeAX2w8g",
-     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
-     "title": "In China, the AI bubble has already burst",
-     "channel": "Reuters",
-     "views": 331831,
-     "age_hours": 13,
-     "relevance": 0.8,
-     "velocity": 25525
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:r-OyY-zhvgE",
-     "url": "https://www.youtube.com/watch?v=r-OyY-zhvgE",
-     "title": "$480 Billion Gone: China's AI Bubble Bursts | The Palki Sharma Show | IGR | India Global Review",
-     "channel": "India Global Review",
-     "views": 86329,
-     "age_hours": 6,
-     "relevance": 0.6,
-     "velocity": 14388
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZsLi5tYZCTc",
-     "url": "https://www.youtube.com/watch?v=ZsLi5tYZCTc",
-     "title": "Ai Bubble Just Burst In China",
-     "channel": "Luneist",
-     "views": 11233,
-     "age_hours": 7,
-     "relevance": 1,
-     "velocity": 1605
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:w6RyLJmNPHE",
-     "url": "https://www.youtube.com/watch?v=w6RyLJmNPHE",
-     "title": "Has China's AI Stock Bubble Finally Burst? $480 Billion Wipeout Puts Tech Valuations Under Scrutiny",
-     "channel": "Mint",
-     "views": 13003,
-     "age_hours": 9,
-     "relevance": 0.8,
-     "velocity": 1445
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-28T00:35:42.814Z"
-  },
-  {
-   "first_seen": "2026-10-27T16:49:57.324Z",
-   "id": "39444046",
-   "ids": [
-    "39444046",
-    "39440016"
-   ],
-   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-10-27 14:32:08",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "crypto-decrypt",
-     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
-    }
-   ],
-   "queries": [
-    "bitcoin luxor 16 mining"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-28T05:13:53.174Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -700,6 +511,62 @@
    "searched_at": "2026-10-27T11:54:48.983Z"
   },
   {
+   "first_seen": "2026-10-27T19:21:07.287Z",
+   "id": "39442175",
+   "ids": [
+    "39442175",
+    "39447749"
+   ],
+   "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+   "source_id": "wired",
+   "published_ts": "2026-10-27 15:10:26",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xgvr62/uk_home_office_may_face_investigation_over_use_of/"
+    }
+   ],
+   "queries": [
+    "UK Home Office May Face Investigation Over Use",
+    "uk home office may"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QUSPbO2wtQ4",
+     "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
+     "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
+     "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
+     "views": 97,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 10
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KAkZdNRhtlI",
+     "url": "https://www.youtube.com/shorts/KAkZdNRhtlI",
+     "title": "The Home Office & Visa Fraud",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T01:40:40.663Z"
+  },
+  {
    "first_seen": "2026-10-26T17:41:12.710Z",
    "id": "39419033",
    "ids": [
@@ -836,6 +703,85 @@
    "searched_at": "2026-10-26T11:45:59.605Z"
   },
   {
+   "first_seen": "2026-10-28T06:22:04.652Z",
+   "id": "39457132",
+   "ids": [
+    "39457132",
+    "39455646"
+   ],
+   "title": "OpenAI plans to buy Google's AI chips: Report",
+   "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-28 03:45:41",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "OpenAI plans to buy Google’s AI chips",
+     "url": "https://www.thehindubusinessline.com/info-tech/openai-plans-to-buy-googles-ai-chips/article71634184.ece"
+    }
+   ],
+   "queries": [
+    "openai google report plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1GOysQljQI",
+     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
+     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
+     "channel": "",
+     "views": 565,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5rQmqdfBWz8",
+     "url": "https://www.youtube.com/shorts/5rQmqdfBWz8",
+     "title": "⚡️ Google had ChatGPT 5 years before OpenAI",
+     "channel": "",
+     "views": 301,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yZSypLyR2GI",
+     "url": "https://www.youtube.com/shorts/yZSypLyR2GI",
+     "title": "\"Google and OpenAI will kill the $20 AI plans\" #shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mPCu-x8uF50",
+     "url": "https://www.youtube.com/shorts/mPCu-x8uF50",
+     "title": "OpenAI Plans to Buy Google's AI Chips, The Information Repor #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T06:22:26.126Z"
+  },
+  {
    "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409964",
    "ids": [
@@ -914,110 +860,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T11:45:52.437Z"
-  },
-  {
-   "first_seen": "2026-10-27T14:46:59.677Z",
-   "id": "39441053",
-   "ids": [
-    "39441053",
-    "39441043"
-   ],
-   "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
-   "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-10-27 14:16:20",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
-     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
-    }
-   ],
-   "queries": [
-    "M6 MacBook Pro",
-    "apple m6 macbook pro"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xWfNhWn88Bc",
-     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
-     "title": "The new 14” MacBook Pro with M6",
-     "channel": "Apple",
-     "views": 1281096,
-     "age_hours": 7,
-     "relevance": 0.75,
-     "velocity": 183014
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0qRwIqtO3Bo",
-     "url": "https://www.youtube.com/watch?v=0qRwIqtO3Bo",
-     "title": "Apple Just Announced the M6 iMac & MacBook Pro! | What's New?",
-     "channel": "9to5Mac",
-     "views": 97029,
-     "age_hours": 6,
-     "relevance": 0.83,
-     "velocity": 16172
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bLvVskwoCDk",
-     "url": "https://www.youtube.com/watch?v=bLvVskwoCDk",
-     "title": "New M6 MacBook Pro is HERE (..it's a Beast!)",
-     "channel": "Max Tech",
-     "views": 27083,
-     "age_hours": 3,
-     "relevance": 0.6,
-     "velocity": 9028
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3lKQgcfYBYo",
-     "url": "https://www.youtube.com/watch?v=3lKQgcfYBYo",
-     "title": "M6 MacBook Pro & iMac Are Here — Should You Upgrade?",
-     "channel": "MacRumors",
-     "views": 42527,
-     "age_hours": 5,
-     "relevance": 0.57,
-     "velocity": 8505
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ul9sPNxddhg",
-     "url": "https://www.youtube.com/watch?v=ul9sPNxddhg",
-     "title": "Apple Didn't Mention THESE M6 iMac & MacBook Pro Details!",
-     "channel": "9to5Mac",
-     "views": 15370,
-     "age_hours": 4,
-     "relevance": 0.63,
-     "velocity": 3843
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OZoRQ6-l2-U",
-     "url": "https://www.youtube.com/watch?v=OZoRQ6-l2-U",
-     "title": "M6 iMac and M6 MacBook Pro: Better Inside, Same Catches",
-     "channel": "Adam Talks Tech",
-     "views": 9148,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 1830
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T20:49:59.124Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
@@ -1726,6 +1568,61 @@
    "searched_at": "2026-10-26T17:15:54.826Z"
   },
   {
+   "first_seen": "2026-10-27T22:11:15.888Z",
+   "id": "39451143",
+   "ids": [
+    "39451143",
+    "39443477"
+   ],
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-27 07:00:00",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+     "url": "https://openai.com/index/oracle-apps-in-chatgpt/"
+    }
+   ],
+   "queries": [
+    "openai oracle chatgpt expands"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:KkYhV-arKFE",
+     "url": "https://www.youtube.com/watch?v=KkYhV-arKFE",
+     "title": "Oracle Expands OpenAI Partnership: Can ChatGPT Turn Access Into Growth?",
+     "channel": "MegaDesk",
+     "views": 17,
+     "age_hours": 7,
+     "relevance": 0.71,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:MF-mZyR75ok",
+     "url": "https://www.youtube.com/watch?v=MF-mZyR75ok",
+     "title": "OpenAI and Oracle Partner to Bring ChatGPT to Enterprise Software",
+     "channel": "Quantum Synergy",
+     "views": 1,
+     "age_hours": 3,
+     "relevance": 0.57,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T04:15:08.946Z"
+  },
+  {
    "first_seen": "2026-10-26T07:15:16.481Z",
    "id": "39411099",
    "ids": [
@@ -1755,6 +1652,118 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T13:51:45.464Z"
+  },
+  {
+   "first_seen": "2026-10-27T11:18:45.828Z",
+   "id": "39437238",
+   "ids": [
+    "39437238",
+    "39425820",
+    "39418793",
+    "39446052",
+    "39449837"
+   ],
+   "title": "It Appears That the AI Bubble Has Just Burst in China",
+   "url": "https://futurism.com/artificial-intelligence/ai-bubble-burst-china",
+   "source_id": "futurism-ai",
+   "published_ts": "2026-10-27 14:57:47",
+   "story_sources": 3,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "In China, the AI bubble has already burst",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/in-china-the-ai-bubble-has-already-burst-10938963/"
+    },
+    {
+     "source_id": "hn",
+     "title": "In China, the AI bubble has burst",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html"
+    }
+   ],
+   "queries": [
+    "Bubble Has Just Burst",
+    "appears bubble burst china"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LhkuNV1RGfI",
+     "url": "https://www.youtube.com/watch?v=LhkuNV1RGfI",
+     "title": "China's AI Bubble Has Burst. Who Will Pay The Price? | The Palki Sharma Show | IGR",
+     "channel": "India Global Review",
+     "views": 443602,
+     "age_hours": 8,
+     "relevance": 0.8,
+     "velocity": 55450
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:MgngwkPAuqQ",
+     "url": "https://www.youtube.com/watch?v=MgngwkPAuqQ",
+     "title": "The AI bubble is about to pop...",
+     "channel": "The Infographics Show",
+     "views": 181324,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 45331
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:uU2WeAX2w8g",
+     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
+     "title": "In China, the AI bubble has already burst",
+     "channel": "Reuters",
+     "views": 331831,
+     "age_hours": 13,
+     "relevance": 0.8,
+     "velocity": 25525
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:r-OyY-zhvgE",
+     "url": "https://www.youtube.com/watch?v=r-OyY-zhvgE",
+     "title": "$480 Billion Gone: China's AI Bubble Bursts | The Palki Sharma Show | IGR | India Global Review",
+     "channel": "India Global Review",
+     "views": 86329,
+     "age_hours": 6,
+     "relevance": 0.6,
+     "velocity": 14388
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZsLi5tYZCTc",
+     "url": "https://www.youtube.com/watch?v=ZsLi5tYZCTc",
+     "title": "Ai Bubble Just Burst In China",
+     "channel": "Luneist",
+     "views": 11233,
+     "age_hours": 7,
+     "relevance": 1,
+     "velocity": 1605
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:w6RyLJmNPHE",
+     "url": "https://www.youtube.com/watch?v=w6RyLJmNPHE",
+     "title": "Has China's AI Stock Bubble Finally Burst? $480 Billion Wipeout Puts Tech Valuations Under Scrutiny",
+     "channel": "Mint",
+     "views": 13003,
+     "age_hours": 9,
+     "relevance": 0.8,
+     "velocity": 1445
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-28T00:35:42.814Z"
   },
   {
    "first_seen": "2026-10-26T22:17:12.038Z",
@@ -1859,6 +1868,104 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T10:43:55.098Z"
+  },
+  {
+   "first_seen": "2026-10-28T02:38:08.439Z",
+   "id": "39454904",
+   "ids": [
+    "39454904",
+    "39439578"
+   ],
+   "title": "Major Apple Creator Studio Update Adds More Creative Tools, AI-Powered Features",
+   "url": "https://www.lowyat.net/2026/408585/apple-creator-studio-update/",
+   "source_id": "sea-lowyat",
+   "published_ts": "2026-10-28 02:00:35",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apple Creator Studio adds powerful new AI features and more creative tools",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
+    }
+   ],
+   "queries": [
+    "Major Apple Creator Studio",
+    "major apple creator studio"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:V5xxrYneZDA",
+     "url": "https://www.youtube.com/shorts/V5xxrYneZDA",
+     "title": "Apple just announced a MASSIVE update to Creator Studio!",
+     "channel": "",
+     "views": 5700,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ei5OuQCHYPw",
+     "url": "https://www.youtube.com/shorts/ei5OuQCHYPw",
+     "title": "Apple Creator Studio: New AI Tools Arrive in November",
+     "channel": "",
+     "views": 273,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:abfwc5r0wks",
+     "url": "https://www.youtube.com/shorts/abfwc5r0wks",
+     "title": "Apple Unveils AI‑Powered Creator Studio",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T02:38:16.707Z"
+  },
+  {
+   "first_seen": "2026-10-27T16:49:57.324Z",
+   "id": "39444046",
+   "ids": [
+    "39444046",
+    "39440016"
+   ],
+   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-10-27 14:32:08",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "crypto-decrypt",
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
+    }
+   ],
+   "queries": [
+    "bitcoin luxor 16 mining"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-28T05:13:53.174Z"
   },
   {
    "first_seen": "2026-10-26T19:41:04.975Z",
