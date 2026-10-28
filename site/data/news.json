@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T13:37:36.597Z",
+ "generated_at": "2026-10-28T14:13:37.058Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,138 +9,139 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic Files Its S-1",
+   "source": "youtube: UK Home Office May Face Investigation Over Use",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic Files Its S-1",
+   "source": "tiktok: UK Home Office May Face Investigation Over Use",
    "ok": true
   },
   {
-   "source": "youtube: anthropic files s-1",
+   "source": "youtube: uk home office may",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic files s-1",
+   "source": "tiktok: uk home office may",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-27T14:46:59.677Z",
-   "id": "39441053",
+   "first_seen": "2026-10-28T06:22:04.652Z",
+   "id": "39457132",
    "ids": [
-    "39441053",
-    "39441043",
-    "39457133",
-    "39449048"
+    "39457132",
+    "39455646",
+    "39461894",
+    "39462898",
+    "39464885"
    ],
-   "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
-   "url": "https://www.thehindu.com/sci-tech/technology/apple-launches-m6-macbook-pro-and-imac-pitches-faster-on-device-ai/article71634165.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-28 03:18:15",
+   "title": "Google Takes Its AI Chips to Oracle, and OpenAI Plans to Buy Them",
+   "url": "https://dailyai.com/2026/10/google-takes-its-ai-chips-to-oracle-and-openai-plans-to-buy-them/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-10-28 12:16:39",
    "story_sources": 4,
    "score_norm": 100,
    "related_news": [
     {
+     "source_id": "sea-techinasia",
+     "title": "OpenAI plans to buy rival Google’s AI chips: report",
+     "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report"
+    },
+    {
+     "source_id": "in-thehindu-tech",
+     "title": "OpenAI plans to buy Google's AI chips: Report",
+     "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
+    },
+    {
      "source_id": "in-businessline",
-     "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
-     "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece"
-    },
-    {
-     "source_id": "in-express-tech",
-     "title": "Apple launches new M6 MacBook Pro, iMac; adds AI features to Creator Studio",
-     "url": "https://indianexpress.com/article/technology/apple-launches-new-m6-macbook-pro-imac-adds-ai-features-to-creator-studio-10939394/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
-     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
+     "title": "OpenAI plans to buy Google’s AI chips",
+     "url": "https://www.thehindubusinessline.com/info-tech/openai-plans-to-buy-googles-ai-chips/article71634184.ece"
     }
    ],
    "queries": [
-    "M6 MacBook Pro",
-    "apple m6 macbook pro"
+    "Google’s TPU",
+    "openai google tpu nvidia"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:xWfNhWn88Bc",
-     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
-     "title": "The new 14” MacBook Pro with M6",
-     "channel": "Apple",
-     "views": 6757498,
-     "age_hours": 23,
-     "relevance": 0.75,
-     "velocity": 293804
+     "id": "youtube:NCUZKak2pgU",
+     "url": "https://www.youtube.com/watch?v=NCUZKak2pgU",
+     "title": "OpenAI Buys Google TPU Chips #Shorts",
+     "channel": "OIA - for Al Apps",
+     "views": 7,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:0qRwIqtO3Bo",
-     "url": "https://www.youtube.com/watch?v=0qRwIqtO3Bo",
-     "title": "Apple Just Announced the M6 iMac & MacBook Pro! | What's New?",
-     "channel": "9to5Mac",
-     "views": 165074,
-     "age_hours": 22,
-     "relevance": 0.83,
-     "velocity": 7503
+     "id": "youtube:OCvdqdSvneM",
+     "url": "https://www.youtube.com/watch?v=OCvdqdSvneM",
+     "title": "OpenAI Buys Google TPU Chips #Shorts",
+     "channel": "OIA - for Al Apps",
+     "views": 3,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 1
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bLvVskwoCDk",
-     "url": "https://www.youtube.com/watch?v=bLvVskwoCDk",
-     "title": "New M6 MacBook Pro is HERE (..it's a Beast!)",
-     "channel": "Max Tech",
-     "views": 132312,
-     "age_hours": 19,
+     "kind": "shorts",
+     "id": "youtube:V9rD-RMWmd8",
+     "url": "https://www.youtube.com/shorts/V9rD-RMWmd8",
+     "title": "Why Use Google’s AI Chips AND Nvidia’s?",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
      "relevance": 0.6,
-     "velocity": 6964
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3lKQgcfYBYo",
-     "url": "https://www.youtube.com/watch?v=3lKQgcfYBYo",
-     "title": "Apple’s M6 MacBook Pro & iMac: Everything New!",
-     "channel": "MacRumors",
-     "views": 105303,
-     "age_hours": 20,
-     "relevance": 0.83,
-     "velocity": 5265
+     "kind": "shorts",
+     "id": "youtube:cTl0TcIXXZk",
+     "url": "https://www.youtube.com/shorts/cTl0TcIXXZk",
+     "title": "OpenAI Plans to Purchase Google TPUs",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:69lLJQlt-z0",
-     "url": "https://www.youtube.com/watch?v=69lLJQlt-z0",
-     "title": "Apple Announces M6 14-Inch MacBook Pro & M6 iMac - What You Need To Know!",
-     "channel": "Brian Tong",
-     "views": 62298,
-     "age_hours": 16,
-     "relevance": 0.56,
-     "velocity": 3894
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OZoRQ6-l2-U",
-     "url": "https://www.youtube.com/watch?v=OZoRQ6-l2-U",
-     "title": "M6 iMac and M6 MacBook Pro: Better Inside, Same Catches",
-     "channel": "Adam Talks Tech",
-     "views": 14949,
-     "age_hours": 21,
+     "kind": "shorts",
+     "id": "youtube:1Sq-kN1X7rM",
+     "url": "https://www.youtube.com/shorts/1Sq-kN1X7rM",
+     "title": "OpenAI Wants Google's AI Chips #shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 712
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KWJpHbV83zk",
+     "url": "https://www.youtube.com/shorts/KWJpHbV83zk",
+     "title": "Oracle plans to offer Google TPU chips next to Nvidia in its cloud",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T12:41:41.446Z"
+   "searched_at": "2026-10-28T12:41:48.661Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -260,37 +261,6 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
-   "first_seen": "2026-10-28T12:19:38.363Z",
-   "id": "39461351",
-   "ids": [
-    "39461351",
-    "39463077"
-   ],
-   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-28 10:48:19",
-   "story_sources": 2,
-   "score_norm": 83,
-   "related_news": [
-    {
-     "source_id": "in-marktechpost",
-     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
-     "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/"
-    }
-   ],
-   "queries": [
-    "Flow Map Speculative Decoding",
-    "princeton polymathic flashmap flow"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-28T12:19:45.680Z"
-  },
-  {
    "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409961",
    "ids": [
@@ -319,110 +289,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T11:45:45.415Z"
-  },
-  {
-   "first_seen": "2026-10-28T13:37:36.597Z",
-   "id": "39464411",
-   "ids": [
-    "39464411",
-    "39464091"
-   ],
-   "title": "Anthropic Files Its S-1",
-   "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-10-28 12:20:53",
-   "story_sources": 2,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
-    }
-   ],
-   "queries": [
-    "Anthropic Files Its S-1",
-    "anthropic files s-1"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mhFozOsKZLU",
-     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
-     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
-     "channel": "Good Revenue",
-     "views": 75153,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 3131
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:266kCGruUnQ",
-     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
-     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
-     "channel": "CNBC Television",
-     "views": 64271,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 2678
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5nuuobUmoCE",
-     "url": "https://www.youtube.com/watch?v=5nuuobUmoCE",
-     "title": "Anthropic Files for IPO, Plans to Trade on Nasdaq",
-     "channel": "Bloomberg Television",
-     "views": 69735,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1453
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8welyuCkxnM",
-     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
-     "title": "Anthropic Files Its IPO: What We Know Now",
-     "channel": "Bloomberg Television",
-     "views": 32011,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 1334
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OWp-eREvJzY",
-     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
-     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
-     "channel": "Bloomberg Tech",
-     "views": 25547,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 1064
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A97KFDfqTSw",
-     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
-     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
-     "channel": "Nobody Special",
-     "views": 22194,
-     "age_hours": 23,
-     "relevance": 0.67,
-     "velocity": 965
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-28T13:37:44.522Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -535,50 +401,6 @@
    "searched_at": "2026-10-27T20:24:55.659Z"
   },
   {
-   "first_seen": "2026-10-27T19:21:07.287Z",
-   "id": "39442175",
-   "ids": [
-    "39442175",
-    "39447749"
-   ],
-   "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-   "source_id": "wired",
-   "published_ts": "2026-10-27 15:10:26",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xgvr62/uk_home_office_may_face_investigation_over_use_of/"
-    }
-   ],
-   "queries": [
-    "UK Home Office May Face Investigation Over Use",
-    "uk home office may"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QUSPbO2wtQ4",
-     "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
-     "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
-     "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
-     "views": 105,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 7
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T07:50:11.014Z"
-  },
-  {
    "first_seen": "2026-10-26T17:15:42.765Z",
    "id": "39420034",
    "ids": [
@@ -682,110 +504,120 @@
    "searched_at": "2026-10-27T11:54:48.983Z"
   },
   {
-   "first_seen": "2026-10-28T06:22:04.652Z",
-   "id": "39457132",
+   "first_seen": "2026-10-27T14:46:59.677Z",
+   "id": "39441053",
    "ids": [
-    "39457132",
-    "39455646",
-    "39461894",
-    "39462898"
+    "39441053",
+    "39441043",
+    "39457133",
+    "39449048"
    ],
-   "title": "OpenAI plans to buy rival Google’s AI chips: report",
-   "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-28 05:11:59",
-   "story_sources": 2,
-   "score_norm": 66,
+   "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
+   "url": "https://www.thehindu.com/sci-tech/technology/apple-launches-m6-macbook-pro-and-imac-pitches-faster-on-device-ai/article71634165.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-28 03:18:15",
+   "story_sources": 4,
+   "score_norm": 67,
    "related_news": [
     {
-     "source_id": "in-thehindu-tech",
-     "title": "OpenAI plans to buy Google's AI chips: Report",
-     "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
+     "source_id": "in-businessline",
+     "title": "Apple unveils M6 MacBook Pro and iMac with faster on-device AI performance",
+     "url": "https://www.thehindubusinessline.com/info-tech/apple-unveils-m6-macbook-pro-and-imac-with-faster-on-device-ai-performance/article71632151.ece"
+    },
+    {
+     "source_id": "in-express-tech",
+     "title": "Apple launches new M6 MacBook Pro, iMac; adds AI features to Creator Studio",
+     "url": "https://indianexpress.com/article/technology/apple-launches-new-m6-macbook-pro-imac-adds-ai-features-to-creator-studio-10939394/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
+     "url": "https://www.reuters.com/business/retail-consumer/apple-launches-m6-macbook-pro-imac-pitches-faster-on-device-ai-2026-10-27/"
     }
    ],
    "queries": [
-    "Google’s TPU",
-    "openai google tpu nvidia"
+    "M6 MacBook Pro",
+    "apple m6 macbook pro"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:NCUZKak2pgU",
-     "url": "https://www.youtube.com/watch?v=NCUZKak2pgU",
-     "title": "OpenAI Buys Google TPU Chips #Shorts",
-     "channel": "OIA - for Al Apps",
-     "views": 7,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 1
+     "id": "youtube:xWfNhWn88Bc",
+     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
+     "title": "The new 14” MacBook Pro with M6",
+     "channel": "Apple",
+     "views": 6757498,
+     "age_hours": 23,
+     "relevance": 0.75,
+     "velocity": 293804
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:OCvdqdSvneM",
-     "url": "https://www.youtube.com/watch?v=OCvdqdSvneM",
-     "title": "OpenAI Buys Google TPU Chips #Shorts",
-     "channel": "OIA - for Al Apps",
-     "views": 3,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 1
+     "id": "youtube:0qRwIqtO3Bo",
+     "url": "https://www.youtube.com/watch?v=0qRwIqtO3Bo",
+     "title": "Apple Just Announced the M6 iMac & MacBook Pro! | What's New?",
+     "channel": "9to5Mac",
+     "views": 165074,
+     "age_hours": 22,
+     "relevance": 0.83,
+     "velocity": 7503
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:V9rD-RMWmd8",
-     "url": "https://www.youtube.com/shorts/V9rD-RMWmd8",
-     "title": "Why Use Google’s AI Chips AND Nvidia’s?",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:bLvVskwoCDk",
+     "url": "https://www.youtube.com/watch?v=bLvVskwoCDk",
+     "title": "New M6 MacBook Pro is HERE (..it's a Beast!)",
+     "channel": "Max Tech",
+     "views": 132312,
+     "age_hours": 19,
      "relevance": 0.6,
-     "velocity": null
+     "velocity": 6964
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cTl0TcIXXZk",
-     "url": "https://www.youtube.com/shorts/cTl0TcIXXZk",
-     "title": "OpenAI Plans to Purchase Google TPUs",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:3lKQgcfYBYo",
+     "url": "https://www.youtube.com/watch?v=3lKQgcfYBYo",
+     "title": "Apple’s M6 MacBook Pro & iMac: Everything New!",
+     "channel": "MacRumors",
+     "views": 105303,
+     "age_hours": 20,
+     "relevance": 0.83,
+     "velocity": 5265
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1Sq-kN1X7rM",
-     "url": "https://www.youtube.com/shorts/1Sq-kN1X7rM",
-     "title": "OpenAI Wants Google's AI Chips #shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KWJpHbV83zk",
-     "url": "https://www.youtube.com/shorts/KWJpHbV83zk",
-     "title": "Oracle plans to offer Google TPU chips next to Nvidia in its cloud",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:69lLJQlt-z0",
+     "url": "https://www.youtube.com/watch?v=69lLJQlt-z0",
+     "title": "Apple Announces M6 14-Inch MacBook Pro & M6 iMac - What You Need To Know!",
+     "channel": "Brian Tong",
+     "views": 62298,
+     "age_hours": 16,
      "relevance": 0.56,
-     "velocity": null
+     "velocity": 3894
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OZoRQ6-l2-U",
+     "url": "https://www.youtube.com/watch?v=OZoRQ6-l2-U",
+     "title": "M6 iMac and M6 MacBook Pro: Better Inside, Same Catches",
+     "channel": "Adam Talks Tech",
+     "views": 14949,
+     "age_hours": 21,
+     "relevance": 0.5,
+     "velocity": 712
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-28T12:41:48.661Z"
+   "searched_at": "2026-10-28T12:41:41.446Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -1765,6 +1597,37 @@
    "searched_at": "2026-10-28T04:15:08.946Z"
   },
   {
+   "first_seen": "2026-10-28T12:19:38.363Z",
+   "id": "39461351",
+   "ids": [
+    "39461351",
+    "39463077"
+   ],
+   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-28 10:48:19",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "in-marktechpost",
+     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+     "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/"
+    }
+   ],
+   "queries": [
+    "Flow Map Speculative Decoding",
+    "princeton polymathic flashmap flow"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-28T12:19:45.680Z"
+  },
+  {
    "first_seen": "2026-10-27T16:49:57.324Z",
    "id": "39444046",
    "ids": [
@@ -1837,6 +1700,110 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T13:51:45.464Z"
+  },
+  {
+   "first_seen": "2026-10-28T13:37:36.597Z",
+   "id": "39464411",
+   "ids": [
+    "39464411",
+    "39464091"
+   ],
+   "title": "Anthropic Files Its S-1",
+   "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-10-28 12:20:53",
+   "story_sources": 2,
+   "score_norm": 52,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic Files Its S-1",
+     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
+    }
+   ],
+   "queries": [
+    "Anthropic Files Its S-1",
+    "anthropic files s-1"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mhFozOsKZLU",
+     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
+     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
+     "channel": "Good Revenue",
+     "views": 75153,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 3131
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:266kCGruUnQ",
+     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
+     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
+     "channel": "CNBC Television",
+     "views": 64271,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 2678
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5nuuobUmoCE",
+     "url": "https://www.youtube.com/watch?v=5nuuobUmoCE",
+     "title": "Anthropic Files for IPO, Plans to Trade on Nasdaq",
+     "channel": "Bloomberg Television",
+     "views": 69735,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 1453
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8welyuCkxnM",
+     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
+     "title": "Anthropic Files Its IPO: What We Know Now",
+     "channel": "Bloomberg Television",
+     "views": 32011,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 1334
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OWp-eREvJzY",
+     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
+     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
+     "channel": "Bloomberg Tech",
+     "views": 25547,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 1064
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A97KFDfqTSw",
+     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
+     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
+     "channel": "Nobody Special",
+     "views": 22194,
+     "age_hours": 23,
+     "relevance": 0.67,
+     "velocity": 965
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-28T13:37:44.522Z"
   },
   {
    "first_seen": "2026-10-27T11:18:45.828Z",
@@ -2445,6 +2412,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T02:01:47.076Z"
+  },
+  {
+   "first_seen": "2026-10-27T19:21:07.287Z",
+   "id": "39442175",
+   "ids": [
+    "39442175",
+    "39447749"
+   ],
+   "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+   "source_id": "wired",
+   "published_ts": "2026-10-27 15:10:26",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xgvr62/uk_home_office_may_face_investigation_over_use_of/"
+    }
+   ],
+   "queries": [
+    "UK Home Office May Face Investigation Over Use",
+    "uk home office may"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QUSPbO2wtQ4",
+     "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
+     "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
+     "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
+     "views": 141,
+     "age_hours": 22,
+     "relevance": 0.5,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T14:13:44.848Z"
   },
   {
    "first_seen": "2026-10-26T21:41:24.418Z",
