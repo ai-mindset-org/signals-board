@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:38:10.830Z",
+ "generated_at": "2026-10-28T18:50:15.412Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Flow Map Speculative Decoding",
+   "source": "youtube: Google Takes Its",
    "ok": true
   },
   {
-   "source": "tiktok: Flow Map Speculative Decoding",
+   "source": "tiktok: Google Takes Its",
    "ok": true
   },
   {
-   "source": "youtube: princeton polymathic flashmap flow",
+   "source": "youtube: google takes chips oracle",
    "ok": true
   },
   {
-   "source": "tiktok: princeton polymathic flashmap flow",
+   "source": "tiktok: google takes chips oracle",
    "ok": true
   }
  ],
@@ -60,66 +60,30 @@
     }
    ],
    "queries": [
-    "Google’s TPU",
-    "openai google tpu nvidia"
+    "Google Takes Its",
+    "google takes chips oracle"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:NCUZKak2pgU",
-     "url": "https://www.youtube.com/watch?v=NCUZKak2pgU",
-     "title": "OpenAI Buys Google TPU Chips #Shorts",
-     "channel": "OIA - for Al Apps",
-     "views": 7,
-     "age_hours": 6,
+     "id": "youtube:7uVdPLko6hc",
+     "url": "https://www.youtube.com/watch?v=7uVdPLko6hc",
+     "title": "OpenAI Reportedly Plans To Buy Google's AI Chips Despite Competing With It",
+     "channel": "AIM Network",
+     "views": 907,
+     "age_hours": 3,
      "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OCvdqdSvneM",
-     "url": "https://www.youtube.com/watch?v=OCvdqdSvneM",
-     "title": "OpenAI Buys Google TPU Chips #Shorts",
-     "channel": "OIA - for Al Apps",
-     "views": 3,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 1
+     "velocity": 302
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:V9rD-RMWmd8",
-     "url": "https://www.youtube.com/shorts/V9rD-RMWmd8",
-     "title": "Why Use Google’s AI Chips AND Nvidia’s?",
+     "id": "youtube:8ynydz18XsM",
+     "url": "https://www.youtube.com/shorts/8ynydz18XsM",
+     "title": "How Google is using AI internally",
      "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cTl0TcIXXZk",
-     "url": "https://www.youtube.com/shorts/cTl0TcIXXZk",
-     "title": "OpenAI Plans to Purchase Google TPUs",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1Sq-kN1X7rM",
-     "url": "https://www.youtube.com/shorts/1Sq-kN1X7rM",
-     "title": "OpenAI Wants Google's AI Chips #shorts",
-     "channel": "",
-     "views": 2,
+     "views": 2400,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -127,13 +91,49 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:KWJpHbV83zk",
-     "url": "https://www.youtube.com/shorts/KWJpHbV83zk",
-     "title": "Oracle plans to offer Google TPU chips next to Nvidia in its cloud",
+     "id": "youtube:VYDAtpCGpFw",
+     "url": "https://www.youtube.com/shorts/VYDAtpCGpFw",
+     "title": "OpenAI May Buy Google's AI Chips 😳 NVIDIA Should Be Watching!📈",
      "channel": "",
-     "views": 0,
+     "views": 1100,
      "age_hours": null,
      "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ljb07G4u50c",
+     "url": "https://www.youtube.com/shorts/Ljb07G4u50c",
+     "title": "Google AI chips are planned for Oracle Cloud #Shorts",
+     "channel": "",
+     "views": 32,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:r7A_m-n49BY",
+     "url": "https://www.youtube.com/shorts/r7A_m-n49BY",
+     "title": "OpenAI Buying Google's AI Chips?! Rivals Become Partners!",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4ygXYeWQqvg",
+     "url": "https://www.youtube.com/shorts/4ygXYeWQqvg",
+     "title": "OpenAI Just Planned To Buy Chips From Google (Its Biggest Rival)",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -141,7 +141,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T12:41:48.661Z"
+   "searched_at": "2026-10-28T18:50:23.622Z"
   },
   {
    "first_seen": "2026-10-28T16:39:22.662Z",
