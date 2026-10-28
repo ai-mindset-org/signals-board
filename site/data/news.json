@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T06:22:04.652Z",
+ "generated_at": "2026-10-28T06:44:20.008Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: M6 MacBook Pro",
+   "source": "youtube: Bubble Has Just Burst",
    "ok": true
   },
   {
-   "source": "tiktok: M6 MacBook Pro",
+   "source": "tiktok: Bubble Has Just Burst",
    "ok": true
   },
   {
-   "source": "youtube: apple m6 macbook pro",
+   "source": "youtube: appears bubble burst china",
    "ok": true
   },
   {
-   "source": "tiktok: apple m6 macbook pro",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai google report plans",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai google report plans",
+   "source": "tiktok: appears bubble burst china",
    "ok": true
   }
  ],
@@ -1579,7 +1571,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-27 07:00:00",
    "story_sources": 2,
-   "score_norm": 55,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "hn",
@@ -1693,10 +1685,10 @@
      "url": "https://www.youtube.com/watch?v=LhkuNV1RGfI",
      "title": "China's AI Bubble Has Burst. Who Will Pay The Price? | The Palki Sharma Show | IGR",
      "channel": "India Global Review",
-     "views": 443602,
-     "age_hours": 8,
+     "views": 987593,
+     "age_hours": 14,
      "relevance": 0.8,
-     "velocity": 55450
+     "velocity": 70542
     },
     {
      "platform": "youtube",
@@ -1705,10 +1697,10 @@
      "url": "https://www.youtube.com/watch?v=MgngwkPAuqQ",
      "title": "The AI bubble is about to pop...",
      "channel": "The Infographics Show",
-     "views": 181324,
-     "age_hours": 4,
+     "views": 595213,
+     "age_hours": 10,
      "relevance": 0.67,
-     "velocity": 45331
+     "velocity": 59521
     },
     {
      "platform": "youtube",
@@ -1717,10 +1709,10 @@
      "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
      "title": "In China, the AI bubble has already burst",
      "channel": "Reuters",
-     "views": 331831,
-     "age_hours": 13,
+     "views": 463240,
+     "age_hours": 19,
      "relevance": 0.8,
-     "velocity": 25525
+     "velocity": 24381
     },
     {
      "platform": "youtube",
@@ -1729,10 +1721,22 @@
      "url": "https://www.youtube.com/watch?v=r-OyY-zhvgE",
      "title": "$480 Billion Gone: China's AI Bubble Bursts | The Palki Sharma Show | IGR | India Global Review",
      "channel": "India Global Review",
-     "views": 86329,
-     "age_hours": 6,
+     "views": 274702,
+     "age_hours": 13,
      "relevance": 0.6,
-     "velocity": 14388
+     "velocity": 21131
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0Qj0X-6X1T0",
+     "url": "https://www.youtube.com/watch?v=0Qj0X-6X1T0",
+     "title": "China’s $3.5 Trillion Market Rout: AI Bubble Bursts, Is America Next? | Amber Zaidi",
+     "channel": "Amber Zaidi Official",
+     "views": 2198,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 2198
     },
     {
      "platform": "youtube",
@@ -1741,29 +1745,17 @@
      "url": "https://www.youtube.com/watch?v=ZsLi5tYZCTc",
      "title": "Ai Bubble Just Burst In China",
      "channel": "Luneist",
-     "views": 11233,
-     "age_hours": 7,
+     "views": 15202,
+     "age_hours": 13,
      "relevance": 1,
-     "velocity": 1605
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:w6RyLJmNPHE",
-     "url": "https://www.youtube.com/watch?v=w6RyLJmNPHE",
-     "title": "Has China's AI Stock Bubble Finally Burst? $480 Billion Wipeout Puts Tech Valuations Under Scrutiny",
-     "channel": "Mint",
-     "views": 13003,
-     "age_hours": 9,
-     "relevance": 0.8,
-     "velocity": 1445
+     "velocity": 1169
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-28T00:35:42.814Z"
+   "searched_at": "2026-10-28T06:44:35.489Z"
   },
   {
    "first_seen": "2026-10-26T22:17:12.038Z",
