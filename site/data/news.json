@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T00:35:34.963Z",
+ "generated_at": "2026-10-28T01:40:32.856Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Bubble Has Just Burst",
+   "source": "youtube: UK Home Office May Face Investigation Over Use",
    "ok": true
   },
   {
-   "source": "tiktok: Bubble Has Just Burst",
+   "source": "tiktok: UK Home Office May Face Investigation Over Use",
    "ok": true
   },
   {
-   "source": "youtube: appears bubble burst china",
+   "source": "youtube: uk home office may",
    "ok": true
   },
   {
-   "source": "tiktok: appears bubble burst china",
+   "source": "tiktok: uk home office may",
    "ok": true
   }
  ],
@@ -58,17 +58,29 @@
      "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
      "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
      "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
-     "views": 31,
-     "age_hours": 4,
+     "views": 97,
+     "age_hours": 10,
      "relevance": 0.5,
-     "velocity": 8
+     "velocity": 10
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KAkZdNRhtlI",
+     "url": "https://www.youtube.com/shorts/KAkZdNRhtlI",
+     "title": "The Home Office & Visa Fraud",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-27T19:21:15.888Z"
+   "searched_at": "2026-10-28T01:40:40.663Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
