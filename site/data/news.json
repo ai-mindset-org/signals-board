@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T23:10:46.714Z",
+ "generated_at": "2026-10-28T00:35:34.963Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: bitcoin luxor 16 mining",
+   "source": "youtube: Bubble Has Just Burst",
    "ok": true
   },
   {
-   "source": "tiktok: bitcoin luxor 16 mining",
+   "source": "tiktok: Bubble Has Just Burst",
+   "ok": true
+  },
+  {
+   "source": "youtube: appears bubble burst china",
+   "ok": true
+  },
+  {
+   "source": "tiktok: appears bubble burst china",
    "ok": true
   }
  ],
@@ -180,6 +188,36 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
+   "first_seen": "2026-10-27T22:11:15.888Z",
+   "id": "39451143",
+   "ids": [
+    "39451143",
+    "39443477"
+   ],
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-27 07:00:00",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+     "url": "https://openai.com/index/oracle-apps-in-chatgpt/"
+    }
+   ],
+   "queries": [
+    "openai oracle chatgpt expands"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-27T22:11:20.149Z"
+  },
+  {
    "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409961",
    "ids": [
@@ -208,36 +246,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-26T11:45:45.415Z"
-  },
-  {
-   "first_seen": "2026-10-27T22:11:15.888Z",
-   "id": "39451143",
-   "ids": [
-    "39451143",
-    "39443477"
-   ],
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-27 07:00:00",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-     "url": "https://openai.com/index/oracle-apps-in-chatgpt/"
-    }
-   ],
-   "queries": [
-    "openai oracle chatgpt expands"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-27T22:11:20.149Z"
   },
   {
    "first_seen": "2026-10-27T11:18:45.828Z",
@@ -275,50 +283,62 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:uU2WeAX2w8g",
-     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
-     "title": "In China, the AI bubble has already burst",
-     "channel": "Reuters",
-     "views": 105291,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 15042
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tWv-_0_s42o",
-     "url": "https://www.youtube.com/watch?v=tWv-_0_s42o",
-     "title": "फूट गया Ai Bubble | China Market Crash: चीन में मचा हाहाकार, 45% टूट गया बाज़ार | STAR 50 Drops 40%",
-     "channel": "Stock Market का Commando",
-     "views": 6536,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 6536
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:d-DcNKEpd58",
-     "url": "https://www.youtube.com/watch?v=d-DcNKEpd58",
-     "title": "China AI bubble has just burst! US next?",
-     "channel": "1M65",
-     "views": 43167,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 6167
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:LhkuNV1RGfI",
      "url": "https://www.youtube.com/watch?v=LhkuNV1RGfI",
      "title": "China's AI Bubble Has Burst. Who Will Pay The Price? | The Palki Sharma Show | IGR",
      "channel": "India Global Review",
-     "views": 5469,
-     "age_hours": 1,
+     "views": 443602,
+     "age_hours": 8,
      "relevance": 0.8,
-     "velocity": 5469
+     "velocity": 55450
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:MgngwkPAuqQ",
+     "url": "https://www.youtube.com/watch?v=MgngwkPAuqQ",
+     "title": "The AI bubble is about to pop...",
+     "channel": "The Infographics Show",
+     "views": 181324,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 45331
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:uU2WeAX2w8g",
+     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
+     "title": "In China, the AI bubble has already burst",
+     "channel": "Reuters",
+     "views": 331831,
+     "age_hours": 13,
+     "relevance": 0.8,
+     "velocity": 25525
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:r-OyY-zhvgE",
+     "url": "https://www.youtube.com/watch?v=r-OyY-zhvgE",
+     "title": "$480 Billion Gone: China's AI Bubble Bursts | The Palki Sharma Show | IGR | India Global Review",
+     "channel": "India Global Review",
+     "views": 86329,
+     "age_hours": 6,
+     "relevance": 0.6,
+     "velocity": 14388
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZsLi5tYZCTc",
+     "url": "https://www.youtube.com/watch?v=ZsLi5tYZCTc",
+     "title": "Ai Bubble Just Burst In China",
+     "channel": "Luneist",
+     "views": 11233,
+     "age_hours": 7,
+     "relevance": 1,
+     "velocity": 1605
     },
     {
      "platform": "youtube",
@@ -327,29 +347,17 @@
      "url": "https://www.youtube.com/watch?v=w6RyLJmNPHE",
      "title": "Has China's AI Stock Bubble Finally Burst? $480 Billion Wipeout Puts Tech Valuations Under Scrutiny",
      "channel": "Mint",
-     "views": 3214,
-     "age_hours": 2,
+     "views": 13003,
+     "age_hours": 9,
      "relevance": 0.8,
-     "velocity": 1607
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CjquP0fupG4",
-     "url": "https://www.youtube.com/watch?v=CjquP0fupG4",
-     "title": "AI Bubble Burst? Bitcoin to Zero? Hedge Funds Wrecked? Sounds Like a Bottom is Near",
-     "channel": "Jordi Visser",
-     "views": 45702,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 952
+     "velocity": 1445
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-27T18:15:35.856Z"
+   "searched_at": "2026-10-28T00:35:42.814Z"
   },
   {
    "first_seen": "2026-10-27T16:49:57.324Z",
