@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T19:11:02.740Z",
+ "generated_at": "2026-10-28T19:50:08.797Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Anthropic Files Its S-1",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Anthropic Files Its S-1",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic files s-1",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic files s-1",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
@@ -299,7 +316,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-28 13:53:31",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "engadget",
@@ -422,7 +439,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-10-28 12:10:55",
    "story_sources": 3,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
@@ -447,22 +464,10 @@
      "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
      "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
      "channel": "Good Revenue",
-     "views": 75153,
+     "views": 77282,
      "age_hours": 24,
      "relevance": 0.67,
-     "velocity": 3131
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:266kCGruUnQ",
-     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
-     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
-     "channel": "CNBC Television",
-     "views": 64271,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 2678
+     "velocity": 3220
     },
     {
      "platform": "youtube",
@@ -471,34 +476,22 @@
      "url": "https://www.youtube.com/watch?v=5nuuobUmoCE",
      "title": "Anthropic Files for IPO, Plans to Trade on Nasdaq",
      "channel": "Bloomberg Television",
-     "views": 69735,
+     "views": 70054,
      "age_hours": 48,
      "relevance": 0.67,
-     "velocity": 1453
+     "velocity": 1459
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:8welyuCkxnM",
-     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
-     "title": "Anthropic Files Its IPO: What We Know Now",
-     "channel": "Bloomberg Television",
-     "views": 32011,
-     "age_hours": 24,
+     "id": "youtube:266kCGruUnQ",
+     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
+     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
+     "channel": "CNBC Television",
+     "views": 65061,
+     "age_hours": 48,
      "relevance": 0.67,
-     "velocity": 1334
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OWp-eREvJzY",
-     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
-     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
-     "channel": "Bloomberg Tech",
-     "views": 25547,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 1064
+     "velocity": 1355
     },
     {
      "platform": "youtube",
@@ -507,17 +500,41 @@
      "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
      "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
      "channel": "Nobody Special",
-     "views": 22194,
-     "age_hours": 23,
+     "views": 23887,
+     "age_hours": 24,
      "relevance": 0.67,
-     "velocity": 965
+     "velocity": 995
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8welyuCkxnM",
+     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
+     "title": "Anthropic Files Its IPO: What We Know Now",
+     "channel": "Bloomberg Television",
+     "views": 32325,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 673
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OWp-eREvJzY",
+     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
+     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
+     "channel": "Bloomberg Tech",
+     "views": 26191,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 546
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-28T13:37:44.522Z"
+   "searched_at": "2026-10-28T19:50:17.282Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
