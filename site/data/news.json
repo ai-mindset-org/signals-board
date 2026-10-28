@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T07:50:03.223Z",
+ "generated_at": "2026-10-28T08:38:25.530Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: UK Home Office May Face Investigation Over Use",
+   "source": "youtube: Major Apple Creator Studio",
    "ok": true
   },
   {
-   "source": "tiktok: UK Home Office May Face Investigation Over Use",
+   "source": "tiktok: Major Apple Creator Studio",
    "ok": true
   },
   {
-   "source": "youtube: uk home office may",
+   "source": "youtube: major apple creator studio",
    "ok": true
   },
   {
-   "source": "tiktok: uk home office may",
+   "source": "tiktok: major apple creator studio",
    "ok": true
   }
  ],
@@ -514,7 +514,7 @@
    "source_id": "wired",
    "published_ts": "2026-10-27 15:10:26",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "x-reddit",
@@ -1911,7 +1911,7 @@
      "url": "https://www.youtube.com/shorts/V5xxrYneZDA",
      "title": "Apple just announced a MASSIVE update to Creator Studio!",
      "channel": "",
-     "views": 5700,
+     "views": 7200,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1923,7 +1923,7 @@
      "url": "https://www.youtube.com/shorts/ei5OuQCHYPw",
      "title": "Apple Creator Studio: New AI Tools Arrive in November",
      "channel": "",
-     "views": 273,
+     "views": 345,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -1935,9 +1935,21 @@
      "url": "https://www.youtube.com/shorts/abfwc5r0wks",
      "title": "Apple Unveils AI‑Powered Creator Studio",
      "channel": "",
-     "views": 13,
+     "views": 20,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kp1qjj8OSxw",
+     "url": "https://www.youtube.com/shorts/kp1qjj8OSxw",
+     "title": "Apple Creator Studio Gets Major AI Upgrade",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -1945,7 +1957,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T02:38:16.707Z"
+   "searched_at": "2026-10-28T08:38:33.370Z"
   },
   {
    "first_seen": "2026-10-26T19:41:04.975Z",
