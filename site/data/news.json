@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T11:37:09.407Z",
+ "generated_at": "2026-10-28T12:19:38.363Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Flow Map Speculative Decoding",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Flow Map Speculative Decoding",
+   "ok": true
+  },
+  {
+   "source": "youtube: princeton polymathic flashmap flow",
+   "ok": true
+  },
+  {
+   "source": "tiktok: princeton polymathic flashmap flow",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-27T14:46:59.677Z",
@@ -243,89 +260,35 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
-   "first_seen": "2026-10-28T06:22:04.652Z",
-   "id": "39457132",
+   "first_seen": "2026-10-28T12:19:38.363Z",
+   "id": "39461351",
    "ids": [
-    "39457132",
-    "39455646",
-    "39461894"
+    "39461351",
+    "39463077"
    ],
-   "title": "OpenAI plans to buy rival Google’s AI chips: report",
-   "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-28 05:11:59",
-   "story_sources": 3,
-   "score_norm": 88,
+   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-28 10:48:19",
+   "story_sources": 2,
+   "score_norm": 84,
    "related_news": [
     {
-     "source_id": "in-thehindu-tech",
-     "title": "OpenAI plans to buy Google's AI chips: Report",
-     "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
-    },
-    {
-     "source_id": "in-businessline",
-     "title": "OpenAI plans to buy Google’s AI chips",
-     "url": "https://www.thehindubusinessline.com/info-tech/openai-plans-to-buy-googles-ai-chips/article71634184.ece"
+     "source_id": "in-marktechpost",
+     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+     "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/"
     }
    ],
    "queries": [
-    "openai google report plans"
+    "Flow Map Speculative Decoding",
+    "princeton polymathic flashmap flow"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1GOysQljQI",
-     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
-     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
-     "channel": "",
-     "views": 565,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5rQmqdfBWz8",
-     "url": "https://www.youtube.com/shorts/5rQmqdfBWz8",
-     "title": "⚡️ Google had ChatGPT 5 years before OpenAI",
-     "channel": "",
-     "views": 301,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yZSypLyR2GI",
-     "url": "https://www.youtube.com/shorts/yZSypLyR2GI",
-     "title": "\"Google and OpenAI will kill the $20 AI plans\" #shorts",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mPCu-x8uF50",
-     "url": "https://www.youtube.com/shorts/mPCu-x8uF50",
-     "title": "OpenAI Plans to Buy Google's AI Chips, The Information Repor #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-28T06:22:26.126Z"
+   "searched_at": "2026-10-28T12:19:45.680Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -613,6 +576,87 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T11:54:48.983Z"
+  },
+  {
+   "first_seen": "2026-10-28T06:22:04.652Z",
+   "id": "39457132",
+   "ids": [
+    "39457132",
+    "39455646",
+    "39461894",
+    "39462898"
+   ],
+   "title": "OpenAI plans to buy rival Google’s AI chips: report",
+   "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-28 05:11:59",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "in-thehindu-tech",
+     "title": "OpenAI plans to buy Google's AI chips: Report",
+     "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
+    }
+   ],
+   "queries": [
+    "openai google report plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1GOysQljQI",
+     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
+     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
+     "channel": "",
+     "views": 565,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5rQmqdfBWz8",
+     "url": "https://www.youtube.com/shorts/5rQmqdfBWz8",
+     "title": "⚡️ Google had ChatGPT 5 years before OpenAI",
+     "channel": "",
+     "views": 301,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yZSypLyR2GI",
+     "url": "https://www.youtube.com/shorts/yZSypLyR2GI",
+     "title": "\"Google and OpenAI will kill the $20 AI plans\" #shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mPCu-x8uF50",
+     "url": "https://www.youtube.com/shorts/mPCu-x8uF50",
+     "title": "OpenAI Plans to Buy Google's AI Chips, The Information Repor #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T06:22:26.126Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
