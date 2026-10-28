@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T04:15:02.215Z",
+ "generated_at": "2026-10-28T05:13:49.196Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai oracle chatgpt expands",
+   "source": "youtube: bitcoin luxor 16 mining",
    "ok": true
   },
   {
-   "source": "tiktok: openai oracle chatgpt expands",
+   "source": "tiktok: bitcoin luxor 16 mining",
    "ok": true
   }
  ],
@@ -203,7 +203,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-27 07:00:00",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "hn",
@@ -288,7 +288,7 @@
    "source_id": "sea-lowyat",
    "published_ts": "2026-10-28 02:00:35",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "hn",
@@ -479,25 +479,12 @@
    "queries": [
     "bitcoin luxor 16 mining"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lfFG3BU8Luc",
-     "url": "https://www.youtube.com/shorts/lfFG3BU8Luc",
-     "title": "Your Heater Could Be Mining Bitcoin",
-     "channel": "",
-     "views": 243,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-27T23:10:50.906Z"
+   "searched_at": "2026-10-28T05:13:53.174Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
