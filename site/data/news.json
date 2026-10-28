@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T11:23:59.451Z",
+ "generated_at": "2026-10-28T11:37:09.407Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: bitcoin luxor 16 mining",
-   "ok": true
-  },
-  {
-   "source": "tiktok: bitcoin luxor 16 mining",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-27T14:46:59.677Z",
@@ -252,6 +243,91 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
+   "first_seen": "2026-10-28T06:22:04.652Z",
+   "id": "39457132",
+   "ids": [
+    "39457132",
+    "39455646",
+    "39461894"
+   ],
+   "title": "OpenAI plans to buy rival Google’s AI chips: report",
+   "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-28 05:11:59",
+   "story_sources": 3,
+   "score_norm": 88,
+   "related_news": [
+    {
+     "source_id": "in-thehindu-tech",
+     "title": "OpenAI plans to buy Google's AI chips: Report",
+     "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
+    },
+    {
+     "source_id": "in-businessline",
+     "title": "OpenAI plans to buy Google’s AI chips",
+     "url": "https://www.thehindubusinessline.com/info-tech/openai-plans-to-buy-googles-ai-chips/article71634184.ece"
+    }
+   ],
+   "queries": [
+    "openai google report plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1GOysQljQI",
+     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
+     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
+     "channel": "",
+     "views": 565,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5rQmqdfBWz8",
+     "url": "https://www.youtube.com/shorts/5rQmqdfBWz8",
+     "title": "⚡️ Google had ChatGPT 5 years before OpenAI",
+     "channel": "",
+     "views": 301,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yZSypLyR2GI",
+     "url": "https://www.youtube.com/shorts/yZSypLyR2GI",
+     "title": "\"Google and OpenAI will kill the $20 AI plans\" #shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mPCu-x8uF50",
+     "url": "https://www.youtube.com/shorts/mPCu-x8uF50",
+     "title": "OpenAI Plans to Buy Google's AI Chips, The Information Repor #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T06:22:26.126Z"
+  },
+  {
    "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409961",
    "ids": [
@@ -392,6 +468,50 @@
    "searched_at": "2026-10-27T20:24:55.659Z"
   },
   {
+   "first_seen": "2026-10-27T19:21:07.287Z",
+   "id": "39442175",
+   "ids": [
+    "39442175",
+    "39447749"
+   ],
+   "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+   "source_id": "wired",
+   "published_ts": "2026-10-27 15:10:26",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xgvr62/uk_home_office_may_face_investigation_over_use_of/"
+    }
+   ],
+   "queries": [
+    "UK Home Office May Face Investigation Over Use",
+    "uk home office may"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QUSPbO2wtQ4",
+     "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
+     "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
+     "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
+     "views": 105,
+     "age_hours": 16,
+     "relevance": 0.5,
+     "velocity": 7
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T07:50:11.014Z"
+  },
+  {
    "first_seen": "2026-10-26T17:15:42.765Z",
    "id": "39420034",
    "ids": [
@@ -493,50 +613,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T11:54:48.983Z"
-  },
-  {
-   "first_seen": "2026-10-27T19:21:07.287Z",
-   "id": "39442175",
-   "ids": [
-    "39442175",
-    "39447749"
-   ],
-   "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-   "source_id": "wired",
-   "published_ts": "2026-10-27 15:10:26",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xgvr62/uk_home_office_may_face_investigation_over_use_of/"
-    }
-   ],
-   "queries": [
-    "UK Home Office May Face Investigation Over Use",
-    "uk home office may"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QUSPbO2wtQ4",
-     "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
-     "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
-     "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
-     "views": 105,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 7
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T07:50:11.014Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -673,85 +749,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T11:45:59.605Z"
-  },
-  {
-   "first_seen": "2026-10-28T06:22:04.652Z",
-   "id": "39457132",
-   "ids": [
-    "39457132",
-    "39455646"
-   ],
-   "title": "OpenAI plans to buy Google's AI chips: Report",
-   "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-28 03:45:41",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "OpenAI plans to buy Google’s AI chips",
-     "url": "https://www.thehindubusinessline.com/info-tech/openai-plans-to-buy-googles-ai-chips/article71634184.ece"
-    }
-   ],
-   "queries": [
-    "openai google report plans"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1GOysQljQI",
-     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
-     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
-     "channel": "",
-     "views": 565,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5rQmqdfBWz8",
-     "url": "https://www.youtube.com/shorts/5rQmqdfBWz8",
-     "title": "⚡️ Google had ChatGPT 5 years before OpenAI",
-     "channel": "",
-     "views": 301,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yZSypLyR2GI",
-     "url": "https://www.youtube.com/shorts/yZSypLyR2GI",
-     "title": "\"Google and OpenAI will kill the $20 AI plans\" #shorts",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mPCu-x8uF50",
-     "url": "https://www.youtube.com/shorts/mPCu-x8uF50",
-     "title": "OpenAI Plans to Buy Google's AI Chips, The Information Repor #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T06:22:26.126Z"
   },
   {
    "first_seen": "2026-10-26T05:19:28.291Z",
@@ -1595,37 +1592,6 @@
    "searched_at": "2026-10-28T04:15:08.946Z"
   },
   {
-   "first_seen": "2026-10-26T07:15:16.481Z",
-   "id": "39411099",
-   "ids": [
-    "39411099",
-    "39406629"
-   ],
-   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
-   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
-   "source_id": "cn-pandaily",
-   "published_ts": "2026-10-26 06:51:59",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "in-marktechpost",
-     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
-    }
-   ],
-   "queries": [
-    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-    "boss zhipin nanbeige team"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T13:51:45.464Z"
-  },
-  {
    "first_seen": "2026-10-27T16:49:57.324Z",
    "id": "39444046",
    "ids": [
@@ -1637,7 +1603,7 @@
    "source_id": "crypto-theblock",
    "published_ts": "2026-10-27 14:32:08",
    "story_sources": 2,
-   "score_norm": 52,
+   "score_norm": 53,
    "related_news": [
     {
      "source_id": "crypto-decrypt",
@@ -1667,6 +1633,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T11:24:03.462Z"
+  },
+  {
+   "first_seen": "2026-10-26T07:15:16.481Z",
+   "id": "39411099",
+   "ids": [
+    "39411099",
+    "39406629"
+   ],
+   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
+   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-10-26 06:51:59",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "in-marktechpost",
+     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
+    }
+   ],
+   "queries": [
+    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
+    "boss zhipin nanbeige team"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T13:51:45.464Z"
   },
   {
    "first_seen": "2026-10-27T11:18:45.828Z",
