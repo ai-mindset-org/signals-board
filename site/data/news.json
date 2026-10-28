@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:25:45.884Z",
+ "generated_at": "2026-10-28T21:37:00.791Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: legora building agentic operating",
+   "ok": true
+  },
+  {
+   "source": "tiktok: legora building agentic operating",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
@@ -286,7 +295,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-10-28 14:30:25",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "x-reddit",
@@ -532,6 +541,49 @@
    "searched_at": "2026-10-27T11:54:48.983Z"
   },
   {
+   "first_seen": "2026-10-28T21:37:00.791Z",
+   "id": "39474658",
+   "ids": [
+    "39474658",
+    "39464516"
+   ],
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-28 09:30:00",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Legora is building the agentic operating system for legal work",
+     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+    }
+   ],
+   "queries": [
+    "legora building agentic operating"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:UOfmD1fY-i8",
+     "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
+     "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+     "channel": "OpenAI",
+     "views": 5807,
+     "age_hours": 11,
+     "relevance": 0.57,
+     "velocity": 528
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T21:37:05.455Z"
+  },
+  {
    "first_seen": "2026-10-28T18:16:34.779Z",
    "id": "39470666",
    "ids": [
@@ -543,7 +595,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-28 13:53:31",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "engadget",
