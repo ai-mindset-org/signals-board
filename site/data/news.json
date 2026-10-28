@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T19:50:08.797Z",
+ "generated_at": "2026-10-28T20:25:45.884Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Anthropic Files Its S-1",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Anthropic Files Its S-1",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic files s-1",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic files s-1",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
@@ -34,12 +17,13 @@
     "39455646",
     "39461894",
     "39462898",
-    "39464885"
+    "39464885",
+    "39473305"
    ],
-   "title": "Google Takes Its AI Chips to Oracle, and OpenAI Plans to Buy Them",
-   "url": "https://dailyai.com/2026/10/google-takes-its-ai-chips-to-oracle-and-openai-plans-to-buy-them/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-10-28 12:16:39",
+   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-28 19:16:02",
    "story_sources": 4,
    "score_norm": 100,
    "related_news": [
@@ -142,50 +126,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T18:50:23.622Z"
-  },
-  {
-   "first_seen": "2026-10-28T16:39:22.662Z",
-   "id": "39468281",
-   "ids": [
-    "39468281",
-    "39463152"
-   ],
-   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-10-28 14:30:25",
-   "story_sources": 2,
-   "score_norm": 99,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
-    }
-   ],
-   "queries": [
-    "Stephen Cas Casper",
-    "ama wednesday stephen casper"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Og_VPf2XQmU",
-     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
-     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
-     "channel": "FAR․AI",
-     "views": 1409,
-     "age_hours": 48,
-     "relevance": 0.55,
-     "velocity": 29
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T16:39:34.672Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -305,98 +245,6 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
-   "first_seen": "2026-10-28T18:16:34.779Z",
-   "id": "39470666",
-   "ids": [
-    "39470666",
-    "39460335"
-   ],
-   "title": "Meta has a new AI pet app called Waddle World",
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-28 13:53:31",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-     "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
-    }
-   ],
-   "queries": [
-    "Waddle World",
-    "meta waddle world ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nwEVWpIw2MU",
-     "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
-     "title": "Meta Waddle World: A Secret AI Journal",
-     "channel": "",
-     "views": 89,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VGZUEc9RWCQ",
-     "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
-     "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Bii_mIJY3yA",
-     "url": "https://www.youtube.com/shorts/Bii_mIJY3yA",
-     "title": "Meta Made an AI Pet That Writes Your Diary | Waddle World #Shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0Y6k9gmi--I",
-     "url": "https://www.youtube.com/shorts/0Y6k9gmi--I",
-     "title": "Meta's Waddle World Pet App Calls Itself a 'Daily Journal'",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:duA5LFJro8M",
-     "url": "https://www.youtube.com/shorts/duA5LFJro8M",
-     "title": "Meta's New AI Pet Is Secretly a Diary #shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T18:16:42.819Z"
-  },
-  {
    "first_seen": "2026-10-26T05:19:28.291Z",
    "id": "39409961",
    "ids": [
@@ -427,114 +275,48 @@
    "searched_at": "2026-10-26T11:45:45.415Z"
   },
   {
-   "first_seen": "2026-10-28T13:37:36.597Z",
-   "id": "39464411",
+   "first_seen": "2026-10-28T16:39:22.662Z",
+   "id": "39468281",
    "ids": [
-    "39464411",
-    "39464091",
-    "39467177"
+    "39468281",
+    "39463152"
    ],
-   "title": "Anthropic Files Its S-1",
-   "url": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-10-28 12:10:55",
-   "story_sources": 3,
-   "score_norm": 79,
+   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-10-28 14:30:25",
+   "story_sources": 2,
+   "score_norm": 76,
    "related_news": [
     {
-     "source_id": "lesswrong-feed",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
+     "source_id": "x-reddit",
+     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
     }
    ],
    "queries": [
-    "Anthropic Files Its S-1",
-    "anthropic files s-1"
+    "Stephen Cas Casper",
+    "ama wednesday stephen casper"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:mhFozOsKZLU",
-     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
-     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
-     "channel": "Good Revenue",
-     "views": 77282,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 3220
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5nuuobUmoCE",
-     "url": "https://www.youtube.com/watch?v=5nuuobUmoCE",
-     "title": "Anthropic Files for IPO, Plans to Trade on Nasdaq",
-     "channel": "Bloomberg Television",
-     "views": 70054,
+     "id": "youtube:Og_VPf2XQmU",
+     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
+     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
+     "channel": "FAR․AI",
+     "views": 1409,
      "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1459
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:266kCGruUnQ",
-     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
-     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
-     "channel": "CNBC Television",
-     "views": 65061,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1355
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A97KFDfqTSw",
-     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
-     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
-     "channel": "Nobody Special",
-     "views": 23887,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 995
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8welyuCkxnM",
-     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
-     "title": "Anthropic Files Its IPO: What We Know Now",
-     "channel": "Bloomberg Television",
-     "views": 32325,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 673
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OWp-eREvJzY",
-     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
-     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
-     "channel": "Bloomberg Tech",
-     "views": 26191,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 546
+     "relevance": 0.55,
+     "velocity": 29
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T19:50:17.282Z"
+   "searched_at": "2026-10-28T16:39:34.672Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -750,6 +532,98 @@
    "searched_at": "2026-10-27T11:54:48.983Z"
   },
   {
+   "first_seen": "2026-10-28T18:16:34.779Z",
+   "id": "39470666",
+   "ids": [
+    "39470666",
+    "39460335"
+   ],
+   "title": "Meta has a new AI pet app called Waddle World",
+   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-28 13:53:31",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+     "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
+    }
+   ],
+   "queries": [
+    "Waddle World",
+    "meta waddle world ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nwEVWpIw2MU",
+     "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
+     "title": "Meta Waddle World: A Secret AI Journal",
+     "channel": "",
+     "views": 89,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VGZUEc9RWCQ",
+     "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
+     "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bii_mIJY3yA",
+     "url": "https://www.youtube.com/shorts/Bii_mIJY3yA",
+     "title": "Meta Made an AI Pet That Writes Your Diary | Waddle World #Shorts",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0Y6k9gmi--I",
+     "url": "https://www.youtube.com/shorts/0Y6k9gmi--I",
+     "title": "Meta's Waddle World Pet App Calls Itself a 'Daily Journal'",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:duA5LFJro8M",
+     "url": "https://www.youtube.com/shorts/duA5LFJro8M",
+     "title": "Meta's New AI Pet Is Secretly a Diary #shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T18:16:42.819Z"
+  },
+  {
    "first_seen": "2026-10-26T17:41:12.710Z",
    "id": "39419033",
    "ids": [
@@ -908,6 +782,116 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T11:45:52.437Z"
+  },
+  {
+   "first_seen": "2026-10-28T13:37:36.597Z",
+   "id": "39464411",
+   "ids": [
+    "39464411",
+    "39464091",
+    "39467177"
+   ],
+   "title": "Anthropic Files Its S-1",
+   "url": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-10-28 12:10:55",
+   "story_sources": 3,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "Anthropic Files Its S-1",
+     "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic Files Its S-1",
+     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
+    }
+   ],
+   "queries": [
+    "Anthropic Files Its S-1",
+    "anthropic files s-1"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mhFozOsKZLU",
+     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
+     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
+     "channel": "Good Revenue",
+     "views": 77282,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 3220
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5nuuobUmoCE",
+     "url": "https://www.youtube.com/watch?v=5nuuobUmoCE",
+     "title": "Anthropic Files for IPO, Plans to Trade on Nasdaq",
+     "channel": "Bloomberg Television",
+     "views": 70054,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 1459
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:266kCGruUnQ",
+     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
+     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
+     "channel": "CNBC Television",
+     "views": 65061,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 1355
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A97KFDfqTSw",
+     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
+     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
+     "channel": "Nobody Special",
+     "views": 23887,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 995
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8welyuCkxnM",
+     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
+     "title": "Anthropic Files Its IPO: What We Know Now",
+     "channel": "Bloomberg Television",
+     "views": 32325,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 673
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OWp-eREvJzY",
+     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
+     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
+     "channel": "Bloomberg Tech",
+     "views": 26191,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 546
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-28T19:50:17.282Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
@@ -1614,37 +1598,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-26T17:15:54.826Z"
-  },
-  {
-   "first_seen": "2026-10-28T12:19:38.363Z",
-   "id": "39461351",
-   "ids": [
-    "39461351",
-    "39463077"
-   ],
-   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-28 10:48:19",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "in-marktechpost",
-     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
-     "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/"
-    }
-   ],
-   "queries": [
-    "Flow Map Speculative Decoding",
-    "princeton polymathic flashmap flow"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-28T18:38:18.901Z"
   },
   {
    "first_seen": "2026-10-27T22:11:15.888Z",
@@ -2593,6 +2546,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T04:45:54.114Z"
+  },
+  {
+   "first_seen": "2026-10-28T12:19:38.363Z",
+   "id": "39461351",
+   "ids": [
+    "39461351",
+    "39463077"
+   ],
+   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-28 10:48:19",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "in-marktechpost",
+     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+     "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/"
+    }
+   ],
+   "queries": [
+    "Flow Map Speculative Decoding",
+    "princeton polymathic flashmap flow"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-28T18:38:18.901Z"
   },
   {
    "first_seen": "2026-10-27T14:46:59.677Z",
