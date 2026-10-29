@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:49:43.619Z",
+ "generated_at": "2026-10-29T19:11:08.405Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -610,7 +610,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-29 08:56:47",
    "story_sources": 3,
-   "score_norm": 72,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -859,7 +859,7 @@
    "source_id": "x-techcrunch",
    "published_ts": "2026-10-29 14:00:00",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1766,110 +1766,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-29T14:50:27.049Z"
-  },
-  {
-   "first_seen": "2026-10-26T22:17:12.038Z",
-   "id": "39422784",
-   "ids": [
-    "39422784",
-    "39426096"
-   ],
-   "title": "KI-Kosten: Microsoft bietet bis zu 60.000 Mitarbeitern Abfindungen an",
-   "url": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html",
-   "source_id": "eu-golem",
-   "published_ts": "2026-10-26 18:50:03",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Wegen hoher KI-Investitionen: Microsoft bietet 60.000 Mitarbeitern Abfindungen an",
-     "url": "https://t3n.de/news/ki-microsoft-abfindungen-1770007/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "60.000 Mitarbeitern Abfindungen",
-    "ki-kosten microsoft 60.000 mitarbeitern"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tcLqlcjwsN4",
-     "url": "https://www.youtube.com/watch?v=tcLqlcjwsN4",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an, da KI Effizienzschub erzwingt",
-     "channel": "CNBC Television",
-     "views": 33483,
-     "age_hours": 16,
-     "relevance": 0.63,
-     "velocity": 2093
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pNWUJ8v3wDo",
-     "url": "https://www.youtube.com/watch?v=pNWUJ8v3wDo",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
-     "channel": "CTV News",
-     "views": 28353,
-     "age_hours": 15,
-     "relevance": 0.83,
-     "velocity": 1890
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l4_gyQ7eKy0",
-     "url": "https://www.youtube.com/watch?v=l4_gyQ7eKy0",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an",
-     "channel": "CTV News",
-     "views": 5105,
-     "age_hours": 8,
-     "relevance": 0.83,
-     "velocity": 638
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rSCsTgK07pM",
-     "url": "https://www.youtube.com/watch?v=rSCsTgK07pM",
-     "title": "Microsoft bietet 60.000 Mitarbeitern Abfindungen an. Das ist das KI-Problem.",
-     "channel": "Harness",
-     "views": 1201,
-     "age_hours": 13,
-     "relevance": 0.63,
-     "velocity": 92
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LoEOUfa7RrE",
-     "url": "https://www.youtube.com/watch?v=LoEOUfa7RrE",
-     "title": "Microsoft bietet 60.000 Mitarbeitern Abfindungen an, während Milliarden in KI fließen",
-     "channel": "The Future of Work Podcast",
-     "views": 792,
-     "age_hours": 11,
-     "relevance": 0.63,
-     "velocity": 72
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nWXidV_uPMg",
-     "url": "https://www.youtube.com/watch?v=nWXidV_uPMg",
-     "title": "Microsoft bietet 60.000 Mitarbeitern freiwillige Abfindungen an: Tech-Gigant strukturiert Belegsc...",
-     "channel": "The Intel Desk",
-     "views": 522,
-     "age_hours": 17,
-     "relevance": 0.63,
-     "velocity": 31
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T10:43:55.098Z"
   },
   {
    "first_seen": "2026-10-28T02:38:08.439Z",
