@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:37:17.034Z",
+ "generated_at": "2026-10-29T21:49:57.714Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "youtube: google gemini carbon unveils",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini carbon unveils",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
@@ -1215,110 +1198,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T13:22:48.656Z"
-  },
-  {
-   "first_seen": "2026-10-27T02:38:37.666Z",
-   "id": "39426050",
-   "ids": [
-    "39426050",
-    "39430204"
-   ],
-   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
-   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-26 21:46:02",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
-     "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/"
-    }
-   ],
-   "queries": [
-    "OpenAI Launches GPT-6.1 Terra",
-    "openai launches gpt-6.1 terra"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B8cxOLB2OdQ",
-     "url": "https://www.youtube.com/watch?v=B8cxOLB2OdQ",
-     "title": "GPT-6.1 Terra just Changed AI Agents FOREVER!",
-     "channel": "Julian Goldie SEO",
-     "views": 3810,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 423
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VGx3cvNtyTc",
-     "url": "https://www.youtube.com/watch?v=VGx3cvNtyTc",
-     "title": "GPT-6.1 Terra Is Here: I Tested OpenAI’s New AI Model",
-     "channel": "Neel's World",
-     "views": 424,
-     "age_hours": 18,
-     "relevance": 0.71,
-     "velocity": 24
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:L1QBXuF_HtM",
-     "url": "https://www.youtube.com/watch?v=L1QBXuF_HtM",
-     "title": "OpenAI's GPT-6.1 Terra uses your computer for less",
-     "channel": "Coding with Sela",
-     "views": 410,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 24
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:o95RilWisFM",
-     "url": "https://www.youtube.com/watch?v=o95RilWisFM",
-     "title": "GPT-6.1 Terra: the cheapest model OpenAI ships",
-     "channel": "Nexus The AI Singularity",
-     "views": 193,
-     "age_hours": 18,
-     "relevance": 0.67,
-     "velocity": 11
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yLYW1hxQmfM",
-     "url": "https://www.youtube.com/shorts/yLYW1hxQmfM",
-     "title": "GPT-6.1 Terra: OpenAI's cheaper computer-use AI. What's the catch? #Shorts",
-     "channel": "",
-     "views": 280,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:X0wbwdXFXRo",
-     "url": "https://www.youtube.com/watch?v=X0wbwdXFXRo",
-     "title": "GPT-6.1 Terra: What the Lower Price Actually Gets You",
-     "channel": "AI Mode + Automation",
-     "views": 76,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T15:18:47.746Z"
   },
   {
    "first_seen": "2026-10-27T02:38:37.666Z",
