@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T03:49:58.510Z",
+ "generated_at": "2026-10-29T04:37:05.141Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -275,36 +275,6 @@
    "searched_at": "2026-10-28T22:49:55.820Z"
   },
   {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409961",
-   "ids": [
-    "39409961",
-    "39399467"
-   ],
-   "title": "To make AI morally good, tech companies are turning to religion, in spite of doubts",
-   "url": "https://www.thehindu.com/sci-tech/technology/to-make-ai-morally-good-tech-companies-are-turning-to-religion-in-spite-of-doubts/article71625515.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 04:30:49",
-   "story_sources": 2,
-   "score_norm": 83,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "To make AI morally good, tech companies are turning to religion",
-     "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec"
-    }
-   ],
-   "queries": [
-    "make ai morally good"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T11:45:45.415Z"
-  },
-  {
    "first_seen": "2026-10-28T21:37:00.791Z",
    "id": "39474658",
    "ids": [
@@ -316,7 +286,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-28 09:30:00",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "hn",
@@ -371,7 +341,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-28 13:53:31",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "engadget",
@@ -642,7 +612,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-10-28 12:10:55",
    "story_sources": 3,
-   "score_norm": 70,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
