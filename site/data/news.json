@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T02:49:39.850Z",
+ "generated_at": "2026-10-29T03:15:56.289Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,86 +9,92 @@
  },
  "search_report": [
   {
-   "source": "youtube: epileptic chatgpt openai woman",
+   "source": "youtube: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "tiktok: epileptic chatgpt openai woman",
+   "source": "tiktok: Gemini 4 Carbon",
+   "ok": true
+  },
+  {
+   "source": "youtube: google gemini carbon launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google gemini carbon launches",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-28T06:22:04.652Z",
-   "id": "39457132",
+   "first_seen": "2026-10-29T03:15:56.289Z",
+   "id": "39473301",
    "ids": [
-    "39457132",
-    "39455646",
-    "39461894",
-    "39462898",
-    "39464885",
-    "39473305"
+    "39473301",
+    "39479156"
    ],
-   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-28 19:16:02",
-   "story_sources": 4,
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "source_id": "theverge",
+   "published_ts": "2026-10-28 20:03:00",
+   "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "sea-techinasia",
-     "title": "OpenAI plans to buy rival Google’s AI chips: report",
-     "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report"
-    },
-    {
-     "source_id": "in-thehindu-tech",
-     "title": "OpenAI plans to buy Google's AI chips: Report",
-     "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
-    },
-    {
      "source_id": "in-businessline",
-     "title": "OpenAI plans to buy Google’s AI chips",
-     "url": "https://www.thehindubusinessline.com/info-tech/openai-plans-to-buy-googles-ai-chips/article71634184.ece"
+     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+     "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638823.ece"
     }
    ],
    "queries": [
-    "It Looks Beyond Nvidia",
-    "openai plans buy google"
+    "Gemini 4 Carbon",
+    "google gemini carbon launches"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:7uVdPLko6hc",
-     "url": "https://www.youtube.com/watch?v=7uVdPLko6hc",
-     "title": "OpenAI Reportedly Plans To Buy Google's AI Chips Despite Competing With It",
-     "channel": "AIM Network",
-     "views": 1344,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 149
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xGHluQleXpg",
-     "url": "https://www.youtube.com/shorts/xGHluQleXpg",
-     "title": "Google and OpenAI Will Demolish $20-a-Month Plans.",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
+     "id": "youtube:FLum2xzpaHM",
+     "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
+     "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
+     "channel": "Paul J Lipsky",
+     "views": 97819,
+     "age_hours": 8,
      "relevance": 0.6,
-     "velocity": null
+     "velocity": 12227
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "Matthew Berman",
+     "views": 12493,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 6247
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NO2I3ueVQrk",
+     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
+     "title": "Gemini 4 Carbon | First Impressions",
+     "channel": "Arena  ",
+     "views": 26020,
+     "age_hours": 7,
+     "relevance": 0.5,
+     "velocity": 3717
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:D1GOysQljQI",
-     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
-     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
+     "id": "youtube:kMpTBy3g1N0",
+     "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
+     "title": "Gemini 4 Carbon: The New Frontier",
      "channel": "",
-     "views": 580,
+     "views": 82000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -96,45 +102,33 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:c7TamNPbnjA",
-     "url": "https://www.youtube.com/shorts/c7TamNPbnjA",
-     "title": "Google and OpenAI could change the game for $20 AI plans. 👀",
+     "id": "youtube:3yZb9rGt-rk",
+     "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
+     "title": "Google announces Gemini 4 Carbon",
      "channel": "",
-     "views": 457,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:56Y-mBsAyAs",
-     "url": "https://www.youtube.com/shorts/56Y-mBsAyAs",
-     "title": "OpenAI plans to buy AI chips from Google, its rival in AI and search.",
-     "channel": "",
-     "views": 310,
+     "views": 7800,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-HZkktctzsc",
-     "url": "https://www.youtube.com/shorts/-HZkktctzsc",
-     "title": "Time to Look Beyond Nvidia?",
-     "channel": "",
-     "views": 188,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:mv8jD6bA53A",
+     "url": "https://www.youtube.com/watch?v=mv8jD6bA53A",
+     "title": "Gemini 4 Carbon: What Google’s New #1 AI Means for Your Work",
+     "channel": "AI with Surya",
+     "views": 333,
+     "age_hours": 3,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 111
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-29T00:59:01.479Z"
+   "searched_at": "2026-10-29T03:16:04.352Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -254,34 +248,117 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409961",
+   "first_seen": "2026-10-28T06:22:04.652Z",
+   "id": "39457132",
    "ids": [
-    "39409961",
-    "39399467"
+    "39457132",
+    "39455646",
+    "39461894",
+    "39462898",
+    "39464885",
+    "39473305"
    ],
-   "title": "To make AI morally good, tech companies are turning to religion, in spite of doubts",
-   "url": "https://www.thehindu.com/sci-tech/technology/to-make-ai-morally-good-tech-companies-are-turning-to-religion-in-spite-of-doubts/article71625515.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 04:30:49",
-   "story_sources": 2,
-   "score_norm": 83,
+   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-28 19:16:02",
+   "story_sources": 3,
+   "score_norm": 90,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "To make AI morally good, tech companies are turning to religion",
-     "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec"
+     "source_id": "sea-techinasia",
+     "title": "OpenAI plans to buy rival Google’s AI chips: report",
+     "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report"
+    },
+    {
+     "source_id": "in-thehindu-tech",
+     "title": "OpenAI plans to buy Google's AI chips: Report",
+     "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
     }
    ],
    "queries": [
-    "make ai morally good"
+    "It Looks Beyond Nvidia",
+    "openai plans buy google"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7uVdPLko6hc",
+     "url": "https://www.youtube.com/watch?v=7uVdPLko6hc",
+     "title": "OpenAI Reportedly Plans To Buy Google's AI Chips Despite Competing With It",
+     "channel": "AIM Network",
+     "views": 1344,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 149
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xGHluQleXpg",
+     "url": "https://www.youtube.com/shorts/xGHluQleXpg",
+     "title": "Google and OpenAI Will Demolish $20-a-Month Plans.",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1GOysQljQI",
+     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
+     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
+     "channel": "",
+     "views": 580,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c7TamNPbnjA",
+     "url": "https://www.youtube.com/shorts/c7TamNPbnjA",
+     "title": "Google and OpenAI could change the game for $20 AI plans. 👀",
+     "channel": "",
+     "views": 457,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:56Y-mBsAyAs",
+     "url": "https://www.youtube.com/shorts/56Y-mBsAyAs",
+     "title": "OpenAI plans to buy AI chips from Google, its rival in AI and search.",
+     "channel": "",
+     "views": 310,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-HZkktctzsc",
+     "url": "https://www.youtube.com/shorts/-HZkktctzsc",
+     "title": "Time to Look Beyond Nvidia?",
+     "channel": "",
+     "views": 188,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-26T11:45:45.415Z"
+   "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
    "first_seen": "2026-10-28T16:39:22.662Z",
@@ -295,7 +372,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-10-28 14:30:25",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "x-reddit",
@@ -326,6 +403,183 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T22:49:55.820Z"
+  },
+  {
+   "first_seen": "2026-10-26T05:19:28.291Z",
+   "id": "39409961",
+   "ids": [
+    "39409961",
+    "39399467"
+   ],
+   "title": "To make AI morally good, tech companies are turning to religion, in spite of doubts",
+   "url": "https://www.thehindu.com/sci-tech/technology/to-make-ai-morally-good-tech-companies-are-turning-to-religion-in-spite-of-doubts/article71625515.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-26 04:30:49",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "To make AI morally good, tech companies are turning to religion",
+     "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec"
+    }
+   ],
+   "queries": [
+    "make ai morally good"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-26T11:45:45.415Z"
+  },
+  {
+   "first_seen": "2026-10-28T21:37:00.791Z",
+   "id": "39474658",
+   "ids": [
+    "39474658",
+    "39464516"
+   ],
+   "title": "Legora is building the agentic operating system for legal work",
+   "url": "https://openai.com/index/legora",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-28 09:30:00",
+   "story_sources": 2,
+   "score_norm": 79,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Legora is building the agentic operating system for legal work",
+     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+    }
+   ],
+   "queries": [
+    "legora building agentic operating"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:UOfmD1fY-i8",
+     "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
+     "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+     "channel": "OpenAI",
+     "views": 5807,
+     "age_hours": 11,
+     "relevance": 0.57,
+     "velocity": 528
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-28T21:37:05.455Z"
+  },
+  {
+   "first_seen": "2026-10-28T18:16:34.779Z",
+   "id": "39470666",
+   "ids": [
+    "39470666",
+    "39460335"
+   ],
+   "title": "Meta has a new AI pet app called Waddle World",
+   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-28 13:53:31",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+     "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
+    }
+   ],
+   "queries": [
+    "Waddle World",
+    "meta waddle world ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nwEVWpIw2MU",
+     "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
+     "title": "Meta Waddle World: A Secret AI Journal",
+     "channel": "",
+     "views": 100,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yxuBFsVfa1I",
+     "url": "https://www.youtube.com/watch?v=yxuBFsVfa1I",
+     "title": "How to Download and Use Meta AI Waddle World Daily Journal App",
+     "channel": "Reality PC",
+     "views": 4,
+     "age_hours": 5,
+     "relevance": 0.71,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VGZUEc9RWCQ",
+     "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
+     "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bii_mIJY3yA",
+     "url": "https://www.youtube.com/shorts/Bii_mIJY3yA",
+     "title": "Meta Made an AI Pet That Writes Your Diary | Waddle World #Shorts",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0Y6k9gmi--I",
+     "url": "https://www.youtube.com/shorts/0Y6k9gmi--I",
+     "title": "Meta's Waddle World Pet App Calls Itself a 'Daily Journal'",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:duA5LFJro8M",
+     "url": "https://www.youtube.com/shorts/duA5LFJro8M",
+     "title": "Meta's New AI Pet Is Secretly a Diary #shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T00:34:42.470Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -438,141 +692,50 @@
    "searched_at": "2026-10-27T20:24:55.659Z"
   },
   {
-   "first_seen": "2026-10-28T21:37:00.791Z",
-   "id": "39474658",
+   "first_seen": "2026-10-28T22:49:48.356Z",
+   "id": "39475897",
    "ids": [
-    "39474658",
-    "39464516"
+    "39475897",
+    "39457957"
    ],
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-28 09:30:00",
+   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-28 21:46:02",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 74,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Legora is building the agentic operating system for legal work",
-     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+     "source_id": "crypto-coindesk",
+     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
     }
    ],
    "queries": [
-    "legora building agentic operating"
+    "Says It Can’t Access Its BTC",
+    "bitcoin treasury datavault can"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:UOfmD1fY-i8",
-     "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
-     "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
-     "channel": "OpenAI",
-     "views": 5807,
-     "age_hours": 11,
-     "relevance": 0.57,
-     "velocity": 528
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T21:37:05.455Z"
-  },
-  {
-   "first_seen": "2026-10-28T18:16:34.779Z",
-   "id": "39470666",
-   "ids": [
-    "39470666",
-    "39460335"
-   ],
-   "title": "Meta has a new AI pet app called Waddle World",
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-28 13:53:31",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-     "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
-    }
-   ],
-   "queries": [
-    "Waddle World",
-    "meta waddle world ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nwEVWpIw2MU",
-     "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
-     "title": "Meta Waddle World: A Secret AI Journal",
-     "channel": "",
-     "views": 100,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yxuBFsVfa1I",
-     "url": "https://www.youtube.com/watch?v=yxuBFsVfa1I",
-     "title": "How to Download and Use Meta AI Waddle World Daily Journal App",
-     "channel": "Reality PC",
-     "views": 4,
-     "age_hours": 5,
-     "relevance": 0.71,
-     "velocity": 1
+     "id": "youtube:JwSZDYB9ID0",
+     "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
+     "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
+     "channel": "Bullion & Bits",
+     "views": 67,
+     "age_hours": 7,
+     "relevance": 0.56,
+     "velocity": 10
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:VGZUEc9RWCQ",
-     "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
-     "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
+     "id": "youtube:3GEgONNLSzA",
+     "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
+     "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
      "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Bii_mIJY3yA",
-     "url": "https://www.youtube.com/shorts/Bii_mIJY3yA",
-     "title": "Meta Made an AI Pet That Writes Your Diary | Waddle World #Shorts",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0Y6k9gmi--I",
-     "url": "https://www.youtube.com/shorts/0Y6k9gmi--I",
-     "title": "Meta's Waddle World Pet App Calls Itself a 'Daily Journal'",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:duA5LFJro8M",
-     "url": "https://www.youtube.com/shorts/duA5LFJro8M",
-     "title": "Meta's New AI Pet Is Secretly a Diary #shorts",
-     "channel": "",
-     "views": 5,
+     "views": 228,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -582,7 +745,117 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-29T00:34:42.470Z"
+   "searched_at": "2026-10-28T22:50:02.975Z"
+  },
+  {
+   "first_seen": "2026-10-28T13:37:36.597Z",
+   "id": "39464411",
+   "ids": [
+    "39464411",
+    "39464091",
+    "39467177"
+   ],
+   "title": "Anthropic Files Its S-1",
+   "url": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-10-28 12:10:55",
+   "story_sources": 3,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "Anthropic Files Its S-1",
+     "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic Files Its S-1",
+     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
+    }
+   ],
+   "queries": [
+    "Anthropic Files Its S-1",
+    "anthropic files s-1"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mhFozOsKZLU",
+     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
+     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
+     "channel": "Good Revenue",
+     "views": 77667,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 1618
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:266kCGruUnQ",
+     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
+     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
+     "channel": "CNBC Television",
+     "views": 65336,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 1361
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A97KFDfqTSw",
+     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
+     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
+     "channel": "Nobody Special",
+     "views": 24317,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 1013
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8welyuCkxnM",
+     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
+     "title": "Anthropic Files Its IPO: What We Know Now",
+     "channel": "Bloomberg Television",
+     "views": 32496,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 677
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OWp-eREvJzY",
+     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
+     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
+     "channel": "Bloomberg Tech",
+     "views": 26523,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 553
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4Xn18m93ytg",
+     "url": "https://www.youtube.com/watch?v=4Xn18m93ytg",
+     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
+     "channel": "Forbes",
+     "views": 18614,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 388
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-29T02:18:31.149Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
@@ -688,60 +961,71 @@
    "searched_at": "2026-10-27T11:54:48.983Z"
   },
   {
-   "first_seen": "2026-10-28T22:49:48.356Z",
-   "id": "39475897",
+   "first_seen": "2026-10-29T02:49:39.850Z",
+   "id": "39470774",
    "ids": [
-    "39475897",
-    "39457957"
+    "39470774",
+    "39478908"
    ],
-   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-28 21:46:02",
+   "title": "Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xhvbzi/epileptic_woman_dies_after_going_to_chatgpt_for/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-28 17:55:07",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 66,
    "related_news": [
     {
-     "source_id": "crypto-coindesk",
-     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
+     "source_id": "hn",
+     "title": "Epileptic woman dies after going to ChatGPT for medical advice",
+     "url": "https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853"
     }
    ],
    "queries": [
-    "Says It Can’t Access Its BTC",
-    "bitcoin treasury datavault can"
+    "epileptic chatgpt openai woman"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:JwSZDYB9ID0",
-     "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
-     "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
-     "channel": "Bullion & Bits",
-     "views": 67,
-     "age_hours": 7,
-     "relevance": 0.56,
-     "velocity": 10
+     "id": "youtube:S_hjW9p-G8A",
+     "url": "https://www.youtube.com/watch?v=S_hjW9p-G8A",
+     "title": "Family Sues OpenAI Over ChatGPT Medication Advice After 31-Year-Old Woman's Death #Shorts",
+     "channel": "NewYork60s Trending",
+     "views": 169,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 85
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3GEgONNLSzA",
-     "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
-     "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
-     "channel": "",
-     "views": 228,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:VTkz8txOPKA",
+     "url": "https://www.youtube.com/watch?v=VTkz8txOPKA",
+     "title": "Chatgpt lawsuit after death vertical",
+     "channel": "KREM 2 News",
+     "views": 133,
+     "age_hours": 4,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 33
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fMv3OLwJJEQ",
+     "url": "https://www.youtube.com/watch?v=fMv3OLwJJEQ",
+     "title": "Family Sues OpenAI over ChatGPT Medical Advice",
+     "channel": "KING 5 Seattle",
+     "views": 134,
+     "age_hours": 9,
+     "relevance": 0.83,
+     "velocity": 15
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T22:50:02.975Z"
+   "searched_at": "2026-10-29T02:49:43.834Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -822,196 +1106,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T11:54:52.650Z"
-  },
-  {
-   "first_seen": "2026-10-28T13:37:36.597Z",
-   "id": "39464411",
-   "ids": [
-    "39464411",
-    "39464091",
-    "39467177"
-   ],
-   "title": "Anthropic Files Its S-1",
-   "url": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-10-28 12:10:55",
-   "story_sources": 3,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
-    }
-   ],
-   "queries": [
-    "Anthropic Files Its S-1",
-    "anthropic files s-1"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mhFozOsKZLU",
-     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
-     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
-     "channel": "Good Revenue",
-     "views": 77667,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1618
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:266kCGruUnQ",
-     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
-     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
-     "channel": "CNBC Television",
-     "views": 65336,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1361
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A97KFDfqTSw",
-     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
-     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
-     "channel": "Nobody Special",
-     "views": 24317,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 1013
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8welyuCkxnM",
-     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
-     "title": "Anthropic Files Its IPO: What We Know Now",
-     "channel": "Bloomberg Television",
-     "views": 32496,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 677
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OWp-eREvJzY",
-     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
-     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
-     "channel": "Bloomberg Tech",
-     "views": 26523,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 553
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4Xn18m93ytg",
-     "url": "https://www.youtube.com/watch?v=4Xn18m93ytg",
-     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
-     "channel": "Forbes",
-     "views": 18614,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 388
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-29T02:18:31.149Z"
-  },
-  {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409964",
-   "ids": [
-    "39409964",
-    "39409862"
-   ],
-   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 03:13:29",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
-     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
-    }
-   ],
-   "queries": [
-    "Anthropic's Claude",
-    "anthropic claude georgia axios"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lZAWmvVbtok",
-     "url": "https://www.youtube.com/watch?v=lZAWmvVbtok",
-     "title": "Reuters: Anthropic Says Claude Bypassed a Georgia PAYWALL",
-     "channel": "Alignment Addict",
-     "views": 17,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:S6DHCamDzIc",
-     "url": "https://www.youtube.com/watch?v=S6DHCamDzIc",
-     "title": "Anthropic Says Claude Skipped a Fee to Get Georgia Vote Counts",
-     "channel": "Unified Memory",
-     "views": 11,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XHmVz1ekuWI",
-     "url": "https://www.youtube.com/watch?v=XHmVz1ekuWI",
-     "title": "Claude Bypassed Georgia Vote Paywall",
-     "channel": "The System Prompt",
-     "views": 3,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5FQeuKSzWmQ",
-     "url": "https://www.youtube.com/watch?v=5FQeuKSzWmQ",
-     "title": "Claude Slipped Past a Paywall for Georgia Vote Data #Shorts",
-     "channel": "The AI Rollout",
-     "views": 0,
-     "age_hours": 0.75,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T11:45:52.437Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
@@ -1170,73 +1264,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-26T22:53:47.420Z"
-  },
-  {
-   "first_seen": "2026-10-29T02:49:39.850Z",
-   "id": "39470774",
-   "ids": [
-    "39470774",
-    "39478908"
-   ],
-   "title": "Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xhvbzi/epileptic_woman_dies_after_going_to_chatgpt_for/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-28 17:55:07",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Epileptic woman dies after going to ChatGPT for medical advice",
-     "url": "https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853"
-    }
-   ],
-   "queries": [
-    "epileptic chatgpt openai woman"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:S_hjW9p-G8A",
-     "url": "https://www.youtube.com/watch?v=S_hjW9p-G8A",
-     "title": "Family Sues OpenAI Over ChatGPT Medication Advice After 31-Year-Old Woman's Death #Shorts",
-     "channel": "NewYork60s Trending",
-     "views": 169,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 85
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VTkz8txOPKA",
-     "url": "https://www.youtube.com/watch?v=VTkz8txOPKA",
-     "title": "Chatgpt lawsuit after death vertical",
-     "channel": "KREM 2 News",
-     "views": 133,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 33
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fMv3OLwJJEQ",
-     "url": "https://www.youtube.com/watch?v=fMv3OLwJJEQ",
-     "title": "Family Sues OpenAI over ChatGPT Medical Advice",
-     "channel": "KING 5 Seattle",
-     "views": 134,
-     "age_hours": 9,
-     "relevance": 0.83,
-     "velocity": 15
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T02:49:43.834Z"
   },
   {
    "first_seen": "2026-10-27T02:38:37.666Z",
