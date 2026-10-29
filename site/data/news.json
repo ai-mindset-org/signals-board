@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T16:50:02.641Z",
+ "generated_at": "2026-10-29T17:50:12.523Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: mistral releases weights trillion-parameter",
+   "ok": true
+  },
+  {
+   "source": "tiktok: mistral releases weights trillion-parameter",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -512,6 +521,62 @@
    "searched_at": "2026-10-27T20:24:55.659Z"
   },
   {
+   "first_seen": "2026-10-28T22:49:48.356Z",
+   "id": "39475897",
+   "ids": [
+    "39475897",
+    "39457957"
+   ],
+   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-28 21:46:02",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "crypto-coindesk",
+     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
+    }
+   ],
+   "queries": [
+    "Says It Can’t Access Its BTC",
+    "bitcoin treasury datavault can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JwSZDYB9ID0",
+     "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
+     "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
+     "channel": "Bullion & Bits",
+     "views": 112,
+     "age_hours": 14,
+     "relevance": 0.56,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3GEgONNLSzA",
+     "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
+     "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
+     "channel": "",
+     "views": 252,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T05:13:49.366Z"
+  },
+  {
    "first_seen": "2026-10-29T10:25:09.205Z",
    "id": "39484607",
    "ids": [
@@ -524,7 +589,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-29 08:56:47",
    "story_sources": 3,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -608,62 +673,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T16:37:00.862Z"
-  },
-  {
-   "first_seen": "2026-10-28T22:49:48.356Z",
-   "id": "39475897",
-   "ids": [
-    "39475897",
-    "39457957"
-   ],
-   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-28 21:46:02",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "crypto-coindesk",
-     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
-    }
-   ],
-   "queries": [
-    "Says It Can’t Access Its BTC",
-    "bitcoin treasury datavault can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JwSZDYB9ID0",
-     "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
-     "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
-     "channel": "Bullion & Bits",
-     "views": 112,
-     "age_hours": 14,
-     "relevance": 0.56,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3GEgONNLSzA",
-     "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
-     "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
-     "channel": "",
-     "views": 252,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T05:13:49.366Z"
   },
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
@@ -774,6 +783,61 @@
    "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
+   "first_seen": "2026-10-29T17:50:12.523Z",
+   "id": "39493258",
+   "ids": [
+    "39493258",
+    "39487167"
+   ],
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-10-29 14:00:00",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Mistral releases open weights for its 1 trillion-parameter Large 4 model",
+     "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
+    }
+   ],
+   "queries": [
+    "mistral releases weights trillion-parameter"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RJQQqGHOQnc",
+     "url": "https://www.youtube.com/shorts/RJQQqGHOQnc",
+     "title": "🚨 Mistral releases Mistral Large 4 weights #AINews",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_jcvbQX4hCY",
+     "url": "https://www.youtube.com/shorts/_jcvbQX4hCY",
+     "title": "Mistral releases weights for trillion-parameter Mistral Large 4 AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T17:50:16.577Z"
+  },
+  {
    "first_seen": "2026-10-28T16:39:22.662Z",
    "id": "39468281",
    "ids": [
@@ -829,7 +893,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:13:14",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
@@ -933,7 +997,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:11:42",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
