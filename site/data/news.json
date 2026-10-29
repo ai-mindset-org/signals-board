@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T15:13:04.801Z",
+ "generated_at": "2026-10-29T15:37:06.148Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Hugging Face",
+   "source": "youtube: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "tiktok: Hugging Face",
+   "source": "tiktok: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "youtube: mistralai mistral-large-4-1t-a52b hugging face",
+   "source": "youtube: google gemini carbon launches",
    "ok": true
   },
   {
-   "source": "tiktok: mistralai mistral-large-4-1t-a52b hugging face",
-   "ok": true
-  },
-  {
-   "source": "youtube: Mistral Large 4 Le Chonk",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Mistral Large 4 Le Chonk",
-   "ok": true
-  },
-  {
-   "source": "youtube: mistral large chonk le",
-   "ok": true
-  },
-  {
-   "source": "tiktok: mistral large chonk le",
+   "source": "tiktok: google gemini carbon launches",
    "ok": true
   }
  ],
@@ -86,22 +70,10 @@
      "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
      "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
      "channel": "Paul J Lipsky",
-     "views": 138846,
-     "age_hours": 14,
+     "views": 162871,
+     "age_hours": 20,
      "relevance": 0.6,
-     "velocity": 9918
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google \"Carbon\" just won everything...",
-     "channel": "Matthew Berman",
-     "views": 57435,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 7179
+     "velocity": 8144
     },
     {
      "platform": "youtube",
@@ -110,10 +82,22 @@
      "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
      "title": "Gemini 4 Carbon: The New Frontier",
      "channel": "",
-     "views": 163000,
+     "views": 206000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "Matthew Berman",
+     "views": 84948,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 5663
     },
     {
      "platform": "youtube",
@@ -122,10 +106,10 @@
      "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
      "title": "Gemini 4 Carbon | First Impressions",
      "channel": "Arena  ",
-     "views": 40353,
-     "age_hours": 13,
+     "views": 47839,
+     "age_hours": 19,
      "relevance": 0.5,
-     "velocity": 3104
+     "velocity": 2518
     },
     {
      "platform": "youtube",
@@ -134,7 +118,7 @@
      "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
      "title": "Google announces Gemini 4 Carbon",
      "channel": "",
-     "views": 15000,
+     "views": 20000,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -144,19 +128,19 @@
      "kind": "видео",
      "id": "youtube:dkFEcjibiO8",
      "url": "https://www.youtube.com/watch?v=dkFEcjibiO8",
-     "title": "Google Gemini 4 Carbon is a MASSIVE Upgrade!",
+     "title": "Gemini 4 Carbon is INSANE! 🤯",
      "channel": "Julian Goldie SEO",
-     "views": 1745,
-     "age_hours": 6,
-     "relevance": 0.6,
-     "velocity": 291
+     "views": 6141,
+     "age_hours": 12,
+     "relevance": 0.67,
+     "velocity": 512
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-29T09:27:34.069Z"
+   "searched_at": "2026-10-29T15:37:15.284Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -675,178 +659,6 @@
    "searched_at": "2026-10-29T05:13:49.366Z"
   },
   {
-   "first_seen": "2026-10-29T15:13:04.801Z",
-   "id": "39489650",
-   "ids": [
-    "39489650",
-    "39488402"
-   ],
-   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-29 14:13:14",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Mistral-Large-4-1T-A52B",
-     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
-    }
-   ],
-   "queries": [
-    "Hugging Face",
-    "mistralai mistral-large-4-1t-a52b hugging face"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yWEUS0IZIqc",
-     "url": "https://www.youtube.com/shorts/yWEUS0IZIqc",
-     "title": "Hugging Face Hack: Why Did AI Agents Have Write Access? #shorts",
-     "channel": "",
-     "views": 578,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GhDtWmvqiNY",
-     "url": "https://www.youtube.com/shorts/GhDtWmvqiNY",
-     "title": "Hugging Face launches LFM3 for custom vision-language models",
-     "channel": "",
-     "views": 78,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:FdG6L6FDX70",
-     "url": "https://www.youtube.com/shorts/FdG6L6FDX70",
-     "title": "AI Agents Took Over Hugging Face Clusters in 13 Hours #shorts",
-     "channel": "",
-     "views": 45,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:9SagMU85cWA",
-     "url": "https://www.youtube.com/watch?v=9SagMU85cWA",
-     "title": "Top 10 NEW Hugging Face Models – October 29, 2026",
-     "channel": "AINews-GitHubHuggingFace",
-     "views": 9,
-     "age_hours": 15,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:SrmYNQvBy_0",
-     "url": "https://www.youtube.com/shorts/SrmYNQvBy_0",
-     "title": "Stop Paying for AI! Run Free Models on Your Own Computer (Hugging Face)",
-     "channel": "",
-     "views": 26,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tlTqfnKbZrs",
-     "url": "https://www.youtube.com/shorts/tlTqfnKbZrs",
-     "title": "Uncensored models on Hugging Face + the GPU you need  #gpu #llm #localai #ollama #selfhostedai",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T15:13:12.402Z"
-  },
-  {
-   "first_seen": "2026-10-29T15:13:04.801Z",
-   "id": "39489649",
-   "ids": [
-    "39489649",
-    "39488227"
-   ],
-   "title": "Mistral Large 4 (Le Chonk) is now open weight",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-29 14:11:42",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Mistral Le Chonk open weights",
-     "url": "https://mistral.ai/news/mistral-large-4-oss/"
-    }
-   ],
-   "queries": [
-    "Mistral Large 4 Le Chonk",
-    "mistral large chonk le"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZSp4cVMZLWQ",
-     "url": "https://www.youtube.com/watch?v=ZSp4cVMZLWQ",
-     "title": "Mistral Large 4 Le Chonk: Can a 3 Billion Euro Raise Buy Sovereign AI Leadership?",
-     "channel": "StartupHub AI",
-     "views": 24,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ods3w6jnGgI",
-     "url": "https://www.youtube.com/shorts/ods3w6jnGgI",
-     "title": "Mistral Large 4_ an open model with a trillion parameters",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C8PlpjKIWUE",
-     "url": "https://www.youtube.com/watch?v=C8PlpjKIWUE",
-     "title": "Mistral Large 4 Just Went Open Source — Why Everyone's Talking About It",
-     "channel": "AI Cheat Codes",
-     "views": 10,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T15:13:24.574Z"
-  },
-  {
    "first_seen": "2026-10-28T06:22:04.652Z",
    "id": "39457132",
    "ids": [
@@ -953,6 +765,178 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T00:59:01.479Z"
+  },
+  {
+   "first_seen": "2026-10-29T15:13:04.801Z",
+   "id": "39489650",
+   "ids": [
+    "39489650",
+    "39488402"
+   ],
+   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-29 14:13:14",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Mistral-Large-4-1T-A52B",
+     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    }
+   ],
+   "queries": [
+    "Hugging Face",
+    "mistralai mistral-large-4-1t-a52b hugging face"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yWEUS0IZIqc",
+     "url": "https://www.youtube.com/shorts/yWEUS0IZIqc",
+     "title": "Hugging Face Hack: Why Did AI Agents Have Write Access? #shorts",
+     "channel": "",
+     "views": 578,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GhDtWmvqiNY",
+     "url": "https://www.youtube.com/shorts/GhDtWmvqiNY",
+     "title": "Hugging Face launches LFM3 for custom vision-language models",
+     "channel": "",
+     "views": 78,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:FdG6L6FDX70",
+     "url": "https://www.youtube.com/shorts/FdG6L6FDX70",
+     "title": "AI Agents Took Over Hugging Face Clusters in 13 Hours #shorts",
+     "channel": "",
+     "views": 45,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:9SagMU85cWA",
+     "url": "https://www.youtube.com/watch?v=9SagMU85cWA",
+     "title": "Top 10 NEW Hugging Face Models – October 29, 2026",
+     "channel": "AINews-GitHubHuggingFace",
+     "views": 9,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:SrmYNQvBy_0",
+     "url": "https://www.youtube.com/shorts/SrmYNQvBy_0",
+     "title": "Stop Paying for AI! Run Free Models on Your Own Computer (Hugging Face)",
+     "channel": "",
+     "views": 26,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tlTqfnKbZrs",
+     "url": "https://www.youtube.com/shorts/tlTqfnKbZrs",
+     "title": "Uncensored models on Hugging Face + the GPU you need  #gpu #llm #localai #ollama #selfhostedai",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T15:13:12.402Z"
+  },
+  {
+   "first_seen": "2026-10-29T15:13:04.801Z",
+   "id": "39489649",
+   "ids": [
+    "39489649",
+    "39488227"
+   ],
+   "title": "Mistral Large 4 (Le Chonk) is now open weight",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-29 14:11:42",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Mistral Le Chonk open weights",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/"
+    }
+   ],
+   "queries": [
+    "Mistral Large 4 Le Chonk",
+    "mistral large chonk le"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZSp4cVMZLWQ",
+     "url": "https://www.youtube.com/watch?v=ZSp4cVMZLWQ",
+     "title": "Mistral Large 4 Le Chonk: Can a 3 Billion Euro Raise Buy Sovereign AI Leadership?",
+     "channel": "StartupHub AI",
+     "views": 24,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ods3w6jnGgI",
+     "url": "https://www.youtube.com/shorts/ods3w6jnGgI",
+     "title": "Mistral Large 4_ an open model with a trillion parameters",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:C8PlpjKIWUE",
+     "url": "https://www.youtube.com/watch?v=C8PlpjKIWUE",
+     "title": "Mistral Large 4 Just Went Open Source — Why Everyone's Talking About It",
+     "channel": "AI Cheat Codes",
+     "views": 10,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T15:13:24.574Z"
   },
   {
    "first_seen": "2026-10-28T16:39:22.662Z",
@@ -1506,37 +1490,6 @@
    "searched_at": "2026-10-29T08:39:07.862Z"
   },
   {
-   "first_seen": "2026-10-29T08:38:52.964Z",
-   "id": "39482835",
-   "ids": [
-    "39482835",
-    "39482429"
-   ],
-   "title": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
-   "url": "https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-10-29 07:06:42",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Freshworks acquires AI incident investigation platform Robusta",
-     "url": "https://www.thehindubusinessline.com/info-tech/freshworks-acquires-ai-incident-investigation-platform-robusta/article71639373.ece"
-    }
-   ],
-   "queries": [
-    "Startup Robusta To Strengthen IT Operations Platform",
-    "freshworks acquires startup robusta"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-29T14:50:27.049Z"
-  },
-  {
    "first_seen": "2026-10-27T16:49:57.324Z",
    "id": "39444046",
    "ids": [
@@ -1578,6 +1531,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T11:24:03.462Z"
+  },
+  {
+   "first_seen": "2026-10-29T08:38:52.964Z",
+   "id": "39482835",
+   "ids": [
+    "39482835",
+    "39482429"
+   ],
+   "title": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
+   "url": "https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-10-29 07:06:42",
+   "story_sources": 2,
+   "score_norm": 52,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Freshworks acquires AI incident investigation platform Robusta",
+     "url": "https://www.thehindubusinessline.com/info-tech/freshworks-acquires-ai-incident-investigation-platform-robusta/article71639373.ece"
+    }
+   ],
+   "queries": [
+    "Startup Robusta To Strengthen IT Operations Platform",
+    "freshworks acquires startup robusta"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-29T14:50:27.049Z"
   },
   {
    "first_seen": "2026-10-27T11:18:45.828Z",
@@ -2261,50 +2245,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-29T12:20:21.185Z"
-  },
-  {
-   "first_seen": "2026-10-26T16:25:59.394Z",
-   "id": "39419079",
-   "ids": [
-    "39419079",
-    "39412522"
-   ],
-   "title": "Tata Communications To Pour Up To $450 Mn In Build AI Connectivity Infrastructure",
-   "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-10-26 15:27:25",
-   "story_sources": 2,
-   "score_norm": 45,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Tata Communications to spend $450 million on AI connectivity infrastructure",
-     "url": "https://www.thehindubusinessline.com/info-tech/tata-communications-to-spend-450-million-on-ai-connectivity-infrastructure/article71626132.ece"
-    }
-   ],
-   "queries": [
-    "Tata Communications To Pour Up To 450 Mn In Build",
-    "tata communications pour up"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1PdAC0qKK4Q",
-     "url": "https://www.youtube.com/shorts/1PdAC0qKK4Q",
-     "title": "Tata Communications Commits $450 Million to Build AI Super Highway Across India #shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T04:45:54.114Z"
   },
   {
    "first_seen": "2026-10-28T12:19:38.363Z",
