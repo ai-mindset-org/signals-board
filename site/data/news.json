@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T10:25:09.205Z",
+ "generated_at": "2026-10-29T11:12:09.039Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT-6 Astra",
+   "source": "youtube: Stephen Cas Casper",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-6 Astra",
+   "source": "tiktok: Stephen Cas Casper",
    "ok": true
   },
   {
-   "source": "youtube: deepseek moonshot gpt-6 astra",
+   "source": "youtube: ama wednesday stephen casper",
    "ok": true
   },
   {
-   "source": "tiktok: deepseek moonshot gpt-6 astra",
+   "source": "tiktok: ama wednesday stephen casper",
    "ok": true
   }
  ],
@@ -590,7 +590,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-29 08:56:47",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -920,7 +920,7 @@
      "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
      "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
      "channel": "FAR․AI",
-     "views": 1479,
+     "views": 1506,
      "age_hours": 48,
      "relevance": 0.55,
      "velocity": 31
@@ -930,7 +930,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-29T04:50:03.737Z"
+   "searched_at": "2026-10-29T11:12:17.975Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -1481,7 +1481,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-29 01:20:06",
    "story_sources": 2,
-   "score_norm": 57,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -1894,6 +1894,73 @@
    "searched_at": "2026-10-28T06:44:35.489Z"
   },
   {
+   "first_seen": "2026-10-29T02:49:39.850Z",
+   "id": "39470774",
+   "ids": [
+    "39470774",
+    "39478908"
+   ],
+   "title": "Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xhvbzi/epileptic_woman_dies_after_going_to_chatgpt_for/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-28 17:55:07",
+   "story_sources": 2,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Epileptic woman dies after going to ChatGPT for medical advice",
+     "url": "https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853"
+    }
+   ],
+   "queries": [
+    "epileptic chatgpt openai woman"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:S_hjW9p-G8A",
+     "url": "https://www.youtube.com/watch?v=S_hjW9p-G8A",
+     "title": "Family Sues OpenAI Over ChatGPT Medication Advice After 31-Year-Old Woman's Death #Shorts",
+     "channel": "NewYork60s Trending",
+     "views": 264,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 33
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VTkz8txOPKA",
+     "url": "https://www.youtube.com/watch?v=VTkz8txOPKA",
+     "title": "Chatgpt lawsuit after death vertical",
+     "channel": "KREM 2 News",
+     "views": 243,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 24
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fMv3OLwJJEQ",
+     "url": "https://www.youtube.com/watch?v=fMv3OLwJJEQ",
+     "title": "Family Sues OpenAI over ChatGPT Medical Advice",
+     "channel": "KING 5 Seattle",
+     "views": 203,
+     "age_hours": 15,
+     "relevance": 0.83,
+     "velocity": 14
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T08:50:11.937Z"
+  },
+  {
    "first_seen": "2026-10-26T22:17:12.038Z",
    "id": "39422784",
    "ids": [
@@ -1996,73 +2063,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T10:43:55.098Z"
-  },
-  {
-   "first_seen": "2026-10-29T02:49:39.850Z",
-   "id": "39470774",
-   "ids": [
-    "39470774",
-    "39478908"
-   ],
-   "title": "Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xhvbzi/epileptic_woman_dies_after_going_to_chatgpt_for/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-28 17:55:07",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Epileptic woman dies after going to ChatGPT for medical advice",
-     "url": "https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853"
-    }
-   ],
-   "queries": [
-    "epileptic chatgpt openai woman"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:S_hjW9p-G8A",
-     "url": "https://www.youtube.com/watch?v=S_hjW9p-G8A",
-     "title": "Family Sues OpenAI Over ChatGPT Medication Advice After 31-Year-Old Woman's Death #Shorts",
-     "channel": "NewYork60s Trending",
-     "views": 264,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 33
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VTkz8txOPKA",
-     "url": "https://www.youtube.com/watch?v=VTkz8txOPKA",
-     "title": "Chatgpt lawsuit after death vertical",
-     "channel": "KREM 2 News",
-     "views": 243,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 24
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fMv3OLwJJEQ",
-     "url": "https://www.youtube.com/watch?v=fMv3OLwJJEQ",
-     "title": "Family Sues OpenAI over ChatGPT Medical Advice",
-     "channel": "KING 5 Seattle",
-     "views": 203,
-     "age_hours": 15,
-     "relevance": 0.83,
-     "velocity": 14
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T08:50:11.937Z"
   },
   {
    "first_seen": "2026-10-28T02:38:08.439Z",
