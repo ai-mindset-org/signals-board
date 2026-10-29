@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:16:50.711Z",
+ "generated_at": "2026-10-29T18:38:22.042Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: we detect frontier model",
+   "ok": true
+  },
+  {
+   "source": "tiktok: we detect frontier model",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -241,6 +250,36 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T13:22:45.058Z"
+  },
+  {
+   "first_seen": "2026-10-29T18:38:22.042Z",
+   "id": "39494412",
+   "ids": [
+    "39494412",
+    "39492613"
+   ],
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-29 09:00:00",
+   "story_sources": 2,
+   "score_norm": 95,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "We detect frontier model misalignment",
+     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
+    }
+   ],
+   "queries": [
+    "we detect frontier model"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-29T18:38:26.616Z"
   },
   {
    "first_seen": "2026-10-28T21:37:00.791Z",
@@ -873,6 +912,86 @@
    "searched_at": "2026-10-29T17:50:16.577Z"
   },
   {
+   "first_seen": "2026-10-26T17:41:12.710Z",
+   "id": "39419033",
+   "ids": [
+    "39419033",
+    "39420956",
+    "39436235"
+   ],
+   "title": "Anthropic nearing blockbuster IPO with final paperwork",
+   "url": "https://www.siliconrepublic.com/business/anthropic-nearing-blockbuster-ipo-with-final-paperwork",
+   "source_id": "eu-siliconrepublic",
+   "published_ts": "2026-10-27 08:38:47",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
+     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
+    }
+   ],
+   "queries": [
+    "anthropic ipo nearing blockbuster"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FWJUgcZQNRs",
+     "url": "https://www.youtube.com/watch?v=FWJUgcZQNRs",
+     "title": "Over 27 Million Americans Have Voted Early; Anthropic Files Blockbuster IPO | NTD News Today Oct. 26",
+     "channel": "NTD",
+     "views": 8484,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 499
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1cIjXeUI-aU",
+     "url": "https://www.youtube.com/watch?v=1cIjXeUI-aU",
+     "title": "BREAKING: Anthropic Files for Blockbuster IPO 🚨 #shorts",
+     "channel": "Market Maker Podcast",
+     "views": 603,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 30
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1bssiGWyRHc",
+     "url": "https://www.youtube.com/watch?v=1bssiGWyRHc",
+     "title": "Anthropic’s Blockbuster IPO Could Redefine the AI Market #shorts",
+     "channel": "The Elysium Brief ",
+     "views": 9,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:RNGLg2NUcVo",
+     "url": "https://www.youtube.com/watch?v=RNGLg2NUcVo",
+     "title": "Tech Is Back! #Nasdaq Jumps on #Anthropic's Blockbuster #IPO Filing | 30-Second Recap #stockmarket",
+     "channel": "Vega Option Trades",
+     "views": 13,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T11:54:52.650Z"
+  },
+  {
    "first_seen": "2026-10-29T15:13:04.801Z",
    "id": "39489650",
    "ids": [
@@ -884,7 +1003,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:13:14",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "hn",
@@ -988,7 +1107,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:11:42",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "hn",
@@ -1043,86 +1162,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T15:13:24.574Z"
-  },
-  {
-   "first_seen": "2026-10-26T17:41:12.710Z",
-   "id": "39419033",
-   "ids": [
-    "39419033",
-    "39420956",
-    "39436235"
-   ],
-   "title": "Anthropic nearing blockbuster IPO with final paperwork",
-   "url": "https://www.siliconrepublic.com/business/anthropic-nearing-blockbuster-ipo-with-final-paperwork",
-   "source_id": "eu-siliconrepublic",
-   "published_ts": "2026-10-27 08:38:47",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
-    }
-   ],
-   "queries": [
-    "anthropic ipo nearing blockbuster"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FWJUgcZQNRs",
-     "url": "https://www.youtube.com/watch?v=FWJUgcZQNRs",
-     "title": "Over 27 Million Americans Have Voted Early; Anthropic Files Blockbuster IPO | NTD News Today Oct. 26",
-     "channel": "NTD",
-     "views": 8484,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 499
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1cIjXeUI-aU",
-     "url": "https://www.youtube.com/watch?v=1cIjXeUI-aU",
-     "title": "BREAKING: Anthropic Files for Blockbuster IPO 🚨 #shorts",
-     "channel": "Market Maker Podcast",
-     "views": 603,
-     "age_hours": 20,
-     "relevance": 0.5,
-     "velocity": 30
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1bssiGWyRHc",
-     "url": "https://www.youtube.com/watch?v=1bssiGWyRHc",
-     "title": "Anthropic’s Blockbuster IPO Could Redefine the AI Market #shorts",
-     "channel": "The Elysium Brief ",
-     "views": 9,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:RNGLg2NUcVo",
-     "url": "https://www.youtube.com/watch?v=RNGLg2NUcVo",
-     "title": "Tech Is Back! #Nasdaq Jumps on #Anthropic's Blockbuster #IPO Filing | 30-Second Recap #stockmarket",
-     "channel": "Vega Option Trades",
-     "views": 13,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T11:54:52.650Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
