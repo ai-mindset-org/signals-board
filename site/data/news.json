@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:22:51.070Z",
+ "generated_at": "2026-10-29T21:37:17.034Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Hugging Face",
+   "source": "youtube: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "tiktok: Hugging Face",
+   "source": "tiktok: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "youtube: mistralai mistral-large-4-1t-a52b hugging face",
+   "source": "youtube: google gemini carbon unveils",
    "ok": true
   },
   {
-   "source": "tiktok: mistralai mistral-large-4-1t-a52b hugging face",
-   "ok": true
-  },
-  {
-   "source": "youtube: Mistral Large 4 Le Chonk",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Mistral Large 4 Le Chonk",
-   "ok": true
-  },
-  {
-   "source": "youtube: mistral large chonk le",
-   "ok": true
-  },
-  {
-   "source": "tiktok: mistral large chonk le",
+   "source": "tiktok: google gemini carbon unveils",
    "ok": true
   }
  ],
@@ -384,7 +368,7 @@
    ],
    "queries": [
     "Gemini 4 Carbon",
-    "google gemini carbon launches"
+    "google gemini carbon unveils"
    ],
    "videos": [
     {
@@ -394,10 +378,10 @@
      "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
      "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
      "channel": "Paul J Lipsky",
-     "views": 162871,
-     "age_hours": 20,
+     "views": 179879,
+     "age_hours": 24,
      "relevance": 0.6,
-     "velocity": 8144
+     "velocity": 7495
     },
     {
      "platform": "youtube",
@@ -406,7 +390,7 @@
      "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
      "title": "Gemini 4 Carbon: The New Frontier",
      "channel": "",
-     "views": 206000,
+     "views": 266000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -418,10 +402,22 @@
      "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
      "title": "Google \"Carbon\" just won everything...",
      "channel": "Matthew Berman",
-     "views": 84948,
-     "age_hours": 15,
+     "views": 102432,
+     "age_hours": 21,
      "relevance": 0.5,
-     "velocity": 5663
+     "velocity": 4878
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yNI84SU9x4I",
+     "url": "https://www.youtube.com/watch?v=yNI84SU9x4I",
+     "title": "Gemini 4 Carbon Just DESTROYED the AI Competition",
+     "channel": "TheAIGRID",
+     "views": 5418,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 2709
     },
     {
      "platform": "youtube",
@@ -430,41 +426,29 @@
      "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
      "title": "Gemini 4 Carbon | First Impressions",
      "channel": "Arena  ",
-     "views": 47839,
-     "age_hours": 19,
+     "views": 52623,
+     "age_hours": 24,
      "relevance": 0.5,
-     "velocity": 2518
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3yZb9rGt-rk",
-     "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
-     "title": "Google announces Gemini 4 Carbon",
-     "channel": "",
-     "views": 20000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
+     "velocity": 2193
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:dkFEcjibiO8",
-     "url": "https://www.youtube.com/watch?v=dkFEcjibiO8",
-     "title": "Gemini 4 Carbon is INSANE! 🤯",
-     "channel": "Julian Goldie SEO",
-     "views": 6141,
-     "age_hours": 12,
-     "relevance": 0.67,
-     "velocity": 512
+     "id": "youtube:70R6jUg_Ep4",
+     "url": "https://www.youtube.com/watch?v=70R6jUg_Ep4",
+     "title": "Gemini 4 Carbon: Google Builds the World's Most Powerful AI",
+     "channel": "iabro",
+     "views": 13539,
+     "age_hours": 8,
+     "relevance": 0.57,
+     "velocity": 1692
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-29T15:37:15.284Z"
+   "searched_at": "2026-10-29T21:37:25.186Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -950,6 +934,50 @@
    "searched_at": "2026-10-29T21:22:59.125Z"
   },
   {
+   "first_seen": "2026-10-28T16:39:22.662Z",
+   "id": "39468281",
+   "ids": [
+    "39468281",
+    "39463152"
+   ],
+   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-10-28 14:30:25",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
+    }
+   ],
+   "queries": [
+    "Stephen Cas Casper",
+    "ama wednesday stephen casper"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Og_VPf2XQmU",
+     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
+     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
+     "channel": "FAR․AI",
+     "views": 1506,
+     "age_hours": 48,
+     "relevance": 0.55,
+     "velocity": 31
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T11:12:17.975Z"
+  },
+  {
    "first_seen": "2026-10-29T15:13:04.801Z",
    "id": "39489649",
    "ids": [
@@ -961,7 +989,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:11:42",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "hn",
@@ -1052,50 +1080,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T21:23:06.376Z"
-  },
-  {
-   "first_seen": "2026-10-28T16:39:22.662Z",
-   "id": "39468281",
-   "ids": [
-    "39468281",
-    "39463152"
-   ],
-   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-10-28 14:30:25",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
-    }
-   ],
-   "queries": [
-    "Stephen Cas Casper",
-    "ama wednesday stephen casper"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Og_VPf2XQmU",
-     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
-     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
-     "channel": "FAR․AI",
-     "views": 1506,
-     "age_hours": 48,
-     "relevance": 0.55,
-     "velocity": 31
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T11:12:17.975Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
