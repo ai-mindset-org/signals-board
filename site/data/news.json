@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:38:22.042Z",
+ "generated_at": "2026-10-29T18:49:43.619Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: we detect frontier model",
-   "ok": true
-  },
-  {
-   "source": "tiktok: we detect frontier model",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -1959,109 +1950,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T08:38:33.370Z"
-  },
-  {
-   "first_seen": "2026-10-26T19:41:04.975Z",
-   "id": "39423292",
-   "ids": [
-    "39423292",
-    "39415560"
-   ],
-   "title": "Reddit’s r/opensource bans AI projects, and non-English speakers too",
-   "url": "https://thenextweb.com/news/reddits-r-opensource-bans-ai-projects-and-non-english-speakers-too",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-26 18:46:33",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
-     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers"
-    }
-   ],
-   "queries": [
-    "reddit opensource bans ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YyjjNeuvRTA",
-     "url": "https://www.youtube.com/shorts/YyjjNeuvRTA",
-     "title": "Reddit's r/opensource bans AI projects and non-English speakers #tech",
-     "channel": "",
-     "views": 52,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5eIuMjwFONU",
-     "url": "https://www.youtube.com/shorts/5eIuMjwFONU",
-     "title": "🔥 Reddit's r/opensource Forum Bans All AI Projects #AINews",
-     "channel": "",
-     "views": 50,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aEjADUe9pzg",
-     "url": "https://www.youtube.com/shorts/aEjADUe9pzg",
-     "title": "Reddit's r/opensource bans AI projects, and solo devs get hit #shorts",
-     "channel": "",
-     "views": 46,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:SOpjcCuOq50",
-     "url": "https://www.youtube.com/shorts/SOpjcCuOq50",
-     "title": "Reddit r/opensource Bans AI Projects: Even Linux at Risk?",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:84ICkCgACGM",
-     "url": "https://www.youtube.com/shorts/84ICkCgACGM",
-     "title": "Reddit Moderators Just BANNED AI And More",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bIRV2HxU5nc",
-     "url": "https://www.youtube.com/shorts/bIRV2HxU5nc",
-     "title": "Reddit’s r/opensource bans AI projects and non-English speakers",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T08:27:39.149Z"
   },
   {
    "first_seen": "2026-10-27T19:21:07.287Z",
