@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:11:56.844Z",
+ "generated_at": "2026-10-29T21:22:51.070Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: Startup Robusta To Strengthen IT Operations Platform",
+   "source": "youtube: Hugging Face",
    "ok": true
   },
   {
-   "source": "tiktok: Startup Robusta To Strengthen IT Operations Platform",
+   "source": "tiktok: Hugging Face",
    "ok": true
   },
   {
-   "source": "youtube: freshworks acquires startup robusta",
+   "source": "youtube: mistralai mistral-large-4-1t-a52b hugging face",
    "ok": true
   },
   {
-   "source": "tiktok: freshworks acquires startup robusta",
+   "source": "tiktok: mistralai mistral-large-4-1t-a52b hugging face",
+   "ok": true
+  },
+  {
+   "source": "youtube: Mistral Large 4 Le Chonk",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Mistral Large 4 Le Chonk",
+   "ok": true
+  },
+  {
+   "source": "youtube: mistral large chonk le",
+   "ok": true
+  },
+  {
+   "source": "tiktok: mistral large chonk le",
    "ok": true
   }
  ],
@@ -904,82 +920,34 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yWEUS0IZIqc",
-     "url": "https://www.youtube.com/shorts/yWEUS0IZIqc",
-     "title": "Hugging Face Hack: Why Did AI Agents Have Write Access? #shorts",
-     "channel": "",
-     "views": 578,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:GB2qq5I2M9A",
+     "url": "https://www.youtube.com/watch?v=GB2qq5I2M9A",
+     "title": "How Hugging Face Is Changing Who Gets to Build Artificial Intelligence",
+     "channel": "Cheddar",
+     "views": 326,
+     "age_hours": 72,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GhDtWmvqiNY",
-     "url": "https://www.youtube.com/shorts/GhDtWmvqiNY",
-     "title": "Hugging Face launches LFM3 for custom vision-language models",
-     "channel": "",
-     "views": 78,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:FdG6L6FDX70",
-     "url": "https://www.youtube.com/shorts/FdG6L6FDX70",
-     "title": "AI Agents Took Over Hugging Face Clusters in 13 Hours #shorts",
-     "channel": "",
-     "views": 45,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "velocity": 5
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:9SagMU85cWA",
-     "url": "https://www.youtube.com/watch?v=9SagMU85cWA",
+     "id": "youtube:oUkwikyA2S0",
+     "url": "https://www.youtube.com/watch?v=oUkwikyA2S0",
      "title": "Top 10 NEW Hugging Face Models – October 29, 2026",
      "channel": "AINews-GitHubHuggingFace",
-     "views": 9,
-     "age_hours": 15,
+     "views": 4,
+     "age_hours": 21,
      "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:SrmYNQvBy_0",
-     "url": "https://www.youtube.com/shorts/SrmYNQvBy_0",
-     "title": "Stop Paying for AI! Run Free Models on Your Own Computer (Hugging Face)",
-     "channel": "",
-     "views": 26,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tlTqfnKbZrs",
-     "url": "https://www.youtube.com/shorts/tlTqfnKbZrs",
-     "title": "Uncensored models on Hugging Face + the GPU you need  #gpu #llm #localai #ollama #selfhostedai",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-29T15:13:12.402Z"
+   "searched_at": "2026-10-29T21:22:59.125Z"
   },
   {
    "first_seen": "2026-10-29T15:13:04.801Z",
@@ -1009,45 +977,81 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:ZDJ5z2aRRvU",
+     "url": "https://www.youtube.com/watch?v=ZDJ5z2aRRvU",
+     "title": "Mistral Large 4 Is Open. Can It Replace Claude?",
+     "channel": "CodeGlitch",
+     "views": 18,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:17OJRQi6UBs",
+     "url": "https://www.youtube.com/watch?v=17OJRQi6UBs",
+     "title": "HUGE AI News: Gemini 4 Carbon, Mistral Le Chonk & NVIDIA Nemotron Transcribe",
+     "channel": "The Daily Token",
+     "views": 4,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:awQ20mvkJ6M",
+     "url": "https://www.youtube.com/watch?v=awQ20mvkJ6M",
+     "title": "New Mistral Model vs Opus 5.5 vs DeepSeek (Is Le Chonk Worth It?)",
+     "channel": "Taha El Harti | Making AI Useful",
+     "views": 3,
+     "age_hours": 0.4666666666666667,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZPd6oGfH898",
+     "url": "https://www.youtube.com/watch?v=ZPd6oGfH898",
+     "title": "Mistral Large 4 Just Dropped: The 1 Trillion Parameter Le Chonk",
+     "channel": "Krumbs | AI Explained Simply",
+     "views": 13,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0auz3lCyrjk",
+     "url": "https://www.youtube.com/watch?v=0auz3lCyrjk",
+     "title": "Mistral Large 4 is open: a trillion parameters, close on coding, third on cyber",
+     "channel": "The Contextian",
+     "views": 2,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:ZSp4cVMZLWQ",
      "url": "https://www.youtube.com/watch?v=ZSp4cVMZLWQ",
      "title": "Mistral Large 4 Le Chonk: Can a 3 Billion Euro Raise Buy Sovereign AI Leadership?",
      "channel": "StartupHub AI",
      "views": 24,
-     "age_hours": 24,
+     "age_hours": 48,
      "relevance": 0.67,
      "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ods3w6jnGgI",
-     "url": "https://www.youtube.com/shorts/ods3w6jnGgI",
-     "title": "Mistral Large 4_ an open model with a trillion parameters",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C8PlpjKIWUE",
-     "url": "https://www.youtube.com/watch?v=C8PlpjKIWUE",
-     "title": "Mistral Large 4 Just Went Open Source — Why Everyone's Talking About It",
-     "channel": "AI Cheat Codes",
-     "views": 10,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-29T15:13:24.574Z"
+   "searched_at": "2026-10-29T21:23:06.376Z"
   },
   {
    "first_seen": "2026-10-28T16:39:22.662Z",
