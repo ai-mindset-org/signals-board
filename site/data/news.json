@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T04:49:56.252Z",
+ "generated_at": "2026-10-29T05:13:41.479Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Stephen Cas Casper",
+   "source": "youtube: Says It Can’t Access Its BTC",
    "ok": true
   },
   {
-   "source": "tiktok: Stephen Cas Casper",
+   "source": "tiktok: Says It Can’t Access Its BTC",
    "ok": true
   },
   {
-   "source": "youtube: ama wednesday stephen casper",
+   "source": "youtube: bitcoin treasury datavault can",
    "ok": true
   },
   {
-   "source": "tiktok: ama wednesday stephen casper",
+   "source": "tiktok: bitcoin treasury datavault can",
    "ok": true
   }
  ],
@@ -572,7 +572,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-10-28 21:46:02",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "crypto-coindesk",
@@ -592,10 +592,10 @@
      "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
      "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
      "channel": "Bullion & Bits",
-     "views": 67,
-     "age_hours": 7,
+     "views": 112,
+     "age_hours": 14,
      "relevance": 0.56,
-     "velocity": 10
+     "velocity": 8
     },
     {
      "platform": "youtube",
@@ -604,7 +604,7 @@
      "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
      "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
      "channel": "",
-     "views": 228,
+     "views": 252,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -614,7 +614,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T22:50:02.975Z"
+   "searched_at": "2026-10-29T05:13:49.366Z"
   },
   {
    "first_seen": "2026-10-28T13:37:36.597Z",
@@ -949,7 +949,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-10-28 17:55:07",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -1138,109 +1138,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T13:22:48.656Z"
-  },
-  {
-   "first_seen": "2026-10-26T10:31:55.367Z",
-   "id": "39410456",
-   "ids": [
-    "39410456",
-    "39413157"
-   ],
-   "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-   "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "source_id": "crypto-cointelegraph",
-   "published_ts": "2026-10-26 05:13:33",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI cloud computing firms face 'guppy-level death', Elon Musk warns",
-     "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
-    }
-   ],
-   "queries": [
-    "musk 200 warns ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wwC2ZcsO3p0",
-     "url": "https://www.youtube.com/watch?v=wwC2ZcsO3p0",
-     "title": "Elon Warns 200+ AI Companies Face \"Guppy-Level Death\" as Money Dries Up",
-     "channel": "Steven Van Metre",
-     "views": 1637,
-     "age_hours": 0.8833333333333333,
-     "relevance": 0.75,
-     "velocity": 1637
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6R41Wq8I1tg",
-     "url": "https://www.youtube.com/watch?v=6R41Wq8I1tg",
-     "title": "Elon Musk Warns 200+ AI Neoclouds to See “Guppy Level Death” as Debt Markets Have Shut Off the Money",
-     "channel": "Ox Talks",
-     "views": 34401,
-     "age_hours": 23,
-     "relevance": 0.75,
-     "velocity": 1496
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8q6-KCs-16g",
-     "url": "https://www.youtube.com/watch?v=8q6-KCs-16g",
-     "title": "Elon Warns 200+ AI Companies Face \"Guppy-Level Death\" as Money Dries Up",
-     "channel": "Steven Van Metre",
-     "views": 263,
-     "age_hours": 0.8833333333333333,
-     "relevance": 0.75,
-     "velocity": 263
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FQd9UYnSgyg",
-     "url": "https://www.youtube.com/watch?v=FQd9UYnSgyg",
-     "title": "MUSK'S WARNING: 200 COMPANIES FACE \"GUPPY-LEVEL DEATH\"",
-     "channel": "STAY WINNING WEALTH",
-     "views": 351,
-     "age_hours": 2,
-     "relevance": 0.71,
-     "velocity": 176
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:u5zOcd7kuL8",
-     "url": "https://www.youtube.com/watch?v=u5zOcd7kuL8",
-     "title": "⚠️ Elon Musk: 200+ AI Companies Are About to DIE 💀🔥",
-     "channel": "Shravan",
-     "views": 82,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 9
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sf8lVLNo8pg",
-     "url": "https://www.youtube.com/watch?v=sf8lVLNo8pg",
-     "title": "MUSK'S WARNING: 200 COMPANIES FACE \"GUPPY-LEVEL DEATH\"",
-     "channel": "STAY WINNING WEALTH",
-     "views": 2,
-     "age_hours": 2,
-     "relevance": 0.71,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-26T22:53:47.420Z"
   },
   {
    "first_seen": "2026-10-27T02:38:37.666Z",
