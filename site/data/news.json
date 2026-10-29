@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T22:37:03.225Z",
+ "generated_at": "2026-10-29T23:36:50.710Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: deepseek moonshot gpt-6 astra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: deepseek moonshot gpt-6 astra",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
@@ -331,124 +314,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T06:44:51.342Z"
-  },
-  {
-   "first_seen": "2026-10-29T03:15:56.289Z",
-   "id": "39473301",
-   "ids": [
-    "39473301",
-    "39479156",
-    "39484286",
-    "39486356",
-    "39481087",
-    "39478015"
-   ],
-   "title": "Google unveils Gemini 4 Carbon AI model for cybersecurity",
-   "url": "https://www.techinasia.com/news/google-unveils-gemini-4-carbon-ai-model-cybersecurity",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-29 01:20:06",
-   "story_sources": 4,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-     "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638823.ece"
-    },
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
-     "url": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/"
-    },
-    {
-     "source_id": "in-thehindu-tech",
-     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-     "url": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece"
-    }
-   ],
-   "queries": [
-    "Gemini 4 Carbon",
-    "google gemini carbon unveils"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FLum2xzpaHM",
-     "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
-     "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
-     "channel": "Paul J Lipsky",
-     "views": 179879,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 7495
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kMpTBy3g1N0",
-     "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
-     "title": "Gemini 4 Carbon: The New Frontier",
-     "channel": "",
-     "views": 266000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google \"Carbon\" just won everything...",
-     "channel": "Matthew Berman",
-     "views": 102432,
-     "age_hours": 21,
-     "relevance": 0.5,
-     "velocity": 4878
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yNI84SU9x4I",
-     "url": "https://www.youtube.com/watch?v=yNI84SU9x4I",
-     "title": "Gemini 4 Carbon Just DESTROYED the AI Competition",
-     "channel": "TheAIGRID",
-     "views": 5418,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 2709
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NO2I3ueVQrk",
-     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
-     "title": "Gemini 4 Carbon | First Impressions",
-     "channel": "Arena  ",
-     "views": 52623,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 2193
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:70R6jUg_Ep4",
-     "url": "https://www.youtube.com/watch?v=70R6jUg_Ep4",
-     "title": "Gemini 4 Carbon: Google Builds the World's Most Powerful AI",
-     "channel": "iabro",
-     "views": 13539,
-     "age_hours": 8,
-     "relevance": 0.57,
-     "velocity": 1692
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-29T21:37:25.186Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -1172,6 +1037,119 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T11:54:52.650Z"
+  },
+  {
+   "first_seen": "2026-10-29T03:15:56.289Z",
+   "id": "39473301",
+   "ids": [
+    "39473301",
+    "39479156",
+    "39484286",
+    "39486356",
+    "39481087",
+    "39478015"
+   ],
+   "title": "Google unveils Gemini 4 Carbon AI model for cybersecurity",
+   "url": "https://www.techinasia.com/news/google-unveils-gemini-4-carbon-ai-model-cybersecurity",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-29 01:20:06",
+   "story_sources": 3,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+     "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638823.ece"
+    },
+    {
+     "source_id": "in-thehindu-tech",
+     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+     "url": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "google gemini carbon unveils"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FLum2xzpaHM",
+     "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
+     "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
+     "channel": "Paul J Lipsky",
+     "views": 179879,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 7495
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kMpTBy3g1N0",
+     "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
+     "title": "Gemini 4 Carbon: The New Frontier",
+     "channel": "",
+     "views": 266000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "Matthew Berman",
+     "views": 102432,
+     "age_hours": 21,
+     "relevance": 0.5,
+     "velocity": 4878
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yNI84SU9x4I",
+     "url": "https://www.youtube.com/watch?v=yNI84SU9x4I",
+     "title": "Gemini 4 Carbon Just DESTROYED the AI Competition",
+     "channel": "TheAIGRID",
+     "views": 5418,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 2709
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NO2I3ueVQrk",
+     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
+     "title": "Gemini 4 Carbon | First Impressions",
+     "channel": "Arena  ",
+     "views": 52623,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 2193
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:70R6jUg_Ep4",
+     "url": "https://www.youtube.com/watch?v=70R6jUg_Ep4",
+     "title": "Gemini 4 Carbon: Google Builds the World's Most Powerful AI",
+     "channel": "iabro",
+     "views": 13539,
+     "age_hours": 8,
+     "relevance": 0.57,
+     "velocity": 1692
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-29T21:37:25.186Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
