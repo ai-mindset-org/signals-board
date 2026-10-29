@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T03:37:57.798Z",
+ "generated_at": "2026-10-29T03:49:58.510Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: legora building agentic operating",
-   "ok": true
-  },
-  {
-   "source": "tiktok: legora building agentic operating",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -238,119 +229,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T13:22:45.058Z"
-  },
-  {
-   "first_seen": "2026-10-28T06:22:04.652Z",
-   "id": "39457132",
-   "ids": [
-    "39457132",
-    "39455646",
-    "39461894",
-    "39462898",
-    "39464885",
-    "39473305"
-   ],
-   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-28 19:16:02",
-   "story_sources": 3,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "OpenAI plans to buy rival Google’s AI chips: report",
-     "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report"
-    },
-    {
-     "source_id": "in-thehindu-tech",
-     "title": "OpenAI plans to buy Google's AI chips: Report",
-     "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece"
-    }
-   ],
-   "queries": [
-    "It Looks Beyond Nvidia",
-    "openai plans buy google"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7uVdPLko6hc",
-     "url": "https://www.youtube.com/watch?v=7uVdPLko6hc",
-     "title": "OpenAI Reportedly Plans To Buy Google's AI Chips Despite Competing With It",
-     "channel": "AIM Network",
-     "views": 1344,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 149
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xGHluQleXpg",
-     "url": "https://www.youtube.com/shorts/xGHluQleXpg",
-     "title": "Google and OpenAI Will Demolish $20-a-Month Plans.",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1GOysQljQI",
-     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
-     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
-     "channel": "",
-     "views": 580,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c7TamNPbnjA",
-     "url": "https://www.youtube.com/shorts/c7TamNPbnjA",
-     "title": "Google and OpenAI could change the game for $20 AI plans. 👀",
-     "channel": "",
-     "views": 457,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:56Y-mBsAyAs",
-     "url": "https://www.youtube.com/shorts/56Y-mBsAyAs",
-     "title": "OpenAI plans to buy AI chips from Google, its rival in AI and search.",
-     "channel": "",
-     "views": 310,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-HZkktctzsc",
-     "url": "https://www.youtube.com/shorts/-HZkktctzsc",
-     "title": "Time to Look Beyond Nvidia?",
-     "channel": "",
-     "views": 188,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
    "first_seen": "2026-10-28T16:39:22.662Z",
@@ -963,6 +841,114 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T11:54:48.983Z"
+  },
+  {
+   "first_seen": "2026-10-28T06:22:04.652Z",
+   "id": "39457132",
+   "ids": [
+    "39457132",
+    "39455646",
+    "39461894",
+    "39462898",
+    "39464885",
+    "39473305"
+   ],
+   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-28 19:16:02",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "OpenAI plans to buy rival Google’s AI chips: report",
+     "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report"
+    }
+   ],
+   "queries": [
+    "It Looks Beyond Nvidia",
+    "openai plans buy google"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7uVdPLko6hc",
+     "url": "https://www.youtube.com/watch?v=7uVdPLko6hc",
+     "title": "OpenAI Reportedly Plans To Buy Google's AI Chips Despite Competing With It",
+     "channel": "AIM Network",
+     "views": 1344,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 149
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xGHluQleXpg",
+     "url": "https://www.youtube.com/shorts/xGHluQleXpg",
+     "title": "Google and OpenAI Will Demolish $20-a-Month Plans.",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1GOysQljQI",
+     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
+     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
+     "channel": "",
+     "views": 580,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c7TamNPbnjA",
+     "url": "https://www.youtube.com/shorts/c7TamNPbnjA",
+     "title": "Google and OpenAI could change the game for $20 AI plans. 👀",
+     "channel": "",
+     "views": 457,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:56Y-mBsAyAs",
+     "url": "https://www.youtube.com/shorts/56Y-mBsAyAs",
+     "title": "OpenAI plans to buy AI chips from Google, its rival in AI and search.",
+     "channel": "",
+     "views": 310,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-HZkktctzsc",
+     "url": "https://www.youtube.com/shorts/-HZkktctzsc",
+     "title": "Time to Look Beyond Nvidia?",
+     "channel": "",
+     "views": 188,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
    "first_seen": "2026-10-29T02:49:39.850Z",
