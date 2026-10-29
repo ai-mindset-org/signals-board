@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T03:15:56.289Z",
+ "generated_at": "2026-10-29T03:37:57.798Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Gemini 4 Carbon",
+   "source": "youtube: legora building agentic operating",
    "ok": true
   },
   {
-   "source": "tiktok: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "youtube: google gemini carbon launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini carbon launches",
+   "source": "tiktok: legora building agentic operating",
    "ok": true
   }
  ],
@@ -465,17 +457,29 @@
      "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
      "channel": "OpenAI",
-     "views": 5807,
-     "age_hours": 11,
+     "views": 6832,
+     "age_hours": 17,
      "relevance": 0.57,
-     "velocity": 528
+     "velocity": 402
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ud5Z7K9cs40",
+     "url": "https://www.youtube.com/shorts/Ud5Z7K9cs40",
+     "title": "OpenAI: Legora is building the agentic operating system for legal work",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T21:37:05.455Z"
+   "searched_at": "2026-10-29T03:38:01.827Z"
   },
   {
    "first_seen": "2026-10-28T18:16:34.779Z",
