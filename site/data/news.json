@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T08:50:07.252Z",
+ "generated_at": "2026-10-29T09:27:26.169Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: epileptic chatgpt openai woman",
+   "source": "youtube: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "tiktok: epileptic chatgpt openai woman",
+   "source": "tiktok: Gemini 4 Carbon",
+   "ok": true
+  },
+  {
+   "source": "youtube: google gemini carbon launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google gemini carbon launches",
    "ok": true
   }
  ],
@@ -50,10 +58,10 @@
      "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
      "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
      "channel": "Paul J Lipsky",
-     "views": 97819,
-     "age_hours": 8,
+     "views": 138846,
+     "age_hours": 14,
      "relevance": 0.6,
-     "velocity": 12227
+     "velocity": 9918
     },
     {
      "platform": "youtube",
@@ -62,22 +70,10 @@
      "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
      "title": "Google \"Carbon\" just won everything...",
      "channel": "Matthew Berman",
-     "views": 12493,
-     "age_hours": 2,
+     "views": 57435,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": 6247
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NO2I3ueVQrk",
-     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
-     "title": "Gemini 4 Carbon | First Impressions",
-     "channel": "Arena  ",
-     "views": 26020,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 3717
+     "velocity": 7179
     },
     {
      "platform": "youtube",
@@ -86,10 +82,22 @@
      "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
      "title": "Gemini 4 Carbon: The New Frontier",
      "channel": "",
-     "views": 82000,
+     "views": 163000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NO2I3ueVQrk",
+     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
+     "title": "Gemini 4 Carbon | First Impressions",
+     "channel": "Arena  ",
+     "views": 40353,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 3104
     },
     {
      "platform": "youtube",
@@ -98,7 +106,7 @@
      "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
      "title": "Google announces Gemini 4 Carbon",
      "channel": "",
-     "views": 7800,
+     "views": 15000,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -106,21 +114,21 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:mv8jD6bA53A",
-     "url": "https://www.youtube.com/watch?v=mv8jD6bA53A",
-     "title": "Gemini 4 Carbon: What Google’s New #1 AI Means for Your Work",
-     "channel": "AI with Surya",
-     "views": 333,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 111
+     "id": "youtube:dkFEcjibiO8",
+     "url": "https://www.youtube.com/watch?v=dkFEcjibiO8",
+     "title": "Google Gemini 4 Carbon is a MASSIVE Upgrade!",
+     "channel": "Julian Goldie SEO",
+     "views": 1745,
+     "age_hours": 6,
+     "relevance": 0.6,
+     "velocity": 291
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-10-29T03:16:04.352Z"
+   "searched_at": "2026-10-29T09:27:34.069Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -251,7 +259,7 @@
    "source_id": "in-inc42",
    "published_ts": "2026-10-29 07:06:42",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "in-businessline",
