@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T10:13:14.505Z",
+ "generated_at": "2026-10-29T10:25:09.205Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: GPT-6 Astra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: GPT-6 Astra",
+   "ok": true
+  },
+  {
+   "source": "youtube: deepseek moonshot gpt-6 astra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: deepseek moonshot gpt-6 astra",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -560,6 +577,74 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T05:13:49.366Z"
+  },
+  {
+   "first_seen": "2026-10-29T10:25:09.205Z",
+   "id": "39484607",
+   "ids": [
+    "39484607",
+    "39480199"
+   ],
+   "title": "DeepSeek and Moonshot trained new models on GPT-6 Astra, report says",
+   "url": "https://thenextweb.com/news/deepseek-moonshot-gpt-6-astra-distillation",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-29 08:56:47",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: Report",
+     "url": "https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece"
+    }
+   ],
+   "queries": [
+    "GPT-6 Astra",
+    "deepseek moonshot gpt-6 astra"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wTkywZlcPzU",
+     "url": "https://www.youtube.com/shorts/wTkywZlcPzU",
+     "title": "DeepSeek and Moonshot reportedly trained their newest AI on answers from OpenAI's GPT-6 Astra.",
+     "channel": "",
+     "views": 335,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:t_xyzCNniP0",
+     "url": "https://www.youtube.com/watch?v=t_xyzCNniP0",
+     "title": "DeepSeek and Kimi Reportedly Trained on GPT-6 Astra. The Evidence",
+     "channel": "Tech777 AI",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.57,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pMAxkCkkqVQ",
+     "url": "https://www.youtube.com/shorts/pMAxkCkkqVQ",
+     "title": "OpenAI Astra used to train DeepSeek and Moonshot AI models #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T10:25:17.218Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
