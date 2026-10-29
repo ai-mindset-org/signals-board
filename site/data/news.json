@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T08:38:52.964Z",
+ "generated_at": "2026-10-29T08:50:07.252Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Startup Robusta To Strengthen IT Operations Platform",
+   "source": "youtube: epileptic chatgpt openai woman",
    "ok": true
   },
   {
-   "source": "tiktok: Startup Robusta To Strengthen IT Operations Platform",
-   "ok": true
-  },
-  {
-   "source": "youtube: freshworks acquires startup robusta",
-   "ok": true
-  },
-  {
-   "source": "tiktok: freshworks acquires startup robusta",
-   "ok": true
-  },
-  {
-   "source": "youtube: Anthropic Files Its S-1",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Anthropic Files Its S-1",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic files s-1",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic files s-1",
+   "source": "tiktok: epileptic chatgpt openai woman",
    "ok": true
   }
  ],
@@ -1119,10 +1095,10 @@
      "url": "https://www.youtube.com/watch?v=S_hjW9p-G8A",
      "title": "Family Sues OpenAI Over ChatGPT Medication Advice After 31-Year-Old Woman's Death #Shorts",
      "channel": "NewYork60s Trending",
-     "views": 169,
-     "age_hours": 2,
+     "views": 264,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": 85
+     "velocity": 33
     },
     {
      "platform": "youtube",
@@ -1131,10 +1107,10 @@
      "url": "https://www.youtube.com/watch?v=VTkz8txOPKA",
      "title": "Chatgpt lawsuit after death vertical",
      "channel": "KREM 2 News",
-     "views": 133,
-     "age_hours": 4,
+     "views": 243,
+     "age_hours": 10,
      "relevance": 0.5,
-     "velocity": 33
+     "velocity": 24
     },
     {
      "platform": "youtube",
@@ -1143,17 +1119,17 @@
      "url": "https://www.youtube.com/watch?v=fMv3OLwJJEQ",
      "title": "Family Sues OpenAI over ChatGPT Medical Advice",
      "channel": "KING 5 Seattle",
-     "views": 134,
-     "age_hours": 9,
+     "views": 203,
+     "age_hours": 15,
      "relevance": 0.83,
-     "velocity": 15
+     "velocity": 14
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-29T02:49:43.834Z"
+   "searched_at": "2026-10-29T08:50:11.937Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
