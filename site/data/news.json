@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T07:27:13.606Z",
+ "generated_at": "2026-10-29T07:49:50.349Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: australia moves ban ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: australia moves ban ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -1170,6 +1179,73 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T11:54:52.650Z"
+  },
+  {
+   "first_seen": "2026-10-29T07:49:50.349Z",
+   "id": "39472635",
+   "ids": [
+    "39472635",
+    "39482516"
+   ],
+   "title": "Australia moves to ban AI chatbots from ‘emotional intimacy’ with children",
+   "url": "https://thenextweb.com/news/australia-duty-of-care-bill-ai-chatbots-emotional-intimacy-children",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-28 19:33:45",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Australia Bans AI 'Emotional Intimacy' with Children;",
+     "url": "https://dsrupt.news/articles/australia-bans-ai-emotional-intimacy-with-children-chatbot-makers-will-keep-the/"
+    }
+   ],
+   "queries": [
+    "australia moves ban ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KTFRtMegc8k",
+     "url": "https://www.youtube.com/shorts/KTFRtMegc8k",
+     "title": "Australia Moves to Stop AI Chatbots Acting Like Your Kid's Best Friend #shorts",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2OO_TuDYTtk",
+     "url": "https://www.youtube.com/shorts/2OO_TuDYTtk",
+     "title": "Australia to Ban AI Chatbots Creating Emotional Intimacy 🤖",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vvj8_C95stE",
+     "url": "https://www.youtube.com/shorts/vvj8_C95stE",
+     "title": "🚨 Australia House Passes Bill Banning Chatbots from Simulating Emotional Intimacy #AINews",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T07:49:54.445Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
