@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T22:49:48.356Z",
+ "generated_at": "2026-10-29T00:34:29.882Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Stephen Cas Casper",
+   "source": "youtube: Waddle World",
    "ok": true
   },
   {
-   "source": "tiktok: Stephen Cas Casper",
+   "source": "tiktok: Waddle World",
    "ok": true
   },
   {
-   "source": "youtube: ama wednesday stephen casper",
+   "source": "youtube: meta waddle world ai",
    "ok": true
   },
   {
-   "source": "tiktok: ama wednesday stephen casper",
-   "ok": true
-  },
-  {
-   "source": "youtube: Says It Can’t Access Its BTC",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Says It Can’t Access Its BTC",
-   "ok": true
-  },
-  {
-   "source": "youtube: bitcoin treasury datavault can",
-   "ok": true
-  },
-  {
-   "source": "tiktok: bitcoin treasury datavault can",
+   "source": "tiktok: meta waddle world ai",
    "ok": true
   }
  ],
@@ -319,7 +303,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-10-28 14:30:25",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "x-reddit",
@@ -473,7 +457,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-28 09:30:00",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -503,6 +487,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T21:37:05.455Z"
+  },
+  {
+   "first_seen": "2026-10-28T18:16:34.779Z",
+   "id": "39470666",
+   "ids": [
+    "39470666",
+    "39460335"
+   ],
+   "title": "Meta has a new AI pet app called Waddle World",
+   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-10-28 13:53:31",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+     "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
+    }
+   ],
+   "queries": [
+    "Waddle World",
+    "meta waddle world ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nwEVWpIw2MU",
+     "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
+     "title": "Meta Waddle World: A Secret AI Journal",
+     "channel": "",
+     "views": 100,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yxuBFsVfa1I",
+     "url": "https://www.youtube.com/watch?v=yxuBFsVfa1I",
+     "title": "How to Download and Use Meta AI Waddle World Daily Journal App",
+     "channel": "Reality PC",
+     "views": 4,
+     "age_hours": 5,
+     "relevance": 0.71,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VGZUEc9RWCQ",
+     "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
+     "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bii_mIJY3yA",
+     "url": "https://www.youtube.com/shorts/Bii_mIJY3yA",
+     "title": "Meta Made an AI Pet That Writes Your Diary | Waddle World #Shorts",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0Y6k9gmi--I",
+     "url": "https://www.youtube.com/shorts/0Y6k9gmi--I",
+     "title": "Meta's Waddle World Pet App Calls Itself a 'Daily Journal'",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:duA5LFJro8M",
+     "url": "https://www.youtube.com/shorts/duA5LFJro8M",
+     "title": "Meta's New AI Pet Is Secretly a Diary #shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T00:34:42.470Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
@@ -619,7 +707,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-10-28 21:46:02",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "crypto-coindesk",
@@ -662,98 +750,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T22:50:02.975Z"
-  },
-  {
-   "first_seen": "2026-10-28T18:16:34.779Z",
-   "id": "39470666",
-   "ids": [
-    "39470666",
-    "39460335"
-   ],
-   "title": "Meta has a new AI pet app called Waddle World",
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-28 13:53:31",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-     "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
-    }
-   ],
-   "queries": [
-    "Waddle World",
-    "meta waddle world ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nwEVWpIw2MU",
-     "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
-     "title": "Meta Waddle World: A Secret AI Journal",
-     "channel": "",
-     "views": 89,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VGZUEc9RWCQ",
-     "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
-     "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Bii_mIJY3yA",
-     "url": "https://www.youtube.com/shorts/Bii_mIJY3yA",
-     "title": "Meta Made an AI Pet That Writes Your Diary | Waddle World #Shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0Y6k9gmi--I",
-     "url": "https://www.youtube.com/shorts/0Y6k9gmi--I",
-     "title": "Meta's Waddle World Pet App Calls Itself a 'Daily Journal'",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:duA5LFJro8M",
-     "url": "https://www.youtube.com/shorts/duA5LFJro8M",
-     "title": "Meta's New AI Pet Is Secretly a Diary #shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T18:16:42.819Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
