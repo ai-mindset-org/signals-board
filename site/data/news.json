@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T14:50:19.317Z",
+ "generated_at": "2026-10-29T15:13:04.801Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: Startup Robusta To Strengthen IT Operations Platform",
+   "source": "youtube: Hugging Face",
    "ok": true
   },
   {
-   "source": "tiktok: Startup Robusta To Strengthen IT Operations Platform",
+   "source": "tiktok: Hugging Face",
    "ok": true
   },
   {
-   "source": "youtube: freshworks acquires startup robusta",
+   "source": "youtube: mistralai mistral-large-4-1t-a52b hugging face",
    "ok": true
   },
   {
-   "source": "tiktok: freshworks acquires startup robusta",
+   "source": "tiktok: mistralai mistral-large-4-1t-a52b hugging face",
+   "ok": true
+  },
+  {
+   "source": "youtube: Mistral Large 4 Le Chonk",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Mistral Large 4 Le Chonk",
+   "ok": true
+  },
+  {
+   "source": "youtube: mistral large chonk le",
+   "ok": true
+  },
+  {
+   "source": "tiktok: mistral large chonk le",
    "ok": true
   }
  ],
@@ -657,6 +673,178 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T05:13:49.366Z"
+  },
+  {
+   "first_seen": "2026-10-29T15:13:04.801Z",
+   "id": "39489650",
+   "ids": [
+    "39489650",
+    "39488402"
+   ],
+   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-29 14:13:14",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Mistral-Large-4-1T-A52B",
+     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    }
+   ],
+   "queries": [
+    "Hugging Face",
+    "mistralai mistral-large-4-1t-a52b hugging face"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yWEUS0IZIqc",
+     "url": "https://www.youtube.com/shorts/yWEUS0IZIqc",
+     "title": "Hugging Face Hack: Why Did AI Agents Have Write Access? #shorts",
+     "channel": "",
+     "views": 578,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GhDtWmvqiNY",
+     "url": "https://www.youtube.com/shorts/GhDtWmvqiNY",
+     "title": "Hugging Face launches LFM3 for custom vision-language models",
+     "channel": "",
+     "views": 78,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:FdG6L6FDX70",
+     "url": "https://www.youtube.com/shorts/FdG6L6FDX70",
+     "title": "AI Agents Took Over Hugging Face Clusters in 13 Hours #shorts",
+     "channel": "",
+     "views": 45,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:9SagMU85cWA",
+     "url": "https://www.youtube.com/watch?v=9SagMU85cWA",
+     "title": "Top 10 NEW Hugging Face Models – October 29, 2026",
+     "channel": "AINews-GitHubHuggingFace",
+     "views": 9,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:SrmYNQvBy_0",
+     "url": "https://www.youtube.com/shorts/SrmYNQvBy_0",
+     "title": "Stop Paying for AI! Run Free Models on Your Own Computer (Hugging Face)",
+     "channel": "",
+     "views": 26,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tlTqfnKbZrs",
+     "url": "https://www.youtube.com/shorts/tlTqfnKbZrs",
+     "title": "Uncensored models on Hugging Face + the GPU you need  #gpu #llm #localai #ollama #selfhostedai",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T15:13:12.402Z"
+  },
+  {
+   "first_seen": "2026-10-29T15:13:04.801Z",
+   "id": "39489649",
+   "ids": [
+    "39489649",
+    "39488227"
+   ],
+   "title": "Mistral Large 4 (Le Chonk) is now open weight",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-29 14:11:42",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Mistral Le Chonk open weights",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/"
+    }
+   ],
+   "queries": [
+    "Mistral Large 4 Le Chonk",
+    "mistral large chonk le"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZSp4cVMZLWQ",
+     "url": "https://www.youtube.com/watch?v=ZSp4cVMZLWQ",
+     "title": "Mistral Large 4 Le Chonk: Can a 3 Billion Euro Raise Buy Sovereign AI Leadership?",
+     "channel": "StartupHub AI",
+     "views": 24,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ods3w6jnGgI",
+     "url": "https://www.youtube.com/shorts/ods3w6jnGgI",
+     "title": "Mistral Large 4_ an open model with a trillion parameters",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:C8PlpjKIWUE",
+     "url": "https://www.youtube.com/watch?v=C8PlpjKIWUE",
+     "title": "Mistral Large 4 Just Went Open Source — Why Everyone's Talking About It",
+     "channel": "AI Cheat Codes",
+     "views": 10,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T15:13:24.574Z"
   },
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
@@ -1982,7 +2170,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-29 01:20:06",
    "story_sources": 2,
-   "score_norm": 46,
+   "score_norm": 45,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
