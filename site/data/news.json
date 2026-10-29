@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T04:37:05.141Z",
+ "generated_at": "2026-10-29T04:49:56.252Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Stephen Cas Casper",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Stephen Cas Casper",
+   "ok": true
+  },
+  {
+   "source": "youtube: ama wednesday stephen casper",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ama wednesday stephen casper",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -262,17 +279,17 @@
      "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
      "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
      "channel": "FAR․AI",
-     "views": 1454,
+     "views": 1479,
      "age_hours": 48,
      "relevance": 0.55,
-     "velocity": 30
+     "velocity": 31
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T22:49:55.820Z"
+   "searched_at": "2026-10-29T04:50:03.737Z"
   },
   {
    "first_seen": "2026-10-28T21:37:00.791Z",
