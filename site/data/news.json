@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T00:34:29.882Z",
+ "generated_at": "2026-10-29T00:58:53.208Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Waddle World",
+   "source": "youtube: It Looks Beyond Nvidia",
    "ok": true
   },
   {
-   "source": "tiktok: Waddle World",
+   "source": "tiktok: It Looks Beyond Nvidia",
    "ok": true
   },
   {
-   "source": "youtube: meta waddle world ai",
+   "source": "youtube: openai plans buy google",
    "ok": true
   },
   {
-   "source": "tiktok: meta waddle world ai",
+   "source": "tiktok: openai plans buy google",
    "ok": true
   }
  ],
@@ -61,8 +61,8 @@
     }
    ],
    "queries": [
-    "Google Takes Its",
-    "google takes chips oracle"
+    "It Looks Beyond Nvidia",
+    "openai plans buy google"
    ],
    "videos": [
     {
@@ -72,19 +72,43 @@
      "url": "https://www.youtube.com/watch?v=7uVdPLko6hc",
      "title": "OpenAI Reportedly Plans To Buy Google's AI Chips Despite Competing With It",
      "channel": "AIM Network",
-     "views": 907,
-     "age_hours": 3,
+     "views": 1344,
+     "age_hours": 9,
      "relevance": 0.67,
-     "velocity": 302
+     "velocity": 149
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:8ynydz18XsM",
-     "url": "https://www.youtube.com/shorts/8ynydz18XsM",
-     "title": "How Google is using AI internally",
+     "id": "youtube:xGHluQleXpg",
+     "url": "https://www.youtube.com/shorts/xGHluQleXpg",
+     "title": "Google and OpenAI Will Demolish $20-a-Month Plans.",
      "channel": "",
-     "views": 2400,
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1GOysQljQI",
+     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
+     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
+     "channel": "",
+     "views": 580,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c7TamNPbnjA",
+     "url": "https://www.youtube.com/shorts/c7TamNPbnjA",
+     "title": "Google and OpenAI could change the game for $20 AI plans. 👀",
+     "channel": "",
+     "views": 457,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -92,49 +116,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:VYDAtpCGpFw",
-     "url": "https://www.youtube.com/shorts/VYDAtpCGpFw",
-     "title": "OpenAI May Buy Google's AI Chips 😳 NVIDIA Should Be Watching!📈",
+     "id": "youtube:56Y-mBsAyAs",
+     "url": "https://www.youtube.com/shorts/56Y-mBsAyAs",
+     "title": "OpenAI plans to buy AI chips from Google, its rival in AI and search.",
      "channel": "",
-     "views": 1100,
+     "views": 310,
      "age_hours": null,
-     "relevance": 0.56,
+     "relevance": 0.75,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Ljb07G4u50c",
-     "url": "https://www.youtube.com/shorts/Ljb07G4u50c",
-     "title": "Google AI chips are planned for Oracle Cloud #Shorts",
+     "id": "youtube:-HZkktctzsc",
+     "url": "https://www.youtube.com/shorts/-HZkktctzsc",
+     "title": "Time to Look Beyond Nvidia?",
      "channel": "",
-     "views": 32,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:r7A_m-n49BY",
-     "url": "https://www.youtube.com/shorts/r7A_m-n49BY",
-     "title": "OpenAI Buying Google's AI Chips?! Rivals Become Partners!",
-     "channel": "",
-     "views": 11,
+     "views": 188,
      "age_hours": null,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4ygXYeWQqvg",
-     "url": "https://www.youtube.com/shorts/4ygXYeWQqvg",
-     "title": "OpenAI Just Planned To Buy Chips From Google (Its Biggest Rival)",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -142,7 +142,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-28T18:50:23.622Z"
+   "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -832,86 +832,6 @@
    "searched_at": "2026-10-27T11:54:52.650Z"
   },
   {
-   "first_seen": "2026-10-26T05:19:28.291Z",
-   "id": "39409964",
-   "ids": [
-    "39409964",
-    "39409862"
-   ],
-   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-26 03:13:29",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
-     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
-    }
-   ],
-   "queries": [
-    "Anthropic's Claude",
-    "anthropic claude georgia axios"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lZAWmvVbtok",
-     "url": "https://www.youtube.com/watch?v=lZAWmvVbtok",
-     "title": "Reuters: Anthropic Says Claude Bypassed a Georgia PAYWALL",
-     "channel": "Alignment Addict",
-     "views": 17,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:S6DHCamDzIc",
-     "url": "https://www.youtube.com/watch?v=S6DHCamDzIc",
-     "title": "Anthropic Says Claude Skipped a Fee to Get Georgia Vote Counts",
-     "channel": "Unified Memory",
-     "views": 11,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XHmVz1ekuWI",
-     "url": "https://www.youtube.com/watch?v=XHmVz1ekuWI",
-     "title": "Claude Bypassed Georgia Vote Paywall",
-     "channel": "The System Prompt",
-     "views": 3,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5FQeuKSzWmQ",
-     "url": "https://www.youtube.com/watch?v=5FQeuKSzWmQ",
-     "title": "Claude Slipped Past a Paywall for Georgia Vote Data #Shorts",
-     "channel": "The AI Rollout",
-     "views": 0,
-     "age_hours": 0.75,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T11:45:52.437Z"
-  },
-  {
    "first_seen": "2026-10-28T13:37:36.597Z",
    "id": "39464411",
    "ids": [
@@ -924,7 +844,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-10-28 12:10:55",
    "story_sources": 3,
-   "score_norm": 62,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
@@ -1020,6 +940,86 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-28T19:50:17.282Z"
+  },
+  {
+   "first_seen": "2026-10-26T05:19:28.291Z",
+   "id": "39409964",
+   "ids": [
+    "39409964",
+    "39409862"
+   ],
+   "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-10-26 03:13:29",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece"
+    }
+   ],
+   "queries": [
+    "Anthropic's Claude",
+    "anthropic claude georgia axios"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lZAWmvVbtok",
+     "url": "https://www.youtube.com/watch?v=lZAWmvVbtok",
+     "title": "Reuters: Anthropic Says Claude Bypassed a Georgia PAYWALL",
+     "channel": "Alignment Addict",
+     "views": 17,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:S6DHCamDzIc",
+     "url": "https://www.youtube.com/watch?v=S6DHCamDzIc",
+     "title": "Anthropic Says Claude Skipped a Fee to Get Georgia Vote Counts",
+     "channel": "Unified Memory",
+     "views": 11,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XHmVz1ekuWI",
+     "url": "https://www.youtube.com/watch?v=XHmVz1ekuWI",
+     "title": "Claude Bypassed Georgia Vote Paywall",
+     "channel": "The System Prompt",
+     "views": 3,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5FQeuKSzWmQ",
+     "url": "https://www.youtube.com/watch?v=5FQeuKSzWmQ",
+     "title": "Claude Slipped Past a Paywall for Georgia Vote Data #Shorts",
+     "channel": "The AI Rollout",
+     "views": 0,
+     "age_hours": 0.75,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-26T11:45:52.437Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
