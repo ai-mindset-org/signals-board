@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T14:27:03.385Z",
+ "generated_at": "2026-10-29T14:38:26.804Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -640,109 +640,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T05:13:49.366Z"
-  },
-  {
-   "first_seen": "2026-10-26T17:15:42.765Z",
-   "id": "39420034",
-   "ids": [
-    "39420034",
-    "39418547"
-   ],
-   "title": "Anthropic officially files for its public debut",
-   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-26 14:35:22",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Anthropic files to go public",
-     "url": "https://www.engadget.com/2296724/anthropic-files-to-go-public/"
-    }
-   ],
-   "queries": [
-    "anthropic officially files public"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NtWSRf2g73o",
-     "url": "https://www.youtube.com/shorts/NtWSRf2g73o",
-     "title": "Anthropic Files to Go Public",
-     "channel": "",
-     "views": 85000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4Xn18m93ytg",
-     "url": "https://www.youtube.com/watch?v=4Xn18m93ytg",
-     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
-     "channel": "Forbes",
-     "views": 15179,
-     "age_hours": 16,
-     "relevance": 0.6,
-     "velocity": 949
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VSRm-rWi_BQ",
-     "url": "https://www.youtube.com/watch?v=VSRm-rWi_BQ",
-     "title": "Anthropic Officially Files For IPO—Here’s What To Know",
-     "channel": "Forbes Breaking News",
-     "views": 4454,
-     "age_hours": 20,
-     "relevance": 0.6,
-     "velocity": 223
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0D-KCOY7FVY",
-     "url": "https://www.youtube.com/shorts/0D-KCOY7FVY",
-     "title": "Anthropic IPO: The Company Behind Claude Files to Go Public as \"ANT\" #shorts",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:23R30kVH_wA",
-     "url": "https://www.youtube.com/watch?v=23R30kVH_wA",
-     "title": "Anthropic officially files for its public debut #shorts #AI #Tech",
-     "channel": "GloblePulseAi",
-     "views": 0,
-     "age_hours": 7,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gYR1EqkRw0k",
-     "url": "https://www.youtube.com/watch?v=gYR1EqkRw0k",
-     "title": "Anthropic files public S-1: IPO terms still unset",
-     "channel": "OG SenseAI",
-     "views": 4,
-     "age_hours": 22,
-     "relevance": 0.6,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T11:54:48.983Z"
   },
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
