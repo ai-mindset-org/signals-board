@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T06:44:38.647Z",
+ "generated_at": "2026-10-29T06:54:37.732Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,25 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Waddle World",
-   "ok": false,
-   "error": "fetch failed"
-  },
-  {
-   "source": "tiktok: Waddle World",
-   "ok": true
-  },
-  {
-   "source": "youtube: meta waddle world ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta waddle world ai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -1846,37 +1828,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T11:24:03.462Z"
-  },
-  {
-   "first_seen": "2026-10-26T07:15:16.481Z",
-   "id": "39411099",
-   "ids": [
-    "39411099",
-    "39406629"
-   ],
-   "title": "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B, a 512K-Context Agentic Coding Model",
-   "url": "https://pandaily.com/nanbeige4-3-33b-open-source-agent-coding-model-512k-context-apache-2-boss-zhipin",
-   "source_id": "cn-pandaily",
-   "published_ts": "2026-10-26 06:51:59",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "in-marktechpost",
-     "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-     "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/"
-    }
-   ],
-   "queries": [
-    "BOSS Zhipin's Nanbeige Team Open-Sources Nanbeige4.3-33B",
-    "boss zhipin nanbeige team"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-26T13:51:45.464Z"
   },
   {
    "first_seen": "2026-10-27T11:18:45.828Z",
