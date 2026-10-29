@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T05:13:41.479Z",
+ "generated_at": "2026-10-29T05:49:58.490Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Says It Can’t Access Its BTC",
+   "source": "youtube: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "tiktok: Says It Can’t Access Its BTC",
+   "source": "tiktok: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "youtube: bitcoin treasury datavault can",
+   "source": "youtube: google gemini carbon unveils",
    "ok": true
   },
   {
-   "source": "tiktok: bitcoin treasury datavault can",
+   "source": "tiktok: google gemini carbon unveils",
    "ok": true
   }
  ],
@@ -259,7 +259,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-10-28 14:30:25",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "x-reddit",
@@ -449,6 +449,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T00:34:42.470Z"
+  },
+  {
+   "first_seen": "2026-10-29T05:49:58.490Z",
+   "id": "39481087",
+   "ids": [
+    "39481087",
+    "39478015"
+   ],
+   "title": "Google unveils Gemini 4 Carbon AI model for cybersecurity",
+   "url": "https://www.techinasia.com/news/google-unveils-gemini-4-carbon-ai-model-cybersecurity",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-29 01:20:06",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
+     "url": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "google gemini carbon unveils"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FLum2xzpaHM",
+     "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
+     "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
+     "channel": "Paul J Lipsky",
+     "views": 115186,
+     "age_hours": 11,
+     "relevance": 0.6,
+     "velocity": 10471
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google is doing WHAT?! (Gemini 4 Carbon)",
+     "channel": "Matthew Berman",
+     "views": 27908,
+     "age_hours": 5,
+     "relevance": 0.75,
+     "velocity": 5582
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kMpTBy3g1N0",
+     "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
+     "title": "Gemini 4 Carbon: The New Frontier",
+     "channel": "",
+     "views": 128000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NO2I3ueVQrk",
+     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
+     "title": "Gemini 4 Carbon | First Impressions",
+     "channel": "Arena  ",
+     "views": 32508,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 3251
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3yZb9rGt-rk",
+     "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
+     "title": "Google announces Gemini 4 Carbon",
+     "channel": "",
+     "views": 11000,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:dkFEcjibiO8",
+     "url": "https://www.youtube.com/watch?v=dkFEcjibiO8",
+     "title": "Gemini 4 Carbon is INSANE! 🤯",
+     "channel": "Julian Goldie SEO",
+     "views": 500,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 250
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-29T05:50:06.370Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
