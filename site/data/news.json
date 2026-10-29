@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T12:42:13.739Z",
+ "generated_at": "2026-10-29T12:52:26.039Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1237,97 +1237,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T15:18:56.370Z"
-  },
-  {
-   "first_seen": "2026-10-26T18:27:30.783Z",
-   "id": "39420549",
-   "ids": [
-    "39420549",
-    "39421830"
-   ],
-   "title": "SpaceX raised $40B of debt financing to purchase chips for AI",
-   "url": "https://en.ain.ua/2026/10/26/spacex-raised-40b-of-debt-financing-to-purchase-chips-for-ai/",
-   "source_id": "cee-ain",
-   "published_ts": "2026-10-26 12:50:00",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "SpaceX closes $40B debt deal for AI chips",
-     "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
-    }
-   ],
-   "queries": [
-    "spacex 40b raised debt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CzSgrXwj5y8",
-     "url": "https://www.youtube.com/watch?v=CzSgrXwj5y8",
-     "title": "AI Daily: Musk: SpaceX Closed $40B GPU Debt, Sees a Neocloud #Shorts",
-     "channel": "The Business Engineer",
-     "views": 33,
-     "age_hours": 21,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:i1TEuZKWfGY",
-     "url": "https://www.youtube.com/watch?v=i1TEuZKWfGY",
-     "title": "SpaceX Secures $40B Debt Financing for NVIDIA AI Chips",
-     "channel": "Quantum Synergy",
-     "views": 14,
-     "age_hours": 19,
-     "relevance": 0.75,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wlYRlEeCN60",
-     "url": "https://www.youtube.com/watch?v=wlYRlEeCN60",
-     "title": "SpaceX Just Raised $40 Billion for AI Chips. Here’s the Real Warning",
-     "channel": "Generational Wealth Investments",
-     "views": 9,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:EHO61EoOflU",
-     "url": "https://www.youtube.com/watch?v=EHO61EoOflU",
-     "title": "Top 5 AI News Today (26 Oct 2026): Elvis Estate Sues Anthropic, SpaceX $40B GPU Debt",
-     "channel": "Signal Drop",
-     "views": 19,
-     "age_hours": 18,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Zf5Dlab4ja4",
-     "url": "https://www.youtube.com/watch?v=Zf5Dlab4ja4",
-     "title": "SpaceX Borrows $40B For GPUs",
-     "channel": "The System Prompt",
-     "views": 4,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T18:27:42.257Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
