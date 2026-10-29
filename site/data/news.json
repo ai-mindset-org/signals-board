@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T19:11:08.405Z",
+ "generated_at": "2026-10-29T20:13:19.761Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -10,120 +10,34 @@
  "search_report": [],
  "stories": [
   {
-   "first_seen": "2026-10-29T03:15:56.289Z",
-   "id": "39473301",
+   "first_seen": "2026-10-29T18:38:22.042Z",
+   "id": "39494412",
    "ids": [
-    "39473301",
-    "39479156",
-    "39484286",
-    "39486356"
+    "39494412",
+    "39492613"
    ],
-   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-   "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-   "source_id": "theverge",
-   "published_ts": "2026-10-28 20:03:00",
-   "story_sources": 4,
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-29 09:00:00",
+   "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "engadget",
-     "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
-     "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/"
-    },
-    {
-     "source_id": "in-businessline",
-     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-     "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638823.ece"
-    },
-    {
-     "source_id": "in-thehindu-tech",
-     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
-     "url": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece"
+     "source_id": "hn",
+     "title": "We detect frontier model misalignment",
+     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
     }
    ],
    "queries": [
-    "Gemini 4 Carbon",
-    "google gemini carbon launches"
+    "we detect frontier model"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FLum2xzpaHM",
-     "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
-     "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
-     "channel": "Paul J Lipsky",
-     "views": 162871,
-     "age_hours": 20,
-     "relevance": 0.6,
-     "velocity": 8144
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kMpTBy3g1N0",
-     "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
-     "title": "Gemini 4 Carbon: The New Frontier",
-     "channel": "",
-     "views": 206000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google \"Carbon\" just won everything...",
-     "channel": "Matthew Berman",
-     "views": 84948,
-     "age_hours": 15,
-     "relevance": 0.5,
-     "velocity": 5663
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NO2I3ueVQrk",
-     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
-     "title": "Gemini 4 Carbon | First Impressions",
-     "channel": "Arena  ",
-     "views": 47839,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 2518
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3yZb9rGt-rk",
-     "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
-     "title": "Google announces Gemini 4 Carbon",
-     "channel": "",
-     "views": 20000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dkFEcjibiO8",
-     "url": "https://www.youtube.com/watch?v=dkFEcjibiO8",
-     "title": "Gemini 4 Carbon is INSANE! 🤯",
-     "channel": "Julian Goldie SEO",
-     "views": 6141,
-     "age_hours": 12,
-     "relevance": 0.67,
-     "velocity": 512
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-29T15:37:15.284Z"
+   "searched_at": "2026-10-29T18:38:26.616Z"
   },
   {
    "first_seen": "2026-10-26T18:27:30.783Z",
@@ -241,36 +155,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T13:22:45.058Z"
-  },
-  {
-   "first_seen": "2026-10-29T18:38:22.042Z",
-   "id": "39494412",
-   "ids": [
-    "39494412",
-    "39492613"
-   ],
-   "title": "How we detect frontier model misalignment",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-29 09:00:00",
-   "story_sources": 2,
-   "score_norm": 95,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "We detect frontier model misalignment",
-     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
-    }
-   ],
-   "queries": [
-    "we detect frontier model"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-29T18:38:26.616Z"
   },
   {
    "first_seen": "2026-10-28T21:37:00.791Z",
@@ -432,6 +316,124 @@
    "searched_at": "2026-10-29T06:44:51.342Z"
   },
   {
+   "first_seen": "2026-10-29T03:15:56.289Z",
+   "id": "39473301",
+   "ids": [
+    "39473301",
+    "39479156",
+    "39484286",
+    "39486356",
+    "39481087",
+    "39478015"
+   ],
+   "title": "Google unveils Gemini 4 Carbon AI model for cybersecurity",
+   "url": "https://www.techinasia.com/news/google-unveils-gemini-4-carbon-ai-model-cybersecurity",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-29 01:20:06",
+   "story_sources": 4,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+     "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638823.ece"
+    },
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
+     "url": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/"
+    },
+    {
+     "source_id": "in-thehindu-tech",
+     "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+     "url": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "google gemini carbon launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FLum2xzpaHM",
+     "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
+     "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
+     "channel": "Paul J Lipsky",
+     "views": 162871,
+     "age_hours": 20,
+     "relevance": 0.6,
+     "velocity": 8144
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kMpTBy3g1N0",
+     "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
+     "title": "Gemini 4 Carbon: The New Frontier",
+     "channel": "",
+     "views": 206000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "Matthew Berman",
+     "views": 84948,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 5663
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NO2I3ueVQrk",
+     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
+     "title": "Gemini 4 Carbon | First Impressions",
+     "channel": "Arena  ",
+     "views": 47839,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 2518
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3yZb9rGt-rk",
+     "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
+     "title": "Google announces Gemini 4 Carbon",
+     "channel": "",
+     "views": 20000,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:dkFEcjibiO8",
+     "url": "https://www.youtube.com/watch?v=dkFEcjibiO8",
+     "title": "Gemini 4 Carbon is INSANE! 🤯",
+     "channel": "Julian Goldie SEO",
+     "views": 6141,
+     "age_hours": 12,
+     "relevance": 0.67,
+     "velocity": 512
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-29T15:37:15.284Z"
+  },
+  {
    "first_seen": "2026-10-27T07:56:12.221Z",
    "id": "39433985",
    "ids": [
@@ -542,62 +544,6 @@
    "searched_at": "2026-10-27T20:24:55.659Z"
   },
   {
-   "first_seen": "2026-10-28T22:49:48.356Z",
-   "id": "39475897",
-   "ids": [
-    "39475897",
-    "39457957"
-   ],
-   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-28 21:46:02",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "crypto-coindesk",
-     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
-    }
-   ],
-   "queries": [
-    "Says It Can’t Access Its BTC",
-    "bitcoin treasury datavault can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JwSZDYB9ID0",
-     "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
-     "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
-     "channel": "Bullion & Bits",
-     "views": 112,
-     "age_hours": 14,
-     "relevance": 0.56,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3GEgONNLSzA",
-     "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
-     "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
-     "channel": "",
-     "views": 252,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T05:13:49.366Z"
-  },
-  {
    "first_seen": "2026-10-29T10:25:09.205Z",
    "id": "39484607",
    "ids": [
@@ -610,7 +556,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-29 08:56:47",
    "story_sources": 3,
-   "score_norm": 71,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -694,6 +640,117 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T16:37:00.862Z"
+  },
+  {
+   "first_seen": "2026-10-28T22:49:48.356Z",
+   "id": "39475897",
+   "ids": [
+    "39475897",
+    "39457957"
+   ],
+   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-10-28 21:46:02",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "crypto-coindesk",
+     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
+    }
+   ],
+   "queries": [
+    "Says It Can’t Access Its BTC",
+    "bitcoin treasury datavault can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JwSZDYB9ID0",
+     "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
+     "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
+     "channel": "Bullion & Bits",
+     "views": 112,
+     "age_hours": 14,
+     "relevance": 0.56,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3GEgONNLSzA",
+     "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
+     "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
+     "channel": "",
+     "views": 252,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T05:13:49.366Z"
+  },
+  {
+   "first_seen": "2026-10-29T17:50:12.523Z",
+   "id": "39493258",
+   "ids": [
+    "39493258",
+    "39487167"
+   ],
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-10-29 14:00:00",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Mistral releases open weights for its 1 trillion-parameter Large 4 model",
+     "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
+    }
+   ],
+   "queries": [
+    "mistral releases weights trillion-parameter"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RJQQqGHOQnc",
+     "url": "https://www.youtube.com/shorts/RJQQqGHOQnc",
+     "title": "🚨 Mistral releases Mistral Large 4 weights #AINews",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_jcvbQX4hCY",
+     "url": "https://www.youtube.com/shorts/_jcvbQX4hCY",
+     "title": "Mistral releases weights for trillion-parameter Mistral Large 4 AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T17:50:16.577Z"
   },
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
@@ -804,185 +861,6 @@
    "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
-   "first_seen": "2026-10-28T16:39:22.662Z",
-   "id": "39468281",
-   "ids": [
-    "39468281",
-    "39463152"
-   ],
-   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-10-28 14:30:25",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
-    }
-   ],
-   "queries": [
-    "Stephen Cas Casper",
-    "ama wednesday stephen casper"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Og_VPf2XQmU",
-     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
-     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
-     "channel": "FAR․AI",
-     "views": 1506,
-     "age_hours": 48,
-     "relevance": 0.55,
-     "velocity": 31
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T11:12:17.975Z"
-  },
-  {
-   "first_seen": "2026-10-29T17:50:12.523Z",
-   "id": "39493258",
-   "ids": [
-    "39493258",
-    "39487167"
-   ],
-   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-10-29 14:00:00",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Mistral releases open weights for its 1 trillion-parameter Large 4 model",
-     "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
-    }
-   ],
-   "queries": [
-    "mistral releases weights trillion-parameter"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RJQQqGHOQnc",
-     "url": "https://www.youtube.com/shorts/RJQQqGHOQnc",
-     "title": "🚨 Mistral releases Mistral Large 4 weights #AINews",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_jcvbQX4hCY",
-     "url": "https://www.youtube.com/shorts/_jcvbQX4hCY",
-     "title": "Mistral releases weights for trillion-parameter Mistral Large 4 AI",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T17:50:16.577Z"
-  },
-  {
-   "first_seen": "2026-10-26T17:41:12.710Z",
-   "id": "39419033",
-   "ids": [
-    "39419033",
-    "39420956",
-    "39436235"
-   ],
-   "title": "Anthropic nearing blockbuster IPO with final paperwork",
-   "url": "https://www.siliconrepublic.com/business/anthropic-nearing-blockbuster-ipo-with-final-paperwork",
-   "source_id": "eu-siliconrepublic",
-   "published_ts": "2026-10-27 08:38:47",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
-    }
-   ],
-   "queries": [
-    "anthropic ipo nearing blockbuster"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FWJUgcZQNRs",
-     "url": "https://www.youtube.com/watch?v=FWJUgcZQNRs",
-     "title": "Over 27 Million Americans Have Voted Early; Anthropic Files Blockbuster IPO | NTD News Today Oct. 26",
-     "channel": "NTD",
-     "views": 8484,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 499
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1cIjXeUI-aU",
-     "url": "https://www.youtube.com/watch?v=1cIjXeUI-aU",
-     "title": "BREAKING: Anthropic Files for Blockbuster IPO 🚨 #shorts",
-     "channel": "Market Maker Podcast",
-     "views": 603,
-     "age_hours": 20,
-     "relevance": 0.5,
-     "velocity": 30
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1bssiGWyRHc",
-     "url": "https://www.youtube.com/watch?v=1bssiGWyRHc",
-     "title": "Anthropic’s Blockbuster IPO Could Redefine the AI Market #shorts",
-     "channel": "The Elysium Brief ",
-     "views": 9,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:RNGLg2NUcVo",
-     "url": "https://www.youtube.com/watch?v=RNGLg2NUcVo",
-     "title": "Tech Is Back! #Nasdaq Jumps on #Anthropic's Blockbuster #IPO Filing | 30-Second Recap #stockmarket",
-     "channel": "Vega Option Trades",
-     "views": 13,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T11:54:52.650Z"
-  },
-  {
    "first_seen": "2026-10-29T15:13:04.801Z",
    "id": "39489650",
    "ids": [
@@ -994,7 +872,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:13:14",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -1098,7 +976,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:11:42",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -1153,6 +1031,130 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T15:13:24.574Z"
+  },
+  {
+   "first_seen": "2026-10-28T16:39:22.662Z",
+   "id": "39468281",
+   "ids": [
+    "39468281",
+    "39463152"
+   ],
+   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-10-28 14:30:25",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
+    }
+   ],
+   "queries": [
+    "Stephen Cas Casper",
+    "ama wednesday stephen casper"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Og_VPf2XQmU",
+     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
+     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
+     "channel": "FAR․AI",
+     "views": 1506,
+     "age_hours": 48,
+     "relevance": 0.55,
+     "velocity": 31
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T11:12:17.975Z"
+  },
+  {
+   "first_seen": "2026-10-26T17:41:12.710Z",
+   "id": "39419033",
+   "ids": [
+    "39419033",
+    "39420956",
+    "39436235"
+   ],
+   "title": "Anthropic nearing blockbuster IPO with final paperwork",
+   "url": "https://www.siliconrepublic.com/business/anthropic-nearing-blockbuster-ipo-with-final-paperwork",
+   "source_id": "eu-siliconrepublic",
+   "published_ts": "2026-10-27 08:38:47",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
+     "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/"
+    }
+   ],
+   "queries": [
+    "anthropic ipo nearing blockbuster"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FWJUgcZQNRs",
+     "url": "https://www.youtube.com/watch?v=FWJUgcZQNRs",
+     "title": "Over 27 Million Americans Have Voted Early; Anthropic Files Blockbuster IPO | NTD News Today Oct. 26",
+     "channel": "NTD",
+     "views": 8484,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 499
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1cIjXeUI-aU",
+     "url": "https://www.youtube.com/watch?v=1cIjXeUI-aU",
+     "title": "BREAKING: Anthropic Files for Blockbuster IPO 🚨 #shorts",
+     "channel": "Market Maker Podcast",
+     "views": 603,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 30
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1bssiGWyRHc",
+     "url": "https://www.youtube.com/watch?v=1bssiGWyRHc",
+     "title": "Anthropic’s Blockbuster IPO Could Redefine the AI Market #shorts",
+     "channel": "The Elysium Brief ",
+     "views": 9,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:RNGLg2NUcVo",
+     "url": "https://www.youtube.com/watch?v=RNGLg2NUcVo",
+     "title": "Tech Is Back! #Nasdaq Jumps on #Anthropic's Blockbuster #IPO Filing | 30-Second Recap #stockmarket",
+     "channel": "Vega Option Trades",
+     "views": 13,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-27T11:54:52.650Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
@@ -1582,6 +1584,37 @@
    "searched_at": "2026-10-29T08:39:07.862Z"
   },
   {
+   "first_seen": "2026-10-29T08:38:52.964Z",
+   "id": "39482835",
+   "ids": [
+    "39482835",
+    "39482429"
+   ],
+   "title": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
+   "url": "https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-10-29 07:06:42",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Freshworks acquires AI incident investigation platform Robusta",
+     "url": "https://www.thehindubusinessline.com/info-tech/freshworks-acquires-ai-incident-investigation-platform-robusta/article71639373.ece"
+    }
+   ],
+   "queries": [
+    "Startup Robusta To Strengthen IT Operations Platform",
+    "freshworks acquires startup robusta"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-29T14:50:27.049Z"
+  },
+  {
    "first_seen": "2026-10-27T16:49:57.324Z",
    "id": "39444046",
    "ids": [
@@ -1735,37 +1768,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-28T06:44:35.489Z"
-  },
-  {
-   "first_seen": "2026-10-29T08:38:52.964Z",
-   "id": "39482835",
-   "ids": [
-    "39482835",
-    "39482429"
-   ],
-   "title": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
-   "url": "https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-10-29 07:06:42",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Freshworks acquires AI incident investigation platform Robusta",
-     "url": "https://www.thehindubusinessline.com/info-tech/freshworks-acquires-ai-incident-investigation-platform-robusta/article71639373.ece"
-    }
-   ],
-   "queries": [
-    "Startup Robusta To Strengthen IT Operations Platform",
-    "freshworks acquires startup robusta"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-29T14:50:27.049Z"
   },
   {
    "first_seen": "2026-10-28T02:38:08.439Z",
