@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T16:36:52.524Z",
+ "generated_at": "2026-10-29T16:50:02.641Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: deepseek moonshot gpt-6 astra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: deepseek moonshot gpt-6 astra",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -2134,37 +2117,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T14:13:44.848Z"
-  },
-  {
-   "first_seen": "2026-10-26T21:41:24.418Z",
-   "id": "39425727",
-   "ids": [
-    "39425727",
-    "39419402"
-   ],
-   "title": "Smuggling WebMCP into ChatGPT",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xg217w/smuggling_webmcp_into_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-26 16:40:51",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Smuggling WebMCP into ChatGPT",
-     "url": "https://blog.danielbrain.ai/smuggling-webmcp-into-chatgpt"
-    }
-   ],
-   "queries": [
-    "Smuggling WebMCP",
-    "smuggling webmcp chatgpt"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-27T03:48:40.594Z"
   },
   {
    "first_seen": "2026-10-29T05:49:58.490Z",
