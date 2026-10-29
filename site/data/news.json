@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T09:27:26.169Z",
+ "generated_at": "2026-10-29T10:13:14.505Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,39 +7,28 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "youtube: google gemini carbon launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini carbon launches",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
    "id": "39473301",
    "ids": [
     "39473301",
-    "39479156"
+    "39479156",
+    "39484286"
    ],
    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
    "source_id": "theverge",
    "published_ts": "2026-10-28 20:03:00",
-   "story_sources": 2,
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+     "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/"
+    },
     {
      "source_id": "in-businessline",
      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
@@ -248,81 +237,6 @@
    "searched_at": "2026-10-27T13:22:45.058Z"
   },
   {
-   "first_seen": "2026-10-29T08:38:52.964Z",
-   "id": "39482835",
-   "ids": [
-    "39482835",
-    "39482429"
-   ],
-   "title": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
-   "url": "https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-10-29 07:06:42",
-   "story_sources": 2,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Freshworks acquires AI incident investigation platform Robusta",
-     "url": "https://www.thehindubusinessline.com/info-tech/freshworks-acquires-ai-incident-investigation-platform-robusta/article71639373.ece"
-    }
-   ],
-   "queries": [
-    "Startup Robusta To Strengthen IT Operations Platform",
-    "freshworks acquires startup robusta"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-29T08:39:00.704Z"
-  },
-  {
-   "first_seen": "2026-10-28T16:39:22.662Z",
-   "id": "39468281",
-   "ids": [
-    "39468281",
-    "39463152"
-   ],
-   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-10-28 14:30:25",
-   "story_sources": 2,
-   "score_norm": 89,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
-    }
-   ],
-   "queries": [
-    "Stephen Cas Casper",
-    "ama wednesday stephen casper"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Og_VPf2XQmU",
-     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
-     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
-     "channel": "FAR․AI",
-     "views": 1479,
-     "age_hours": 48,
-     "relevance": 0.55,
-     "velocity": 31
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T04:50:03.737Z"
-  },
-  {
    "first_seen": "2026-10-28T21:37:00.791Z",
    "id": "39474658",
    "ids": [
@@ -480,110 +394,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T06:44:51.342Z"
-  },
-  {
-   "first_seen": "2026-10-29T05:49:58.490Z",
-   "id": "39481087",
-   "ids": [
-    "39481087",
-    "39478015"
-   ],
-   "title": "Google unveils Gemini 4 Carbon AI model for cybersecurity",
-   "url": "https://www.techinasia.com/news/google-unveils-gemini-4-carbon-ai-model-cybersecurity",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-29 01:20:06",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
-     "url": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/"
-    }
-   ],
-   "queries": [
-    "Gemini 4 Carbon",
-    "google gemini carbon unveils"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FLum2xzpaHM",
-     "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
-     "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
-     "channel": "Paul J Lipsky",
-     "views": 115186,
-     "age_hours": 11,
-     "relevance": 0.6,
-     "velocity": 10471
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google is doing WHAT?! (Gemini 4 Carbon)",
-     "channel": "Matthew Berman",
-     "views": 27908,
-     "age_hours": 5,
-     "relevance": 0.75,
-     "velocity": 5582
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kMpTBy3g1N0",
-     "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
-     "title": "Gemini 4 Carbon: The New Frontier",
-     "channel": "",
-     "views": 128000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NO2I3ueVQrk",
-     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
-     "title": "Gemini 4 Carbon | First Impressions",
-     "channel": "Arena  ",
-     "views": 32508,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 3251
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3yZb9rGt-rk",
-     "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
-     "title": "Google announces Gemini 4 Carbon",
-     "channel": "",
-     "views": 11000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dkFEcjibiO8",
-     "url": "https://www.youtube.com/watch?v=dkFEcjibiO8",
-     "title": "Gemini 4 Carbon is INSANE! 🤯",
-     "channel": "Julian Goldie SEO",
-     "views": 500,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 250
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-29T05:50:06.370Z"
   },
   {
    "first_seen": "2026-10-27T07:56:12.221Z",
@@ -750,116 +560,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T05:13:49.366Z"
-  },
-  {
-   "first_seen": "2026-10-28T13:37:36.597Z",
-   "id": "39464411",
-   "ids": [
-    "39464411",
-    "39464091",
-    "39467177"
-   ],
-   "title": "Anthropic Files Its S-1",
-   "url": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-10-28 12:10:55",
-   "story_sources": 3,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
-    }
-   ],
-   "queries": [
-    "Anthropic Files Its S-1",
-    "anthropic files s-1"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mhFozOsKZLU",
-     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
-     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
-     "channel": "Good Revenue",
-     "views": 77815,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1621
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:266kCGruUnQ",
-     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
-     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
-     "channel": "CNBC Television",
-     "views": 65548,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1366
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A97KFDfqTSw",
-     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
-     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
-     "channel": "Nobody Special",
-     "views": 24439,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 1018
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:EAEixlPC6L4",
-     "url": "https://www.youtube.com/watch?v=EAEixlPC6L4",
-     "title": "Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.",
-     "channel": "@NateBJones",
-     "views": 15000,
-     "age_hours": 18.02782722222222,
-     "relevance": 0.67,
-     "velocity": 832
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8welyuCkxnM",
-     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
-     "title": "Anthropic Files Its IPO: What We Know Now",
-     "channel": "Bloomberg Television",
-     "views": 32564,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 678
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OWp-eREvJzY",
-     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
-     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
-     "channel": "Bloomberg Tech",
-     "views": 26672,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 556
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-29T08:39:07.862Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
@@ -1073,71 +773,79 @@
    "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
-   "first_seen": "2026-10-29T02:49:39.850Z",
-   "id": "39470774",
+   "first_seen": "2026-10-29T08:38:52.964Z",
+   "id": "39482835",
    "ids": [
-    "39470774",
-    "39478908"
+    "39482835",
+    "39482429"
    ],
-   "title": "Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xhvbzi/epileptic_woman_dies_after_going_to_chatgpt_for/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-28 17:55:07",
+   "title": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
+   "url": "https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-10-29 07:06:42",
    "story_sources": 2,
    "score_norm": 67,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Epileptic woman dies after going to ChatGPT for medical advice",
-     "url": "https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853"
+     "source_id": "in-businessline",
+     "title": "Freshworks acquires AI incident investigation platform Robusta",
+     "url": "https://www.thehindubusinessline.com/info-tech/freshworks-acquires-ai-incident-investigation-platform-robusta/article71639373.ece"
     }
    ],
    "queries": [
-    "epileptic chatgpt openai woman"
+    "Startup Robusta To Strengthen IT Operations Platform",
+    "freshworks acquires startup robusta"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-29T08:39:00.704Z"
+  },
+  {
+   "first_seen": "2026-10-28T16:39:22.662Z",
+   "id": "39468281",
+   "ids": [
+    "39468281",
+    "39463152"
+   ],
+   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-10-28 14:30:25",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "x-reddit",
+     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
+    }
+   ],
+   "queries": [
+    "Stephen Cas Casper",
+    "ama wednesday stephen casper"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:S_hjW9p-G8A",
-     "url": "https://www.youtube.com/watch?v=S_hjW9p-G8A",
-     "title": "Family Sues OpenAI Over ChatGPT Medication Advice After 31-Year-Old Woman's Death #Shorts",
-     "channel": "NewYork60s Trending",
-     "views": 264,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 33
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VTkz8txOPKA",
-     "url": "https://www.youtube.com/watch?v=VTkz8txOPKA",
-     "title": "Chatgpt lawsuit after death vertical",
-     "channel": "KREM 2 News",
-     "views": 243,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 24
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fMv3OLwJJEQ",
-     "url": "https://www.youtube.com/watch?v=fMv3OLwJJEQ",
-     "title": "Family Sues OpenAI over ChatGPT Medical Advice",
-     "channel": "KING 5 Seattle",
-     "views": 203,
-     "age_hours": 15,
-     "relevance": 0.83,
-     "velocity": 14
+     "id": "youtube:Og_VPf2XQmU",
+     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
+     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
+     "channel": "FAR․AI",
+     "views": 1479,
+     "age_hours": 48,
+     "relevance": 0.55,
+     "velocity": 31
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-29T08:50:11.937Z"
+   "searched_at": "2026-10-29T04:50:03.737Z"
   },
   {
    "first_seen": "2026-10-26T17:41:12.710Z",
@@ -1218,73 +926,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T11:54:52.650Z"
-  },
-  {
-   "first_seen": "2026-10-29T07:49:50.349Z",
-   "id": "39472635",
-   "ids": [
-    "39472635",
-    "39482516"
-   ],
-   "title": "Australia moves to ban AI chatbots from ‘emotional intimacy’ with children",
-   "url": "https://thenextweb.com/news/australia-duty-of-care-bill-ai-chatbots-emotional-intimacy-children",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-28 19:33:45",
-   "story_sources": 2,
-   "score_norm": 64,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Australia Bans AI 'Emotional Intimacy' with Children;",
-     "url": "https://dsrupt.news/articles/australia-bans-ai-emotional-intimacy-with-children-chatbot-makers-will-keep-the/"
-    }
-   ],
-   "queries": [
-    "australia moves ban ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KTFRtMegc8k",
-     "url": "https://www.youtube.com/shorts/KTFRtMegc8k",
-     "title": "Australia Moves to Stop AI Chatbots Acting Like Your Kid's Best Friend #shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2OO_TuDYTtk",
-     "url": "https://www.youtube.com/shorts/2OO_TuDYTtk",
-     "title": "Australia to Ban AI Chatbots Creating Emotional Intimacy 🤖",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vvj8_C95stE",
-     "url": "https://www.youtube.com/shorts/vvj8_C95stE",
-     "title": "🚨 Australia House Passes Bill Banning Chatbots from Simulating Emotional Intimacy #AINews",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T07:49:54.445Z"
   },
   {
    "first_seen": "2026-10-27T13:22:36.433Z",
@@ -1744,6 +1385,110 @@
    "searched_at": "2026-10-26T17:15:54.826Z"
   },
   {
+   "first_seen": "2026-10-29T05:49:58.490Z",
+   "id": "39481087",
+   "ids": [
+    "39481087",
+    "39478015"
+   ],
+   "title": "Google unveils Gemini 4 Carbon AI model for cybersecurity",
+   "url": "https://www.techinasia.com/news/google-unveils-gemini-4-carbon-ai-model-cybersecurity",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-29 01:20:06",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades",
+     "url": "https://siliconangle.com/2026/10/28/google-debuts-flagship-gemini-4-carbon-model-with-cybersecurity-upgrades/"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "google gemini carbon unveils"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FLum2xzpaHM",
+     "url": "https://www.youtube.com/watch?v=FLum2xzpaHM",
+     "title": "Google Just Announced Gemini 4 Carbon (It Cooks)",
+     "channel": "Paul J Lipsky",
+     "views": 115186,
+     "age_hours": 11,
+     "relevance": 0.6,
+     "velocity": 10471
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google is doing WHAT?! (Gemini 4 Carbon)",
+     "channel": "Matthew Berman",
+     "views": 27908,
+     "age_hours": 5,
+     "relevance": 0.75,
+     "velocity": 5582
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kMpTBy3g1N0",
+     "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
+     "title": "Gemini 4 Carbon: The New Frontier",
+     "channel": "",
+     "views": 128000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NO2I3ueVQrk",
+     "url": "https://www.youtube.com/watch?v=NO2I3ueVQrk",
+     "title": "Gemini 4 Carbon | First Impressions",
+     "channel": "Arena  ",
+     "views": 32508,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 3251
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3yZb9rGt-rk",
+     "url": "https://www.youtube.com/shorts/3yZb9rGt-rk",
+     "title": "Google announces Gemini 4 Carbon",
+     "channel": "",
+     "views": 11000,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:dkFEcjibiO8",
+     "url": "https://www.youtube.com/watch?v=dkFEcjibiO8",
+     "title": "Gemini 4 Carbon is INSANE! 🤯",
+     "channel": "Julian Goldie SEO",
+     "views": 500,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 250
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-29T05:50:06.370Z"
+  },
+  {
    "first_seen": "2026-10-27T22:11:15.888Z",
    "id": "39451143",
    "ids": [
@@ -1797,6 +1542,116 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T04:15:08.946Z"
+  },
+  {
+   "first_seen": "2026-10-28T13:37:36.597Z",
+   "id": "39464411",
+   "ids": [
+    "39464411",
+    "39464091",
+    "39467177"
+   ],
+   "title": "Anthropic Files Its S-1",
+   "url": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-10-28 12:10:55",
+   "story_sources": 3,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "Anthropic Files Its S-1",
+     "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic Files Its S-1",
+     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
+    }
+   ],
+   "queries": [
+    "Anthropic Files Its S-1",
+    "anthropic files s-1"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mhFozOsKZLU",
+     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
+     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
+     "channel": "Good Revenue",
+     "views": 77815,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 1621
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:266kCGruUnQ",
+     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
+     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
+     "channel": "CNBC Television",
+     "views": 65548,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 1366
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A97KFDfqTSw",
+     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
+     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
+     "channel": "Nobody Special",
+     "views": 24439,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 1018
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:EAEixlPC6L4",
+     "url": "https://www.youtube.com/watch?v=EAEixlPC6L4",
+     "title": "Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.",
+     "channel": "@NateBJones",
+     "views": 15000,
+     "age_hours": 18.02782722222222,
+     "relevance": 0.67,
+     "velocity": 832
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8welyuCkxnM",
+     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
+     "title": "Anthropic Files Its IPO: What We Know Now",
+     "channel": "Bloomberg Television",
+     "views": 32564,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 678
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OWp-eREvJzY",
+     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
+     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
+     "channel": "Bloomberg Tech",
+     "views": 26672,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 556
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-10-29T08:39:07.862Z"
   },
   {
    "first_seen": "2026-10-27T16:49:57.324Z",
@@ -2056,6 +1911,73 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-27T10:43:55.098Z"
+  },
+  {
+   "first_seen": "2026-10-29T02:49:39.850Z",
+   "id": "39470774",
+   "ids": [
+    "39470774",
+    "39478908"
+   ],
+   "title": "Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xhvbzi/epileptic_woman_dies_after_going_to_chatgpt_for/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-28 17:55:07",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Epileptic woman dies after going to ChatGPT for medical advice",
+     "url": "https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853"
+    }
+   ],
+   "queries": [
+    "epileptic chatgpt openai woman"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:S_hjW9p-G8A",
+     "url": "https://www.youtube.com/watch?v=S_hjW9p-G8A",
+     "title": "Family Sues OpenAI Over ChatGPT Medication Advice After 31-Year-Old Woman's Death #Shorts",
+     "channel": "NewYork60s Trending",
+     "views": 264,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 33
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VTkz8txOPKA",
+     "url": "https://www.youtube.com/watch?v=VTkz8txOPKA",
+     "title": "Chatgpt lawsuit after death vertical",
+     "channel": "KREM 2 News",
+     "views": 243,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 24
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fMv3OLwJJEQ",
+     "url": "https://www.youtube.com/watch?v=fMv3OLwJJEQ",
+     "title": "Family Sues OpenAI over ChatGPT Medical Advice",
+     "channel": "KING 5 Seattle",
+     "views": 203,
+     "age_hours": 15,
+     "relevance": 0.83,
+     "velocity": 14
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T08:50:11.937Z"
   },
   {
    "first_seen": "2026-10-28T02:38:08.439Z",
@@ -2343,6 +2265,73 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T10:17:48.058Z"
+  },
+  {
+   "first_seen": "2026-10-29T07:49:50.349Z",
+   "id": "39472635",
+   "ids": [
+    "39472635",
+    "39482516"
+   ],
+   "title": "Australia moves to ban AI chatbots from ‘emotional intimacy’ with children",
+   "url": "https://thenextweb.com/news/australia-duty-of-care-bill-ai-chatbots-emotional-intimacy-children",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-28 19:33:45",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Australia Bans AI 'Emotional Intimacy' with Children;",
+     "url": "https://dsrupt.news/articles/australia-bans-ai-emotional-intimacy-with-children-chatbot-makers-will-keep-the/"
+    }
+   ],
+   "queries": [
+    "australia moves ban ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KTFRtMegc8k",
+     "url": "https://www.youtube.com/shorts/KTFRtMegc8k",
+     "title": "Australia Moves to Stop AI Chatbots Acting Like Your Kid's Best Friend #shorts",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2OO_TuDYTtk",
+     "url": "https://www.youtube.com/shorts/2OO_TuDYTtk",
+     "title": "Australia to Ban AI Chatbots Creating Emotional Intimacy 🤖",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vvj8_C95stE",
+     "url": "https://www.youtube.com/shorts/vvj8_C95stE",
+     "title": "🚨 Australia House Passes Bill Banning Chatbots from Simulating Emotional Intimacy #AINews",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T07:49:54.445Z"
   },
   {
    "first_seen": "2026-10-26T13:51:30.960Z",
