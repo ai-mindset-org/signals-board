@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T05:49:58.490Z",
+ "generated_at": "2026-10-29T06:44:38.647Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,20 @@
  },
  "search_report": [
   {
-   "source": "youtube: Gemini 4 Carbon",
+   "source": "youtube: Waddle World",
+   "ok": false,
+   "error": "fetch failed"
+  },
+  {
+   "source": "tiktok: Waddle World",
    "ok": true
   },
   {
-   "source": "tiktok: Gemini 4 Carbon",
+   "source": "youtube: meta waddle world ai",
    "ok": true
   },
   {
-   "source": "youtube: google gemini carbon unveils",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini carbon unveils",
+   "source": "tiktok: meta waddle world ai",
    "ok": true
   }
  ],
@@ -303,7 +304,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-28 09:30:00",
    "story_sources": 2,
-   "score_norm": 80,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "hn",
@@ -374,11 +375,23 @@
     {
      "platform": "youtube",
      "kind": "shorts",
+     "id": "youtube:YvR0i5y5DMg",
+     "url": "https://www.youtube.com/shorts/YvR0i5y5DMg",
+     "title": "Meta's free AI assistant",
+     "channel": "",
+     "views": 167,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
      "id": "youtube:nwEVWpIw2MU",
      "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
      "title": "Meta Waddle World: A Secret AI Journal",
      "channel": "",
-     "views": 100,
+     "views": 103,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -390,10 +403,22 @@
      "url": "https://www.youtube.com/watch?v=yxuBFsVfa1I",
      "title": "How to Download and Use Meta AI Waddle World Daily Journal App",
      "channel": "Reality PC",
-     "views": 4,
-     "age_hours": 5,
+     "views": 19,
+     "age_hours": 11,
      "relevance": 0.71,
-     "velocity": 1
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GgvyQ6QYxEc",
+     "url": "https://www.youtube.com/shorts/GgvyQ6QYxEc",
+     "title": "Meta's next AI move?",
+     "channel": "",
+     "views": 67,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -402,53 +427,29 @@
      "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
      "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
      "channel": "",
-     "views": 27,
+     "views": 38,
      "age_hours": null,
      "relevance": 0.86,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Bii_mIJY3yA",
-     "url": "https://www.youtube.com/shorts/Bii_mIJY3yA",
-     "title": "Meta Made an AI Pet That Writes Your Diary | Waddle World #Shorts",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0Y6k9gmi--I",
-     "url": "https://www.youtube.com/shorts/0Y6k9gmi--I",
-     "title": "Meta's Waddle World Pet App Calls Itself a 'Daily Journal'",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:duA5LFJro8M",
-     "url": "https://www.youtube.com/shorts/duA5LFJro8M",
-     "title": "Meta's New AI Pet Is Secretly a Diary #shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:I0-SDV2qvFA",
+     "url": "https://www.youtube.com/watch?v=I0-SDV2qvFA",
+     "title": "Meta Just Made an AI Pet App… But Why?",
+     "channel": "VCR TECH",
+     "views": 3,
+     "age_hours": 6,
+     "relevance": 0.8,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-29T00:34:42.470Z"
+   "searched_at": "2026-10-29T06:44:51.342Z"
   },
   {
    "first_seen": "2026-10-29T05:49:58.490Z",
@@ -462,7 +463,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-29 01:20:06",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
