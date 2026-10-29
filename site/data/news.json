@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T13:26:35.680Z",
+ "generated_at": "2026-10-29T14:27:03.385Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -524,7 +524,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-10-29 08:56:47",
    "story_sources": 3,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1875,110 +1875,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T08:27:39.149Z"
-  },
-  {
-   "first_seen": "2026-10-26T15:40:41.349Z",
-   "id": "39418044",
-   "ids": [
-    "39418044",
-    "39416584"
-   ],
-   "title": "Meta Plans to Raise Up to $95 Billion in New Shares to Pay for AI",
-   "url": "https://dailyai.com/2026/10/meta-plans-to-raise-up-to-95-billion-in-new-shares-to-pay-for-ai/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-10-26 14:21:51",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Meta plans to raise up to $95 billion to fund AI and data centre expansion",
-     "url": "https://www.thehindubusinessline.com/markets/meta-plans-to-raise-up-to-95-billion-to-fund-ai-and-data-centre-expansion/article71627458.ece"
-    }
-   ],
-   "queries": [
-    "Meta Plans",
-    "meta plans raise up"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3OnJopLqhAc",
-     "url": "https://www.youtube.com/watch?v=3OnJopLqhAc",
-     "title": "AI Capital Rush: SpaceX Eyes $40 Billion Debt Deal, Meta Plans $95 Billion Fundraise | IBH",
-     "channel": "CNBC-TV18",
-     "views": 1799,
-     "age_hours": 19,
-     "relevance": 0.56,
-     "velocity": 95
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SckwXINEEdg",
-     "url": "https://www.youtube.com/watch?v=SckwXINEEdg",
-     "title": "Meta aims to raise up to $95 billion to expand AI efforts",
-     "channel": "CBS19",
-     "views": 506,
-     "age_hours": 11,
-     "relevance": 0.67,
-     "velocity": 46
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:MGPW4SOqro4",
-     "url": "https://www.youtube.com/watch?v=MGPW4SOqro4",
-     "title": "Meta Plans to Raise Up to $95 Billion to Fund Artificial Intelligence Expansion",
-     "channel": "B.C. Begley",
-     "views": 25,
-     "age_hours": 7,
-     "relevance": 0.67,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8iimuUymw5Q",
-     "url": "https://www.youtube.com/watch?v=8iimuUymw5Q",
-     "title": "Learn English A1 | Slow English News with Subtitles: Meta Plans to Raise $95 Billion for AI",
-     "channel": "Learn English with News | LinguaWire",
-     "views": 7,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:k6Hlm217KI8",
-     "url": "https://www.youtube.com/watch?v=k6Hlm217KI8",
-     "title": "$95 Billion: Guess Meta's Biggest-Ever AI Stock Raise Before the Reveal #shorts",
-     "channel": "Insight Meter",
-     "views": 6,
-     "age_hours": 9,
-     "relevance": 0.56,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:b2rcwIXHgK0",
-     "url": "https://www.youtube.com/watch?v=b2rcwIXHgK0",
-     "title": "Meta Plans Up to $95 Billion for AI — Chipmakers May Invest #Shorts",
-     "channel": "The Daily Orb",
-     "views": 7,
-     "age_hours": 15,
-     "relevance": 0.67,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T10:17:48.058Z"
   },
   {
    "first_seen": "2026-10-26T13:51:30.960Z",
