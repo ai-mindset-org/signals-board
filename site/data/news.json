@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T13:13:55.779Z",
+ "generated_at": "2026-10-29T13:26:35.680Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -2159,98 +2159,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-27T03:48:40.594Z"
-  },
-  {
-   "first_seen": "2026-10-26T15:05:05.711Z",
-   "id": "39416621",
-   "ids": [
-    "39416621",
-    "39417446"
-   ],
-   "title": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
-   "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-10-26 13:20:08",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic files for Nasdaq IPO as half-year revenue hits $16.3bn",
-     "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1"
-    }
-   ],
-   "queries": [
-    "IPO With 16.3 Billion",
-    "anthropic files ipo 16.3"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nV7JqCmErZQ",
-     "url": "https://www.youtube.com/watch?v=nV7JqCmErZQ",
-     "title": "Anthropic just filed for IPO. Everyone’s looking at $16.3 billion in revenue in the first half of th",
-     "channel": "Prompting Iron",
-     "views": 285,
-     "age_hours": 7,
-     "relevance": 0.71,
-     "velocity": 41
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rnhDcPJi_5s",
-     "url": "https://www.youtube.com/watch?v=rnhDcPJi_5s",
-     "title": "Anthropic Just Filed for a $100 BILLION IPO! 🤯 #shorts",
-     "channel": "JANTRU AI CASTER ",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:cQg75gou3kk",
-     "url": "https://www.youtube.com/watch?v=cQg75gou3kk",
-     "title": "Anthropic Files Huge IPO! | Short News",
-     "channel": "Shadow English",
-     "views": 3,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5NtvjwsdWVw",
-     "url": "https://www.youtube.com/watch?v=5NtvjwsdWVw",
-     "title": "[2026-10-27] Anthropic Files for IPO: $16.3B Revenue and an $80.7B Loss | Daily_Daily",
-     "channel": "Daily_Daily",
-     "views": 1,
-     "age_hours": 4,
-     "relevance": 0.57,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jxrk3MFTRAw",
-     "url": "https://www.youtube.com/watch?v=jxrk3MFTRAw",
-     "title": "Anthropic Files to IPO: $16.3B Revenue in Six Months",
-     "channel": "AINewsDaily",
-     "views": 0,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T03:25:33.350Z"
   },
   {
    "first_seen": "2026-10-29T05:49:58.490Z",
