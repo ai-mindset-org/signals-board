@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T12:52:26.039Z",
+ "generated_at": "2026-10-29T13:13:55.779Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -402,80 +402,6 @@
    "searched_at": "2026-10-29T06:44:51.342Z"
   },
   {
-   "first_seen": "2026-10-29T10:25:09.205Z",
-   "id": "39484607",
-   "ids": [
-    "39484607",
-    "39480199",
-    "39485884"
-   ],
-   "title": "DeepSeek and Moonshot trained new models on GPT-6 Astra, report says",
-   "url": "https://thenextweb.com/news/deepseek-moonshot-gpt-6-astra-distillation",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-29 08:56:47",
-   "story_sources": 3,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: Report",
-     "url": "https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece"
-    },
-    {
-     "source_id": "in-express-tech",
-     "title": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/"
-    }
-   ],
-   "queries": [
-    "GPT-6 Astra",
-    "deepseek moonshot gpt-6 astra"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wTkywZlcPzU",
-     "url": "https://www.youtube.com/shorts/wTkywZlcPzU",
-     "title": "DeepSeek and Moonshot reportedly trained their newest AI on answers from OpenAI's GPT-6 Astra.",
-     "channel": "",
-     "views": 335,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:t_xyzCNniP0",
-     "url": "https://www.youtube.com/watch?v=t_xyzCNniP0",
-     "title": "DeepSeek and Kimi Reportedly Trained on GPT-6 Astra. The Evidence",
-     "channel": "Tech777 AI",
-     "views": 2,
-     "age_hours": 1,
-     "relevance": 0.57,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pMAxkCkkqVQ",
-     "url": "https://www.youtube.com/shorts/pMAxkCkkqVQ",
-     "title": "OpenAI Astra used to train DeepSeek and Moonshot AI models #shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T10:25:17.218Z"
-  },
-  {
    "first_seen": "2026-10-27T07:56:12.221Z",
    "id": "39433985",
    "ids": [
@@ -584,6 +510,80 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T20:24:55.659Z"
+  },
+  {
+   "first_seen": "2026-10-29T10:25:09.205Z",
+   "id": "39484607",
+   "ids": [
+    "39484607",
+    "39480199",
+    "39485884"
+   ],
+   "title": "DeepSeek and Moonshot trained new models on GPT-6 Astra, report says",
+   "url": "https://thenextweb.com/news/deepseek-moonshot-gpt-6-astra-distillation",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-29 08:56:47",
+   "story_sources": 3,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: Report",
+     "url": "https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece"
+    },
+    {
+     "source_id": "in-express-tech",
+     "title": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/"
+    }
+   ],
+   "queries": [
+    "GPT-6 Astra",
+    "deepseek moonshot gpt-6 astra"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wTkywZlcPzU",
+     "url": "https://www.youtube.com/shorts/wTkywZlcPzU",
+     "title": "DeepSeek and Moonshot reportedly trained their newest AI on answers from OpenAI's GPT-6 Astra.",
+     "channel": "",
+     "views": 335,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:t_xyzCNniP0",
+     "url": "https://www.youtube.com/watch?v=t_xyzCNniP0",
+     "title": "DeepSeek and Kimi Reportedly Trained on GPT-6 Astra. The Evidence",
+     "channel": "Tech777 AI",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.57,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pMAxkCkkqVQ",
+     "url": "https://www.youtube.com/shorts/pMAxkCkkqVQ",
+     "title": "OpenAI Astra used to train DeepSeek and Moonshot AI models #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T10:25:17.218Z"
   },
   {
    "first_seen": "2026-10-28T22:49:48.356Z",
@@ -1239,110 +1239,6 @@
    "searched_at": "2026-10-27T15:18:56.370Z"
   },
   {
-   "first_seen": "2026-10-26T17:15:42.765Z",
-   "id": "39415950",
-   "ids": [
-    "39415950",
-    "39420177"
-   ],
-   "title": "Gemini 4 Argon: The Model and Safety Cards",
-   "url": "https://www.lesswrong.com/posts/EeT8MEqgpuPtpdmJE/gemini-4-argon-the-model-and-safety-cards",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-10-26 13:00:56",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Argon: The Model and Safety Cards",
-     "url": "https://thezvi.substack.com/p/gemini-4-argon-the-model-and-safety"
-    }
-   ],
-   "queries": [
-    "Gemini 4 Argon",
-    "gemini argon safety cards"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:LWxX6vvHfrc",
-     "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-     "title": "Gemini 4 Argon Is Not What I Expected",
-     "channel": "@TwoMinutePapers",
-     "views": 234000,
-     "age_hours": 154.23702555555556,
-     "relevance": 0.5,
-     "velocity": 1517
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:NL0yDYXAQ0E",
-     "url": "https://www.youtube.com/watch?v=NL0yDYXAQ0E",
-     "title": "GEMINI 4 ARGON IS WEIRD...",
-     "channel": "@WesRoth",
-     "views": 269000,
-     "age_hours": 298.46977111111113,
-     "relevance": 0.67,
-     "velocity": 901
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:-rriX9N_Pgo",
-     "url": "https://www.youtube.com/watch?v=-rriX9N_Pgo",
-     "title": "I tried Gemini 4 Argon... Again",
-     "channel": "WeeklyHow",
-     "views": 14765,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 308
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GACblD4jcqg",
-     "url": "https://www.youtube.com/watch?v=GACblD4jcqg",
-     "title": "Lifehack: Bypass Billing to Get 18 Months of Google's Latest Gemini 4 Argon Model (Secret Method)",
-     "channel": "萌祥种树",
-     "views": 1089,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 45
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Br5RvYC1u0s",
-     "url": "https://www.youtube.com/shorts/Br5RvYC1u0s",
-     "title": "Gemini 4 Argon is Insane!!!",
-     "channel": "",
-     "views": 1500,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tewGZfKlg6w",
-     "url": "https://www.youtube.com/shorts/tewGZfKlg6w",
-     "title": "Gemini 4 Argon Model Is the BEST AI 🤯🔥",
-     "channel": "",
-     "views": 1400,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-26T17:15:54.826Z"
-  },
-  {
    "first_seen": "2026-10-27T22:11:15.888Z",
    "id": "39451143",
    "ids": [
@@ -1519,7 +1415,7 @@
    "source_id": "in-inc42",
    "published_ts": "2026-10-29 07:06:42",
    "story_sources": 2,
-   "score_norm": 54,
+   "score_norm": 53,
    "related_news": [
     {
      "source_id": "in-businessline",
