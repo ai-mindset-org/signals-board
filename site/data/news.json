@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T06:54:37.732Z",
+ "generated_at": "2026-10-29T07:27:13.606Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -341,7 +341,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-10-28 13:53:31",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "engadget",
@@ -716,7 +716,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-10-28 12:10:55",
    "story_sources": 3,
-   "score_norm": 71,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
@@ -1523,109 +1523,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-26T18:27:42.257Z"
-  },
-  {
-   "first_seen": "2026-10-26T10:02:10.420Z",
-   "id": "39412821",
-   "ids": [
-    "39412821",
-    "39406250"
-   ],
-   "title": "‘Zero financial payoff outside tech’: Apollo chief economist on AI productivity growth",
-   "url": "https://indianexpress.com/article/technology/tech-news-technology/zero-financial-payoff-apollo-chief-economist-ai-productivity-10937132/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-10-26 07:23:38",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-     "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10"
-    }
-   ],
-   "queries": [
-    "apollo zero financial payoff"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T4GTu6pBbIs",
-     "url": "https://www.youtube.com/shorts/T4GTu6pBbIs",
-     "title": "Apollo economist: no signs of AI payoff outside the tech sector",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aOrXfl9UqJI",
-     "url": "https://www.youtube.com/shorts/aOrXfl9UqJI",
-     "title": "Apollo's Chief Economist: AI Has Delivered 'Zero' Payoff Outside Big Tech #shorts",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.73,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tsLv0mXZ0Uk",
-     "url": "https://www.youtube.com/shorts/tsLv0mXZ0Uk",
-     "title": "Apollo Economist: AI Has Delivered Zero Financial Payoff to the S&P 493 #Shorts",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9jvTFANHR0s",
-     "url": "https://www.youtube.com/shorts/9jvTFANHR0s",
-     "title": "AI has delivered zero financial payoff outside tech, says Apollo economist",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.89,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s31giKvLpPQ",
-     "url": "https://www.youtube.com/shorts/s31giKvLpPQ",
-     "title": "Apollo's Economist: AI Has 'Zero' Payoff Outside Big Tech",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Br8A9E_ebgE",
-     "url": "https://www.youtube.com/shorts/Br8A9E_ebgE",
-     "title": "Apollo's chief economist says AI has delivered 'zero financial payoff' outside tech",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.9,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-26T10:02:14.451Z"
   },
   {
    "first_seen": "2026-10-26T17:15:42.765Z",
