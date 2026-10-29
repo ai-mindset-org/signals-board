@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T02:18:23.296Z",
+ "generated_at": "2026-10-29T02:49:39.850Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic Files Its S-1",
+   "source": "youtube: epileptic chatgpt openai woman",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic Files Its S-1",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic files s-1",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic files s-1",
+   "source": "tiktok: epileptic chatgpt openai woman",
    "ok": true
   }
  ],
@@ -1178,6 +1170,73 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-26T22:53:47.420Z"
+  },
+  {
+   "first_seen": "2026-10-29T02:49:39.850Z",
+   "id": "39470774",
+   "ids": [
+    "39470774",
+    "39478908"
+   ],
+   "title": "Epileptic woman dies after going to ChatGPT for medical advice; family files lawsuit against OpenAI",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xhvbzi/epileptic_woman_dies_after_going_to_chatgpt_for/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-28 17:55:07",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Epileptic woman dies after going to ChatGPT for medical advice",
+     "url": "https://www.abc10.com/article/news/nation-world/epileptic-woman-dies-chatgpt-medical-advice-family-files-suit/507-c430a40e-41c9-4b85-8012-a4400d6cd853"
+    }
+   ],
+   "queries": [
+    "epileptic chatgpt openai woman"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:S_hjW9p-G8A",
+     "url": "https://www.youtube.com/watch?v=S_hjW9p-G8A",
+     "title": "Family Sues OpenAI Over ChatGPT Medication Advice After 31-Year-Old Woman's Death #Shorts",
+     "channel": "NewYork60s Trending",
+     "views": 169,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 85
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VTkz8txOPKA",
+     "url": "https://www.youtube.com/watch?v=VTkz8txOPKA",
+     "title": "Chatgpt lawsuit after death vertical",
+     "channel": "KREM 2 News",
+     "views": 133,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 33
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fMv3OLwJJEQ",
+     "url": "https://www.youtube.com/watch?v=fMv3OLwJJEQ",
+     "title": "Family Sues OpenAI over ChatGPT Medical Advice",
+     "channel": "KING 5 Seattle",
+     "views": 134,
+     "age_hours": 9,
+     "relevance": 0.83,
+     "velocity": 15
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T02:49:43.834Z"
   },
   {
    "first_seen": "2026-10-27T02:38:37.666Z",
