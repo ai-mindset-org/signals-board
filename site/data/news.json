@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T09:26:43.628Z",
+ "generated_at": "2026-10-30T10:13:08.208Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: spec updated model capable",
+   "ok": true
+  },
+  {
+   "source": "tiktok: spec updated model capable",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -40,7 +49,7 @@
      "url": "https://www.youtube.com/shorts/fYb9l7GB6E4",
      "title": "OpenAI updated the Model Spec: goals, not guarantees #Shorts",
      "channel": "",
-     "views": 4,
+     "views": 9,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -48,13 +57,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:dmVAGWC0tdo",
-     "url": "https://www.youtube.com/shorts/dmVAGWC0tdo",
-     "title": "OpenAI: An updated Model Spec for more capable and beneficial AI",
+     "id": "youtube:pyb358iFShc",
+     "url": "https://www.youtube.com/shorts/pyb358iFShc",
+     "title": "OpenAI just updated its Model Spec for more capable AI",
      "channel": "",
      "views": 0,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.83,
      "velocity": null
     }
    ],
@@ -62,7 +71,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-30T03:50:06.932Z"
+   "searched_at": "2026-10-30T10:13:12.427Z"
   },
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
