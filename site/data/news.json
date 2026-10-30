@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T10:13:08.208Z",
+ "generated_at": "2026-10-30T10:49:50.876Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: spec updated model capable",
+   "source": "youtube: Größter Kunde",
    "ok": true
   },
   {
-   "source": "tiktok: spec updated model capable",
+   "source": "tiktok: Größter Kunde",
+   "ok": true
+  },
+  {
+   "source": "youtube: größter kunde spacex us-regierung",
+   "ok": true
+  },
+  {
+   "source": "tiktok: größter kunde spacex us-regierung",
    "ok": true
   }
  ],
@@ -72,6 +80,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T10:13:12.427Z"
+  },
+  {
+   "first_seen": "2026-10-30T10:49:50.876Z",
+   "id": "39507569",
+   "ids": [
+    "39507569",
+    "39505395"
+   ],
+   "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
+   "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+   "source_id": "eu-t3n",
+   "published_ts": "2026-10-30 10:20:12",
+   "story_sources": 2,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "eu-heise",
+     "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
+     "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+    }
+   ],
+   "queries": [
+    "Größter Kunde",
+    "größter kunde spacex us-regierung"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-30T10:49:58.542Z"
   },
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
