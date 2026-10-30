@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T15:12:21.345Z",
+ "generated_at": "2026-10-30T16:14:09.301Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: spec updated model capable",
+   "ok": true
+  },
+  {
+   "source": "tiktok: spec updated model capable",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -21,7 +30,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-29 17:00:00",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "hn",
@@ -40,9 +49,33 @@
      "url": "https://www.youtube.com/shorts/fYb9l7GB6E4",
      "title": "OpenAI updated the Model Spec: goals, not guarantees #Shorts",
      "channel": "",
-     "views": 9,
+     "views": 13,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dmVAGWC0tdo",
+     "url": "https://www.youtube.com/shorts/dmVAGWC0tdo",
+     "title": "OpenAI: An updated Model Spec for more capable and beneficial AI",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:E9LxO5zwfQA",
+     "url": "https://www.youtube.com/shorts/E9LxO5zwfQA",
+     "title": "An updated Model Spec for more capable and beneficial AI",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
      "velocity": null
     },
     {
@@ -62,7 +95,50 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-30T10:13:12.427Z"
+   "searched_at": "2026-10-30T16:14:14.099Z"
+  },
+  {
+   "first_seen": "2026-10-30T12:20:00.258Z",
+   "id": "39508980",
+   "ids": [
+    "39508980",
+    "39495163"
+   ],
+   "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
+   "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-30 12:05:36",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Meta quietly launches an AI fashion app called Style Sketch",
+     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+    }
+   ],
+   "queries": [
+    "meta quietly launches ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bDPDAyG3KQo",
+     "url": "https://www.youtube.com/shorts/bDPDAyG3KQo",
+     "title": "Meta's New AI Business Assistant",
+     "channel": "",
+     "views": 25,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T12:20:04.227Z"
   },
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
@@ -93,49 +169,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-30T07:14:03.854Z"
-  },
-  {
-   "first_seen": "2026-10-30T12:20:00.258Z",
-   "id": "39508980",
-   "ids": [
-    "39508980",
-    "39495163"
-   ],
-   "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
-   "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
-   "source_id": "engadget",
-   "published_ts": "2026-10-30 12:05:36",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Meta quietly launches an AI fashion app called Style Sketch",
-     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
-    }
-   ],
-   "queries": [
-    "meta quietly launches ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bDPDAyG3KQo",
-     "url": "https://www.youtube.com/shorts/bDPDAyG3KQo",
-     "title": "Meta's New AI Business Assistant",
-     "channel": "",
-     "views": 25,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T12:20:04.227Z"
   },
   {
    "first_seen": "2026-10-28T21:37:00.791Z",
@@ -204,7 +237,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-10-30 07:41:00",
    "story_sources": 2,
-   "score_norm": 80,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "eu-t3n",
