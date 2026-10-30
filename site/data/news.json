@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T16:14:09.301Z",
+ "generated_at": "2026-10-30T17:10:54.382Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,15 +9,75 @@
  },
  "search_report": [
   {
-   "source": "youtube: spec updated model capable",
+   "source": "youtube: That Claude Code",
    "ok": true
   },
   {
-   "source": "tiktok: spec updated model capable",
+   "source": "tiktok: That Claude Code",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude code extension",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude code extension",
+   "ok": true
+  },
+  {
+   "source": "youtube: nicht us-regierung anthropic kunde",
+   "ok": true
+  },
+  {
+   "source": "tiktok: nicht us-regierung anthropic kunde",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-10-30T17:10:54.382Z",
+   "id": "39514995",
+   "ids": [
+    "39514995",
+    "39504755"
+   ],
+   "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
+   "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+   "source_id": "theregister",
+   "published_ts": "2026-10-30 16:27:00",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Official Claude Code extension compromise",
+     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    }
+   ],
+   "queries": [
+    "That Claude Code",
+    "anthropic claude code extension"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tbcoYZD5ga0",
+     "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
+     "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T17:11:02.283Z"
+  },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
    "id": "39502727",
@@ -96,49 +156,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T16:14:14.099Z"
-  },
-  {
-   "first_seen": "2026-10-30T12:20:00.258Z",
-   "id": "39508980",
-   "ids": [
-    "39508980",
-    "39495163"
-   ],
-   "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
-   "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
-   "source_id": "engadget",
-   "published_ts": "2026-10-30 12:05:36",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Meta quietly launches an AI fashion app called Style Sketch",
-     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
-    }
-   ],
-   "queries": [
-    "meta quietly launches ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bDPDAyG3KQo",
-     "url": "https://www.youtube.com/shorts/bDPDAyG3KQo",
-     "title": "Meta's New AI Business Assistant",
-     "channel": "",
-     "views": 25,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T12:20:04.227Z"
   },
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
@@ -224,37 +241,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T03:38:01.827Z"
-  },
-  {
-   "first_seen": "2026-10-30T10:49:50.876Z",
-   "id": "39507569",
-   "ids": [
-    "39507569",
-    "39505395"
-   ],
-   "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
-   "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-10-30 07:41:00",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
-     "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Größter Kunde",
-    "größter kunde spacex us-regierung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-30T10:49:58.542Z"
   },
   {
    "first_seen": "2026-10-28T18:16:34.779Z",
@@ -415,6 +401,79 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T05:13:49.366Z"
+  },
+  {
+   "first_seen": "2026-10-30T12:20:00.258Z",
+   "id": "39508980",
+   "ids": [
+    "39508980",
+    "39495163"
+   ],
+   "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
+   "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-30 12:05:36",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Meta quietly launches an AI fashion app called Style Sketch",
+     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+    }
+   ],
+   "queries": [
+    "meta quietly launches ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bDPDAyG3KQo",
+     "url": "https://www.youtube.com/shorts/bDPDAyG3KQo",
+     "title": "Meta's New AI Business Assistant",
+     "channel": "",
+     "views": 25,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T12:20:04.227Z"
+  },
+  {
+   "first_seen": "2026-10-30T10:49:50.876Z",
+   "id": "39507569",
+   "ids": [
+    "39507569",
+    "39505395"
+   ],
+   "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
+   "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-10-30 07:41:00",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
+     "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "nicht us-regierung anthropic kunde"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-30T17:11:05.789Z"
   },
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
