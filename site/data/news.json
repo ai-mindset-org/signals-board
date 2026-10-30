@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T03:37:36.726Z",
+ "generated_at": "2026-10-30T03:50:02.451Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,39 +9,70 @@
  },
  "search_report": [
   {
-   "source": "youtube: Hugging Face",
+   "source": "youtube: spec updated model capable",
    "ok": true
   },
   {
-   "source": "tiktok: Hugging Face",
-   "ok": true
-  },
-  {
-   "source": "youtube: mistralai mistral-large-4-1t-a52b hugging face",
-   "ok": true
-  },
-  {
-   "source": "tiktok: mistralai mistral-large-4-1t-a52b hugging face",
-   "ok": true
-  },
-  {
-   "source": "youtube: Mistral Large 4 Le Chonk",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Mistral Large 4 Le Chonk",
-   "ok": true
-  },
-  {
-   "source": "youtube: mistral large chonk le",
-   "ok": true
-  },
-  {
-   "source": "tiktok: mistral large chonk le",
+   "source": "tiktok: spec updated model capable",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-10-30T03:50:02.451Z",
+   "id": "39502727",
+   "ids": [
+    "39502727",
+    "39493437"
+   ],
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-29 17:00:00",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "An updated Model Spec for more capable and beneficial AI",
+     "url": "https://openai.com/index/updated-model-spec/"
+    }
+   ],
+   "queries": [
+    "spec updated model capable"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fYb9l7GB6E4",
+     "url": "https://www.youtube.com/shorts/fYb9l7GB6E4",
+     "title": "OpenAI updated the Model Spec: goals, not guarantees #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dmVAGWC0tdo",
+     "url": "https://www.youtube.com/shorts/dmVAGWC0tdo",
+     "title": "OpenAI: An updated Model Spec for more capable and beneficial AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T03:50:06.932Z"
+  },
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
    "id": "39494412",
@@ -54,7 +85,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-29 09:00:00",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "hn",
@@ -342,116 +373,6 @@
    "searched_at": "2026-10-27T20:24:55.659Z"
   },
   {
-   "first_seen": "2026-10-29T10:25:09.205Z",
-   "id": "39484607",
-   "ids": [
-    "39484607",
-    "39480199",
-    "39485884"
-   ],
-   "title": "DeepSeek and Moonshot trained new models on GPT-6 Astra, report says",
-   "url": "https://thenextweb.com/news/deepseek-moonshot-gpt-6-astra-distillation",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-29 08:56:47",
-   "story_sources": 3,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: Report",
-     "url": "https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece"
-    },
-    {
-     "source_id": "in-express-tech",
-     "title": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/"
-    }
-   ],
-   "queries": [
-    "GPT-6 Astra",
-    "deepseek moonshot gpt-6 astra"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wTkywZlcPzU",
-     "url": "https://www.youtube.com/shorts/wTkywZlcPzU",
-     "title": "DeepSeek and Moonshot reportedly trained their newest AI on answers from OpenAI's GPT-6 Astra.",
-     "channel": "",
-     "views": 984,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qYVPav_S0kc",
-     "url": "https://www.youtube.com/shorts/qYVPav_S0kc",
-     "title": "GPT-6 Astra 6.mp4",
-     "channel": "",
-     "views": 272,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:n54GuSucTCg",
-     "url": "https://www.youtube.com/watch?v=n54GuSucTCg",
-     "title": "Did DeepSeek and Moonshot Learn From GPT-6 Astra? The Distillation Report, Explained",
-     "channel": "AI Unfiltered with Thorsten Meyer",
-     "views": 12,
-     "age_hours": 5,
-     "relevance": 0.71,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:g97mGRUllw0",
-     "url": "https://www.youtube.com/shorts/g97mGRUllw0",
-     "title": "🚨 DeepSeek and Moonshot Used GPT-6 Astra to Train Latest Models #AINews",
-     "channel": "",
-     "views": 21,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pMAxkCkkqVQ",
-     "url": "https://www.youtube.com/shorts/pMAxkCkkqVQ",
-     "title": "OpenAI Astra used to train DeepSeek and Moonshot AI models #shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kZNyKMOFfAw",
-     "url": "https://www.youtube.com/shorts/kZNyKMOFfAw",
-     "title": "Report DeepSeek and Moonshot AI Distilled OpenAI GPT-6 Astra to Train Latest Models.",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T22:37:11.268Z"
-  },
-  {
    "first_seen": "2026-10-28T22:49:48.356Z",
    "id": "39475897",
    "ids": [
@@ -616,109 +537,6 @@
    "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
-   "first_seen": "2026-10-29T17:50:12.523Z",
-   "id": "39493258",
-   "ids": [
-    "39493258",
-    "39487167"
-   ],
-   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-10-29 14:00:00",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Mistral releases open weights for its 1 trillion-parameter Large 4 model",
-     "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
-    }
-   ],
-   "queries": [
-    "mistral releases weights trillion-parameter"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0n0ZyDJyKgw",
-     "url": "https://www.youtube.com/watch?v=0n0ZyDJyKgw",
-     "title": "Mistral Large 4 Open Weights Just Dropped: FREE 1T AI Model (2026)",
-     "channel": "Prompt & Profit",
-     "views": 4,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RJQQqGHOQnc",
-     "url": "https://www.youtube.com/shorts/RJQQqGHOQnc",
-     "title": "🚨 Mistral releases Mistral Large 4 weights #AINews",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_jcvbQX4hCY",
-     "url": "https://www.youtube.com/shorts/_jcvbQX4hCY",
-     "title": "Mistral releases weights for trillion-parameter Mistral Large 4 AI",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KbaXWRHNSc4",
-     "url": "https://www.youtube.com/shorts/KbaXWRHNSc4",
-     "title": "Mistral Releases Open Weights for Large 4 'Le Chonk' AI Model",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RDEcI-1dFzQ",
-     "url": "https://www.youtube.com/shorts/RDEcI-1dFzQ",
-     "title": "Mistral's Trillion-Parameter AI Is Now Free to Download #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f2B4XRpq4QU",
-     "url": "https://www.youtube.com/shorts/f2B4XRpq4QU",
-     "title": "Mistral releases trillion-parameter AI weights 🛡️",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T00:35:33.227Z"
-  },
-  {
    "first_seen": "2026-10-28T16:39:22.662Z",
    "id": "39468281",
    "ids": [
@@ -761,214 +579,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T11:12:17.975Z"
-  },
-  {
-   "first_seen": "2026-10-29T15:13:04.801Z",
-   "id": "39489650",
-   "ids": [
-    "39489650",
-    "39488402"
-   ],
-   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-29 14:13:14",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Mistral-Large-4-1T-A52B",
-     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
-    }
-   ],
-   "queries": [
-    "Hugging Face",
-    "mistralai mistral-large-4-1t-a52b hugging face"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mEtRe_KKYm0",
-     "url": "https://www.youtube.com/watch?v=mEtRe_KKYm0",
-     "title": "Hugging Face Journal Club: Score Centering Stabilizes Off-policy Reinforcement Learning",
-     "channel": "Hugging Face",
-     "views": 2361,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 33
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GB2qq5I2M9A",
-     "url": "https://www.youtube.com/watch?v=GB2qq5I2M9A",
-     "title": "How Hugging Face Is Changing Who Gets to Build Artificial Intelligence",
-     "channel": "Cheddar",
-     "views": 342,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LWIguEVuEZE",
-     "url": "https://www.youtube.com/watch?v=LWIguEVuEZE",
-     "title": "You Can't Blame AI Agents for the Hugging Face Breach, Here's Why",
-     "channel": "Don Overthinks It",
-     "views": 4,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l8r-0G6aaUA",
-     "url": "https://www.youtube.com/watch?v=l8r-0G6aaUA",
-     "title": "What is Hugging Face Transformers and how does it work? ❘ TECH Global University",
-     "channel": "TECH Global University",
-     "views": 7,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IiDqIIoWOB0",
-     "url": "https://www.youtube.com/watch?v=IiDqIIoWOB0",
-     "title": "700 OpenAI Agents Hacked Hugging Face to Pass a Test",
-     "channel": "Who Broke Prod",
-     "views": 98,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ATV35MmnTcM",
-     "url": "https://www.youtube.com/watch?v=ATV35MmnTcM",
-     "title": "OpenAI's Agents Hacked Hugging Face. Where Does That Lead?#aiagents #openai #huggingface #ai",
-     "channel": "Kimys",
-     "views": 0,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T03:37:44.281Z"
-  },
-  {
-   "first_seen": "2026-10-29T15:13:04.801Z",
-   "id": "39489649",
-   "ids": [
-    "39489649",
-    "39488227"
-   ],
-   "title": "Mistral Large 4 (Le Chonk) is now open weight",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-29 14:11:42",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Mistral Le Chonk open weights",
-     "url": "https://mistral.ai/news/mistral-large-4-oss/"
-    }
-   ],
-   "queries": [
-    "Mistral Large 4 Le Chonk",
-    "mistral large chonk le"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iY4bSLvUKpc",
-     "url": "https://www.youtube.com/shorts/iY4bSLvUKpc",
-     "title": "Mistral Large 4 \"le Chonk\": Europe's 1 Trillion Open Model",
-     "channel": "",
-     "views": 386,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:awQ20mvkJ6M",
-     "url": "https://www.youtube.com/watch?v=awQ20mvkJ6M",
-     "title": "New Mistral Model DROPPED vs Opus 5.5 vs DeepSeek (Is Le Chonk Worth It?)",
-     "channel": "Taha El Harti | Making AI Useful",
-     "views": 35,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 6
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZPd6oGfH898",
-     "url": "https://www.youtube.com/watch?v=ZPd6oGfH898",
-     "title": "Mistral Large 4 Just Dropped: The 1 Trillion Parameter Le Chonk",
-     "channel": "Krumbs | AI Explained Simply",
-     "views": 51,
-     "age_hours": 11,
-     "relevance": 0.67,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZDJ5z2aRRvU",
-     "url": "https://www.youtube.com/watch?v=ZDJ5z2aRRvU",
-     "title": "Mistral Large 4 Is Open. Can It Replace Claude?",
-     "channel": "CodeGlitch",
-     "views": 38,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wxQl_LQCiAo",
-     "url": "https://www.youtube.com/shorts/wxQl_LQCiAo",
-     "title": "Mistral Large 4 'Le Chonk': New Open AI Model Explained",
-     "channel": "",
-     "views": 118,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zn_io4whvmk",
-     "url": "https://www.youtube.com/shorts/zn_io4whvmk",
-     "title": "Mistral Just Released a Model Called Le Chonk #shorts",
-     "channel": "",
-     "views": 98,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T03:37:51.329Z"
   },
   {
    "first_seen": "2026-10-29T03:15:56.289Z",
@@ -1164,6 +774,116 @@
    "searched_at": "2026-10-27T11:54:52.650Z"
   },
   {
+   "first_seen": "2026-10-29T10:25:09.205Z",
+   "id": "39484607",
+   "ids": [
+    "39484607",
+    "39480199",
+    "39485884"
+   ],
+   "title": "DeepSeek and Moonshot trained new models on GPT-6 Astra, report says",
+   "url": "https://thenextweb.com/news/deepseek-moonshot-gpt-6-astra-distillation",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-10-29 08:56:47",
+   "story_sources": 3,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: Report",
+     "url": "https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece"
+    },
+    {
+     "source_id": "in-express-tech",
+     "title": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/"
+    }
+   ],
+   "queries": [
+    "GPT-6 Astra",
+    "deepseek moonshot gpt-6 astra"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wTkywZlcPzU",
+     "url": "https://www.youtube.com/shorts/wTkywZlcPzU",
+     "title": "DeepSeek and Moonshot reportedly trained their newest AI on answers from OpenAI's GPT-6 Astra.",
+     "channel": "",
+     "views": 984,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qYVPav_S0kc",
+     "url": "https://www.youtube.com/shorts/qYVPav_S0kc",
+     "title": "GPT-6 Astra 6.mp4",
+     "channel": "",
+     "views": 272,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:n54GuSucTCg",
+     "url": "https://www.youtube.com/watch?v=n54GuSucTCg",
+     "title": "Did DeepSeek and Moonshot Learn From GPT-6 Astra? The Distillation Report, Explained",
+     "channel": "AI Unfiltered with Thorsten Meyer",
+     "views": 12,
+     "age_hours": 5,
+     "relevance": 0.71,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:g97mGRUllw0",
+     "url": "https://www.youtube.com/shorts/g97mGRUllw0",
+     "title": "🚨 DeepSeek and Moonshot Used GPT-6 Astra to Train Latest Models #AINews",
+     "channel": "",
+     "views": 21,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pMAxkCkkqVQ",
+     "url": "https://www.youtube.com/shorts/pMAxkCkkqVQ",
+     "title": "OpenAI Astra used to train DeepSeek and Moonshot AI models #shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kZNyKMOFfAw",
+     "url": "https://www.youtube.com/shorts/kZNyKMOFfAw",
+     "title": "Report DeepSeek and Moonshot AI Distilled OpenAI GPT-6 Astra to Train Latest Models.",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-29T22:37:11.268Z"
+  },
+  {
    "first_seen": "2026-10-27T13:22:36.433Z",
    "id": "39431659",
    "ids": [
@@ -1217,6 +937,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T13:22:48.656Z"
+  },
+  {
+   "first_seen": "2026-10-29T17:50:12.523Z",
+   "id": "39493258",
+   "ids": [
+    "39493258",
+    "39487167"
+   ],
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-10-29 14:00:00",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Mistral releases open weights for its 1 trillion-parameter Large 4 model",
+     "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
+    }
+   ],
+   "queries": [
+    "mistral releases weights trillion-parameter"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0n0ZyDJyKgw",
+     "url": "https://www.youtube.com/watch?v=0n0ZyDJyKgw",
+     "title": "Mistral Large 4 Open Weights Just Dropped: FREE 1T AI Model (2026)",
+     "channel": "Prompt & Profit",
+     "views": 4,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RJQQqGHOQnc",
+     "url": "https://www.youtube.com/shorts/RJQQqGHOQnc",
+     "title": "🚨 Mistral releases Mistral Large 4 weights #AINews",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_jcvbQX4hCY",
+     "url": "https://www.youtube.com/shorts/_jcvbQX4hCY",
+     "title": "Mistral releases weights for trillion-parameter Mistral Large 4 AI",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KbaXWRHNSc4",
+     "url": "https://www.youtube.com/shorts/KbaXWRHNSc4",
+     "title": "Mistral Releases Open Weights for Large 4 'Le Chonk' AI Model",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RDEcI-1dFzQ",
+     "url": "https://www.youtube.com/shorts/RDEcI-1dFzQ",
+     "title": "Mistral's Trillion-Parameter AI Is Now Free to Download #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f2B4XRpq4QU",
+     "url": "https://www.youtube.com/shorts/f2B4XRpq4QU",
+     "title": "Mistral releases trillion-parameter AI weights 🛡️",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T00:35:33.227Z"
   },
   {
    "first_seen": "2026-10-27T22:11:15.888Z",
@@ -1382,6 +1205,214 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-29T08:39:07.862Z"
+  },
+  {
+   "first_seen": "2026-10-29T15:13:04.801Z",
+   "id": "39489650",
+   "ids": [
+    "39489650",
+    "39488402"
+   ],
+   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-29 14:13:14",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Mistral-Large-4-1T-A52B",
+     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    }
+   ],
+   "queries": [
+    "Hugging Face",
+    "mistralai mistral-large-4-1t-a52b hugging face"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mEtRe_KKYm0",
+     "url": "https://www.youtube.com/watch?v=mEtRe_KKYm0",
+     "title": "Hugging Face Journal Club: Score Centering Stabilizes Off-policy Reinforcement Learning",
+     "channel": "Hugging Face",
+     "views": 2361,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 33
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GB2qq5I2M9A",
+     "url": "https://www.youtube.com/watch?v=GB2qq5I2M9A",
+     "title": "How Hugging Face Is Changing Who Gets to Build Artificial Intelligence",
+     "channel": "Cheddar",
+     "views": 342,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LWIguEVuEZE",
+     "url": "https://www.youtube.com/watch?v=LWIguEVuEZE",
+     "title": "You Can't Blame AI Agents for the Hugging Face Breach, Here's Why",
+     "channel": "Don Overthinks It",
+     "views": 4,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l8r-0G6aaUA",
+     "url": "https://www.youtube.com/watch?v=l8r-0G6aaUA",
+     "title": "What is Hugging Face Transformers and how does it work? ❘ TECH Global University",
+     "channel": "TECH Global University",
+     "views": 7,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IiDqIIoWOB0",
+     "url": "https://www.youtube.com/watch?v=IiDqIIoWOB0",
+     "title": "700 OpenAI Agents Hacked Hugging Face to Pass a Test",
+     "channel": "Who Broke Prod",
+     "views": 98,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ATV35MmnTcM",
+     "url": "https://www.youtube.com/watch?v=ATV35MmnTcM",
+     "title": "OpenAI's Agents Hacked Hugging Face. Where Does That Lead?#aiagents #openai #huggingface #ai",
+     "channel": "Kimys",
+     "views": 0,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T03:37:44.281Z"
+  },
+  {
+   "first_seen": "2026-10-29T15:13:04.801Z",
+   "id": "39489649",
+   "ids": [
+    "39489649",
+    "39488227"
+   ],
+   "title": "Mistral Large 4 (Le Chonk) is now open weight",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-29 14:11:42",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Mistral Le Chonk open weights",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/"
+    }
+   ],
+   "queries": [
+    "Mistral Large 4 Le Chonk",
+    "mistral large chonk le"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iY4bSLvUKpc",
+     "url": "https://www.youtube.com/shorts/iY4bSLvUKpc",
+     "title": "Mistral Large 4 \"le Chonk\": Europe's 1 Trillion Open Model",
+     "channel": "",
+     "views": 386,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:awQ20mvkJ6M",
+     "url": "https://www.youtube.com/watch?v=awQ20mvkJ6M",
+     "title": "New Mistral Model DROPPED vs Opus 5.5 vs DeepSeek (Is Le Chonk Worth It?)",
+     "channel": "Taha El Harti | Making AI Useful",
+     "views": 35,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZPd6oGfH898",
+     "url": "https://www.youtube.com/watch?v=ZPd6oGfH898",
+     "title": "Mistral Large 4 Just Dropped: The 1 Trillion Parameter Le Chonk",
+     "channel": "Krumbs | AI Explained Simply",
+     "views": 51,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZDJ5z2aRRvU",
+     "url": "https://www.youtube.com/watch?v=ZDJ5z2aRRvU",
+     "title": "Mistral Large 4 Is Open. Can It Replace Claude?",
+     "channel": "CodeGlitch",
+     "views": 38,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wxQl_LQCiAo",
+     "url": "https://www.youtube.com/shorts/wxQl_LQCiAo",
+     "title": "Mistral Large 4 'Le Chonk': New Open AI Model Explained",
+     "channel": "",
+     "views": 118,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zn_io4whvmk",
+     "url": "https://www.youtube.com/shorts/zn_io4whvmk",
+     "title": "Mistral Just Released a Model Called Le Chonk #shorts",
+     "channel": "",
+     "views": 98,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T03:37:51.329Z"
   },
   {
    "first_seen": "2026-10-29T08:38:52.964Z",
