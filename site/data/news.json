@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T12:20:00.258Z",
+ "generated_at": "2026-10-30T14:13:49.252Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: meta quietly launches ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta quietly launches ai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -30,7 +21,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-29 17:00:00",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "hn",
@@ -85,7 +76,7 @@
    "source_id": "engadget",
    "published_ts": "2026-10-30 12:05:36",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 93,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -123,17 +114,17 @@
     "39507569",
     "39505395"
    ],
-   "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
-   "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-   "source_id": "eu-t3n",
-   "published_ts": "2026-10-30 10:20:12",
+   "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
+   "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-10-30 07:41:00",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 87,
    "related_news": [
     {
-     "source_id": "eu-heise",
-     "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
-     "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+     "source_id": "eu-t3n",
+     "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
+     "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
     }
    ],
    "queries": [
