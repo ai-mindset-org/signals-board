@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:35:28.966Z",
+ "generated_at": "2026-10-30T00:59:48.069Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: mistral releases weights trillion-parameter",
+   "source": "youtube: we detect frontier model",
    "ok": true
   },
   {
-   "source": "tiktok: mistral releases weights trillion-parameter",
+   "source": "tiktok: we detect frontier model",
    "ok": true
   }
  ],
@@ -46,7 +46,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-29T18:38:26.616Z"
+   "searched_at": "2026-10-30T00:59:52.487Z"
   },
   {
    "first_seen": "2026-10-28T21:37:00.791Z",
