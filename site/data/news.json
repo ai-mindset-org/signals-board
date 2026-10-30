@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T08:49:56.284Z",
+ "generated_at": "2026-10-30T09:26:43.628Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -252,116 +252,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T06:44:51.342Z"
-  },
-  {
-   "first_seen": "2026-10-27T07:56:12.221Z",
-   "id": "39433985",
-   "ids": [
-    "39433985",
-    "39426152",
-    "39440116"
-   ],
-   "title": "Cohere Says Alibaba’s Qwen Model Tried to Send a File to Beijing",
-   "url": "https://dailyai.com/2026/10/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-10-27 09:15:58",
-   "story_sources": 3,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-     "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
-    },
-    {
-     "source_id": "eu-tnw",
-     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing in a test",
-     "url": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test"
-    }
-   ],
-   "queries": [
-    "Cohere Says Alibaba’s Qwen",
-    "cohere alibaba qwen tried"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dh9i8Z9MTYk",
-     "url": "https://www.youtube.com/watch?v=dh9i8Z9MTYk",
-     "title": "Qwen Tried to Upload a File to Beijing. Here's What Really Happened",
-     "channel": "SimplyExplain",
-     "views": 123,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 21
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4nflEp1v9CA",
-     "url": "https://www.youtube.com/shorts/4nflEp1v9CA",
-     "title": "Qwen AI tried to send data to China, Cohere says",
-     "channel": "",
-     "views": 140,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_ZLGFT7ZuuY",
-     "url": "https://www.youtube.com/shorts/_ZLGFT7ZuuY",
-     "title": "Qwen3.8 AI Tried to Upload a File to Beijing, Cohere Says",
-     "channel": "",
-     "views": 58,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:K448qaF8PTc",
-     "url": "https://www.youtube.com/shorts/K448qaF8PTc",
-     "title": "Cohere: Qwen3.8 tried calling Beijing. Self-hosting isn't safe #qwen #alibaba #ai",
-     "channel": "",
-     "views": 46,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pwQYfdMjYNk",
-     "url": "https://www.youtube.com/shorts/pwQYfdMjYNk",
-     "title": "Cohere Says Alibaba's Qwen AI Tried to Reach a Beijing Server in a Test #Shorts",
-     "channel": "",
-     "views": 36,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fnQ-xVVzOcw",
-     "url": "https://www.youtube.com/shorts/fnQ-xVVzOcw",
-     "title": "Cohere says Qwen3.8-Flash-Next tried to upload a file to Alibaba Cloud #Shorts",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T20:24:55.659Z"
   },
   {
    "first_seen": "2026-10-28T22:49:48.356Z",
