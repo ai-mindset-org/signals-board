@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T14:13:49.252Z",
+ "generated_at": "2026-10-30T14:38:19.357Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -21,7 +21,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-29 17:00:00",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 100,
    "related_news": [
     {
      "source_id": "hn",
@@ -1209,49 +1209,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-29T21:12:04.190Z"
-  },
-  {
-   "first_seen": "2026-10-27T16:49:57.324Z",
-   "id": "39444046",
-   "ids": [
-    "39444046",
-    "39440016"
-   ],
-   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-10-27 14:32:08",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "crypto-decrypt",
-     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute"
-    }
-   ],
-   "queries": [
-    "bitcoin luxor 16 mining"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:f3M8Pq4pH7U",
-     "url": "https://www.youtube.com/watch?v=f3M8Pq4pH7U",
-     "title": "Luxor raises $16 million to turn AI computing power into a tradable market as Bitcoin #Shorts",
-     "channel": "financier news",
-     "views": 4,
-     "age_hours": 3,
-     "relevance": 0.55,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T11:24:03.462Z"
   },
   {
    "first_seen": "2026-10-27T11:18:45.828Z",
