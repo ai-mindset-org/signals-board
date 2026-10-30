@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:10:54.382Z",
+ "generated_at": "2026-10-30T18:25:04.534Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: That Claude Code",
+   "source": "youtube: meta quietly launches ai",
    "ok": true
   },
   {
-   "source": "tiktok: That Claude Code",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic claude code extension",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic claude code extension",
-   "ok": true
-  },
-  {
-   "source": "youtube: nicht us-regierung anthropic kunde",
-   "ok": true
-  },
-  {
-   "source": "tiktok: nicht us-regierung anthropic kunde",
+   "source": "tiktok: meta quietly launches ai",
    "ok": true
   }
  ],
@@ -414,7 +398,7 @@
    "source_id": "engadget",
    "published_ts": "2026-10-30 12:05:36",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -429,11 +413,23 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:bDPDAyG3KQo",
-     "url": "https://www.youtube.com/shorts/bDPDAyG3KQo",
-     "title": "Meta's New AI Business Assistant",
+     "id": "youtube:zDDwhOcqQXE",
+     "url": "https://www.youtube.com/shorts/zDDwhOcqQXE",
+     "title": "Meta AI’s Biggest Advantage",
      "channel": "",
-     "views": 25,
+     "views": 593,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PZ3C0tb1B6M",
+     "url": "https://www.youtube.com/shorts/PZ3C0tb1B6M",
+     "title": "Meta's $97.5B AI Bet",
+     "channel": "",
+     "views": 0,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -443,7 +439,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-30T12:20:04.227Z"
+   "searched_at": "2026-10-30T18:25:08.699Z"
   },
   {
    "first_seen": "2026-10-30T10:49:50.876Z",
