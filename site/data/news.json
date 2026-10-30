@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T19:36:03.988Z",
+ "generated_at": "2026-10-30T23:20:21.424Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,39 +9,102 @@
  },
  "search_report": [
   {
-   "source": "youtube: Postgres 19",
+   "source": "youtube: That Claude Code",
    "ok": true
   },
   {
-   "source": "tiktok: Postgres 19",
+   "source": "tiktok: That Claude Code",
    "ok": true
   },
   {
-   "source": "youtube: haas postgres 19 late",
+   "source": "youtube: anthropic claude code extension",
    "ok": true
   },
   {
-   "source": "tiktok: haas postgres 19 late",
-   "ok": true
-  },
-  {
-   "source": "youtube: Malicious Claude Code",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Malicious Claude Code",
-   "ok": true
-  },
-  {
-   "source": "youtube: malicious claude code cursor",
-   "ok": true
-  },
-  {
-   "source": "tiktok: malicious claude code cursor",
+   "source": "tiktok: anthropic claude code extension",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-10-30T03:50:02.451Z",
+   "id": "39502727",
+   "ids": [
+    "39502727",
+    "39493437"
+   ],
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-29 17:00:00",
+   "story_sources": 2,
+   "score_norm": 94,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "An updated Model Spec for more capable and beneficial AI",
+     "url": "https://openai.com/index/updated-model-spec/"
+    }
+   ],
+   "queries": [
+    "spec updated model capable"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fYb9l7GB6E4",
+     "url": "https://www.youtube.com/shorts/fYb9l7GB6E4",
+     "title": "OpenAI updated the Model Spec: goals, not guarantees #Shorts",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dmVAGWC0tdo",
+     "url": "https://www.youtube.com/shorts/dmVAGWC0tdo",
+     "title": "OpenAI: An updated Model Spec for more capable and beneficial AI",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:E9LxO5zwfQA",
+     "url": "https://www.youtube.com/shorts/E9LxO5zwfQA",
+     "title": "An updated Model Spec for more capable and beneficial AI",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pyb358iFShc",
+     "url": "https://www.youtube.com/shorts/pyb358iFShc",
+     "title": "OpenAI just updated its Model Spec for more capable AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T16:14:14.099Z"
+  },
   {
    "first_seen": "2026-10-30T17:10:54.382Z",
    "id": "39514995",
@@ -54,7 +117,7 @@
    "source_id": "theregister",
    "published_ts": "2026-10-30 16:27:00",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "hn",
@@ -70,13 +133,61 @@
     {
      "platform": "youtube",
      "kind": "shorts",
+     "id": "youtube:6-CnVGqvRCQ",
+     "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
+     "title": "This Claude Code update was a backdoor",
+     "channel": "",
+     "views": 866,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dV9unfdiYjI",
+     "url": "https://www.youtube.com/shorts/dV9unfdiYjI",
+     "title": "Fake Claude Code Extension Hit Cursor. Anthropic Says It Is Not Theirs. Check Yours Now",
+     "channel": "",
+     "views": 351,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
      "id": "youtube:tbcoYZD5ga0",
      "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
      "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
      "channel": "",
-     "views": 0,
+     "views": 75,
      "age_hours": null,
      "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:SennaNyRI3I",
+     "url": "https://www.youtube.com/shorts/SennaNyRI3I",
+     "title": "Claude Code is 2 commands. Seriously.",
+     "channel": "",
+     "views": 26,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kGgXLTHKl_c",
+     "url": "https://www.youtube.com/shorts/kGgXLTHKl_c",
+     "title": "Claude Code Extension Planted an SSH Backdoor",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -84,7 +195,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-30T17:11:02.283Z"
+   "searched_at": "2026-10-30T23:20:29.420Z"
   },
   {
    "first_seen": "2026-10-30T19:36:03.988Z",
@@ -98,7 +209,7 @@
    "source_id": "x-lwn-net",
    "published_ts": "2026-10-30 16:52:59",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "hn",
@@ -129,7 +240,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-10-30 18:16:10",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "hn",
@@ -220,85 +331,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T19:36:18.882Z"
-  },
-  {
-   "first_seen": "2026-10-30T03:50:02.451Z",
-   "id": "39502727",
-   "ids": [
-    "39502727",
-    "39493437"
-   ],
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "url": "https://openai.com/index/updated-model-spec",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-29 17:00:00",
-   "story_sources": 2,
-   "score_norm": 94,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "An updated Model Spec for more capable and beneficial AI",
-     "url": "https://openai.com/index/updated-model-spec/"
-    }
-   ],
-   "queries": [
-    "spec updated model capable"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fYb9l7GB6E4",
-     "url": "https://www.youtube.com/shorts/fYb9l7GB6E4",
-     "title": "OpenAI updated the Model Spec: goals, not guarantees #Shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dmVAGWC0tdo",
-     "url": "https://www.youtube.com/shorts/dmVAGWC0tdo",
-     "title": "OpenAI: An updated Model Spec for more capable and beneficial AI",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:E9LxO5zwfQA",
-     "url": "https://www.youtube.com/shorts/E9LxO5zwfQA",
-     "title": "An updated Model Spec for more capable and beneficial AI",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pyb358iFShc",
-     "url": "https://www.youtube.com/shorts/pyb358iFShc",
-     "title": "OpenAI just updated its Model Spec for more capable AI",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T16:14:14.099Z"
   },
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
