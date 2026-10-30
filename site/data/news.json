@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T10:49:50.876Z",
+ "generated_at": "2026-10-30T12:20:00.258Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Größter Kunde",
+   "source": "youtube: meta quietly launches ai",
    "ok": true
   },
   {
-   "source": "tiktok: Größter Kunde",
-   "ok": true
-  },
-  {
-   "source": "youtube: größter kunde spacex us-regierung",
-   "ok": true
-  },
-  {
-   "source": "tiktok: größter kunde spacex us-regierung",
+   "source": "tiktok: meta quietly launches ai",
    "ok": true
   }
  ],
@@ -82,6 +74,49 @@
    "searched_at": "2026-10-30T10:13:12.427Z"
   },
   {
+   "first_seen": "2026-10-30T12:20:00.258Z",
+   "id": "39508980",
+   "ids": [
+    "39508980",
+    "39495163"
+   ],
+   "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
+   "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
+   "source_id": "engadget",
+   "published_ts": "2026-10-30 12:05:36",
+   "story_sources": 2,
+   "score_norm": 97,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Meta quietly launches an AI fashion app called Style Sketch",
+     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
+    }
+   ],
+   "queries": [
+    "meta quietly launches ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bDPDAyG3KQo",
+     "url": "https://www.youtube.com/shorts/bDPDAyG3KQo",
+     "title": "Meta's New AI Business Assistant",
+     "channel": "",
+     "views": 25,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T12:20:04.227Z"
+  },
+  {
    "first_seen": "2026-10-30T10:49:50.876Z",
    "id": "39507569",
    "ids": [
@@ -93,7 +128,7 @@
    "source_id": "eu-t3n",
    "published_ts": "2026-10-30 10:20:12",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "eu-heise",
