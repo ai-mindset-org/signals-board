@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T03:50:02.451Z",
+ "generated_at": "2026-10-30T04:15:02.061Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: spec updated model capable",
-   "ok": true
-  },
-  {
-   "source": "tiktok: spec updated model capable",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -882,61 +873,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T22:37:11.268Z"
-  },
-  {
-   "first_seen": "2026-10-27T13:22:36.433Z",
-   "id": "39431659",
-   "ids": [
-    "39431659",
-    "39439365"
-   ],
-   "title": "OpenAI announces three new discoveries in mathematics, computer science, and physics",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xgiich/openai_announces_three_new_discoveries_in/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-27 03:57:56",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
-     "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
-    }
-   ],
-   "queries": [
-    "openai announces three discoveries"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oE5qTfdTvos",
-     "url": "https://www.youtube.com/shorts/oE5qTfdTvos",
-     "title": "OpenAI claims 3 discoveries #Shorts",
-     "channel": "",
-     "views": 40,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tPiODvm1E_Q",
-     "url": "https://www.youtube.com/shorts/tPiODvm1E_Q",
-     "title": "OPENAI CLAIMS THREE SCIENCE DISCOVERIES. PROOFS UNDER REVIEW.",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-27T13:22:48.656Z"
   },
   {
    "first_seen": "2026-10-29T17:50:12.523Z",
