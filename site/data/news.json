@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:25:04.534Z",
+ "generated_at": "2026-10-30T19:36:03.988Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: meta quietly launches ai",
+   "source": "youtube: Postgres 19",
    "ok": true
   },
   {
-   "source": "tiktok: meta quietly launches ai",
+   "source": "tiktok: Postgres 19",
+   "ok": true
+  },
+  {
+   "source": "youtube: haas postgres 19 late",
+   "ok": true
+  },
+  {
+   "source": "tiktok: haas postgres 19 late",
+   "ok": true
+  },
+  {
+   "source": "youtube: Malicious Claude Code",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Malicious Claude Code",
+   "ok": true
+  },
+  {
+   "source": "youtube: malicious claude code cursor",
+   "ok": true
+  },
+  {
+   "source": "tiktok: malicious claude code cursor",
    "ok": true
   }
  ],
@@ -61,6 +85,141 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T17:11:02.283Z"
+  },
+  {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518234",
+   "ids": [
+    "39518234",
+    "39514646"
+   ],
+   "title": "Haas: Postgres 19 is late, and it's AI's fault",
+   "url": "https://lwn.net/Articles/1104210/",
+   "source_id": "x-lwn-net",
+   "published_ts": "2026-10-30 16:52:59",
+   "story_sources": 2,
+   "score_norm": 97,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Postgres 19 is late, and it's AI's fault",
+     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    }
+   ],
+   "queries": [
+    "Postgres 19",
+    "haas postgres 19 late"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-30T19:36:11.721Z"
+  },
+  {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518198",
+   "ids": [
+    "39518198",
+    "39505363"
+   ],
+   "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-10-30 18:16:10",
+   "story_sources": 2,
+   "score_norm": 97,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Malicious Claude Code Extension Found in Cursor Marketplace",
+     "url": "https://cursor.com/blog/claude-code-extension-security-notice"
+    }
+   ],
+   "queries": [
+    "Malicious Claude Code",
+    "malicious claude code cursor"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rXFCwI31OV8",
+     "url": "https://www.youtube.com/shorts/rXFCwI31OV8",
+     "title": "When Claude Code attacks! 😱",
+     "channel": "",
+     "views": 343,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6-CnVGqvRCQ",
+     "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
+     "title": "This Claude Code update was a backdoor",
+     "channel": "",
+     "views": 206,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dfsFTIZAuiw",
+     "url": "https://www.youtube.com/shorts/dfsFTIZAuiw",
+     "title": "Claude Code Extension Backdoor Hit Cursor Users #shorts",
+     "channel": "",
+     "views": 38,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IvNCgpadwzo",
+     "url": "https://www.youtube.com/shorts/IvNCgpadwzo",
+     "title": "STOP. Use Claude Code in Cursor? Check this now",
+     "channel": "",
+     "views": 36,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z2JdCx75ysI",
+     "url": "https://www.youtube.com/watch?v=Z2JdCx75ysI",
+     "title": "Malicious Claude Code extension in the Cursor marketplace: Coralogix Security Advisory",
+     "channel": "Coralogix",
+     "views": 10,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dKaLRAuurqg",
+     "url": "https://www.youtube.com/shorts/dKaLRAuurqg",
+     "title": "Malicious Claude Code extension 2.1.313 in the Cursor Marketplace #shorts",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T19:36:18.882Z"
   },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -453,7 +612,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-10-30 07:41:00",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "eu-t3n",
