@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T04:15:02.061Z",
+ "generated_at": "2026-10-30T06:44:44.597Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: mistral releases weights trillion-parameter",
+   "ok": true
+  },
+  {
+   "source": "tiktok: mistral releases weights trillion-parameter",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -76,7 +85,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-29 09:00:00",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "hn",
@@ -900,26 +909,14 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0n0ZyDJyKgw",
-     "url": "https://www.youtube.com/watch?v=0n0ZyDJyKgw",
-     "title": "Mistral Large 4 Open Weights Just Dropped: FREE 1T AI Model (2026)",
-     "channel": "Prompt & Profit",
-     "views": 4,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:RJQQqGHOQnc",
-     "url": "https://www.youtube.com/shorts/RJQQqGHOQnc",
-     "title": "🚨 Mistral releases Mistral Large 4 weights #AINews",
+     "id": "youtube:Frbt_8mqH68",
+     "url": "https://www.youtube.com/shorts/Frbt_8mqH68",
+     "title": "Mistral releases trillion-parameter open AI model | codemago.dev/news",
      "channel": "",
-     "views": 18,
+     "views": 8,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.63,
      "velocity": null
     },
     {
@@ -929,21 +926,9 @@
      "url": "https://www.youtube.com/shorts/_jcvbQX4hCY",
      "title": "Mistral releases weights for trillion-parameter Mistral Large 4 AI",
      "channel": "",
-     "views": 3,
+     "views": 8,
      "age_hours": null,
      "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KbaXWRHNSc4",
-     "url": "https://www.youtube.com/shorts/KbaXWRHNSc4",
-     "title": "Mistral Releases Open Weights for Large 4 'Le Chonk' AI Model",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.63,
      "velocity": null
     },
     {
@@ -953,7 +938,31 @@
      "url": "https://www.youtube.com/shorts/RDEcI-1dFzQ",
      "title": "Mistral's Trillion-Parameter AI Is Now Free to Download #Shorts",
      "channel": "",
-     "views": 1,
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6epIJ9N7dYs",
+     "url": "https://www.youtube.com/shorts/6epIJ9N7dYs",
+     "title": "Mistral Releases Open Weights for 1T Parameter Le Chonk Model",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IknZoW7lVI4",
+     "url": "https://www.youtube.com/shorts/IknZoW7lVI4",
+     "title": "Mistral Large 4 Open Weights Just Dropped: FREE 1T AI Model (2026) #Shorts",
+     "channel": "",
+     "views": 4,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -965,7 +974,7 @@
      "url": "https://www.youtube.com/shorts/f2B4XRpq4QU",
      "title": "Mistral releases trillion-parameter AI weights 🛡️",
      "channel": "",
-     "views": 1,
+     "views": 3,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -975,7 +984,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-30T00:35:33.227Z"
+   "searched_at": "2026-10-30T06:44:48.570Z"
   },
   {
    "first_seen": "2026-10-27T22:11:15.888Z",
@@ -1031,6 +1040,214 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T04:15:08.946Z"
+  },
+  {
+   "first_seen": "2026-10-29T15:13:04.801Z",
+   "id": "39489650",
+   "ids": [
+    "39489650",
+    "39488402"
+   ],
+   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-29 14:13:14",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Mistral-Large-4-1T-A52B",
+     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    }
+   ],
+   "queries": [
+    "Hugging Face",
+    "mistralai mistral-large-4-1t-a52b hugging face"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mEtRe_KKYm0",
+     "url": "https://www.youtube.com/watch?v=mEtRe_KKYm0",
+     "title": "Hugging Face Journal Club: Score Centering Stabilizes Off-policy Reinforcement Learning",
+     "channel": "Hugging Face",
+     "views": 2361,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 33
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GB2qq5I2M9A",
+     "url": "https://www.youtube.com/watch?v=GB2qq5I2M9A",
+     "title": "How Hugging Face Is Changing Who Gets to Build Artificial Intelligence",
+     "channel": "Cheddar",
+     "views": 342,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LWIguEVuEZE",
+     "url": "https://www.youtube.com/watch?v=LWIguEVuEZE",
+     "title": "You Can't Blame AI Agents for the Hugging Face Breach, Here's Why",
+     "channel": "Don Overthinks It",
+     "views": 4,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l8r-0G6aaUA",
+     "url": "https://www.youtube.com/watch?v=l8r-0G6aaUA",
+     "title": "What is Hugging Face Transformers and how does it work? ❘ TECH Global University",
+     "channel": "TECH Global University",
+     "views": 7,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IiDqIIoWOB0",
+     "url": "https://www.youtube.com/watch?v=IiDqIIoWOB0",
+     "title": "700 OpenAI Agents Hacked Hugging Face to Pass a Test",
+     "channel": "Who Broke Prod",
+     "views": 98,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ATV35MmnTcM",
+     "url": "https://www.youtube.com/watch?v=ATV35MmnTcM",
+     "title": "OpenAI's Agents Hacked Hugging Face. Where Does That Lead?#aiagents #openai #huggingface #ai",
+     "channel": "Kimys",
+     "views": 0,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T03:37:44.281Z"
+  },
+  {
+   "first_seen": "2026-10-29T15:13:04.801Z",
+   "id": "39489649",
+   "ids": [
+    "39489649",
+    "39488227"
+   ],
+   "title": "Mistral Large 4 (Le Chonk) is now open weight",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-10-29 14:11:42",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Mistral Le Chonk open weights",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/"
+    }
+   ],
+   "queries": [
+    "Mistral Large 4 Le Chonk",
+    "mistral large chonk le"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iY4bSLvUKpc",
+     "url": "https://www.youtube.com/shorts/iY4bSLvUKpc",
+     "title": "Mistral Large 4 \"le Chonk\": Europe's 1 Trillion Open Model",
+     "channel": "",
+     "views": 386,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:awQ20mvkJ6M",
+     "url": "https://www.youtube.com/watch?v=awQ20mvkJ6M",
+     "title": "New Mistral Model DROPPED vs Opus 5.5 vs DeepSeek (Is Le Chonk Worth It?)",
+     "channel": "Taha El Harti | Making AI Useful",
+     "views": 35,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZPd6oGfH898",
+     "url": "https://www.youtube.com/watch?v=ZPd6oGfH898",
+     "title": "Mistral Large 4 Just Dropped: The 1 Trillion Parameter Le Chonk",
+     "channel": "Krumbs | AI Explained Simply",
+     "views": 51,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZDJ5z2aRRvU",
+     "url": "https://www.youtube.com/watch?v=ZDJ5z2aRRvU",
+     "title": "Mistral Large 4 Is Open. Can It Replace Claude?",
+     "channel": "CodeGlitch",
+     "views": 38,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wxQl_LQCiAo",
+     "url": "https://www.youtube.com/shorts/wxQl_LQCiAo",
+     "title": "Mistral Large 4 'Le Chonk': New Open AI Model Explained",
+     "channel": "",
+     "views": 118,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zn_io4whvmk",
+     "url": "https://www.youtube.com/shorts/zn_io4whvmk",
+     "title": "Mistral Just Released a Model Called Le Chonk #shorts",
+     "channel": "",
+     "views": 98,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T03:37:51.329Z"
   },
   {
    "first_seen": "2026-10-28T13:37:36.597Z",
@@ -1141,214 +1358,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-29T08:39:07.862Z"
-  },
-  {
-   "first_seen": "2026-10-29T15:13:04.801Z",
-   "id": "39489650",
-   "ids": [
-    "39489650",
-    "39488402"
-   ],
-   "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-29 14:13:14",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Mistral-Large-4-1T-A52B",
-     "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
-    }
-   ],
-   "queries": [
-    "Hugging Face",
-    "mistralai mistral-large-4-1t-a52b hugging face"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mEtRe_KKYm0",
-     "url": "https://www.youtube.com/watch?v=mEtRe_KKYm0",
-     "title": "Hugging Face Journal Club: Score Centering Stabilizes Off-policy Reinforcement Learning",
-     "channel": "Hugging Face",
-     "views": 2361,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 33
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GB2qq5I2M9A",
-     "url": "https://www.youtube.com/watch?v=GB2qq5I2M9A",
-     "title": "How Hugging Face Is Changing Who Gets to Build Artificial Intelligence",
-     "channel": "Cheddar",
-     "views": 342,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LWIguEVuEZE",
-     "url": "https://www.youtube.com/watch?v=LWIguEVuEZE",
-     "title": "You Can't Blame AI Agents for the Hugging Face Breach, Here's Why",
-     "channel": "Don Overthinks It",
-     "views": 4,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l8r-0G6aaUA",
-     "url": "https://www.youtube.com/watch?v=l8r-0G6aaUA",
-     "title": "What is Hugging Face Transformers and how does it work? ❘ TECH Global University",
-     "channel": "TECH Global University",
-     "views": 7,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IiDqIIoWOB0",
-     "url": "https://www.youtube.com/watch?v=IiDqIIoWOB0",
-     "title": "700 OpenAI Agents Hacked Hugging Face to Pass a Test",
-     "channel": "Who Broke Prod",
-     "views": 98,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ATV35MmnTcM",
-     "url": "https://www.youtube.com/watch?v=ATV35MmnTcM",
-     "title": "OpenAI's Agents Hacked Hugging Face. Where Does That Lead?#aiagents #openai #huggingface #ai",
-     "channel": "Kimys",
-     "views": 0,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T03:37:44.281Z"
-  },
-  {
-   "first_seen": "2026-10-29T15:13:04.801Z",
-   "id": "39489649",
-   "ids": [
-    "39489649",
-    "39488227"
-   ],
-   "title": "Mistral Large 4 (Le Chonk) is now open weight",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-29 14:11:42",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Mistral Le Chonk open weights",
-     "url": "https://mistral.ai/news/mistral-large-4-oss/"
-    }
-   ],
-   "queries": [
-    "Mistral Large 4 Le Chonk",
-    "mistral large chonk le"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iY4bSLvUKpc",
-     "url": "https://www.youtube.com/shorts/iY4bSLvUKpc",
-     "title": "Mistral Large 4 \"le Chonk\": Europe's 1 Trillion Open Model",
-     "channel": "",
-     "views": 386,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:awQ20mvkJ6M",
-     "url": "https://www.youtube.com/watch?v=awQ20mvkJ6M",
-     "title": "New Mistral Model DROPPED vs Opus 5.5 vs DeepSeek (Is Le Chonk Worth It?)",
-     "channel": "Taha El Harti | Making AI Useful",
-     "views": 35,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 6
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZPd6oGfH898",
-     "url": "https://www.youtube.com/watch?v=ZPd6oGfH898",
-     "title": "Mistral Large 4 Just Dropped: The 1 Trillion Parameter Le Chonk",
-     "channel": "Krumbs | AI Explained Simply",
-     "views": 51,
-     "age_hours": 11,
-     "relevance": 0.67,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZDJ5z2aRRvU",
-     "url": "https://www.youtube.com/watch?v=ZDJ5z2aRRvU",
-     "title": "Mistral Large 4 Is Open. Can It Replace Claude?",
-     "channel": "CodeGlitch",
-     "views": 38,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wxQl_LQCiAo",
-     "url": "https://www.youtube.com/shorts/wxQl_LQCiAo",
-     "title": "Mistral Large 4 'Le Chonk': New Open AI Model Explained",
-     "channel": "",
-     "views": 118,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zn_io4whvmk",
-     "url": "https://www.youtube.com/shorts/zn_io4whvmk",
-     "title": "Mistral Just Released a Model Called Le Chonk #shorts",
-     "channel": "",
-     "views": 98,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T03:37:51.329Z"
   },
   {
    "first_seen": "2026-10-29T08:38:52.964Z",
