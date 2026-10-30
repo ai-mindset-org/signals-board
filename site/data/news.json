@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T14:38:19.357Z",
+ "generated_at": "2026-10-30T15:12:21.345Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -21,7 +21,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-10-29 17:00:00",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "hn",
@@ -65,6 +65,36 @@
    "searched_at": "2026-10-30T10:13:12.427Z"
   },
   {
+   "first_seen": "2026-10-29T18:38:22.042Z",
+   "id": "39494412",
+   "ids": [
+    "39494412",
+    "39492613"
+   ],
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-29 09:00:00",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "We detect frontier model misalignment",
+     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
+    }
+   ],
+   "queries": [
+    "we detect frontier model"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-30T07:14:03.854Z"
+  },
+  {
    "first_seen": "2026-10-30T12:20:00.258Z",
    "id": "39508980",
    "ids": [
@@ -76,7 +106,7 @@
    "source_id": "engadget",
    "published_ts": "2026-10-30 12:05:36",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -106,67 +136,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T12:20:04.227Z"
-  },
-  {
-   "first_seen": "2026-10-30T10:49:50.876Z",
-   "id": "39507569",
-   "ids": [
-    "39507569",
-    "39505395"
-   ],
-   "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
-   "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-10-30 07:41:00",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
-     "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Größter Kunde",
-    "größter kunde spacex us-regierung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-30T10:49:58.542Z"
-  },
-  {
-   "first_seen": "2026-10-29T18:38:22.042Z",
-   "id": "39494412",
-   "ids": [
-    "39494412",
-    "39492613"
-   ],
-   "title": "How we detect frontier model misalignment",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-29 09:00:00",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "We detect frontier model misalignment",
-     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
-    }
-   ],
-   "queries": [
-    "we detect frontier model"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-30T07:14:03.854Z"
   },
   {
    "first_seen": "2026-10-28T21:37:00.791Z",
@@ -222,6 +191,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T03:38:01.827Z"
+  },
+  {
+   "first_seen": "2026-10-30T10:49:50.876Z",
+   "id": "39507569",
+   "ids": [
+    "39507569",
+    "39505395"
+   ],
+   "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
+   "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-10-30 07:41:00",
+   "story_sources": 2,
+   "score_norm": 80,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
+     "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Größter Kunde",
+    "größter kunde spacex us-regierung"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-30T10:49:58.542Z"
   },
   {
    "first_seen": "2026-10-28T18:16:34.779Z",
@@ -1211,118 +1211,6 @@
    "searched_at": "2026-10-29T21:12:04.190Z"
   },
   {
-   "first_seen": "2026-10-27T11:18:45.828Z",
-   "id": "39437238",
-   "ids": [
-    "39437238",
-    "39425820",
-    "39418793",
-    "39446052",
-    "39449837"
-   ],
-   "title": "It Appears That the AI Bubble Has Just Burst in China",
-   "url": "https://futurism.com/artificial-intelligence/ai-bubble-burst-china",
-   "source_id": "futurism-ai",
-   "published_ts": "2026-10-27 14:57:47",
-   "story_sources": 3,
-   "score_norm": 52,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "In China, the AI bubble has already burst",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/in-china-the-ai-bubble-has-already-burst-10938963/"
-    },
-    {
-     "source_id": "hn",
-     "title": "In China, the AI bubble has burst",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html"
-    }
-   ],
-   "queries": [
-    "Bubble Has Just Burst",
-    "appears bubble burst china"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LhkuNV1RGfI",
-     "url": "https://www.youtube.com/watch?v=LhkuNV1RGfI",
-     "title": "China's AI Bubble Has Burst. Who Will Pay The Price? | The Palki Sharma Show | IGR",
-     "channel": "India Global Review",
-     "views": 987593,
-     "age_hours": 14,
-     "relevance": 0.8,
-     "velocity": 70542
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:MgngwkPAuqQ",
-     "url": "https://www.youtube.com/watch?v=MgngwkPAuqQ",
-     "title": "The AI bubble is about to pop...",
-     "channel": "The Infographics Show",
-     "views": 595213,
-     "age_hours": 10,
-     "relevance": 0.67,
-     "velocity": 59521
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:uU2WeAX2w8g",
-     "url": "https://www.youtube.com/watch?v=uU2WeAX2w8g",
-     "title": "In China, the AI bubble has already burst",
-     "channel": "Reuters",
-     "views": 463240,
-     "age_hours": 19,
-     "relevance": 0.8,
-     "velocity": 24381
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:r-OyY-zhvgE",
-     "url": "https://www.youtube.com/watch?v=r-OyY-zhvgE",
-     "title": "$480 Billion Gone: China's AI Bubble Bursts | The Palki Sharma Show | IGR | India Global Review",
-     "channel": "India Global Review",
-     "views": 274702,
-     "age_hours": 13,
-     "relevance": 0.6,
-     "velocity": 21131
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0Qj0X-6X1T0",
-     "url": "https://www.youtube.com/watch?v=0Qj0X-6X1T0",
-     "title": "China’s $3.5 Trillion Market Rout: AI Bubble Bursts, Is America Next? | Amber Zaidi",
-     "channel": "Amber Zaidi Official",
-     "views": 2198,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 2198
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZsLi5tYZCTc",
-     "url": "https://www.youtube.com/watch?v=ZsLi5tYZCTc",
-     "title": "Ai Bubble Just Burst In China",
-     "channel": "Luneist",
-     "views": 15202,
-     "age_hours": 13,
-     "relevance": 1,
-     "velocity": 1169
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-28T06:44:35.489Z"
-  },
-  {
    "first_seen": "2026-10-28T02:38:08.439Z",
    "id": "39454904",
    "ids": [
@@ -1401,50 +1289,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-28T08:38:33.370Z"
-  },
-  {
-   "first_seen": "2026-10-27T19:21:07.287Z",
-   "id": "39442175",
-   "ids": [
-    "39442175",
-    "39447749"
-   ],
-   "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-   "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-   "source_id": "wired",
-   "published_ts": "2026-10-27 15:10:26",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xgvr62/uk_home_office_may_face_investigation_over_use_of/"
-    }
-   ],
-   "queries": [
-    "UK Home Office May Face Investigation Over Use",
-    "uk home office may"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QUSPbO2wtQ4",
-     "url": "https://www.youtube.com/watch?v=QUSPbO2wtQ4",
-     "title": "🚨 MISSED HOME OFFICE REPORTING? YOUR UK VISA MAY BE AT RISK!",
-     "channel": "UK Immigration with Syed Afaq Hassan Solicitor",
-     "views": 141,
-     "age_hours": 22,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T14:13:44.848Z"
   },
   {
    "first_seen": "2026-10-29T05:49:58.490Z",
