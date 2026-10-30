@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T06:44:44.597Z",
+ "generated_at": "2026-10-30T07:13:59.712Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: mistral releases weights trillion-parameter",
+   "source": "youtube: we detect frontier model",
    "ok": true
   },
   {
-   "source": "tiktok: mistral releases weights trillion-parameter",
+   "source": "tiktok: we detect frontier model",
    "ok": true
   }
  ],
@@ -101,7 +101,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-30T00:59:52.487Z"
+   "searched_at": "2026-10-30T07:14:03.854Z"
   },
   {
    "first_seen": "2026-10-28T21:37:00.791Z",
@@ -985,61 +985,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T06:44:48.570Z"
-  },
-  {
-   "first_seen": "2026-10-27T22:11:15.888Z",
-   "id": "39451143",
-   "ids": [
-    "39451143",
-    "39443477"
-   ],
-   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-27 07:00:00",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-     "url": "https://openai.com/index/oracle-apps-in-chatgpt/"
-    }
-   ],
-   "queries": [
-    "openai oracle chatgpt expands"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KkYhV-arKFE",
-     "url": "https://www.youtube.com/watch?v=KkYhV-arKFE",
-     "title": "Oracle Expands OpenAI Partnership: Can ChatGPT Turn Access Into Growth?",
-     "channel": "MegaDesk",
-     "views": 17,
-     "age_hours": 7,
-     "relevance": 0.71,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:MF-mZyR75ok",
-     "url": "https://www.youtube.com/watch?v=MF-mZyR75ok",
-     "title": "OpenAI and Oracle Partner to Bring ChatGPT to Enterprise Software",
-     "channel": "Quantum Synergy",
-     "views": 1,
-     "age_hours": 3,
-     "relevance": 0.57,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T04:15:08.946Z"
   },
   {
    "first_seen": "2026-10-29T15:13:04.801Z",
