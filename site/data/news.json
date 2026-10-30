@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:59:48.069Z",
+ "generated_at": "2026-10-30T01:50:28.504Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: we detect frontier model",
-   "ok": true
-  },
-  {
-   "source": "tiktok: we detect frontier model",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
@@ -750,7 +741,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:13:14",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
@@ -806,7 +797,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-10-29 14:11:42",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
@@ -1145,109 +1136,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-27T13:22:48.656Z"
-  },
-  {
-   "first_seen": "2026-10-27T02:38:37.666Z",
-   "id": "39430201",
-   "ids": [
-    "39430201",
-    "39420475"
-   ],
-   "title": "Microsoft offers voluntary buyouts to 60,000 employees amid AI investments",
-   "url": "https://siliconangle.com/2026/10/26/microsoft-offers-voluntary-buyouts-to-60000-employees-amid-ai-investments/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-10-27 01:43:57",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Microsoft offers voluntary buyouts to 60,000 employees in AI efficiency push",
-     "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
-    }
-   ],
-   "queries": [
-    "microsoft 60 000 offers"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:AZHnzFOFCe0",
-     "url": "https://www.youtube.com/watch?v=AZHnzFOFCe0",
-     "title": "'Take The Money & Go': Microsoft's Soft Layoff? Buyouts Offered to 60,000 Employees| Firstpost Live",
-     "channel": "Firstpost",
-     "views": 697913,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 77546
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pljVEhNxFO4",
-     "url": "https://www.youtube.com/watch?v=pljVEhNxFO4",
-     "title": "Microsoft Targets 60,000 Jobs For Termination",
-     "channel": "Mark Savant",
-     "views": 110402,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 6494
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:j-UeAHKxZ8k",
-     "url": "https://www.youtube.com/watch?v=j-UeAHKxZ8k",
-     "title": "Microsoft offers buyouts to 60,000 employees as spending on AI grows",
-     "channel": "ABC News",
-     "views": 27830,
-     "age_hours": 5,
-     "relevance": 0.78,
-     "velocity": 5566
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0jU4nLhCeWY",
-     "url": "https://www.youtube.com/watch?v=0jU4nLhCeWY",
-     "title": "Microsoft Offers Buyouts to 60,000 Employees",
-     "channel": "Bloomberg Tech",
-     "views": 104522,
-     "age_hours": 23,
-     "relevance": 1,
-     "velocity": 4544
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IJrxpS0Vpxg",
-     "url": "https://www.youtube.com/watch?v=IJrxpS0Vpxg",
-     "title": "Microsoft Offers Buyouts To 25% Of Company",
-     "channel": "Forbes Breaking News",
-     "views": 44874,
-     "age_hours": 19,
-     "relevance": 0.6,
-     "velocity": 2362
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eTWiWVmdzTc",
-     "url": "https://www.youtube.com/watch?v=eTWiWVmdzTc",
-     "title": "Microsoft offers quarter of global workforce voluntary buyouts",
-     "channel": "ABC News",
-     "views": 25534,
-     "age_hours": 15,
-     "relevance": 0.57,
-     "velocity": 1702
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-27T15:18:56.370Z"
   },
   {
    "first_seen": "2026-10-27T22:11:15.888Z",
