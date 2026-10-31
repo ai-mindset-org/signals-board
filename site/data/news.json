@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T18:12:08.833Z",
+ "generated_at": "2026-10-31T18:35:59.643Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: meity depa unveils handbook",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meity depa unveils handbook",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-31T12:26:33.211Z",
@@ -37,7 +46,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-31T12:26:37.100Z"
+   "searched_at": "2026-10-31T18:36:03.479Z"
   },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
