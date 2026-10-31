@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T12:14:40.283Z",
+ "generated_at": "2026-10-31T12:26:33.211Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,80 +7,46 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
- "stories": [
+ "search_report": [
   {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524839",
-   "ids": [
-    "39524839",
-    "39521582"
-   ],
-   "title": "US privacy-focused AI startup Ollie to shut down",
-   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 03:05:08",
-   "story_sources": 2,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-    }
-   ],
-   "queries": [
-    "us ollie privacy-focused ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xf3TEjzA4Xw",
-     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
-     "title": "Ollie AI Assistant to Shut Down Next Week",
-     "channel": "Newsreel",
-     "views": 0,
-     "age_hours": 6,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T10:20:47.591Z"
+   "source": "youtube: meity depa unveils handbook",
+   "ok": true
   },
   {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524841",
+   "source": "tiktok: meity depa unveils handbook",
+   "ok": true
+  }
+ ],
+ "stories": [
+  {
+   "first_seen": "2026-10-31T12:26:33.211Z",
+   "id": "39529856",
    "ids": [
-    "39524841",
-    "39515805"
+    "39529856",
+    "39528461"
    ],
-   "title": "Anthropic may miss investment-grade rating after IPO: report",
-   "url": "https://www.techinasia.com/news/anthropic-may-miss-investment-rating-ipo",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 02:49:11",
+   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
+   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-10-31 10:46:16",
    "story_sources": 2,
-   "score_norm": 96,
+   "score_norm": 100,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-     "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+     "source_id": "in-businessline",
+     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
+     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
     }
    ],
    "queries": [
-    "anthropic ipo may miss"
+    "meity depa unveils handbook"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-31T10:20:51.084Z"
+   "searched_at": "2026-10-31T12:26:37.100Z"
   },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -190,6 +156,79 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-30T07:14:03.854Z"
+  },
+  {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524839",
+   "ids": [
+    "39524839",
+    "39521582"
+   ],
+   "title": "US privacy-focused AI startup Ollie to shut down",
+   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 03:05:08",
+   "story_sources": 2,
+   "score_norm": 85,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    }
+   ],
+   "queries": [
+    "us ollie privacy-focused ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xf3TEjzA4Xw",
+     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
+     "title": "Ollie AI Assistant to Shut Down Next Week",
+     "channel": "Newsreel",
+     "views": 0,
+     "age_hours": 6,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T10:20:47.591Z"
+  },
+  {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524841",
+   "ids": [
+    "39524841",
+    "39515805"
+   ],
+   "title": "Anthropic may miss investment-grade rating after IPO: report",
+   "url": "https://www.techinasia.com/news/anthropic-may-miss-investment-rating-ipo",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 02:49:11",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+     "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+    }
+   ],
+   "queries": [
+    "anthropic ipo may miss"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T10:20:51.084Z"
   },
   {
    "first_seen": "2026-10-28T18:16:34.779Z",
@@ -509,37 +548,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T18:25:08.699Z"
-  },
-  {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518234",
-   "ids": [
-    "39518234",
-    "39514646"
-   ],
-   "title": "Haas: Postgres 19 is late, and it's AI's fault",
-   "url": "https://lwn.net/Articles/1104210/",
-   "source_id": "x-lwn-net",
-   "published_ts": "2026-10-30 16:52:59",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Postgres 19 is late, and it's AI's fault",
-     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-    }
-   ],
-   "queries": [
-    "Postgres 19",
-    "haas postgres 19 late"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T07:50:07.979Z"
   },
   {
    "first_seen": "2026-10-30T19:36:03.988Z",
@@ -939,6 +947,37 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-29T21:37:25.186Z"
+  },
+  {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518234",
+   "ids": [
+    "39518234",
+    "39514646"
+   ],
+   "title": "Haas: Postgres 19 is late, and it's AI's fault",
+   "url": "https://lwn.net/Articles/1104210/",
+   "source_id": "x-lwn-net",
+   "published_ts": "2026-10-30 16:52:59",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Postgres 19 is late, and it's AI's fault",
+     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    }
+   ],
+   "queries": [
+    "Postgres 19",
+    "haas postgres 19 late"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T07:50:07.979Z"
   },
   {
    "first_seen": "2026-10-29T10:25:09.205Z",
