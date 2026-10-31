@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T10:20:43.810Z",
+ "generated_at": "2026-10-31T10:50:14.579Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: us ollie privacy-focused ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: us ollie privacy-focused ai",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo may miss",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo may miss",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
@@ -313,6 +296,37 @@
    "searched_at": "2026-10-29T06:44:51.342Z"
   },
   {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518234",
+   "ids": [
+    "39518234",
+    "39514646"
+   ],
+   "title": "Haas: Postgres 19 is late, and it's AI's fault",
+   "url": "https://lwn.net/Articles/1104210/",
+   "source_id": "x-lwn-net",
+   "published_ts": "2026-10-30 16:52:59",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Postgres 19 is late, and it's AI's fault",
+     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    }
+   ],
+   "queries": [
+    "Postgres 19",
+    "haas postgres 19 late"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T07:50:07.979Z"
+  },
+  {
    "first_seen": "2026-10-28T22:49:48.356Z",
    "id": "39475897",
    "ids": [
@@ -367,37 +381,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T05:13:49.366Z"
-  },
-  {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518234",
-   "ids": [
-    "39518234",
-    "39514646"
-   ],
-   "title": "Haas: Postgres 19 is late, and it's AI's fault",
-   "url": "https://lwn.net/Articles/1104210/",
-   "source_id": "x-lwn-net",
-   "published_ts": "2026-10-30 16:52:59",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Postgres 19 is late, and it's AI's fault",
-     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-    }
-   ],
-   "queries": [
-    "Postgres 19",
-    "haas postgres 19 late"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T07:50:07.979Z"
   },
   {
    "first_seen": "2026-10-30T17:10:54.382Z",
@@ -1622,37 +1605,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-29T12:20:21.185Z"
-  },
-  {
-   "first_seen": "2026-10-28T12:19:38.363Z",
-   "id": "39461351",
-   "ids": [
-    "39461351",
-    "39463077"
-   ],
-   "title": "Princeton and Polymathic AI release FlashMap: Flow Map Speculative Decoding",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhkpzf/princeton_and_polymathic_ai_release_flashmap_flow/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-10-28 10:48:19",
-   "story_sources": 2,
-   "score_norm": 43,
-   "related_news": [
-    {
-     "source_id": "in-marktechpost",
-     "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
-     "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/"
-    }
-   ],
-   "queries": [
-    "Flow Map Speculative Decoding",
-    "princeton polymathic flashmap flow"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-28T18:38:18.901Z"
   },
   {
    "first_seen": "2026-10-29T02:49:39.850Z",
