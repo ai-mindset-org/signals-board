@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T19:36:07.836Z",
+ "generated_at": "2026-10-31T19:49:56.167Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,69 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: GPT-5.6 Sol",
+   "ok": true
+  },
+  {
+   "source": "tiktok: GPT-5.6 Sol",
+   "ok": true
+  },
+  {
+   "source": "youtube: gpt-5.6 sol factorio can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gpt-5.6 sol factorio can",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-10-31T19:49:56.167Z",
+   "id": "39535779",
+   "ids": [
+    "39535779",
+    "39535123"
+   ],
+   "title": "GPT-5.6 Sol can beat Factorio",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xkhxwr/gpt56_sol_can_beat_factorio/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-31 18:41:23",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+     "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+    }
+   ],
+   "queries": [
+    "GPT-5.6 Sol",
+    "gpt-5.6 sol factorio can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:kLuSDUzKYZs",
+     "url": "https://www.youtube.com/watch?v=kLuSDUzKYZs",
+     "title": "GPT-5.6 Sol beating Factorio (peaceful) 60x speed timelapse",
+     "channel": "AI Plays Factorio",
+     "views": 177,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 177
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T19:50:03.770Z"
+  },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
    "id": "39502727",
@@ -160,36 +221,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-30T07:14:03.854Z"
-  },
-  {
-   "first_seen": "2026-10-31T12:26:33.211Z",
-   "id": "39529856",
-   "ids": [
-    "39529856",
-    "39528461"
-   ],
-   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
-   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-10-31 10:46:16",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
-     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
-    }
-   ],
-   "queries": [
-    "meity depa unveils handbook"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T18:36:03.479Z"
   },
   {
    "first_seen": "2026-10-28T22:49:48.356Z",
@@ -511,47 +542,34 @@
    "searched_at": "2026-10-31T07:50:15.154Z"
   },
   {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524839",
+   "first_seen": "2026-10-31T12:26:33.211Z",
+   "id": "39529856",
    "ids": [
-    "39524839",
-    "39521582"
+    "39529856",
+    "39528461"
    ],
-   "title": "US privacy-focused AI startup Ollie to shut down",
-   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 03:05:08",
+   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
+   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-10-31 10:46:16",
    "story_sources": 2,
    "score_norm": 69,
    "related_news": [
     {
-     "source_id": "x-techcrunch",
-     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+     "source_id": "in-businessline",
+     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
+     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
     }
    ],
    "queries": [
-    "us ollie privacy-focused ai"
+    "meity depa unveils handbook"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xf3TEjzA4Xw",
-     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
-     "title": "Ollie AI Assistant to Shut Down Next Week",
-     "channel": "Newsreel",
-     "views": 0,
-     "age_hours": 12,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-31T16:36:01.215Z"
+   "searched_at": "2026-10-31T18:36:03.479Z"
   },
   {
    "first_seen": "2026-10-30T10:49:50.876Z",
@@ -836,6 +854,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T22:37:11.268Z"
+  },
+  {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524839",
+   "ids": [
+    "39524839",
+    "39521582"
+   ],
+   "title": "US privacy-focused AI startup Ollie to shut down",
+   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 03:05:08",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    }
+   ],
+   "queries": [
+    "us ollie privacy-focused ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xf3TEjzA4Xw",
+     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
+     "title": "Ollie AI Assistant to Shut Down Next Week",
+     "channel": "Newsreel",
+     "views": 0,
+     "age_hours": 12,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T16:36:01.215Z"
   },
   {
    "first_seen": "2026-10-29T17:50:12.523Z",
