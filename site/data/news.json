@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T02:14:49.822Z",
+ "generated_at": "2026-10-31T03:23:13.086Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1686,112 +1686,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T08:50:11.937Z"
-  },
-  {
-   "first_seen": "2026-10-27T14:46:59.677Z",
-   "id": "39441053",
-   "ids": [
-    "39441053",
-    "39441043",
-    "39457133",
-    "39449048"
-   ],
-   "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
-   "url": "https://www.thehindu.com/sci-tech/technology/apple-launches-m6-macbook-pro-and-imac-pitches-faster-on-device-ai/article71634165.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-10-28 03:18:15",
-   "story_sources": 2,
-   "score_norm": 41,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Apple launches new M6 MacBook Pro, iMac; adds AI features to Creator Studio",
-     "url": "https://indianexpress.com/article/technology/apple-launches-new-m6-macbook-pro-imac-adds-ai-features-to-creator-studio-10939394/"
-    }
-   ],
-   "queries": [
-    "M6 MacBook Pro",
-    "apple m6 macbook pro"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xWfNhWn88Bc",
-     "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc",
-     "title": "The new 14” MacBook Pro with M6",
-     "channel": "Apple",
-     "views": 6757498,
-     "age_hours": 23,
-     "relevance": 0.75,
-     "velocity": 293804
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0qRwIqtO3Bo",
-     "url": "https://www.youtube.com/watch?v=0qRwIqtO3Bo",
-     "title": "Apple Just Announced the M6 iMac & MacBook Pro! | What's New?",
-     "channel": "9to5Mac",
-     "views": 165074,
-     "age_hours": 22,
-     "relevance": 0.83,
-     "velocity": 7503
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bLvVskwoCDk",
-     "url": "https://www.youtube.com/watch?v=bLvVskwoCDk",
-     "title": "New M6 MacBook Pro is HERE (..it's a Beast!)",
-     "channel": "Max Tech",
-     "views": 132312,
-     "age_hours": 19,
-     "relevance": 0.6,
-     "velocity": 6964
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3lKQgcfYBYo",
-     "url": "https://www.youtube.com/watch?v=3lKQgcfYBYo",
-     "title": "Apple’s M6 MacBook Pro & iMac: Everything New!",
-     "channel": "MacRumors",
-     "views": 105303,
-     "age_hours": 20,
-     "relevance": 0.83,
-     "velocity": 5265
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:69lLJQlt-z0",
-     "url": "https://www.youtube.com/watch?v=69lLJQlt-z0",
-     "title": "Apple Announces M6 14-Inch MacBook Pro & M6 iMac - What You Need To Know!",
-     "channel": "Brian Tong",
-     "views": 62298,
-     "age_hours": 16,
-     "relevance": 0.56,
-     "velocity": 3894
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OZoRQ6-l2-U",
-     "url": "https://www.youtube.com/watch?v=OZoRQ6-l2-U",
-     "title": "M6 iMac and M6 MacBook Pro: Better Inside, Same Catches",
-     "channel": "Adam Talks Tech",
-     "views": 14949,
-     "age_hours": 21,
-     "relevance": 0.5,
-     "velocity": 712
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-28T12:41:41.446Z"
   },
   {
    "first_seen": "2026-10-29T07:49:50.349Z",
