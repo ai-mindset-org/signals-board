@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T19:20:11.241Z",
+ "generated_at": "2026-10-31T19:36:07.836Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -89,36 +89,6 @@
    "searched_at": "2026-10-30T16:14:14.099Z"
   },
   {
-   "first_seen": "2026-10-31T12:26:33.211Z",
-   "id": "39529856",
-   "ids": [
-    "39529856",
-    "39528461"
-   ],
-   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
-   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-10-31 10:46:16",
-   "story_sources": 2,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
-     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
-    }
-   ],
-   "queries": [
-    "meity depa unveils handbook"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T18:36:03.479Z"
-  },
-  {
    "first_seen": "2026-10-31T04:12:36.356Z",
    "id": "39524841",
    "ids": [
@@ -192,47 +162,34 @@
    "searched_at": "2026-10-30T07:14:03.854Z"
   },
   {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524839",
+   "first_seen": "2026-10-31T12:26:33.211Z",
+   "id": "39529856",
    "ids": [
-    "39524839",
-    "39521582"
+    "39529856",
+    "39528461"
    ],
-   "title": "US privacy-focused AI startup Ollie to shut down",
-   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 03:05:08",
+   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
+   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-10-31 10:46:16",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 77,
    "related_news": [
     {
-     "source_id": "x-techcrunch",
-     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+     "source_id": "in-businessline",
+     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
+     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
     }
    ],
    "queries": [
-    "us ollie privacy-focused ai"
+    "meity depa unveils handbook"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xf3TEjzA4Xw",
-     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
-     "title": "Ollie AI Assistant to Shut Down Next Week",
-     "channel": "Newsreel",
-     "views": 0,
-     "age_hours": 12,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-31T16:36:01.215Z"
+   "searched_at": "2026-10-31T18:36:03.479Z"
   },
   {
    "first_seen": "2026-10-28T22:49:48.356Z",
@@ -552,6 +509,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-31T07:50:15.154Z"
+  },
+  {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524839",
+   "ids": [
+    "39524839",
+    "39521582"
+   ],
+   "title": "US privacy-focused AI startup Ollie to shut down",
+   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 03:05:08",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    }
+   ],
+   "queries": [
+    "us ollie privacy-focused ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xf3TEjzA4Xw",
+     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
+     "title": "Ollie AI Assistant to Shut Down Next Week",
+     "channel": "Newsreel",
+     "views": 0,
+     "age_hours": 12,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T16:36:01.215Z"
   },
   {
    "first_seen": "2026-10-30T10:49:50.876Z",
@@ -1282,73 +1282,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-29T12:20:21.185Z"
-  },
-  {
-   "first_seen": "2026-10-29T07:49:50.349Z",
-   "id": "39472635",
-   "ids": [
-    "39472635",
-    "39482516"
-   ],
-   "title": "Australia moves to ban AI chatbots from ‘emotional intimacy’ with children",
-   "url": "https://thenextweb.com/news/australia-duty-of-care-bill-ai-chatbots-emotional-intimacy-children",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-28 19:33:45",
-   "story_sources": 2,
-   "score_norm": 39,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Australia Bans AI 'Emotional Intimacy' with Children;",
-     "url": "https://dsrupt.news/articles/australia-bans-ai-emotional-intimacy-with-children-chatbot-makers-will-keep-the/"
-    }
-   ],
-   "queries": [
-    "australia moves ban ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KTFRtMegc8k",
-     "url": "https://www.youtube.com/shorts/KTFRtMegc8k",
-     "title": "Australia Moves to Stop AI Chatbots Acting Like Your Kid's Best Friend #shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2OO_TuDYTtk",
-     "url": "https://www.youtube.com/shorts/2OO_TuDYTtk",
-     "title": "Australia to Ban AI Chatbots Creating Emotional Intimacy 🤖",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vvj8_C95stE",
-     "url": "https://www.youtube.com/shorts/vvj8_C95stE",
-     "title": "🚨 Australia House Passes Bill Banning Chatbots from Simulating Emotional Intimacy #AINews",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T07:49:54.445Z"
   }
  ]
 }
