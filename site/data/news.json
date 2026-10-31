@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T07:50:00.686Z",
+ "generated_at": "2026-10-31T09:35:48.096Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Postgres 19",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Postgres 19",
-   "ok": true
-  },
-  {
-   "source": "youtube: haas postgres 19 late",
-   "ok": true
-  },
-  {
-   "source": "tiktok: haas postgres 19 late",
-   "ok": true
-  },
-  {
-   "source": "youtube: Malicious Claude Code",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Malicious Claude Code",
-   "ok": true
-  },
-  {
-   "source": "youtube: malicious claude code cursor",
-   "ok": true
-  },
-  {
-   "source": "tiktok: malicious claude code cursor",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
@@ -212,61 +179,6 @@
    "searched_at": "2026-10-30T07:14:03.854Z"
   },
   {
-   "first_seen": "2026-10-28T21:37:00.791Z",
-   "id": "39474658",
-   "ids": [
-    "39474658",
-    "39464516"
-   ],
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-28 09:30:00",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Legora is building the agentic operating system for legal work",
-     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
-    }
-   ],
-   "queries": [
-    "legora building agentic operating"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:UOfmD1fY-i8",
-     "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8",
-     "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
-     "channel": "OpenAI",
-     "views": 6832,
-     "age_hours": 17,
-     "relevance": 0.57,
-     "velocity": 402
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ud5Z7K9cs40",
-     "url": "https://www.youtube.com/shorts/Ud5Z7K9cs40",
-     "title": "OpenAI: Legora is building the agentic operating system for legal work",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T03:38:01.827Z"
-  },
-  {
    "first_seen": "2026-10-28T18:16:34.779Z",
    "id": "39470666",
    "ids": [
@@ -427,6 +339,37 @@
    "searched_at": "2026-10-29T05:13:49.366Z"
   },
   {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518234",
+   "ids": [
+    "39518234",
+    "39514646"
+   ],
+   "title": "Haas: Postgres 19 is late, and it's AI's fault",
+   "url": "https://lwn.net/Articles/1104210/",
+   "source_id": "x-lwn-net",
+   "published_ts": "2026-10-30 16:52:59",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Postgres 19 is late, and it's AI's fault",
+     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    }
+   ],
+   "queries": [
+    "Postgres 19",
+    "haas postgres 19 late"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T07:50:07.979Z"
+  },
+  {
    "first_seen": "2026-10-30T17:10:54.382Z",
    "id": "39514995",
    "ids": [
@@ -584,37 +527,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T18:25:08.699Z"
-  },
-  {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518234",
-   "ids": [
-    "39518234",
-    "39514646"
-   ],
-   "title": "Haas: Postgres 19 is late, and it's AI's fault",
-   "url": "https://lwn.net/Articles/1104210/",
-   "source_id": "x-lwn-net",
-   "published_ts": "2026-10-30 16:52:59",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Postgres 19 is late, and it's AI's fault",
-     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-    }
-   ],
-   "queries": [
-    "Postgres 19",
-    "haas postgres 19 late"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T07:50:07.979Z"
   },
   {
    "first_seen": "2026-10-30T19:36:03.988Z",
