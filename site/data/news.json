@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T10:50:14.579Z",
+ "generated_at": "2026-10-31T12:14:40.283Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -21,7 +21,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-31 03:05:08",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -64,7 +64,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-31 02:49:11",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 96,
    "related_news": [
     {
      "source_id": "hn",
@@ -296,37 +296,6 @@
    "searched_at": "2026-10-29T06:44:51.342Z"
   },
   {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518234",
-   "ids": [
-    "39518234",
-    "39514646"
-   ],
-   "title": "Haas: Postgres 19 is late, and it's AI's fault",
-   "url": "https://lwn.net/Articles/1104210/",
-   "source_id": "x-lwn-net",
-   "published_ts": "2026-10-30 16:52:59",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Postgres 19 is late, and it's AI's fault",
-     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-    }
-   ],
-   "queries": [
-    "Postgres 19",
-    "haas postgres 19 late"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T07:50:07.979Z"
-  },
-  {
    "first_seen": "2026-10-28T22:49:48.356Z",
    "id": "39475897",
    "ids": [
@@ -540,6 +509,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T18:25:08.699Z"
+  },
+  {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518234",
+   "ids": [
+    "39518234",
+    "39514646"
+   ],
+   "title": "Haas: Postgres 19 is late, and it's AI's fault",
+   "url": "https://lwn.net/Articles/1104210/",
+   "source_id": "x-lwn-net",
+   "published_ts": "2026-10-30 16:52:59",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Postgres 19 is late, and it's AI's fault",
+     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    }
+   ],
+   "queries": [
+    "Postgres 19",
+    "haas postgres 19 late"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T07:50:07.979Z"
   },
   {
    "first_seen": "2026-10-30T19:36:03.988Z",
@@ -1360,116 +1360,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T03:37:51.329Z"
-  },
-  {
-   "first_seen": "2026-10-28T13:37:36.597Z",
-   "id": "39464411",
-   "ids": [
-    "39464411",
-    "39464091",
-    "39467177"
-   ],
-   "title": "Anthropic Files Its S-1",
-   "url": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-10-28 12:10:55",
-   "story_sources": 3,
-   "score_norm": 55,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Files Its S-1",
-     "url": "https://thezvi.wordpress.com/2026/10/28/anthropic-files-its-s-1/"
-    }
-   ],
-   "queries": [
-    "Anthropic Files Its S-1",
-    "anthropic files s-1"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mhFozOsKZLU",
-     "url": "https://www.youtube.com/watch?v=mhFozOsKZLU",
-     "title": "Anthropic Lost $80B, And That's Not The Scariest Part of IPO S-1",
-     "channel": "Good Revenue",
-     "views": 77815,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1621
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:266kCGruUnQ",
-     "url": "https://www.youtube.com/watch?v=266kCGruUnQ",
-     "title": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
-     "channel": "CNBC Television",
-     "views": 65548,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 1366
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A97KFDfqTSw",
-     "url": "https://www.youtube.com/watch?v=A97KFDfqTSw",
-     "title": "Anthropic Files Publicly For IPO: Here's What's Inside",
-     "channel": "Nobody Special",
-     "views": 24439,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 1018
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:EAEixlPC6L4",
-     "url": "https://www.youtube.com/watch?v=EAEixlPC6L4",
-     "title": "Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.",
-     "channel": "@NateBJones",
-     "views": 15000,
-     "age_hours": 18.02782722222222,
-     "relevance": 0.67,
-     "velocity": 832
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8welyuCkxnM",
-     "url": "https://www.youtube.com/watch?v=8welyuCkxnM",
-     "title": "Anthropic Files Its IPO: What We Know Now",
-     "channel": "Bloomberg Television",
-     "views": 32564,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 678
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OWp-eREvJzY",
-     "url": "https://www.youtube.com/watch?v=OWp-eREvJzY",
-     "title": "Anthropic Drops Its S-1, Giving Market Glimpse Into Finances",
-     "channel": "Bloomberg Tech",
-     "views": 26672,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 556
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-10-29T08:39:07.862Z"
   },
   {
    "first_seen": "2026-10-29T08:38:52.964Z",
