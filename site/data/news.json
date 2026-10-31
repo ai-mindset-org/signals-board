@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T12:26:33.211Z",
+ "generated_at": "2026-10-31T14:10:02.768Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: meity depa unveils handbook",
+   "source": "youtube: Postgres 19",
    "ok": true
   },
   {
-   "source": "tiktok: meity depa unveils handbook",
+   "source": "tiktok: Postgres 19",
+   "ok": true
+  },
+  {
+   "source": "youtube: haas postgres 19 late",
+   "ok": true
+  },
+  {
+   "source": "tiktok: haas postgres 19 late",
    "ok": true
   }
  ],
@@ -128,36 +136,6 @@
    "searched_at": "2026-10-30T16:14:14.099Z"
   },
   {
-   "first_seen": "2026-10-29T18:38:22.042Z",
-   "id": "39494412",
-   "ids": [
-    "39494412",
-    "39492613"
-   ],
-   "title": "How we detect frontier model misalignment",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-29 09:00:00",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "We detect frontier model misalignment",
-     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
-    }
-   ],
-   "queries": [
-    "we detect frontier model"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-30T07:14:03.854Z"
-  },
-  {
    "first_seen": "2026-10-31T04:12:36.356Z",
    "id": "39524839",
    "ids": [
@@ -169,7 +147,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-31 03:05:08",
    "story_sources": 2,
-   "score_norm": 85,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -212,7 +190,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-31 02:49:11",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "hn",
@@ -231,108 +209,34 @@
    "searched_at": "2026-10-31T10:20:51.084Z"
   },
   {
-   "first_seen": "2026-10-28T18:16:34.779Z",
-   "id": "39470666",
+   "first_seen": "2026-10-29T18:38:22.042Z",
+   "id": "39494412",
    "ids": [
-    "39470666",
-    "39460335"
+    "39494412",
+    "39492613"
    ],
-   "title": "Meta has a new AI pet app called Waddle World",
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-10-28 13:53:31",
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source_id": "openai-blog",
+   "published_ts": "2026-10-29 09:00:00",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 86,
    "related_news": [
     {
-     "source_id": "engadget",
-     "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
-     "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
+     "source_id": "hn",
+     "title": "We detect frontier model misalignment",
+     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
     }
    ],
    "queries": [
-    "Waddle World",
-    "meta waddle world ai"
+    "we detect frontier model"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YvR0i5y5DMg",
-     "url": "https://www.youtube.com/shorts/YvR0i5y5DMg",
-     "title": "Meta's free AI assistant",
-     "channel": "",
-     "views": 167,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nwEVWpIw2MU",
-     "url": "https://www.youtube.com/shorts/nwEVWpIw2MU",
-     "title": "Meta Waddle World: A Secret AI Journal",
-     "channel": "",
-     "views": 103,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yxuBFsVfa1I",
-     "url": "https://www.youtube.com/watch?v=yxuBFsVfa1I",
-     "title": "How to Download and Use Meta AI Waddle World Daily Journal App",
-     "channel": "Reality PC",
-     "views": 19,
-     "age_hours": 11,
-     "relevance": 0.71,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GgvyQ6QYxEc",
-     "url": "https://www.youtube.com/shorts/GgvyQ6QYxEc",
-     "title": "Meta's next AI move?",
-     "channel": "",
-     "views": 67,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VGZUEc9RWCQ",
-     "url": "https://www.youtube.com/shorts/VGZUEc9RWCQ",
-     "title": "Meta's Waddle World is a Tamagotchi AI Pet App",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:I0-SDV2qvFA",
-     "url": "https://www.youtube.com/watch?v=I0-SDV2qvFA",
-     "title": "Meta Just Made an AI Pet App… But Why?",
-     "channel": "VCR TECH",
-     "views": 3,
-     "age_hours": 6,
-     "relevance": 0.8,
-     "velocity": 1
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-29T06:44:51.342Z"
+   "searched_at": "2026-10-30T07:14:03.854Z"
   },
   {
    "first_seen": "2026-10-28T22:49:48.356Z",
@@ -836,6 +740,37 @@
    "searched_at": "2026-10-29T11:12:17.975Z"
   },
   {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518234",
+   "ids": [
+    "39518234",
+    "39514646"
+   ],
+   "title": "Haas: Postgres 19 is late, and it's AI's fault",
+   "url": "https://lwn.net/Articles/1104210/",
+   "source_id": "x-lwn-net",
+   "published_ts": "2026-10-30 16:52:59",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Postgres 19 is late, and it's AI's fault",
+     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    }
+   ],
+   "queries": [
+    "Postgres 19",
+    "haas postgres 19 late"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T14:10:10.365Z"
+  },
+  {
    "first_seen": "2026-10-29T03:15:56.289Z",
    "id": "39473301",
    "ids": [
@@ -947,37 +882,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-29T21:37:25.186Z"
-  },
-  {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518234",
-   "ids": [
-    "39518234",
-    "39514646"
-   ],
-   "title": "Haas: Postgres 19 is late, and it's AI's fault",
-   "url": "https://lwn.net/Articles/1104210/",
-   "source_id": "x-lwn-net",
-   "published_ts": "2026-10-30 16:52:59",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Postgres 19 is late, and it's AI's fault",
-     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-    }
-   ],
-   "queries": [
-    "Postgres 19",
-    "haas postgres 19 late"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T07:50:07.979Z"
   },
   {
    "first_seen": "2026-10-29T10:25:09.205Z",
