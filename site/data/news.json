@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T03:23:13.086Z",
+ "generated_at": "2026-10-31T04:12:36.356Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,85 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: us ollie privacy-focused ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: us ollie privacy-focused ai",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic ipo may miss",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic ipo may miss",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524839",
+   "ids": [
+    "39524839",
+    "39521582"
+   ],
+   "title": "US privacy-focused AI startup Ollie to shut down",
+   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 03:05:08",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    }
+   ],
+   "queries": [
+    "us ollie privacy-focused ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T04:12:41.176Z"
+  },
+  {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524841",
+   "ids": [
+    "39524841",
+    "39515805"
+   ],
+   "title": "Anthropic may miss investment-grade rating after IPO: report",
+   "url": "https://www.techinasia.com/news/anthropic-may-miss-investment-rating-ipo",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 02:49:11",
+   "story_sources": 2,
+   "score_norm": 98,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+     "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+    }
+   ],
+   "queries": [
+    "anthropic ipo may miss"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T04:12:44.803Z"
+  },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
    "id": "39502727",
@@ -87,246 +164,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T16:14:14.099Z"
-  },
-  {
-   "first_seen": "2026-10-30T17:10:54.382Z",
-   "id": "39514995",
-   "ids": [
-    "39514995",
-    "39504755"
-   ],
-   "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
-   "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
-   "source_id": "theregister",
-   "published_ts": "2026-10-30 16:27:00",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Official Claude Code extension compromise",
-     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
-    }
-   ],
-   "queries": [
-    "That Claude Code",
-    "anthropic claude code extension"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6-CnVGqvRCQ",
-     "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
-     "title": "This Claude Code update was a backdoor",
-     "channel": "",
-     "views": 866,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dV9unfdiYjI",
-     "url": "https://www.youtube.com/shorts/dV9unfdiYjI",
-     "title": "Fake Claude Code Extension Hit Cursor. Anthropic Says It Is Not Theirs. Check Yours Now",
-     "channel": "",
-     "views": 351,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tbcoYZD5ga0",
-     "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
-     "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
-     "channel": "",
-     "views": 75,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:SennaNyRI3I",
-     "url": "https://www.youtube.com/shorts/SennaNyRI3I",
-     "title": "Claude Code is 2 commands. Seriously.",
-     "channel": "",
-     "views": 26,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kGgXLTHKl_c",
-     "url": "https://www.youtube.com/shorts/kGgXLTHKl_c",
-     "title": "Claude Code Extension Planted an SSH Backdoor",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T23:20:29.420Z"
-  },
-  {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518234",
-   "ids": [
-    "39518234",
-    "39514646"
-   ],
-   "title": "Haas: Postgres 19 is late, and it's AI's fault",
-   "url": "https://lwn.net/Articles/1104210/",
-   "source_id": "x-lwn-net",
-   "published_ts": "2026-10-30 16:52:59",
-   "story_sources": 2,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Postgres 19 is late, and it's AI's fault",
-     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-    }
-   ],
-   "queries": [
-    "Postgres 19",
-    "haas postgres 19 late"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f7ylxIAnGI8",
-     "url": "https://www.youtube.com/shorts/f7ylxIAnGI8",
-     "title": "Why Postgres 19 Was Delayed: AI Code Review Found Too Many Bugs",
-     "channel": "",
-     "views": 838,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T01:39:02.440Z"
-  },
-  {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518198",
-   "ids": [
-    "39518198",
-    "39505363"
-   ],
-   "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
-   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-10-30 18:16:10",
-   "story_sources": 2,
-   "score_norm": 89,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Malicious Claude Code Extension Found in Cursor Marketplace",
-     "url": "https://cursor.com/blog/claude-code-extension-security-notice"
-    }
-   ],
-   "queries": [
-    "Malicious Claude Code",
-    "malicious claude code cursor"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rXFCwI31OV8",
-     "url": "https://www.youtube.com/shorts/rXFCwI31OV8",
-     "title": "When Claude Code attacks! 😱",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6-CnVGqvRCQ",
-     "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
-     "title": "This Claude Code update was a backdoor",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IvNCgpadwzo",
-     "url": "https://www.youtube.com/shorts/IvNCgpadwzo",
-     "title": "STOP. Use Claude Code in Cursor? Check this now",
-     "channel": "",
-     "views": 77,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tbcoYZD5ga0",
-     "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
-     "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
-     "channel": "",
-     "views": 75,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z2JdCx75ysI",
-     "url": "https://www.youtube.com/watch?v=Z2JdCx75ysI",
-     "title": "Malicious Claude Code extension in the Cursor marketplace: Coralogix Security Advisory",
-     "channel": "Coralogix",
-     "views": 25,
-     "age_hours": 13,
-     "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:h_lZ8p4L864",
-     "url": "https://www.youtube.com/watch?v=h_lZ8p4L864",
-     "title": "Cursor Shut Its Store Over a Tampered Claude Code",
-     "channel": "The Output",
-     "views": 2,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T01:39:09.600Z"
   },
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
@@ -629,6 +466,98 @@
    "searched_at": "2026-10-30T18:25:08.699Z"
   },
   {
+   "first_seen": "2026-10-30T17:10:54.382Z",
+   "id": "39514995",
+   "ids": [
+    "39514995",
+    "39504755"
+   ],
+   "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
+   "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+   "source_id": "theregister",
+   "published_ts": "2026-10-30 16:27:00",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Official Claude Code extension compromise",
+     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    }
+   ],
+   "queries": [
+    "That Claude Code",
+    "anthropic claude code extension"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6-CnVGqvRCQ",
+     "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
+     "title": "This Claude Code update was a backdoor",
+     "channel": "",
+     "views": 866,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dV9unfdiYjI",
+     "url": "https://www.youtube.com/shorts/dV9unfdiYjI",
+     "title": "Fake Claude Code Extension Hit Cursor. Anthropic Says It Is Not Theirs. Check Yours Now",
+     "channel": "",
+     "views": 351,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tbcoYZD5ga0",
+     "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
+     "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
+     "channel": "",
+     "views": 75,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:SennaNyRI3I",
+     "url": "https://www.youtube.com/shorts/SennaNyRI3I",
+     "title": "Claude Code is 2 commands. Seriously.",
+     "channel": "",
+     "views": 26,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kGgXLTHKl_c",
+     "url": "https://www.youtube.com/shorts/kGgXLTHKl_c",
+     "title": "Claude Code Extension Planted an SSH Backdoor",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-30T23:20:29.420Z"
+  },
+  {
    "first_seen": "2026-10-30T10:49:50.876Z",
    "id": "39507569",
    "ids": [
@@ -657,6 +586,50 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-30T17:11:05.789Z"
+  },
+  {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518234",
+   "ids": [
+    "39518234",
+    "39514646"
+   ],
+   "title": "Haas: Postgres 19 is late, and it's AI's fault",
+   "url": "https://lwn.net/Articles/1104210/",
+   "source_id": "x-lwn-net",
+   "published_ts": "2026-10-30 16:52:59",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Postgres 19 is late, and it's AI's fault",
+     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    }
+   ],
+   "queries": [
+    "Postgres 19",
+    "haas postgres 19 late"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f7ylxIAnGI8",
+     "url": "https://www.youtube.com/shorts/f7ylxIAnGI8",
+     "title": "Why Postgres 19 Was Delayed: AI Code Review Found Too Many Bugs",
+     "channel": "",
+     "views": 838,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T01:39:02.440Z"
   },
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
@@ -765,6 +738,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T00:59:01.479Z"
+  },
+  {
+   "first_seen": "2026-10-30T19:36:03.988Z",
+   "id": "39518198",
+   "ids": [
+    "39518198",
+    "39505363"
+   ],
+   "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-10-30 18:16:10",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Malicious Claude Code Extension Found in Cursor Marketplace",
+     "url": "https://cursor.com/blog/claude-code-extension-security-notice"
+    }
+   ],
+   "queries": [
+    "Malicious Claude Code",
+    "malicious claude code cursor"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rXFCwI31OV8",
+     "url": "https://www.youtube.com/shorts/rXFCwI31OV8",
+     "title": "When Claude Code attacks! 😱",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6-CnVGqvRCQ",
+     "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
+     "title": "This Claude Code update was a backdoor",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IvNCgpadwzo",
+     "url": "https://www.youtube.com/shorts/IvNCgpadwzo",
+     "title": "STOP. Use Claude Code in Cursor? Check this now",
+     "channel": "",
+     "views": 77,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tbcoYZD5ga0",
+     "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
+     "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
+     "channel": "",
+     "views": 75,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z2JdCx75ysI",
+     "url": "https://www.youtube.com/watch?v=Z2JdCx75ysI",
+     "title": "Malicious Claude Code extension in the Cursor marketplace: Coralogix Security Advisory",
+     "channel": "Coralogix",
+     "views": 25,
+     "age_hours": 13,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:h_lZ8p4L864",
+     "url": "https://www.youtube.com/watch?v=h_lZ8p4L864",
+     "title": "Cursor Shut Its Store Over a Tampered Claude Code",
+     "channel": "The Output",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T01:39:09.600Z"
   },
   {
    "first_seen": "2026-10-28T16:39:22.662Z",
