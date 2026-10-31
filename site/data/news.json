@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T14:35:30.275Z",
+ "generated_at": "2026-10-31T16:35:57.314Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: us ollie privacy-focused ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: us ollie privacy-focused ai",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic ipo may miss",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic ipo may miss",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-31T12:26:33.211Z",
@@ -130,7 +147,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-31 03:05:08",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -150,7 +167,7 @@
      "title": "Ollie AI Assistant to Shut Down Next Week",
      "channel": "Newsreel",
      "views": 0,
-     "age_hours": 6,
+     "age_hours": 12,
      "relevance": 0.57,
      "velocity": null
     }
@@ -159,7 +176,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-31T10:20:47.591Z"
+   "searched_at": "2026-10-31T16:36:01.215Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
@@ -173,7 +190,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-31 02:49:11",
    "story_sources": 2,
-   "score_norm": 86,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "hn",
@@ -184,12 +201,25 @@
    "queries": [
     "anthropic ipo may miss"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hV8SHWIwbmc",
+     "url": "https://www.youtube.com/shorts/hV8SHWIwbmc",
+     "title": "What's at stake in the Anthropic IPO?",
+     "channel": "",
+     "views": 3400,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-31T10:20:51.084Z"
+   "searched_at": "2026-10-31T16:36:04.807Z"
   },
   {
    "first_seen": "2026-10-29T18:38:22.042Z",
