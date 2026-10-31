@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T19:49:56.167Z",
+ "generated_at": "2026-10-31T21:49:34.243Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: GPT-5.6 Sol",
-   "ok": true
-  },
-  {
-   "source": "tiktok: GPT-5.6 Sol",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt-5.6 sol factorio can",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-5.6 sol factorio can",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-31T19:49:56.167Z",
@@ -223,62 +206,6 @@
    "searched_at": "2026-10-30T07:14:03.854Z"
   },
   {
-   "first_seen": "2026-10-28T22:49:48.356Z",
-   "id": "39475897",
-   "ids": [
-    "39475897",
-    "39457957"
-   ],
-   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-28 21:46:02",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "crypto-coindesk",
-     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
-    }
-   ],
-   "queries": [
-    "Says It Can’t Access Its BTC",
-    "bitcoin treasury datavault can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JwSZDYB9ID0",
-     "url": "https://www.youtube.com/watch?v=JwSZDYB9ID0",
-     "title": "Datavault AI Can't Withdraw Its Bitcoin? Stock -49.55% in One Day #Shorts",
-     "channel": "Bullion & Bits",
-     "views": 112,
-     "age_hours": 14,
-     "relevance": 0.56,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3GEgONNLSzA",
-     "url": "https://www.youtube.com/shorts/3GEgONNLSzA",
-     "title": "🚨 Datavault Can’t Withdraw Its Bitcoin From Biconomy—What Happened?",
-     "channel": "",
-     "views": 252,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T05:13:49.366Z"
-  },
-  {
    "first_seen": "2026-10-30T17:10:54.382Z",
    "id": "39514995",
    "ids": [
@@ -438,6 +365,36 @@
    "searched_at": "2026-10-30T18:25:08.699Z"
   },
   {
+   "first_seen": "2026-10-31T12:26:33.211Z",
+   "id": "39529856",
+   "ids": [
+    "39529856",
+    "39528461"
+   ],
+   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
+   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-10-31 10:46:16",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
+     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
+    }
+   ],
+   "queries": [
+    "meity depa unveils handbook"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-31T18:36:03.479Z"
+  },
+  {
    "first_seen": "2026-10-30T19:36:03.988Z",
    "id": "39518198",
    "ids": [
@@ -540,36 +497,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-31T07:50:15.154Z"
-  },
-  {
-   "first_seen": "2026-10-31T12:26:33.211Z",
-   "id": "39529856",
-   "ids": [
-    "39529856",
-    "39528461"
-   ],
-   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
-   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-10-31 10:46:16",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
-     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
-    }
-   ],
-   "queries": [
-    "meity depa unveils handbook"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T18:36:03.479Z"
   },
   {
    "first_seen": "2026-10-30T10:49:50.876Z",
@@ -746,6 +673,49 @@
    "searched_at": "2026-10-29T21:37:25.186Z"
   },
   {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524839",
+   "ids": [
+    "39524839",
+    "39521582"
+   ],
+   "title": "US privacy-focused AI startup Ollie to shut down",
+   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 03:05:08",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    }
+   ],
+   "queries": [
+    "us ollie privacy-focused ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xf3TEjzA4Xw",
+     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
+     "title": "Ollie AI Assistant to Shut Down Next Week",
+     "channel": "Newsreel",
+     "views": 0,
+     "age_hours": 12,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T16:36:01.215Z"
+  },
+  {
    "first_seen": "2026-10-29T10:25:09.205Z",
    "id": "39484607",
    "ids": [
@@ -854,49 +824,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T22:37:11.268Z"
-  },
-  {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524839",
-   "ids": [
-    "39524839",
-    "39521582"
-   ],
-   "title": "US privacy-focused AI startup Ollie to shut down",
-   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 03:05:08",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-    }
-   ],
-   "queries": [
-    "us ollie privacy-focused ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xf3TEjzA4Xw",
-     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
-     "title": "Ollie AI Assistant to Shut Down Next Week",
-     "channel": "Newsreel",
-     "views": 0,
-     "age_hours": 12,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T16:36:01.215Z"
   },
   {
    "first_seen": "2026-10-29T17:50:12.523Z",
