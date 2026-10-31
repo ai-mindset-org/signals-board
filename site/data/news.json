@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T14:10:02.768Z",
+ "generated_at": "2026-10-31T14:35:30.275Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Postgres 19",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Postgres 19",
-   "ok": true
-  },
-  {
-   "source": "youtube: haas postgres 19 late",
-   "ok": true
-  },
-  {
-   "source": "tiktok: haas postgres 19 late",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-31T12:26:33.211Z",
@@ -694,50 +677,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-29T00:59:01.479Z"
-  },
-  {
-   "first_seen": "2026-10-28T16:39:22.662Z",
-   "id": "39468281",
-   "ids": [
-    "39468281",
-    "39463152"
-   ],
-   "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-10-28 14:30:25",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "x-reddit",
-     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET)",
-     "url": "https://www.reddit.com/r/OpenAI/comments/1xhm7yp/ama_this_wednesday_stephen_cas_casper_harvard/"
-    }
-   ],
-   "queries": [
-    "Stephen Cas Casper",
-    "ama wednesday stephen casper"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Og_VPf2XQmU",
-     "url": "https://www.youtube.com/watch?v=Og_VPf2XQmU",
-     "title": "AI Governance In 2026: Why Policy Moves Only After Incidents | Stephen Casper (Harvard University)",
-     "channel": "FAR․AI",
-     "views": 1506,
-     "age_hours": 48,
-     "relevance": 0.55,
-     "velocity": 31
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T11:12:17.975Z"
   },
   {
    "first_seen": "2026-10-30T19:36:03.988Z",
