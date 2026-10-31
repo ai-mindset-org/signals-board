@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T01:38:54.462Z",
+ "generated_at": "2026-10-31T02:14:49.822Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Postgres 19",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Postgres 19",
-   "ok": true
-  },
-  {
-   "source": "youtube: haas postgres 19 late",
-   "ok": true
-  },
-  {
-   "source": "tiktok: haas postgres 19 late",
-   "ok": true
-  },
-  {
-   "source": "youtube: Malicious Claude Code",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Malicious Claude Code",
-   "ok": true
-  },
-  {
-   "source": "youtube: malicious claude code cursor",
-   "ok": true
-  },
-  {
-   "source": "tiktok: malicious claude code cursor",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -1517,86 +1484,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-29T21:12:04.190Z"
-  },
-  {
-   "first_seen": "2026-10-28T02:38:08.439Z",
-   "id": "39454904",
-   "ids": [
-    "39454904",
-    "39439578"
-   ],
-   "title": "Major Apple Creator Studio Update Adds More Creative Tools, AI-Powered Features",
-   "url": "https://www.lowyat.net/2026/408585/apple-creator-studio-update/",
-   "source_id": "sea-lowyat",
-   "published_ts": "2026-10-28 02:00:35",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apple Creator Studio adds powerful new AI features and more creative tools",
-     "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/"
-    }
-   ],
-   "queries": [
-    "Major Apple Creator Studio",
-    "major apple creator studio"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:V5xxrYneZDA",
-     "url": "https://www.youtube.com/shorts/V5xxrYneZDA",
-     "title": "Apple just announced a MASSIVE update to Creator Studio!",
-     "channel": "",
-     "views": 7200,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ei5OuQCHYPw",
-     "url": "https://www.youtube.com/shorts/ei5OuQCHYPw",
-     "title": "Apple Creator Studio: New AI Tools Arrive in November",
-     "channel": "",
-     "views": 345,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:abfwc5r0wks",
-     "url": "https://www.youtube.com/shorts/abfwc5r0wks",
-     "title": "Apple Unveils AI‑Powered Creator Studio",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kp1qjj8OSxw",
-     "url": "https://www.youtube.com/shorts/kp1qjj8OSxw",
-     "title": "Apple Creator Studio Gets Major AI Upgrade",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-28T08:38:33.370Z"
   },
   {
    "first_seen": "2026-10-29T05:49:58.490Z",
