@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T09:35:48.096Z",
+ "generated_at": "2026-10-31T10:20:43.810Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: us ollie privacy-focused ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: us ollie privacy-focused ai",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic ipo may miss",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic ipo may miss",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
@@ -32,12 +49,25 @@
    "queries": [
     "us ollie privacy-focused ai"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xf3TEjzA4Xw",
+     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
+     "title": "Ollie AI Assistant to Shut Down Next Week",
+     "channel": "Newsreel",
+     "views": 0,
+     "age_hours": 6,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-31T04:12:41.176Z"
+   "searched_at": "2026-10-31T10:20:47.591Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
@@ -67,7 +97,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-31T04:12:44.803Z"
+   "searched_at": "2026-10-31T10:20:51.084Z"
   },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
