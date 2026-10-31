@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T18:35:59.643Z",
+ "generated_at": "2026-10-31T19:20:11.241Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,47 +7,8 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: meity depa unveils handbook",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meity depa unveils handbook",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
-  {
-   "first_seen": "2026-10-31T12:26:33.211Z",
-   "id": "39529856",
-   "ids": [
-    "39529856",
-    "39528461"
-   ],
-   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
-   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-10-31 10:46:16",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
-     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
-    }
-   ],
-   "queries": [
-    "meity depa unveils handbook"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T18:36:03.479Z"
-  },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
    "id": "39502727",
@@ -128,47 +89,34 @@
    "searched_at": "2026-10-30T16:14:14.099Z"
   },
   {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524839",
+   "first_seen": "2026-10-31T12:26:33.211Z",
+   "id": "39529856",
    "ids": [
-    "39524839",
-    "39521582"
+    "39529856",
+    "39528461"
    ],
-   "title": "US privacy-focused AI startup Ollie to shut down",
-   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 03:05:08",
+   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
+   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-10-31 10:46:16",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 90,
    "related_news": [
     {
-     "source_id": "x-techcrunch",
-     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+     "source_id": "in-businessline",
+     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
+     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
     }
    ],
    "queries": [
-    "us ollie privacy-focused ai"
+    "meity depa unveils handbook"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xf3TEjzA4Xw",
-     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
-     "title": "Ollie AI Assistant to Shut Down Next Week",
-     "channel": "Newsreel",
-     "views": 0,
-     "age_hours": 12,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-31T16:36:01.215Z"
+   "searched_at": "2026-10-31T18:36:03.479Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
@@ -242,6 +190,49 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-30T07:14:03.854Z"
+  },
+  {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524839",
+   "ids": [
+    "39524839",
+    "39521582"
+   ],
+   "title": "US privacy-focused AI startup Ollie to shut down",
+   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 03:05:08",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+    }
+   ],
+   "queries": [
+    "us ollie privacy-focused ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xf3TEjzA4Xw",
+     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
+     "title": "Ollie AI Assistant to Shut Down Next Week",
+     "channel": "Newsreel",
+     "views": 0,
+     "age_hours": 12,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T16:36:01.215Z"
   },
   {
    "first_seen": "2026-10-28T22:49:48.356Z",
@@ -591,114 +582,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-30T17:11:05.789Z"
-  },
-  {
-   "first_seen": "2026-10-28T06:22:04.652Z",
-   "id": "39457132",
-   "ids": [
-    "39457132",
-    "39455646",
-    "39461894",
-    "39462898",
-    "39464885",
-    "39473305"
-   ],
-   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-10-28 19:16:02",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "OpenAI plans to buy rival Google’s AI chips: report",
-     "url": "https://www.techinasia.com/news/openai-plans-buy-rival-googles-ai-chips-report"
-    }
-   ],
-   "queries": [
-    "It Looks Beyond Nvidia",
-    "openai plans buy google"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7uVdPLko6hc",
-     "url": "https://www.youtube.com/watch?v=7uVdPLko6hc",
-     "title": "OpenAI Reportedly Plans To Buy Google's AI Chips Despite Competing With It",
-     "channel": "AIM Network",
-     "views": 1344,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 149
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xGHluQleXpg",
-     "url": "https://www.youtube.com/shorts/xGHluQleXpg",
-     "title": "Google and OpenAI Will Demolish $20-a-Month Plans.",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1GOysQljQI",
-     "url": "https://www.youtube.com/shorts/D1GOysQljQI",
-     "title": "Why Google and OpenAI are about to kill $20 AI plans 🚨",
-     "channel": "",
-     "views": 580,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c7TamNPbnjA",
-     "url": "https://www.youtube.com/shorts/c7TamNPbnjA",
-     "title": "Google and OpenAI could change the game for $20 AI plans. 👀",
-     "channel": "",
-     "views": 457,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:56Y-mBsAyAs",
-     "url": "https://www.youtube.com/shorts/56Y-mBsAyAs",
-     "title": "OpenAI plans to buy AI chips from Google, its rival in AI and search.",
-     "channel": "",
-     "views": 310,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-HZkktctzsc",
-     "url": "https://www.youtube.com/shorts/-HZkktctzsc",
-     "title": "Time to Look Beyond Nvidia?",
-     "channel": "",
-     "views": 188,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T00:59:01.479Z"
   },
   {
    "first_seen": "2026-10-30T19:36:03.988Z",
