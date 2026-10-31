@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T05:20:37.177Z",
+ "generated_at": "2026-10-31T07:50:00.686Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: That Claude Code",
+   "source": "youtube: Postgres 19",
    "ok": true
   },
   {
-   "source": "tiktok: That Claude Code",
+   "source": "tiktok: Postgres 19",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude code extension",
+   "source": "youtube: haas postgres 19 late",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude code extension",
+   "source": "tiktok: haas postgres 19 late",
+   "ok": true
+  },
+  {
+   "source": "youtube: Malicious Claude Code",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Malicious Claude Code",
+   "ok": true
+  },
+  {
+   "source": "youtube: malicious claude code cursor",
+   "ok": true
+  },
+  {
+   "source": "tiktok: malicious claude code cursor",
    "ok": true
   }
  ],
@@ -68,7 +84,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-10-31 02:49:11",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "hn",
@@ -581,7 +597,7 @@
    "source_id": "x-lwn-net",
    "published_ts": "2026-10-30 16:52:59",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "hn",
@@ -593,55 +609,12 @@
     "Postgres 19",
     "haas postgres 19 late"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f7ylxIAnGI8",
-     "url": "https://www.youtube.com/shorts/f7ylxIAnGI8",
-     "title": "Why Postgres 19 Was Delayed: AI Code Review Found Too Many Bugs",
-     "channel": "",
-     "views": 838,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T01:39:02.440Z"
-  },
-  {
-   "first_seen": "2026-10-30T10:49:50.876Z",
-   "id": "39507569",
-   "ids": [
-    "39507569",
-    "39505395"
-   ],
-   "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
-   "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-10-30 07:41:00",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
-     "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "nicht us-regierung anthropic kunde"
-   ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-30T17:11:05.789Z"
+   "searched_at": "2026-10-31T07:50:07.979Z"
   },
   {
    "first_seen": "2026-10-30T19:36:03.988Z",
@@ -655,7 +628,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-10-30 18:16:10",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -687,7 +660,7 @@
      "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
      "title": "This Claude Code update was a backdoor",
      "channel": "",
-     "views": 1100,
+     "views": 1200,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -695,11 +668,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:IvNCgpadwzo",
-     "url": "https://www.youtube.com/shorts/IvNCgpadwzo",
-     "title": "STOP. Use Claude Code in Cursor? Check this now",
+     "id": "youtube:pLFAIRZIuAg",
+     "url": "https://www.youtube.com/shorts/pLFAIRZIuAg",
+     "title": "Fake Claude Code extension hit Cursor users #shorts",
      "channel": "",
-     "views": 77,
+     "views": 502,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -711,7 +684,19 @@
      "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
      "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
      "channel": "",
-     "views": 75,
+     "views": 140,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TecH7OIhKDA",
+     "url": "https://www.youtube.com/shorts/TecH7OIhKDA",
+     "title": "Backdoored Claude Code Hits Cursor",
+     "channel": "",
+     "views": 112,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -723,29 +708,47 @@
      "url": "https://www.youtube.com/watch?v=Z2JdCx75ysI",
      "title": "Malicious Claude Code extension in the Cursor marketplace: Coralogix Security Advisory",
      "channel": "Coralogix",
-     "views": 25,
-     "age_hours": 13,
+     "views": 53,
+     "age_hours": 19,
      "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:h_lZ8p4L864",
-     "url": "https://www.youtube.com/watch?v=h_lZ8p4L864",
-     "title": "Cursor Shut Its Store Over a Tampered Claude Code",
-     "channel": "The Output",
-     "views": 2,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 2
+     "velocity": 3
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-31T01:39:09.600Z"
+   "searched_at": "2026-10-31T07:50:15.154Z"
+  },
+  {
+   "first_seen": "2026-10-30T10:49:50.876Z",
+   "id": "39507569",
+   "ids": [
+    "39507569",
+    "39505395"
+   ],
+   "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
+   "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-10-30 07:41:00",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
+     "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "nicht us-regierung anthropic kunde"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-10-30T17:11:05.789Z"
   },
   {
    "first_seen": "2026-10-28T06:22:04.652Z",
