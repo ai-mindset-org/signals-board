@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T01:23:07.025Z",
+ "generated_at": "2026-11-01T02:16:41.991Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: GPT-5.6 Sol",
+   "ok": true
+  },
+  {
+   "source": "tiktok: GPT-5.6 Sol",
+   "ok": true
+  },
+  {
+   "source": "youtube: gpt-5.6 sol factorio can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gpt-5.6 sol factorio can",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-10-31T19:49:56.167Z",
@@ -41,17 +58,65 @@
      "url": "https://www.youtube.com/watch?v=kLuSDUzKYZs",
      "title": "GPT-5.6 Sol beating Factorio (peaceful) 60x speed timelapse",
      "channel": "AI Plays Factorio",
-     "views": 177,
-     "age_hours": 1,
+     "views": 618,
+     "age_hours": 7,
      "relevance": 0.6,
-     "velocity": 177
+     "velocity": 88
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4-6Se8bxWbc",
+     "url": "https://www.youtube.com/watch?v=4-6Se8bxWbc",
+     "title": "GPT-5.6 Sol 真的跑完 Factorio 送火箭上天！但撐住火箭的不是工廠流程",
+     "channel": "思思主播",
+     "views": 1,
+     "age_hours": 0.9166666666666666,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:G8YonAMLcGM",
+     "url": "https://www.youtube.com/shorts/G8YonAMLcGM",
+     "title": "Can you protect millions of sites without telling everyone? GPT-5.6 Sol answers",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wgqxNDQVMBk",
+     "url": "https://www.youtube.com/shorts/wgqxNDQVMBk",
+     "title": "GPT-5.6 Sol's Factorio rocket run used 250 million tokens, about $52 at API prices, tester… #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AEkRENpO4Ew",
+     "url": "https://www.youtube.com/shorts/AEkRENpO4Ew",
+     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode #shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-10-31T19:50:03.770Z"
+   "searched_at": "2026-11-01T02:16:49.393Z"
   },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -217,7 +282,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-10-31 10:46:16",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "in-businessline",
