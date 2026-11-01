@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T16:21:06.227Z",
+ "generated_at": "2026-11-01T17:08:40.440Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: December Thoughts",
-   "ok": true
-  },
-  {
-   "source": "tiktok: December Thoughts",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai chatgpt codex december",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai chatgpt codex december",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -337,85 +320,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-01T12:15:07.810Z"
-  },
-  {
-   "first_seen": "2026-10-30T03:50:02.451Z",
-   "id": "39502727",
-   "ids": [
-    "39502727",
-    "39493437"
-   ],
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "url": "https://openai.com/index/updated-model-spec",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-29 17:00:00",
-   "story_sources": 2,
-   "score_norm": 94,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "An updated Model Spec for more capable and beneficial AI",
-     "url": "https://openai.com/index/updated-model-spec/"
-    }
-   ],
-   "queries": [
-    "spec updated model capable"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fYb9l7GB6E4",
-     "url": "https://www.youtube.com/shorts/fYb9l7GB6E4",
-     "title": "OpenAI updated the Model Spec: goals, not guarantees #Shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dmVAGWC0tdo",
-     "url": "https://www.youtube.com/shorts/dmVAGWC0tdo",
-     "title": "OpenAI: An updated Model Spec for more capable and beneficial AI",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:E9LxO5zwfQA",
-     "url": "https://www.youtube.com/shorts/E9LxO5zwfQA",
-     "title": "An updated Model Spec for more capable and beneficial AI",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pyb358iFShc",
-     "url": "https://www.youtube.com/shorts/pyb358iFShc",
-     "title": "OpenAI just updated its Model Spec for more capable AI",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T16:14:14.099Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
