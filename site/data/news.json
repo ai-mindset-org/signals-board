@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T02:16:41.991Z",
+ "generated_at": "2026-11-01T02:35:47.064Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,114 +9,126 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT-5.6 Sol",
+   "source": "youtube: How We Took Over ChatGPT Accounts",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-5.6 Sol",
+   "source": "tiktok: How We Took Over ChatGPT Accounts",
    "ok": true
   },
   {
-   "source": "youtube: gpt-5.6 sol factorio can",
+   "source": "youtube: we took chatgpt accounts",
    "ok": true
   },
   {
-   "source": "tiktok: gpt-5.6 sol factorio can",
+   "source": "tiktok: we took chatgpt accounts",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-10-31T19:49:56.167Z",
-   "id": "39535779",
+   "first_seen": "2026-11-01T02:35:47.064Z",
+   "id": "39539686",
    "ids": [
-    "39535779",
-    "39535123"
+    "39539686",
+    "39528800"
    ],
-   "title": "GPT-5.6 Sol can beat Factorio",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xkhxwr/gpt56_sol_can_beat_factorio/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-31 18:41:23",
+   "title": "How We Took Over ChatGPT Accounts",
+   "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+   "source_id": "simonw",
+   "published_ts": "2026-10-31 23:15:22",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-     "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+     "title": "We Took over ChatGPT Accounts",
+     "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai"
     }
    ],
    "queries": [
-    "GPT-5.6 Sol",
-    "gpt-5.6 sol factorio can"
+    "How We Took Over ChatGPT Accounts",
+    "we took chatgpt accounts"
    ],
    "videos": [
     {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:kLuSDUzKYZs",
-     "url": "https://www.youtube.com/watch?v=kLuSDUzKYZs",
-     "title": "GPT-5.6 Sol beating Factorio (peaceful) 60x speed timelapse",
-     "channel": "AI Plays Factorio",
-     "views": 618,
-     "age_hours": 7,
-     "relevance": 0.6,
-     "velocity": 88
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4-6Se8bxWbc",
-     "url": "https://www.youtube.com/watch?v=4-6Se8bxWbc",
-     "title": "GPT-5.6 Sol 真的跑完 Factorio 送火箭上天！但撐住火箭的不是工廠流程",
-     "channel": "思思主播",
-     "views": 1,
-     "age_hours": 0.9166666666666666,
-     "relevance": 0.6,
-     "velocity": 1
+     "platform": "tiktok",
+     "kind": "с борда",
+     "id": "tiktok:7702273630838869278",
+     "url": "https://www.tiktok.com/@nate.b.jones/video/7702273630838869278",
+     "title": "PSA: I give safety tips for crypto accounts here as well as what we know now about the biggest crypto hack in history #ai #crypto #learn #learnontikok #new ",
+     "channel": "@nate.b.jones",
+     "views": 74100,
+     "age_hours": 48.67451583333333,
+     "relevance": 0.5,
+     "velocity": 1522
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:G8YonAMLcGM",
-     "url": "https://www.youtube.com/shorts/G8YonAMLcGM",
-     "title": "Can you protect millions of sites without telling everyone? GPT-5.6 Sol answers",
+     "id": "youtube:CsPSB7rrxHA",
+     "url": "https://www.youtube.com/shorts/CsPSB7rrxHA",
+     "title": "ChatGPT took it personal!! 😭✨ ||#foryou #fypシ゚viral #fypシ #100kviews #subscribe #subscribemychannel",
+     "channel": "",
+     "views": 947,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0X7Oq0Zfxhw",
+     "url": "https://www.youtube.com/shorts/0X7Oq0Zfxhw",
+     "title": "ChatGPT Can Now Read Your Bank Accounts. Check This First",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AGkqfRzVIBw",
+     "url": "https://www.youtube.com/shorts/AGkqfRzVIBw",
+     "title": "Two ChatGPT Accounts on One Phone? No More Logging Out #Shorts",
      "channel": "",
      "views": 6,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:wgqxNDQVMBk",
-     "url": "https://www.youtube.com/shorts/wgqxNDQVMBk",
-     "title": "GPT-5.6 Sol's Factorio rocket run used 250 million tokens, about $52 at API prices, tester… #Shorts",
+     "id": "youtube:nQD1awD50rU",
+     "url": "https://www.youtube.com/shorts/nQD1awD50rU",
+     "title": "Researchers Just Took Over ChatGPT Accounts With One Link",
      "channel": "",
-     "views": 4,
+     "views": 2,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.75,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:AEkRENpO4Ew",
-     "url": "https://www.youtube.com/shorts/AEkRENpO4Ew",
-     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode #shorts",
+     "id": "youtube:K1EbERudocM",
+     "url": "https://www.youtube.com/shorts/K1EbERudocM",
+     "title": "How Hackers Took Over ChatGPT Accounts in 48 Hours",
      "channel": "",
-     "views": 1,
+     "views": 0,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.75,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-01T02:16:49.393Z"
+   "searched_at": "2026-11-01T02:35:55.257Z"
   },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
@@ -269,36 +281,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-30T07:14:03.854Z"
-  },
-  {
-   "first_seen": "2026-10-31T12:26:33.211Z",
-   "id": "39529856",
-   "ids": [
-    "39529856",
-    "39528461"
-   ],
-   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
-   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-10-31 10:46:16",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
-     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
-    }
-   ],
-   "queries": [
-    "meity depa unveils handbook"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-01T00:56:56.630Z"
   },
   {
    "first_seen": "2026-10-30T17:10:54.382Z",
@@ -592,6 +574,98 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-30T17:11:05.789Z"
+  },
+  {
+   "first_seen": "2026-10-31T19:49:56.167Z",
+   "id": "39535779",
+   "ids": [
+    "39535779",
+    "39535123"
+   ],
+   "title": "GPT-5.6 Sol can beat Factorio",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xkhxwr/gpt56_sol_can_beat_factorio/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-31 18:41:23",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+     "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+    }
+   ],
+   "queries": [
+    "GPT-5.6 Sol",
+    "gpt-5.6 sol factorio can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:kLuSDUzKYZs",
+     "url": "https://www.youtube.com/watch?v=kLuSDUzKYZs",
+     "title": "GPT-5.6 Sol beating Factorio (peaceful) 60x speed timelapse",
+     "channel": "AI Plays Factorio",
+     "views": 618,
+     "age_hours": 7,
+     "relevance": 0.6,
+     "velocity": 88
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4-6Se8bxWbc",
+     "url": "https://www.youtube.com/watch?v=4-6Se8bxWbc",
+     "title": "GPT-5.6 Sol 真的跑完 Factorio 送火箭上天！但撐住火箭的不是工廠流程",
+     "channel": "思思主播",
+     "views": 1,
+     "age_hours": 0.9166666666666666,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:G8YonAMLcGM",
+     "url": "https://www.youtube.com/shorts/G8YonAMLcGM",
+     "title": "Can you protect millions of sites without telling everyone? GPT-5.6 Sol answers",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wgqxNDQVMBk",
+     "url": "https://www.youtube.com/shorts/wgqxNDQVMBk",
+     "title": "GPT-5.6 Sol's Factorio rocket run used 250 million tokens, about $52 at API prices, tester… #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AEkRENpO4Ew",
+     "url": "https://www.youtube.com/shorts/AEkRENpO4Ew",
+     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode #shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-01T02:16:49.393Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
@@ -1118,6 +1192,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-29T21:12:04.190Z"
+  },
+  {
+   "first_seen": "2026-10-31T12:26:33.211Z",
+   "id": "39529856",
+   "ids": [
+    "39529856",
+    "39528461"
+   ],
+   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
+   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-10-31 10:46:16",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
+     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
+    }
+   ],
+   "queries": [
+    "meity depa unveils handbook"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-01T00:56:56.630Z"
   }
  ]
 }
