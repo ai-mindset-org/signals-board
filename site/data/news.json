@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T08:36:00.481Z",
+ "generated_at": "2026-11-01T09:11:57.782Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: How We Took Over ChatGPT Accounts",
-   "ok": true
-  },
-  {
-   "source": "tiktok: How We Took Over ChatGPT Accounts",
-   "ok": true
-  },
-  {
-   "source": "youtube: we took chatgpt accounts",
-   "ok": true
-  },
-  {
-   "source": "tiktok: we took chatgpt accounts",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-01T02:35:47.064Z",
@@ -221,7 +204,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-01 03:33:13",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "hn",
@@ -331,36 +314,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-31T16:36:04.807Z"
-  },
-  {
-   "first_seen": "2026-10-29T18:38:22.042Z",
-   "id": "39494412",
-   "ids": [
-    "39494412",
-    "39492613"
-   ],
-   "title": "How we detect frontier model misalignment",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "source_id": "openai-blog",
-   "published_ts": "2026-10-29 09:00:00",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "We detect frontier model misalignment",
-     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment/"
-    }
-   ],
-   "queries": [
-    "we detect frontier model"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-30T07:14:03.854Z"
   },
   {
    "first_seen": "2026-10-30T17:10:54.382Z",
@@ -820,116 +773,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-31T14:10:10.365Z"
-  },
-  {
-   "first_seen": "2026-10-29T10:25:09.205Z",
-   "id": "39484607",
-   "ids": [
-    "39484607",
-    "39480199",
-    "39485884"
-   ],
-   "title": "DeepSeek and Moonshot trained new models on GPT-6 Astra, report says",
-   "url": "https://thenextweb.com/news/deepseek-moonshot-gpt-6-astra-distillation",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-10-29 08:56:47",
-   "story_sources": 3,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models: Report",
-     "url": "https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece"
-    },
-    {
-     "source_id": "in-express-tech",
-     "title": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/"
-    }
-   ],
-   "queries": [
-    "GPT-6 Astra",
-    "deepseek moonshot gpt-6 astra"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wTkywZlcPzU",
-     "url": "https://www.youtube.com/shorts/wTkywZlcPzU",
-     "title": "DeepSeek and Moonshot reportedly trained their newest AI on answers from OpenAI's GPT-6 Astra.",
-     "channel": "",
-     "views": 984,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qYVPav_S0kc",
-     "url": "https://www.youtube.com/shorts/qYVPav_S0kc",
-     "title": "GPT-6 Astra 6.mp4",
-     "channel": "",
-     "views": 272,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:n54GuSucTCg",
-     "url": "https://www.youtube.com/watch?v=n54GuSucTCg",
-     "title": "Did DeepSeek and Moonshot Learn From GPT-6 Astra? The Distillation Report, Explained",
-     "channel": "AI Unfiltered with Thorsten Meyer",
-     "views": 12,
-     "age_hours": 5,
-     "relevance": 0.71,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:g97mGRUllw0",
-     "url": "https://www.youtube.com/shorts/g97mGRUllw0",
-     "title": "🚨 DeepSeek and Moonshot Used GPT-6 Astra to Train Latest Models #AINews",
-     "channel": "",
-     "views": 21,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pMAxkCkkqVQ",
-     "url": "https://www.youtube.com/shorts/pMAxkCkkqVQ",
-     "title": "OpenAI Astra used to train DeepSeek and Moonshot AI models #shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kZNyKMOFfAw",
-     "url": "https://www.youtube.com/shorts/kZNyKMOFfAw",
-     "title": "Report DeepSeek and Moonshot AI Distilled OpenAI GPT-6 Astra to Train Latest Models.",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-29T22:37:11.268Z"
   },
   {
    "first_seen": "2026-10-29T17:50:12.523Z",
