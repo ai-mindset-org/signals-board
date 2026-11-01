@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T09:11:57.782Z",
+ "generated_at": "2026-11-01T10:20:26.128Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: December Thoughts",
+   "ok": true
+  },
+  {
+   "source": "tiktok: December Thoughts",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai chatgpt codex december",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai chatgpt codex december",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-01T02:35:47.064Z",
@@ -219,12 +236,24 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Gx-P6B1JhdE",
+     "url": "https://www.youtube.com/watch?v=Gx-P6B1JhdE",
+     "title": "OpenAI: ChatGPT and Codex to Share Usage Quotas Starting in December [AI Morning News 11/01/2026]",
+     "channel": "橘鸦Juya",
+     "views": 1079,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 120
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:cmjN_y2sBCU",
      "url": "https://www.youtube.com/shorts/cmjN_y2sBCU",
      "title": "ChatGPT is combining Codex and chat usage limits in December.",
      "channel": "",
-     "views": 945,
+     "views": 967,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
@@ -236,21 +265,9 @@
      "url": "https://www.youtube.com/shorts/DGp0R7uwzH4",
      "title": "ChatGPT and Codex Will Share Your Usage Limit",
      "channel": "",
-     "views": 11,
+     "views": 40,
      "age_hours": null,
      "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NNd72b29NRY",
-     "url": "https://www.youtube.com/shorts/NNd72b29NRY",
-     "title": "ChatGPT and Codex Will Share One Usage Limit in December",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -260,7 +277,31 @@
      "url": "https://www.youtube.com/shorts/vv4WagOoIPI",
      "title": "ChatGPT and Codex Will Share One Usage Limit in December",
      "channel": "",
-     "views": 0,
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:t8z4kCY2bDs",
+     "url": "https://www.youtube.com/shorts/t8z4kCY2bDs",
+     "title": "OpenAI merges ChatGPT and Codex usage limits starting in December",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NNd72b29NRY",
+     "url": "https://www.youtube.com/shorts/NNd72b29NRY",
+     "title": "ChatGPT and Codex Will Share One Usage Limit in December",
+     "channel": "",
+     "views": 12,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -270,7 +311,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-01T04:13:00.354Z"
+   "searched_at": "2026-11-01T10:20:33.547Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
