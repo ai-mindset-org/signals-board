@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T12:15:00.133Z",
+ "generated_at": "2026-11-01T14:10:06.729Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: DeepSeek Open-Sources",
-   "ok": true
-  },
-  {
-   "source": "tiktok: DeepSeek Open-Sources",
-   "ok": true
-  },
-  {
-   "source": "youtube: deepseek open-sources router-worker coding",
-   "ok": true
-  },
-  {
-   "source": "tiktok: deepseek open-sources router-worker coding",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -918,109 +901,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-10-31T14:10:10.365Z"
-  },
-  {
-   "first_seen": "2026-10-29T17:50:12.523Z",
-   "id": "39493258",
-   "ids": [
-    "39493258",
-    "39487167"
-   ],
-   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-10-29 14:00:00",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Mistral releases open weights for its 1 trillion-parameter Large 4 model",
-     "url": "https://thenextweb.com/news/mistral-large-4-open-weights-release"
-    }
-   ],
-   "queries": [
-    "mistral releases weights trillion-parameter"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Frbt_8mqH68",
-     "url": "https://www.youtube.com/shorts/Frbt_8mqH68",
-     "title": "Mistral releases trillion-parameter open AI model | codemago.dev/news",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_jcvbQX4hCY",
-     "url": "https://www.youtube.com/shorts/_jcvbQX4hCY",
-     "title": "Mistral releases weights for trillion-parameter Mistral Large 4 AI",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RDEcI-1dFzQ",
-     "url": "https://www.youtube.com/shorts/RDEcI-1dFzQ",
-     "title": "Mistral's Trillion-Parameter AI Is Now Free to Download #Shorts",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6epIJ9N7dYs",
-     "url": "https://www.youtube.com/shorts/6epIJ9N7dYs",
-     "title": "Mistral Releases Open Weights for 1T Parameter Le Chonk Model",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IknZoW7lVI4",
-     "url": "https://www.youtube.com/shorts/IknZoW7lVI4",
-     "title": "Mistral Large 4 Open Weights Just Dropped: FREE 1T AI Model (2026) #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f2B4XRpq4QU",
-     "url": "https://www.youtube.com/shorts/f2B4XRpq4QU",
-     "title": "Mistral releases trillion-parameter AI weights 🛡️",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T06:44:48.570Z"
   },
   {
    "first_seen": "2026-10-29T15:13:04.801Z",
