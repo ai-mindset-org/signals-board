@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T08:24:30.160Z",
+ "generated_at": "2026-11-01T08:36:00.481Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT-5.6 Sol",
+   "source": "youtube: How We Took Over ChatGPT Accounts",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-5.6 Sol",
+   "source": "tiktok: How We Took Over ChatGPT Accounts",
    "ok": true
   },
   {
-   "source": "youtube: gpt-5.6 sol factorio can",
+   "source": "youtube: we took chatgpt accounts",
    "ok": true
   },
   {
-   "source": "tiktok: gpt-5.6 sol factorio can",
+   "source": "tiktok: we took chatgpt accounts",
    "ok": true
   }
  ],
@@ -58,19 +58,19 @@
      "url": "https://www.tiktok.com/@nate.b.jones/video/7702273630838869278",
      "title": "PSA: I give safety tips for crypto accounts here as well as what we know now about the biggest crypto hack in history #ai #crypto #learn #learnontikok #new ",
      "channel": "@nate.b.jones",
-     "views": 74100,
-     "age_hours": 48.67451583333333,
+     "views": 76400,
+     "age_hours": 54.678024722222226,
      "relevance": 0.5,
-     "velocity": 1522
+     "velocity": 1397
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:CsPSB7rrxHA",
-     "url": "https://www.youtube.com/shorts/CsPSB7rrxHA",
-     "title": "ChatGPT took it personal!! 😭✨ ||#foryou #fypシ゚viral #fypシ #100kviews #subscribe #subscribemychannel",
+     "id": "youtube:AGkqfRzVIBw",
+     "url": "https://www.youtube.com/shorts/AGkqfRzVIBw",
+     "title": "Two ChatGPT Accounts on One Phone? No More Logging Out #Shorts",
      "channel": "",
-     "views": 947,
+     "views": 15,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -82,19 +82,7 @@
      "url": "https://www.youtube.com/shorts/0X7Oq0Zfxhw",
      "title": "ChatGPT Can Now Read Your Bank Accounts. Check This First",
      "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AGkqfRzVIBw",
-     "url": "https://www.youtube.com/shorts/AGkqfRzVIBw",
-     "title": "Two ChatGPT Accounts on One Phone? No More Logging Out #Shorts",
-     "channel": "",
-     "views": 6,
+     "views": 8,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -106,7 +94,7 @@
      "url": "https://www.youtube.com/shorts/nQD1awD50rU",
      "title": "Researchers Just Took Over ChatGPT Accounts With One Link",
      "channel": "",
-     "views": 2,
+     "views": 4,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -114,13 +102,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:K1EbERudocM",
-     "url": "https://www.youtube.com/shorts/K1EbERudocM",
-     "title": "How Hackers Took Over ChatGPT Accounts in 48 Hours",
+     "id": "youtube:AYIrUZyp2p4",
+     "url": "https://www.youtube.com/shorts/AYIrUZyp2p4",
+     "title": "Researchers took over ChatGPT accounts through a math-based flaw | AI Daily, 1 November 2026",
      "channel": "",
-     "views": 0,
+     "views": 4,
      "age_hours": null,
      "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:oK9PhLQUfZs",
+     "url": "https://www.youtube.com/shorts/oK9PhLQUfZs",
+     "title": "ChatGPT now lets you use 2 accounts at once. The catch? #Shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -128,7 +128,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-01T02:35:55.257Z"
+   "searched_at": "2026-11-01T08:36:07.890Z"
   },
   {
    "first_seen": "2026-10-30T03:50:02.451Z",
