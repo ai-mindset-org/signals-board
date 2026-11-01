@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T10:20:26.128Z",
+ "generated_at": "2026-11-01T12:15:00.133Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,127 @@
  },
  "search_report": [
   {
-   "source": "youtube: December Thoughts",
+   "source": "youtube: DeepSeek Open-Sources",
    "ok": true
   },
   {
-   "source": "tiktok: December Thoughts",
+   "source": "tiktok: DeepSeek Open-Sources",
    "ok": true
   },
   {
-   "source": "youtube: openai chatgpt codex december",
+   "source": "youtube: deepseek open-sources router-worker coding",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt codex december",
+   "source": "tiktok: deepseek open-sources router-worker coding",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-01T04:12:52.848Z",
+   "id": "39540635",
+   "ids": [
+    "39540635",
+    "39537235"
+   ],
+   "title": "OpenAI is merging ChatGPT and Codex usage limits starting December. Thoughts?",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xkt2n0/openai_is_merging_chatgpt_and_codex_usage_limits/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-01 03:33:13",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "ChatGPT and Codex usage limits merging",
+     "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
+    }
+   ],
+   "queries": [
+    "December Thoughts",
+    "openai chatgpt codex december"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Gx-P6B1JhdE",
+     "url": "https://www.youtube.com/watch?v=Gx-P6B1JhdE",
+     "title": "OpenAI: ChatGPT and Codex to Share Usage Quotas Starting in December [AI Morning News 11/01/2026]",
+     "channel": "橘鸦Juya",
+     "views": 1079,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 120
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cmjN_y2sBCU",
+     "url": "https://www.youtube.com/shorts/cmjN_y2sBCU",
+     "title": "ChatGPT is combining Codex and chat usage limits in December.",
+     "channel": "",
+     "views": 967,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:DGp0R7uwzH4",
+     "url": "https://www.youtube.com/shorts/DGp0R7uwzH4",
+     "title": "ChatGPT and Codex Will Share Your Usage Limit",
+     "channel": "",
+     "views": 40,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vv4WagOoIPI",
+     "url": "https://www.youtube.com/shorts/vv4WagOoIPI",
+     "title": "ChatGPT and Codex Will Share One Usage Limit in December",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:t8z4kCY2bDs",
+     "url": "https://www.youtube.com/shorts/t8z4kCY2bDs",
+     "title": "OpenAI merges ChatGPT and Codex usage limits starting in December",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NNd72b29NRY",
+     "url": "https://www.youtube.com/shorts/NNd72b29NRY",
+     "title": "ChatGPT and Codex Will Share One Usage Limit in December",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-01T10:20:33.547Z"
+  },
   {
    "first_seen": "2026-11-01T02:35:47.064Z",
    "id": "39539686",
@@ -131,6 +235,110 @@
    "searched_at": "2026-11-01T08:36:07.890Z"
   },
   {
+   "first_seen": "2026-11-01T12:15:00.133Z",
+   "id": "39545138",
+   "ids": [
+    "39545138",
+    "39530670"
+   ],
+   "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+   "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+   "source_id": "in-marktechpost",
+   "published_ts": "2026-11-01 07:47:17",
+   "story_sources": 2,
+   "score_norm": 97,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "DeepSeek open-sources dsh-superagent, a coding agent largely built by agents",
+     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    }
+   ],
+   "queries": [
+    "DeepSeek Open-Sources",
+    "deepseek open-sources router-worker coding"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7oCRudZRlYk",
+     "url": "https://www.youtube.com/shorts/7oCRudZRlYk",
+     "title": "DeepSeek dsh-superagent: Open-Source Coding Agent Prototype",
+     "channel": "",
+     "views": 96,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Y_FCcIKfekM",
+     "url": "https://www.youtube.com/shorts/Y_FCcIKfekM",
+     "title": "DeepSeek's dsh-superagent: 2,000 Stars in 12 Hours for Parallel Coding Agents",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1q0qms7NMo4",
+     "url": "https://www.youtube.com/shorts/1q0qms7NMo4",
+     "title": "DeepSeek's dsh-superagent: Reference-Only Coding Agent, MIT License",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_HgSao6gCps",
+     "url": "https://www.youtube.com/shorts/_HgSao6gCps",
+     "title": "DeepSeek open-sources a coding agent that picks GitHub tasks itself",
+     "channel": "",
+     "views": 14,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cVTwJv7x3_c",
+     "url": "https://www.youtube.com/shorts/cVTwJv7x3_c",
+     "title": "DeepSeek shares dsh-superagent, a prototype coding agent on GitHub",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bvMbQyDSYQE",
+     "url": "https://www.youtube.com/shorts/bvMbQyDSYQE",
+     "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-01T12:15:07.810Z"
+  },
+  {
    "first_seen": "2026-10-30T03:50:02.451Z",
    "id": "39502727",
    "ids": [
@@ -210,110 +418,6 @@
    "searched_at": "2026-10-30T16:14:14.099Z"
   },
   {
-   "first_seen": "2026-11-01T04:12:52.848Z",
-   "id": "39540635",
-   "ids": [
-    "39540635",
-    "39537235"
-   ],
-   "title": "OpenAI is merging ChatGPT and Codex usage limits starting December. Thoughts?",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xkt2n0/openai_is_merging_chatgpt_and_codex_usage_limits/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-01 03:33:13",
-   "story_sources": 2,
-   "score_norm": 91,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "ChatGPT and Codex usage limits merging",
-     "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
-    }
-   ],
-   "queries": [
-    "December Thoughts",
-    "openai chatgpt codex december"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Gx-P6B1JhdE",
-     "url": "https://www.youtube.com/watch?v=Gx-P6B1JhdE",
-     "title": "OpenAI: ChatGPT and Codex to Share Usage Quotas Starting in December [AI Morning News 11/01/2026]",
-     "channel": "橘鸦Juya",
-     "views": 1079,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 120
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cmjN_y2sBCU",
-     "url": "https://www.youtube.com/shorts/cmjN_y2sBCU",
-     "title": "ChatGPT is combining Codex and chat usage limits in December.",
-     "channel": "",
-     "views": 967,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:DGp0R7uwzH4",
-     "url": "https://www.youtube.com/shorts/DGp0R7uwzH4",
-     "title": "ChatGPT and Codex Will Share Your Usage Limit",
-     "channel": "",
-     "views": 40,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vv4WagOoIPI",
-     "url": "https://www.youtube.com/shorts/vv4WagOoIPI",
-     "title": "ChatGPT and Codex Will Share One Usage Limit in December",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:t8z4kCY2bDs",
-     "url": "https://www.youtube.com/shorts/t8z4kCY2bDs",
-     "title": "OpenAI merges ChatGPT and Codex usage limits starting in December",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NNd72b29NRY",
-     "url": "https://www.youtube.com/shorts/NNd72b29NRY",
-     "title": "ChatGPT and Codex Will Share One Usage Limit in December",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-01T10:20:33.547Z"
-  },
-  {
    "first_seen": "2026-10-31T04:12:36.356Z",
    "id": "39524841",
    "ids": [
@@ -355,6 +459,98 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-31T16:36:04.807Z"
+  },
+  {
+   "first_seen": "2026-10-31T19:49:56.167Z",
+   "id": "39535779",
+   "ids": [
+    "39535779",
+    "39535123"
+   ],
+   "title": "GPT-5.6 Sol can beat Factorio",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xkhxwr/gpt56_sol_can_beat_factorio/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-10-31 18:41:23",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+     "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
+    }
+   ],
+   "queries": [
+    "GPT-5.6 Sol",
+    "gpt-5.6 sol factorio can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:kLuSDUzKYZs",
+     "url": "https://www.youtube.com/watch?v=kLuSDUzKYZs",
+     "title": "GPT-5.6 Sol beating Factorio (peaceful) 60x speed timelapse",
+     "channel": "AI Plays Factorio",
+     "views": 813,
+     "age_hours": 13,
+     "relevance": 0.6,
+     "velocity": 63
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4-6Se8bxWbc",
+     "url": "https://www.youtube.com/watch?v=4-6Se8bxWbc",
+     "title": "GPT-5.6 Sol 真的跑完 Factorio 送火箭上天！但撐住火箭的不是工廠流程",
+     "channel": "思思主播",
+     "views": 19,
+     "age_hours": 7,
+     "relevance": 0.6,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wgqxNDQVMBk",
+     "url": "https://www.youtube.com/shorts/wgqxNDQVMBk",
+     "title": "GPT-5.6 Sol's Factorio rocket run used 250 million tokens, about $52 at API prices, tester… #Shorts",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:G8YonAMLcGM",
+     "url": "https://www.youtube.com/shorts/G8YonAMLcGM",
+     "title": "Can you protect millions of sites without telling everyone? GPT-5.6 Sol answers",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AEkRENpO4Ew",
+     "url": "https://www.youtube.com/shorts/AEkRENpO4Ew",
+     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode #shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-01T08:24:37.575Z"
   },
   {
    "first_seen": "2026-10-30T17:10:54.382Z",
@@ -618,98 +814,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-31T07:50:15.154Z"
-  },
-  {
-   "first_seen": "2026-10-31T19:49:56.167Z",
-   "id": "39535779",
-   "ids": [
-    "39535779",
-    "39535123"
-   ],
-   "title": "GPT-5.6 Sol can beat Factorio",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xkhxwr/gpt56_sol_can_beat_factorio/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-31 18:41:23",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-     "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
-    }
-   ],
-   "queries": [
-    "GPT-5.6 Sol",
-    "gpt-5.6 sol factorio can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:kLuSDUzKYZs",
-     "url": "https://www.youtube.com/watch?v=kLuSDUzKYZs",
-     "title": "GPT-5.6 Sol beating Factorio (peaceful) 60x speed timelapse",
-     "channel": "AI Plays Factorio",
-     "views": 813,
-     "age_hours": 13,
-     "relevance": 0.6,
-     "velocity": 63
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4-6Se8bxWbc",
-     "url": "https://www.youtube.com/watch?v=4-6Se8bxWbc",
-     "title": "GPT-5.6 Sol 真的跑完 Factorio 送火箭上天！但撐住火箭的不是工廠流程",
-     "channel": "思思主播",
-     "views": 19,
-     "age_hours": 7,
-     "relevance": 0.6,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wgqxNDQVMBk",
-     "url": "https://www.youtube.com/shorts/wgqxNDQVMBk",
-     "title": "GPT-5.6 Sol's Factorio rocket run used 250 million tokens, about $52 at API prices, tester… #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:G8YonAMLcGM",
-     "url": "https://www.youtube.com/shorts/G8YonAMLcGM",
-     "title": "Can you protect millions of sites without telling everyone? GPT-5.6 Sol answers",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AEkRENpO4Ew",
-     "url": "https://www.youtube.com/shorts/AEkRENpO4Ew",
-     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode #shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-01T08:24:37.575Z"
   },
   {
    "first_seen": "2026-10-30T10:49:50.876Z",
