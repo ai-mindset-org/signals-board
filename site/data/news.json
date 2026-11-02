@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:10:54.963Z",
+ "generated_at": "2026-11-02T18:26:26.023Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: ki-agenten zivilisation minecraft bürokratie",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ki-agenten zivilisation minecraft bürokratie",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -468,7 +477,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-02 01:05:33",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "reddit-localllama",
@@ -515,7 +524,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-02T12:18:01.553Z"
+   "searched_at": "2026-11-02T18:26:29.918Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
@@ -619,110 +628,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-02T10:22:55.524Z"
-  },
-  {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518198",
-   "ids": [
-    "39518198",
-    "39505363"
-   ],
-   "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
-   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-10-30 18:16:10",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Malicious Claude Code Extension Found in Cursor Marketplace",
-     "url": "https://cursor.com/blog/claude-code-extension-security-notice"
-    }
-   ],
-   "queries": [
-    "Malicious Claude Code",
-    "malicious claude code cursor"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rXFCwI31OV8",
-     "url": "https://www.youtube.com/shorts/rXFCwI31OV8",
-     "title": "When Claude Code attacks! 😱",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6-CnVGqvRCQ",
-     "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
-     "title": "This Claude Code update was a backdoor",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pLFAIRZIuAg",
-     "url": "https://www.youtube.com/shorts/pLFAIRZIuAg",
-     "title": "Fake Claude Code extension hit Cursor users #shorts",
-     "channel": "",
-     "views": 502,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tbcoYZD5ga0",
-     "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
-     "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
-     "channel": "",
-     "views": 140,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TecH7OIhKDA",
-     "url": "https://www.youtube.com/shorts/TecH7OIhKDA",
-     "title": "Backdoored Claude Code Hits Cursor",
-     "channel": "",
-     "views": 112,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z2JdCx75ysI",
-     "url": "https://www.youtube.com/watch?v=Z2JdCx75ysI",
-     "title": "Malicious Claude Code extension in the Cursor marketplace: Coralogix Security Advisory",
-     "channel": "Coralogix",
-     "views": 53,
-     "age_hours": 19,
-     "relevance": 0.67,
-     "velocity": 3
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T07:50:15.154Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
