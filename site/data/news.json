@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T17:08:40.440Z",
+ "generated_at": "2026-11-02T07:50:10.398Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,56 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Nemotron Bolt 74B",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Nemotron Bolt 74B",
+   "ok": true
+  },
+  {
+   "source": "youtube: benchmarking qwen 27b 35b",
+   "ok": true
+  },
+  {
+   "source": "tiktok: benchmarking qwen 27b 35b",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-11-02T07:50:10.398Z",
+   "id": "39558547",
+   "ids": [
+    "39558547",
+    "39553477"
+   ],
+   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-02 01:05:33",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/"
+    }
+   ],
+   "queries": [
+    "Nemotron Bolt 74B",
+    "benchmarking qwen 27b 35b"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-02T07:50:17.724Z"
+  },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
    "id": "39540635",
@@ -718,36 +766,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-31T07:50:15.154Z"
-  },
-  {
-   "first_seen": "2026-10-30T10:49:50.876Z",
-   "id": "39507569",
-   "ids": [
-    "39507569",
-    "39505395"
-   ],
-   "title": "Nicht mehr die US-Regierung: Anthropic jetzt größter Kunde von SpaceX",
-   "url": "https://www.heise.de/news/Nicht-mehr-die-US-Regierung-Anthropic-jetzt-groesster-Kunde-von-SpaceX-11505625.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-10-30 07:41:00",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Größter Kunde von SpaceX ist nicht mehr die US-Regierung, sondern eine KI-Firma",
-     "url": "https://t3n.de/news/groesster-kunde-von-spacex-ist-nicht-mehr-die-us-regierung-sondern-eine-ki-firma-1770765/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "nicht us-regierung anthropic kunde"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-30T17:11:05.789Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
