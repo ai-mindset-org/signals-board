@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T19:09:20.461Z",
+ "generated_at": "2026-11-02T20:10:48.286Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai chatgpt merge chat",
+   "source": "youtube: anthropic ipo 17bn 895bn",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt merge chat",
+   "source": "tiktok: anthropic ipo 17bn 895bn",
    "ok": true
   }
  ],
@@ -477,6 +477,36 @@
    "searched_at": "2026-10-31T16:36:04.807Z"
   },
   {
+   "first_seen": "2026-11-02T20:10:48.286Z",
+   "id": "39569650",
+   "ids": [
+    "39569650",
+    "39572252"
+   ],
+   "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
+   "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-02 16:58:14",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic's Amended IPO Filing Shows $895B in Compute Commitments",
+     "url": "https://epyhia.com/anthropic-s-amended-ipo-filing-shows-17-billion-q3-revenue-and-895"
+    }
+   ],
+   "queries": [
+    "anthropic ipo 17bn 895bn"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-02T20:10:52.694Z"
+  },
+  {
    "first_seen": "2026-10-31T19:49:56.167Z",
    "id": "39535779",
    "ids": [
@@ -611,7 +641,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-11-02 11:54:00",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "eu-t3n",
