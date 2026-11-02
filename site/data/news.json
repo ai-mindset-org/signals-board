@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T20:21:06.120Z",
+ "generated_at": "2026-11-02T21:10:46.298Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Nemotron Bolt 74B",
+   "source": "youtube: towards llms understanding score-seeking",
    "ok": true
   },
   {
-   "source": "tiktok: Nemotron Bolt 74B",
-   "ok": true
-  },
-  {
-   "source": "youtube: benchmarking qwen 27b 35b",
-   "ok": true
-  },
-  {
-   "source": "tiktok: benchmarking qwen 27b 35b",
+   "source": "tiktok: towards llms understanding score-seeking",
    "ok": true
   }
  ],
@@ -350,7 +342,7 @@
    "source_id": "zdnet-ai",
    "published_ts": "2026-11-02 18:01:55",
    "story_sources": 2,
-   "score_norm": 94,
+   "score_norm": 93,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -483,6 +475,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-31T16:36:04.807Z"
+  },
+  {
+   "first_seen": "2026-11-02T21:10:46.298Z",
+   "id": "39573392",
+   "ids": [
+    "39573392",
+    "39560568"
+   ],
+   "title": "Towards understanding score-seeking in LLMs",
+   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-02 19:51:55",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "arxiv-lg",
+     "title": "Towards Understanding Score-Seeking in LLMs",
+     "url": "https://arxiv.org/abs/2610.41014"
+    }
+   ],
+   "queries": [
+    "towards llms understanding score-seeking"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-02T21:10:50.563Z"
   },
   {
    "first_seen": "2026-11-02T20:10:48.286Z",
