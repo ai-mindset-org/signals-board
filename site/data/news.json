@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T14:14:28.084Z",
+ "generated_at": "2026-11-02T16:37:42.460Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,56 +7,8 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Nemotron Bolt 74B",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Nemotron Bolt 74B",
-   "ok": true
-  },
-  {
-   "source": "youtube: benchmarking qwen 27b 35b",
-   "ok": true
-  },
-  {
-   "source": "tiktok: benchmarking qwen 27b 35b",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
-  {
-   "first_seen": "2026-11-02T07:50:10.398Z",
-   "id": "39558547",
-   "ids": [
-    "39558547",
-    "39553477"
-   ],
-   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-02 01:05:33",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/"
-    }
-   ],
-   "queries": [
-    "Nemotron Bolt 74B",
-    "benchmarking qwen 27b 35b"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-02T14:14:35.534Z"
-  },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
    "id": "39540635",
@@ -264,36 +216,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-01T08:36:07.890Z"
-  },
-  {
-   "first_seen": "2026-11-02T12:17:57.473Z",
-   "id": "39562544",
-   "ids": [
-    "39562544",
-    "39562613"
-   ],
-   "title": "KI-Agenten bauen Zivilisation in Minecraft auf und verlieren sich in Bürokratie",
-   "url": "https://www.heise.de/news/KI-Agenten-bauen-Zivilisation-in-Minecraft-auf-und-verlieren-sich-in-Buerokratie-11507972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-02 11:54:00",
-   "story_sources": 2,
-   "score_norm": 99,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "KI-Agenten sollen Zivilisation in Minecraft aufbauen – und verlieren sich in Bürokratie",
-     "url": "https://t3n.de/news/ki-agenten-sollen-zivilisation-in-minecraft-aufbauen-und-verlieren-sich-in-buerokratie-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "ki-agenten zivilisation minecraft bürokratie"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-02T12:18:01.553Z"
   },
   {
    "first_seen": "2026-11-01T12:15:00.133Z",
@@ -535,108 +457,65 @@
    "searched_at": "2026-11-01T08:24:37.575Z"
   },
   {
-   "first_seen": "2026-10-30T17:10:54.382Z",
-   "id": "39514995",
+   "first_seen": "2026-11-02T07:50:10.398Z",
+   "id": "39558547",
    "ids": [
-    "39514995",
-    "39504755"
+    "39558547",
+    "39553477"
    ],
-   "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
-   "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
-   "source_id": "theregister",
-   "published_ts": "2026-10-30 16:27:00",
+   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-02 01:05:33",
    "story_sources": 2,
    "score_norm": 72,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Official Claude Code extension compromise",
-     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+     "source_id": "reddit-localllama",
+     "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/"
     }
    ],
    "queries": [
-    "That Claude Code",
-    "anthropic claude code extension"
+    "Nemotron Bolt 74B",
+    "benchmarking qwen 27b 35b"
    ],
-   "videos": [
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-02T14:14:35.534Z"
+  },
+  {
+   "first_seen": "2026-11-02T12:17:57.473Z",
+   "id": "39562544",
+   "ids": [
+    "39562544",
+    "39562613"
+   ],
+   "title": "KI-Agenten bauen Zivilisation in Minecraft auf und verlieren sich in Bürokratie",
+   "url": "https://www.heise.de/news/KI-Agenten-bauen-Zivilisation-in-Minecraft-auf-und-verlieren-sich-in-Buerokratie-11507972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-02 11:54:00",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
     {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:S49gppZl8H0",
-     "url": "https://www.youtube.com/watch?v=S49gppZl8H0",
-     "title": "Anthropic Just Released A New System For Using Claude Code",
-     "channel": "AI LABS",
-     "views": 29550,
-     "age_hours": 14,
-     "relevance": 0.5,
-     "velocity": 2111
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6-CnVGqvRCQ",
-     "url": "https://www.youtube.com/shorts/6-CnVGqvRCQ",
-     "title": "This Claude Code update was a backdoor",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6D-oOXI_0ro",
-     "url": "https://www.youtube.com/shorts/6D-oOXI_0ro",
-     "title": "The Claude Code App Was Rebuilt",
-     "channel": "",
-     "views": 908,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dV9unfdiYjI",
-     "url": "https://www.youtube.com/shorts/dV9unfdiYjI",
-     "title": "Fake Claude Code Extension Hit Cursor. Anthropic Says It Is Not Theirs. Check Yours Now",
-     "channel": "",
-     "views": 782,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tbcoYZD5ga0",
-     "url": "https://www.youtube.com/shorts/tbcoYZD5ga0",
-     "title": "Claude Code's Extension Was Just Hacked With a Backdoor",
-     "channel": "",
-     "views": 115,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:OCWVlzXD0Qg",
-     "url": "https://www.youtube.com/shorts/OCWVlzXD0Qg",
-     "title": "Claude Wrote 90%+ of Anthropic's September Code?",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "source_id": "eu-t3n",
+     "title": "KI-Agenten sollen Zivilisation in Minecraft aufbauen – und verlieren sich in Bürokratie",
+     "url": "https://t3n.de/news/ki-agenten-sollen-zivilisation-in-minecraft-aufbauen-und-verlieren-sich-in-buerokratie-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
     }
    ],
+   "queries": [
+    "ki-agenten zivilisation minecraft bürokratie"
+   ],
+   "videos": [],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-10-31T05:20:44.917Z"
+   "searched_at": "2026-11-02T12:18:01.553Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
