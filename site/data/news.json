@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T10:22:51.234Z",
+ "generated_at": "2026-11-02T12:17:57.473Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,45 +9,44 @@
  },
  "search_report": [
   {
-   "source": "youtube: deepseek team open-sources proactive",
+   "source": "youtube: ki-agenten zivilisation minecraft bürokratie",
    "ok": true
   },
   {
-   "source": "tiktok: deepseek team open-sources proactive",
+   "source": "tiktok: ki-agenten zivilisation minecraft bürokratie",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-02T07:50:10.398Z",
-   "id": "39558547",
+   "first_seen": "2026-11-02T12:17:57.473Z",
+   "id": "39562544",
    "ids": [
-    "39558547",
-    "39553477"
+    "39562544",
+    "39562613"
    ],
-   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-02 01:05:33",
+   "title": "KI-Agenten bauen Zivilisation in Minecraft auf und verlieren sich in Bürokratie",
+   "url": "https://www.heise.de/news/KI-Agenten-bauen-Zivilisation-in-Minecraft-auf-und-verlieren-sich-in-Buerokratie-11507972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-02 11:54:00",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "reddit-localllama",
-     "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/"
+     "source_id": "eu-t3n",
+     "title": "KI-Agenten sollen Zivilisation in Minecraft aufbauen – und verlieren sich in Bürokratie",
+     "url": "https://t3n.de/news/ki-agenten-sollen-zivilisation-in-minecraft-aufbauen-und-verlieren-sich-in-buerokratie-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
     }
    ],
    "queries": [
-    "Nemotron Bolt 74B",
-    "benchmarking qwen 27b 35b"
+    "ki-agenten zivilisation minecraft bürokratie"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-02T07:50:17.724Z"
+   "searched_at": "2026-11-02T12:18:01.553Z"
   },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -256,6 +255,37 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-01T08:36:07.890Z"
+  },
+  {
+   "first_seen": "2026-11-02T07:50:10.398Z",
+   "id": "39558547",
+   "ids": [
+    "39558547",
+    "39553477"
+   ],
+   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-02 01:05:33",
+   "story_sources": 2,
+   "score_norm": 99,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/"
+    }
+   ],
+   "queries": [
+    "Nemotron Bolt 74B",
+    "benchmarking qwen 27b 35b"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-02T07:50:17.724Z"
   },
   {
    "first_seen": "2026-11-01T12:15:00.133Z",
@@ -599,61 +629,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-10-31T05:20:44.917Z"
-  },
-  {
-   "first_seen": "2026-10-30T12:20:00.258Z",
-   "id": "39508980",
-   "ids": [
-    "39508980",
-    "39495163"
-   ],
-   "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
-   "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
-   "source_id": "engadget",
-   "published_ts": "2026-10-30 12:05:36",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Meta quietly launches an AI fashion app called Style Sketch",
-     "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"
-    }
-   ],
-   "queries": [
-    "meta quietly launches ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zDDwhOcqQXE",
-     "url": "https://www.youtube.com/shorts/zDDwhOcqQXE",
-     "title": "Meta AI’s Biggest Advantage",
-     "channel": "",
-     "views": 593,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PZ3C0tb1B6M",
-     "url": "https://www.youtube.com/shorts/PZ3C0tb1B6M",
-     "title": "Meta's $97.5B AI Bet",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-30T18:25:08.699Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
