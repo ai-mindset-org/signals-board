@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T20:10:48.286Z",
+ "generated_at": "2026-11-02T20:21:06.120Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic ipo 17bn 895bn",
+   "source": "youtube: Nemotron Bolt 74B",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic ipo 17bn 895bn",
+   "source": "tiktok: Nemotron Bolt 74B",
+   "ok": true
+  },
+  {
+   "source": "youtube: benchmarking qwen 27b 35b",
+   "ok": true
+  },
+  {
+   "source": "tiktok: benchmarking qwen 27b 35b",
    "ok": true
   }
  ],
@@ -610,7 +618,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-02 01:05:33",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "reddit-localllama",
@@ -627,7 +635,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-02T14:14:35.534Z"
+   "searched_at": "2026-11-02T20:21:13.900Z"
   },
   {
    "first_seen": "2026-11-02T12:17:57.473Z",
