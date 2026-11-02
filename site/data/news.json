@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T07:50:10.398Z",
+ "generated_at": "2026-11-02T10:22:51.234Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Nemotron Bolt 74B",
+   "source": "youtube: deepseek team open-sources proactive",
    "ok": true
   },
   {
-   "source": "tiktok: Nemotron Bolt 74B",
-   "ok": true
-  },
-  {
-   "source": "youtube: benchmarking qwen 27b 35b",
-   "ok": true
-  },
-  {
-   "source": "tiktok: benchmarking qwen 27b 35b",
+   "source": "tiktok: deepseek team open-sources proactive",
    "ok": true
   }
  ],
@@ -662,6 +654,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-30T18:25:08.699Z"
+  },
+  {
+   "first_seen": "2026-11-02T10:22:51.234Z",
+   "id": "39560795",
+   "ids": [
+    "39560795",
+    "39546096"
+   ],
+   "title": "DeepSeek team open-sources proactive coding agent research prototype",
+   "url": "https://technode.com/2026/11/02/deepseek-team-open-sources-proactive-coding-agent-research-prototype/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-02 04:32:41",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "DeepSeek open-sources Super-Agent, a coding agent that reads team chats",
+     "url": "https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent"
+    }
+   ],
+   "queries": [
+    "deepseek team open-sources proactive"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:F5_1wBNTrrc",
+     "url": "https://www.youtube.com/shorts/F5_1wBNTrrc",
+     "title": "DeepSeek Super-agent Launch: Proactive Coding on Your Machine",
+     "channel": "",
+     "views": 97,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_HgSao6gCps",
+     "url": "https://www.youtube.com/shorts/_HgSao6gCps",
+     "title": "DeepSeek open-sources a coding agent that picks GitHub tasks itself",
+     "channel": "",
+     "views": 91,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JH-oGyFwG5o",
+     "url": "https://www.youtube.com/shorts/JH-oGyFwG5o",
+     "title": "DeepSeek Super-Agent: Free Open-Source Coding Agent for Your Team Chat (vs Claude Code?)",
+     "channel": "",
+     "views": 80,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4MYSqsgiVag",
+     "url": "https://www.youtube.com/shorts/4MYSqsgiVag",
+     "title": "DeepSeek open-sources a coding agent that opens its own PRs #Shorts",
+     "channel": "",
+     "views": 32,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:m-XDTD-Jnxg",
+     "url": "https://www.youtube.com/shorts/m-XDTD-Jnxg",
+     "title": "DeepSeek open-sources Super-agent prototype for GitHub coding work #Shorts",
+     "channel": "",
+     "views": 25,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aBuOQFynGBs",
+     "url": "https://www.youtube.com/shorts/aBuOQFynGBs",
+     "title": "DeepSeek SuperAgent: An Issue-to-PR Research Prototype",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-02T10:22:55.524Z"
   },
   {
    "first_seen": "2026-10-30T19:36:03.988Z",
