@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T16:37:42.460Z",
+ "generated_at": "2026-11-02T17:10:54.963Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -468,7 +468,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-02 01:05:33",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "reddit-localllama",
@@ -766,37 +766,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-10-31T22:49:54.289Z"
-  },
-  {
-   "first_seen": "2026-10-30T19:36:03.988Z",
-   "id": "39518234",
-   "ids": [
-    "39518234",
-    "39514646"
-   ],
-   "title": "Haas: Postgres 19 is late, and it's AI's fault",
-   "url": "https://lwn.net/Articles/1104210/",
-   "source_id": "x-lwn-net",
-   "published_ts": "2026-10-30 16:52:59",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Postgres 19 is late, and it's AI's fault",
-     "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
-    }
-   ],
-   "queries": [
-    "Postgres 19",
-    "haas postgres 19 late"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-10-31T14:10:10.365Z"
   },
   {
    "first_seen": "2026-10-31T12:26:33.211Z",
