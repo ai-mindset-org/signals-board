@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T18:26:26.023Z",
+ "generated_at": "2026-11-02T19:09:20.461Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: ki-agenten zivilisation minecraft bürokratie",
+   "source": "youtube: openai chatgpt merge chat",
    "ok": true
   },
   {
-   "source": "tiktok: ki-agenten zivilisation minecraft bürokratie",
+   "source": "tiktok: openai chatgpt merge chat",
    "ok": true
   }
  ],
@@ -331,6 +331,109 @@
    "searched_at": "2026-11-01T12:15:07.810Z"
   },
   {
+   "first_seen": "2026-11-02T19:09:20.461Z",
+   "id": "39571322",
+   "ids": [
+    "39571322",
+    "39565585"
+   ],
+   "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
+   "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-02 18:01:55",
+   "story_sources": 2,
+   "score_norm": 94,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+    }
+   ],
+   "queries": [
+    "openai chatgpt merge chat"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:o7HohJqc8oo",
+     "url": "https://www.youtube.com/watch?v=o7HohJqc8oo",
+     "title": "ChatGPT: Your Chat and Work Will Share One Budget",
+     "channel": "BrightTomorrow AI",
+     "views": 1,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rN5TntECyc0",
+     "url": "https://www.youtube.com/shorts/rN5TntECyc0",
+     "title": "OpenAI Merges ChatGPT Chat and Work Modes | Artificial Intelligence News",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4_enCp2M_a8",
+     "url": "https://www.youtube.com/shorts/4_enCp2M_a8",
+     "title": "OpenAI will merge limits… how big?",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RnfU_v_RDVk",
+     "url": "https://www.youtube.com/shorts/RnfU_v_RDVk",
+     "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to… | AIT News",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jHN2mf50Eio",
+     "url": "https://www.youtube.com/shorts/jHN2mf50Eio",
+     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5Tu2aljL5yI",
+     "url": "https://www.youtube.com/shorts/5Tu2aljL5yI",
+     "title": "ChatGPT Merges Chat and Work: What Changes for You?",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-02T19:09:24.553Z"
+  },
+  {
    "first_seen": "2026-10-31T04:12:36.356Z",
    "id": "39524841",
    "ids": [
@@ -477,7 +580,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-02 01:05:33",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "reddit-localllama",
