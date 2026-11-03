@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T16:49:57.376Z",
+ "generated_at": "2026-11-03T17:49:32.832Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai quietly renaming data",
+   "source": "youtube: Like GPT-6 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: openai quietly renaming data",
+   "source": "tiktok: Like GPT-6 Astra",
+   "ok": true
+  },
+  {
+   "source": "youtube: like gpt-6 astra qwen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: like gpt-6 astra qwen",
    "ok": true
   }
  ],
@@ -374,7 +382,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-02 20:18:26",
    "story_sources": 3,
-   "score_norm": 84,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "latent-space",
@@ -604,6 +612,110 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-02T20:21:13.900Z"
+  },
+  {
+   "first_seen": "2026-11-03T17:49:32.832Z",
+   "id": "39592297",
+   "ids": [
+    "39592297",
+    "39592262"
+   ],
+   "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-03 17:29:42",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+     "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+    }
+   ],
+   "queries": [
+    "Like GPT-6 Astra",
+    "like gpt-6 astra qwen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:dBKkxb1R75E",
+     "url": "https://www.youtube.com/watch?v=dBKkxb1R75E",
+     "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Coding Tests",
+     "channel": "Laxmi Kant | KGP Talkie",
+     "views": 5843,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 81
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1QRzdjcqWqs",
+     "url": "https://www.youtube.com/shorts/1QRzdjcqWqs",
+     "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Tests",
+     "channel": "",
+     "views": 2400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GoT71MxCuAs",
+     "url": "https://www.youtube.com/shorts/GoT71MxCuAs",
+     "title": "GPT-6 Astra edited Qwen's weights: math 8% to 48%",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:FFwkqUdaXeY",
+     "url": "https://www.youtube.com/shorts/FFwkqUdaXeY",
+     "title": "GPT-6 Astra edited Qwen's weights. We tested it",
+     "channel": "",
+     "views": 231,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YYc7UZDIlao",
+     "url": "https://www.youtube.com/shorts/YYc7UZDIlao",
+     "title": "GPT-6 Astra Use Cases",
+     "channel": "",
+     "views": 63,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gPZSPzPTkdg",
+     "url": "https://www.youtube.com/shorts/gPZSPzPTkdg",
+     "title": "🧠 WHAT GPT-6 ASTRA IS CAPABLE OF",
+     "channel": "",
+     "views": 63,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T17:49:40.812Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
@@ -881,6 +993,36 @@
    "searched_at": "2026-11-03T16:36:40.083Z"
   },
   {
+   "first_seen": "2026-11-03T12:50:01.589Z",
+   "id": "39582658",
+   "ids": [
+    "39582658",
+    "39585984"
+   ],
+   "title": "Pick n Pay turns to AI to speed up online orders",
+   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
+   "source_id": "za-techcentral",
+   "published_ts": "2026-11-03 08:41:57",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "africa-itweb",
+     "title": "Pick n Pay targets faster online orders with AI",
+     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
+    }
+   ],
+   "queries": [
+    "pick pay turns ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T12:50:05.930Z"
+  },
+  {
    "first_seen": "2026-11-03T10:36:29.259Z",
    "id": "39583915",
    "ids": [
@@ -983,36 +1125,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T10:36:38.488Z"
-  },
-  {
-   "first_seen": "2026-11-03T12:50:01.589Z",
-   "id": "39582658",
-   "ids": [
-    "39582658",
-    "39585984"
-   ],
-   "title": "Pick n Pay turns to AI to speed up online orders",
-   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
-   "source_id": "za-techcentral",
-   "published_ts": "2026-11-03 08:41:57",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "africa-itweb",
-     "title": "Pick n Pay targets faster online orders with AI",
-     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
-    }
-   ],
-   "queries": [
-    "pick pay turns ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T12:50:05.930Z"
   },
   {
    "first_seen": "2026-11-03T00:28:54.437Z",
