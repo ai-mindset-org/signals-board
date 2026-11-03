@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T02:16:12.751Z",
+ "generated_at": "2026-11-03T02:36:22.300Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic ipo 17bn 895bn",
+   "source": "youtube: Genie 4",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic ipo 17bn 895bn",
+   "source": "tiktok: Genie 4",
+   "ok": true
+  },
+  {
+   "source": "youtube: import 479 spacewar llms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: import 479 spacewar llms",
    "ok": true
   }
  ],
@@ -398,6 +406,37 @@
    "searched_at": "2026-11-03T00:28:58.581Z"
   },
   {
+   "first_seen": "2026-11-03T02:36:22.300Z",
+   "id": "39569238",
+   "ids": [
+    "39569238",
+    "39578058"
+   ],
+   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+   "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-02 14:30:54",
+   "story_sources": 2,
+   "score_norm": 87,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+     "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency"
+    }
+   ],
+   "queries": [
+    "Genie 4",
+    "import 479 spacewar llms"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T02:36:30.109Z"
+  },
+  {
    "first_seen": "2026-10-31T04:12:36.356Z",
    "id": "39524841",
    "ids": [
@@ -544,6 +583,85 @@
    "searched_at": "2026-11-03T01:12:12.198Z"
   },
   {
+   "first_seen": "2026-11-02T20:10:48.286Z",
+   "id": "39569650",
+   "ids": [
+    "39569650",
+    "39572252"
+   ],
+   "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
+   "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-02 16:58:14",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic's Amended IPO Filing Shows $895B in Compute Commitments",
+     "url": "https://epyhia.com/anthropic-s-amended-ipo-filing-shows-17-billion-q3-revenue-and-895"
+    }
+   ],
+   "queries": [
+    "anthropic ipo 17bn 895bn"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nKYw4VmAOfI",
+     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
+     "title": "Anthropic IPO $2Trillion Trap ?",
+     "channel": "",
+     "views": 3300,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9Etf31OnKAg",
+     "url": "https://www.youtube.com/shorts/9Etf31OnKAg",
+     "title": "Anthropic’s IPO Filing Is Out… Unreal 🤯",
+     "channel": "",
+     "views": 595,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:280Ai2BeDYE",
+     "url": "https://www.youtube.com/shorts/280Ai2BeDYE",
+     "title": "Why Anthropic's IPO may backfire",
+     "channel": "",
+     "views": 250,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1CRy8qVSmgU",
+     "url": "https://www.youtube.com/shorts/1CRy8qVSmgU",
+     "title": "Anthropic IPO: $17B revenue, $23.3B loss",
+     "channel": "",
+     "views": 72,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T02:16:17.161Z"
+  },
+  {
    "first_seen": "2026-10-31T19:49:56.167Z",
    "id": "39535779",
    "ids": [
@@ -636,83 +754,34 @@
    "searched_at": "2026-11-01T08:24:37.575Z"
   },
   {
-   "first_seen": "2026-11-02T20:10:48.286Z",
-   "id": "39569650",
+   "first_seen": "2026-11-02T21:10:46.298Z",
+   "id": "39573392",
    "ids": [
-    "39569650",
-    "39572252"
+    "39573392",
+    "39560568"
    ],
-   "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
-   "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-02 16:58:14",
+   "title": "Towards understanding score-seeking in LLMs",
+   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-02 19:51:55",
    "story_sources": 2,
    "score_norm": 76,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Anthropic's Amended IPO Filing Shows $895B in Compute Commitments",
-     "url": "https://epyhia.com/anthropic-s-amended-ipo-filing-shows-17-billion-q3-revenue-and-895"
+     "source_id": "arxiv-lg",
+     "title": "Towards Understanding Score-Seeking in LLMs",
+     "url": "https://arxiv.org/abs/2610.41014"
     }
    ],
    "queries": [
-    "anthropic ipo 17bn 895bn"
+    "towards llms understanding score-seeking"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nKYw4VmAOfI",
-     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
-     "title": "Anthropic IPO $2Trillion Trap ?",
-     "channel": "",
-     "views": 3300,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9Etf31OnKAg",
-     "url": "https://www.youtube.com/shorts/9Etf31OnKAg",
-     "title": "Anthropic’s IPO Filing Is Out… Unreal 🤯",
-     "channel": "",
-     "views": 595,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:280Ai2BeDYE",
-     "url": "https://www.youtube.com/shorts/280Ai2BeDYE",
-     "title": "Why Anthropic's IPO may backfire",
-     "channel": "",
-     "views": 250,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1CRy8qVSmgU",
-     "url": "https://www.youtube.com/shorts/1CRy8qVSmgU",
-     "title": "Anthropic IPO: $17B revenue, $23.3B loss",
-     "channel": "",
-     "views": 72,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T02:16:17.161Z"
+   "searched_at": "2026-11-02T21:10:50.563Z"
   },
   {
    "first_seen": "2026-11-02T07:50:10.398Z",
@@ -744,36 +813,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-02T20:21:13.900Z"
-  },
-  {
-   "first_seen": "2026-11-02T21:10:46.298Z",
-   "id": "39573392",
-   "ids": [
-    "39573392",
-    "39560568"
-   ],
-   "title": "Towards understanding score-seeking in LLMs",
-   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-02 19:51:55",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "arxiv-lg",
-     "title": "Towards Understanding Score-Seeking in LLMs",
-     "url": "https://arxiv.org/abs/2610.41014"
-    }
-   ],
-   "queries": [
-    "towards llms understanding score-seeking"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-02T21:10:50.563Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
