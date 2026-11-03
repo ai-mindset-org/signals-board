@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T12:16:36.828Z",
+ "generated_at": "2026-11-03T12:36:55.454Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Weight-Space Programming",
+   "source": "youtube: ncsc uk ai-powered warns",
    "ok": true
   },
   {
-   "source": "tiktok: Weight-Space Programming",
-   "ok": true
-  },
-  {
-   "source": "youtube: sparks weight-space programming llms",
-   "ok": true
-  },
-  {
-   "source": "tiktok: sparks weight-space programming llms",
+   "source": "tiktok: ncsc uk ai-powered warns",
    "ok": true
   }
  ],
@@ -728,6 +720,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
+  },
+  {
+   "first_seen": "2026-11-03T12:36:55.454Z",
+   "id": "39585764",
+   "ids": [
+    "39585764",
+    "39577990"
+   ],
+   "title": "NCSC warns UK firms could face a torrent of AI-powered cyber attacks",
+   "url": "https://www.itpro.com/security/cyber-attacks/the-ncsc-says-ai-powered-cyber-attacks-are-coming-for-uk-firms-but-they-still-need-to-sharpen-up-on-basic-security-practices",
+   "source_id": "eu-itpro",
+   "published_ts": "2026-11-03 10:55:27",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "eu-computerweekly",
+     "title": "UK to face AI-powered cyber attacks within two years, warns NCSC",
+     "url": "https://www.computerweekly.com/news/366653412/UK-to-face-AI-powered-cyber-attacks-within-two-years-warns-NCSC"
+    }
+   ],
+   "queries": [
+    "ncsc uk ai-powered warns"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T12:36:59.876Z"
   },
   {
    "first_seen": "2026-11-03T10:36:29.259Z",
