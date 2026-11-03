@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T02:36:22.300Z",
+ "generated_at": "2026-11-03T02:49:59.460Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Genie 4",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Genie 4",
-   "ok": true
-  },
-  {
-   "source": "youtube: import 479 spacewar llms",
-   "ok": true
-  },
-  {
-   "source": "tiktok: import 479 spacewar llms",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -435,49 +418,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T02:36:30.109Z"
-  },
-  {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524841",
-   "ids": [
-    "39524841",
-    "39515805"
-   ],
-   "title": "Anthropic may miss investment-grade rating after IPO: report",
-   "url": "https://www.techinasia.com/news/anthropic-may-miss-investment-rating-ipo",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 02:49:11",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-     "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
-    }
-   ],
-   "queries": [
-    "anthropic ipo may miss"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:hV8SHWIwbmc",
-     "url": "https://www.youtube.com/shorts/hV8SHWIwbmc",
-     "title": "What's at stake in the Anthropic IPO?",
-     "channel": "",
-     "views": 3400,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T16:36:04.807Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
