@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T10:36:29.259Z",
+ "generated_at": "2026-11-03T10:50:00.438Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Scaling Git",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Scaling Git",
-   "ok": true
-  },
-  {
-   "source": "youtube: scaling git openai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: scaling git openai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
@@ -802,36 +785,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T10:36:38.488Z"
-  },
-  {
-   "first_seen": "2026-10-31T12:26:33.211Z",
-   "id": "39529856",
-   "ids": [
-    "39529856",
-    "39528461"
-   ],
-   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
-   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-10-31 10:46:16",
-   "story_sources": 2,
-   "score_norm": 52,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
-     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
-    }
-   ],
-   "queries": [
-    "meity depa unveils handbook"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-01T07:11:53.281Z"
   },
   {
    "first_seen": "2026-11-03T00:28:54.437Z",
