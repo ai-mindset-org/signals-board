@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T13:36:40.601Z",
+ "generated_at": "2026-11-03T16:36:31.521Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: What Qwen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: What Qwen",
+   "ok": true
+  },
+  {
+   "source": "youtube: qwen thinking gets stuck",
+   "ok": true
+  },
+  {
+   "source": "tiktok: qwen thinking gets stuck",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
@@ -670,6 +687,37 @@
    "searched_at": "2026-11-02T10:22:55.524Z"
   },
   {
+   "first_seen": "2026-11-03T16:36:31.521Z",
+   "id": "39590635",
+   "ids": [
+    "39590635",
+    "39585801"
+   ],
+   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-03 12:58:05",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+     "url": "https://alisorcorp.github.io/inside-a-reasoning-loop/"
+    }
+   ],
+   "queries": [
+    "What Qwen",
+    "qwen thinking gets stuck"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T16:36:40.083Z"
+  },
+  {
    "first_seen": "2026-11-02T12:17:57.473Z",
    "id": "39562544",
    "ids": [
@@ -724,7 +772,7 @@
    "source_id": "za-techcentral",
    "published_ts": "2026-11-03 08:41:57",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "africa-itweb",
@@ -852,7 +900,7 @@
    "source_id": "eu-itpro",
    "published_ts": "2026-11-03 10:55:27",
    "story_sources": 2,
-   "score_norm": 56,
+   "score_norm": 54,
    "related_news": [
     {
      "source_id": "eu-computerweekly",
