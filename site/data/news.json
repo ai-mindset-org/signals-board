@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T00:28:54.437Z",
+ "generated_at": "2026-11-03T01:12:08.067Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,90 +9,15 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic 17b ipo quarterly",
+   "source": "youtube: openai chatgpt merge chat",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 17b ipo quarterly",
-   "ok": true
-  },
-  {
-   "source": "youtube: ki-agenten zivilisation minecraft bürokratie",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ki-agenten zivilisation minecraft bürokratie",
+   "source": "tiktok: openai chatgpt merge chat",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-11-03T00:28:54.437Z",
-   "id": "39576518",
-   "ids": [
-    "39576518",
-    "39566264"
-   ],
-   "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
-   "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-02 23:19:38",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
-     "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
-    }
-   ],
-   "queries": [
-    "anthropic 17b ipo quarterly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CI5a_vnr6_c",
-     "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
-     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
-     "channel": "Bloomberg Tech",
-     "views": 3912,
-     "age_hours": 7,
-     "relevance": 0.57,
-     "velocity": 559
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nKYw4VmAOfI",
-     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
-     "title": "Anthropic IPO $2Trillion Trap ?",
-     "channel": "",
-     "views": 3200,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:R9yJSPJtiSU",
-     "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
-     "title": "The Anthropic IPO: A Preview",
-     "channel": "CFRA Research",
-     "views": 21,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T00:28:58.581Z"
-  },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
    "id": "39540635",
@@ -302,6 +227,73 @@
    "searched_at": "2026-11-01T08:36:07.890Z"
   },
   {
+   "first_seen": "2026-11-03T00:28:54.437Z",
+   "id": "39576518",
+   "ids": [
+    "39576518",
+    "39566264"
+   ],
+   "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
+   "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-02 23:19:38",
+   "story_sources": 2,
+   "score_norm": 98,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
+     "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
+    }
+   ],
+   "queries": [
+    "anthropic 17b ipo quarterly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CI5a_vnr6_c",
+     "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
+     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
+     "channel": "Bloomberg Tech",
+     "views": 3912,
+     "age_hours": 7,
+     "relevance": 0.57,
+     "velocity": 559
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nKYw4VmAOfI",
+     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
+     "title": "Anthropic IPO $2Trillion Trap ?",
+     "channel": "",
+     "views": 3200,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:R9yJSPJtiSU",
+     "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
+     "title": "The Anthropic IPO: A Preview",
+     "channel": "CFRA Research",
+     "views": 21,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T00:28:58.581Z"
+  },
+  {
    "first_seen": "2026-11-01T12:15:00.133Z",
    "id": "39545138",
    "ids": [
@@ -417,7 +409,7 @@
    "source_id": "zdnet-ai",
    "published_ts": "2026-11-02 18:01:55",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -431,39 +423,39 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fr1VdGT5VIE",
+     "url": "https://www.youtube.com/shorts/fr1VdGT5VIE",
+     "title": "ChatGPT's Chat and Work Tabs Are Merging, Limits Shared",
+     "channel": "",
+     "views": 160,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hRe4R3_TbE8",
+     "url": "https://www.youtube.com/shorts/hRe4R3_TbE8",
+     "title": "I can't believe AI can do this 😱  ChatGPT Is Merging Its Chat and Work Tabs  #ai #aitools #chatgpt #",
+     "channel": "",
+     "views": 62,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
      "kind": "видео",
      "id": "youtube:o7HohJqc8oo",
      "url": "https://www.youtube.com/watch?v=o7HohJqc8oo",
      "title": "ChatGPT: Your Chat and Work Will Share One Budget",
      "channel": "BrightTomorrow AI",
-     "views": 1,
-     "age_hours": 1,
+     "views": 8,
+     "age_hours": 7,
      "relevance": 0.5,
      "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rN5TntECyc0",
-     "url": "https://www.youtube.com/shorts/rN5TntECyc0",
-     "title": "OpenAI Merges ChatGPT Chat and Work Modes | Artificial Intelligence News",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4_enCp2M_a8",
-     "url": "https://www.youtube.com/shorts/4_enCp2M_a8",
-     "title": "OpenAI will merge limits… how big?",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
     },
     {
      "platform": "youtube",
@@ -472,21 +464,9 @@
      "url": "https://www.youtube.com/shorts/RnfU_v_RDVk",
      "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to… | AIT News",
      "channel": "",
-     "views": 4,
+     "views": 33,
      "age_hours": null,
      "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jHN2mf50Eio",
-     "url": "https://www.youtube.com/shorts/jHN2mf50Eio",
-     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -496,9 +476,21 @@
      "url": "https://www.youtube.com/shorts/5Tu2aljL5yI",
      "title": "ChatGPT Merges Chat and Work: What Changes for You?",
      "channel": "",
-     "views": 2,
+     "views": 15,
      "age_hours": null,
      "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rN5TntECyc0",
+     "url": "https://www.youtube.com/shorts/rN5TntECyc0",
+     "title": "OpenAI Merges ChatGPT Chat and Work Modes | Artificial Intelligence News",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -506,7 +498,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-02T19:09:24.553Z"
+   "searched_at": "2026-11-03T01:12:12.198Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
@@ -552,36 +544,6 @@
    "searched_at": "2026-10-31T16:36:04.807Z"
   },
   {
-   "first_seen": "2026-11-02T21:10:46.298Z",
-   "id": "39573392",
-   "ids": [
-    "39573392",
-    "39560568"
-   ],
-   "title": "Towards understanding score-seeking in LLMs",
-   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-02 19:51:55",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "arxiv-lg",
-     "title": "Towards Understanding Score-Seeking in LLMs",
-     "url": "https://arxiv.org/abs/2610.41014"
-    }
-   ],
-   "queries": [
-    "towards llms understanding score-seeking"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-02T21:10:50.563Z"
-  },
-  {
    "first_seen": "2026-11-02T20:10:48.286Z",
    "id": "39569650",
    "ids": [
@@ -610,6 +572,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-02T20:10:52.694Z"
+  },
+  {
+   "first_seen": "2026-11-02T21:10:46.298Z",
+   "id": "39573392",
+   "ids": [
+    "39573392",
+    "39560568"
+   ],
+   "title": "Towards understanding score-seeking in LLMs",
+   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-02 19:51:55",
+   "story_sources": 2,
+   "score_norm": 79,
+   "related_news": [
+    {
+     "source_id": "arxiv-lg",
+     "title": "Towards Understanding Score-Seeking in LLMs",
+     "url": "https://arxiv.org/abs/2610.41014"
+    }
+   ],
+   "queries": [
+    "towards llms understanding score-seeking"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-02T21:10:50.563Z"
   },
   {
    "first_seen": "2026-10-31T19:49:56.167Z",
@@ -735,49 +727,6 @@
    "searched_at": "2026-11-02T20:21:13.900Z"
   },
   {
-   "first_seen": "2026-11-02T12:17:57.473Z",
-   "id": "39562544",
-   "ids": [
-    "39562544",
-    "39562613"
-   ],
-   "title": "KI-Agenten bauen Zivilisation in Minecraft auf und verlieren sich in Bürokratie",
-   "url": "https://www.heise.de/news/KI-Agenten-bauen-Zivilisation-in-Minecraft-auf-und-verlieren-sich-in-Buerokratie-11507972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-02 11:54:00",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "KI-Agenten sollen Zivilisation in Minecraft aufbauen – und verlieren sich in Bürokratie",
-     "url": "https://t3n.de/news/ki-agenten-sollen-zivilisation-in-minecraft-aufbauen-und-verlieren-sich-in-buerokratie-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "ki-agenten zivilisation minecraft bürokratie"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zAwkUz6yZKA",
-     "url": "https://www.youtube.com/watch?v=zAwkUz6yZKA",
-     "title": "KI-Agenten bauen Minecraft-Zivilisation und scheitern an Bürokratie",
-     "channel": "Klartext-KI",
-     "views": 0,
-     "age_hours": 3,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T00:29:02.050Z"
-  },
-  {
    "first_seen": "2026-11-02T10:22:51.234Z",
    "id": "39560795",
    "ids": [
@@ -879,6 +828,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-02T10:22:55.524Z"
+  },
+  {
+   "first_seen": "2026-11-02T12:17:57.473Z",
+   "id": "39562544",
+   "ids": [
+    "39562544",
+    "39562613"
+   ],
+   "title": "KI-Agenten bauen Zivilisation in Minecraft auf und verlieren sich in Bürokratie",
+   "url": "https://www.heise.de/news/KI-Agenten-bauen-Zivilisation-in-Minecraft-auf-und-verlieren-sich-in-Buerokratie-11507972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-02 11:54:00",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "KI-Agenten sollen Zivilisation in Minecraft aufbauen – und verlieren sich in Bürokratie",
+     "url": "https://t3n.de/news/ki-agenten-sollen-zivilisation-in-minecraft-aufbauen-und-verlieren-sich-in-buerokratie-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "ki-agenten zivilisation minecraft bürokratie"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zAwkUz6yZKA",
+     "url": "https://www.youtube.com/watch?v=zAwkUz6yZKA",
+     "title": "KI-Agenten bauen Minecraft-Zivilisation und scheitern an Bürokratie",
+     "channel": "Klartext-KI",
+     "views": 0,
+     "age_hours": 3,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T00:29:02.050Z"
   },
   {
    "first_seen": "2026-10-31T04:12:36.356Z",
