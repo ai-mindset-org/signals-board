@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:24:43.746Z",
+ "generated_at": "2026-11-03T18:50:06.458Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Weight-Space Programming",
+   "source": "youtube: pick pay turns ai",
    "ok": true
   },
   {
-   "source": "tiktok: Weight-Space Programming",
+   "source": "tiktok: pick pay turns ai",
    "ok": true
   },
   {
-   "source": "youtube: sparks weight-space programming llms",
+   "source": "youtube: ncsc uk ai-powered warns",
    "ok": true
   },
   {
-   "source": "tiktok: sparks weight-space programming llms",
+   "source": "tiktok: ncsc uk ai-powered warns",
    "ok": true
   }
  ],
@@ -382,7 +382,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-02 20:18:26",
    "story_sources": 3,
-   "score_norm": 86,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "latent-space",
@@ -483,98 +483,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T18:24:52.995Z"
-  },
-  {
-   "first_seen": "2026-10-31T19:49:56.167Z",
-   "id": "39535779",
-   "ids": [
-    "39535779",
-    "39535123"
-   ],
-   "title": "GPT-5.6 Sol can beat Factorio",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xkhxwr/gpt56_sol_can_beat_factorio/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-10-31 18:41:23",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-     "url": "https://ryanmadden.net/gpt-56-beats-factorio/"
-    }
-   ],
-   "queries": [
-    "GPT-5.6 Sol",
-    "gpt-5.6 sol factorio can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:kLuSDUzKYZs",
-     "url": "https://www.youtube.com/watch?v=kLuSDUzKYZs",
-     "title": "GPT-5.6 Sol beating Factorio (peaceful) 60x speed timelapse",
-     "channel": "AI Plays Factorio",
-     "views": 813,
-     "age_hours": 13,
-     "relevance": 0.6,
-     "velocity": 63
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4-6Se8bxWbc",
-     "url": "https://www.youtube.com/watch?v=4-6Se8bxWbc",
-     "title": "GPT-5.6 Sol 真的跑完 Factorio 送火箭上天！但撐住火箭的不是工廠流程",
-     "channel": "思思主播",
-     "views": 19,
-     "age_hours": 7,
-     "relevance": 0.6,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wgqxNDQVMBk",
-     "url": "https://www.youtube.com/shorts/wgqxNDQVMBk",
-     "title": "GPT-5.6 Sol's Factorio rocket run used 250 million tokens, about $52 at API prices, tester… #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:G8YonAMLcGM",
-     "url": "https://www.youtube.com/shorts/G8YonAMLcGM",
-     "title": "Can you protect millions of sites without telling everyone? GPT-5.6 Sol answers",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AEkRENpO4Ew",
-     "url": "https://www.youtube.com/shorts/AEkRENpO4Ew",
-     "title": "GPT-5.6 Sol can beat Factorio on peaceful mode #shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-01T08:24:37.575Z"
   },
   {
    "first_seen": "2026-11-02T21:10:46.298Z",
@@ -1147,7 +1055,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T12:50:05.930Z"
+   "searched_at": "2026-11-03T18:50:10.923Z"
   },
   {
    "first_seen": "2026-11-03T10:36:29.259Z",
@@ -1367,7 +1275,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T12:36:59.876Z"
+   "searched_at": "2026-11-03T18:50:14.519Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
