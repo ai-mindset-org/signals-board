@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:50:06.458Z",
+ "generated_at": "2026-11-03T19:20:12.159Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: pick pay turns ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: pick pay turns ai",
-   "ok": true
-  },
-  {
-   "source": "youtube: ncsc uk ai-powered warns",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ncsc uk ai-powered warns",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-03T16:49:57.376Z",
@@ -382,7 +365,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-02 20:18:26",
    "story_sources": 3,
-   "score_norm": 87,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "latent-space",
@@ -393,11 +376,6 @@
      "source_id": "reddit-localllama",
      "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/"
-    },
-    {
-     "source_id": "reddit-localllama",
-     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/"
     }
    ],
    "queries": [
