@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T03:13:14.536Z",
+ "generated_at": "2026-11-03T05:49:47.455Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,15 +9,79 @@
  },
  "search_report": [
   {
-   "source": "youtube: towards llms understanding score-seeking",
+   "source": "youtube: Weight-Space Programming",
    "ok": true
   },
   {
-   "source": "tiktok: towards llms understanding score-seeking",
+   "source": "tiktok: Weight-Space Programming",
+   "ok": true
+  },
+  {
+   "source": "youtube: sparks weight-space programming llms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sparks weight-space programming llms",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-03T05:49:47.455Z",
+   "id": "39572554",
+   "ids": [
+    "39572554",
+    "39580494"
+   ],
+   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-02 20:18:26",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/"
+    }
+   ],
+   "queries": [
+    "Weight-Space Programming",
+    "sparks weight-space programming llms"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:uiabfIxxgbQ",
+     "url": "https://www.youtube.com/watch?v=uiabfIxxgbQ",
+     "title": "Weight-Space Programming Explained: Can an LLM Read and Write Neural Network Weights?",
+     "channel": "AI Paper Slop",
+     "views": 218,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 31
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:RUbxQuzjMqo",
+     "url": "https://www.youtube.com/watch?v=RUbxQuzjMqo",
+     "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks",
+     "channel": "AI WITH Rithesh",
+     "views": 8,
+     "age_hours": 0.8,
+     "relevance": 0.55,
+     "velocity": 8
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T05:49:55.000Z"
+  },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
    "id": "39540635",
@@ -331,286 +395,6 @@
    "searched_at": "2026-11-01T12:15:07.810Z"
   },
   {
-   "first_seen": "2026-11-03T00:28:54.437Z",
-   "id": "39576518",
-   "ids": [
-    "39576518",
-    "39566264"
-   ],
-   "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
-   "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-02 23:19:38",
-   "story_sources": 2,
-   "score_norm": 94,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
-     "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
-    }
-   ],
-   "queries": [
-    "anthropic 17b ipo quarterly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CI5a_vnr6_c",
-     "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
-     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
-     "channel": "Bloomberg Tech",
-     "views": 3912,
-     "age_hours": 7,
-     "relevance": 0.57,
-     "velocity": 559
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nKYw4VmAOfI",
-     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
-     "title": "Anthropic IPO $2Trillion Trap ?",
-     "channel": "",
-     "views": 3200,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:R9yJSPJtiSU",
-     "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
-     "title": "The Anthropic IPO: A Preview",
-     "channel": "CFRA Research",
-     "views": 21,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T00:28:58.581Z"
-  },
-  {
-   "first_seen": "2026-11-03T02:36:22.300Z",
-   "id": "39569238",
-   "ids": [
-    "39569238",
-    "39578058"
-   ],
-   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-   "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-02 14:30:54",
-   "story_sources": 2,
-   "score_norm": 88,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-     "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency"
-    }
-   ],
-   "queries": [
-    "Genie 4",
-    "import 479 spacewar llms"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T02:36:30.109Z"
-  },
-  {
-   "first_seen": "2026-11-02T19:09:20.461Z",
-   "id": "39571322",
-   "ids": [
-    "39571322",
-    "39565585"
-   ],
-   "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
-   "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
-   "source_id": "zdnet-ai",
-   "published_ts": "2026-11-02 18:01:55",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
-    }
-   ],
-   "queries": [
-    "openai chatgpt merge chat"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fr1VdGT5VIE",
-     "url": "https://www.youtube.com/shorts/fr1VdGT5VIE",
-     "title": "ChatGPT's Chat and Work Tabs Are Merging, Limits Shared",
-     "channel": "",
-     "views": 160,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:hRe4R3_TbE8",
-     "url": "https://www.youtube.com/shorts/hRe4R3_TbE8",
-     "title": "I can't believe AI can do this 😱  ChatGPT Is Merging Its Chat and Work Tabs  #ai #aitools #chatgpt #",
-     "channel": "",
-     "views": 62,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:o7HohJqc8oo",
-     "url": "https://www.youtube.com/watch?v=o7HohJqc8oo",
-     "title": "ChatGPT: Your Chat and Work Will Share One Budget",
-     "channel": "BrightTomorrow AI",
-     "views": 8,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RnfU_v_RDVk",
-     "url": "https://www.youtube.com/shorts/RnfU_v_RDVk",
-     "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to… | AIT News",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5Tu2aljL5yI",
-     "url": "https://www.youtube.com/shorts/5Tu2aljL5yI",
-     "title": "ChatGPT Merges Chat and Work: What Changes for You?",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rN5TntECyc0",
-     "url": "https://www.youtube.com/shorts/rN5TntECyc0",
-     "title": "OpenAI Merges ChatGPT Chat and Work Modes | Artificial Intelligence News",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T01:12:12.198Z"
-  },
-  {
-   "first_seen": "2026-11-02T20:10:48.286Z",
-   "id": "39569650",
-   "ids": [
-    "39569650",
-    "39572252"
-   ],
-   "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
-   "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-02 16:58:14",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic's Amended IPO Filing Shows $895B in Compute Commitments",
-     "url": "https://epyhia.com/anthropic-s-amended-ipo-filing-shows-17-billion-q3-revenue-and-895"
-    }
-   ],
-   "queries": [
-    "anthropic ipo 17bn 895bn"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nKYw4VmAOfI",
-     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
-     "title": "Anthropic IPO $2Trillion Trap ?",
-     "channel": "",
-     "views": 3300,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9Etf31OnKAg",
-     "url": "https://www.youtube.com/shorts/9Etf31OnKAg",
-     "title": "Anthropic’s IPO Filing Is Out… Unreal 🤯",
-     "channel": "",
-     "views": 595,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:280Ai2BeDYE",
-     "url": "https://www.youtube.com/shorts/280Ai2BeDYE",
-     "title": "Why Anthropic's IPO may backfire",
-     "channel": "",
-     "views": 250,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1CRy8qVSmgU",
-     "url": "https://www.youtube.com/shorts/1CRy8qVSmgU",
-     "title": "Anthropic IPO: $17B revenue, $23.3B loss",
-     "channel": "",
-     "views": 72,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T02:16:17.161Z"
-  },
-  {
    "first_seen": "2026-10-31T19:49:56.167Z",
    "id": "39535779",
    "ids": [
@@ -908,6 +692,286 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
+  },
+  {
+   "first_seen": "2026-11-03T00:28:54.437Z",
+   "id": "39576518",
+   "ids": [
+    "39576518",
+    "39566264"
+   ],
+   "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
+   "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-02 23:19:38",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
+     "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
+    }
+   ],
+   "queries": [
+    "anthropic 17b ipo quarterly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CI5a_vnr6_c",
+     "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
+     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
+     "channel": "Bloomberg Tech",
+     "views": 3912,
+     "age_hours": 7,
+     "relevance": 0.57,
+     "velocity": 559
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nKYw4VmAOfI",
+     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
+     "title": "Anthropic IPO $2Trillion Trap ?",
+     "channel": "",
+     "views": 3200,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:R9yJSPJtiSU",
+     "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
+     "title": "The Anthropic IPO: A Preview",
+     "channel": "CFRA Research",
+     "views": 21,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T00:28:58.581Z"
+  },
+  {
+   "first_seen": "2026-11-03T02:36:22.300Z",
+   "id": "39569238",
+   "ids": [
+    "39569238",
+    "39578058"
+   ],
+   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+   "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-02 14:30:54",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+     "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency"
+    }
+   ],
+   "queries": [
+    "Genie 4",
+    "import 479 spacewar llms"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T02:36:30.109Z"
+  },
+  {
+   "first_seen": "2026-11-02T19:09:20.461Z",
+   "id": "39571322",
+   "ids": [
+    "39571322",
+    "39565585"
+   ],
+   "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
+   "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-02 18:01:55",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+    }
+   ],
+   "queries": [
+    "openai chatgpt merge chat"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fr1VdGT5VIE",
+     "url": "https://www.youtube.com/shorts/fr1VdGT5VIE",
+     "title": "ChatGPT's Chat and Work Tabs Are Merging, Limits Shared",
+     "channel": "",
+     "views": 160,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hRe4R3_TbE8",
+     "url": "https://www.youtube.com/shorts/hRe4R3_TbE8",
+     "title": "I can't believe AI can do this 😱  ChatGPT Is Merging Its Chat and Work Tabs  #ai #aitools #chatgpt #",
+     "channel": "",
+     "views": 62,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:o7HohJqc8oo",
+     "url": "https://www.youtube.com/watch?v=o7HohJqc8oo",
+     "title": "ChatGPT: Your Chat and Work Will Share One Budget",
+     "channel": "BrightTomorrow AI",
+     "views": 8,
+     "age_hours": 7,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RnfU_v_RDVk",
+     "url": "https://www.youtube.com/shorts/RnfU_v_RDVk",
+     "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to… | AIT News",
+     "channel": "",
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5Tu2aljL5yI",
+     "url": "https://www.youtube.com/shorts/5Tu2aljL5yI",
+     "title": "ChatGPT Merges Chat and Work: What Changes for You?",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rN5TntECyc0",
+     "url": "https://www.youtube.com/shorts/rN5TntECyc0",
+     "title": "OpenAI Merges ChatGPT Chat and Work Modes | Artificial Intelligence News",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T01:12:12.198Z"
+  },
+  {
+   "first_seen": "2026-11-02T20:10:48.286Z",
+   "id": "39569650",
+   "ids": [
+    "39569650",
+    "39572252"
+   ],
+   "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
+   "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-02 16:58:14",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic's Amended IPO Filing Shows $895B in Compute Commitments",
+     "url": "https://epyhia.com/anthropic-s-amended-ipo-filing-shows-17-billion-q3-revenue-and-895"
+    }
+   ],
+   "queries": [
+    "anthropic ipo 17bn 895bn"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nKYw4VmAOfI",
+     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
+     "title": "Anthropic IPO $2Trillion Trap ?",
+     "channel": "",
+     "views": 3300,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9Etf31OnKAg",
+     "url": "https://www.youtube.com/shorts/9Etf31OnKAg",
+     "title": "Anthropic’s IPO Filing Is Out… Unreal 🤯",
+     "channel": "",
+     "views": 595,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:280Ai2BeDYE",
+     "url": "https://www.youtube.com/shorts/280Ai2BeDYE",
+     "title": "Why Anthropic's IPO may backfire",
+     "channel": "",
+     "views": 250,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1CRy8qVSmgU",
+     "url": "https://www.youtube.com/shorts/1CRy8qVSmgU",
+     "title": "Anthropic IPO: $17B revenue, $23.3B loss",
+     "channel": "",
+     "views": 72,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T02:16:17.161Z"
   },
   {
    "first_seen": "2026-10-31T12:26:33.211Z",
