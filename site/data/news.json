@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T12:50:01.589Z",
+ "generated_at": "2026-11-03T13:21:59.973Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: pick pay turns ai",
+   "source": "youtube: ChatGPT’s Chat",
    "ok": true
   },
   {
-   "source": "tiktok: pick pay turns ai",
+   "source": "tiktok: ChatGPT’s Chat",
    "ok": true
   },
   {
-   "source": "youtube: anthropic 17b ipo quarterly",
+   "source": "youtube: openai chatgpt chat work",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 17b ipo quarterly",
+   "source": "tiktok: openai chatgpt chat work",
    "ok": true
   }
  ],
@@ -741,7 +741,7 @@
    "source_id": "za-techcentral",
    "published_ts": "2026-11-03 08:41:57",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "africa-itweb",
@@ -1001,79 +1001,68 @@
     }
    ],
    "queries": [
-    "openai chatgpt merge chat"
+    "ChatGPT’s Chat",
+    "openai chatgpt chat work"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:fr1VdGT5VIE",
-     "url": "https://www.youtube.com/shorts/fr1VdGT5VIE",
-     "title": "ChatGPT's Chat and Work Tabs Are Merging, Limits Shared",
+     "id": "youtube:-srETPxHsV4",
+     "url": "https://www.youtube.com/shorts/-srETPxHsV4",
+     "title": "How does ChatGPT actually work?",
      "channel": "",
-     "views": 227,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RnfU_v_RDVk",
-     "url": "https://www.youtube.com/shorts/RnfU_v_RDVk",
-     "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to… | AIT News",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4_enCp2M_a8",
-     "url": "https://www.youtube.com/shorts/4_enCp2M_a8",
-     "title": "OpenAI will merge limits… how big?",
-     "channel": "",
-     "views": 36,
+     "views": 159,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:o7HohJqc8oo",
-     "url": "https://www.youtube.com/watch?v=o7HohJqc8oo",
-     "title": "ChatGPT: Your Chat and Work Will Share One Budget",
-     "channel": "BrightTomorrow AI",
-     "views": 9,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:g_Am5G-FeZA",
-     "url": "https://www.youtube.com/shorts/g_Am5G-FeZA",
-     "title": "OpenAI Unifies Chat & Work #Shorts",
+     "id": "youtube:6hBK5_g-fes",
+     "url": "https://www.youtube.com/shorts/6hBK5_g-fes",
+     "title": "Switch to ChatGPT Work!",
      "channel": "",
-     "views": 28,
+     "views": 111,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:5Tu2aljL5yI",
-     "url": "https://www.youtube.com/shorts/5Tu2aljL5yI",
-     "title": "ChatGPT Merges Chat and Work: What Changes for You?",
+     "id": "youtube:JFu9aC9MDVU",
+     "url": "https://www.youtube.com/shorts/JFu9aC9MDVU",
+     "title": "How does ChatGPT actually work?",
      "channel": "",
      "views": 22,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:977TZMs_nMI",
+     "url": "https://www.youtube.com/shorts/977TZMs_nMI",
+     "title": "OpenAI Is Merging ChatGPT's Chat and Work Tabs",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TNr5RDLko14",
+     "url": "https://www.youtube.com/shorts/TNr5RDLko14",
+     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs #Shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -1081,7 +1070,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T07:12:43.962Z"
+   "searched_at": "2026-11-03T13:22:07.664Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
