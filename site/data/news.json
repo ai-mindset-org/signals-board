@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T21:35:58.367Z",
+ "generated_at": "2026-11-03T22:50:01.908Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: british revolut 10x claude",
+   "source": "youtube: openai quietly renaming data",
    "ok": true
   },
   {
-   "source": "tiktok: british revolut 10x claude",
+   "source": "tiktok: openai quietly renaming data",
+   "ok": true
+  },
+  {
+   "source": "youtube: What Qwen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: What Qwen",
+   "ok": true
+  },
+  {
+   "source": "youtube: qwen thinking gets stuck",
+   "ok": true
+  },
+  {
+   "source": "tiktok: qwen thinking gets stuck",
    "ok": true
   }
  ],
@@ -383,12 +399,25 @@
    "queries": [
     "openai quietly renaming data"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7VSNTyvsuug",
+     "url": "https://www.youtube.com/watch?v=7VSNTyvsuug",
+     "title": "OpenAI is quietly renaming data centers compute campuses",
+     "channel": "Techpulse AI",
+     "views": 0,
+     "age_hours": 4,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T16:50:01.474Z"
+   "searched_at": "2026-11-03T22:50:05.900Z"
   },
   {
    "first_seen": "2026-11-02T21:10:46.298Z",
@@ -843,6 +872,109 @@
    "searched_at": "2026-11-03T17:49:40.812Z"
   },
   {
+   "first_seen": "2026-11-03T18:13:19.978Z",
+   "id": "39592440",
+   "ids": [
+    "39592440",
+    "39590702"
+   ],
+   "title": "Google says students in schools that ban AI won't have access to Search",
+   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
+   "source_id": "engadget",
+   "published_ts": "2026-11-03 17:10:43",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
+     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
+    }
+   ],
+   "queries": [
+    "google search students schools"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "@matthew_berman",
+     "views": 136000,
+     "age_hours": 131.6832186111111,
+     "relevance": 0.5,
+     "velocity": 1033
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:APlleh5_jv8",
+     "url": "https://www.youtube.com/shorts/APlleh5_jv8",
+     "title": "#Google just told #schools that if you ban #AI then your students lose Google Search too",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mMK-Ifc9M28",
+     "url": "https://www.youtube.com/shorts/mMK-Ifc9M28",
+     "title": "Say No to Google's AI, Lose Google Search #Shorts",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:l_18jAM4HPQ",
+     "url": "https://www.youtube.com/shorts/l_18jAM4HPQ",
+     "title": "Google to Schools: Block Its AI and Lose Search",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iS1OjDTkgkY",
+     "url": "https://www.youtube.com/shorts/iS1OjDTkgkY",
+     "title": "Google's AI Ultimatum for Schools! 🚨",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cY8uCsKyh0Y",
+     "url": "https://www.youtube.com/shorts/cY8uCsKyh0Y",
+     "title": "Google's Homework AI Won't Just Give You the Answer",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-03T18:13:23.963Z"
+  },
+  {
    "first_seen": "2026-11-03T10:36:29.259Z",
    "id": "39583915",
    "ids": [
@@ -947,107 +1079,35 @@
    "searched_at": "2026-11-03T10:36:38.488Z"
   },
   {
-   "first_seen": "2026-11-03T18:13:19.978Z",
-   "id": "39592440",
+   "first_seen": "2026-11-03T16:36:31.521Z",
+   "id": "39590635",
    "ids": [
-    "39592440",
-    "39590702"
+    "39590635",
+    "39585801"
    ],
-   "title": "Google says students in schools that ban AI won't have access to Search",
-   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
-   "source_id": "engadget",
-   "published_ts": "2026-11-03 17:10:43",
+   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-03 12:58:05",
    "story_sources": 2,
-   "score_norm": 53,
+   "score_norm": 49,
    "related_news": [
     {
-     "source_id": "futurism-ai",
-     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
-     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
+     "source_id": "hn",
+     "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+     "url": "https://alisorcorp.github.io/inside-a-reasoning-loop/"
     }
    ],
    "queries": [
-    "google search students schools"
+    "What Qwen",
+    "qwen thinking gets stuck"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google \"Carbon\" just won everything...",
-     "channel": "@matthew_berman",
-     "views": 136000,
-     "age_hours": 131.6832186111111,
-     "relevance": 0.5,
-     "velocity": 1033
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:APlleh5_jv8",
-     "url": "https://www.youtube.com/shorts/APlleh5_jv8",
-     "title": "#Google just told #schools that if you ban #AI then your students lose Google Search too",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mMK-Ifc9M28",
-     "url": "https://www.youtube.com/shorts/mMK-Ifc9M28",
-     "title": "Say No to Google's AI, Lose Google Search #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:l_18jAM4HPQ",
-     "url": "https://www.youtube.com/shorts/l_18jAM4HPQ",
-     "title": "Google to Schools: Block Its AI and Lose Search",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iS1OjDTkgkY",
-     "url": "https://www.youtube.com/shorts/iS1OjDTkgkY",
-     "title": "Google's AI Ultimatum for Schools! 🚨",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cY8uCsKyh0Y",
-     "url": "https://www.youtube.com/shorts/cY8uCsKyh0Y",
-     "title": "Google's Homework AI Won't Just Give You the Answer",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T18:13:23.963Z"
+   "searched_at": "2026-11-03T22:50:13.094Z"
   },
   {
    "first_seen": "2026-11-03T00:28:54.437Z",
@@ -1105,37 +1165,6 @@
    "searched_at": "2026-11-03T12:50:09.447Z"
   },
   {
-   "first_seen": "2026-11-03T16:36:31.521Z",
-   "id": "39590635",
-   "ids": [
-    "39590635",
-    "39585801"
-   ],
-   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-03 12:58:05",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-     "url": "https://alisorcorp.github.io/inside-a-reasoning-loop/"
-    }
-   ],
-   "queries": [
-    "What Qwen",
-    "qwen thinking gets stuck"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T16:36:40.083Z"
-  },
-  {
    "first_seen": "2026-11-03T02:36:22.300Z",
    "id": "39569238",
    "ids": [
@@ -1167,66 +1196,6 @@
    "searched_at": "2026-11-03T08:36:40.391Z"
   },
   {
-   "first_seen": "2026-11-03T12:50:01.589Z",
-   "id": "39582658",
-   "ids": [
-    "39582658",
-    "39585984"
-   ],
-   "title": "Pick n Pay turns to AI to speed up online orders",
-   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
-   "source_id": "za-techcentral",
-   "published_ts": "2026-11-03 08:41:57",
-   "story_sources": 2,
-   "score_norm": 46,
-   "related_news": [
-    {
-     "source_id": "africa-itweb",
-     "title": "Pick n Pay targets faster online orders with AI",
-     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
-    }
-   ],
-   "queries": [
-    "pick pay turns ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T18:50:10.923Z"
-  },
-  {
-   "first_seen": "2026-11-03T12:36:55.454Z",
-   "id": "39585764",
-   "ids": [
-    "39585764",
-    "39577990"
-   ],
-   "title": "NCSC warns UK firms could face a torrent of AI-powered cyber attacks",
-   "url": "https://www.itpro.com/security/cyber-attacks/the-ncsc-says-ai-powered-cyber-attacks-are-coming-for-uk-firms-but-they-still-need-to-sharpen-up-on-basic-security-practices",
-   "source_id": "eu-itpro",
-   "published_ts": "2026-11-03 10:55:27",
-   "story_sources": 2,
-   "score_norm": 46,
-   "related_news": [
-    {
-     "source_id": "eu-computerweekly",
-     "title": "UK to face AI-powered cyber attacks within two years, warns NCSC",
-     "url": "https://www.computerweekly.com/news/366653412/UK-to-face-AI-powered-cyber-attacks-within-two-years-warns-NCSC"
-    }
-   ],
-   "queries": [
-    "ncsc uk ai-powered warns"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T18:50:14.519Z"
-  },
-  {
    "first_seen": "2026-11-03T05:49:47.455Z",
    "id": "39572554",
    "ids": [
@@ -1240,7 +1209,7 @@
    "source_id": "latent-space",
    "published_ts": "2026-11-03 05:35:00",
    "story_sources": 2,
-   "score_norm": 46,
+   "score_norm": 47,
    "related_news": [
     {
      "source_id": "reddit-localllama",
@@ -1331,6 +1300,66 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T18:24:52.995Z"
+  },
+  {
+   "first_seen": "2026-11-03T12:50:01.589Z",
+   "id": "39582658",
+   "ids": [
+    "39582658",
+    "39585984"
+   ],
+   "title": "Pick n Pay turns to AI to speed up online orders",
+   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
+   "source_id": "za-techcentral",
+   "published_ts": "2026-11-03 08:41:57",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "africa-itweb",
+     "title": "Pick n Pay targets faster online orders with AI",
+     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
+    }
+   ],
+   "queries": [
+    "pick pay turns ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T18:50:10.923Z"
+  },
+  {
+   "first_seen": "2026-11-03T12:36:55.454Z",
+   "id": "39585764",
+   "ids": [
+    "39585764",
+    "39577990"
+   ],
+   "title": "NCSC warns UK firms could face a torrent of AI-powered cyber attacks",
+   "url": "https://www.itpro.com/security/cyber-attacks/the-ncsc-says-ai-powered-cyber-attacks-are-coming-for-uk-firms-but-they-still-need-to-sharpen-up-on-basic-security-practices",
+   "source_id": "eu-itpro",
+   "published_ts": "2026-11-03 10:55:27",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "eu-computerweekly",
+     "title": "UK to face AI-powered cyber attacks within two years, warns NCSC",
+     "url": "https://www.computerweekly.com/news/366653412/UK-to-face-AI-powered-cyber-attacks-within-two-years-warns-NCSC"
+    }
+   ],
+   "queries": [
+    "ncsc uk ai-powered warns"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T18:50:14.519Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
