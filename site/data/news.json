@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T02:49:59.460Z",
+ "generated_at": "2026-11-03T03:13:14.536Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: towards llms understanding score-seeking",
+   "ok": true
+  },
+  {
+   "source": "tiktok: towards llms understanding score-seeking",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -400,7 +409,7 @@
    "source_id": "import-ai",
    "published_ts": "2026-11-02 14:30:54",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "x-importai-substack",
@@ -721,7 +730,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-02T21:10:50.563Z"
+   "searched_at": "2026-11-03T03:13:18.809Z"
   },
   {
    "first_seen": "2026-11-02T07:50:10.398Z",
@@ -869,7 +878,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-11-02 11:54:00",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "eu-t3n",
@@ -899,49 +908,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
-  },
-  {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524839",
-   "ids": [
-    "39524839",
-    "39521582"
-   ],
-   "title": "US privacy-focused AI startup Ollie to shut down",
-   "url": "https://www.techinasia.com/news/privacyfocused-ai-startup-ollie-shut",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 03:05:08",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
-    }
-   ],
-   "queries": [
-    "us ollie privacy-focused ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xf3TEjzA4Xw",
-     "url": "https://www.youtube.com/watch?v=xf3TEjzA4Xw",
-     "title": "Ollie AI Assistant to Shut Down Next Week",
-     "channel": "Newsreel",
-     "views": 0,
-     "age_hours": 18,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T22:49:54.289Z"
   },
   {
    "first_seen": "2026-10-31T12:26:33.211Z",
