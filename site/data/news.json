@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:12:39.747Z",
+ "generated_at": "2026-11-03T08:36:32.968Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai chatgpt merge chat",
+   "source": "youtube: Genie 4",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt merge chat",
+   "source": "tiktok: Genie 4",
+   "ok": true
+  },
+  {
+   "source": "youtube: import 479 spacewar llms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: import 479 spacewar llms",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic ipo 17bn 895bn",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic ipo 17bn 895bn",
    "ok": true
   }
  ],
@@ -697,7 +713,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-02 23:19:38",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
@@ -769,7 +785,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T02:36:30.109Z"
+   "searched_at": "2026-11-03T08:36:40.391Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
@@ -783,7 +799,7 @@
    "source_id": "zdnet-ai",
    "published_ts": "2026-11-02 18:01:55",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -900,6 +916,18 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0nIiYsn507A",
+     "url": "https://www.youtube.com/watch?v=0nIiYsn507A",
+     "title": "The Anthropic IPO Filing Blew My Mind",
+     "channel": "Michael Sikand",
+     "views": 7219,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 100
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:nKYw4VmAOfI",
      "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
@@ -917,21 +945,9 @@
      "url": "https://www.youtube.com/shorts/9Etf31OnKAg",
      "title": "Anthropic’s IPO Filing Is Out… Unreal 🤯",
      "channel": "",
-     "views": 595,
+     "views": 981,
      "age_hours": null,
      "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:280Ai2BeDYE",
-     "url": "https://www.youtube.com/shorts/280Ai2BeDYE",
-     "title": "Why Anthropic's IPO may backfire",
-     "channel": "",
-     "views": 250,
-     "age_hours": null,
-     "relevance": 0.5,
      "velocity": null
     },
     {
@@ -941,7 +957,7 @@
      "url": "https://www.youtube.com/shorts/1CRy8qVSmgU",
      "title": "Anthropic IPO: $17B revenue, $23.3B loss",
      "channel": "",
-     "views": 72,
+     "views": 91,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -951,7 +967,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T02:16:17.161Z"
+   "searched_at": "2026-11-03T08:36:43.957Z"
   },
   {
    "first_seen": "2026-10-31T12:26:33.211Z",
