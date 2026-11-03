@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T01:12:08.067Z",
+ "generated_at": "2026-11-03T02:16:12.751Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai chatgpt merge chat",
+   "source": "youtube: anthropic ipo 17bn 895bn",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt merge chat",
+   "source": "tiktok: anthropic ipo 17bn 895bn",
    "ok": true
   }
  ],
@@ -227,73 +227,6 @@
    "searched_at": "2026-11-01T08:36:07.890Z"
   },
   {
-   "first_seen": "2026-11-03T00:28:54.437Z",
-   "id": "39576518",
-   "ids": [
-    "39576518",
-    "39566264"
-   ],
-   "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
-   "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-02 23:19:38",
-   "story_sources": 2,
-   "score_norm": 98,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
-     "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
-    }
-   ],
-   "queries": [
-    "anthropic 17b ipo quarterly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CI5a_vnr6_c",
-     "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
-     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
-     "channel": "Bloomberg Tech",
-     "views": 3912,
-     "age_hours": 7,
-     "relevance": 0.57,
-     "velocity": 559
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nKYw4VmAOfI",
-     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
-     "title": "Anthropic IPO $2Trillion Trap ?",
-     "channel": "",
-     "views": 3200,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:R9yJSPJtiSU",
-     "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
-     "title": "The Anthropic IPO: A Preview",
-     "channel": "CFRA Research",
-     "views": 21,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T00:28:58.581Z"
-  },
-  {
    "first_seen": "2026-11-01T12:15:00.133Z",
    "id": "39545138",
    "ids": [
@@ -398,6 +331,116 @@
    "searched_at": "2026-11-01T12:15:07.810Z"
   },
   {
+   "first_seen": "2026-11-03T00:28:54.437Z",
+   "id": "39576518",
+   "ids": [
+    "39576518",
+    "39566264"
+   ],
+   "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
+   "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-02 23:19:38",
+   "story_sources": 2,
+   "score_norm": 94,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
+     "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
+    }
+   ],
+   "queries": [
+    "anthropic 17b ipo quarterly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CI5a_vnr6_c",
+     "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
+     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
+     "channel": "Bloomberg Tech",
+     "views": 3912,
+     "age_hours": 7,
+     "relevance": 0.57,
+     "velocity": 559
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nKYw4VmAOfI",
+     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
+     "title": "Anthropic IPO $2Trillion Trap ?",
+     "channel": "",
+     "views": 3200,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:R9yJSPJtiSU",
+     "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
+     "title": "The Anthropic IPO: A Preview",
+     "channel": "CFRA Research",
+     "views": 21,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T00:28:58.581Z"
+  },
+  {
+   "first_seen": "2026-10-31T04:12:36.356Z",
+   "id": "39524841",
+   "ids": [
+    "39524841",
+    "39515805"
+   ],
+   "title": "Anthropic may miss investment-grade rating after IPO: report",
+   "url": "https://www.techinasia.com/news/anthropic-may-miss-investment-rating-ipo",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-10-31 02:49:11",
+   "story_sources": 2,
+   "score_norm": 87,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+     "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+    }
+   ],
+   "queries": [
+    "anthropic ipo may miss"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hV8SHWIwbmc",
+     "url": "https://www.youtube.com/shorts/hV8SHWIwbmc",
+     "title": "What's at stake in the Anthropic IPO?",
+     "channel": "",
+     "views": 3400,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-10-31T16:36:04.807Z"
+  },
+  {
    "first_seen": "2026-11-02T19:09:20.461Z",
    "id": "39571322",
    "ids": [
@@ -409,7 +452,7 @@
    "source_id": "zdnet-ai",
    "published_ts": "2026-11-02 18:01:55",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -499,109 +542,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T01:12:12.198Z"
-  },
-  {
-   "first_seen": "2026-10-31T04:12:36.356Z",
-   "id": "39524841",
-   "ids": [
-    "39524841",
-    "39515805"
-   ],
-   "title": "Anthropic may miss investment-grade rating after IPO: report",
-   "url": "https://www.techinasia.com/news/anthropic-may-miss-investment-rating-ipo",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-10-31 02:49:11",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-     "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
-    }
-   ],
-   "queries": [
-    "anthropic ipo may miss"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:hV8SHWIwbmc",
-     "url": "https://www.youtube.com/shorts/hV8SHWIwbmc",
-     "title": "What's at stake in the Anthropic IPO?",
-     "channel": "",
-     "views": 3400,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-10-31T16:36:04.807Z"
-  },
-  {
-   "first_seen": "2026-11-02T20:10:48.286Z",
-   "id": "39569650",
-   "ids": [
-    "39569650",
-    "39572252"
-   ],
-   "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
-   "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-02 16:58:14",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic's Amended IPO Filing Shows $895B in Compute Commitments",
-     "url": "https://epyhia.com/anthropic-s-amended-ipo-filing-shows-17-billion-q3-revenue-and-895"
-    }
-   ],
-   "queries": [
-    "anthropic ipo 17bn 895bn"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-02T20:10:52.694Z"
-  },
-  {
-   "first_seen": "2026-11-02T21:10:46.298Z",
-   "id": "39573392",
-   "ids": [
-    "39573392",
-    "39560568"
-   ],
-   "title": "Towards understanding score-seeking in LLMs",
-   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-02 19:51:55",
-   "story_sources": 2,
-   "score_norm": 79,
-   "related_news": [
-    {
-     "source_id": "arxiv-lg",
-     "title": "Towards Understanding Score-Seeking in LLMs",
-     "url": "https://arxiv.org/abs/2610.41014"
-    }
-   ],
-   "queries": [
-    "towards llms understanding score-seeking"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-02T21:10:50.563Z"
   },
   {
    "first_seen": "2026-10-31T19:49:56.167Z",
@@ -696,6 +636,85 @@
    "searched_at": "2026-11-01T08:24:37.575Z"
   },
   {
+   "first_seen": "2026-11-02T20:10:48.286Z",
+   "id": "39569650",
+   "ids": [
+    "39569650",
+    "39572252"
+   ],
+   "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
+   "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-02 16:58:14",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic's Amended IPO Filing Shows $895B in Compute Commitments",
+     "url": "https://epyhia.com/anthropic-s-amended-ipo-filing-shows-17-billion-q3-revenue-and-895"
+    }
+   ],
+   "queries": [
+    "anthropic ipo 17bn 895bn"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nKYw4VmAOfI",
+     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
+     "title": "Anthropic IPO $2Trillion Trap ?",
+     "channel": "",
+     "views": 3300,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9Etf31OnKAg",
+     "url": "https://www.youtube.com/shorts/9Etf31OnKAg",
+     "title": "Anthropic’s IPO Filing Is Out… Unreal 🤯",
+     "channel": "",
+     "views": 595,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:280Ai2BeDYE",
+     "url": "https://www.youtube.com/shorts/280Ai2BeDYE",
+     "title": "Why Anthropic's IPO may backfire",
+     "channel": "",
+     "views": 250,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1CRy8qVSmgU",
+     "url": "https://www.youtube.com/shorts/1CRy8qVSmgU",
+     "title": "Anthropic IPO: $17B revenue, $23.3B loss",
+     "channel": "",
+     "views": 72,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T02:16:17.161Z"
+  },
+  {
    "first_seen": "2026-11-02T07:50:10.398Z",
    "id": "39558547",
    "ids": [
@@ -725,6 +744,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-02T20:21:13.900Z"
+  },
+  {
+   "first_seen": "2026-11-02T21:10:46.298Z",
+   "id": "39573392",
+   "ids": [
+    "39573392",
+    "39560568"
+   ],
+   "title": "Towards understanding score-seeking in LLMs",
+   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-02 19:51:55",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "arxiv-lg",
+     "title": "Towards Understanding Score-Seeking in LLMs",
+     "url": "https://arxiv.org/abs/2610.41014"
+    }
+   ],
+   "queries": [
+    "towards llms understanding score-seeking"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-02T21:10:50.563Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
@@ -841,7 +890,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-11-02 11:54:00",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "eu-t3n",
