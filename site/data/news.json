@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T08:36:32.968Z",
+ "generated_at": "2026-11-03T09:23:42.698Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Genie 4",
+   "source": "youtube: anthropic racing obtain ai",
    "ok": true
   },
   {
-   "source": "tiktok: Genie 4",
-   "ok": true
-  },
-  {
-   "source": "youtube: import 479 spacewar llms",
-   "ok": true
-  },
-  {
-   "source": "tiktok: import 479 spacewar llms",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo 17bn 895bn",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo 17bn 895bn",
+   "source": "tiktok: anthropic racing obtain ai",
    "ok": true
   }
  ],
@@ -757,54 +741,24 @@
    "searched_at": "2026-11-03T06:40:09.204Z"
   },
   {
-   "first_seen": "2026-11-03T02:36:22.300Z",
-   "id": "39569238",
-   "ids": [
-    "39569238",
-    "39578058"
-   ],
-   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-   "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-02 14:30:54",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-     "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency"
-    }
-   ],
-   "queries": [
-    "Genie 4",
-    "import 479 spacewar llms"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T08:36:40.391Z"
-  },
-  {
    "first_seen": "2026-11-02T19:09:20.461Z",
    "id": "39571322",
    "ids": [
     "39571322",
-    "39565585"
+    "39565585",
+    "39582815"
    ],
-   "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
-   "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
-   "source_id": "zdnet-ai",
-   "published_ts": "2026-11-02 18:01:55",
+   "title": "OpenAI to merge ChatGPT’s Chat, Work tabs in desktop app: What changes for users?",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-merge-chatgpt-chat-work-tabs-10948370/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-03 06:15:04",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 64,
    "related_news": [
     {
-     "source_id": "x-techcrunch",
-     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+     "source_id": "zdnet-ai",
+     "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
+     "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/"
     }
    ],
    "queries": [
@@ -889,6 +843,80 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T07:12:43.962Z"
+  },
+  {
+   "first_seen": "2026-11-03T02:36:22.300Z",
+   "id": "39569238",
+   "ids": [
+    "39569238",
+    "39578058"
+   ],
+   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+   "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-02 14:30:54",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+     "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency"
+    }
+   ],
+   "queries": [
+    "Genie 4",
+    "import 479 spacewar llms"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T08:36:40.391Z"
+  },
+  {
+   "first_seen": "2026-11-03T09:23:42.698Z",
+   "id": "39582817",
+   "ids": [
+    "39582817",
+    "39572401"
+   ],
+   "title": "Anthropic is racing to obtain the AI boom’s most vital resource",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-ai-boom-most-vital-resource-10948158/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-03 03:35:18",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic Is Racing to Obtain the A.I. Boom's Most Vital Resource",
+     "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html"
+    }
+   ],
+   "queries": [
+    "anthropic racing obtain ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dwJRz50owis",
+     "url": "https://www.youtube.com/shorts/dwJRz50owis",
+     "title": "Anthropic Says It’s Close to Self-Building AI",
+     "channel": "",
+     "views": 255,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T09:23:47.092Z"
   },
   {
    "first_seen": "2026-11-02T20:10:48.286Z",
