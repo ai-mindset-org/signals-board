@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:49:32.832Z",
+ "generated_at": "2026-11-03T18:13:19.978Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Like GPT-6 Astra",
+   "source": "youtube: google search students schools",
    "ok": true
   },
   {
-   "source": "tiktok: Like GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: like gpt-6 astra qwen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: like gpt-6 astra qwen",
+   "source": "tiktok: google search students schools",
    "ok": true
   }
  ],
@@ -862,6 +854,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
+  },
+  {
+   "first_seen": "2026-11-03T18:13:19.978Z",
+   "id": "39592440",
+   "ids": [
+    "39592440",
+    "39590702"
+   ],
+   "title": "Google says students in schools that ban AI won't have access to Search",
+   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
+   "source_id": "engadget",
+   "published_ts": "2026-11-03 17:10:43",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
+     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
+    }
+   ],
+   "queries": [
+    "google search students schools"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "@matthew_berman",
+     "views": 136000,
+     "age_hours": 131.6832186111111,
+     "relevance": 0.5,
+     "velocity": 1033
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:APlleh5_jv8",
+     "url": "https://www.youtube.com/shorts/APlleh5_jv8",
+     "title": "#Google just told #schools that if you ban #AI then your students lose Google Search too",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mMK-Ifc9M28",
+     "url": "https://www.youtube.com/shorts/mMK-Ifc9M28",
+     "title": "Say No to Google's AI, Lose Google Search #Shorts",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:l_18jAM4HPQ",
+     "url": "https://www.youtube.com/shorts/l_18jAM4HPQ",
+     "title": "Google to Schools: Block Its AI and Lose Search",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iS1OjDTkgkY",
+     "url": "https://www.youtube.com/shorts/iS1OjDTkgkY",
+     "title": "Google's AI Ultimatum for Schools! 🚨",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cY8uCsKyh0Y",
+     "url": "https://www.youtube.com/shorts/cY8uCsKyh0Y",
+     "title": "Google's Homework AI Won't Just Give You the Answer",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-03T18:13:23.963Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
