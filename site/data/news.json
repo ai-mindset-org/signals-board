@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:13:19.978Z",
+ "generated_at": "2026-11-03T18:24:43.746Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: google search students schools",
+   "source": "youtube: Weight-Space Programming",
    "ok": true
   },
   {
-   "source": "tiktok: google search students schools",
+   "source": "tiktok: Weight-Space Programming",
+   "ok": true
+  },
+  {
+   "source": "youtube: sparks weight-space programming llms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sparks weight-space programming llms",
    "ok": true
   }
  ],
@@ -400,14 +408,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:r8sZgPx4jYA",
+     "url": "https://www.youtube.com/watch?v=r8sZgPx4jYA",
+     "title": "LLMs Can Now Read and Write Neural Network Weights",
+     "channel": "Jia-Bin Huang",
+     "views": 2286,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 762
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:uiabfIxxgbQ",
      "url": "https://www.youtube.com/watch?v=uiabfIxxgbQ",
      "title": "Weight-Space Programming Explained: Can an LLM Read and Write Neural Network Weights?",
      "channel": "AI Paper Slop",
-     "views": 598,
-     "age_hours": 14,
+     "views": 1249,
+     "age_hours": 20,
      "relevance": 0.8,
-     "velocity": 43
+     "velocity": 62
     },
     {
      "platform": "youtube",
@@ -416,22 +436,34 @@
      "url": "https://www.youtube.com/watch?v=RUbxQuzjMqo",
      "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks WEIGHTS",
      "channel": "AI WITH Rithesh",
-     "views": 239,
-     "age_hours": 7,
+     "views": 408,
+     "age_hours": 13,
      "relevance": 0.64,
-     "velocity": 34
+     "velocity": 31
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xOMOSpD5XKc",
+     "url": "https://www.youtube.com/shorts/xOMOSpD5XKc",
+     "title": "Can AI Debug AI? Weight-Space Programming Explained",
+     "channel": "",
+     "views": 246,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:We_ZXMaHW-o",
-     "url": "https://www.youtube.com/watch?v=We_ZXMaHW-o",
-     "title": "LLMs can natively read & write neural network weights",
-     "channel": "The Pretrained Pod",
-     "views": 118,
-     "age_hours": 5,
+     "id": "youtube:Rw1Td79gfCY",
+     "url": "https://www.youtube.com/watch?v=Rw1Td79gfCY",
+     "title": "Sparks of Weight-Space Programming ",
+     "channel": "Data Science in your pocket",
+     "views": 18,
+     "age_hours": 3,
      "relevance": 1,
-     "velocity": 24
+     "velocity": 6
     },
     {
      "platform": "youtube",
@@ -440,7 +472,7 @@
      "url": "https://www.youtube.com/shorts/fj08MhTUAek",
      "title": "LLMs Edit Weights Without Gradients",
      "channel": "",
-     "views": 46,
+     "views": 63,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -450,7 +482,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T12:16:44.652Z"
+   "searched_at": "2026-11-03T18:24:52.995Z"
   },
   {
    "first_seen": "2026-10-31T19:49:56.167Z",
