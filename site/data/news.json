@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T20:21:41.850Z",
+ "generated_at": "2026-11-03T21:35:58.367Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: fal 16b ai inference",
+   "source": "youtube: british revolut 10x claude",
    "ok": true
   },
   {
-   "source": "tiktok: fal 16b ai inference",
+   "source": "tiktok: british revolut 10x claude",
    "ok": true
   }
  ],
@@ -372,7 +372,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-03 15:00:44",
    "story_sources": 2,
-   "score_norm": 82,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -553,6 +553,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-02T10:22:55.524Z"
+  },
+  {
+   "first_seen": "2026-11-03T21:35:58.367Z",
+   "id": "39596483",
+   "ids": [
+    "39596483",
+    "39596701"
+   ],
+   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-03 21:05:30",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
+     "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"
+    }
+   ],
+   "queries": [
+    "british revolut 10x claude"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ia9SGQf21aE",
+     "url": "https://www.youtube.com/shorts/Ia9SGQf21aE",
+     "title": "How Revolut Pays a Tenth for AI Coding",
+     "channel": "",
+     "views": 278,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T21:36:03.023Z"
   },
   {
    "first_seen": "2026-11-02T12:17:57.473Z",
@@ -1124,6 +1167,36 @@
    "searched_at": "2026-11-03T08:36:40.391Z"
   },
   {
+   "first_seen": "2026-11-03T12:50:01.589Z",
+   "id": "39582658",
+   "ids": [
+    "39582658",
+    "39585984"
+   ],
+   "title": "Pick n Pay turns to AI to speed up online orders",
+   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
+   "source_id": "za-techcentral",
+   "published_ts": "2026-11-03 08:41:57",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "africa-itweb",
+     "title": "Pick n Pay targets faster online orders with AI",
+     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
+    }
+   ],
+   "queries": [
+    "pick pay turns ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T18:50:10.923Z"
+  },
+  {
    "first_seen": "2026-11-03T12:36:55.454Z",
    "id": "39585764",
    "ids": [
@@ -1154,36 +1227,6 @@
    "searched_at": "2026-11-03T18:50:14.519Z"
   },
   {
-   "first_seen": "2026-11-03T12:50:01.589Z",
-   "id": "39582658",
-   "ids": [
-    "39582658",
-    "39585984"
-   ],
-   "title": "Pick n Pay turns to AI to speed up online orders",
-   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
-   "source_id": "za-techcentral",
-   "published_ts": "2026-11-03 08:41:57",
-   "story_sources": 2,
-   "score_norm": 45,
-   "related_news": [
-    {
-     "source_id": "africa-itweb",
-     "title": "Pick n Pay targets faster online orders with AI",
-     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
-    }
-   ],
-   "queries": [
-    "pick pay turns ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T18:50:10.923Z"
-  },
-  {
    "first_seen": "2026-11-03T05:49:47.455Z",
    "id": "39572554",
    "ids": [
@@ -1197,7 +1240,7 @@
    "source_id": "latent-space",
    "published_ts": "2026-11-03 05:35:00",
    "story_sources": 2,
-   "score_norm": 45,
+   "score_norm": 46,
    "related_news": [
     {
      "source_id": "reddit-localllama",
