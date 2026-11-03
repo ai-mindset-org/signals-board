@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T09:36:45.947Z",
+ "generated_at": "2026-11-03T10:36:29.259Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Scaling Git",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Scaling Git",
+   "ok": true
+  },
+  {
+   "source": "youtube: scaling git openai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: scaling git openai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
@@ -681,6 +698,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
+  },
+  {
+   "first_seen": "2026-11-03T10:36:29.259Z",
+   "id": "39583915",
+   "ids": [
+    "39583915",
+    "39576131"
+   ],
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-02 15:30:00",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Scaling Git at OpenAI",
+     "url": "https://openai.com/index/scaling-git-at-openai/"
+    }
+   ],
+   "queries": [
+    "Scaling Git",
+    "scaling git openai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xHg8lbQrmT4",
+     "url": "https://www.youtube.com/shorts/xHg8lbQrmT4",
+     "title": "OpenAI has replaced Git for their agentic systems code management #ai #news #genai #openai",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sLWA_7gH8DY",
+     "url": "https://www.youtube.com/shorts/sLWA_7gH8DY",
+     "title": "OpenAI: Scaling Git at OpenAI",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Cei8n-2ZzZ4",
+     "url": "https://www.youtube.com/shorts/Cei8n-2ZzZ4",
+     "title": "OpenAI's Pando: a Git backend built for agent-scale concurrency",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:csPV188mVS4",
+     "url": "https://www.youtube.com/shorts/csPV188mVS4",
+     "title": "OpenAI Scaling Git #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mtSfpbFiz7s",
+     "url": "https://www.youtube.com/watch?v=mtSfpbFiz7s",
+     "title": "When Git Stops Scaling: Used To and No Longer (B1 Business English)",
+     "channel": "CareerTalkLab",
+     "views": 7,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:R9X7YXPxRtI",
+     "url": "https://www.youtube.com/shorts/R9X7YXPxRtI",
+     "title": "OpenAI built Pando to scale Git for Codex-era coding",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T10:36:38.488Z"
   },
   {
    "first_seen": "2026-10-31T12:26:33.211Z",
