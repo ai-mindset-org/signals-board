@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T09:23:42.698Z",
+ "generated_at": "2026-11-03T09:36:45.947Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,31 +7,28 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: anthropic racing obtain ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic racing obtain ai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
    "id": "39572554",
    "ids": [
     "39572554",
-    "39580494"
+    "39580494",
+    "39583271"
    ],
    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
    "source_id": "reddit-ml",
    "published_ts": "2026-11-02 20:18:26",
-   "story_sources": 2,
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
+    {
+     "source_id": "latent-space",
+     "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+     "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
+    },
     {
      "source_id": "reddit-localllama",
      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
@@ -686,6 +683,36 @@
    "searched_at": "2026-11-03T00:29:02.050Z"
   },
   {
+   "first_seen": "2026-10-31T12:26:33.211Z",
+   "id": "39529856",
+   "ids": [
+    "39529856",
+    "39528461"
+   ],
+   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
+   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-10-31 10:46:16",
+   "story_sources": 2,
+   "score_norm": 52,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
+     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
+    }
+   ],
+   "queries": [
+    "meity depa unveils handbook"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-01T07:11:53.281Z"
+  },
+  {
    "first_seen": "2026-11-03T00:28:54.437Z",
    "id": "39576518",
    "ids": [
@@ -697,7 +724,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-02 23:19:38",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 49,
    "related_news": [
     {
      "source_id": "hn",
@@ -741,6 +768,37 @@
    "searched_at": "2026-11-03T06:40:09.204Z"
   },
   {
+   "first_seen": "2026-11-03T02:36:22.300Z",
+   "id": "39569238",
+   "ids": [
+    "39569238",
+    "39578058"
+   ],
+   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+   "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-02 14:30:54",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+     "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency"
+    }
+   ],
+   "queries": [
+    "Genie 4",
+    "import 479 spacewar llms"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T08:36:40.391Z"
+  },
+  {
    "first_seen": "2026-11-02T19:09:20.461Z",
    "id": "39571322",
    "ids": [
@@ -753,7 +811,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-03 06:15:04",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 48,
    "related_news": [
     {
      "source_id": "zdnet-ai",
@@ -845,37 +903,6 @@
    "searched_at": "2026-11-03T07:12:43.962Z"
   },
   {
-   "first_seen": "2026-11-03T02:36:22.300Z",
-   "id": "39569238",
-   "ids": [
-    "39569238",
-    "39578058"
-   ],
-   "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-   "url": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-02 14:30:54",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
-     "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency"
-    }
-   ],
-   "queries": [
-    "Genie 4",
-    "import 479 spacewar llms"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T08:36:40.391Z"
-  },
-  {
    "first_seen": "2026-11-03T09:23:42.698Z",
    "id": "39582817",
    "ids": [
@@ -887,7 +914,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-03 03:35:18",
    "story_sources": 2,
-   "score_norm": 55,
+   "score_norm": 42,
    "related_news": [
     {
      "source_id": "hn",
@@ -930,7 +957,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-02 16:58:14",
    "story_sources": 2,
-   "score_norm": 55,
+   "score_norm": 42,
    "related_news": [
     {
      "source_id": "hn",
@@ -996,36 +1023,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T08:36:43.957Z"
-  },
-  {
-   "first_seen": "2026-10-31T12:26:33.211Z",
-   "id": "39529856",
-   "ids": [
-    "39529856",
-    "39528461"
-   ],
-   "title": "MeitY unveils DEPA handbook to enable trusted data sharing for AI training",
-   "url": "https://yourstory.com/2026/10/meity-unveils-depa-handbook-to-enable-trusted-data-sharing-for-ai-training",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-10-31 10:46:16",
-   "story_sources": 2,
-   "score_norm": 52,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "MeitY launches DEPA handbook to enable secure data sharing for AI training",
-     "url": "https://www.thehindubusinessline.com/info-tech/meity-launches-depa-handbook-to-enable-secure-data-sharing-for-ai-training/article71648821.ece"
-    }
-   ],
-   "queries": [
-    "meity depa unveils handbook"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-01T07:11:53.281Z"
   }
  ]
 }
