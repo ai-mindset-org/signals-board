@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T12:36:55.454Z",
+ "generated_at": "2026-11-03T12:50:01.589Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: ncsc uk ai-powered warns",
+   "source": "youtube: pick pay turns ai",
    "ok": true
   },
   {
-   "source": "tiktok: ncsc uk ai-powered warns",
+   "source": "tiktok: pick pay turns ai",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic 17b ipo quarterly",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic 17b ipo quarterly",
    "ok": true
   }
  ],
@@ -722,6 +730,36 @@
    "searched_at": "2026-11-03T00:29:02.050Z"
   },
   {
+   "first_seen": "2026-11-03T12:50:01.589Z",
+   "id": "39582658",
+   "ids": [
+    "39582658",
+    "39585984"
+   ],
+   "title": "Pick n Pay turns to AI to speed up online orders",
+   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
+   "source_id": "za-techcentral",
+   "published_ts": "2026-11-03 08:41:57",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "africa-itweb",
+     "title": "Pick n Pay targets faster online orders with AI",
+     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
+    }
+   ],
+   "queries": [
+    "pick pay turns ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T12:50:05.930Z"
+  },
+  {
    "first_seen": "2026-11-03T12:36:55.454Z",
    "id": "39585764",
    "ids": [
@@ -886,10 +924,10 @@
      "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
      "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
      "channel": "Bloomberg Tech",
-     "views": 4851,
-     "age_hours": 13,
+     "views": 5367,
+     "age_hours": 19,
      "relevance": 0.57,
-     "velocity": 373
+     "velocity": 282
     },
     {
      "platform": "youtube",
@@ -898,8 +936,8 @@
      "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
      "title": "The Anthropic IPO: A Preview",
      "channel": "CFRA Research",
-     "views": 22,
-     "age_hours": 16,
+     "views": 24,
+     "age_hours": 22,
      "relevance": 0.67,
      "velocity": 1
     }
@@ -908,7 +946,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T06:40:09.204Z"
+   "searched_at": "2026-11-03T12:50:09.447Z"
   },
   {
    "first_seen": "2026-11-03T02:36:22.300Z",
