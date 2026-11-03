@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T10:50:00.438Z",
+ "generated_at": "2026-11-03T12:16:36.828Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Weight-Space Programming",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Weight-Space Programming",
+   "ok": true
+  },
+  {
+   "source": "youtube: sparks weight-space programming llms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sparks weight-space programming llms",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
@@ -15,7 +32,8 @@
    "ids": [
     "39572554",
     "39580494",
-    "39583271"
+    "39583271",
+    "39585333"
    ],
    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
@@ -28,6 +46,11 @@
      "source_id": "latent-space",
      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
+    },
+    {
+     "source_id": "reddit-localllama",
+     "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/"
     },
     {
      "source_id": "reddit-localllama",
@@ -47,29 +70,53 @@
      "url": "https://www.youtube.com/watch?v=uiabfIxxgbQ",
      "title": "Weight-Space Programming Explained: Can an LLM Read and Write Neural Network Weights?",
      "channel": "AI Paper Slop",
-     "views": 218,
-     "age_hours": 7,
+     "views": 598,
+     "age_hours": 14,
      "relevance": 0.8,
-     "velocity": 31
+     "velocity": 43
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:RUbxQuzjMqo",
      "url": "https://www.youtube.com/watch?v=RUbxQuzjMqo",
-     "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks",
+     "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks WEIGHTS",
      "channel": "AI WITH Rithesh",
-     "views": 8,
-     "age_hours": 0.8,
-     "relevance": 0.55,
-     "velocity": 8
+     "views": 239,
+     "age_hours": 7,
+     "relevance": 0.64,
+     "velocity": 34
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:We_ZXMaHW-o",
+     "url": "https://www.youtube.com/watch?v=We_ZXMaHW-o",
+     "title": "LLMs can natively read & write neural network weights",
+     "channel": "The Pretrained Pod",
+     "views": 118,
+     "age_hours": 5,
+     "relevance": 1,
+     "velocity": 24
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fj08MhTUAek",
+     "url": "https://www.youtube.com/shorts/fj08MhTUAek",
+     "title": "LLMs Edit Weights Without Gradients",
+     "channel": "",
+     "views": 46,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T05:49:55.000Z"
+   "searched_at": "2026-11-03T12:16:44.652Z"
   },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -885,7 +932,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-03 06:15:04",
    "story_sources": 2,
-   "score_norm": 48,
+   "score_norm": 47,
    "related_news": [
     {
      "source_id": "zdnet-ai",
