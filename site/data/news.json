@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T16:36:31.521Z",
+ "generated_at": "2026-11-03T16:49:57.376Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,114 +9,44 @@
  },
  "search_report": [
   {
-   "source": "youtube: What Qwen",
+   "source": "youtube: openai quietly renaming data",
    "ok": true
   },
   {
-   "source": "tiktok: What Qwen",
-   "ok": true
-  },
-  {
-   "source": "youtube: qwen thinking gets stuck",
-   "ok": true
-  },
-  {
-   "source": "tiktok: qwen thinking gets stuck",
+   "source": "tiktok: openai quietly renaming data",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-03T05:49:47.455Z",
-   "id": "39572554",
+   "first_seen": "2026-11-03T16:49:57.376Z",
+   "id": "39590813",
    "ids": [
-    "39572554",
-    "39580494",
-    "39583271",
-    "39585333"
+    "39590813",
+    "39577402"
    ],
-   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-02 20:18:26",
-   "story_sources": 3,
+   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+   "source_id": "theverge",
+   "published_ts": "2026-11-03 15:00:44",
+   "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "latent-space",
-     "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-     "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
-    },
-    {
-     "source_id": "reddit-localllama",
-     "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/"
-    },
-    {
-     "source_id": "reddit-localllama",
-     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/"
+     "source_id": "hn",
+     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
+     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
     }
    ],
    "queries": [
-    "Weight-Space Programming",
-    "sparks weight-space programming llms"
+    "openai quietly renaming data"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:uiabfIxxgbQ",
-     "url": "https://www.youtube.com/watch?v=uiabfIxxgbQ",
-     "title": "Weight-Space Programming Explained: Can an LLM Read and Write Neural Network Weights?",
-     "channel": "AI Paper Slop",
-     "views": 598,
-     "age_hours": 14,
-     "relevance": 0.8,
-     "velocity": 43
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:RUbxQuzjMqo",
-     "url": "https://www.youtube.com/watch?v=RUbxQuzjMqo",
-     "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks WEIGHTS",
-     "channel": "AI WITH Rithesh",
-     "views": 239,
-     "age_hours": 7,
-     "relevance": 0.64,
-     "velocity": 34
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:We_ZXMaHW-o",
-     "url": "https://www.youtube.com/watch?v=We_ZXMaHW-o",
-     "title": "LLMs can natively read & write neural network weights",
-     "channel": "The Pretrained Pod",
-     "views": 118,
-     "age_hours": 5,
-     "relevance": 1,
-     "velocity": 24
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fj08MhTUAek",
-     "url": "https://www.youtube.com/shorts/fj08MhTUAek",
-     "title": "LLMs Edit Weights Without Gradients",
-     "channel": "",
-     "views": 46,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T12:16:44.652Z"
+   "searched_at": "2026-11-03T16:50:01.474Z"
   },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -431,6 +361,98 @@
    "searched_at": "2026-11-01T12:15:07.810Z"
   },
   {
+   "first_seen": "2026-11-03T05:49:47.455Z",
+   "id": "39572554",
+   "ids": [
+    "39572554",
+    "39580494",
+    "39583271",
+    "39585333"
+   ],
+   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-02 20:18:26",
+   "story_sources": 3,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "latent-space",
+     "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+     "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
+    },
+    {
+     "source_id": "reddit-localllama",
+     "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/"
+    },
+    {
+     "source_id": "reddit-localllama",
+     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/"
+    }
+   ],
+   "queries": [
+    "Weight-Space Programming",
+    "sparks weight-space programming llms"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:uiabfIxxgbQ",
+     "url": "https://www.youtube.com/watch?v=uiabfIxxgbQ",
+     "title": "Weight-Space Programming Explained: Can an LLM Read and Write Neural Network Weights?",
+     "channel": "AI Paper Slop",
+     "views": 598,
+     "age_hours": 14,
+     "relevance": 0.8,
+     "velocity": 43
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:RUbxQuzjMqo",
+     "url": "https://www.youtube.com/watch?v=RUbxQuzjMqo",
+     "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks WEIGHTS",
+     "channel": "AI WITH Rithesh",
+     "views": 239,
+     "age_hours": 7,
+     "relevance": 0.64,
+     "velocity": 34
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:We_ZXMaHW-o",
+     "url": "https://www.youtube.com/watch?v=We_ZXMaHW-o",
+     "title": "LLMs can natively read & write neural network weights",
+     "channel": "The Pretrained Pod",
+     "views": 118,
+     "age_hours": 5,
+     "relevance": 1,
+     "velocity": 24
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fj08MhTUAek",
+     "url": "https://www.youtube.com/shorts/fj08MhTUAek",
+     "title": "LLMs Edit Weights Without Gradients",
+     "channel": "",
+     "views": 46,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T12:16:44.652Z"
+  },
+  {
    "first_seen": "2026-10-31T19:49:56.167Z",
    "id": "39535779",
    "ids": [
@@ -687,37 +709,6 @@
    "searched_at": "2026-11-02T10:22:55.524Z"
   },
   {
-   "first_seen": "2026-11-03T16:36:31.521Z",
-   "id": "39590635",
-   "ids": [
-    "39590635",
-    "39585801"
-   ],
-   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-03 12:58:05",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-     "url": "https://alisorcorp.github.io/inside-a-reasoning-loop/"
-    }
-   ],
-   "queries": [
-    "What Qwen",
-    "qwen thinking gets stuck"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T16:36:40.083Z"
-  },
-  {
    "first_seen": "2026-11-02T12:17:57.473Z",
    "id": "39562544",
    "ids": [
@@ -759,36 +750,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
-  },
-  {
-   "first_seen": "2026-11-03T12:50:01.589Z",
-   "id": "39582658",
-   "ids": [
-    "39582658",
-    "39585984"
-   ],
-   "title": "Pick n Pay turns to AI to speed up online orders",
-   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
-   "source_id": "za-techcentral",
-   "published_ts": "2026-11-03 08:41:57",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "africa-itweb",
-     "title": "Pick n Pay targets faster online orders with AI",
-     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
-    }
-   ],
-   "queries": [
-    "pick pay turns ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T12:50:05.930Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
@@ -889,34 +850,35 @@
    "searched_at": "2026-11-03T13:22:07.664Z"
   },
   {
-   "first_seen": "2026-11-03T12:36:55.454Z",
-   "id": "39585764",
+   "first_seen": "2026-11-03T16:36:31.521Z",
+   "id": "39590635",
    "ids": [
-    "39585764",
-    "39577990"
+    "39590635",
+    "39585801"
    ],
-   "title": "NCSC warns UK firms could face a torrent of AI-powered cyber attacks",
-   "url": "https://www.itpro.com/security/cyber-attacks/the-ncsc-says-ai-powered-cyber-attacks-are-coming-for-uk-firms-but-they-still-need-to-sharpen-up-on-basic-security-practices",
-   "source_id": "eu-itpro",
-   "published_ts": "2026-11-03 10:55:27",
+   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-03 12:58:05",
    "story_sources": 2,
-   "score_norm": 54,
+   "score_norm": 58,
    "related_news": [
     {
-     "source_id": "eu-computerweekly",
-     "title": "UK to face AI-powered cyber attacks within two years, warns NCSC",
-     "url": "https://www.computerweekly.com/news/366653412/UK-to-face-AI-powered-cyber-attacks-within-two-years-warns-NCSC"
+     "source_id": "hn",
+     "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+     "url": "https://alisorcorp.github.io/inside-a-reasoning-loop/"
     }
    ],
    "queries": [
-    "ncsc uk ai-powered warns"
+    "What Qwen",
+    "qwen thinking gets stuck"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T12:36:59.876Z"
+   "searched_at": "2026-11-03T16:36:40.083Z"
   },
   {
    "first_seen": "2026-11-03T10:36:29.259Z",
@@ -1023,6 +985,36 @@
    "searched_at": "2026-11-03T10:36:38.488Z"
   },
   {
+   "first_seen": "2026-11-03T12:50:01.589Z",
+   "id": "39582658",
+   "ids": [
+    "39582658",
+    "39585984"
+   ],
+   "title": "Pick n Pay turns to AI to speed up online orders",
+   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
+   "source_id": "za-techcentral",
+   "published_ts": "2026-11-03 08:41:57",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "africa-itweb",
+     "title": "Pick n Pay targets faster online orders with AI",
+     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
+    }
+   ],
+   "queries": [
+    "pick pay turns ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T12:50:05.930Z"
+  },
+  {
    "first_seen": "2026-11-03T00:28:54.437Z",
    "id": "39576518",
    "ids": [
@@ -1107,6 +1099,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T08:36:40.391Z"
+  },
+  {
+   "first_seen": "2026-11-03T12:36:55.454Z",
+   "id": "39585764",
+   "ids": [
+    "39585764",
+    "39577990"
+   ],
+   "title": "NCSC warns UK firms could face a torrent of AI-powered cyber attacks",
+   "url": "https://www.itpro.com/security/cyber-attacks/the-ncsc-says-ai-powered-cyber-attacks-are-coming-for-uk-firms-but-they-still-need-to-sharpen-up-on-basic-security-practices",
+   "source_id": "eu-itpro",
+   "published_ts": "2026-11-03 10:55:27",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "eu-computerweekly",
+     "title": "UK to face AI-powered cyber attacks within two years, warns NCSC",
+     "url": "https://www.computerweekly.com/news/366653412/UK-to-face-AI-powered-cyber-attacks-within-two-years-warns-NCSC"
+    }
+   ],
+   "queries": [
+    "ncsc uk ai-powered warns"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T12:36:59.876Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
