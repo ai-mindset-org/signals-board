@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T05:49:47.455Z",
+ "generated_at": "2026-11-03T06:40:03.850Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Weight-Space Programming",
+   "source": "youtube: anthropic 17b ipo quarterly",
    "ok": true
   },
   {
-   "source": "tiktok: Weight-Space Programming",
-   "ok": true
-  },
-  {
-   "source": "youtube: sparks weight-space programming llms",
-   "ok": true
-  },
-  {
-   "source": "tiktok: sparks weight-space programming llms",
+   "source": "tiktok: anthropic 17b ipo quarterly",
    "ok": true
   }
  ],
@@ -724,22 +716,10 @@
      "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
      "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
      "channel": "Bloomberg Tech",
-     "views": 3912,
-     "age_hours": 7,
+     "views": 4851,
+     "age_hours": 13,
      "relevance": 0.57,
-     "velocity": 559
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nKYw4VmAOfI",
-     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
-     "title": "Anthropic IPO $2Trillion Trap ?",
-     "channel": "",
-     "views": 3200,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "velocity": 373
     },
     {
      "platform": "youtube",
@@ -748,17 +728,17 @@
      "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
      "title": "The Anthropic IPO: A Preview",
      "channel": "CFRA Research",
-     "views": 21,
-     "age_hours": 9,
+     "views": 22,
+     "age_hours": 16,
      "relevance": 0.67,
-     "velocity": 2
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T00:28:58.581Z"
+   "searched_at": "2026-11-03T06:40:09.204Z"
   },
   {
    "first_seen": "2026-11-03T02:36:22.300Z",
