@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T19:20:12.159Z",
+ "generated_at": "2026-11-03T20:21:41.850Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,37 +7,46 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: fal 16b ai inference",
+   "ok": true
+  },
+  {
+   "source": "tiktok: fal 16b ai inference",
+   "ok": true
+  }
+ ],
  "stories": [
   {
-   "first_seen": "2026-11-03T16:49:57.376Z",
-   "id": "39590813",
+   "first_seen": "2026-11-03T20:21:41.850Z",
+   "id": "39594907",
    "ids": [
-    "39590813",
-    "39577402"
+    "39594907",
+    "39595282"
    ],
-   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-   "source_id": "theverge",
-   "published_ts": "2026-11-03 15:00:44",
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-03 19:34:43",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
-     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+     "source_id": "eu-tnw",
+     "title": "AI inference startup Fal doubles its value to $16B in a $1.3B round",
+     "url": "https://thenextweb.com/news/fal-1-3b-bessemer-16b-valuation-ai-inference"
     }
    ],
    "queries": [
-    "openai quietly renaming data"
+    "fal 16b ai inference"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T16:50:01.474Z"
+   "searched_at": "2026-11-03T20:21:45.949Z"
   },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -352,115 +361,34 @@
    "searched_at": "2026-11-01T12:15:07.810Z"
   },
   {
-   "first_seen": "2026-11-03T05:49:47.455Z",
-   "id": "39572554",
+   "first_seen": "2026-11-03T16:49:57.376Z",
+   "id": "39590813",
    "ids": [
-    "39572554",
-    "39580494",
-    "39583271",
-    "39585333"
+    "39590813",
+    "39577402"
    ],
-   "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-02 20:18:26",
-   "story_sources": 3,
-   "score_norm": 88,
+   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+   "source_id": "theverge",
+   "published_ts": "2026-11-03 15:00:44",
+   "story_sources": 2,
+   "score_norm": 82,
    "related_news": [
     {
-     "source_id": "latent-space",
-     "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-     "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
-    },
-    {
-     "source_id": "reddit-localllama",
-     "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/"
+     "source_id": "hn",
+     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
+     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
     }
    ],
    "queries": [
-    "Weight-Space Programming",
-    "sparks weight-space programming llms"
+    "openai quietly renaming data"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:r8sZgPx4jYA",
-     "url": "https://www.youtube.com/watch?v=r8sZgPx4jYA",
-     "title": "LLMs Can Now Read and Write Neural Network Weights",
-     "channel": "Jia-Bin Huang",
-     "views": 2286,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 762
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:uiabfIxxgbQ",
-     "url": "https://www.youtube.com/watch?v=uiabfIxxgbQ",
-     "title": "Weight-Space Programming Explained: Can an LLM Read and Write Neural Network Weights?",
-     "channel": "AI Paper Slop",
-     "views": 1249,
-     "age_hours": 20,
-     "relevance": 0.8,
-     "velocity": 62
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:RUbxQuzjMqo",
-     "url": "https://www.youtube.com/watch?v=RUbxQuzjMqo",
-     "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks WEIGHTS",
-     "channel": "AI WITH Rithesh",
-     "views": 408,
-     "age_hours": 13,
-     "relevance": 0.64,
-     "velocity": 31
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xOMOSpD5XKc",
-     "url": "https://www.youtube.com/shorts/xOMOSpD5XKc",
-     "title": "Can AI Debug AI? Weight-Space Programming Explained",
-     "channel": "",
-     "views": 246,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Rw1Td79gfCY",
-     "url": "https://www.youtube.com/watch?v=Rw1Td79gfCY",
-     "title": "Sparks of Weight-Space Programming ",
-     "channel": "Data Science in your pocket",
-     "views": 18,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 6
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fj08MhTUAek",
-     "url": "https://www.youtube.com/shorts/fj08MhTUAek",
-     "title": "LLMs Edit Weights Without Gradients",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-03T18:24:52.995Z"
+   "searched_at": "2026-11-03T16:50:01.474Z"
   },
   {
    "first_seen": "2026-11-02T21:10:46.298Z",
@@ -522,110 +450,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-02T20:21:13.900Z"
-  },
-  {
-   "first_seen": "2026-11-03T17:49:32.832Z",
-   "id": "39592297",
-   "ids": [
-    "39592297",
-    "39592262"
-   ],
-   "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-03 17:29:42",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-     "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
-    }
-   ],
-   "queries": [
-    "Like GPT-6 Astra",
-    "like gpt-6 astra qwen"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dBKkxb1R75E",
-     "url": "https://www.youtube.com/watch?v=dBKkxb1R75E",
-     "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Coding Tests",
-     "channel": "Laxmi Kant | KGP Talkie",
-     "views": 5843,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 81
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1QRzdjcqWqs",
-     "url": "https://www.youtube.com/shorts/1QRzdjcqWqs",
-     "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Tests",
-     "channel": "",
-     "views": 2400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GoT71MxCuAs",
-     "url": "https://www.youtube.com/shorts/GoT71MxCuAs",
-     "title": "GPT-6 Astra edited Qwen's weights: math 8% to 48%",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:FFwkqUdaXeY",
-     "url": "https://www.youtube.com/shorts/FFwkqUdaXeY",
-     "title": "GPT-6 Astra edited Qwen's weights. We tested it",
-     "channel": "",
-     "views": 231,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YYc7UZDIlao",
-     "url": "https://www.youtube.com/shorts/YYc7UZDIlao",
-     "title": "GPT-6 Astra Use Cases",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gPZSPzPTkdg",
-     "url": "https://www.youtube.com/shorts/gPZSPzPTkdg",
-     "title": "🧠 WHAT GPT-6 ASTRA IS CAPABLE OF",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T17:49:40.812Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
@@ -774,109 +598,6 @@
    "searched_at": "2026-11-03T00:29:02.050Z"
   },
   {
-   "first_seen": "2026-11-03T18:13:19.978Z",
-   "id": "39592440",
-   "ids": [
-    "39592440",
-    "39590702"
-   ],
-   "title": "Google says students in schools that ban AI won't have access to Search",
-   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
-   "source_id": "engadget",
-   "published_ts": "2026-11-03 17:10:43",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
-     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
-    }
-   ],
-   "queries": [
-    "google search students schools"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google \"Carbon\" just won everything...",
-     "channel": "@matthew_berman",
-     "views": 136000,
-     "age_hours": 131.6832186111111,
-     "relevance": 0.5,
-     "velocity": 1033
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:APlleh5_jv8",
-     "url": "https://www.youtube.com/shorts/APlleh5_jv8",
-     "title": "#Google just told #schools that if you ban #AI then your students lose Google Search too",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mMK-Ifc9M28",
-     "url": "https://www.youtube.com/shorts/mMK-Ifc9M28",
-     "title": "Say No to Google's AI, Lose Google Search #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:l_18jAM4HPQ",
-     "url": "https://www.youtube.com/shorts/l_18jAM4HPQ",
-     "title": "Google to Schools: Block Its AI and Lose Search",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iS1OjDTkgkY",
-     "url": "https://www.youtube.com/shorts/iS1OjDTkgkY",
-     "title": "Google's AI Ultimatum for Schools! 🚨",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cY8uCsKyh0Y",
-     "url": "https://www.youtube.com/shorts/cY8uCsKyh0Y",
-     "title": "Google's Homework AI Won't Just Give You the Answer",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-03T18:13:23.963Z"
-  },
-  {
    "first_seen": "2026-11-02T19:09:20.461Z",
    "id": "39571322",
    "ids": [
@@ -975,65 +696,108 @@
    "searched_at": "2026-11-03T13:22:07.664Z"
   },
   {
-   "first_seen": "2026-11-03T16:36:31.521Z",
-   "id": "39590635",
+   "first_seen": "2026-11-03T17:49:32.832Z",
+   "id": "39592297",
    "ids": [
-    "39590635",
-    "39585801"
+    "39592297",
+    "39592262"
    ],
-   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+   "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
    "source_id": "reddit-localllama",
-   "published_ts": "2026-11-03 12:58:05",
+   "published_ts": "2026-11-03 17:29:42",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-     "url": "https://alisorcorp.github.io/inside-a-reasoning-loop/"
+     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+     "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
     }
    ],
    "queries": [
-    "What Qwen",
-    "qwen thinking gets stuck"
+    "Like GPT-6 Astra",
+    "like gpt-6 astra qwen"
    ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T16:36:40.083Z"
-  },
-  {
-   "first_seen": "2026-11-03T12:50:01.589Z",
-   "id": "39582658",
-   "ids": [
-    "39582658",
-    "39585984"
-   ],
-   "title": "Pick n Pay turns to AI to speed up online orders",
-   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
-   "source_id": "za-techcentral",
-   "published_ts": "2026-11-03 08:41:57",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
+   "videos": [
     {
-     "source_id": "africa-itweb",
-     "title": "Pick n Pay targets faster online orders with AI",
-     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:dBKkxb1R75E",
+     "url": "https://www.youtube.com/watch?v=dBKkxb1R75E",
+     "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Coding Tests",
+     "channel": "Laxmi Kant | KGP Talkie",
+     "views": 5843,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 81
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1QRzdjcqWqs",
+     "url": "https://www.youtube.com/shorts/1QRzdjcqWqs",
+     "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Tests",
+     "channel": "",
+     "views": 2400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GoT71MxCuAs",
+     "url": "https://www.youtube.com/shorts/GoT71MxCuAs",
+     "title": "GPT-6 Astra edited Qwen's weights: math 8% to 48%",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:FFwkqUdaXeY",
+     "url": "https://www.youtube.com/shorts/FFwkqUdaXeY",
+     "title": "GPT-6 Astra edited Qwen's weights. We tested it",
+     "channel": "",
+     "views": 231,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YYc7UZDIlao",
+     "url": "https://www.youtube.com/shorts/YYc7UZDIlao",
+     "title": "GPT-6 Astra Use Cases",
+     "channel": "",
+     "views": 63,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gPZSPzPTkdg",
+     "url": "https://www.youtube.com/shorts/gPZSPzPTkdg",
+     "title": "🧠 WHAT GPT-6 ASTRA IS CAPABLE OF",
+     "channel": "",
+     "views": 63,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
     }
    ],
-   "queries": [
-    "pick pay turns ai"
-   ],
-   "videos": [],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T18:50:10.923Z"
+   "searched_at": "2026-11-03T17:49:40.812Z"
   },
   {
    "first_seen": "2026-11-03T10:36:29.259Z",
@@ -1140,6 +904,109 @@
    "searched_at": "2026-11-03T10:36:38.488Z"
   },
   {
+   "first_seen": "2026-11-03T18:13:19.978Z",
+   "id": "39592440",
+   "ids": [
+    "39592440",
+    "39590702"
+   ],
+   "title": "Google says students in schools that ban AI won't have access to Search",
+   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
+   "source_id": "engadget",
+   "published_ts": "2026-11-03 17:10:43",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
+     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
+    }
+   ],
+   "queries": [
+    "google search students schools"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "@matthew_berman",
+     "views": 136000,
+     "age_hours": 131.6832186111111,
+     "relevance": 0.5,
+     "velocity": 1033
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:APlleh5_jv8",
+     "url": "https://www.youtube.com/shorts/APlleh5_jv8",
+     "title": "#Google just told #schools that if you ban #AI then your students lose Google Search too",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mMK-Ifc9M28",
+     "url": "https://www.youtube.com/shorts/mMK-Ifc9M28",
+     "title": "Say No to Google's AI, Lose Google Search #Shorts",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:l_18jAM4HPQ",
+     "url": "https://www.youtube.com/shorts/l_18jAM4HPQ",
+     "title": "Google to Schools: Block Its AI and Lose Search",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iS1OjDTkgkY",
+     "url": "https://www.youtube.com/shorts/iS1OjDTkgkY",
+     "title": "Google's AI Ultimatum for Schools! 🚨",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cY8uCsKyh0Y",
+     "url": "https://www.youtube.com/shorts/cY8uCsKyh0Y",
+     "title": "Google's Homework AI Won't Just Give You the Answer",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-03T18:13:23.963Z"
+  },
+  {
    "first_seen": "2026-11-03T00:28:54.437Z",
    "id": "39576518",
    "ids": [
@@ -1193,6 +1060,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T12:50:09.447Z"
+  },
+  {
+   "first_seen": "2026-11-03T16:36:31.521Z",
+   "id": "39590635",
+   "ids": [
+    "39590635",
+    "39585801"
+   ],
+   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-03 12:58:05",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
+     "url": "https://alisorcorp.github.io/inside-a-reasoning-loop/"
+    }
+   ],
+   "queries": [
+    "What Qwen",
+    "qwen thinking gets stuck"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T16:36:40.083Z"
   },
   {
    "first_seen": "2026-11-03T02:36:22.300Z",
@@ -1254,6 +1152,142 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T18:50:14.519Z"
+  },
+  {
+   "first_seen": "2026-11-03T12:50:01.589Z",
+   "id": "39582658",
+   "ids": [
+    "39582658",
+    "39585984"
+   ],
+   "title": "Pick n Pay turns to AI to speed up online orders",
+   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
+   "source_id": "za-techcentral",
+   "published_ts": "2026-11-03 08:41:57",
+   "story_sources": 2,
+   "score_norm": 45,
+   "related_news": [
+    {
+     "source_id": "africa-itweb",
+     "title": "Pick n Pay targets faster online orders with AI",
+     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
+    }
+   ],
+   "queries": [
+    "pick pay turns ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T18:50:10.923Z"
+  },
+  {
+   "first_seen": "2026-11-03T05:49:47.455Z",
+   "id": "39572554",
+   "ids": [
+    "39572554",
+    "39580494",
+    "39583271",
+    "39585333"
+   ],
+   "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+   "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+   "source_id": "latent-space",
+   "published_ts": "2026-11-03 05:35:00",
+   "story_sources": 2,
+   "score_norm": 45,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/"
+    }
+   ],
+   "queries": [
+    "Weight-Space Programming",
+    "sparks weight-space programming llms"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:r8sZgPx4jYA",
+     "url": "https://www.youtube.com/watch?v=r8sZgPx4jYA",
+     "title": "LLMs Can Now Read and Write Neural Network Weights",
+     "channel": "Jia-Bin Huang",
+     "views": 2286,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 762
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:uiabfIxxgbQ",
+     "url": "https://www.youtube.com/watch?v=uiabfIxxgbQ",
+     "title": "Weight-Space Programming Explained: Can an LLM Read and Write Neural Network Weights?",
+     "channel": "AI Paper Slop",
+     "views": 1249,
+     "age_hours": 20,
+     "relevance": 0.8,
+     "velocity": 62
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:RUbxQuzjMqo",
+     "url": "https://www.youtube.com/watch?v=RUbxQuzjMqo",
+     "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks WEIGHTS",
+     "channel": "AI WITH Rithesh",
+     "views": 408,
+     "age_hours": 13,
+     "relevance": 0.64,
+     "velocity": 31
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xOMOSpD5XKc",
+     "url": "https://www.youtube.com/shorts/xOMOSpD5XKc",
+     "title": "Can AI Debug AI? Weight-Space Programming Explained",
+     "channel": "",
+     "views": 246,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Rw1Td79gfCY",
+     "url": "https://www.youtube.com/watch?v=Rw1Td79gfCY",
+     "title": "Sparks of Weight-Space Programming ",
+     "channel": "Data Science in your pocket",
+     "views": 18,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fj08MhTUAek",
+     "url": "https://www.youtube.com/shorts/fj08MhTUAek",
+     "title": "LLMs Edit Weights Without Gradients",
+     "channel": "",
+     "views": 63,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T18:24:52.995Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
