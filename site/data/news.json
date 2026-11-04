@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T13:11:00.145Z",
+ "generated_at": "2026-11-04T14:36:39.900Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Smart Reports",
+   "source": "youtube: fal 16b ai inference",
    "ok": true
   },
   {
-   "source": "tiktok: Smart Reports",
-   "ok": true
-  },
-  {
-   "source": "youtube: smart reports vorgesetzte claude-nutzung",
-   "ok": true
-  },
-  {
-   "source": "tiktok: smart reports vorgesetzte claude-nutzung",
+   "source": "tiktok: fal 16b ai inference",
    "ok": true
   }
  ],
@@ -69,7 +61,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-04 01:20:44",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "hn",
@@ -99,7 +91,7 @@
    "source_id": "hf-blog",
    "published_ts": "2026-11-03 17:15:21",
    "story_sources": 2,
-   "score_norm": 94,
+   "score_norm": 96,
    "related_news": [
     {
      "source_id": "hn",
@@ -129,6 +121,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T12:50:08.322Z"
+  },
+  {
+   "first_seen": "2026-11-03T20:21:41.850Z",
+   "id": "39594907",
+   "ids": [
+    "39594907",
+    "39595282"
+   ],
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-03 19:34:43",
+   "story_sources": 2,
+   "score_norm": 95,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "AI inference startup Fal doubles its value to $16B in a $1.3B round",
+     "url": "https://thenextweb.com/news/fal-1-3b-bessemer-16b-valuation-ai-inference"
+    }
+   ],
+   "queries": [
+    "fal 16b ai inference"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VyaIKwhcOOk",
+     "url": "https://www.youtube.com/shorts/VyaIKwhcOOk",
+     "title": "This AI startup doubled to $16B in 7 months",
+     "channel": "",
+     "views": 46,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vqAeIMX8IVs",
+     "url": "https://www.youtube.com/shorts/vqAeIMX8IVs",
+     "title": "5 Startup Doubles Valuation to 16B",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BN7yUq0_foA",
+     "url": "https://www.youtube.com/shorts/BN7yUq0_foA",
+     "title": "AI Startup fal Doubles Valuation to $16B After $1.65B Raise",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5w-PmN9n75Q",
+     "url": "https://www.youtube.com/shorts/5w-PmN9n75Q",
+     "title": "Fal Doubles to $16B in Days",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xiRq40ZUpGQ",
+     "url": "https://www.youtube.com/shorts/xiRq40ZUpGQ",
+     "title": "fal: raised $1.65B at $16B valuation for inference | AI news in 60s #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:u9cND6iKOVc",
+     "url": "https://www.youtube.com/watch?v=u9cND6iKOVc",
+     "title": "Abu Dhabi signs AI deals as fal doubles valuation",
+     "channel": "Global Advisors - Quantified Strategy",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T14:36:44.277Z"
   },
   {
    "first_seen": "2026-11-03T21:35:58.367Z",
@@ -228,92 +323,6 @@
    "searched_at": "2026-11-04T09:49:59.824Z"
   },
   {
-   "first_seen": "2026-11-03T20:21:41.850Z",
-   "id": "39594907",
-   "ids": [
-    "39594907",
-    "39595282"
-   ],
-   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-03 19:34:43",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "AI inference startup Fal doubles its value to $16B in a $1.3B round",
-     "url": "https://thenextweb.com/news/fal-1-3b-bessemer-16b-valuation-ai-inference"
-    }
-   ],
-   "queries": [
-    "fal 16b ai inference"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BN7yUq0_foA",
-     "url": "https://www.youtube.com/shorts/BN7yUq0_foA",
-     "title": "AI Startup fal Doubles Valuation to $16B After $1.65B Raise",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T08:36:24.390Z"
-  },
-  {
-   "first_seen": "2026-11-03T16:49:57.376Z",
-   "id": "39590813",
-   "ids": [
-    "39590813",
-    "39577402"
-   ],
-   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-   "source_id": "theverge",
-   "published_ts": "2026-11-03 15:00:44",
-   "story_sources": 2,
-   "score_norm": 84,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
-     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
-    }
-   ],
-   "queries": [
-    "openai quietly renaming data"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7VSNTyvsuug",
-     "url": "https://www.youtube.com/watch?v=7VSNTyvsuug",
-     "title": "OpenAI is quietly renaming data centers compute campuses",
-     "channel": "Techpulse AI",
-     "views": 0,
-     "age_hours": 4,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T22:50:05.900Z"
-  },
-  {
    "first_seen": "2026-11-03T18:13:19.978Z",
    "id": "39592440",
    "ids": [
@@ -327,7 +336,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-04 03:27:36",
    "story_sources": 3,
-   "score_norm": 83,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "engadget",
@@ -422,6 +431,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T12:50:11.949Z"
+  },
+  {
+   "first_seen": "2026-11-03T16:49:57.376Z",
+   "id": "39590813",
+   "ids": [
+    "39590813",
+    "39577402"
+   ],
+   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+   "source_id": "theverge",
+   "published_ts": "2026-11-03 15:00:44",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
+     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+    }
+   ],
+   "queries": [
+    "openai quietly renaming data"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7VSNTyvsuug",
+     "url": "https://www.youtube.com/watch?v=7VSNTyvsuug",
+     "title": "OpenAI is quietly renaming data centers compute campuses",
+     "channel": "Techpulse AI",
+     "views": 0,
+     "age_hours": 4,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T22:50:05.900Z"
   },
   {
    "first_seen": "2026-11-04T11:23:08.532Z",
@@ -577,6 +629,62 @@
    "searched_at": "2026-11-02T20:21:13.900Z"
   },
   {
+   "first_seen": "2026-11-04T10:24:47.094Z",
+   "id": "39606974",
+   "ids": [
+    "39606974",
+    "39601179"
+   ],
+   "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
+   "url": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-04 04:50:50",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
+     "url": "https://www.thehindubusinessline.com/info-tech/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663692.ece"
+    }
+   ],
+   "queries": [
+    "IndiaAI Mission",
+    "indiaai mission eka-1 dhīr"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Phzdrxbi7V4",
+     "url": "https://www.youtube.com/watch?v=Phzdrxbi7V4",
+     "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission | 04 November 2026",
+     "channel": "NEWS ON AIR OFFICIAL",
+     "views": 1419,
+     "age_hours": 7,
+     "relevance": 0.5,
+     "velocity": 203
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zGpWbDfnb4E",
+     "url": "https://www.youtube.com/shorts/zGpWbDfnb4E",
+     "title": "IndiaAI Mission Launches Indigenous Foundation Models | UPSC GS2/GS3 #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T10:24:54.762Z"
+  },
+  {
    "first_seen": "2026-11-02T10:22:51.234Z",
    "id": "39560795",
    "ids": [
@@ -678,62 +786,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-02T10:22:55.524Z"
-  },
-  {
-   "first_seen": "2026-11-04T10:24:47.094Z",
-   "id": "39606974",
-   "ids": [
-    "39606974",
-    "39601179"
-   ],
-   "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
-   "url": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-04 04:50:50",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
-     "url": "https://www.thehindubusinessline.com/info-tech/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663692.ece"
-    }
-   ],
-   "queries": [
-    "IndiaAI Mission",
-    "indiaai mission eka-1 dhīr"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Phzdrxbi7V4",
-     "url": "https://www.youtube.com/watch?v=Phzdrxbi7V4",
-     "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission | 04 November 2026",
-     "channel": "NEWS ON AIR OFFICIAL",
-     "views": 1419,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 203
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zGpWbDfnb4E",
-     "url": "https://www.youtube.com/shorts/zGpWbDfnb4E",
-     "title": "IndiaAI Mission Launches Indigenous Foundation Models | UPSC GS2/GS3 #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T10:24:54.762Z"
   },
   {
    "first_seen": "2026-11-02T12:17:57.473Z",
