@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T04:49:49.750Z",
+ "generated_at": "2026-11-04T06:40:26.780Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,40 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: statebench testing language models",
+   "ok": true
+  },
+  {
+   "source": "tiktok: statebench testing language models",
+   "ok": true
+  },
+  {
+   "source": "youtube: google search students schools",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google search students schools",
+   "ok": true
+  },
+  {
+   "source": "youtube: Like GPT-6 Astra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Like GPT-6 Astra",
+   "ok": true
+  },
+  {
+   "source": "youtube: like gpt-6 astra qwen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: like gpt-6 astra qwen",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -37,7 +70,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-04T00:29:32.491Z"
+   "searched_at": "2026-11-04T06:40:30.918Z"
   },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
@@ -303,7 +336,7 @@
    "source_id": "engadget",
    "published_ts": "2026-11-03 17:10:43",
    "story_sources": 3,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "futurism-ai",
@@ -327,10 +360,10 @@
      "url": "https://www.youtube.com/watch?v=8v45znvgsXQ",
      "title": "Google cuts off search if schools block AI",
      "channel": "Pivot to AI",
-     "views": 3655,
-     "age_hours": 3,
+     "views": 9675,
+     "age_hours": 9,
      "relevance": 0.5,
-     "velocity": 1218
+     "velocity": 1075
     },
     {
      "platform": "youtube",
@@ -339,10 +372,10 @@
      "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
      "title": "Google \"Carbon\" just won everything...",
      "channel": "@matthew_berman",
-     "views": 136000,
-     "age_hours": 137.95532916666667,
+     "views": 138000,
+     "age_hours": 144.12712027777778,
      "relevance": 0.5,
-     "velocity": 986
+     "velocity": 957
     },
     {
      "platform": "youtube",
@@ -351,10 +384,10 @@
      "url": "https://www.youtube.com/watch?v=zIXI2jsQ8-Y",
      "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
      "channel": "Forbes Breaking News",
-     "views": 3901,
-     "age_hours": 4,
+     "views": 5629,
+     "age_hours": 10,
      "relevance": 0.63,
-     "velocity": 975
+     "velocity": 563
     },
     {
      "platform": "youtube",
@@ -363,22 +396,10 @@
      "url": "https://www.youtube.com/watch?v=g99D2V6Md-I",
      "title": "Google’s school AI opt-out could also mean losing access to Search",
      "channel": "KHOU 11",
-     "views": 32,
-     "age_hours": 1,
+     "views": 463,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": 32
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BJ9Oaib3Nf8",
-     "url": "https://www.youtube.com/shorts/BJ9Oaib3Nf8",
-     "title": "Google Search: why students lose it when schools say no to AI #shorts",
-     "channel": "",
-     "views": 434,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
+     "velocity": 58
     },
     {
      "platform": "youtube",
@@ -387,9 +408,21 @@
      "url": "https://www.youtube.com/shorts/ceFur5m8Db8",
      "title": "Google threatens to cut schools off from its search engine if they restrict AI tools #News #ai",
      "channel": "",
-     "views": 368,
+     "views": 465,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-JSPorgwiF0",
+     "url": "https://www.youtube.com/shorts/-JSPorgwiF0",
+     "title": "Google: no AI at school, no Google Search",
+     "channel": "",
+     "views": 181,
+     "age_hours": null,
+     "relevance": 0.6,
      "velocity": null
     }
    ],
@@ -397,7 +430,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-04T00:29:43.561Z"
+   "searched_at": "2026-11-04T06:40:34.481Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
@@ -718,22 +751,10 @@
      "url": "https://www.youtube.com/watch?v=e6GjOg8jYMg",
      "title": "Qwen 3.8 27B Ripping Apart Model Weights like GPT-6 Astra: Hands-on",
      "channel": "Fahd Mirza",
-     "views": 2252,
-     "age_hours": 4,
+     "views": 4963,
+     "age_hours": 10,
      "relevance": 0.8,
-     "velocity": 563
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dBKkxb1R75E",
-     "url": "https://www.youtube.com/watch?v=dBKkxb1R75E",
-     "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Coding Tests",
-     "channel": "Laxmi Kant | KGP Talkie",
-     "views": 5889,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 82
+     "velocity": 496
     },
     {
      "platform": "youtube",
@@ -754,7 +775,7 @@
      "url": "https://www.youtube.com/shorts/GoT71MxCuAs",
      "title": "GPT-6 Astra edited Qwen's weights: math 8% to 48%",
      "channel": "",
-     "views": 1100,
+     "views": 1200,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -766,7 +787,7 @@
      "url": "https://www.youtube.com/shorts/FFwkqUdaXeY",
      "title": "GPT-6 Astra edited Qwen's weights. We tested it",
      "channel": "",
-     "views": 279,
+     "views": 324,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -778,7 +799,19 @@
      "url": "https://www.youtube.com/shorts/YYc7UZDIlao",
      "title": "GPT-6 Astra Use Cases",
      "channel": "",
-     "views": 98,
+     "views": 103,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ec3tKFkSZeU",
+     "url": "https://www.youtube.com/shorts/Ec3tKFkSZeU",
+     "title": "GPT-6 Astra Edits Qwen's Weights, MATH-500 Jumps to 48.1%",
+     "channel": "",
+     "views": 22,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -788,7 +821,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-04T00:29:39.919Z"
+   "searched_at": "2026-11-04T06:40:41.623Z"
   },
   {
    "first_seen": "2026-11-03T10:36:29.259Z",
