@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:49:54.634Z",
+ "generated_at": "2026-11-04T21:09:34.042Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Pierre Computer Company",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Pierre Computer Company",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai pierre computer company",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai pierre computer company",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt gifs make animated",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt gifs make animated",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -1231,7 +1206,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-04 01:20:44",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "hn",
@@ -1279,6 +1254,37 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T22:50:13.094Z"
+  },
+  {
+   "first_seen": "2026-11-04T13:11:00.145Z",
+   "id": "39609749",
+   "ids": [
+    "39609749",
+    "39607389"
+   ],
+   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
+   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-04 12:24:00",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
+     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Smart Reports",
+    "smart reports vorgesetzte claude-nutzung"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T19:20:49.120Z"
   },
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
@@ -1442,37 +1448,6 @@
    "searched_at": "2026-11-03T12:50:09.447Z"
   },
   {
-   "first_seen": "2026-11-04T13:11:00.145Z",
-   "id": "39609749",
-   "ids": [
-    "39609749",
-    "39607389"
-   ],
-   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-04 12:24:00",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
-     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Smart Reports",
-    "smart reports vorgesetzte claude-nutzung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T19:20:49.120Z"
-  },
-  {
    "first_seen": "2026-11-03T02:36:22.300Z",
    "id": "39569238",
    "ids": [
@@ -1622,11 +1597,6 @@
    "story_sources": 2,
    "score_norm": 46,
    "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/"
-    },
     {
      "source_id": "hn",
      "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
