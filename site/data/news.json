@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T16:36:21.833Z",
+ "generated_at": "2026-11-04T17:36:13.267Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,84 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: IndiaAI Mission",
+   "source": "youtube: Apple Siri",
    "ok": true
   },
   {
-   "source": "tiktok: IndiaAI Mission",
+   "source": "tiktok: Apple Siri",
    "ok": true
   },
   {
-   "source": "youtube: indiaai mission eka-1 dhīr",
+   "source": "youtube: apple siri powerful features",
    "ok": true
   },
   {
-   "source": "tiktok: indiaai mission eka-1 dhīr",
+   "source": "tiktok: apple siri powerful features",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-11-04T09:13:10.178Z",
-   "id": "39605989",
-   "ids": [
-    "39605989",
-    "39599762"
-   ],
-   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-04 01:20:44",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
-     "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/"
-    }
-   ],
-   "queries": [
-    "ai can read neural"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T15:22:50.132Z"
-  },
-  {
-   "first_seen": "2026-11-04T13:11:00.145Z",
-   "id": "39609749",
-   "ids": [
-    "39609749",
-    "39607389"
-   ],
-   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-04 12:24:00",
-   "story_sources": 2,
-   "score_norm": 99,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
-     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Smart Reports",
-    "smart reports vorgesetzte claude-nutzung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T13:11:12.314Z"
-  },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
    "id": "39598940",
@@ -131,6 +70,67 @@
    "searched_at": "2026-11-04T12:50:08.322Z"
   },
   {
+   "first_seen": "2026-11-04T09:13:10.178Z",
+   "id": "39605989",
+   "ids": [
+    "39605989",
+    "39599762"
+   ],
+   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-04 01:20:44",
+   "story_sources": 2,
+   "score_norm": 88,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+     "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/"
+    }
+   ],
+   "queries": [
+    "ai can read neural"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T15:22:50.132Z"
+  },
+  {
+   "first_seen": "2026-11-04T13:11:00.145Z",
+   "id": "39609749",
+   "ids": [
+    "39609749",
+    "39607389"
+   ],
+   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
+   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-04 12:24:00",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
+     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Smart Reports",
+    "smart reports vorgesetzte claude-nutzung"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T13:11:12.314Z"
+  },
+  {
    "first_seen": "2026-11-03T20:21:41.850Z",
    "id": "39594907",
    "ids": [
@@ -142,7 +142,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-03 19:34:43",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -232,115 +232,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T14:36:44.277Z"
-  },
-  {
-   "first_seen": "2026-11-03T21:35:58.367Z",
-   "id": "39596483",
-   "ids": [
-    "39596483",
-    "39596701",
-    "39607762"
-   ],
-   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-04 10:26:25",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/"
-    },
-    {
-     "source_id": "hn",
-     "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
-     "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"
-    }
-   ],
-   "queries": [
-    "british revolut 10x claude"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0YN5A1Jw0GQ",
-     "url": "https://www.youtube.com/watch?v=0YN5A1Jw0GQ",
-     "title": "90% Cheaper AI Coding: How Revolut Ditched Claude Code",
-     "channel": "AI Tool Lab",
-     "views": 8,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:np9xCoVLNDg",
-     "url": "https://www.youtube.com/watch?v=np9xCoVLNDg",
-     "title": "Revolut cuts its AI coding bill by 90%",
-     "channel": "VarOps",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:byih_wcOu2s",
-     "url": "https://www.youtube.com/shorts/byih_wcOu2s",
-     "title": "Revolut cut AI costs 90% by ditching Claude",
-     "channel": "",
-     "views": 28,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QI113RUH4a0",
-     "url": "https://www.youtube.com/shorts/QI113RUH4a0",
-     "title": "Revolut Says It Cut AI Coding Costs 90% With a Self-Hosted Model #shorts",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:p-S2VV3kJHY",
-     "url": "https://www.youtube.com/shorts/p-S2VV3kJHY",
-     "title": "Revolut cut AI coding costs 10x",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ai_6T5grHCg",
-     "url": "https://www.youtube.com/shorts/Ai_6T5grHCg",
-     "title": "How Revolut cut its AI coding costs 10x by self-hosting a model",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T15:50:10.248Z"
   },
   {
    "first_seen": "2026-11-03T18:13:19.978Z",
@@ -496,88 +387,105 @@
    "searched_at": "2026-11-03T22:50:05.900Z"
   },
   {
-   "first_seen": "2026-11-04T11:23:08.532Z",
-   "id": "39607902",
+   "first_seen": "2026-11-03T21:35:58.367Z",
+   "id": "39596483",
    "ids": [
-    "39607902",
-    "39597651"
+    "39596483",
+    "39596701",
+    "39607762"
    ],
-   "title": "Apple Siri AI: 5 Powerful New Features Open to Developers",
-   "url": "https://techgenyz.com/apple-siri-ai-to-developers-app-skills/",
-   "source_id": "in-techgenyz",
-   "published_ts": "2026-11-04 08:48:15",
+   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-04 10:26:25",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 81,
    "related_news": [
     {
+     "source_id": "reddit-localllama",
+     "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/"
+    },
+    {
      "source_id": "hn",
-     "title": "Siri AI is now open to all developers",
-     "url": "https://developer.apple.com/news/?id=gdk2umrf"
+     "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
+     "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"
     }
    ],
    "queries": [
-    "Apple Siri",
-    "apple siri powerful features"
+    "british revolut 10x claude"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AKM4jTaz06A",
-     "url": "https://www.youtube.com/shorts/AKM4jTaz06A",
-     "title": "Siri AI ecosystem #shorts #siriai #apple",
-     "channel": "",
-     "views": 992,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:0YN5A1Jw0GQ",
+     "url": "https://www.youtube.com/watch?v=0YN5A1Jw0GQ",
+     "title": "90% Cheaper AI Coding: How Revolut Ditched Claude Code",
+     "channel": "AI Tool Lab",
+     "views": 8,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 1
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:84-SfsEW228",
-     "url": "https://www.youtube.com/shorts/84-SfsEW228",
-     "title": "Apple opens Siri AI to all developers in the iOS 27.3 beta #Shorts",
-     "channel": "",
-     "views": 56,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:43oG4C3a22A",
-     "url": "https://www.youtube.com/shorts/43oG4C3a22A",
-     "title": "Siri is getting an AI upgrade 🍎 #siri #apple",
-     "channel": "",
-     "views": 36,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KT9gINLsiBI",
-     "url": "https://www.youtube.com/shorts/KT9gINLsiBI",
-     "title": "🔥 Apple Opens Siri AI to Developers #AINews",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uTcNfZp4ks0",
-     "url": "https://www.youtube.com/shorts/uTcNfZp4ks0",
-     "title": "Apple opens Siri AI to all developers: how App Intents work",
-     "channel": "",
+     "kind": "видео",
+     "id": "youtube:np9xCoVLNDg",
+     "url": "https://www.youtube.com/watch?v=np9xCoVLNDg",
+     "title": "Revolut cuts its AI coding bill by 90%",
+     "channel": "VarOps",
      "views": 1,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:byih_wcOu2s",
+     "url": "https://www.youtube.com/shorts/byih_wcOu2s",
+     "title": "Revolut cut AI costs 90% by ditching Claude",
+     "channel": "",
+     "views": 28,
      "age_hours": null,
      "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QI113RUH4a0",
+     "url": "https://www.youtube.com/shorts/QI113RUH4a0",
+     "title": "Revolut Says It Cut AI Coding Costs 90% With a Self-Hosted Model #shorts",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:p-S2VV3kJHY",
+     "url": "https://www.youtube.com/shorts/p-S2VV3kJHY",
+     "title": "Revolut cut AI coding costs 10x",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ai_6T5grHCg",
+     "url": "https://www.youtube.com/shorts/Ai_6T5grHCg",
+     "title": "How Revolut cut its AI coding costs 10x by self-hosting a model",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -585,7 +493,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-04T11:23:16.564Z"
+   "searched_at": "2026-11-04T15:50:10.248Z"
   },
   {
    "first_seen": "2026-11-02T21:10:46.298Z",
@@ -873,6 +781,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
+  },
+  {
+   "first_seen": "2026-11-04T11:23:08.532Z",
+   "id": "39607902",
+   "ids": [
+    "39607902",
+    "39597651"
+   ],
+   "title": "Apple Siri AI: 5 Powerful New Features Open to Developers",
+   "url": "https://techgenyz.com/apple-siri-ai-to-developers-app-skills/",
+   "source_id": "in-techgenyz",
+   "published_ts": "2026-11-04 08:48:15",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Siri AI is now open to all developers",
+     "url": "https://developer.apple.com/news/?id=gdk2umrf"
+    }
+   ],
+   "queries": [
+    "Apple Siri",
+    "apple siri powerful features"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AKM4jTaz06A",
+     "url": "https://www.youtube.com/shorts/AKM4jTaz06A",
+     "title": "Siri AI ecosystem #shorts #siriai #apple",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:84-SfsEW228",
+     "url": "https://www.youtube.com/shorts/84-SfsEW228",
+     "title": "Apple opens Siri AI to all developers in the iOS 27.3 beta #Shorts",
+     "channel": "",
+     "views": 66,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:X0TyeDVbGYM",
+     "url": "https://www.youtube.com/shorts/X0TyeDVbGYM",
+     "title": "Siri AI App Intents: Apple opens Siri to developers #shorts",
+     "channel": "",
+     "views": 50,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KT9gINLsiBI",
+     "url": "https://www.youtube.com/shorts/KT9gINLsiBI",
+     "title": "🔥 Apple Opens Siri AI to Developers #AINews",
+     "channel": "",
+     "views": 32,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uTcNfZp4ks0",
+     "url": "https://www.youtube.com/shorts/uTcNfZp4ks0",
+     "title": "Apple opens Siri AI to all developers: how App Intents work",
+     "channel": "",
+     "views": 28,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:r8MCd5Ih0jI",
+     "url": "https://www.youtube.com/shorts/r8MCd5Ih0jI",
+     "title": "Siri AI: Now Open to Every App",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T17:36:21.454Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
