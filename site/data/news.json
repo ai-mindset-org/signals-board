@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T07:50:12.002Z",
+ "generated_at": "2026-11-04T08:36:20.208Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: fal 16b ai inference",
+   "ok": true
+  },
+  {
+   "source": "tiktok: fal 16b ai inference",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -70,7 +79,7 @@
      "url": "https://www.youtube.com/shorts/BN7yUq0_foA",
      "title": "AI Startup fal Doubles Valuation to $16B After $1.65B Raise",
      "channel": "",
-     "views": 4,
+     "views": 19,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -80,7 +89,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-04T02:26:06.474Z"
+   "searched_at": "2026-11-04T08:36:24.390Z"
   },
   {
    "first_seen": "2026-11-03T16:49:57.376Z",
@@ -399,49 +408,6 @@
    "searched_at": "2026-11-02T10:22:55.524Z"
   },
   {
-   "first_seen": "2026-11-03T21:35:58.367Z",
-   "id": "39596483",
-   "ids": [
-    "39596483",
-    "39596701"
-   ],
-   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-03 21:05:30",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
-     "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"
-    }
-   ],
-   "queries": [
-    "british revolut 10x claude"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ia9SGQf21aE",
-     "url": "https://www.youtube.com/shorts/Ia9SGQf21aE",
-     "title": "How Revolut Pays a Tenth for AI Coding",
-     "channel": "",
-     "views": 300,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T03:36:42.685Z"
-  },
-  {
    "first_seen": "2026-11-02T12:17:57.473Z",
    "id": "39562544",
    "ids": [
@@ -483,6 +449,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
+  },
+  {
+   "first_seen": "2026-11-03T21:35:58.367Z",
+   "id": "39596483",
+   "ids": [
+    "39596483",
+    "39596701"
+   ],
+   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-03 21:05:30",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
+     "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"
+    }
+   ],
+   "queries": [
+    "british revolut 10x claude"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ia9SGQf21aE",
+     "url": "https://www.youtube.com/shorts/Ia9SGQf21aE",
+     "title": "How Revolut Pays a Tenth for AI Coding",
+     "channel": "",
+     "views": 300,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T03:36:42.685Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
