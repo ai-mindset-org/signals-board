@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:09:34.042Z",
+ "generated_at": "2026-11-04T21:36:36.428Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: ai can read neural",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ai can read neural",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -174,7 +183,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-04 18:00:00",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1222,7 +1231,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-04T15:22:50.132Z"
+   "searched_at": "2026-11-04T21:36:40.647Z"
   },
   {
    "first_seen": "2026-11-03T16:36:31.521Z",
