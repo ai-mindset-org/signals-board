@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T14:36:39.900Z",
+ "generated_at": "2026-11-04T15:22:45.709Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: fal 16b ai inference",
+   "source": "youtube: ai can read neural",
    "ok": true
   },
   {
-   "source": "tiktok: fal 16b ai inference",
+   "source": "tiktok: ai can read neural",
    "ok": true
   }
  ],
@@ -77,7 +77,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-04T09:13:14.440Z"
+   "searched_at": "2026-11-04T15:22:50.132Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -91,7 +91,7 @@
    "source_id": "hf-blog",
    "published_ts": "2026-11-03 17:15:21",
    "story_sources": 2,
-   "score_norm": 96,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "hn",
@@ -134,7 +134,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-03 19:34:43",
    "story_sources": 2,
-   "score_norm": 95,
+   "score_norm": 96,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -336,7 +336,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-04 03:27:36",
    "story_sources": 3,
-   "score_norm": 84,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "engadget",
@@ -640,7 +640,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-04 04:50:50",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "in-businessline",
