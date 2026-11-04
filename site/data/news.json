@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:50:05.471Z",
+ "generated_at": "2026-11-04T16:36:21.833Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,46 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: british revolut 10x claude",
+   "source": "youtube: IndiaAI Mission",
    "ok": true
   },
   {
-   "source": "tiktok: british revolut 10x claude",
+   "source": "tiktok: IndiaAI Mission",
+   "ok": true
+  },
+  {
+   "source": "youtube: indiaai mission eka-1 dhīr",
+   "ok": true
+  },
+  {
+   "source": "tiktok: indiaai mission eka-1 dhīr",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-11-04T13:11:00.145Z",
-   "id": "39609749",
-   "ids": [
-    "39609749",
-    "39607389"
-   ],
-   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-04 12:24:00",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
-     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Smart Reports",
-    "smart reports vorgesetzte claude-nutzung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T13:11:12.314Z"
-  },
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
    "id": "39605989",
@@ -78,6 +55,37 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-04T15:22:50.132Z"
+  },
+  {
+   "first_seen": "2026-11-04T13:11:00.145Z",
+   "id": "39609749",
+   "ids": [
+    "39609749",
+    "39607389"
+   ],
+   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
+   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-04 12:24:00",
+   "story_sources": 2,
+   "score_norm": 99,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
+     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Smart Reports",
+    "smart reports vorgesetzte claude-nutzung"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T13:11:12.314Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -134,7 +142,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-03 19:34:43",
    "story_sources": 2,
-   "score_norm": 96,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -499,7 +507,7 @@
    "source_id": "in-techgenyz",
    "published_ts": "2026-11-04 08:48:15",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "hn",
@@ -672,10 +680,34 @@
      "url": "https://www.youtube.com/watch?v=Phzdrxbi7V4",
      "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission | 04 November 2026",
      "channel": "NEWS ON AIR OFFICIAL",
-     "views": 1419,
-     "age_hours": 7,
+     "views": 1662,
+     "age_hours": 13,
      "relevance": 0.5,
-     "velocity": 203
+     "velocity": 128
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:F8lEM6pkcYU",
+     "url": "https://www.youtube.com/watch?v=F8lEM6pkcYU",
+     "title": "India ದ 3 ಹೊಸ AI Models: ಎಷ್ಟು ಚೆನ್ನಾಗಿವೆ? | India's 3 New AI Models: EKA-1 and Dhīr",
+     "channel": "AI with Kornaya | ಯಂತ್ರಬುದ್ಧಿ",
+     "views": 4,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bdtl_DLbwjs",
+     "url": "https://www.youtube.com/shorts/bdtl_DLbwjs",
+     "title": "🇮🇳 India's Indigenous AI Models 2026 | EKA-1, Dhīr 2B & Dhīr 5B | UPSC Current Affairs#upsc",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -684,7 +716,7 @@
      "url": "https://www.youtube.com/shorts/zGpWbDfnb4E",
      "title": "IndiaAI Mission Launches Indigenous Foundation Models | UPSC GS2/GS3 #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 1,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -694,7 +726,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-04T10:24:54.762Z"
+   "searched_at": "2026-11-04T16:36:29.710Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
