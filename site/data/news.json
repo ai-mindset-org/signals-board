@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T11:23:08.532Z",
+ "generated_at": "2026-11-04T11:36:16.411Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Apple Siri",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Apple Siri",
-   "ok": true
-  },
-  {
-   "source": "youtube: apple siri powerful features",
-   "ok": true
-  },
-  {
-   "source": "tiktok: apple siri powerful features",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
@@ -69,7 +52,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-04 10:26:25",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "reddit-localllama",
@@ -225,6 +208,116 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T08:36:24.390Z"
+  },
+  {
+   "first_seen": "2026-11-03T18:13:19.978Z",
+   "id": "39592440",
+   "ids": [
+    "39592440",
+    "39590702",
+    "39602532",
+    "39608233"
+   ],
+   "title": "Google will cut off search access for students at schools that reject AI",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-will-cut-off-search-access-for-students-at-schools-that-reject-ai/article71663810.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-04 03:27:36",
+   "story_sources": 3,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Google says students in schools that ban AI won't have access to Search",
+     "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Google will cut off search access for students at schools that reject AI",
+     "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a"
+    }
+   ],
+   "queries": [
+    "google search students schools"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8v45znvgsXQ",
+     "url": "https://www.youtube.com/watch?v=8v45znvgsXQ",
+     "title": "Google cuts off search if schools block AI",
+     "channel": "Pivot to AI",
+     "views": 9675,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 1075
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "@matthew_berman",
+     "views": 138000,
+     "age_hours": 144.12712027777778,
+     "relevance": 0.5,
+     "velocity": 957
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zIXI2jsQ8-Y",
+     "url": "https://www.youtube.com/watch?v=zIXI2jsQ8-Y",
+     "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
+     "channel": "Forbes Breaking News",
+     "views": 5629,
+     "age_hours": 10,
+     "relevance": 0.63,
+     "velocity": 563
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:g99D2V6Md-I",
+     "url": "https://www.youtube.com/watch?v=g99D2V6Md-I",
+     "title": "Google’s school AI opt-out could also mean losing access to Search",
+     "channel": "KHOU 11",
+     "views": 463,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 58
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ceFur5m8Db8",
+     "url": "https://www.youtube.com/shorts/ceFur5m8Db8",
+     "title": "Google threatens to cut schools off from its search engine if they restrict AI tools #News #ai",
+     "channel": "",
+     "views": 465,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-JSPorgwiF0",
+     "url": "https://www.youtube.com/shorts/-JSPorgwiF0",
+     "title": "Google: no AI at school, no Google Search",
+     "channel": "",
+     "views": 181,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-04T06:40:34.481Z"
   },
   {
    "first_seen": "2026-11-03T16:49:57.376Z",
@@ -580,115 +673,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-02T10:22:55.524Z"
-  },
-  {
-   "first_seen": "2026-11-03T18:13:19.978Z",
-   "id": "39592440",
-   "ids": [
-    "39592440",
-    "39590702",
-    "39602532"
-   ],
-   "title": "Google says students in schools that ban AI won't have access to Search",
-   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
-   "source_id": "engadget",
-   "published_ts": "2026-11-03 17:10:43",
-   "story_sources": 3,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
-     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
-    },
-    {
-     "source_id": "hn",
-     "title": "Google will cut off search access for students at schools that reject AI",
-     "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a"
-    }
-   ],
-   "queries": [
-    "google search students schools"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8v45znvgsXQ",
-     "url": "https://www.youtube.com/watch?v=8v45znvgsXQ",
-     "title": "Google cuts off search if schools block AI",
-     "channel": "Pivot to AI",
-     "views": 9675,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 1075
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google \"Carbon\" just won everything...",
-     "channel": "@matthew_berman",
-     "views": 138000,
-     "age_hours": 144.12712027777778,
-     "relevance": 0.5,
-     "velocity": 957
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zIXI2jsQ8-Y",
-     "url": "https://www.youtube.com/watch?v=zIXI2jsQ8-Y",
-     "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
-     "channel": "Forbes Breaking News",
-     "views": 5629,
-     "age_hours": 10,
-     "relevance": 0.63,
-     "velocity": 563
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:g99D2V6Md-I",
-     "url": "https://www.youtube.com/watch?v=g99D2V6Md-I",
-     "title": "Google’s school AI opt-out could also mean losing access to Search",
-     "channel": "KHOU 11",
-     "views": 463,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 58
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ceFur5m8Db8",
-     "url": "https://www.youtube.com/shorts/ceFur5m8Db8",
-     "title": "Google threatens to cut schools off from its search engine if they restrict AI tools #News #ai",
-     "channel": "",
-     "views": 465,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-JSPorgwiF0",
-     "url": "https://www.youtube.com/shorts/-JSPorgwiF0",
-     "title": "Google: no AI at school, no Google Search",
-     "channel": "",
-     "views": 181,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-04T06:40:34.481Z"
   },
   {
    "first_seen": "2026-11-02T12:17:57.473Z",
