@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T10:24:47.094Z",
+ "generated_at": "2026-11-04T11:12:05.753Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: IndiaAI Mission",
-   "ok": true
-  },
-  {
-   "source": "tiktok: IndiaAI Mission",
-   "ok": true
-  },
-  {
-   "source": "youtube: indiaai mission eka-1 dhīr",
-   "ok": true
-  },
-  {
-   "source": "tiktok: indiaai mission eka-1 dhīr",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
@@ -55,6 +38,103 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-04T09:13:14.440Z"
+  },
+  {
+   "first_seen": "2026-11-03T21:35:58.367Z",
+   "id": "39596483",
+   "ids": [
+    "39596483",
+    "39596701",
+    "39607762"
+   ],
+   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-04 10:26:25",
+   "story_sources": 2,
+   "score_norm": 98,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/"
+    },
+    {
+     "source_id": "hn",
+     "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
+     "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"
+    }
+   ],
+   "queries": [
+    "british revolut 10x claude"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ia9SGQf21aE",
+     "url": "https://www.youtube.com/shorts/Ia9SGQf21aE",
+     "title": "How Revolut Pays a Tenth for AI Coding",
+     "channel": "",
+     "views": 317,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0YN5A1Jw0GQ",
+     "url": "https://www.youtube.com/watch?v=0YN5A1Jw0GQ",
+     "title": "90% Cheaper AI Coding: How Revolut Ditched Claude Code",
+     "channel": "AI Tool Lab",
+     "views": 3,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:byih_wcOu2s",
+     "url": "https://www.youtube.com/shorts/byih_wcOu2s",
+     "title": "Revolut cut AI costs 90% by ditching Claude",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:p-S2VV3kJHY",
+     "url": "https://www.youtube.com/shorts/p-S2VV3kJHY",
+     "title": "Revolut cut AI coding costs 10x",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QI113RUH4a0",
+     "url": "https://www.youtube.com/shorts/QI113RUH4a0",
+     "title": "Revolut Says It Cut AI Coding Costs 90% With a Self-Hosted Model #shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T09:49:59.824Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -543,97 +623,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
-  },
-  {
-   "first_seen": "2026-11-03T21:35:58.367Z",
-   "id": "39596483",
-   "ids": [
-    "39596483",
-    "39596701"
-   ],
-   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-03 21:05:30",
-   "story_sources": 2,
-   "score_norm": 64,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
-     "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345"
-    }
-   ],
-   "queries": [
-    "british revolut 10x claude"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ia9SGQf21aE",
-     "url": "https://www.youtube.com/shorts/Ia9SGQf21aE",
-     "title": "How Revolut Pays a Tenth for AI Coding",
-     "channel": "",
-     "views": 317,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0YN5A1Jw0GQ",
-     "url": "https://www.youtube.com/watch?v=0YN5A1Jw0GQ",
-     "title": "90% Cheaper AI Coding: How Revolut Ditched Claude Code",
-     "channel": "AI Tool Lab",
-     "views": 3,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:byih_wcOu2s",
-     "url": "https://www.youtube.com/shorts/byih_wcOu2s",
-     "title": "Revolut cut AI costs 90% by ditching Claude",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:p-S2VV3kJHY",
-     "url": "https://www.youtube.com/shorts/p-S2VV3kJHY",
-     "title": "Revolut cut AI coding costs 10x",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QI113RUH4a0",
-     "url": "https://www.youtube.com/shorts/QI113RUH4a0",
-     "title": "Revolut Says It Cut AI Coding Costs 90% With a Self-Hosted Model #shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T09:49:59.824Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
