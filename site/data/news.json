@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T23:20:41.791Z",
+ "generated_at": "2026-11-04T00:29:28.437Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: OpenAI Updates Its",
+   "source": "youtube: statebench testing language models",
    "ok": true
   },
   {
-   "source": "tiktok: OpenAI Updates Its",
+   "source": "tiktok: statebench testing language models",
    "ok": true
   },
   {
-   "source": "youtube: openai updates spec model",
+   "source": "youtube: Like GPT-6 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: openai updates spec model",
+   "source": "tiktok: Like GPT-6 Astra",
+   "ok": true
+  },
+  {
+   "source": "youtube: like gpt-6 astra qwen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: like gpt-6 astra qwen",
+   "ok": true
+  },
+  {
+   "source": "youtube: google search students schools",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google search students schools",
    "ok": true
   }
  ],
@@ -159,6 +175,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-01T16:21:13.778Z"
+  },
+  {
+   "first_seen": "2026-11-04T00:29:28.437Z",
+   "id": "39598940",
+   "ids": [
+    "39598940",
+    "39592786"
+   ],
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source_id": "hf-blog",
+   "published_ts": "2026-11-03 17:15:21",
+   "story_sources": 2,
+   "score_norm": 99,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "StateBench: Testing how language models track state changes over long documents",
+     "url": "https://allenai.org/blog/statebench"
+    }
+   ],
+   "queries": [
+    "statebench testing language models"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T00:29:32.491Z"
   },
   {
    "first_seen": "2026-11-01T12:15:00.133Z",
@@ -483,7 +529,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-03 21:05:30",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
@@ -667,7 +713,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-03 17:29:42",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
@@ -683,14 +729,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:e6GjOg8jYMg",
+     "url": "https://www.youtube.com/watch?v=e6GjOg8jYMg",
+     "title": "Qwen 3.8 27B Ripping Apart Model Weights like GPT-6 Astra: Hands-on",
+     "channel": "Fahd Mirza",
+     "views": 2252,
+     "age_hours": 4,
+     "relevance": 0.8,
+     "velocity": 563
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:dBKkxb1R75E",
      "url": "https://www.youtube.com/watch?v=dBKkxb1R75E",
      "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Coding Tests",
      "channel": "Laxmi Kant | KGP Talkie",
-     "views": 5843,
+     "views": 5889,
      "age_hours": 72,
      "relevance": 0.5,
-     "velocity": 81
+     "velocity": 82
     },
     {
      "platform": "youtube",
@@ -699,7 +757,7 @@
      "url": "https://www.youtube.com/shorts/1QRzdjcqWqs",
      "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Tests",
      "channel": "",
-     "views": 2400,
+     "views": 2500,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -723,7 +781,7 @@
      "url": "https://www.youtube.com/shorts/FFwkqUdaXeY",
      "title": "GPT-6 Astra edited Qwen's weights. We tested it",
      "channel": "",
-     "views": 231,
+     "views": 279,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -735,21 +793,9 @@
      "url": "https://www.youtube.com/shorts/YYc7UZDIlao",
      "title": "GPT-6 Astra Use Cases",
      "channel": "",
-     "views": 63,
+     "views": 98,
      "age_hours": null,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gPZSPzPTkdg",
-     "url": "https://www.youtube.com/shorts/gPZSPzPTkdg",
-     "title": "🧠 WHAT GPT-6 ASTRA IS CAPABLE OF",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -757,7 +803,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T17:49:40.812Z"
+   "searched_at": "2026-11-04T00:29:39.919Z"
   },
   {
    "first_seen": "2026-11-03T18:13:19.978Z",
@@ -785,72 +831,72 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8v45znvgsXQ",
+     "url": "https://www.youtube.com/watch?v=8v45znvgsXQ",
+     "title": "Google cuts off search if schools block AI",
+     "channel": "Pivot to AI",
+     "views": 3655,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 1218
+    },
+    {
+     "platform": "youtube",
      "kind": "с борда",
      "id": "youtube:zhnJo7s91ls",
      "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
      "title": "Google \"Carbon\" just won everything...",
      "channel": "@matthew_berman",
      "views": 136000,
-     "age_hours": 131.6832186111111,
+     "age_hours": 137.95532916666667,
      "relevance": 0.5,
-     "velocity": 1033
+     "velocity": 986
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:APlleh5_jv8",
-     "url": "https://www.youtube.com/shorts/APlleh5_jv8",
-     "title": "#Google just told #schools that if you ban #AI then your students lose Google Search too",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:zIXI2jsQ8-Y",
+     "url": "https://www.youtube.com/watch?v=zIXI2jsQ8-Y",
+     "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
+     "channel": "Forbes Breaking News",
+     "views": 3901,
+     "age_hours": 4,
+     "relevance": 0.63,
+     "velocity": 975
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mMK-Ifc9M28",
-     "url": "https://www.youtube.com/shorts/mMK-Ifc9M28",
-     "title": "Say No to Google's AI, Lose Google Search #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:g99D2V6Md-I",
+     "url": "https://www.youtube.com/watch?v=g99D2V6Md-I",
+     "title": "Google’s school AI opt-out could also mean losing access to Search",
+     "channel": "KHOU 11",
+     "views": 32,
+     "age_hours": 1,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 32
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:l_18jAM4HPQ",
-     "url": "https://www.youtube.com/shorts/l_18jAM4HPQ",
-     "title": "Google to Schools: Block Its AI and Lose Search",
+     "id": "youtube:BJ9Oaib3Nf8",
+     "url": "https://www.youtube.com/shorts/BJ9Oaib3Nf8",
+     "title": "Google Search: why students lose it when schools say no to AI #shorts",
      "channel": "",
-     "views": 5,
+     "views": 434,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.63,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:iS1OjDTkgkY",
-     "url": "https://www.youtube.com/shorts/iS1OjDTkgkY",
-     "title": "Google's AI Ultimatum for Schools! 🚨",
+     "id": "youtube:ceFur5m8Db8",
+     "url": "https://www.youtube.com/shorts/ceFur5m8Db8",
+     "title": "Google threatens to cut schools off from its search engine if they restrict AI tools #News #ai",
      "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cY8uCsKyh0Y",
-     "url": "https://www.youtube.com/shorts/cY8uCsKyh0Y",
-     "title": "Google's Homework AI Won't Just Give You the Answer",
-     "channel": "",
-     "views": 2,
+     "views": 368,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -860,7 +906,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-03T18:13:23.963Z"
+   "searched_at": "2026-11-04T00:29:43.561Z"
   },
   {
    "first_seen": "2026-11-03T10:36:29.259Z",
