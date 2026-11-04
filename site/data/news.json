@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T11:12:05.753Z",
+ "generated_at": "2026-11-04T11:23:08.532Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Apple Siri",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Apple Siri",
+   "ok": true
+  },
+  {
+   "source": "youtube: apple siri powerful features",
+   "ok": true
+  },
+  {
+   "source": "tiktok: apple siri powerful features",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
@@ -148,7 +165,7 @@
    "source_id": "hf-blog",
    "published_ts": "2026-11-03 17:15:21",
    "story_sources": 2,
-   "score_norm": 95,
+   "score_norm": 96,
    "related_news": [
     {
      "source_id": "hn",
@@ -251,6 +268,98 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T22:50:05.900Z"
+  },
+  {
+   "first_seen": "2026-11-04T11:23:08.532Z",
+   "id": "39607902",
+   "ids": [
+    "39607902",
+    "39597651"
+   ],
+   "title": "Apple Siri AI: 5 Powerful New Features Open to Developers",
+   "url": "https://techgenyz.com/apple-siri-ai-to-developers-app-skills/",
+   "source_id": "in-techgenyz",
+   "published_ts": "2026-11-04 08:48:15",
+   "story_sources": 2,
+   "score_norm": 80,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Siri AI is now open to all developers",
+     "url": "https://developer.apple.com/news/?id=gdk2umrf"
+    }
+   ],
+   "queries": [
+    "Apple Siri",
+    "apple siri powerful features"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AKM4jTaz06A",
+     "url": "https://www.youtube.com/shorts/AKM4jTaz06A",
+     "title": "Siri AI ecosystem #shorts #siriai #apple",
+     "channel": "",
+     "views": 992,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:84-SfsEW228",
+     "url": "https://www.youtube.com/shorts/84-SfsEW228",
+     "title": "Apple opens Siri AI to all developers in the iOS 27.3 beta #Shorts",
+     "channel": "",
+     "views": 56,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:43oG4C3a22A",
+     "url": "https://www.youtube.com/shorts/43oG4C3a22A",
+     "title": "Siri is getting an AI upgrade 🍎 #siri #apple",
+     "channel": "",
+     "views": 36,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KT9gINLsiBI",
+     "url": "https://www.youtube.com/shorts/KT9gINLsiBI",
+     "title": "🔥 Apple Opens Siri AI to Developers #AINews",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uTcNfZp4ks0",
+     "url": "https://www.youtube.com/shorts/uTcNfZp4ks0",
+     "title": "Apple opens Siri AI to all developers: how App Intents work",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T11:23:16.564Z"
   },
   {
    "first_seen": "2026-11-02T21:10:46.298Z",
