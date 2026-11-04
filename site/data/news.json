@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T08:36:20.208Z",
+ "generated_at": "2026-11-04T09:13:10.178Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,15 +9,45 @@
  },
  "search_report": [
   {
-   "source": "youtube: fal 16b ai inference",
+   "source": "youtube: ai can read neural",
    "ok": true
   },
   {
-   "source": "tiktok: fal 16b ai inference",
+   "source": "tiktok: ai can read neural",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-04T09:13:10.178Z",
+   "id": "39605989",
+   "ids": [
+    "39605989",
+    "39599762"
+   ],
+   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-04 01:20:44",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+     "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/"
+    }
+   ],
+   "queries": [
+    "ai can read neural"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T09:13:14.440Z"
+  },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
    "id": "39598940",
@@ -30,7 +60,7 @@
    "source_id": "hf-blog",
    "published_ts": "2026-11-03 17:15:21",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "hn",
@@ -60,7 +90,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-03 19:34:43",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -196,115 +226,6 @@
    "searched_at": "2026-11-02T20:21:13.900Z"
   },
   {
-   "first_seen": "2026-11-03T18:13:19.978Z",
-   "id": "39592440",
-   "ids": [
-    "39592440",
-    "39590702",
-    "39602532"
-   ],
-   "title": "Google says students in schools that ban AI won't have access to Search",
-   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
-   "source_id": "engadget",
-   "published_ts": "2026-11-03 17:10:43",
-   "story_sources": 3,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
-     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
-    },
-    {
-     "source_id": "hn",
-     "title": "Google will cut off search access for students at schools that reject AI",
-     "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a"
-    }
-   ],
-   "queries": [
-    "google search students schools"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8v45znvgsXQ",
-     "url": "https://www.youtube.com/watch?v=8v45znvgsXQ",
-     "title": "Google cuts off search if schools block AI",
-     "channel": "Pivot to AI",
-     "views": 9675,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 1075
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google \"Carbon\" just won everything...",
-     "channel": "@matthew_berman",
-     "views": 138000,
-     "age_hours": 144.12712027777778,
-     "relevance": 0.5,
-     "velocity": 957
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zIXI2jsQ8-Y",
-     "url": "https://www.youtube.com/watch?v=zIXI2jsQ8-Y",
-     "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
-     "channel": "Forbes Breaking News",
-     "views": 5629,
-     "age_hours": 10,
-     "relevance": 0.63,
-     "velocity": 563
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:g99D2V6Md-I",
-     "url": "https://www.youtube.com/watch?v=g99D2V6Md-I",
-     "title": "Google’s school AI opt-out could also mean losing access to Search",
-     "channel": "KHOU 11",
-     "views": 463,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 58
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ceFur5m8Db8",
-     "url": "https://www.youtube.com/shorts/ceFur5m8Db8",
-     "title": "Google threatens to cut schools off from its search engine if they restrict AI tools #News #ai",
-     "channel": "",
-     "views": 465,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-JSPorgwiF0",
-     "url": "https://www.youtube.com/shorts/-JSPorgwiF0",
-     "title": "Google: no AI at school, no Google Search",
-     "channel": "",
-     "views": 181,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-04T06:40:34.481Z"
-  },
-  {
    "first_seen": "2026-11-02T10:22:51.234Z",
    "id": "39560795",
    "ids": [
@@ -408,6 +329,115 @@
    "searched_at": "2026-11-02T10:22:55.524Z"
   },
   {
+   "first_seen": "2026-11-03T18:13:19.978Z",
+   "id": "39592440",
+   "ids": [
+    "39592440",
+    "39590702",
+    "39602532"
+   ],
+   "title": "Google says students in schools that ban AI won't have access to Search",
+   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
+   "source_id": "engadget",
+   "published_ts": "2026-11-03 17:10:43",
+   "story_sources": 3,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
+     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
+    },
+    {
+     "source_id": "hn",
+     "title": "Google will cut off search access for students at schools that reject AI",
+     "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a"
+    }
+   ],
+   "queries": [
+    "google search students schools"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8v45znvgsXQ",
+     "url": "https://www.youtube.com/watch?v=8v45znvgsXQ",
+     "title": "Google cuts off search if schools block AI",
+     "channel": "Pivot to AI",
+     "views": 9675,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 1075
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "@matthew_berman",
+     "views": 138000,
+     "age_hours": 144.12712027777778,
+     "relevance": 0.5,
+     "velocity": 957
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zIXI2jsQ8-Y",
+     "url": "https://www.youtube.com/watch?v=zIXI2jsQ8-Y",
+     "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
+     "channel": "Forbes Breaking News",
+     "views": 5629,
+     "age_hours": 10,
+     "relevance": 0.63,
+     "velocity": 563
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:g99D2V6Md-I",
+     "url": "https://www.youtube.com/watch?v=g99D2V6Md-I",
+     "title": "Google’s school AI opt-out could also mean losing access to Search",
+     "channel": "KHOU 11",
+     "views": 463,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 58
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ceFur5m8Db8",
+     "url": "https://www.youtube.com/shorts/ceFur5m8Db8",
+     "title": "Google threatens to cut schools off from its search engine if they restrict AI tools #News #ai",
+     "channel": "",
+     "views": 465,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-JSPorgwiF0",
+     "url": "https://www.youtube.com/shorts/-JSPorgwiF0",
+     "title": "Google: no AI at school, no Google Search",
+     "channel": "",
+     "views": 181,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-04T06:40:34.481Z"
+  },
+  {
    "first_seen": "2026-11-02T12:17:57.473Z",
    "id": "39562544",
    "ids": [
@@ -462,7 +492,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-03 21:05:30",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "hn",
@@ -603,7 +633,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-03 17:29:42",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "hn",
