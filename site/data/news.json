@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T00:29:28.437Z",
+ "generated_at": "2026-11-04T02:26:02.143Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: statebench testing language models",
+   "source": "youtube: fal 16b ai inference",
    "ok": true
   },
   {
-   "source": "tiktok: statebench testing language models",
-   "ok": true
-  },
-  {
-   "source": "youtube: Like GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Like GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: like gpt-6 astra qwen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: like gpt-6 astra qwen",
-   "ok": true
-  },
-  {
-   "source": "youtube: google search students schools",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google search students schools",
+   "source": "tiktok: fal 16b ai inference",
    "ok": true
   }
  ],
@@ -65,12 +41,25 @@
    "queries": [
     "fal 16b ai inference"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BN7yUq0_foA",
+     "url": "https://www.youtube.com/shorts/BN7yUq0_foA",
+     "title": "AI Startup fal Doubles Valuation to $16B After $1.65B Raise",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T20:21:45.949Z"
+   "searched_at": "2026-11-04T02:26:06.474Z"
   },
   {
    "first_seen": "2026-11-01T04:12:52.848Z",
@@ -1024,7 +1013,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-03 12:58:05",
    "story_sources": 2,
-   "score_norm": 49,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "hn",
