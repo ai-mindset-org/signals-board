@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T03:36:38.684Z",
+ "generated_at": "2026-11-04T04:49:49.750Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,17 +7,38 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: british revolut 10x claude",
-   "ok": true
-  },
-  {
-   "source": "tiktok: british revolut 10x claude",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
+  {
+   "first_seen": "2026-11-04T00:29:28.437Z",
+   "id": "39598940",
+   "ids": [
+    "39598940",
+    "39592786"
+   ],
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source_id": "hf-blog",
+   "published_ts": "2026-11-03 17:15:21",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "StateBench: Testing how language models track state changes over long documents",
+     "url": "https://allenai.org/blog/statebench"
+    }
+   ],
+   "queries": [
+    "statebench testing language models"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T00:29:32.491Z"
+  },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
    "id": "39594907",
@@ -60,36 +81,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T02:26:06.474Z"
-  },
-  {
-   "first_seen": "2026-11-04T00:29:28.437Z",
-   "id": "39598940",
-   "ids": [
-    "39598940",
-    "39592786"
-   ],
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "url": "https://huggingface.co/blog/allenai/statebench",
-   "source_id": "hf-blog",
-   "published_ts": "2026-11-03 17:15:21",
-   "story_sources": 2,
-   "score_norm": 99,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "StateBench: Testing how language models track state changes over long documents",
-     "url": "https://allenai.org/blog/statebench"
-    }
-   ],
-   "queries": [
-    "statebench testing language models"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T00:29:32.491Z"
   },
   {
    "first_seen": "2026-11-01T12:15:00.133Z",
@@ -298,6 +289,115 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-02T20:21:13.900Z"
+  },
+  {
+   "first_seen": "2026-11-03T18:13:19.978Z",
+   "id": "39592440",
+   "ids": [
+    "39592440",
+    "39590702",
+    "39602532"
+   ],
+   "title": "Google says students in schools that ban AI won't have access to Search",
+   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
+   "source_id": "engadget",
+   "published_ts": "2026-11-03 17:10:43",
+   "story_sources": 3,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "futurism-ai",
+     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
+     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
+    },
+    {
+     "source_id": "hn",
+     "title": "Google will cut off search access for students at schools that reject AI",
+     "url": "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a"
+    }
+   ],
+   "queries": [
+    "google search students schools"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8v45znvgsXQ",
+     "url": "https://www.youtube.com/watch?v=8v45znvgsXQ",
+     "title": "Google cuts off search if schools block AI",
+     "channel": "Pivot to AI",
+     "views": 3655,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 1218
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:zhnJo7s91ls",
+     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+     "title": "Google \"Carbon\" just won everything...",
+     "channel": "@matthew_berman",
+     "views": 136000,
+     "age_hours": 137.95532916666667,
+     "relevance": 0.5,
+     "velocity": 986
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zIXI2jsQ8-Y",
+     "url": "https://www.youtube.com/watch?v=zIXI2jsQ8-Y",
+     "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
+     "channel": "Forbes Breaking News",
+     "views": 3901,
+     "age_hours": 4,
+     "relevance": 0.63,
+     "velocity": 975
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:g99D2V6Md-I",
+     "url": "https://www.youtube.com/watch?v=g99D2V6Md-I",
+     "title": "Google’s school AI opt-out could also mean losing access to Search",
+     "channel": "KHOU 11",
+     "views": 32,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 32
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BJ9Oaib3Nf8",
+     "url": "https://www.youtube.com/shorts/BJ9Oaib3Nf8",
+     "title": "Google Search: why students lose it when schools say no to AI #shorts",
+     "channel": "",
+     "views": 434,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ceFur5m8Db8",
+     "url": "https://www.youtube.com/shorts/ceFur5m8Db8",
+     "title": "Google threatens to cut schools off from its search engine if they restrict AI tools #News #ai",
+     "channel": "",
+     "views": 368,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-04T00:29:43.561Z"
   },
   {
    "first_seen": "2026-11-02T10:22:51.234Z",
@@ -689,109 +789,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T00:29:39.919Z"
-  },
-  {
-   "first_seen": "2026-11-03T18:13:19.978Z",
-   "id": "39592440",
-   "ids": [
-    "39592440",
-    "39590702"
-   ],
-   "title": "Google says students in schools that ban AI won't have access to Search",
-   "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
-   "source_id": "engadget",
-   "published_ts": "2026-11-03 17:10:43",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "Google Announces It’s Shutting Off Search Engine Access for Schools That Ban AI",
-     "url": "https://futurism.com/future-society/google-search-engine-access-schools-ban-ai"
-    }
-   ],
-   "queries": [
-    "google search students schools"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8v45znvgsXQ",
-     "url": "https://www.youtube.com/watch?v=8v45znvgsXQ",
-     "title": "Google cuts off search if schools block AI",
-     "channel": "Pivot to AI",
-     "views": 3655,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 1218
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:zhnJo7s91ls",
-     "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-     "title": "Google \"Carbon\" just won everything...",
-     "channel": "@matthew_berman",
-     "views": 136000,
-     "age_hours": 137.95532916666667,
-     "relevance": 0.5,
-     "velocity": 986
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zIXI2jsQ8-Y",
-     "url": "https://www.youtube.com/watch?v=zIXI2jsQ8-Y",
-     "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
-     "channel": "Forbes Breaking News",
-     "views": 3901,
-     "age_hours": 4,
-     "relevance": 0.63,
-     "velocity": 975
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:g99D2V6Md-I",
-     "url": "https://www.youtube.com/watch?v=g99D2V6Md-I",
-     "title": "Google’s school AI opt-out could also mean losing access to Search",
-     "channel": "KHOU 11",
-     "views": 32,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 32
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BJ9Oaib3Nf8",
-     "url": "https://www.youtube.com/shorts/BJ9Oaib3Nf8",
-     "title": "Google Search: why students lose it when schools say no to AI #shorts",
-     "channel": "",
-     "views": 434,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ceFur5m8Db8",
-     "url": "https://www.youtube.com/shorts/ceFur5m8Db8",
-     "title": "Google threatens to cut schools off from its search engine if they restrict AI tools #News #ai",
-     "channel": "",
-     "views": 368,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-04T00:29:43.561Z"
   },
   {
    "first_seen": "2026-11-03T10:36:29.259Z",
