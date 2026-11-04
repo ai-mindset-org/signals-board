@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T03:12:53.005Z",
+ "generated_at": "2026-11-04T03:36:38.684Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Weight Space Programming",
+   "source": "youtube: british revolut 10x claude",
    "ok": true
   },
   {
-   "source": "tiktok: Weight Space Programming",
-   "ok": true
-  },
-  {
-   "source": "youtube: llms space programming autoresearch",
-   "ok": true
-  },
-  {
-   "source": "tiktok: llms space programming autoresearch",
+   "source": "tiktok: british revolut 10x claude",
    "ok": true
   }
  ],
@@ -68,110 +60,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T02:26:06.474Z"
-  },
-  {
-   "first_seen": "2026-11-01T04:12:52.848Z",
-   "id": "39540635",
-   "ids": [
-    "39540635",
-    "39537235"
-   ],
-   "title": "OpenAI is merging ChatGPT and Codex usage limits starting December. Thoughts?",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xkt2n0/openai_is_merging_chatgpt_and_codex_usage_limits/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-01 03:33:13",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "ChatGPT and Codex usage limits merging",
-     "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits"
-    }
-   ],
-   "queries": [
-    "December Thoughts",
-    "openai chatgpt codex december"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Gx-P6B1JhdE",
-     "url": "https://www.youtube.com/watch?v=Gx-P6B1JhdE",
-     "title": "OpenAI: ChatGPT and Codex to Share Usage Quotas Starting in December [AI Morning News 11/01/2026]",
-     "channel": "橘鸦Juya",
-     "views": 1388,
-     "age_hours": 15,
-     "relevance": 0.67,
-     "velocity": 93
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:DGp0R7uwzH4",
-     "url": "https://www.youtube.com/shorts/DGp0R7uwzH4",
-     "title": "ChatGPT and Codex Will Share Your Usage Limit",
-     "channel": "",
-     "views": 103,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vv4WagOoIPI",
-     "url": "https://www.youtube.com/shorts/vv4WagOoIPI",
-     "title": "ChatGPT and Codex Will Share One Usage Limit in December",
-     "channel": "",
-     "views": 86,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:t8z4kCY2bDs",
-     "url": "https://www.youtube.com/shorts/t8z4kCY2bDs",
-     "title": "OpenAI merges ChatGPT and Codex usage limits starting in December",
-     "channel": "",
-     "views": 47,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:z3FLGJVRqpw",
-     "url": "https://www.youtube.com/watch?v=z3FLGJVRqpw",
-     "title": "OpenAI 'Doubled' ChatGPT Limits. Who Got Nothing?",
-     "channel": "The Output",
-     "views": 26,
-     "age_hours": 20,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IltQko7nDUc",
-     "url": "https://www.youtube.com/shorts/IltQko7nDUc",
-     "title": "ChatGPT and Codex will share one usage allowance from December",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-01T16:21:13.778Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -545,7 +433,7 @@
      "url": "https://www.youtube.com/shorts/Ia9SGQf21aE",
      "title": "How Revolut Pays a Tenth for AI Coding",
      "channel": "",
-     "views": 278,
+     "views": 300,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -555,7 +443,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T21:36:03.023Z"
+   "searched_at": "2026-11-04T03:36:42.685Z"
   },
   {
    "first_seen": "2026-11-02T12:17:57.473Z",
