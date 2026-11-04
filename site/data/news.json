@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:22:45.709Z",
+ "generated_at": "2026-11-04T15:50:05.471Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: ai can read neural",
+   "source": "youtube: british revolut 10x claude",
    "ok": true
   },
   {
-   "source": "tiktok: ai can read neural",
+   "source": "tiktok: british revolut 10x claude",
    "ok": true
   }
  ],
@@ -61,7 +61,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-04 01:20:44",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 100,
    "related_news": [
     {
      "source_id": "hn",
@@ -91,7 +91,7 @@
    "source_id": "hf-blog",
    "published_ts": "2026-11-03 17:15:21",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 98,
    "related_news": [
     {
      "source_id": "hn",
@@ -257,27 +257,27 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ia9SGQf21aE",
-     "url": "https://www.youtube.com/shorts/Ia9SGQf21aE",
-     "title": "How Revolut Pays a Tenth for AI Coding",
-     "channel": "",
-     "views": 317,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
      "kind": "видео",
      "id": "youtube:0YN5A1Jw0GQ",
      "url": "https://www.youtube.com/watch?v=0YN5A1Jw0GQ",
      "title": "90% Cheaper AI Coding: How Revolut Ditched Claude Code",
      "channel": "AI Tool Lab",
-     "views": 3,
-     "age_hours": 2,
+     "views": 8,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": 2
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:np9xCoVLNDg",
+     "url": "https://www.youtube.com/watch?v=np9xCoVLNDg",
+     "title": "Revolut cuts its AI coding bill by 90%",
+     "channel": "VarOps",
+     "views": 1,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 1
     },
     {
      "platform": "youtube",
@@ -286,21 +286,9 @@
      "url": "https://www.youtube.com/shorts/byih_wcOu2s",
      "title": "Revolut cut AI costs 90% by ditching Claude",
      "channel": "",
-     "views": 4,
+     "views": 28,
      "age_hours": null,
      "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:p-S2VV3kJHY",
-     "url": "https://www.youtube.com/shorts/p-S2VV3kJHY",
-     "title": "Revolut cut AI coding costs 10x",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.83,
      "velocity": null
     },
     {
@@ -310,9 +298,33 @@
      "url": "https://www.youtube.com/shorts/QI113RUH4a0",
      "title": "Revolut Says It Cut AI Coding Costs 90% With a Self-Hosted Model #shorts",
      "channel": "",
-     "views": 1,
+     "views": 11,
      "age_hours": null,
      "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:p-S2VV3kJHY",
+     "url": "https://www.youtube.com/shorts/p-S2VV3kJHY",
+     "title": "Revolut cut AI coding costs 10x",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ai_6T5grHCg",
+     "url": "https://www.youtube.com/shorts/Ai_6T5grHCg",
+     "title": "How Revolut cut its AI coding costs 10x by self-hosting a model",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -320,7 +332,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-04T09:49:59.824Z"
+   "searched_at": "2026-11-04T15:50:10.248Z"
   },
   {
    "first_seen": "2026-11-03T18:13:19.978Z",
@@ -487,7 +499,7 @@
    "source_id": "in-techgenyz",
    "published_ts": "2026-11-04 08:48:15",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "hn",
