@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T06:40:26.780Z",
+ "generated_at": "2026-11-04T07:50:12.002Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: statebench testing language models",
-   "ok": true
-  },
-  {
-   "source": "tiktok: statebench testing language models",
-   "ok": true
-  },
-  {
-   "source": "youtube: google search students schools",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google search students schools",
-   "ok": true
-  },
-  {
-   "source": "youtube: Like GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Like GPT-6 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: like gpt-6 astra qwen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: like gpt-6 astra qwen",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -114,110 +81,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T02:26:06.474Z"
-  },
-  {
-   "first_seen": "2026-11-01T12:15:00.133Z",
-   "id": "39545138",
-   "ids": [
-    "39545138",
-    "39530670"
-   ],
-   "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
-   "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
-   "source_id": "in-marktechpost",
-   "published_ts": "2026-11-01 07:47:17",
-   "story_sources": 2,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "DeepSeek open-sources dsh-superagent, a coding agent largely built by agents",
-     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
-    }
-   ],
-   "queries": [
-    "DeepSeek Open-Sources",
-    "deepseek open-sources router-worker coding"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7oCRudZRlYk",
-     "url": "https://www.youtube.com/shorts/7oCRudZRlYk",
-     "title": "DeepSeek dsh-superagent: Open-Source Coding Agent Prototype",
-     "channel": "",
-     "views": 96,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Y_FCcIKfekM",
-     "url": "https://www.youtube.com/shorts/Y_FCcIKfekM",
-     "title": "DeepSeek's dsh-superagent: 2,000 Stars in 12 Hours for Parallel Coding Agents",
-     "channel": "",
-     "views": 35,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1q0qms7NMo4",
-     "url": "https://www.youtube.com/shorts/1q0qms7NMo4",
-     "title": "DeepSeek's dsh-superagent: Reference-Only Coding Agent, MIT License",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_HgSao6gCps",
-     "url": "https://www.youtube.com/shorts/_HgSao6gCps",
-     "title": "DeepSeek open-sources a coding agent that picks GitHub tasks itself",
-     "channel": "",
-     "views": 14,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cVTwJv7x3_c",
-     "url": "https://www.youtube.com/shorts/cVTwJv7x3_c",
-     "title": "DeepSeek shares dsh-superagent, a prototype coding agent on GitHub",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bvMbQyDSYQE",
-     "url": "https://www.youtube.com/shorts/bvMbQyDSYQE",
-     "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-01T12:15:07.810Z"
   },
   {
    "first_seen": "2026-11-03T16:49:57.376Z",
