@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T17:36:13.267Z",
+ "generated_at": "2026-11-04T19:20:41.300Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Apple Siri",
+   "source": "youtube: Smart Reports",
    "ok": true
   },
   {
-   "source": "tiktok: Apple Siri",
+   "source": "tiktok: Smart Reports",
    "ok": true
   },
   {
-   "source": "youtube: apple siri powerful features",
+   "source": "youtube: smart reports vorgesetzte claude-nutzung",
    "ok": true
   },
   {
-   "source": "tiktok: apple siri powerful features",
+   "source": "tiktok: smart reports vorgesetzte claude-nutzung",
    "ok": true
   }
  ],
@@ -81,7 +81,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-04 01:20:44",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "hn",
@@ -98,37 +98,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-04T15:22:50.132Z"
-  },
-  {
-   "first_seen": "2026-11-04T13:11:00.145Z",
-   "id": "39609749",
-   "ids": [
-    "39609749",
-    "39607389"
-   ],
-   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-04 12:24:00",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
-     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Smart Reports",
-    "smart reports vorgesetzte claude-nutzung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T13:11:12.314Z"
   },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
@@ -344,6 +313,37 @@
    "searched_at": "2026-11-04T12:50:11.949Z"
   },
   {
+   "first_seen": "2026-11-04T13:11:00.145Z",
+   "id": "39609749",
+   "ids": [
+    "39609749",
+    "39607389"
+   ],
+   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
+   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-04 12:24:00",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
+     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Smart Reports",
+    "smart reports vorgesetzte claude-nutzung"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T19:20:49.120Z"
+  },
+  {
    "first_seen": "2026-11-03T16:49:57.376Z",
    "id": "39590813",
    "ids": [
@@ -399,7 +399,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-04 10:26:25",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "reddit-localllama",
@@ -794,7 +794,7 @@
    "source_id": "in-techgenyz",
    "published_ts": "2026-11-04 08:48:15",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "hn",
