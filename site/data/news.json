@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T13:11:29.925Z",
+ "generated_at": "2026-11-05T13:36:51.731Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: pangram expands ai detection",
+   "source": "youtube: kabilio 10m raises expand",
    "ok": true
   },
   {
-   "source": "tiktok: pangram expands ai detection",
+   "source": "tiktok: kabilio 10m raises expand",
    "ok": true
   }
  ],
@@ -1250,7 +1250,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-05 12:16:12",
    "story_sources": 2,
-   "score_norm": 52,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "engadget",
@@ -1293,7 +1293,7 @@
    "source_id": "eu-tech-eu",
    "published_ts": "2026-11-05 06:30:00",
    "story_sources": 2,
-   "score_norm": 52,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1309,7 +1309,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-05T07:23:44.410Z"
+   "searched_at": "2026-11-05T13:36:55.608Z"
   },
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
