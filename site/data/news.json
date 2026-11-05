@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T08:36:12.741Z",
+ "generated_at": "2026-11-05T10:11:39.195Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,17 +7,166 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
+ "search_report": [],
+ "stories": [
   {
-   "source": "youtube: nothing ai-native launch first",
-   "ok": true
+   "first_seen": "2026-11-04T23:35:20.975Z",
+   "id": "39619325",
+   "ids": [
+    "39619325",
+    "39621782",
+    "39627117",
+    "39629076"
+   ],
+   "title": "Meta acquires AI coding startup Conductor",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-04 21:10:56",
+   "story_sources": 4,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "eu-siliconrepublic",
+     "title": "Meta acquires AI coding start-up Conductor",
+     "url": "https://www.siliconrepublic.com/business/meta-acquires-ai-coding-start-up-conductor"
+    },
+    {
+     "source_id": "sea-techinasia",
+     "title": "Meta acquires AI coding startup Conductor",
+     "url": "https://www.techinasia.com/news/meta-acquires-ai-coding-startup-conductor"
+    },
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+     "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
+    }
+   ],
+   "queries": [
+    "meta conductor acquires ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gkK8m0XHEJ8",
+     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
+     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1VTSAmnYSCA",
+     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
+     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dlReEd5vhog",
+     "url": "https://www.youtube.com/shorts/dlReEd5vhog",
+     "title": "Meta acquires AI coding startup Conductor",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:54GJfdIIQcA",
+     "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
+     "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aZtnrGSmIDk",
+     "url": "https://www.youtube.com/shorts/aZtnrGSmIDk",
+     "title": "Meta Buys Conductor: Coding Agents Go Parallel #AI #Meta #CodingAgents",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WEryqbi9R98",
+     "url": "https://www.youtube.com/shorts/WEryqbi9R98",
+     "title": "Meta Acquires AI Coding Startup Conductor to Supercharge Developer Workflows #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T05:36:55.529Z"
   },
   {
-   "source": "tiktok: nothing ai-native launch first",
-   "ok": true
-  }
- ],
- "stories": [
+   "first_seen": "2026-11-04T00:29:28.437Z",
+   "id": "39598940",
+   "ids": [
+    "39598940",
+    "39592786"
+   ],
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source_id": "hf-blog",
+   "published_ts": "2026-11-03 17:15:21",
+   "story_sources": 2,
+   "score_norm": 98,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "StateBench: Testing how language models track state changes over long documents",
+     "url": "https://allenai.org/blog/statebench"
+    }
+   ],
+   "queries": [
+    "statebench testing language models"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:V7d61YB3V_0",
+     "url": "https://www.youtube.com/shorts/V7d61YB3V_0",
+     "title": "Hugging Face: StateBench: Testing how language models track state changes over long documents",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T12:50:08.322Z"
+  },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
    "id": "39617836",
@@ -32,7 +181,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-04 14:30:00",
    "story_sources": 3,
-   "score_norm": 100,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -133,158 +282,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T08:16:47.764Z"
-  },
-  {
-   "first_seen": "2026-11-04T00:29:28.437Z",
-   "id": "39598940",
-   "ids": [
-    "39598940",
-    "39592786"
-   ],
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "url": "https://huggingface.co/blog/allenai/statebench",
-   "source_id": "hf-blog",
-   "published_ts": "2026-11-03 17:15:21",
-   "story_sources": 2,
-   "score_norm": 98,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "StateBench: Testing how language models track state changes over long documents",
-     "url": "https://allenai.org/blog/statebench"
-    }
-   ],
-   "queries": [
-    "statebench testing language models"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:V7d61YB3V_0",
-     "url": "https://www.youtube.com/shorts/V7d61YB3V_0",
-     "title": "Hugging Face: StateBench: Testing how language models track state changes over long documents",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T12:50:08.322Z"
-  },
-  {
-   "first_seen": "2026-11-04T23:35:20.975Z",
-   "id": "39619325",
-   "ids": [
-    "39619325",
-    "39621782",
-    "39627117"
-   ],
-   "title": "Meta acquires AI coding startup Conductor",
-   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-04 21:10:56",
-   "story_sources": 3,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Meta acquires AI coding startup Conductor",
-     "url": "https://www.techinasia.com/news/meta-acquires-ai-coding-startup-conductor"
-    },
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
-     "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
-    }
-   ],
-   "queries": [
-    "meta conductor acquires ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gkK8m0XHEJ8",
-     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
-     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1VTSAmnYSCA",
-     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
-     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dlReEd5vhog",
-     "url": "https://www.youtube.com/shorts/dlReEd5vhog",
-     "title": "Meta acquires AI coding startup Conductor",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:54GJfdIIQcA",
-     "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
-     "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aZtnrGSmIDk",
-     "url": "https://www.youtube.com/shorts/aZtnrGSmIDk",
-     "title": "Meta Buys Conductor: Coding Agents Go Parallel #AI #Meta #CodingAgents",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WEryqbi9R98",
-     "url": "https://www.youtube.com/shorts/WEryqbi9R98",
-     "title": "Meta Acquires AI Coding Startup Conductor to Supercharge Developer Workflows #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T05:36:55.529Z"
   },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
@@ -696,109 +693,6 @@
    "searched_at": "2026-11-03T00:29:02.050Z"
   },
   {
-   "first_seen": "2026-11-04T19:49:54.634Z",
-   "id": "39616463",
-   "ids": [
-    "39616463",
-    "39617740"
-   ],
-   "title": "ChatGPT will now make you animated GIFs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-   "source_id": "theverge",
-   "published_ts": "2026-11-04 18:00:00",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
-     "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai"
-    }
-   ],
-   "queries": [
-    "chatgpt gifs make animated"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:e4gNCfPZ7dE",
-     "url": "https://www.youtube.com/watch?v=e4gNCfPZ7dE",
-     "title": "ChatGPT Images 2.6 Can Do Things We've Never Seen! (Gifs + Sprites)",
-     "channel": "Evan Burger",
-     "views": 199,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 100
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hkSvKdUymTY",
-     "url": "https://www.youtube.com/watch?v=hkSvKdUymTY",
-     "title": "INSANE! The New ChatGPT Creates Animated GIFs and MUCH MORE!",
-     "channel": "Azev • Renda Online com IA",
-     "views": 356,
-     "age_hours": 5,
-     "relevance": 0.75,
-     "velocity": 71
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:DhOFZXWifsk",
-     "url": "https://www.youtube.com/shorts/DhOFZXWifsk",
-     "title": "I Didn't Know ChatGPT Could Make GIFs #ChatGPT #Shorts",
-     "channel": "",
-     "views": 121,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mQKRrI-1pvU",
-     "url": "https://www.youtube.com/shorts/mQKRrI-1pvU",
-     "title": "ChatGPT can make GIFs now. New Image model GPT Image 2.6 #chatgpt #ai #imagegenerationai",
-     "channel": "",
-     "views": 114,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uzGDwPsp0Rg",
-     "url": "https://www.youtube.com/shorts/uzGDwPsp0Rg",
-     "title": "ChatGPT Is About to Start Making GIFs",
-     "channel": "",
-     "views": 96,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YdXnfgSHnGY",
-     "url": "https://www.youtube.com/shorts/YdXnfgSHnGY",
-     "title": "ChatGPT now makes free GIFs — 3 tricks #shorts",
-     "channel": "",
-     "views": 58,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T08:16:51.232Z"
-  },
-  {
    "first_seen": "2026-11-04T11:23:08.532Z",
    "id": "39607902",
    "ids": [
@@ -901,91 +795,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T17:36:21.454Z"
-  },
-  {
-   "first_seen": "2026-11-05T07:23:40.700Z",
-   "id": "39626419",
-   "ids": [
-    "39626419",
-    "39626682"
-   ],
-   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
-   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
-   "source_id": "eu-tech-eu",
-   "published_ts": "2026-11-05 06:30:00",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
-     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
-    }
-   ],
-   "queries": [
-    "kabilio 10m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T07:23:44.410Z"
-  },
-  {
-   "first_seen": "2026-11-05T08:36:12.741Z",
-   "id": "39627601",
-   "ids": [
-    "39627601",
-    "39625050"
-   ],
-   "title": "Nothing to launch its first AI-native product next month",
-   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-05 06:36:23",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "sea-lowyat",
-     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
-     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
-    }
-   ],
-   "queries": [
-    "nothing ai-native launch first"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T_zQ8797nRo",
-     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
-     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6wN8B1ehz1A",
-     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
-     "title": "Nothing teases a screen-free AI device ahead of launch next month",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T08:36:17.022Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
@@ -1190,6 +999,109 @@
    "searched_at": "2026-11-04T06:40:41.623Z"
   },
   {
+   "first_seen": "2026-11-04T19:49:54.634Z",
+   "id": "39616463",
+   "ids": [
+    "39616463",
+    "39617740"
+   ],
+   "title": "ChatGPT will now make you animated GIFs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "source_id": "theverge",
+   "published_ts": "2026-11-04 18:00:00",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
+     "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai"
+    }
+   ],
+   "queries": [
+    "chatgpt gifs make animated"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:e4gNCfPZ7dE",
+     "url": "https://www.youtube.com/watch?v=e4gNCfPZ7dE",
+     "title": "ChatGPT Images 2.6 Can Do Things We've Never Seen! (Gifs + Sprites)",
+     "channel": "Evan Burger",
+     "views": 199,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 100
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hkSvKdUymTY",
+     "url": "https://www.youtube.com/watch?v=hkSvKdUymTY",
+     "title": "INSANE! The New ChatGPT Creates Animated GIFs and MUCH MORE!",
+     "channel": "Azev • Renda Online com IA",
+     "views": 356,
+     "age_hours": 5,
+     "relevance": 0.75,
+     "velocity": 71
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:DhOFZXWifsk",
+     "url": "https://www.youtube.com/shorts/DhOFZXWifsk",
+     "title": "I Didn't Know ChatGPT Could Make GIFs #ChatGPT #Shorts",
+     "channel": "",
+     "views": 121,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mQKRrI-1pvU",
+     "url": "https://www.youtube.com/shorts/mQKRrI-1pvU",
+     "title": "ChatGPT can make GIFs now. New Image model GPT Image 2.6 #chatgpt #ai #imagegenerationai",
+     "channel": "",
+     "views": 114,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uzGDwPsp0Rg",
+     "url": "https://www.youtube.com/shorts/uzGDwPsp0Rg",
+     "title": "ChatGPT Is About to Start Making GIFs",
+     "channel": "",
+     "views": 96,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YdXnfgSHnGY",
+     "url": "https://www.youtube.com/shorts/YdXnfgSHnGY",
+     "title": "ChatGPT now makes free GIFs — 3 tricks #shorts",
+     "channel": "",
+     "views": 58,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T08:16:51.232Z"
+  },
+  {
    "first_seen": "2026-11-03T10:36:29.259Z",
    "id": "39583915",
    "ids": [
@@ -1292,6 +1204,91 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T10:36:38.488Z"
+  },
+  {
+   "first_seen": "2026-11-05T07:23:40.700Z",
+   "id": "39626419",
+   "ids": [
+    "39626419",
+    "39626682"
+   ],
+   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
+   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
+   "source_id": "eu-tech-eu",
+   "published_ts": "2026-11-05 06:30:00",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
+     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
+    }
+   ],
+   "queries": [
+    "kabilio 10m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T07:23:44.410Z"
+  },
+  {
+   "first_seen": "2026-11-05T08:36:12.741Z",
+   "id": "39627601",
+   "ids": [
+    "39627601",
+    "39625050"
+   ],
+   "title": "Nothing to launch its first AI-native product next month",
+   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-05 06:36:23",
+   "story_sources": 2,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "sea-lowyat",
+     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
+     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
+    }
+   ],
+   "queries": [
+    "nothing ai-native launch first"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T_zQ8797nRo",
+     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
+     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6wN8B1ehz1A",
+     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
+     "title": "Nothing teases a screen-free AI device ahead of launch next month",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T08:36:17.022Z"
   },
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
@@ -1815,36 +1812,6 @@
    "searched_at": "2026-11-03T18:50:14.519Z"
   },
   {
-   "first_seen": "2026-11-05T07:49:50.804Z",
-   "id": "39621015",
-   "ids": [
-    "39621015",
-    "39627017"
-   ],
-   "title": "OpenAI: Astra covertly underperforms on safety research",
-   "url": "https://www.lesswrong.com/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-04 22:15:30",
-   "story_sources": 2,
-   "score_norm": 44,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT-6 Astra covertly underperforms on safety research",
-     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
-    }
-   ],
-   "queries": [
-    "openai astra covertly underperforms"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T07:49:54.959Z"
-  },
-  {
    "first_seen": "2026-11-03T09:23:42.698Z",
    "id": "39582817",
    "ids": [
@@ -1965,6 +1932,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T08:36:43.957Z"
+  },
+  {
+   "first_seen": "2026-11-05T07:49:50.804Z",
+   "id": "39621015",
+   "ids": [
+    "39621015",
+    "39627017"
+   ],
+   "title": "OpenAI: Astra covertly underperforms on safety research",
+   "url": "https://www.lesswrong.com/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-04 22:15:30",
+   "story_sources": 2,
+   "score_norm": 37,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-6 Astra covertly underperforms on safety research",
+     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+    }
+   ],
+   "queries": [
+    "openai astra covertly underperforms"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T07:49:54.959Z"
   },
   {
    "first_seen": "2026-11-04T13:11:00.145Z",
