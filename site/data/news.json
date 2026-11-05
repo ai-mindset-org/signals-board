@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:22:11.155Z",
+ "generated_at": "2026-11-05T20:36:31.211Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Claude Code’s",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Claude Code’s",
-   "ok": true
-  },
-  {
-   "source": "youtube: claude code cat wu",
-   "ok": true
-  },
-  {
-   "source": "tiktok: claude code cat wu",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
@@ -50,14 +33,14 @@
      "url": "https://www.techmonitor.ai/news/meta-buys-ai-coding-startup-conductor"
     },
     {
-     "source_id": "eu-siliconrepublic",
-     "title": "Meta acquires AI coding start-up Conductor",
-     "url": "https://www.siliconrepublic.com/business/meta-acquires-ai-coding-start-up-conductor"
-    },
-    {
      "source_id": "sea-techinasia",
      "title": "Meta acquires AI coding startup Conductor",
      "url": "https://www.techinasia.com/news/meta-acquires-ai-coding-startup-conductor"
+    },
+    {
+     "source_id": "eu-siliconrepublic",
+     "title": "Meta acquires AI coding start-up Conductor",
+     "url": "https://www.siliconrepublic.com/business/meta-acquires-ai-coding-start-up-conductor"
     },
     {
      "source_id": "siliconangle-ai",
@@ -295,7 +278,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-05 18:00:00",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "hn",
