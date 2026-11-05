@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T14:12:50.437Z",
+ "generated_at": "2026-11-05T14:24:04.407Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Code’s",
+   "source": "youtube: Pierre Computer Company",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Code’s",
+   "source": "tiktok: Pierre Computer Company",
    "ok": true
   },
   {
-   "source": "youtube: claude code cat wu",
+   "source": "youtube: openai pierre computer company",
    "ok": true
   },
   {
-   "source": "tiktok: claude code cat wu",
+   "source": "tiktok: openai pierre computer company",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt gifs make animated",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt gifs make animated",
    "ok": true
   }
  ],
@@ -333,7 +341,7 @@
      "url": "https://www.youtube.com/shorts/TPcrGokJerk",
      "title": "OpenAI is acquiring Pierre Computer #ai #openai #news",
      "channel": "",
-     "views": 337,
+     "views": 391,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -345,10 +353,22 @@
      "url": "https://www.youtube.com/watch?v=vKXTppMcBdY",
      "title": "OpenAI: Pierre Computer deal takes aim at Microsoft's GitHub | Nov 4, 2026",
      "channel": "Stock News Daily",
-     "views": 33,
-     "age_hours": 17,
+     "views": 40,
+     "age_hours": 23,
      "relevance": 0.5,
      "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hVBpwMf-Mn4",
+     "url": "https://www.youtube.com/shorts/hVBpwMf-Mn4",
+     "title": "OpenAI acquisition of Pierre Computer #Shorts",
+     "channel": "",
+     "views": 40,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -357,22 +377,10 @@
      "url": "https://www.youtube.com/watch?v=WaSWknuzptw",
      "title": "OpenAI의 Pierre Computer Company, Inc. 인수",
      "channel": "Ki-jung Kim (akaslany)",
-     "views": 20,
-     "age_hours": 14,
+     "views": 22,
+     "age_hours": 21,
      "relevance": 0.67,
      "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IIQkT_HWsrQ",
-     "url": "https://www.youtube.com/shorts/IIQkT_HWsrQ",
-     "title": "OpenAI Will Acquire Pierre, Maker of Code Review Tools Already in Codex|2026.11.05 AI News #Shorts",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
     },
     {
      "platform": "youtube",
@@ -381,7 +389,7 @@
      "url": "https://www.youtube.com/shorts/4kSedKv6tmQ",
      "title": "OpenAI to Acquire Pierre Computer Company, Whose Diff Libraries Power the Codex App",
      "channel": "",
-     "views": 10,
+     "views": 30,
      "age_hours": null,
      "relevance": 0.83,
      "velocity": null
@@ -389,13 +397,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:cLBQgFh0TBQ",
-     "url": "https://www.youtube.com/shorts/cLBQgFh0TBQ",
-     "title": "OpenAI Buys Pierre Computer: What Happened",
+     "id": "youtube:iOVKLLZ7pnw",
+     "url": "https://www.youtube.com/shorts/iOVKLLZ7pnw",
+     "title": "OpenAI to acquire Pierre to strengthen its AI-powered coding platform Codex",
      "channel": "",
-     "views": 8,
+     "views": 18,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -403,7 +411,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T08:16:47.764Z"
+   "searched_at": "2026-11-05T14:24:12.116Z"
   },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
@@ -1175,69 +1183,69 @@
      "url": "https://www.youtube.com/watch?v=e4gNCfPZ7dE",
      "title": "ChatGPT Images 2.6 Can Do Things We've Never Seen! (Gifs + Sprites)",
      "channel": "Evan Burger",
-     "views": 199,
-     "age_hours": 2,
+     "views": 6516,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": 100
+     "velocity": 815
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qt9N43N7qIQ",
+     "url": "https://www.youtube.com/shorts/qt9N43N7qIQ",
+     "title": "ChatGPT Images 2.6: Turn Photos into Animated GIFs",
+     "channel": "",
+     "views": 3800,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:hkSvKdUymTY",
-     "url": "https://www.youtube.com/watch?v=hkSvKdUymTY",
-     "title": "INSANE! The New ChatGPT Creates Animated GIFs and MUCH MORE!",
-     "channel": "Azev • Renda Online com IA",
-     "views": 356,
-     "age_hours": 5,
-     "relevance": 0.75,
-     "velocity": 71
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:DhOFZXWifsk",
-     "url": "https://www.youtube.com/shorts/DhOFZXWifsk",
-     "title": "I Didn't Know ChatGPT Could Make GIFs #ChatGPT #Shorts",
-     "channel": "",
-     "views": 121,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mQKRrI-1pvU",
-     "url": "https://www.youtube.com/shorts/mQKRrI-1pvU",
-     "title": "ChatGPT can make GIFs now. New Image model GPT Image 2.6 #chatgpt #ai #imagegenerationai",
-     "channel": "",
-     "views": 114,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uzGDwPsp0Rg",
-     "url": "https://www.youtube.com/shorts/uzGDwPsp0Rg",
-     "title": "ChatGPT Is About to Start Making GIFs",
-     "channel": "",
-     "views": 96,
-     "age_hours": null,
+     "id": "youtube:PgPH30En_to",
+     "url": "https://www.youtube.com/watch?v=PgPH30En_to",
+     "title": "ChatGPT Images 2.6 Makes GIFs - And It's INSANE (Full Breakdown + My Tests)",
+     "channel": "Prompt Engineer 48",
+     "views": 472,
+     "age_hours": 6,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 79
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:YdXnfgSHnGY",
-     "url": "https://www.youtube.com/shorts/YdXnfgSHnGY",
-     "title": "ChatGPT now makes free GIFs — 3 tricks #shorts",
+     "id": "youtube:BNXykbFTqvE",
+     "url": "https://www.youtube.com/shorts/BNXykbFTqvE",
+     "title": "ChatGPT Images 2.6 Can Now Make GIFs",
      "channel": "",
-     "views": 58,
+     "views": 1800,
      "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FbeS6LSHy2Y",
+     "url": "https://www.youtube.com/watch?v=FbeS6LSHy2Y",
+     "title": "ChatGPT Images 2.6 Now Makes Icons & GIFs",
+     "channel": "AsapGuide",
+     "views": 62,
+     "age_hours": 2,
      "relevance": 0.5,
+     "velocity": 31
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ae46n3mNSDI",
+     "url": "https://www.youtube.com/shorts/Ae46n3mNSDI",
+     "title": "ChatGPT can make GIFs now: Images 2.6 explained",
+     "channel": "",
+     "views": 414,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     }
    ],
@@ -1245,7 +1253,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T08:16:51.232Z"
+   "searched_at": "2026-11-05T14:24:15.649Z"
   },
   {
    "first_seen": "2026-11-03T10:36:29.259Z",
