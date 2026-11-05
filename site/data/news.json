@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:38:06.571Z",
+ "generated_at": "2026-11-05T18:49:58.511Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,15 +9,199 @@
  },
  "search_report": [
   {
-   "source": "youtube: moonshot ai launches hosted",
+   "source": "youtube: Greg Brockman",
    "ok": true
   },
   {
-   "source": "tiktok: moonshot ai launches hosted",
+   "source": "tiktok: Greg Brockman",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai greg brockman ipo",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai greg brockman ipo",
+   "ok": true
+  },
+  {
+   "source": "youtube: Personal Finance",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Personal Finance",
+   "ok": true
+  },
+  {
+   "source": "youtube: claude personal finance can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: claude personal finance can",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-05T18:49:58.511Z",
+   "id": "39639590",
+   "ids": [
+    "39639590",
+    "39630788"
+   ],
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-05 18:02:27",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "OpenAI will be ready for an IPO in 2027, says Greg Brockman",
+     "url": "https://thenextweb.com/news/openai-ipo-2027-brockman-enterprise-revenue"
+    }
+   ],
+   "queries": [
+    "Greg Brockman",
+    "openai greg brockman ipo"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bh_i5A4fpXY",
+     "url": "https://www.youtube.com/shorts/Bh_i5A4fpXY",
+     "title": "OpenAI Is Preparing a 2027 IPO | The Brief #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9cnNR-3FzTI",
+     "url": "https://www.youtube.com/shorts/9cnNR-3FzTI",
+     "title": "OpenAI Says It Will Be Ready to IPO in 2027 #Shorts",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Fi0pztk6s5M",
+     "url": "https://www.youtube.com/watch?v=Fi0pztk6s5M",
+     "title": "OpenAI: Could be ready for an IPO in 2027, Brockman says | Nov 5, 2026",
+     "channel": "Stock News Daily",
+     "views": 0,
+     "age_hours": 4,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hGXCIaR8x6o",
+     "url": "https://www.youtube.com/shorts/hGXCIaR8x6o",
+     "title": "OpenAI IPO 2027: A Risky Gamble?",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:F4oegG6-epo",
+     "url": "https://www.youtube.com/watch?v=F4oegG6-epo",
+     "title": "RERIGHT · OpenAI, ready to IPO in 2027, now counts majority of sales f",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T18:50:06.488Z"
+  },
+  {
+   "first_seen": "2026-11-05T18:49:58.511Z",
+   "id": "39639592",
+   "ids": [
+    "39639592",
+    "39639222"
+   ],
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-05 18:00:00",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Claude's new Personal Finance tool aims to help analyze your spending",
+     "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/"
+    }
+   ],
+   "queries": [
+    "Personal Finance",
+    "claude personal finance can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:UTubvRLX2j4",
+     "url": "https://www.youtube.com/watch?v=UTubvRLX2j4",
+     "title": "Introducing Personal Finance in Claude",
+     "channel": "Claude",
+     "views": 8498,
+     "age_hours": 0.8166666666666667,
+     "relevance": 0.75,
+     "velocity": 8498
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sKUrASfSdHM",
+     "url": "https://www.youtube.com/shorts/sKUrASfSdHM",
+     "title": "Claude Introduces Personal Finance Tool for Spending Analysis 💰",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:irmIiN79Vug",
+     "url": "https://www.youtube.com/shorts/irmIiN79Vug",
+     "title": "Anthropic upgrades Claude with new Personal Finance feature",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T18:50:13.805Z"
+  },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
    "id": "39598940",
@@ -429,6 +613,36 @@
    "searched_at": "2026-11-03T22:50:05.900Z"
   },
   {
+   "first_seen": "2026-11-02T21:10:46.298Z",
+   "id": "39573392",
+   "ids": [
+    "39573392",
+    "39560568"
+   ],
+   "title": "Towards understanding score-seeking in LLMs",
+   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-02 19:51:55",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "arxiv-lg",
+     "title": "Towards Understanding Score-Seeking in LLMs",
+     "url": "https://arxiv.org/abs/2610.41014"
+    }
+   ],
+   "queries": [
+    "towards llms understanding score-seeking"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T03:13:18.809Z"
+  },
+  {
    "first_seen": "2026-11-05T14:12:50.437Z",
    "id": "39633187",
    "ids": [
@@ -441,7 +655,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-05 13:47:34",
    "story_sources": 3,
-   "score_norm": 83,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -537,36 +751,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-05T14:12:58.614Z"
-  },
-  {
-   "first_seen": "2026-11-02T21:10:46.298Z",
-   "id": "39573392",
-   "ids": [
-    "39573392",
-    "39560568"
-   ],
-   "title": "Towards understanding score-seeking in LLMs",
-   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-02 19:51:55",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "arxiv-lg",
-     "title": "Towards Understanding Score-Seeking in LLMs",
-     "url": "https://arxiv.org/abs/2610.41014"
-    }
-   ],
-   "queries": [
-    "towards llms understanding score-seeking"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T03:13:18.809Z"
   },
   {
    "first_seen": "2026-11-04T10:24:47.094Z",
@@ -753,223 +937,6 @@
    "searched_at": "2026-11-04T17:36:21.454Z"
   },
   {
-   "first_seen": "2026-11-05T08:36:12.741Z",
-   "id": "39627601",
-   "ids": [
-    "39627601",
-    "39625050",
-    "39633642",
-    "39626717"
-   ],
-   "title": "Nothing to launch its first AI-native product next month",
-   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-05 06:36:23",
-   "story_sources": 3,
-   "score_norm": 64,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Nothing to launch its first ‘AI-native’ device in December",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/"
-    },
-    {
-     "source_id": "sea-lowyat",
-     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
-     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
-    }
-   ],
-   "queries": [
-    "nothing december launch first"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:osAeZoz47zA",
-     "url": "https://www.youtube.com/shorts/osAeZoz47zA",
-     "title": "Nothing AI screenless hardware device launching this December",
-     "channel": "",
-     "views": 54,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:eAC_o4qnheU",
-     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
-     "title": "Nothing launches AI-native product without a display in December",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T_zQ8797nRo",
-     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
-     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Twz7GdC11wU",
-     "url": "https://www.youtube.com/shorts/Twz7GdC11wU",
-     "title": "Nothing Teases AI-Native Device Coming in December",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6wN8B1ehz1A",
-     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
-     "title": "Nothing teases a screen-free AI device ahead of launch next month",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:alEJ7cLnenM",
-     "url": "https://www.youtube.com/shorts/alEJ7cLnenM",
-     "title": "Nothing's AI Device Has No New Screen and Ships in December #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T14:37:39.779Z"
-  },
-  {
-   "first_seen": "2026-11-04T23:35:20.975Z",
-   "id": "39619325",
-   "ids": [
-    "39619325",
-    "39621782",
-    "39627117",
-    "39629076",
-    "39633938",
-    "39637476"
-   ],
-   "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
-   "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-05 15:01:09",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "eu-techmonitor",
-     "title": "Meta buys AI coding startup Conductor",
-     "url": "https://www.techmonitor.ai/news/meta-buys-ai-coding-startup-conductor"
-    }
-   ],
-   "queries": [
-    "meta conductor acquires ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:10NyE72YkxA",
-     "url": "https://www.youtube.com/watch?v=10NyE72YkxA",
-     "title": "AI News Today: Baidu 280B Open Model, Meta Buys Conductor, AI Research Expires",
-     "channel": "The Daily Neural",
-     "views": 5,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bbI4cbosxdo",
-     "url": "https://www.youtube.com/watch?v=bbI4cbosxdo",
-     "title": "AI News: Meta Buys Conductor, OpenAI's Pierre Deal & The Code Responsibility Crisis",
-     "channel": "Tiny Wingman",
-     "views": 12,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PwMbl0rfUI0",
-     "url": "https://www.youtube.com/shorts/PwMbl0rfUI0",
-     "title": "Meta's New AI Coding Secret",
-     "channel": "",
-     "views": 59,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gkK8m0XHEJ8",
-     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
-     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_DKJxcCMJDc",
-     "url": "https://www.youtube.com/watch?v=_DKJxcCMJDc",
-     "title": "China blocks SoftBank's 5.4 | Google unveils 15 billion dollars | Meta acquires AI coding startup |",
-     "channel": "SanMitra Tech Solutions",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.83,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sTgkG6fUZEk",
-     "url": "https://www.youtube.com/watch?v=sTgkG6fUZEk",
-     "title": "Daily AI News Digest: OpenAI Q3 Surge & Pierre Acquisition, Meta Buys Conductor, Model Watermarking",
-     "channel": "best-ai dot org",
-     "views": 3,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T18:15:00.511Z"
-  },
-  {
    "first_seen": "2026-11-03T17:49:32.832Z",
    "id": "39592297",
    "ids": [
@@ -1072,6 +1039,116 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T06:40:41.623Z"
+  },
+  {
+   "first_seen": "2026-11-05T08:36:12.741Z",
+   "id": "39627601",
+   "ids": [
+    "39627601",
+    "39625050",
+    "39633642",
+    "39626717"
+   ],
+   "title": "Nothing to launch its first AI-native product next month",
+   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-05 06:36:23",
+   "story_sources": 3,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Nothing to launch its first ‘AI-native’ device in December",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/"
+    },
+    {
+     "source_id": "sea-lowyat",
+     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
+     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
+    }
+   ],
+   "queries": [
+    "nothing december launch first"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:osAeZoz47zA",
+     "url": "https://www.youtube.com/shorts/osAeZoz47zA",
+     "title": "Nothing AI screenless hardware device launching this December",
+     "channel": "",
+     "views": 54,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:eAC_o4qnheU",
+     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
+     "title": "Nothing launches AI-native product without a display in December",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T_zQ8797nRo",
+     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
+     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Twz7GdC11wU",
+     "url": "https://www.youtube.com/shorts/Twz7GdC11wU",
+     "title": "Nothing Teases AI-Native Device Coming in December",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6wN8B1ehz1A",
+     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
+     "title": "Nothing teases a screen-free AI device ahead of launch next month",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:alEJ7cLnenM",
+     "url": "https://www.youtube.com/shorts/alEJ7cLnenM",
+     "title": "Nothing's AI Device Has No New Screen and Ships in December #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T14:37:39.779Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -1177,6 +1254,143 @@
    "searched_at": "2026-11-05T14:24:15.649Z"
   },
   {
+   "first_seen": "2026-11-04T23:35:20.975Z",
+   "id": "39619325",
+   "ids": [
+    "39619325",
+    "39621782",
+    "39627117",
+    "39629076",
+    "39633938",
+    "39637476"
+   ],
+   "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+   "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-05 15:01:09",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "eu-techmonitor",
+     "title": "Meta buys AI coding startup Conductor",
+     "url": "https://www.techmonitor.ai/news/meta-buys-ai-coding-startup-conductor"
+    }
+   ],
+   "queries": [
+    "meta conductor acquires ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:10NyE72YkxA",
+     "url": "https://www.youtube.com/watch?v=10NyE72YkxA",
+     "title": "AI News Today: Baidu 280B Open Model, Meta Buys Conductor, AI Research Expires",
+     "channel": "The Daily Neural",
+     "views": 5,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bbI4cbosxdo",
+     "url": "https://www.youtube.com/watch?v=bbI4cbosxdo",
+     "title": "AI News: Meta Buys Conductor, OpenAI's Pierre Deal & The Code Responsibility Crisis",
+     "channel": "Tiny Wingman",
+     "views": 12,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PwMbl0rfUI0",
+     "url": "https://www.youtube.com/shorts/PwMbl0rfUI0",
+     "title": "Meta's New AI Coding Secret",
+     "channel": "",
+     "views": 59,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gkK8m0XHEJ8",
+     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
+     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_DKJxcCMJDc",
+     "url": "https://www.youtube.com/watch?v=_DKJxcCMJDc",
+     "title": "China blocks SoftBank's 5.4 | Google unveils 15 billion dollars | Meta acquires AI coding startup |",
+     "channel": "SanMitra Tech Solutions",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.83,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sTgkG6fUZEk",
+     "url": "https://www.youtube.com/watch?v=sTgkG6fUZEk",
+     "title": "Daily AI News Digest: OpenAI Q3 Surge & Pierre Acquisition, Meta Buys Conductor, Model Watermarking",
+     "channel": "best-ai dot org",
+     "views": 3,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T18:15:00.511Z"
+  },
+  {
+   "first_seen": "2026-11-04T09:13:10.178Z",
+   "id": "39605989",
+   "ids": [
+    "39605989",
+    "39599762"
+   ],
+   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-04 01:20:44",
+   "story_sources": 2,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+     "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/"
+    }
+   ],
+   "queries": [
+    "ai can read neural"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T21:36:40.647Z"
+  },
+  {
    "first_seen": "2026-11-05T12:37:45.185Z",
    "id": "39626577",
    "ids": [
@@ -1188,7 +1402,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-05 07:05:35",
    "story_sources": 2,
-   "score_norm": 56,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "cn-pandaily",
@@ -1242,66 +1456,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T18:38:10.703Z"
-  },
-  {
-   "first_seen": "2026-11-04T09:13:10.178Z",
-   "id": "39605989",
-   "ids": [
-    "39605989",
-    "39599762"
-   ],
-   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-04 01:20:44",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
-     "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/"
-    }
-   ],
-   "queries": [
-    "ai can read neural"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T21:36:40.647Z"
-  },
-  {
-   "first_seen": "2026-11-05T07:23:40.700Z",
-   "id": "39626419",
-   "ids": [
-    "39626419",
-    "39626682"
-   ],
-   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
-   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
-   "source_id": "eu-tech-eu",
-   "published_ts": "2026-11-05 06:30:00",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
-     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
-    }
-   ],
-   "queries": [
-    "kabilio 10m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T13:36:55.608Z"
   },
   {
    "first_seen": "2026-11-03T16:36:31.521Z",
@@ -1494,49 +1648,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T12:50:09.447Z"
-  },
-  {
-   "first_seen": "2026-11-05T13:11:29.925Z",
-   "id": "39631717",
-   "ids": [
-    "39631717",
-    "39621158"
-   ],
-   "title": "Pangram expands AI detection tools to cover images, videos: Are they accurate?",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/pangram-expands-ai-detection-tools-images-videos-accuracy-10952201/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-05 12:16:12",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Pangram expands its AI detection tools to video and images",
-     "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
-    }
-   ],
-   "queries": [
-    "pangram expands ai detection"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Z6Dy48PGxMY",
-     "url": "https://www.youtube.com/shorts/Z6Dy48PGxMY",
-     "title": "Pangram expands its AI detection tools to video and images #Shorts #Tech",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T13:11:34.237Z"
   },
   {
    "first_seen": "2026-11-03T23:20:41.791Z",
@@ -1805,6 +1916,79 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T18:50:14.519Z"
+  },
+  {
+   "first_seen": "2026-11-05T07:23:40.700Z",
+   "id": "39626419",
+   "ids": [
+    "39626419",
+    "39626682"
+   ],
+   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
+   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
+   "source_id": "eu-tech-eu",
+   "published_ts": "2026-11-05 06:30:00",
+   "story_sources": 2,
+   "score_norm": 44,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
+     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
+    }
+   ],
+   "queries": [
+    "kabilio 10m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T13:36:55.608Z"
+  },
+  {
+   "first_seen": "2026-11-05T13:11:29.925Z",
+   "id": "39631717",
+   "ids": [
+    "39631717",
+    "39621158"
+   ],
+   "title": "Pangram expands AI detection tools to cover images, videos: Are they accurate?",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/pangram-expands-ai-detection-tools-images-videos-accuracy-10952201/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-05 12:16:12",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Pangram expands its AI detection tools to video and images",
+     "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
+    }
+   ],
+   "queries": [
+    "pangram expands ai detection"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Z6Dy48PGxMY",
+     "url": "https://www.youtube.com/shorts/Z6Dy48PGxMY",
+     "title": "Pangram expands its AI detection tools to video and images #Shorts #Tech",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T13:11:34.237Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
