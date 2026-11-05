@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T15:36:58.058Z",
+ "generated_at": "2026-11-05T17:11:27.271Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -583,7 +583,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-05 13:47:34",
    "story_sources": 3,
-   "score_norm": 74,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -1080,7 +1080,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-05 12:49:05",
    "story_sources": 3,
-   "score_norm": 57,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "in-thehindu-tech",
@@ -1236,73 +1236,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T22:50:13.094Z"
-  },
-  {
-   "first_seen": "2026-11-05T12:37:45.185Z",
-   "id": "39626577",
-   "ids": [
-    "39626577",
-    "39631313"
-   ],
-   "title": "Moonshot AI launches hosted AI agent service for enterprise",
-   "url": "https://www.techinasia.com/news/moonshot-ai-launches-hosted-ai-agent-service-for-enterprise",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-05 07:05:35",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
-     "url": "https://pandaily.com/moonshot-ai-kimi-hosted-agents-harness-as-a-service-sandbox-inference-hook"
-    }
-   ],
-   "queries": [
-    "moonshot ai launches hosted"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qTyDngCMROk",
-     "url": "https://www.youtube.com/shorts/qTyDngCMROk",
-     "title": "Cirquu Technologies launches Cirquu AI at Moonshot 2026",
-     "channel": "",
-     "views": 37,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IyUl4kGFy_E",
-     "url": "https://www.youtube.com/shorts/IyUl4kGFy_E",
-     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:L_wj2l8dBWA",
-     "url": "https://www.youtube.com/shorts/L_wj2l8dBWA",
-     "title": "Background agents are an enterprise moonshot",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T12:37:49.219Z"
   },
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
@@ -1464,6 +1397,73 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T12:50:09.447Z"
+  },
+  {
+   "first_seen": "2026-11-05T12:37:45.185Z",
+   "id": "39626577",
+   "ids": [
+    "39626577",
+    "39631313"
+   ],
+   "title": "Moonshot AI launches hosted AI agent service for enterprise",
+   "url": "https://www.techinasia.com/news/moonshot-ai-launches-hosted-ai-agent-service-for-enterprise",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-05 07:05:35",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "cn-pandaily",
+     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
+     "url": "https://pandaily.com/moonshot-ai-kimi-hosted-agents-harness-as-a-service-sandbox-inference-hook"
+    }
+   ],
+   "queries": [
+    "moonshot ai launches hosted"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qTyDngCMROk",
+     "url": "https://www.youtube.com/shorts/qTyDngCMROk",
+     "title": "Cirquu Technologies launches Cirquu AI at Moonshot 2026",
+     "channel": "",
+     "views": 37,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IyUl4kGFy_E",
+     "url": "https://www.youtube.com/shorts/IyUl4kGFy_E",
+     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:L_wj2l8dBWA",
+     "url": "https://www.youtube.com/shorts/L_wj2l8dBWA",
+     "title": "Background agents are an enterprise moonshot",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T12:37:49.219Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -1837,6 +1837,36 @@
    "searched_at": "2026-11-03T18:50:14.519Z"
   },
   {
+   "first_seen": "2026-11-05T07:23:40.700Z",
+   "id": "39626419",
+   "ids": [
+    "39626419",
+    "39626682"
+   ],
+   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
+   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
+   "source_id": "eu-tech-eu",
+   "published_ts": "2026-11-05 06:30:00",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
+     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
+    }
+   ],
+   "queries": [
+    "kabilio 10m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T13:36:55.608Z"
+  },
+  {
    "first_seen": "2026-11-05T13:11:29.925Z",
    "id": "39631717",
    "ids": [
@@ -1848,7 +1878,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-05 12:16:12",
    "story_sources": 2,
-   "score_norm": 43,
+   "score_norm": 42,
    "related_news": [
     {
      "source_id": "engadget",
@@ -1878,36 +1908,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T13:11:34.237Z"
-  },
-  {
-   "first_seen": "2026-11-05T07:23:40.700Z",
-   "id": "39626419",
-   "ids": [
-    "39626419",
-    "39626682"
-   ],
-   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
-   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
-   "source_id": "eu-tech-eu",
-   "published_ts": "2026-11-05 06:30:00",
-   "story_sources": 2,
-   "score_norm": 43,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
-     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
-    }
-   ],
-   "queries": [
-    "kabilio 10m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T13:36:55.608Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
@@ -1951,85 +1951,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T09:23:47.092Z"
-  },
-  {
-   "first_seen": "2026-11-02T20:10:48.286Z",
-   "id": "39569650",
-   "ids": [
-    "39569650",
-    "39572252"
-   ],
-   "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
-   "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-02 16:58:14",
-   "story_sources": 2,
-   "score_norm": 42,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic's Amended IPO Filing Shows $895B in Compute Commitments",
-     "url": "https://epyhia.com/anthropic-s-amended-ipo-filing-shows-17-billion-q3-revenue-and-895"
-    }
-   ],
-   "queries": [
-    "anthropic ipo 17bn 895bn"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0nIiYsn507A",
-     "url": "https://www.youtube.com/watch?v=0nIiYsn507A",
-     "title": "The Anthropic IPO Filing Blew My Mind",
-     "channel": "Michael Sikand",
-     "views": 7219,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 100
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nKYw4VmAOfI",
-     "url": "https://www.youtube.com/shorts/nKYw4VmAOfI",
-     "title": "Anthropic IPO $2Trillion Trap ?",
-     "channel": "",
-     "views": 3300,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9Etf31OnKAg",
-     "url": "https://www.youtube.com/shorts/9Etf31OnKAg",
-     "title": "Anthropic’s IPO Filing Is Out… Unreal 🤯",
-     "channel": "",
-     "views": 981,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1CRy8qVSmgU",
-     "url": "https://www.youtube.com/shorts/1CRy8qVSmgU",
-     "title": "Anthropic IPO: $17B revenue, $23.3B loss",
-     "channel": "",
-     "views": 91,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T08:36:43.957Z"
   },
   {
    "first_seen": "2026-11-05T14:37:35.182Z",
