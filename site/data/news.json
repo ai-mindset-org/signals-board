@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T08:16:40.246Z",
+ "generated_at": "2026-11-05T08:36:12.741Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Pierre Computer Company",
+   "source": "youtube: nothing ai-native launch first",
    "ok": true
   },
   {
-   "source": "tiktok: Pierre Computer Company",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai pierre computer company",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai pierre computer company",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt gifs make animated",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt gifs make animated",
+   "source": "tiktok: nothing ai-native launch first",
    "ok": true
   }
  ],
@@ -930,7 +914,7 @@
    "source_id": "eu-tech-eu",
    "published_ts": "2026-11-05 06:30:00",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -947,6 +931,61 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-05T07:23:44.410Z"
+  },
+  {
+   "first_seen": "2026-11-05T08:36:12.741Z",
+   "id": "39627601",
+   "ids": [
+    "39627601",
+    "39625050"
+   ],
+   "title": "Nothing to launch its first AI-native product next month",
+   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-05 06:36:23",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "sea-lowyat",
+     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
+     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
+    }
+   ],
+   "queries": [
+    "nothing ai-native launch first"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T_zQ8797nRo",
+     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
+     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6wN8B1ehz1A",
+     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
+     "title": "Nothing teases a screen-free AI device ahead of launch next month",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T08:36:17.022Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
