@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T14:37:35.182Z",
+ "generated_at": "2026-11-05T15:36:58.058Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: nothing december launch first",
-   "ok": true
-  },
-  {
-   "source": "tiktok: nothing december launch first",
-   "ok": true
-  },
-  {
-   "source": "youtube: Nigeria’s Helium Health Secures USD 2.5 M Google.org Grant For",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Nigeria’s Helium Health Secures USD 2.5 M Google.org Grant For",
-   "ok": true
-  },
-  {
-   "source": "youtube: nigeria helium health secures",
-   "ok": true
-  },
-  {
-   "source": "tiktok: nigeria helium health secures",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
@@ -608,7 +583,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-05 13:47:34",
    "story_sources": 3,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -988,116 +963,6 @@
    "searched_at": "2026-11-03T13:22:07.664Z"
   },
   {
-   "first_seen": "2026-11-05T08:36:12.741Z",
-   "id": "39627601",
-   "ids": [
-    "39627601",
-    "39625050",
-    "39633642",
-    "39626717"
-   ],
-   "title": "Nothing to launch its first ‘AI-native’ device in December",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-05 12:49:05",
-   "story_sources": 3,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "in-thehindu-tech",
-     "title": "Nothing to launch its first AI-native product next month",
-     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece"
-    },
-    {
-     "source_id": "cn-technode",
-     "title": "Nothing plans December launch for first AI-native device",
-     "url": "https://technode.com/2026/11/05/nothing-plans-december-launch-for-first-ai-native-device/"
-    }
-   ],
-   "queries": [
-    "nothing december launch first"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:osAeZoz47zA",
-     "url": "https://www.youtube.com/shorts/osAeZoz47zA",
-     "title": "Nothing AI screenless hardware device launching this December",
-     "channel": "",
-     "views": 54,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:eAC_o4qnheU",
-     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
-     "title": "Nothing launches AI-native product without a display in December",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T_zQ8797nRo",
-     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
-     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Twz7GdC11wU",
-     "url": "https://www.youtube.com/shorts/Twz7GdC11wU",
-     "title": "Nothing Teases AI-Native Device Coming in December",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6wN8B1ehz1A",
-     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
-     "title": "Nothing teases a screen-free AI device ahead of launch next month",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:alEJ7cLnenM",
-     "url": "https://www.youtube.com/shorts/alEJ7cLnenM",
-     "title": "Nothing's AI Device Has No New Screen and Ships in December #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T14:37:39.779Z"
-  },
-  {
    "first_seen": "2026-11-03T17:49:32.832Z",
    "id": "39592297",
    "ids": [
@@ -1202,38 +1067,68 @@
    "searched_at": "2026-11-04T06:40:41.623Z"
   },
   {
-   "first_seen": "2026-11-03T10:36:29.259Z",
-   "id": "39583915",
+   "first_seen": "2026-11-05T08:36:12.741Z",
+   "id": "39627601",
    "ids": [
-    "39583915",
-    "39576131"
+    "39627601",
+    "39625050",
+    "39633642",
+    "39626717"
    ],
-   "title": "Scaling Git at OpenAI",
-   "url": "https://openai.com/index/scaling-git-at-openai",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-02 15:30:00",
-   "story_sources": 2,
-   "score_norm": 54,
+   "title": "Nothing to launch its first ‘AI-native’ device in December",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-05 12:49:05",
+   "story_sources": 3,
+   "score_norm": 57,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Scaling Git at OpenAI",
-     "url": "https://openai.com/index/scaling-git-at-openai/"
+     "source_id": "in-thehindu-tech",
+     "title": "Nothing to launch its first AI-native product next month",
+     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece"
+    },
+    {
+     "source_id": "cn-technode",
+     "title": "Nothing plans December launch for first AI-native device",
+     "url": "https://technode.com/2026/11/05/nothing-plans-december-launch-for-first-ai-native-device/"
     }
    ],
    "queries": [
-    "Scaling Git",
-    "scaling git openai"
+    "nothing december launch first"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:xHg8lbQrmT4",
-     "url": "https://www.youtube.com/shorts/xHg8lbQrmT4",
-     "title": "OpenAI has replaced Git for their agentic systems code management #ai #news #genai #openai",
+     "id": "youtube:osAeZoz47zA",
+     "url": "https://www.youtube.com/shorts/osAeZoz47zA",
+     "title": "Nothing AI screenless hardware device launching this December",
      "channel": "",
-     "views": 22,
+     "views": 54,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:eAC_o4qnheU",
+     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
+     "title": "Nothing launches AI-native product without a display in December",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T_zQ8797nRo",
+     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
+     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
+     "channel": "",
+     "views": 10,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1241,61 +1136,37 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:sLWA_7gH8DY",
-     "url": "https://www.youtube.com/shorts/sLWA_7gH8DY",
-     "title": "OpenAI: Scaling Git at OpenAI",
+     "id": "youtube:Twz7GdC11wU",
+     "url": "https://www.youtube.com/shorts/Twz7GdC11wU",
+     "title": "Nothing Teases AI-Native Device Coming in December",
      "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Cei8n-2ZzZ4",
-     "url": "https://www.youtube.com/shorts/Cei8n-2ZzZ4",
-     "title": "OpenAI's Pando: a Git backend built for agent-scale concurrency",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:csPV188mVS4",
-     "url": "https://www.youtube.com/shorts/csPV188mVS4",
-     "title": "OpenAI Scaling Git #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mtSfpbFiz7s",
-     "url": "https://www.youtube.com/watch?v=mtSfpbFiz7s",
-     "title": "When Git Stops Scaling: Used To and No Longer (B1 Business English)",
-     "channel": "CareerTalkLab",
      "views": 7,
-     "age_hours": 72,
+     "age_hours": null,
      "relevance": 0.67,
-     "velocity": 0
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:R9X7YXPxRtI",
-     "url": "https://www.youtube.com/shorts/R9X7YXPxRtI",
-     "title": "OpenAI built Pando to scale Git for Codex-era coding",
+     "id": "youtube:6wN8B1ehz1A",
+     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
+     "title": "Nothing teases a screen-free AI device ahead of launch next month",
      "channel": "",
-     "views": 0,
+     "views": 6,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:alEJ7cLnenM",
+     "url": "https://www.youtube.com/shorts/alEJ7cLnenM",
+     "title": "Nothing's AI Device Has No New Screen and Ships in December #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -1303,7 +1174,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-03T10:36:38.488Z"
+   "searched_at": "2026-11-05T14:37:39.779Z"
   },
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
@@ -1966,36 +1837,6 @@
    "searched_at": "2026-11-03T18:50:14.519Z"
   },
   {
-   "first_seen": "2026-11-05T07:23:40.700Z",
-   "id": "39626419",
-   "ids": [
-    "39626419",
-    "39626682"
-   ],
-   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
-   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
-   "source_id": "eu-tech-eu",
-   "published_ts": "2026-11-05 06:30:00",
-   "story_sources": 2,
-   "score_norm": 44,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
-     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
-    }
-   ],
-   "queries": [
-    "kabilio 10m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T13:36:55.608Z"
-  },
-  {
    "first_seen": "2026-11-05T13:11:29.925Z",
    "id": "39631717",
    "ids": [
@@ -2037,6 +1878,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T13:11:34.237Z"
+  },
+  {
+   "first_seen": "2026-11-05T07:23:40.700Z",
+   "id": "39626419",
+   "ids": [
+    "39626419",
+    "39626682"
+   ],
+   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
+   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
+   "source_id": "eu-tech-eu",
+   "published_ts": "2026-11-05 06:30:00",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
+     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
+    }
+   ],
+   "queries": [
+    "kabilio 10m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T13:36:55.608Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
