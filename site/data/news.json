@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T01:50:14.992Z",
+ "generated_at": "2026-11-05T04:25:04.596Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,103 +7,29 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Pierre Computer Company",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Pierre Computer Company",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai pierre computer company",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai pierre computer company",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt gifs make animated",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt gifs make animated",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
-  {
-   "first_seen": "2026-11-04T23:35:20.975Z",
-   "id": "39619325",
-   "ids": [
-    "39619325",
-    "39621782"
-   ],
-   "title": "Meta acquires AI coding startup Conductor",
-   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-04 21:10:56",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
-     "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
-    }
-   ],
-   "queries": [
-    "meta conductor acquires ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dlReEd5vhog",
-     "url": "https://www.youtube.com/shorts/dlReEd5vhog",
-     "title": "Meta acquires AI coding startup Conductor",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1VTSAmnYSCA",
-     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
-     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T23:35:25.160Z"
-  },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
    "id": "39617836",
    "ids": [
     "39617836",
     "39611534",
-    "39610391"
+    "39610391",
+    "39624927"
    ],
    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
    "url": "https://openai.com/index/openai-to-acquire-pierre",
    "source_id": "openai-blog",
    "published_ts": "2026-11-04 14:30:00",
-   "story_sources": 2,
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "OpenAI to acquire Pierre Computer Company to expand Codex coding capabilities",
+     "url": "https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece"
+    },
     {
      "source_id": "hn",
      "title": "OpenAI to Acquire Pierre Computer Company, Inc",
@@ -241,109 +167,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T12:50:08.322Z"
-  },
-  {
-   "first_seen": "2026-11-04T19:49:54.634Z",
-   "id": "39616463",
-   "ids": [
-    "39616463",
-    "39617740"
-   ],
-   "title": "ChatGPT will now make you animated GIFs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-   "source_id": "theverge",
-   "published_ts": "2026-11-04 18:00:00",
-   "story_sources": 2,
-   "score_norm": 89,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
-     "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai"
-    }
-   ],
-   "queries": [
-    "chatgpt gifs make animated"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uzGDwPsp0Rg",
-     "url": "https://www.youtube.com/shorts/uzGDwPsp0Rg",
-     "title": "ChatGPT Is About to Start Making GIFs",
-     "channel": "",
-     "views": 50,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:boqwFlIUegQ",
-     "url": "https://www.youtube.com/shorts/boqwFlIUegQ",
-     "title": "Create Unlimited GIFs Free with ChatGPT – Save $240/yr",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T4RPkhyal6k",
-     "url": "https://www.youtube.com/shorts/T4RPkhyal6k",
-     "title": "ChatGPT Now Turns Your Photos Into Animated GIFs #aitools #productivity #Shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7MEbxVQeqbY",
-     "url": "https://www.youtube.com/shorts/7MEbxVQeqbY",
-     "title": "ChatGPT makes GIFs now 🐱 ChatGPT Images 2.6 explained #shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:w4gZlOcvrB8",
-     "url": "https://www.youtube.com/shorts/w4gZlOcvrB8",
-     "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c7M_-rnIM7w",
-     "url": "https://www.youtube.com/shorts/c7M_-rnIM7w",
-     "title": "ChatGPT Images 2.6 Just Launched — It Makes GIFs!",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T01:50:25.995Z"
   },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
@@ -632,6 +455,61 @@
    "searched_at": "2026-11-03T03:13:18.809Z"
   },
   {
+   "first_seen": "2026-11-04T23:35:20.975Z",
+   "id": "39619325",
+   "ids": [
+    "39619325",
+    "39621782"
+   ],
+   "title": "Meta acquires AI coding startup Conductor",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-04 21:10:56",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+     "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
+    }
+   ],
+   "queries": [
+    "meta conductor acquires ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dlReEd5vhog",
+     "url": "https://www.youtube.com/shorts/dlReEd5vhog",
+     "title": "Meta acquires AI coding startup Conductor",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1VTSAmnYSCA",
+     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
+     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T23:35:25.160Z"
+  },
+  {
    "first_seen": "2026-11-04T10:24:47.094Z",
    "id": "39606974",
    "ids": [
@@ -856,6 +734,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T00:29:02.050Z"
+  },
+  {
+   "first_seen": "2026-11-04T19:49:54.634Z",
+   "id": "39616463",
+   "ids": [
+    "39616463",
+    "39617740"
+   ],
+   "title": "ChatGPT will now make you animated GIFs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "source_id": "theverge",
+   "published_ts": "2026-11-04 18:00:00",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
+     "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai"
+    }
+   ],
+   "queries": [
+    "chatgpt gifs make animated"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uzGDwPsp0Rg",
+     "url": "https://www.youtube.com/shorts/uzGDwPsp0Rg",
+     "title": "ChatGPT Is About to Start Making GIFs",
+     "channel": "",
+     "views": 50,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:boqwFlIUegQ",
+     "url": "https://www.youtube.com/shorts/boqwFlIUegQ",
+     "title": "Create Unlimited GIFs Free with ChatGPT – Save $240/yr",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T4RPkhyal6k",
+     "url": "https://www.youtube.com/shorts/T4RPkhyal6k",
+     "title": "ChatGPT Now Turns Your Photos Into Animated GIFs #aitools #productivity #Shorts",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7MEbxVQeqbY",
+     "url": "https://www.youtube.com/shorts/7MEbxVQeqbY",
+     "title": "ChatGPT makes GIFs now 🐱 ChatGPT Images 2.6 explained #shorts",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:w4gZlOcvrB8",
+     "url": "https://www.youtube.com/shorts/w4gZlOcvrB8",
+     "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c7M_-rnIM7w",
+     "url": "https://www.youtube.com/shorts/c7M_-rnIM7w",
+     "title": "ChatGPT Images 2.6 Just Launched — It Makes GIFs!",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T01:50:25.995Z"
   },
   {
    "first_seen": "2026-11-04T11:23:08.532Z",
@@ -1327,37 +1308,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T22:50:13.094Z"
-  },
-  {
-   "first_seen": "2026-11-04T13:11:00.145Z",
-   "id": "39609749",
-   "ids": [
-    "39609749",
-    "39607389"
-   ],
-   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-04 12:24:00",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
-     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Smart Reports",
-    "smart reports vorgesetzte claude-nutzung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T01:23:22.546Z"
   },
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
@@ -1940,6 +1890,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T08:36:43.957Z"
+  },
+  {
+   "first_seen": "2026-11-04T13:11:00.145Z",
+   "id": "39609749",
+   "ids": [
+    "39609749",
+    "39607389"
+   ],
+   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
+   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-04 12:24:00",
+   "story_sources": 2,
+   "score_norm": 37,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
+     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Smart Reports",
+    "smart reports vorgesetzte claude-nutzung"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T01:23:22.546Z"
   }
  ]
 }
