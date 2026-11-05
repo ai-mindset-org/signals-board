@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T05:36:51.223Z",
+ "generated_at": "2026-11-05T07:23:40.700Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: meta conductor acquires ai",
+   "source": "youtube: kabilio 10m raises expand",
    "ok": true
   },
   {
-   "source": "tiktok: meta conductor acquires ai",
+   "source": "tiktok: kabilio 10m raises expand",
    "ok": true
   }
  ],
@@ -475,7 +475,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-04 21:10:56",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -895,6 +895,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T17:36:21.454Z"
+  },
+  {
+   "first_seen": "2026-11-05T07:23:40.700Z",
+   "id": "39626419",
+   "ids": [
+    "39626419",
+    "39626682"
+   ],
+   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
+   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
+   "source_id": "eu-tech-eu",
+   "published_ts": "2026-11-05 06:30:00",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
+     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
+    }
+   ],
+   "queries": [
+    "kabilio 10m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T07:23:44.410Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
