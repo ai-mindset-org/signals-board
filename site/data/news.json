@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T22:49:28.125Z",
+ "generated_at": "2026-11-05T23:20:53.699Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Gemini Omni 1.2 Flash",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini Omni 1.2 Flash",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini omni 1.2 flash",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini omni 1.2 flash",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -768,7 +751,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-05 13:47:34",
    "story_sources": 3,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -1713,61 +1696,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-04T03:13:00.927Z"
-  },
-  {
-   "first_seen": "2026-11-03T00:28:54.437Z",
-   "id": "39576518",
-   "ids": [
-    "39576518",
-    "39566264"
-   ],
-   "title": "Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO",
-   "url": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-02 23:19:38",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic's quarterly loss shrinks, revenue jumps ahead of blockbuster IPO",
-     "url": "https://www.reuters.com/business/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-blockbuster-ipo-2026-11-02/"
-    }
-   ],
-   "queries": [
-    "anthropic 17b ipo quarterly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CI5a_vnr6_c",
-     "url": "https://www.youtube.com/watch?v=CI5a_vnr6_c",
-     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
-     "channel": "Bloomberg Tech",
-     "views": 5367,
-     "age_hours": 19,
-     "relevance": 0.57,
-     "velocity": 282
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:R9yJSPJtiSU",
-     "url": "https://www.youtube.com/watch?v=R9yJSPJtiSU",
-     "title": "The Anthropic IPO: A Preview",
-     "channel": "CFRA Research",
-     "views": 24,
-     "age_hours": 22,
-     "relevance": 0.67,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T12:50:09.447Z"
   },
   {
    "first_seen": "2026-11-03T23:20:41.791Z",
