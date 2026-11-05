@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T11:49:43.029Z",
+ "generated_at": "2026-11-05T12:17:16.896Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: meta conductor acquires ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta conductor acquires ai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
@@ -659,49 +650,6 @@
    "searched_at": "2026-11-04T16:36:29.710Z"
   },
   {
-   "first_seen": "2026-11-02T12:17:57.473Z",
-   "id": "39562544",
-   "ids": [
-    "39562544",
-    "39562613"
-   ],
-   "title": "KI-Agenten bauen Zivilisation in Minecraft auf und verlieren sich in Bürokratie",
-   "url": "https://www.heise.de/news/KI-Agenten-bauen-Zivilisation-in-Minecraft-auf-und-verlieren-sich-in-Buerokratie-11507972.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-02 11:54:00",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "KI-Agenten sollen Zivilisation in Minecraft aufbauen – und verlieren sich in Bürokratie",
-     "url": "https://t3n.de/news/ki-agenten-sollen-zivilisation-in-minecraft-aufbauen-und-verlieren-sich-in-buerokratie-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "ki-agenten zivilisation minecraft bürokratie"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zAwkUz6yZKA",
-     "url": "https://www.youtube.com/watch?v=zAwkUz6yZKA",
-     "title": "KI-Agenten bauen Minecraft-Zivilisation und scheitern an Bürokratie",
-     "channel": "Klartext-KI",
-     "views": 0,
-     "age_hours": 3,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T00:29:02.050Z"
-  },
-  {
    "first_seen": "2026-11-04T11:23:08.532Z",
    "id": "39607902",
    "ids": [
@@ -1245,6 +1193,36 @@
    "searched_at": "2026-11-05T07:23:44.410Z"
   },
   {
+   "first_seen": "2026-11-04T09:13:10.178Z",
+   "id": "39605989",
+   "ids": [
+    "39605989",
+    "39599762"
+   ],
+   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-04 01:20:44",
+   "story_sources": 2,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+     "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/"
+    }
+   ],
+   "queries": [
+    "ai can read neural"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T21:36:40.647Z"
+  },
+  {
    "first_seen": "2026-11-05T08:36:12.741Z",
    "id": "39627601",
    "ids": [
@@ -1256,7 +1234,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-05 06:36:23",
    "story_sources": 2,
-   "score_norm": 51,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "sea-lowyat",
@@ -1298,36 +1276,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T08:36:17.022Z"
-  },
-  {
-   "first_seen": "2026-11-04T09:13:10.178Z",
-   "id": "39605989",
-   "ids": [
-    "39605989",
-    "39599762"
-   ],
-   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-04 01:20:44",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
-     "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/"
-    }
-   ],
-   "queries": [
-    "ai can read neural"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T21:36:40.647Z"
   },
   {
    "first_seen": "2026-11-03T16:36:31.521Z",
