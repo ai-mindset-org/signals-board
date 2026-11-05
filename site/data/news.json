@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:11:28.891Z",
+ "generated_at": "2026-11-05T20:22:11.155Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Claude Code’s",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Claude Code’s",
+   "ok": true
+  },
+  {
+   "source": "youtube: claude code cat wu",
+   "ok": true
+  },
+  {
+   "source": "tiktok: claude code cat wu",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
@@ -874,7 +891,7 @@
      "url": "https://www.youtube.com/shorts/VvuRG_nfvnA",
      "title": "How Anthropic Reviews Claude's Code",
      "channel": "",
-     "views": 6700,
+     "views": 8900,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -882,14 +899,14 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:Pe5gd-Da3Gg",
-     "url": "https://www.youtube.com/watch?v=Pe5gd-Da3Gg",
-     "title": "How Anthropic Engineers Actually Use Claude Code",
-     "channel": "Sharbel A.",
-     "views": 11835,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 164
+     "id": "youtube:ekL4w3HjzUo",
+     "url": "https://www.youtube.com/watch?v=ekL4w3HjzUo",
+     "title": "Anthropic Is Quietly Restricting Claude Code",
+     "channel": "Travis Automates",
+     "views": 3320,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 138
     },
     {
      "platform": "youtube",
@@ -910,7 +927,7 @@
      "url": "https://www.youtube.com/shorts/WofG3O77q0U",
      "title": "Claude Code Leader Cat Wu Exits Anthropic | Artificial Intelligence News",
      "channel": "",
-     "views": 35,
+     "views": 44,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -922,7 +939,7 @@
      "url": "https://www.youtube.com/shorts/X_DOyPB3QmA",
      "title": "Claude wrote over 90% of Anthropic's new code",
      "channel": "",
-     "views": 16,
+     "views": 18,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -934,17 +951,17 @@
      "url": "https://www.youtube.com/shorts/prZou6I76N0",
      "title": "Claude Code's Product Chief Reportedly Joins OpenAI #shorts",
      "channel": "",
-     "views": 0,
+     "views": 10,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T14:12:58.614Z"
+   "searched_at": "2026-11-05T20:22:19.324Z"
   },
   {
    "first_seen": "2026-11-04T11:23:08.532Z",
