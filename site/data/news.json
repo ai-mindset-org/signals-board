@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T17:11:27.271Z",
+ "generated_at": "2026-11-05T17:21:16.289Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,127 +9,6 @@
  },
  "search_report": [],
  "stories": [
-  {
-   "first_seen": "2026-11-04T23:35:20.975Z",
-   "id": "39619325",
-   "ids": [
-    "39619325",
-    "39621782",
-    "39627117",
-    "39629076",
-    "39633938"
-   ],
-   "title": "Meta acquires AI coding startup Conductor",
-   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-04 21:10:56",
-   "story_sources": 5,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "eu-techmonitor",
-     "title": "Meta buys AI coding startup Conductor",
-     "url": "https://www.techmonitor.ai/news/meta-buys-ai-coding-startup-conductor"
-    },
-    {
-     "source_id": "eu-siliconrepublic",
-     "title": "Meta acquires AI coding start-up Conductor",
-     "url": "https://www.siliconrepublic.com/business/meta-acquires-ai-coding-start-up-conductor"
-    },
-    {
-     "source_id": "sea-techinasia",
-     "title": "Meta acquires AI coding startup Conductor",
-     "url": "https://www.techinasia.com/news/meta-acquires-ai-coding-startup-conductor"
-    },
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
-     "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
-    }
-   ],
-   "queries": [
-    "meta conductor acquires ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gkK8m0XHEJ8",
-     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
-     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GY8z2t3o9y4",
-     "url": "https://www.youtube.com/shorts/GY8z2t3o9y4",
-     "title": "Meta Buys Conductor, An AI Coding Startup",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ErzlqFhF1Lk",
-     "url": "https://www.youtube.com/shorts/ErzlqFhF1Lk",
-     "title": "Meta Acquired an AI Coding Startup and the Race Just Changed Forever #shorts",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1VTSAmnYSCA",
-     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
-     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:54GJfdIIQcA",
-     "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
-     "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:luaeDOdrPhU",
-     "url": "https://www.youtube.com/shorts/luaeDOdrPhU",
-     "title": "Meta Ne Ek AI Coding Startup Kharid Liya: Conductor 🤖",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T11:49:47.099Z"
-  },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
    "id": "39598940",
@@ -498,79 +377,6 @@
    "searched_at": "2026-11-04T12:50:11.949Z"
   },
   {
-   "first_seen": "2026-11-03T16:49:57.376Z",
-   "id": "39590813",
-   "ids": [
-    "39590813",
-    "39577402"
-   ],
-   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-   "source_id": "theverge",
-   "published_ts": "2026-11-03 15:00:44",
-   "story_sources": 2,
-   "score_norm": 84,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
-     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
-    }
-   ],
-   "queries": [
-    "openai quietly renaming data"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7VSNTyvsuug",
-     "url": "https://www.youtube.com/watch?v=7VSNTyvsuug",
-     "title": "OpenAI is quietly renaming data centers compute campuses",
-     "channel": "Techpulse AI",
-     "views": 0,
-     "age_hours": 4,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T22:50:05.900Z"
-  },
-  {
-   "first_seen": "2026-11-02T21:10:46.298Z",
-   "id": "39573392",
-   "ids": [
-    "39573392",
-    "39560568"
-   ],
-   "title": "Towards understanding score-seeking in LLMs",
-   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-02 19:51:55",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "arxiv-lg",
-     "title": "Towards Understanding Score-Seeking in LLMs",
-     "url": "https://arxiv.org/abs/2610.41014"
-    }
-   ],
-   "queries": [
-    "towards llms understanding score-seeking"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T03:13:18.809Z"
-  },
-  {
    "first_seen": "2026-11-05T14:12:50.437Z",
    "id": "39633187",
    "ids": [
@@ -583,7 +389,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-05 13:47:34",
    "story_sources": 3,
-   "score_norm": 72,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -679,6 +485,79 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-05T14:12:58.614Z"
+  },
+  {
+   "first_seen": "2026-11-03T16:49:57.376Z",
+   "id": "39590813",
+   "ids": [
+    "39590813",
+    "39577402"
+   ],
+   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+   "source_id": "theverge",
+   "published_ts": "2026-11-03 15:00:44",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
+     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+    }
+   ],
+   "queries": [
+    "openai quietly renaming data"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7VSNTyvsuug",
+     "url": "https://www.youtube.com/watch?v=7VSNTyvsuug",
+     "title": "OpenAI is quietly renaming data centers compute campuses",
+     "channel": "Techpulse AI",
+     "views": 0,
+     "age_hours": 4,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T22:50:05.900Z"
+  },
+  {
+   "first_seen": "2026-11-02T21:10:46.298Z",
+   "id": "39573392",
+   "ids": [
+    "39573392",
+    "39560568"
+   ],
+   "title": "Towards understanding score-seeking in LLMs",
+   "url": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-02 19:51:55",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "arxiv-lg",
+     "title": "Towards Understanding Score-Seeking in LLMs",
+     "url": "https://arxiv.org/abs/2610.41014"
+    }
+   ],
+   "queries": [
+    "towards llms understanding score-seeking"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-03T03:13:18.809Z"
   },
   {
    "first_seen": "2026-11-04T10:24:47.094Z",
@@ -863,6 +742,223 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T17:36:21.454Z"
+  },
+  {
+   "first_seen": "2026-11-05T08:36:12.741Z",
+   "id": "39627601",
+   "ids": [
+    "39627601",
+    "39625050",
+    "39633642",
+    "39626717"
+   ],
+   "title": "Nothing to launch its first ‘AI-native’ device in December",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-05 12:49:05",
+   "story_sources": 3,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "in-thehindu-tech",
+     "title": "Nothing to launch its first AI-native product next month",
+     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece"
+    },
+    {
+     "source_id": "cn-technode",
+     "title": "Nothing plans December launch for first AI-native device",
+     "url": "https://technode.com/2026/11/05/nothing-plans-december-launch-for-first-ai-native-device/"
+    }
+   ],
+   "queries": [
+    "nothing december launch first"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:osAeZoz47zA",
+     "url": "https://www.youtube.com/shorts/osAeZoz47zA",
+     "title": "Nothing AI screenless hardware device launching this December",
+     "channel": "",
+     "views": 54,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:eAC_o4qnheU",
+     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
+     "title": "Nothing launches AI-native product without a display in December",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T_zQ8797nRo",
+     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
+     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Twz7GdC11wU",
+     "url": "https://www.youtube.com/shorts/Twz7GdC11wU",
+     "title": "Nothing Teases AI-Native Device Coming in December",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6wN8B1ehz1A",
+     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
+     "title": "Nothing teases a screen-free AI device ahead of launch next month",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:alEJ7cLnenM",
+     "url": "https://www.youtube.com/shorts/alEJ7cLnenM",
+     "title": "Nothing's AI Device Has No New Screen and Ships in December #Shorts",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T14:37:39.779Z"
+  },
+  {
+   "first_seen": "2026-11-04T23:35:20.975Z",
+   "id": "39619325",
+   "ids": [
+    "39619325",
+    "39621782",
+    "39627117",
+    "39629076",
+    "39633938",
+    "39637476"
+   ],
+   "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+   "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-05 15:01:09",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "eu-techmonitor",
+     "title": "Meta buys AI coding startup Conductor",
+     "url": "https://www.techmonitor.ai/news/meta-buys-ai-coding-startup-conductor"
+    }
+   ],
+   "queries": [
+    "meta conductor acquires ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gkK8m0XHEJ8",
+     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
+     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
+     "channel": "",
+     "views": 32,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GY8z2t3o9y4",
+     "url": "https://www.youtube.com/shorts/GY8z2t3o9y4",
+     "title": "Meta Buys Conductor, An AI Coding Startup",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ErzlqFhF1Lk",
+     "url": "https://www.youtube.com/shorts/ErzlqFhF1Lk",
+     "title": "Meta Acquired an AI Coding Startup and the Race Just Changed Forever #shorts",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1VTSAmnYSCA",
+     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
+     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:54GJfdIIQcA",
+     "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
+     "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:luaeDOdrPhU",
+     "url": "https://www.youtube.com/shorts/luaeDOdrPhU",
+     "title": "Meta Ne Ek AI Coding Startup Kharid Liya: Conductor 🤖",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T11:49:47.099Z"
   },
   {
    "first_seen": "2026-11-02T19:09:20.461Z",
@@ -1067,44 +1163,140 @@
    "searched_at": "2026-11-04T06:40:41.623Z"
   },
   {
-   "first_seen": "2026-11-05T08:36:12.741Z",
-   "id": "39627601",
+   "first_seen": "2026-11-04T19:49:54.634Z",
+   "id": "39616463",
    "ids": [
-    "39627601",
-    "39625050",
-    "39633642",
-    "39626717"
+    "39616463",
+    "39617740"
    ],
-   "title": "Nothing to launch its first ‘AI-native’ device in December",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-05 12:49:05",
-   "story_sources": 3,
-   "score_norm": 56,
+   "title": "ChatGPT will now make you animated GIFs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "source_id": "theverge",
+   "published_ts": "2026-11-04 18:00:00",
+   "story_sources": 2,
+   "score_norm": 57,
    "related_news": [
     {
-     "source_id": "in-thehindu-tech",
-     "title": "Nothing to launch its first AI-native product next month",
-     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece"
-    },
-    {
-     "source_id": "cn-technode",
-     "title": "Nothing plans December launch for first AI-native device",
-     "url": "https://technode.com/2026/11/05/nothing-plans-december-launch-for-first-ai-native-device/"
+     "source_id": "eu-tnw",
+     "title": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
+     "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai"
     }
    ],
    "queries": [
-    "nothing december launch first"
+    "chatgpt gifs make animated"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:e4gNCfPZ7dE",
+     "url": "https://www.youtube.com/watch?v=e4gNCfPZ7dE",
+     "title": "ChatGPT Images 2.6 Can Do Things We've Never Seen! (Gifs + Sprites)",
+     "channel": "Evan Burger",
+     "views": 6516,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 815
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qt9N43N7qIQ",
+     "url": "https://www.youtube.com/shorts/qt9N43N7qIQ",
+     "title": "ChatGPT Images 2.6: Turn Photos into Animated GIFs",
+     "channel": "",
+     "views": 3800,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:PgPH30En_to",
+     "url": "https://www.youtube.com/watch?v=PgPH30En_to",
+     "title": "ChatGPT Images 2.6 Makes GIFs - And It's INSANE (Full Breakdown + My Tests)",
+     "channel": "Prompt Engineer 48",
+     "views": 472,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 79
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BNXykbFTqvE",
+     "url": "https://www.youtube.com/shorts/BNXykbFTqvE",
+     "title": "ChatGPT Images 2.6 Can Now Make GIFs",
+     "channel": "",
+     "views": 1800,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FbeS6LSHy2Y",
+     "url": "https://www.youtube.com/watch?v=FbeS6LSHy2Y",
+     "title": "ChatGPT Images 2.6 Now Makes Icons & GIFs",
+     "channel": "AsapGuide",
+     "views": 62,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 31
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ae46n3mNSDI",
+     "url": "https://www.youtube.com/shorts/Ae46n3mNSDI",
+     "title": "ChatGPT can make GIFs now: Images 2.6 explained",
+     "channel": "",
+     "views": 414,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T14:24:15.649Z"
+  },
+  {
+   "first_seen": "2026-11-05T12:37:45.185Z",
+   "id": "39626577",
+   "ids": [
+    "39626577",
+    "39631313"
+   ],
+   "title": "Moonshot AI launches hosted AI agent service for enterprise",
+   "url": "https://www.techinasia.com/news/moonshot-ai-launches-hosted-ai-agent-service-for-enterprise",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-05 07:05:35",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "cn-pandaily",
+     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
+     "url": "https://pandaily.com/moonshot-ai-kimi-hosted-agents-harness-as-a-service-sandbox-inference-hook"
+    }
+   ],
+   "queries": [
+    "moonshot ai launches hosted"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:osAeZoz47zA",
-     "url": "https://www.youtube.com/shorts/osAeZoz47zA",
-     "title": "Nothing AI screenless hardware device launching this December",
+     "id": "youtube:qTyDngCMROk",
+     "url": "https://www.youtube.com/shorts/qTyDngCMROk",
+     "title": "Cirquu Technologies launches Cirquu AI at Moonshot 2026",
      "channel": "",
-     "views": 54,
+     "views": 37,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1112,59 +1304,23 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:eAC_o4qnheU",
-     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
-     "title": "Nothing launches AI-native product without a display in December",
+     "id": "youtube:IyUl4kGFy_E",
+     "url": "https://www.youtube.com/shorts/IyUl4kGFy_E",
+     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
      "channel": "",
-     "views": 11,
+     "views": 1,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:T_zQ8797nRo",
-     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
-     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
+     "id": "youtube:L_wj2l8dBWA",
+     "url": "https://www.youtube.com/shorts/L_wj2l8dBWA",
+     "title": "Background agents are an enterprise moonshot",
      "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Twz7GdC11wU",
-     "url": "https://www.youtube.com/shorts/Twz7GdC11wU",
-     "title": "Nothing Teases AI-Native Device Coming in December",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6wN8B1ehz1A",
-     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
-     "title": "Nothing teases a screen-free AI device ahead of launch next month",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:alEJ7cLnenM",
-     "url": "https://www.youtube.com/shorts/alEJ7cLnenM",
-     "title": "Nothing's AI Device Has No New Screen and Ships in December #Shorts",
-     "channel": "",
-     "views": 4,
+     "views": 0,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1174,7 +1330,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T14:37:39.779Z"
+   "searched_at": "2026-11-05T12:37:49.219Z"
   },
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
@@ -1207,6 +1363,36 @@
    "searched_at": "2026-11-04T21:36:40.647Z"
   },
   {
+   "first_seen": "2026-11-05T07:23:40.700Z",
+   "id": "39626419",
+   "ids": [
+    "39626419",
+    "39626682"
+   ],
+   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
+   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
+   "source_id": "eu-tech-eu",
+   "published_ts": "2026-11-05 06:30:00",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
+     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
+    }
+   ],
+   "queries": [
+    "kabilio 10m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T13:36:55.608Z"
+  },
+  {
    "first_seen": "2026-11-03T16:36:31.521Z",
    "id": "39590635",
    "ids": [
@@ -1236,6 +1422,49 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T22:50:13.094Z"
+  },
+  {
+   "first_seen": "2026-11-05T13:11:29.925Z",
+   "id": "39631717",
+   "ids": [
+    "39631717",
+    "39621158"
+   ],
+   "title": "Pangram expands AI detection tools to cover images, videos: Are they accurate?",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/pangram-expands-ai-detection-tools-images-videos-accuracy-10952201/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-05 12:16:12",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Pangram expands its AI detection tools to video and images",
+     "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
+    }
+   ],
+   "queries": [
+    "pangram expands ai detection"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Z6Dy48PGxMY",
+     "url": "https://www.youtube.com/shorts/Z6Dy48PGxMY",
+     "title": "Pangram expands its AI detection tools to video and images #Shorts #Tech",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T13:11:34.237Z"
   },
   {
    "first_seen": "2026-11-03T05:49:47.455Z",
@@ -1397,176 +1626,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T12:50:09.447Z"
-  },
-  {
-   "first_seen": "2026-11-05T12:37:45.185Z",
-   "id": "39626577",
-   "ids": [
-    "39626577",
-    "39631313"
-   ],
-   "title": "Moonshot AI launches hosted AI agent service for enterprise",
-   "url": "https://www.techinasia.com/news/moonshot-ai-launches-hosted-ai-agent-service-for-enterprise",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-05 07:05:35",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
-     "url": "https://pandaily.com/moonshot-ai-kimi-hosted-agents-harness-as-a-service-sandbox-inference-hook"
-    }
-   ],
-   "queries": [
-    "moonshot ai launches hosted"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qTyDngCMROk",
-     "url": "https://www.youtube.com/shorts/qTyDngCMROk",
-     "title": "Cirquu Technologies launches Cirquu AI at Moonshot 2026",
-     "channel": "",
-     "views": 37,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IyUl4kGFy_E",
-     "url": "https://www.youtube.com/shorts/IyUl4kGFy_E",
-     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:L_wj2l8dBWA",
-     "url": "https://www.youtube.com/shorts/L_wj2l8dBWA",
-     "title": "Background agents are an enterprise moonshot",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T12:37:49.219Z"
-  },
-  {
-   "first_seen": "2026-11-04T19:49:54.634Z",
-   "id": "39616463",
-   "ids": [
-    "39616463",
-    "39617740"
-   ],
-   "title": "ChatGPT will now make you animated GIFs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-   "source_id": "theverge",
-   "published_ts": "2026-11-04 18:00:00",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
-     "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai"
-    }
-   ],
-   "queries": [
-    "chatgpt gifs make animated"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:e4gNCfPZ7dE",
-     "url": "https://www.youtube.com/watch?v=e4gNCfPZ7dE",
-     "title": "ChatGPT Images 2.6 Can Do Things We've Never Seen! (Gifs + Sprites)",
-     "channel": "Evan Burger",
-     "views": 6516,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 815
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qt9N43N7qIQ",
-     "url": "https://www.youtube.com/shorts/qt9N43N7qIQ",
-     "title": "ChatGPT Images 2.6: Turn Photos into Animated GIFs",
-     "channel": "",
-     "views": 3800,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:PgPH30En_to",
-     "url": "https://www.youtube.com/watch?v=PgPH30En_to",
-     "title": "ChatGPT Images 2.6 Makes GIFs - And It's INSANE (Full Breakdown + My Tests)",
-     "channel": "Prompt Engineer 48",
-     "views": 472,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 79
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BNXykbFTqvE",
-     "url": "https://www.youtube.com/shorts/BNXykbFTqvE",
-     "title": "ChatGPT Images 2.6 Can Now Make GIFs",
-     "channel": "",
-     "views": 1800,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FbeS6LSHy2Y",
-     "url": "https://www.youtube.com/watch?v=FbeS6LSHy2Y",
-     "title": "ChatGPT Images 2.6 Now Makes Icons & GIFs",
-     "channel": "AsapGuide",
-     "views": 62,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 31
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ae46n3mNSDI",
-     "url": "https://www.youtube.com/shorts/Ae46n3mNSDI",
-     "title": "ChatGPT can make GIFs now: Images 2.6 explained",
-     "channel": "",
-     "views": 414,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T14:24:15.649Z"
   },
   {
    "first_seen": "2026-11-03T23:20:41.791Z",
@@ -1835,79 +1894,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T18:50:14.519Z"
-  },
-  {
-   "first_seen": "2026-11-05T07:23:40.700Z",
-   "id": "39626419",
-   "ids": [
-    "39626419",
-    "39626682"
-   ],
-   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
-   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
-   "source_id": "eu-tech-eu",
-   "published_ts": "2026-11-05 06:30:00",
-   "story_sources": 2,
-   "score_norm": 43,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
-     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
-    }
-   ],
-   "queries": [
-    "kabilio 10m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T13:36:55.608Z"
-  },
-  {
-   "first_seen": "2026-11-05T13:11:29.925Z",
-   "id": "39631717",
-   "ids": [
-    "39631717",
-    "39621158"
-   ],
-   "title": "Pangram expands AI detection tools to cover images, videos: Are they accurate?",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/pangram-expands-ai-detection-tools-images-videos-accuracy-10952201/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-05 12:16:12",
-   "story_sources": 2,
-   "score_norm": 42,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Pangram expands its AI detection tools to video and images",
-     "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
-    }
-   ],
-   "queries": [
-    "pangram expands ai detection"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Z6Dy48PGxMY",
-     "url": "https://www.youtube.com/shorts/Z6Dy48PGxMY",
-     "title": "Pangram expands its AI detection tools to video and images #Shorts #Tech",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T13:11:34.237Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
