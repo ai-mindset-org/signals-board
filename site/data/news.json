@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T07:49:50.804Z",
+ "generated_at": "2026-11-05T08:16:40.246Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai astra covertly underperforms",
+   "source": "youtube: Pierre Computer Company",
    "ok": true
   },
   {
-   "source": "tiktok: openai astra covertly underperforms",
+   "source": "tiktok: Pierre Computer Company",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai pierre computer company",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai pierre computer company",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt gifs make animated",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt gifs make animated",
    "ok": true
   }
  ],
@@ -62,22 +78,10 @@
      "url": "https://www.youtube.com/shorts/TPcrGokJerk",
      "title": "OpenAI is acquiring Pierre Computer #ai #openai #news",
      "channel": "",
-     "views": 232,
+     "views": 337,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WaSWknuzptw",
-     "url": "https://www.youtube.com/watch?v=WaSWknuzptw",
-     "title": "OpenAI의 Pierre Computer Company, Inc. 인수",
-     "channel": "Ki-jung Kim (akaslany)",
-     "views": 19,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 2
     },
     {
      "platform": "youtube",
@@ -86,22 +90,46 @@
      "url": "https://www.youtube.com/watch?v=vKXTppMcBdY",
      "title": "OpenAI: Pierre Computer deal takes aim at Microsoft's GitHub | Nov 4, 2026",
      "channel": "Stock News Daily",
-     "views": 25,
-     "age_hours": 11,
+     "views": 33,
+     "age_hours": 17,
      "relevance": 0.5,
      "velocity": 2
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:Bt5eVUn5-c0",
-     "url": "https://www.youtube.com/watch?v=Bt5eVUn5-c0",
-     "title": "Pierre Computer acquisition: What OpenAI's Deal Means for Codex and Git Workflows",
-     "channel": "StartupHub AI",
-     "views": 12,
-     "age_hours": 9,
-     "relevance": 0.5,
+     "id": "youtube:WaSWknuzptw",
+     "url": "https://www.youtube.com/watch?v=WaSWknuzptw",
+     "title": "OpenAI의 Pierre Computer Company, Inc. 인수",
+     "channel": "Ki-jung Kim (akaslany)",
+     "views": 20,
+     "age_hours": 14,
+     "relevance": 0.67,
      "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IIQkT_HWsrQ",
+     "url": "https://www.youtube.com/shorts/IIQkT_HWsrQ",
+     "title": "OpenAI Will Acquire Pierre, Maker of Code Review Tools Already in Codex|2026.11.05 AI News #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4kSedKv6tmQ",
+     "url": "https://www.youtube.com/shorts/4kSedKv6tmQ",
+     "title": "OpenAI to Acquire Pierre Computer Company, Whose Diff Libraries Power the Codex App",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -110,21 +138,9 @@
      "url": "https://www.youtube.com/shorts/cLBQgFh0TBQ",
      "title": "OpenAI Buys Pierre Computer: What Happened",
      "channel": "",
-     "views": 6,
+     "views": 8,
      "age_hours": null,
      "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:U85KhbgM6fw",
-     "url": "https://www.youtube.com/shorts/U85KhbgM6fw",
-     "title": "OpenAI reported to target Pierre Computer to add code storage to its Codex platform",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -132,7 +148,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T01:50:22.362Z"
+   "searched_at": "2026-11-05T08:16:47.764Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -176,6 +192,115 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T12:50:08.322Z"
+  },
+  {
+   "first_seen": "2026-11-04T23:35:20.975Z",
+   "id": "39619325",
+   "ids": [
+    "39619325",
+    "39621782",
+    "39627117"
+   ],
+   "title": "Meta acquires AI coding startup Conductor",
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-04 21:10:56",
+   "story_sources": 3,
+   "score_norm": 97,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Meta acquires AI coding startup Conductor",
+     "url": "https://www.techinasia.com/news/meta-acquires-ai-coding-startup-conductor"
+    },
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
+     "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
+    }
+   ],
+   "queries": [
+    "meta conductor acquires ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gkK8m0XHEJ8",
+     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
+     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1VTSAmnYSCA",
+     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
+     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dlReEd5vhog",
+     "url": "https://www.youtube.com/shorts/dlReEd5vhog",
+     "title": "Meta acquires AI coding startup Conductor",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:54GJfdIIQcA",
+     "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
+     "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aZtnrGSmIDk",
+     "url": "https://www.youtube.com/shorts/aZtnrGSmIDk",
+     "title": "Meta Buys Conductor: Coding Agents Go Parallel #AI #Meta #CodingAgents",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WEryqbi9R98",
+     "url": "https://www.youtube.com/shorts/WEryqbi9R98",
+     "title": "Meta Acquires AI Coding Startup Conductor to Supercharge Developer Workflows #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T05:36:55.529Z"
   },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
@@ -464,109 +589,6 @@
    "searched_at": "2026-11-03T03:13:18.809Z"
   },
   {
-   "first_seen": "2026-11-04T23:35:20.975Z",
-   "id": "39619325",
-   "ids": [
-    "39619325",
-    "39621782"
-   ],
-   "title": "Meta acquires AI coding startup Conductor",
-   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-04 21:10:56",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Meta acquires AI coding startup Conductor, whose app runs several coding agents at once",
-     "url": "https://siliconangle.com/2026/11/04/meta-acquires-ai-coding-startup-conductor-whose-app-runs-several-coding-agents-at-once/"
-    }
-   ],
-   "queries": [
-    "meta conductor acquires ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gkK8m0XHEJ8",
-     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
-     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1VTSAmnYSCA",
-     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
-     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dlReEd5vhog",
-     "url": "https://www.youtube.com/shorts/dlReEd5vhog",
-     "title": "Meta acquires AI coding startup Conductor",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:54GJfdIIQcA",
-     "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
-     "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aZtnrGSmIDk",
-     "url": "https://www.youtube.com/shorts/aZtnrGSmIDk",
-     "title": "Meta Buys Conductor: Coding Agents Go Parallel #AI #Meta #CodingAgents",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WEryqbi9R98",
-     "url": "https://www.youtube.com/shorts/WEryqbi9R98",
-     "title": "Meta Acquires AI Coding Startup Conductor to Supercharge Developer Workflows #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T05:36:55.529Z"
-  },
-  {
    "first_seen": "2026-11-04T10:24:47.094Z",
    "id": "39606974",
    "ids": [
@@ -715,12 +737,60 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:e4gNCfPZ7dE",
+     "url": "https://www.youtube.com/watch?v=e4gNCfPZ7dE",
+     "title": "ChatGPT Images 2.6 Can Do Things We've Never Seen! (Gifs + Sprites)",
+     "channel": "Evan Burger",
+     "views": 199,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 100
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hkSvKdUymTY",
+     "url": "https://www.youtube.com/watch?v=hkSvKdUymTY",
+     "title": "INSANE! The New ChatGPT Creates Animated GIFs and MUCH MORE!",
+     "channel": "Azev • Renda Online com IA",
+     "views": 356,
+     "age_hours": 5,
+     "relevance": 0.75,
+     "velocity": 71
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:DhOFZXWifsk",
+     "url": "https://www.youtube.com/shorts/DhOFZXWifsk",
+     "title": "I Didn't Know ChatGPT Could Make GIFs #ChatGPT #Shorts",
+     "channel": "",
+     "views": 121,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mQKRrI-1pvU",
+     "url": "https://www.youtube.com/shorts/mQKRrI-1pvU",
+     "title": "ChatGPT can make GIFs now. New Image model GPT Image 2.6 #chatgpt #ai #imagegenerationai",
+     "channel": "",
+     "views": 114,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:uzGDwPsp0Rg",
      "url": "https://www.youtube.com/shorts/uzGDwPsp0Rg",
      "title": "ChatGPT Is About to Start Making GIFs",
      "channel": "",
-     "views": 50,
+     "views": 96,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -728,59 +798,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:boqwFlIUegQ",
-     "url": "https://www.youtube.com/shorts/boqwFlIUegQ",
-     "title": "Create Unlimited GIFs Free with ChatGPT – Save $240/yr",
+     "id": "youtube:YdXnfgSHnGY",
+     "url": "https://www.youtube.com/shorts/YdXnfgSHnGY",
+     "title": "ChatGPT now makes free GIFs — 3 tricks #shorts",
      "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T4RPkhyal6k",
-     "url": "https://www.youtube.com/shorts/T4RPkhyal6k",
-     "title": "ChatGPT Now Turns Your Photos Into Animated GIFs #aitools #productivity #Shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7MEbxVQeqbY",
-     "url": "https://www.youtube.com/shorts/7MEbxVQeqbY",
-     "title": "ChatGPT makes GIFs now 🐱 ChatGPT Images 2.6 explained #shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:w4gZlOcvrB8",
-     "url": "https://www.youtube.com/shorts/w4gZlOcvrB8",
-     "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c7M_-rnIM7w",
-     "url": "https://www.youtube.com/shorts/c7M_-rnIM7w",
-     "title": "ChatGPT Images 2.6 Just Launched — It Makes GIFs!",
-     "channel": "",
-     "views": 5,
+     "views": 58,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -790,7 +812,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T01:50:25.995Z"
+   "searched_at": "2026-11-05T08:16:51.232Z"
   },
   {
    "first_seen": "2026-11-04T11:23:08.532Z",
