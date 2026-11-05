@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:20:26.161Z",
+ "generated_at": "2026-11-05T21:36:31.241Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: setting standard responsible ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: setting standard responsible ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -1107,6 +1116,113 @@
    "searched_at": "2026-11-04T06:40:41.623Z"
   },
   {
+   "first_seen": "2026-11-04T23:35:20.975Z",
+   "id": "39619325",
+   "ids": [
+    "39619325",
+    "39621782",
+    "39627117",
+    "39629076",
+    "39633938",
+    "39637476"
+   ],
+   "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+   "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-05 15:01:09",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "eu-techmonitor",
+     "title": "Meta buys AI coding startup Conductor",
+     "url": "https://www.techmonitor.ai/news/meta-buys-ai-coding-startup-conductor"
+    }
+   ],
+   "queries": [
+    "meta conductor acquires ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:10NyE72YkxA",
+     "url": "https://www.youtube.com/watch?v=10NyE72YkxA",
+     "title": "AI News Today: Baidu 280B Open Model, Meta Buys Conductor, AI Research Expires",
+     "channel": "The Daily Neural",
+     "views": 5,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bbI4cbosxdo",
+     "url": "https://www.youtube.com/watch?v=bbI4cbosxdo",
+     "title": "AI News: Meta Buys Conductor, OpenAI's Pierre Deal & The Code Responsibility Crisis",
+     "channel": "Tiny Wingman",
+     "views": 12,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PwMbl0rfUI0",
+     "url": "https://www.youtube.com/shorts/PwMbl0rfUI0",
+     "title": "Meta's New AI Coding Secret",
+     "channel": "",
+     "views": 59,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gkK8m0XHEJ8",
+     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
+     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_DKJxcCMJDc",
+     "url": "https://www.youtube.com/watch?v=_DKJxcCMJDc",
+     "title": "China blocks SoftBank's 5.4 | Google unveils 15 billion dollars | Meta acquires AI coding startup |",
+     "channel": "SanMitra Tech Solutions",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.83,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sTgkG6fUZEk",
+     "url": "https://www.youtube.com/watch?v=sTgkG6fUZEk",
+     "title": "Daily AI News Digest: OpenAI Q3 Surge & Pierre Acquisition, Meta Buys Conductor, Model Watermarking",
+     "channel": "best-ai dot org",
+     "views": 3,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T18:15:00.511Z"
+  },
+  {
    "first_seen": "2026-11-04T19:49:54.634Z",
    "id": "39616463",
    "ids": [
@@ -1210,111 +1326,47 @@
    "searched_at": "2026-11-05T14:24:15.649Z"
   },
   {
-   "first_seen": "2026-11-04T23:35:20.975Z",
-   "id": "39619325",
+   "first_seen": "2026-11-05T21:36:31.241Z",
+   "id": "39643020",
    "ids": [
-    "39619325",
-    "39621782",
-    "39627117",
-    "39629076",
-    "39633938",
-    "39637476"
+    "39643020",
+    "39632645"
    ],
-   "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
-   "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-05 15:01:09",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-05 02:00:00",
    "story_sources": 2,
-   "score_norm": 56,
+   "score_norm": 54,
    "related_news": [
     {
-     "source_id": "eu-techmonitor",
-     "title": "Meta buys AI coding startup Conductor",
-     "url": "https://www.techmonitor.ai/news/meta-buys-ai-coding-startup-conductor"
+     "source_id": "hn",
+     "title": "Setting a new standard for responsible AI infrastructure",
+     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"
     }
    ],
    "queries": [
-    "meta conductor acquires ai"
+    "setting standard responsible ai"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:10NyE72YkxA",
-     "url": "https://www.youtube.com/watch?v=10NyE72YkxA",
-     "title": "AI News Today: Baidu 280B Open Model, Meta Buys Conductor, AI Research Expires",
-     "channel": "The Daily Neural",
-     "views": 5,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bbI4cbosxdo",
-     "url": "https://www.youtube.com/watch?v=bbI4cbosxdo",
-     "title": "AI News: Meta Buys Conductor, OpenAI's Pierre Deal & The Code Responsibility Crisis",
-     "channel": "Tiny Wingman",
-     "views": 12,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:PwMbl0rfUI0",
-     "url": "https://www.youtube.com/shorts/PwMbl0rfUI0",
-     "title": "Meta's New AI Coding Secret",
+     "id": "youtube:MbIOVQ3Lag0",
+     "url": "https://www.youtube.com/shorts/MbIOVQ3Lag0",
+     "title": "Setting a new standard for responsible AI infrastructu! #Shorts",
      "channel": "",
-     "views": 59,
+     "views": 13,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.8,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gkK8m0XHEJ8",
-     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
-     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_DKJxcCMJDc",
-     "url": "https://www.youtube.com/watch?v=_DKJxcCMJDc",
-     "title": "China blocks SoftBank's 5.4 | Google unveils 15 billion dollars | Meta acquires AI coding startup |",
-     "channel": "SanMitra Tech Solutions",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.83,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sTgkG6fUZEk",
-     "url": "https://www.youtube.com/watch?v=sTgkG6fUZEk",
-     "title": "Daily AI News Digest: OpenAI Q3 Surge & Pierre Acquisition, Meta Buys Conductor, Model Watermarking",
-     "channel": "best-ai dot org",
-     "views": 3,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T18:15:00.511Z"
+   "searched_at": "2026-11-05T21:36:36.241Z"
   },
   {
    "first_seen": "2026-11-05T12:37:45.185Z",
