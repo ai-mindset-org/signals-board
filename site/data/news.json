@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:36:31.211Z",
+ "generated_at": "2026-11-05T20:50:10.358Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: nothing ai-native launch first",
+   "ok": true
+  },
+  {
+   "source": "tiktok: nothing ai-native launch first",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
@@ -186,7 +195,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-05 18:02:27",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1285,19 +1294,19 @@
     }
    ],
    "queries": [
-    "nothing december launch first"
+    "nothing ai-native launch first"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:osAeZoz47zA",
-     "url": "https://www.youtube.com/shorts/osAeZoz47zA",
-     "title": "Nothing AI screenless hardware device launching this December",
+     "id": "youtube:T_zQ8797nRo",
+     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
+     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
      "channel": "",
-     "views": 54,
+     "views": 16,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -1307,33 +1316,9 @@
      "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
      "title": "Nothing launches AI-native product without a display in December",
      "channel": "",
-     "views": 11,
+     "views": 13,
      "age_hours": null,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T_zQ8797nRo",
-     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
-     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Twz7GdC11wU",
-     "url": "https://www.youtube.com/shorts/Twz7GdC11wU",
-     "title": "Nothing Teases AI-Native Device Coming in December",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
      "velocity": null
     },
     {
@@ -1343,21 +1328,9 @@
      "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
      "title": "Nothing teases a screen-free AI device ahead of launch next month",
      "channel": "",
-     "views": 6,
+     "views": 10,
      "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:alEJ7cLnenM",
-     "url": "https://www.youtube.com/shorts/alEJ7cLnenM",
-     "title": "Nothing's AI Device Has No New Screen and Ships in December #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -1365,7 +1338,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T14:37:39.779Z"
+   "searched_at": "2026-11-05T20:50:15.106Z"
   },
   {
    "first_seen": "2026-11-04T09:13:10.178Z",
