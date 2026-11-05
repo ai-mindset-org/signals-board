@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T13:50:03.587Z",
+ "generated_at": "2026-11-05T14:12:50.437Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Claude Code’s",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Claude Code’s",
+   "ok": true
+  },
+  {
+   "source": "youtube: claude code cat wu",
+   "ok": true
+  },
+  {
+   "source": "tiktok: claude code cat wu",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
@@ -168,6 +185,116 @@
    "searched_at": "2026-11-04T12:50:08.322Z"
   },
   {
+   "first_seen": "2026-11-05T14:12:50.437Z",
+   "id": "39633187",
+   "ids": [
+    "39633187",
+    "39633179",
+    "39622961"
+   ],
+   "title": "Claude Code’s product lead Cat Wu leaves Anthropic to join OpenAI",
+   "url": "https://thenextweb.com/news/cat-wu-claude-code-anthropic-openai-core-products",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-05 13:47:34",
+   "story_sources": 3,
+   "score_norm": 88,
+   "related_news": [
+    {
+     "source_id": "eu-the-decoder",
+     "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+     "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Cat Wu joins OpenAI from Anthropic in product-lead coup",
+     "url": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11"
+    }
+   ],
+   "queries": [
+    "Claude Code’s",
+    "claude code cat wu"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VvuRG_nfvnA",
+     "url": "https://www.youtube.com/shorts/VvuRG_nfvnA",
+     "title": "How Anthropic Reviews Claude's Code",
+     "channel": "",
+     "views": 6700,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Pe5gd-Da3Gg",
+     "url": "https://www.youtube.com/watch?v=Pe5gd-Da3Gg",
+     "title": "How Anthropic Engineers Actually Use Claude Code",
+     "channel": "Sharbel A.",
+     "views": 11835,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 164
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HY7WAeczwgA",
+     "url": "https://www.youtube.com/shorts/HY7WAeczwgA",
+     "title": "Steal this for Claude Code: frontend-design",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WofG3O77q0U",
+     "url": "https://www.youtube.com/shorts/WofG3O77q0U",
+     "title": "Claude Code Leader Cat Wu Exits Anthropic | Artificial Intelligence News",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:X_DOyPB3QmA",
+     "url": "https://www.youtube.com/shorts/X_DOyPB3QmA",
+     "title": "Claude wrote over 90% of Anthropic's new code",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:prZou6I76N0",
+     "url": "https://www.youtube.com/shorts/prZou6I76N0",
+     "title": "Claude Code's Product Chief Reportedly Joins OpenAI #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-05T14:12:58.614Z"
+  },
+  {
    "first_seen": "2026-11-04T19:49:54.634Z",
    "id": "39617836",
    "ids": [
@@ -181,7 +308,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-04 14:30:00",
    "story_sources": 3,
-   "score_norm": 86,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "in-businessline",
