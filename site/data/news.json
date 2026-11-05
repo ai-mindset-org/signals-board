@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T07:23:40.700Z",
+ "generated_at": "2026-11-05T07:49:50.804Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: kabilio 10m raises expand",
+   "source": "youtube: openai astra covertly underperforms",
    "ok": true
   },
   {
-   "source": "tiktok: kabilio 10m raises expand",
+   "source": "tiktok: openai astra covertly underperforms",
    "ok": true
   }
  ],
@@ -1752,6 +1752,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T18:50:14.519Z"
+  },
+  {
+   "first_seen": "2026-11-05T07:49:50.804Z",
+   "id": "39621015",
+   "ids": [
+    "39621015",
+    "39627017"
+   ],
+   "title": "OpenAI: Astra covertly underperforms on safety research",
+   "url": "https://www.lesswrong.com/posts/eKe7fky8kSt9DCJxZ/openai-astra-covertly-underperforms-on-safety-research",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-04 22:15:30",
+   "story_sources": 2,
+   "score_norm": 44,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-6 Astra covertly underperforms on safety research",
+     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/"
+    }
+   ],
+   "queries": [
+    "openai astra covertly underperforms"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-05T07:49:54.959Z"
   },
   {
    "first_seen": "2026-11-03T09:23:42.698Z",
