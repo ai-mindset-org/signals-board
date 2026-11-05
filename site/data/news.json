@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T23:35:20.975Z",
+ "generated_at": "2026-11-05T01:13:13.852Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: meta conductor acquires ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta conductor acquires ai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
@@ -86,7 +77,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-04 14:30:00",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "hn",
@@ -238,7 +229,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-04 18:00:00",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -590,37 +581,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T03:13:18.809Z"
-  },
-  {
-   "first_seen": "2026-11-02T07:50:10.398Z",
-   "id": "39558547",
-   "ids": [
-    "39558547",
-    "39553477"
-   ],
-   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-02 01:05:33",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/"
-    }
-   ],
-   "queries": [
-    "Nemotron Bolt 74B",
-    "benchmarking qwen 27b 35b"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-02T20:21:13.900Z"
   },
   {
    "first_seen": "2026-11-04T10:24:47.094Z",
@@ -1320,6 +1280,37 @@
    "searched_at": "2026-11-03T22:50:13.094Z"
   },
   {
+   "first_seen": "2026-11-04T13:11:00.145Z",
+   "id": "39609749",
+   "ids": [
+    "39609749",
+    "39607389"
+   ],
+   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
+   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-04 12:24:00",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
+     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Smart Reports",
+    "smart reports vorgesetzte claude-nutzung"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-04T19:20:49.120Z"
+  },
+  {
    "first_seen": "2026-11-03T05:49:47.455Z",
    "id": "39572554",
    "ids": [
@@ -1479,37 +1470,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T12:50:09.447Z"
-  },
-  {
-   "first_seen": "2026-11-04T13:11:00.145Z",
-   "id": "39609749",
-   "ids": [
-    "39609749",
-    "39607389"
-   ],
-   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-04 12:24:00",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
-     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Smart Reports",
-    "smart reports vorgesetzte claude-nutzung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T19:20:49.120Z"
   },
   {
    "first_seen": "2026-11-03T02:36:22.300Z",
