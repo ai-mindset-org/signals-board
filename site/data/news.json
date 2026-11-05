@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T17:21:16.289Z",
+ "generated_at": "2026-11-05T18:14:56.242Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: meta conductor acquires ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta conductor acquires ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -377,6 +386,49 @@
    "searched_at": "2026-11-04T12:50:11.949Z"
   },
   {
+   "first_seen": "2026-11-03T16:49:57.376Z",
+   "id": "39590813",
+   "ids": [
+    "39590813",
+    "39577402"
+   ],
+   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+   "source_id": "theverge",
+   "published_ts": "2026-11-03 15:00:44",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
+     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+    }
+   ],
+   "queries": [
+    "openai quietly renaming data"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7VSNTyvsuug",
+     "url": "https://www.youtube.com/watch?v=7VSNTyvsuug",
+     "title": "OpenAI is quietly renaming data centers compute campuses",
+     "channel": "Techpulse AI",
+     "views": 0,
+     "age_hours": 4,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-03T22:50:05.900Z"
+  },
+  {
    "first_seen": "2026-11-05T14:12:50.437Z",
    "id": "39633187",
    "ids": [
@@ -389,7 +441,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-05 13:47:34",
    "story_sources": 3,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -485,49 +537,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-05T14:12:58.614Z"
-  },
-  {
-   "first_seen": "2026-11-03T16:49:57.376Z",
-   "id": "39590813",
-   "ids": [
-    "39590813",
-    "39577402"
-   ],
-   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-   "source_id": "theverge",
-   "published_ts": "2026-11-03 15:00:44",
-   "story_sources": 2,
-   "score_norm": 84,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI considers rebranding data centers to 'AI compute campuses\"",
-     "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
-    }
-   ],
-   "queries": [
-    "openai quietly renaming data"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7VSNTyvsuug",
-     "url": "https://www.youtube.com/watch?v=7VSNTyvsuug",
-     "title": "OpenAI is quietly renaming data centers compute campuses",
-     "channel": "Techpulse AI",
-     "views": 0,
-     "age_hours": 4,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T22:50:05.900Z"
   },
   {
    "first_seen": "2026-11-02T21:10:46.298Z",
@@ -752,22 +761,22 @@
     "39633642",
     "39626717"
    ],
-   "title": "Nothing to launch its first ‘AI-native’ device in December",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-05 12:49:05",
+   "title": "Nothing to launch its first AI-native product next month",
+   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-05 06:36:23",
    "story_sources": 3,
-   "score_norm": 65,
+   "score_norm": 64,
    "related_news": [
     {
-     "source_id": "in-thehindu-tech",
-     "title": "Nothing to launch its first AI-native product next month",
-     "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece"
+     "source_id": "in-express-tech",
+     "title": "Nothing to launch its first ‘AI-native’ device in December",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/"
     },
     {
-     "source_id": "cn-technode",
-     "title": "Nothing plans December launch for first AI-native device",
-     "url": "https://technode.com/2026/11/05/nothing-plans-december-launch-for-first-ai-native-device/"
+     "source_id": "sea-lowyat",
+     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
+     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
     }
    ],
    "queries": [
@@ -869,7 +878,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-05 15:01:09",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "eu-techmonitor",
@@ -883,180 +892,82 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:10NyE72YkxA",
+     "url": "https://www.youtube.com/watch?v=10NyE72YkxA",
+     "title": "AI News Today: Baidu 280B Open Model, Meta Buys Conductor, AI Research Expires",
+     "channel": "The Daily Neural",
+     "views": 5,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bbI4cbosxdo",
+     "url": "https://www.youtube.com/watch?v=bbI4cbosxdo",
+     "title": "AI News: Meta Buys Conductor, OpenAI's Pierre Deal & The Code Responsibility Crisis",
+     "channel": "Tiny Wingman",
+     "views": 12,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PwMbl0rfUI0",
+     "url": "https://www.youtube.com/shorts/PwMbl0rfUI0",
+     "title": "Meta's New AI Coding Secret",
+     "channel": "",
+     "views": 59,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:gkK8m0XHEJ8",
      "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
      "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
      "channel": "",
-     "views": 32,
+     "views": 41,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GY8z2t3o9y4",
-     "url": "https://www.youtube.com/shorts/GY8z2t3o9y4",
-     "title": "Meta Buys Conductor, An AI Coding Startup",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:_DKJxcCMJDc",
+     "url": "https://www.youtube.com/watch?v=_DKJxcCMJDc",
+     "title": "China blocks SoftBank's 5.4 | Google unveils 15 billion dollars | Meta acquires AI coding startup |",
+     "channel": "SanMitra Tech Solutions",
+     "views": 1,
+     "age_hours": 2,
      "relevance": 0.83,
-     "velocity": null
+     "velocity": 1
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ErzlqFhF1Lk",
-     "url": "https://www.youtube.com/shorts/ErzlqFhF1Lk",
-     "title": "Meta Acquired an AI Coding Startup and the Race Just Changed Forever #shorts",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1VTSAmnYSCA",
-     "url": "https://www.youtube.com/shorts/1VTSAmnYSCA",
-     "title": "OpenAI Buys the Review, Meta Buys the Orchestrator. Two AI Coding Deals in One Day",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:sTgkG6fUZEk",
+     "url": "https://www.youtube.com/watch?v=sTgkG6fUZEk",
+     "title": "Daily AI News Digest: OpenAI Q3 Surge & Pierre Acquisition, Meta Buys Conductor, Model Watermarking",
+     "channel": "best-ai dot org",
+     "views": 3,
+     "age_hours": 5,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:54GJfdIIQcA",
-     "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
-     "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:luaeDOdrPhU",
-     "url": "https://www.youtube.com/shorts/luaeDOdrPhU",
-     "title": "Meta Ne Ek AI Coding Startup Kharid Liya: Conductor 🤖",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T11:49:47.099Z"
-  },
-  {
-   "first_seen": "2026-11-02T19:09:20.461Z",
-   "id": "39571322",
-   "ids": [
-    "39571322",
-    "39565585",
-    "39582815"
-   ],
-   "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
-   "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
-   "source_id": "zdnet-ai",
-   "published_ts": "2026-11-02 18:01:55",
-   "story_sources": 3,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "OpenAI to merge ChatGPT’s Chat, Work tabs in desktop app: What changes for users?",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-merge-chatgpt-chat-work-tabs-10948370/"
-    },
-    {
-     "source_id": "x-techcrunch",
-     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
-     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
-    }
-   ],
-   "queries": [
-    "ChatGPT’s Chat",
-    "openai chatgpt chat work"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-srETPxHsV4",
-     "url": "https://www.youtube.com/shorts/-srETPxHsV4",
-     "title": "How does ChatGPT actually work?",
-     "channel": "",
-     "views": 159,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6hBK5_g-fes",
-     "url": "https://www.youtube.com/shorts/6hBK5_g-fes",
-     "title": "Switch to ChatGPT Work!",
-     "channel": "",
-     "views": 111,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JFu9aC9MDVU",
-     "url": "https://www.youtube.com/shorts/JFu9aC9MDVU",
-     "title": "How does ChatGPT actually work?",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:977TZMs_nMI",
-     "url": "https://www.youtube.com/shorts/977TZMs_nMI",
-     "title": "OpenAI Is Merging ChatGPT's Chat and Work Tabs",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TNr5RDLko14",
-     "url": "https://www.youtube.com/shorts/TNr5RDLko14",
-     "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs #Shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T13:22:07.664Z"
+   "searched_at": "2026-11-05T18:15:00.511Z"
   },
   {
    "first_seen": "2026-11-03T17:49:32.832Z",
@@ -1424,49 +1335,6 @@
    "searched_at": "2026-11-03T22:50:13.094Z"
   },
   {
-   "first_seen": "2026-11-05T13:11:29.925Z",
-   "id": "39631717",
-   "ids": [
-    "39631717",
-    "39621158"
-   ],
-   "title": "Pangram expands AI detection tools to cover images, videos: Are they accurate?",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/pangram-expands-ai-detection-tools-images-videos-accuracy-10952201/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-05 12:16:12",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Pangram expands its AI detection tools to video and images",
-     "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
-    }
-   ],
-   "queries": [
-    "pangram expands ai detection"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Z6Dy48PGxMY",
-     "url": "https://www.youtube.com/shorts/Z6Dy48PGxMY",
-     "title": "Pangram expands its AI detection tools to video and images #Shorts #Tech",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T13:11:34.237Z"
-  },
-  {
    "first_seen": "2026-11-03T05:49:47.455Z",
    "id": "39572554",
    "ids": [
@@ -1626,6 +1494,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-03T12:50:09.447Z"
+  },
+  {
+   "first_seen": "2026-11-05T13:11:29.925Z",
+   "id": "39631717",
+   "ids": [
+    "39631717",
+    "39621158"
+   ],
+   "title": "Pangram expands AI detection tools to cover images, videos: Are they accurate?",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/pangram-expands-ai-detection-tools-images-videos-accuracy-10952201/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-05 12:16:12",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Pangram expands its AI detection tools to video and images",
+     "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
+    }
+   ],
+   "queries": [
+    "pangram expands ai detection"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Z6Dy48PGxMY",
+     "url": "https://www.youtube.com/shorts/Z6Dy48PGxMY",
+     "title": "Pangram expands its AI detection tools to video and images #Shorts #Tech",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T13:11:34.237Z"
   },
   {
    "first_seen": "2026-11-03T23:20:41.791Z",
