@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T10:11:39.195Z",
+ "generated_at": "2026-11-05T11:49:43.029Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: meta conductor acquires ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta conductor acquires ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
@@ -52,9 +61,33 @@
      "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
      "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
      "channel": "",
-     "views": 19,
+     "views": 32,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GY8z2t3o9y4",
+     "url": "https://www.youtube.com/shorts/GY8z2t3o9y4",
+     "title": "Meta Buys Conductor, An AI Coding Startup",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ErzlqFhF1Lk",
+     "url": "https://www.youtube.com/shorts/ErzlqFhF1Lk",
+     "title": "Meta Acquired an AI Coding Startup and the Race Just Changed Forever #shorts",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.67,
      "velocity": null
     },
     {
@@ -72,23 +105,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:dlReEd5vhog",
-     "url": "https://www.youtube.com/shorts/dlReEd5vhog",
-     "title": "Meta acquires AI coding startup Conductor",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
      "id": "youtube:54GJfdIIQcA",
      "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
      "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
      "channel": "",
-     "views": 2,
+     "views": 11,
      "age_hours": null,
      "relevance": 0.83,
      "velocity": null
@@ -96,25 +117,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:aZtnrGSmIDk",
-     "url": "https://www.youtube.com/shorts/aZtnrGSmIDk",
-     "title": "Meta Buys Conductor: Coding Agents Go Parallel #AI #Meta #CodingAgents",
+     "id": "youtube:luaeDOdrPhU",
+     "url": "https://www.youtube.com/shorts/luaeDOdrPhU",
+     "title": "Meta Ne Ek AI Coding Startup Kharid Liya: Conductor 🤖",
      "channel": "",
-     "views": 1,
+     "views": 11,
      "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WEryqbi9R98",
-     "url": "https://www.youtube.com/shorts/WEryqbi9R98",
-     "title": "Meta Acquires AI Coding Startup Conductor to Supercharge Developer Workflows #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.83,
      "velocity": null
     }
    ],
@@ -122,7 +131,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T05:36:55.529Z"
+   "searched_at": "2026-11-05T11:49:47.099Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -181,7 +190,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-04 14:30:00",
    "story_sources": 3,
-   "score_norm": 85,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1217,7 +1226,7 @@
    "source_id": "eu-tech-eu",
    "published_ts": "2026-11-05 06:30:00",
    "story_sources": 2,
-   "score_norm": 53,
+   "score_norm": 52,
    "related_news": [
     {
      "source_id": "eu-tnw",
