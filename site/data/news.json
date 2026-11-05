@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:36:31.241Z",
+ "generated_at": "2026-11-05T22:49:28.125Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: setting standard responsible ai",
+   "source": "youtube: Gemini Omni 1.2 Flash",
    "ok": true
   },
   {
-   "source": "tiktok: setting standard responsible ai",
+   "source": "tiktok: Gemini Omni 1.2 Flash",
+   "ok": true
+  },
+  {
+   "source": "youtube: gemini omni 1.2 flash",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gemini omni 1.2 flash",
    "ok": true
   }
  ],
@@ -644,6 +652,110 @@
    "searched_at": "2026-11-03T22:50:05.900Z"
   },
   {
+   "first_seen": "2026-11-05T22:49:28.125Z",
+   "id": "39644164",
+   "ids": [
+    "39644164",
+    "39637399"
+   ],
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "source_id": "deepmind",
+   "published_ts": "2026-11-05 17:05:16",
+   "story_sources": 2,
+   "score_norm": 82,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    }
+   ],
+   "queries": [
+    "Gemini Omni 1.2 Flash",
+    "gemini omni 1.2 flash"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Kw9yRFd2HP0",
+     "url": "https://www.youtube.com/watch?v=Kw9yRFd2HP0",
+     "title": "Gemini Omni Flash 1.2 is live on ElevenCreative",
+     "channel": "ElevenLabs",
+     "views": 4818,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 1205
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jpl7l7GUb_4",
+     "url": "https://www.youtube.com/watch?v=jpl7l7GUb_4",
+     "title": "Gemini Omni 1.2 Flash: Fast and Cheap Video Clips with Sound",
+     "channel": "Fahd Mirza",
+     "views": 978,
+     "age_hours": 3,
+     "relevance": 0.75,
+     "velocity": 326
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:UOkWrjKKksw",
+     "url": "https://www.youtube.com/watch?v=UOkWrjKKksw",
+     "title": "Gemini Omni 1.2 Flash is now Live-  Refine, Edit, Reference, 4K",
+     "channel": "Segmind",
+     "views": 566,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 113
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:9KMQYbWaTy8",
+     "url": "https://www.youtube.com/watch?v=9KMQYbWaTy8",
+     "title": "Gemini Omni 1.2 Flash: 15-Second Ads You Fix by Chatting",
+     "channel": "KiS",
+     "views": 91,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 91
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zjNTWXzvubg",
+     "url": "https://www.youtube.com/shorts/zjNTWXzvubg",
+     "title": "No Drone Flew This: Google Gemini Omni 1.2 Flash #Shorts",
+     "channel": "",
+     "views": 655,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iZI2yHERihI",
+     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
+     "title": "Gemini Omni 1.2 Flash vs the Old Version: Same Prompt, Only One Gets the Poster Right",
+     "channel": "Simply AI",
+     "views": 10,
+     "age_hours": 0.5,
+     "relevance": 0.5,
+     "velocity": 10
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T22:49:35.702Z"
+  },
+  {
    "first_seen": "2026-11-05T14:12:50.437Z",
    "id": "39633187",
    "ids": [
@@ -951,7 +1063,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-05 06:36:23",
    "story_sources": 3,
-   "score_norm": 59,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -1337,7 +1449,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-05 02:00:00",
    "story_sources": 2,
-   "score_norm": 54,
+   "score_norm": 55,
    "related_news": [
     {
      "source_id": "hn",
@@ -1380,7 +1492,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-05 07:05:35",
    "story_sources": 2,
-   "score_norm": 51,
+   "score_norm": 52,
    "related_news": [
     {
      "source_id": "cn-pandaily",
