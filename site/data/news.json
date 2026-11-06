@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T00:48:18.145Z",
+ "generated_at": "2026-11-06T01:12:34.954Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,59 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT‑6 Cyber",
+   "source": "youtube: Greg Brockman",
    "ok": true
   },
   {
-   "source": "tiktok: GPT‑6 Cyber",
+   "source": "tiktok: Greg Brockman",
    "ok": true
   },
   {
-   "source": "youtube: gpt cyber advancing frontier",
+   "source": "youtube: openai greg brockman ipo",
    "ok": true
   },
   {
-   "source": "tiktok: gpt cyber advancing frontier",
+   "source": "tiktok: openai greg brockman ipo",
    "ok": true
   },
   {
-   "source": "youtube: moonshot ai launches hosted",
+   "source": "youtube: Personal Finance",
    "ok": true
   },
   {
-   "source": "tiktok: moonshot ai launches hosted",
+   "source": "tiktok: Personal Finance",
+   "ok": true
+  },
+  {
+   "source": "youtube: claude personal finance can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: claude personal finance can",
+   "ok": true
+  },
+  {
+   "source": "youtube: elevenlabs ai-generated soundcloud lets",
+   "ok": true
+  },
+  {
+   "source": "tiktok: elevenlabs ai-generated soundcloud lets",
+   "ok": true
+  },
+  {
+   "source": "youtube: Google Releases Gemini Omni 1.2 Flash",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Google Releases Gemini Omni 1.2 Flash",
+   "ok": true
+  },
+  {
+   "source": "youtube: google releases gemini omni",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google releases gemini omni",
    "ok": true
   }
  ],
@@ -66,7 +98,7 @@
      "url": "https://www.youtube.com/shorts/Bh_i5A4fpXY",
      "title": "OpenAI Is Preparing a 2027 IPO | The Brief #Shorts",
      "channel": "",
-     "views": 12,
+     "views": 15,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -85,15 +117,39 @@
     },
     {
      "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9ZQTGOiA3-Y",
+     "url": "https://www.youtube.com/shorts/9ZQTGOiA3-Y",
+     "title": "OpenAI could be IPO-ready next year, says Greg Brockman #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:q3Yc7VUkGLA",
+     "url": "https://www.youtube.com/shorts/q3Yc7VUkGLA",
+     "title": "OpenAI Says It Could Be Ready to IPO in 2027 and Now Gets Most Sales From Enterprises",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
      "kind": "видео",
      "id": "youtube:Fi0pztk6s5M",
      "url": "https://www.youtube.com/watch?v=Fi0pztk6s5M",
      "title": "OpenAI: Could be ready for an IPO in 2027, Brockman says | Nov 5, 2026",
      "channel": "Stock News Daily",
-     "views": 0,
-     "age_hours": 4,
+     "views": 1,
+     "age_hours": 10,
      "relevance": 0.75,
-     "velocity": null
+     "velocity": 0
     },
     {
      "platform": "youtube",
@@ -106,25 +162,13 @@
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:F4oegG6-epo",
-     "url": "https://www.youtube.com/watch?v=F4oegG6-epo",
-     "title": "RERIGHT · OpenAI, ready to IPO in 2027, now counts majority of sales f",
-     "channel": "reright",
-     "views": 0,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T18:50:06.488Z"
+   "searched_at": "2026-11-06T01:12:42.539Z"
   },
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -158,10 +202,10 @@
      "url": "https://www.youtube.com/watch?v=UTubvRLX2j4",
      "title": "Introducing Personal Finance in Claude",
      "channel": "Claude",
-     "views": 8498,
-     "age_hours": 0.8166666666666667,
+     "views": 150713,
+     "age_hours": 7,
      "relevance": 0.75,
-     "velocity": 8498
+     "velocity": 21530
     },
     {
      "platform": "youtube",
@@ -170,29 +214,65 @@
      "url": "https://www.youtube.com/shorts/sKUrASfSdHM",
      "title": "Claude Introduces Personal Finance Tool for Spending Analysis 💰",
      "channel": "",
-     "views": 4,
+     "views": 53,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0wmWcwBi6w8",
+     "url": "https://www.youtube.com/watch?v=0wmWcwBi6w8",
+     "title": "Claude Personal Finance Beta: Check Bill Changes & Spending (US Paid Plans)",
+     "channel": "The Edge Engine",
+     "views": 5,
+     "age_hours": 4,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:irmIiN79Vug",
-     "url": "https://www.youtube.com/shorts/irmIiN79Vug",
-     "title": "Anthropic upgrades Claude with new Personal Finance feature",
+     "id": "youtube:Xo2FYn9PIzc",
+     "url": "https://www.youtube.com/shorts/Xo2FYn9PIzc",
+     "title": "Claude Personal Finance Is Here — Who Gets It? #shorts",
      "channel": "",
-     "views": 2,
+     "views": 19,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aaL-OF9_hWg",
+     "url": "https://www.youtube.com/shorts/aaL-OF9_hWg",
+     "title": "Claude Can Read Your Bank Account Now 💰 Personal Finance Beta #Shorts",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5w_kv27-_1c",
+     "url": "https://www.youtube.com/shorts/5w_kv27-_1c",
+     "title": "Claude Can Now Read Your Bank Accounts: Personal Finance in Claude Explained",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-05T18:50:13.805Z"
+   "searched_at": "2026-11-06T01:12:49.811Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -268,7 +348,7 @@
      "url": "https://www.youtube.com/shorts/UNtR-mBnAnQ",
      "title": "ElevenLabs Allows AI Music Publishing on SoundCloud 🎶",
      "channel": "",
-     "views": 4,
+     "views": 11,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -280,7 +360,7 @@
      "url": "https://www.youtube.com/shorts/yqgat2-vx74",
      "title": "AI Music is taking over SoundCloud! 🎵",
      "channel": "",
-     "views": 0,
+     "views": 3,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -290,7 +370,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T19:09:01.074Z"
+   "searched_at": "2026-11-06T01:12:53.229Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -764,114 +844,108 @@
    "searched_at": "2026-11-05T22:49:35.702Z"
   },
   {
-   "first_seen": "2026-11-05T14:12:50.437Z",
-   "id": "39633187",
+   "first_seen": "2026-11-06T01:12:34.954Z",
+   "id": "39645734",
    "ids": [
-    "39633187",
-    "39633179",
-    "39622961"
+    "39645734",
+    "39642001"
    ],
-   "title": "Claude Code’s product lead Cat Wu leaves Anthropic to join OpenAI",
-   "url": "https://thenextweb.com/news/cat-wu-claude-code-anthropic-openai-core-products",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-05 13:47:34",
-   "story_sources": 3,
-   "score_norm": 76,
+   "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+   "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+   "source_id": "in-marktechpost",
+   "published_ts": "2026-11-05 22:58:21",
+   "story_sources": 2,
+   "score_norm": 75,
    "related_news": [
     {
-     "source_id": "eu-the-decoder",
-     "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
-     "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Cat Wu joins OpenAI from Anthropic in product-lead coup",
-     "url": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11"
+     "source_id": "eu-tnw",
+     "title": "Google’s Gemini Omni 1.2 Flash makes 15-second AI videos for less",
+     "url": "https://thenextweb.com/news/google-gemini-omni-1-2-flash-video-15-seconds-price-cut"
     }
    ],
    "queries": [
-    "Claude Code’s",
-    "claude code cat wu"
+    "Google Releases Gemini Omni 1.2 Flash",
+    "google releases gemini omni"
    ],
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7-CJjGzZ-ns",
+     "url": "https://www.youtube.com/watch?v=7-CJjGzZ-ns",
+     "title": "[AI News] Google Releases Gemini Omni 1.2 Flash; Docomo Leaks Up to 300,000 | 2026.11.06 | No.243",
+     "channel": "AI&Tech放送局【毎朝のAIニュース】",
+     "views": 127,
+     "age_hours": 2,
+     "relevance": 0.58,
+     "velocity": 64
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iZI2yHERihI",
+     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
+     "title": "Gemini Omni 1.2 Flash, Clearly Explained: Google's 15-Second AI Video Model",
+     "channel": "Simply AI",
+     "views": 125,
+     "age_hours": 2,
+     "relevance": 0.73,
+     "velocity": 63
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:VvuRG_nfvnA",
-     "url": "https://www.youtube.com/shorts/VvuRG_nfvnA",
-     "title": "How Anthropic Reviews Claude's Code",
+     "id": "youtube:zjNTWXzvubg",
+     "url": "https://www.youtube.com/shorts/zjNTWXzvubg",
+     "title": "No Drone Flew This: Google Gemini Omni 1.2 Flash #Shorts",
      "channel": "",
-     "views": 8900,
+     "views": 1100,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.56,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:ekL4w3HjzUo",
-     "url": "https://www.youtube.com/watch?v=ekL4w3HjzUo",
-     "title": "Anthropic Is Quietly Restricting Claude Code",
-     "channel": "Travis Automates",
-     "views": 3320,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 138
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:HY7WAeczwgA",
-     "url": "https://www.youtube.com/shorts/HY7WAeczwgA",
-     "title": "Steal this for Claude Code: frontend-design",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
+     "id": "youtube:oZZ9vqzyDkc",
+     "url": "https://www.youtube.com/watch?v=oZZ9vqzyDkc",
+     "title": "Google Launches Gemini Omni 1.2 Flash: Edit Videos with AI via Chat (Real Test)",
+     "channel": "IA Next",
+     "views": 53,
+     "age_hours": 2,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 27
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WofG3O77q0U",
-     "url": "https://www.youtube.com/shorts/WofG3O77q0U",
-     "title": "Claude Code Leader Cat Wu Exits Anthropic | Artificial Intelligence News",
-     "channel": "",
-     "views": 44,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:YdQYHC_wJrg",
+     "url": "https://www.youtube.com/watch?v=YdQYHC_wJrg",
+     "title": "Gemini Omni 1.2 Flash Announced: Up to 15s Video Generation and More [Creative AI Digest No.234 1...",
+     "channel": "CHIHIRO",
+     "views": 16,
+     "age_hours": 5,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 3
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:X_DOyPB3QmA",
-     "url": "https://www.youtube.com/shorts/X_DOyPB3QmA",
-     "title": "Claude wrote over 90% of Anthropic's new code",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:prZou6I76N0",
-     "url": "https://www.youtube.com/shorts/prZou6I76N0",
-     "title": "Claude Code's Product Chief Reportedly Joins OpenAI #shorts",
-     "channel": "",
+     "kind": "видео",
+     "id": "youtube:K8Sndi9jFt8",
+     "url": "https://www.youtube.com/watch?v=K8Sndi9jFt8",
+     "title": "Google Launches Gemini Omni 1.2 Flash with 15-Second Video Generation and 30% Price Cut",
+     "channel": "Undeniable Progress Super Intelligence ",
      "views": 10,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "age_hours": 4,
+     "relevance": 0.58,
+     "velocity": 3
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T20:22:19.324Z"
+   "searched_at": "2026-11-06T01:13:00.521Z"
   },
   {
    "first_seen": "2026-11-06T00:48:18.145Z",
@@ -885,7 +959,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-05 09:00:00",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "hn",
@@ -1278,6 +1352,111 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T06:40:41.623Z"
+  },
+  {
+   "first_seen": "2026-11-05T14:12:50.437Z",
+   "id": "39633187",
+   "ids": [
+    "39633187",
+    "39633179",
+    "39622961"
+   ],
+   "title": "Claude Code’s product lead Cat Wu leaves Anthropic to join OpenAI",
+   "url": "https://thenextweb.com/news/cat-wu-claude-code-anthropic-openai-core-products",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-05 13:47:34",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "eu-the-decoder",
+     "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+     "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/"
+    }
+   ],
+   "queries": [
+    "Claude Code’s",
+    "claude code cat wu"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VvuRG_nfvnA",
+     "url": "https://www.youtube.com/shorts/VvuRG_nfvnA",
+     "title": "How Anthropic Reviews Claude's Code",
+     "channel": "",
+     "views": 8900,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ekL4w3HjzUo",
+     "url": "https://www.youtube.com/watch?v=ekL4w3HjzUo",
+     "title": "Anthropic Is Quietly Restricting Claude Code",
+     "channel": "Travis Automates",
+     "views": 3320,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 138
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HY7WAeczwgA",
+     "url": "https://www.youtube.com/shorts/HY7WAeczwgA",
+     "title": "Steal this for Claude Code: frontend-design",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WofG3O77q0U",
+     "url": "https://www.youtube.com/shorts/WofG3O77q0U",
+     "title": "Claude Code Leader Cat Wu Exits Anthropic | Artificial Intelligence News",
+     "channel": "",
+     "views": 44,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:X_DOyPB3QmA",
+     "url": "https://www.youtube.com/shorts/X_DOyPB3QmA",
+     "title": "Claude wrote over 90% of Anthropic's new code",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:prZou6I76N0",
+     "url": "https://www.youtube.com/shorts/prZou6I76N0",
+     "title": "Claude Code's Product Chief Reportedly Joins OpenAI #shorts",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T20:22:19.324Z"
   },
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
