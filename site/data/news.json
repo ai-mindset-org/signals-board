@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T12:36:34.846Z",
+ "generated_at": "2026-11-06T12:50:06.721Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -10,8 +10,7 @@
  "search_report": [
   {
    "source": "youtube: 350m Tigris Data",
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true
   },
   {
    "source": "tiktok: 350m Tigris Data",
@@ -19,8 +18,7 @@
   },
   {
    "source": "youtube: dropbox 350m tigris data",
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true
   },
   {
    "source": "tiktok: dropbox 350m tigris data",
@@ -523,7 +521,90 @@
      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
     }
-   ]
+   ],
+   "queries": [
+    "350m Tigris Data",
+    "dropbox 350m tigris data"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ypwmsE8VrQ4",
+     "url": "https://www.youtube.com/watch?v=ypwmsE8VrQ4",
+     "title": "Dropbox、Tigris Dataを5億ドルで買収しAI強化【もちもちエンジニアトピックス】",
+     "channel": "もちもちトピックス",
+     "views": 419,
+     "age_hours": 14,
+     "relevance": 0.5,
+     "velocity": 30
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mIUmSYV4hJQ",
+     "url": "https://www.youtube.com/shorts/mIUmSYV4hJQ",
+     "title": "Dropbox's $350M Tigris deal is its biggest acquisition ever",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:53_9hAFYpsM",
+     "url": "https://www.youtube.com/shorts/53_9hAFYpsM",
+     "title": "Dropbox Agrees to $350M Tigris Deal for AI Storage",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iteqvojsY2g",
+     "url": "https://www.youtube.com/shorts/iteqvojsY2g",
+     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mHjH1xaRbqc",
+     "url": "https://www.youtube.com/shorts/mHjH1xaRbqc",
+     "title": "Dropbox Acquires Tigris Data #Shorts",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gzGY1rZmbkk",
+     "url": "https://www.youtube.com/shorts/gzGY1rZmbkk",
+     "title": "Dropbox Buys Tigris Data for $350M #Shorts #Dropbox #AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T12:50:14.347Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -1156,7 +1237,7 @@
    "source_id": "africa-cioafrica",
    "published_ts": "2026-11-06 08:10:08",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "eu-tnw",
