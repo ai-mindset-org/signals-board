@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T11:10:44.690Z",
+ "generated_at": "2026-11-06T12:16:53.791Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,43 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai 948 linux finds",
+   "source": "youtube: Found 81 Firefox Flaws",
    "ok": true
   },
   {
-   "source": "tiktok: openai 948 linux finds",
+   "source": "tiktok: Found 81 Firefox Flaws",
    "ok": true
   },
   {
-   "source": "youtube: GPT-6 Cyber",
+   "source": "youtube: openai cyber found 81",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-6 Cyber",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai gpt-6 cyber launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai gpt-6 cyber launches",
-   "ok": true
-  },
-  {
-   "source": "youtube: Gemini Omni 1.2 Flash",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini Omni 1.2 Flash",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini omni 1.2 flash",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini omni 1.2 flash",
+   "source": "tiktok: openai cyber found 81",
    "ok": true
   }
  ],
@@ -258,6 +234,110 @@
    "searched_at": "2026-11-06T07:23:25.578Z"
   },
   {
+   "first_seen": "2026-11-05T18:49:58.511Z",
+   "id": "39639592",
+   "ids": [
+    "39639592",
+    "39639222"
+   ],
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-05 18:00:00",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Claude's new Personal Finance tool aims to help analyze your spending",
+     "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/"
+    }
+   ],
+   "queries": [
+    "Personal Finance",
+    "claude personal finance can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:UTubvRLX2j4",
+     "url": "https://www.youtube.com/watch?v=UTubvRLX2j4",
+     "title": "Introducing Personal Finance in Claude",
+     "channel": "Claude",
+     "views": 213742,
+     "age_hours": 13,
+     "relevance": 0.75,
+     "velocity": 16442
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lX61uHPPpzM",
+     "url": "https://www.youtube.com/shorts/lX61uHPPpzM",
+     "title": "Anthropic to roll out Claude’s Personal Finance tool #anthropic #ai",
+     "channel": "",
+     "views": 295,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mHRfmgvx8gU",
+     "url": "https://www.youtube.com/watch?v=mHRfmgvx8gU",
+     "title": "Claude Personal Finance: What It Sees When You Connect Your Bank",
+     "channel": "SimplyExplain",
+     "views": 4,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sKUrASfSdHM",
+     "url": "https://www.youtube.com/shorts/sKUrASfSdHM",
+     "title": "Claude Introduces Personal Finance Tool for Spending Analysis 💰",
+     "channel": "",
+     "views": 141,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Lr9iPZx_2kg",
+     "url": "https://www.youtube.com/shorts/Lr9iPZx_2kg",
+     "title": "Claude can now read your bank account. Anthropic's Personal Finance beta is read-only, US only",
+     "channel": "",
+     "views": 55,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0wmWcwBi6w8",
+     "url": "https://www.youtube.com/watch?v=0wmWcwBi6w8",
+     "title": "Claude Personal Finance Beta: Check Bill Changes & Spending (US Paid Plans)",
+     "channel": "The Edge Engine",
+     "views": 8,
+     "age_hours": 11,
+     "relevance": 0.57,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-06T07:23:32.527Z"
+  },
+  {
    "first_seen": "2026-11-04T00:29:28.437Z",
    "id": "39598940",
    "ids": [
@@ -299,6 +379,128 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T12:50:08.322Z"
+  },
+  {
+   "first_seen": "2026-11-06T10:49:52.000Z",
+   "id": "39653118",
+   "ids": [
+    "39653118",
+    "39647556"
+   ],
+   "title": "DeepSeek plans official plugin marketplace as Harness daily users reach 1.54 million",
+   "url": "https://technode.com/2026/11/06/deepseek-plans-official-plugin-marketplace-as-harness-daily-users-reach-1-54-million/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-06 07:48:25",
+   "story_sources": 2,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "cn-pandaily",
+     "title": "DeepSeek Harness Reaches 1.54 Million Daily Users and Plans an Official Plugin Marketplace",
+     "url": "https://pandaily.com/deepseek-harness-1-54-million-daily-active-users-official-plugin-marketplace"
+    }
+   ],
+   "queries": [
+    "deepseek harness 1.54 plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:C4ez8AzkwCc",
+     "url": "https://www.youtube.com/shorts/C4ez8AzkwCc",
+     "title": "DeepSeek Harness: Everything Is a Plugin #shorts",
+     "channel": "",
+     "views": 125,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uV8MKqyEDzQ",
+     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
+     "title": "DeepSeek Harness: everything-is-a-plugin",
+     "channel": "",
+     "views": 42,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T10:49:56.078Z"
+  },
+  {
+   "first_seen": "2026-11-05T19:08:56.770Z",
+   "id": "39636303",
+   "ids": [
+    "39636303",
+    "39639840"
+   ],
+   "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+   "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-05 15:00:00",
+   "story_sources": 2,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "SoundCloud lets ElevenMusic users publish AI-made songs directly",
+     "url": "https://thenextweb.com/news/soundcloud-elevenmusic-ai-songs-direct-publishing"
+    }
+   ],
+   "queries": [
+    "elevenlabs ai-generated soundcloud lets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:UNtR-mBnAnQ",
+     "url": "https://www.youtube.com/shorts/UNtR-mBnAnQ",
+     "title": "ElevenLabs Allows AI Music Publishing on SoundCloud 🎶",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yqgat2-vx74",
+     "url": "https://www.youtube.com/shorts/yqgat2-vx74",
+     "title": "AI Music is taking over SoundCloud! 🎵",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XGgZKdkJjGM",
+     "url": "https://www.youtube.com/shorts/XGgZKdkJjGM",
+     "title": "SoundCloud Now Publishes ElevenLabs AI Music Directly #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T07:23:35.938Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -668,356 +870,6 @@
    "searched_at": "2026-11-03T22:50:05.900Z"
   },
   {
-   "first_seen": "2026-11-05T18:49:58.511Z",
-   "id": "39639592",
-   "ids": [
-    "39639592",
-    "39639222"
-   ],
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-05 18:00:00",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Claude's new Personal Finance tool aims to help analyze your spending",
-     "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/"
-    }
-   ],
-   "queries": [
-    "Personal Finance",
-    "claude personal finance can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:UTubvRLX2j4",
-     "url": "https://www.youtube.com/watch?v=UTubvRLX2j4",
-     "title": "Introducing Personal Finance in Claude",
-     "channel": "Claude",
-     "views": 213742,
-     "age_hours": 13,
-     "relevance": 0.75,
-     "velocity": 16442
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lX61uHPPpzM",
-     "url": "https://www.youtube.com/shorts/lX61uHPPpzM",
-     "title": "Anthropic to roll out Claude’s Personal Finance tool #anthropic #ai",
-     "channel": "",
-     "views": 295,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mHRfmgvx8gU",
-     "url": "https://www.youtube.com/watch?v=mHRfmgvx8gU",
-     "title": "Claude Personal Finance: What It Sees When You Connect Your Bank",
-     "channel": "SimplyExplain",
-     "views": 4,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sKUrASfSdHM",
-     "url": "https://www.youtube.com/shorts/sKUrASfSdHM",
-     "title": "Claude Introduces Personal Finance Tool for Spending Analysis 💰",
-     "channel": "",
-     "views": 141,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Lr9iPZx_2kg",
-     "url": "https://www.youtube.com/shorts/Lr9iPZx_2kg",
-     "title": "Claude can now read your bank account. Anthropic's Personal Finance beta is read-only, US only",
-     "channel": "",
-     "views": 55,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0wmWcwBi6w8",
-     "url": "https://www.youtube.com/watch?v=0wmWcwBi6w8",
-     "title": "Claude Personal Finance Beta: Check Bill Changes & Spending (US Paid Plans)",
-     "channel": "The Edge Engine",
-     "views": 8,
-     "age_hours": 11,
-     "relevance": 0.57,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-06T07:23:32.527Z"
-  },
-  {
-   "first_seen": "2026-11-06T00:48:18.145Z",
-   "id": "39645497",
-   "ids": [
-    "39645497",
-    "39637403"
-   ],
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-05 09:00:00",
-   "story_sources": 2,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-     "url": "https://openai.com/index/introducing-gpt-6-cyber/"
-    }
-   ],
-   "queries": [
-    "GPT‑6 Cyber",
-    "gpt cyber advancing frontier"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:O4HbUi3gSRM",
-     "url": "https://www.youtube.com/shorts/O4HbUi3gSRM",
-     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersec? what the demo hides #shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T06:50:07.051Z"
-  },
-  {
-   "first_seen": "2026-11-06T10:49:52.000Z",
-   "id": "39653118",
-   "ids": [
-    "39653118",
-    "39647556"
-   ],
-   "title": "DeepSeek plans official plugin marketplace as Harness daily users reach 1.54 million",
-   "url": "https://technode.com/2026/11/06/deepseek-plans-official-plugin-marketplace-as-harness-daily-users-reach-1-54-million/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-06 07:48:25",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "DeepSeek Harness Reaches 1.54 Million Daily Users and Plans an Official Plugin Marketplace",
-     "url": "https://pandaily.com/deepseek-harness-1-54-million-daily-active-users-official-plugin-marketplace"
-    }
-   ],
-   "queries": [
-    "deepseek harness 1.54 plans"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:C4ez8AzkwCc",
-     "url": "https://www.youtube.com/shorts/C4ez8AzkwCc",
-     "title": "DeepSeek Harness: Everything Is a Plugin #shorts",
-     "channel": "",
-     "views": 125,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uV8MKqyEDzQ",
-     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
-     "title": "DeepSeek Harness: everything-is-a-plugin",
-     "channel": "",
-     "views": 42,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T10:49:56.078Z"
-  },
-  {
-   "first_seen": "2026-11-05T19:08:56.770Z",
-   "id": "39636303",
-   "ids": [
-    "39636303",
-    "39639840"
-   ],
-   "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-   "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-05 15:00:00",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "SoundCloud lets ElevenMusic users publish AI-made songs directly",
-     "url": "https://thenextweb.com/news/soundcloud-elevenmusic-ai-songs-direct-publishing"
-    }
-   ],
-   "queries": [
-    "elevenlabs ai-generated soundcloud lets"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:UNtR-mBnAnQ",
-     "url": "https://www.youtube.com/shorts/UNtR-mBnAnQ",
-     "title": "ElevenLabs Allows AI Music Publishing on SoundCloud 🎶",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yqgat2-vx74",
-     "url": "https://www.youtube.com/shorts/yqgat2-vx74",
-     "title": "AI Music is taking over SoundCloud! 🎵",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XGgZKdkJjGM",
-     "url": "https://www.youtube.com/shorts/XGgZKdkJjGM",
-     "title": "SoundCloud Now Publishes ElevenLabs AI Music Directly #shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T07:23:35.938Z"
-  },
-  {
-   "first_seen": "2026-11-04T10:24:47.094Z",
-   "id": "39606974",
-   "ids": [
-    "39606974",
-    "39601179"
-   ],
-   "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
-   "url": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-04 04:50:50",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
-     "url": "https://www.thehindubusinessline.com/info-tech/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663692.ece"
-    }
-   ],
-   "queries": [
-    "IndiaAI Mission",
-    "indiaai mission eka-1 dhīr"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Phzdrxbi7V4",
-     "url": "https://www.youtube.com/watch?v=Phzdrxbi7V4",
-     "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission | 04 November 2026",
-     "channel": "NEWS ON AIR OFFICIAL",
-     "views": 1662,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 128
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:F8lEM6pkcYU",
-     "url": "https://www.youtube.com/watch?v=F8lEM6pkcYU",
-     "title": "India ದ 3 ಹೊಸ AI Models: ಎಷ್ಟು ಚೆನ್ನಾಗಿವೆ? | India's 3 New AI Models: EKA-1 and Dhīr",
-     "channel": "AI with Kornaya | ಯಂತ್ರಬುದ್ಧಿ",
-     "views": 4,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bdtl_DLbwjs",
-     "url": "https://www.youtube.com/shorts/bdtl_DLbwjs",
-     "title": "🇮🇳 India's Indigenous AI Models 2026 | EKA-1, Dhīr 2B & Dhīr 5B | UPSC Current Affairs#upsc",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zGpWbDfnb4E",
-     "url": "https://www.youtube.com/shorts/zGpWbDfnb4E",
-     "title": "IndiaAI Mission Launches Indigenous Foundation Models | UPSC GS2/GS3 #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T16:36:29.710Z"
-  },
-  {
    "first_seen": "2026-11-06T11:10:44.690Z",
    "id": "39649200",
    "ids": [
@@ -1029,7 +881,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-06 04:01:18",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -1133,7 +985,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-05 17:05:16",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -1224,6 +1076,338 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-06T11:11:03.713Z"
+  },
+  {
+   "first_seen": "2026-11-06T00:48:18.145Z",
+   "id": "39645497",
+   "ids": [
+    "39645497",
+    "39637403"
+   ],
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-05 09:00:00",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+     "url": "https://openai.com/index/introducing-gpt-6-cyber/"
+    }
+   ],
+   "queries": [
+    "GPT‑6 Cyber",
+    "gpt cyber advancing frontier"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:O4HbUi3gSRM",
+     "url": "https://www.youtube.com/shorts/O4HbUi3gSRM",
+     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersec? what the demo hides #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T06:50:07.051Z"
+  },
+  {
+   "first_seen": "2026-11-06T12:16:53.791Z",
+   "id": "39654592",
+   "ids": [
+    "39654592",
+    "39638845"
+   ],
+   "title": "OpenAI’s New Cyber Model Found 81 Firefox Flaws",
+   "url": "https://cioafrica.co/openais-new-cyber-model-found-81-firefox-flaws/",
+   "source_id": "africa-cioafrica",
+   "published_ts": "2026-11-06 08:10:08",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’",
+     "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red"
+    }
+   ],
+   "queries": [
+    "Found 81 Firefox Flaws",
+    "openai cyber found 81"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9AdXLYwJAQA",
+     "url": "https://www.youtube.com/shorts/9AdXLYwJAQA",
+     "title": "GPT-6 Cyber Found 81 Firefox Bugs… Devs: 💀 #gpt6  #cybersecurity  #openai  #codingmemes  #shorts",
+     "channel": "",
+     "views": 511,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yqSx4csop6Q",
+     "url": "https://www.youtube.com/watch?v=yqSx4csop6Q",
+     "title": "OpenAI Launches GPT-6 Cyber: AI Model Finds 81 Firefox Security Flaws | NewsX",
+     "channel": "NewsX Live",
+     "views": 28,
+     "age_hours": 5,
+     "relevance": 0.86,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Uj91TtfsOpY",
+     "url": "https://www.youtube.com/shorts/Uj91TtfsOpY",
+     "title": "AI Found 81 Hidden Firefox Security Flaws",
+     "channel": "",
+     "views": 136,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f1QD7tNjByA",
+     "url": "https://www.youtube.com/shorts/f1QD7tNjByA",
+     "title": "OpenAI's new AI found 81 Firefox security holes",
+     "channel": "",
+     "views": 44,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nE6njolYbT8",
+     "url": "https://www.youtube.com/shorts/nE6njolYbT8",
+     "title": "GPT-6 Cyber: From Firefox Flaws to Fixes",
+     "channel": "",
+     "views": 31,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rRMs641Q-mg",
+     "url": "https://www.youtube.com/shorts/rRMs641Q-mg",
+     "title": "OpenAI GPT-6 Cyber rated Critical: 948 Linux exploits, 81 Firefox bugs",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T12:17:01.308Z"
+  },
+  {
+   "first_seen": "2026-11-06T01:12:34.954Z",
+   "id": "39645734",
+   "ids": [
+    "39645734",
+    "39642001"
+   ],
+   "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+   "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+   "source_id": "in-marktechpost",
+   "published_ts": "2026-11-05 22:58:21",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Google’s Gemini Omni 1.2 Flash makes 15-second AI videos for less",
+     "url": "https://thenextweb.com/news/google-gemini-omni-1-2-flash-video-15-seconds-price-cut"
+    }
+   ],
+   "queries": [
+    "Google Releases Gemini Omni 1.2 Flash",
+    "google releases gemini omni"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WqkQdsdcBOM",
+     "url": "https://www.youtube.com/watch?v=WqkQdsdcBOM",
+     "title": "🚨URGENT! GOOGLE RELEASED NEW FREE VIDEO AI! (OMNI 1.2 Flash)",
+     "channel": "Jornada Digital",
+     "views": 6344,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 793
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:aZ4ISFax7z8",
+     "url": "https://www.youtube.com/watch?v=aZ4ISFax7z8",
+     "title": "Google 发布 Gemini Omni 1.2 Flash【AI 早报 2026-11-06】",
+     "channel": "橘鸦Juya",
+     "views": 776,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 155
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iZI2yHERihI",
+     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
+     "title": "Gemini Omni 1.2 Flash: 15-Second AI Videos for About a Dollar",
+     "channel": "Simply AI",
+     "views": 966,
+     "age_hours": 9,
+     "relevance": 0.75,
+     "velocity": 107
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:oZZ9vqzyDkc",
+     "url": "https://www.youtube.com/watch?v=oZZ9vqzyDkc",
+     "title": "Google Launches Gemini Omni 1.2 Flash: Edit Videos with AI via Chat (Real Test)",
+     "channel": "IA Next",
+     "views": 752,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 94
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7-CJjGzZ-ns",
+     "url": "https://www.youtube.com/watch?v=7-CJjGzZ-ns",
+     "title": "[AI News] Google Releases Gemini Omni 1.2 Flash; Docomo Leaks Up to 300,000 | 2026.11.06 | No.243",
+     "channel": "AI&Tech放送局【毎朝のAIニュース】",
+     "views": 596,
+     "age_hours": 8,
+     "relevance": 0.58,
+     "velocity": 75
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zjNTWXzvubg",
+     "url": "https://www.youtube.com/shorts/zjNTWXzvubg",
+     "title": "No Drone Flew This: Google Gemini Omni 1.2 Flash #Shorts",
+     "channel": "",
+     "views": 1300,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T07:23:42.926Z"
+  },
+  {
+   "first_seen": "2026-11-04T10:24:47.094Z",
+   "id": "39606974",
+   "ids": [
+    "39606974",
+    "39601179"
+   ],
+   "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
+   "url": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-04 04:50:50",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
+     "url": "https://www.thehindubusinessline.com/info-tech/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663692.ece"
+    }
+   ],
+   "queries": [
+    "IndiaAI Mission",
+    "indiaai mission eka-1 dhīr"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Phzdrxbi7V4",
+     "url": "https://www.youtube.com/watch?v=Phzdrxbi7V4",
+     "title": "Govt launches 3 new indigenous AI foundation models under IndiaAI Mission | 04 November 2026",
+     "channel": "NEWS ON AIR OFFICIAL",
+     "views": 1662,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 128
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:F8lEM6pkcYU",
+     "url": "https://www.youtube.com/watch?v=F8lEM6pkcYU",
+     "title": "India ದ 3 ಹೊಸ AI Models: ಎಷ್ಟು ಚೆನ್ನಾಗಿವೆ? | India's 3 New AI Models: EKA-1 and Dhīr",
+     "channel": "AI with Kornaya | ಯಂತ್ರಬುದ್ಧಿ",
+     "views": 4,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bdtl_DLbwjs",
+     "url": "https://www.youtube.com/shorts/bdtl_DLbwjs",
+     "title": "🇮🇳 India's Indigenous AI Models 2026 | EKA-1, Dhīr 2B & Dhīr 5B | UPSC Current Affairs#upsc",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zGpWbDfnb4E",
+     "url": "https://www.youtube.com/shorts/zGpWbDfnb4E",
+     "title": "IndiaAI Mission Launches Indigenous Foundation Models | UPSC GS2/GS3 #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-04T16:36:29.710Z"
   },
   {
    "first_seen": "2026-11-04T11:23:08.532Z",
@@ -1402,110 +1586,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T20:50:15.106Z"
-  },
-  {
-   "first_seen": "2026-11-06T01:12:34.954Z",
-   "id": "39645734",
-   "ids": [
-    "39645734",
-    "39642001"
-   ],
-   "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-   "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-   "source_id": "in-marktechpost",
-   "published_ts": "2026-11-05 22:58:21",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google’s Gemini Omni 1.2 Flash makes 15-second AI videos for less",
-     "url": "https://thenextweb.com/news/google-gemini-omni-1-2-flash-video-15-seconds-price-cut"
-    }
-   ],
-   "queries": [
-    "Google Releases Gemini Omni 1.2 Flash",
-    "google releases gemini omni"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WqkQdsdcBOM",
-     "url": "https://www.youtube.com/watch?v=WqkQdsdcBOM",
-     "title": "🚨URGENT! GOOGLE RELEASED NEW FREE VIDEO AI! (OMNI 1.2 Flash)",
-     "channel": "Jornada Digital",
-     "views": 6344,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 793
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:aZ4ISFax7z8",
-     "url": "https://www.youtube.com/watch?v=aZ4ISFax7z8",
-     "title": "Google 发布 Gemini Omni 1.2 Flash【AI 早报 2026-11-06】",
-     "channel": "橘鸦Juya",
-     "views": 776,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 155
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:iZI2yHERihI",
-     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
-     "title": "Gemini Omni 1.2 Flash: 15-Second AI Videos for About a Dollar",
-     "channel": "Simply AI",
-     "views": 966,
-     "age_hours": 9,
-     "relevance": 0.75,
-     "velocity": 107
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:oZZ9vqzyDkc",
-     "url": "https://www.youtube.com/watch?v=oZZ9vqzyDkc",
-     "title": "Google Launches Gemini Omni 1.2 Flash: Edit Videos with AI via Chat (Real Test)",
-     "channel": "IA Next",
-     "views": 752,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 94
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7-CJjGzZ-ns",
-     "url": "https://www.youtube.com/watch?v=7-CJjGzZ-ns",
-     "title": "[AI News] Google Releases Gemini Omni 1.2 Flash; Docomo Leaks Up to 300,000 | 2026.11.06 | No.243",
-     "channel": "AI&Tech放送局【毎朝のAIニュース】",
-     "views": 596,
-     "age_hours": 8,
-     "relevance": 0.58,
-     "velocity": 75
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zjNTWXzvubg",
-     "url": "https://www.youtube.com/shorts/zjNTWXzvubg",
-     "title": "No Drone Flew This: Google Gemini Omni 1.2 Flash #Shorts",
-     "channel": "",
-     "views": 1300,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T07:23:42.926Z"
   },
   {
    "first_seen": "2026-11-05T14:12:50.437Z",
