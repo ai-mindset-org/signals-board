@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T07:23:17.951Z",
+ "generated_at": "2026-11-06T08:50:06.205Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,64 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Greg Brockman",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Greg Brockman",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai greg brockman ipo",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai greg brockman ipo",
-   "ok": true
-  },
-  {
-   "source": "youtube: Personal Finance",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Personal Finance",
-   "ok": true
-  },
-  {
-   "source": "youtube: claude personal finance can",
-   "ok": true
-  },
-  {
-   "source": "tiktok: claude personal finance can",
-   "ok": true
-  },
-  {
-   "source": "youtube: elevenlabs ai-generated soundcloud lets",
-   "ok": true
-  },
-  {
-   "source": "tiktok: elevenlabs ai-generated soundcloud lets",
-   "ok": true
-  },
-  {
-   "source": "youtube: Google Releases Gemini Omni 1.2 Flash",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Google Releases Gemini Omni 1.2 Flash",
-   "ok": true
-  },
-  {
-   "source": "youtube: google releases gemini omni",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google releases gemini omni",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -867,7 +810,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-05 09:00:00",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "hn",
@@ -911,7 +854,7 @@
    "source_id": "in-marktechpost",
    "published_ts": "2026-11-05 22:58:21",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -2082,36 +2025,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T15:50:10.248Z"
-  },
-  {
-   "first_seen": "2026-11-03T12:50:01.589Z",
-   "id": "39582658",
-   "ids": [
-    "39582658",
-    "39585984"
-   ],
-   "title": "Pick n Pay turns to AI to speed up online orders",
-   "url": "https://techcentral.co.za/pick-n-pay-turns-to-ai-to-speed-up-online-orders/287992/",
-   "source_id": "za-techcentral",
-   "published_ts": "2026-11-03 08:41:57",
-   "story_sources": 2,
-   "score_norm": 46,
-   "related_news": [
-    {
-     "source_id": "africa-itweb",
-     "title": "Pick n Pay targets faster online orders with AI",
-     "url": "https://www.itweb.co.za/article/pick-n-pay-targets-faster-online-orders-with-ai/KBpdg7pmwG5MLEew"
-    }
-   ],
-   "queries": [
-    "pick pay turns ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T18:50:10.923Z"
   },
   {
    "first_seen": "2026-11-03T12:36:55.454Z",
