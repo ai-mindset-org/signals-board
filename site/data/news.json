@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T20:36:38.688Z",
+ "generated_at": "2026-11-06T21:35:35.321Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Wind Down Cybertruck Production",
+   "source": "youtube: Anthropic’s IPO Is Cratering",
    "ok": true
   },
   {
-   "source": "tiktok: Wind Down Cybertruck Production",
+   "source": "tiktok: Anthropic’s IPO Is Cratering",
    "ok": true
   },
   {
-   "source": "youtube: tesla wind down cybertruck",
+   "source": "youtube: anthropic ipo cratering",
    "ok": true
   },
   {
-   "source": "tiktok: tesla wind down cybertruck",
+   "source": "tiktok: anthropic ipo cratering",
    "ok": true
   }
  ],
@@ -428,7 +428,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-05 22:26:50",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "hn",
@@ -494,6 +494,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T18:15:00.413Z"
+  },
+  {
+   "first_seen": "2026-11-06T21:35:35.321Z",
+   "id": "39665514",
+   "ids": [
+    "39665514",
+    "39647322"
+   ],
+   "title": "Anthropic’s IPO Is Cratering",
+   "url": "https://futurism.com/artificial-intelligence/anthropics-ipo-cratering",
+   "source_id": "futurism-ai",
+   "published_ts": "2026-11-06 18:46:11",
+   "story_sources": 2,
+   "score_norm": 87,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "About That Anthropic IPO",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/about-that-anthropic-ipo--HxROC02eSczLj6ht0MJz"
+    }
+   ],
+   "queries": [
+    "Anthropic’s IPO Is Cratering",
+    "anthropic ipo cratering"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6u9uZWtlUg8",
+     "url": "https://www.youtube.com/watch?v=6u9uZWtlUg8",
+     "title": "Dan Ives Sees Anthropic IPO Facing Valuation Pressure",
+     "channel": "Bloomberg Television",
+     "views": 49677,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 690
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BZ76M7FSLVM",
+     "url": "https://www.youtube.com/watch?v=BZ76M7FSLVM",
+     "title": "Anthropic IPO: The Scam Of The Century",
+     "channel": "The Maverick of Wall Street",
+     "views": 28869,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 401
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:u1N0ECln7N0",
+     "url": "https://www.youtube.com/watch?v=u1N0ECln7N0",
+     "title": "Is Anthropic's $895-Billion IPO A Bubble Waiting to Burst? | Vantage on Firstpost",
+     "channel": "Firstpost",
+     "views": 19865,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 276
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4-wDpDW6XUw",
+     "url": "https://www.youtube.com/shorts/4-wDpDW6XUw",
+     "title": "Anthropic Hit $17 Billion In Q3Revenue Ahead Of IPO—But AI Spending Commitments Hit $900 Billion",
+     "channel": "",
+     "views": 6500,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zzjg2r_FHGE",
+     "url": "https://www.youtube.com/watch?v=zzjg2r_FHGE",
+     "title": "Anthropic's IPO will be a positive catalyst for tech, says New York Angels' Bob Peck",
+     "channel": "CNBC Television",
+     "views": 12237,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 170
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:n9KYgQ-IIKs",
+     "url": "https://www.youtube.com/watch?v=n9KYgQ-IIKs",
+     "title": "Anthropic Hit $17 Billion In Q3Revenue Ahead Of IPO—But AI Spending Commitments Hit $900 Billion",
+     "channel": "Forbes",
+     "views": 4947,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 69
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-06T21:35:43.193Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -1061,7 +1165,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-06 05:44:46",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "eu-lemonde-pixels",
@@ -1091,7 +1195,7 @@
    "source_id": "cn-technode",
    "published_ts": "2026-11-06 07:48:25",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "cn-pandaily",
