@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:36:10.068Z",
+ "generated_at": "2026-11-06T03:37:03.764Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Claude Code’s",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Claude Code’s",
-   "ok": true
-  },
-  {
-   "source": "youtube: claude code cat wu",
-   "ok": true
-  },
-  {
-   "source": "tiktok: claude code cat wu",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -711,7 +694,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-05 17:05:16",
    "story_sources": 2,
-   "score_norm": 82,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -815,7 +798,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-05 09:00:00",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "hn",
@@ -2269,49 +2252,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T13:11:34.237Z"
-  },
-  {
-   "first_seen": "2026-11-03T09:23:42.698Z",
-   "id": "39582817",
-   "ids": [
-    "39582817",
-    "39572401"
-   ],
-   "title": "Anthropic is racing to obtain the AI boom’s most vital resource",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-ai-boom-most-vital-resource-10948158/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-03 03:35:18",
-   "story_sources": 2,
-   "score_norm": 42,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic Is Racing to Obtain the A.I. Boom's Most Vital Resource",
-     "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html"
-    }
-   ],
-   "queries": [
-    "anthropic racing obtain ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dwJRz50owis",
-     "url": "https://www.youtube.com/shorts/dwJRz50owis",
-     "title": "Anthropic Says It’s Close to Self-Building AI",
-     "channel": "",
-     "views": 255,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-03T09:23:47.092Z"
   },
   {
    "first_seen": "2026-11-05T14:37:35.182Z",
