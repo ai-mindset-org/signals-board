@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T18:14:56.225Z",
+ "generated_at": "2026-11-06T19:20:23.944Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: perplexity launches own take",
+   "source": "youtube: Google Gemini Omni 1.2 Flash Adds 15-Second",
    "ok": true
   },
   {
-   "source": "tiktok: perplexity launches own take",
+   "source": "tiktok: Google Gemini Omni 1.2 Flash Adds 15-Second",
+   "ok": true
+  },
+  {
+   "source": "youtube: google gemini omni 1.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google gemini omni 1.2",
    "ok": true
   }
  ],
@@ -452,7 +460,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-05 22:26:50",
    "story_sources": 2,
-   "score_norm": 85,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "hn",
@@ -518,6 +526,111 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T18:15:00.413Z"
+  },
+  {
+   "first_seen": "2026-11-06T01:12:34.954Z",
+   "id": "39645734",
+   "ids": [
+    "39645734",
+    "39642001",
+    "39663074"
+   ],
+   "title": "Google Gemini Omni 1.2 Flash Adds 15-Second AI Videos, Cuts Generation Costs by 30%",
+   "url": "https://techgenyz.com/gemini-omni-1-2-flash-price-features-uses/",
+   "source_id": "in-techgenyz",
+   "published_ts": "2026-11-06 17:16:28",
+   "story_sources": 2,
+   "score_norm": 85,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Google’s Gemini Omni 1.2 Flash makes 15-second AI videos for less",
+     "url": "https://thenextweb.com/news/google-gemini-omni-1-2-flash-video-15-seconds-price-cut"
+    }
+   ],
+   "queries": [
+    "Google Gemini Omni 1.2 Flash Adds 15-Second",
+    "google gemini omni 1.2"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QKfWZkZgQFI",
+     "url": "https://www.youtube.com/watch?v=QKfWZkZgQFI",
+     "title": "😮 Gemini Omni 1.2 Flash: Is Google promising TOO MUCH?",
+     "channel": "Onde eu Clico",
+     "views": 3313,
+     "age_hours": 4,
+     "relevance": 0.63,
+     "velocity": 828
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iZI2yHERihI",
+     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
+     "title": "Gemini Omni 1.2 Flash, Clearly Explained: Google's 15-Second AI Video Model",
+     "channel": "Simply AI",
+     "views": 4593,
+     "age_hours": 21,
+     "relevance": 0.64,
+     "velocity": 219
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:juSmUWWaIO0",
+     "url": "https://www.youtube.com/watch?v=juSmUWWaIO0",
+     "title": "Google Gemini Omni 1.2 Flash Tested! INSANE 15-Second AI Videos… But Physics FAILS",
+     "channel": "AI WITH Rithesh",
+     "views": 2098,
+     "age_hours": 12,
+     "relevance": 0.67,
+     "velocity": 175
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QNr0z4hWKZ4",
+     "url": "https://www.youtube.com/watch?v=QNr0z4hWKZ4",
+     "title": "Gemini Omni 1.2 Flash vs Seedance 2.5 🤯 Google Is Finally Here!",
+     "channel": "Aivoxy",
+     "views": 1160,
+     "age_hours": 7,
+     "relevance": 0.5,
+     "velocity": 166
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ITZY2MeJ7EE",
+     "url": "https://www.youtube.com/watch?v=ITZY2MeJ7EE",
+     "title": "Google Just Launched Gemini Omni 1.2 Flash! 😱 (Omni 1.2 vs 1.1 Full Comparison)",
+     "channel": "Subhan Kaladi",
+     "views": 398,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 100
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:r_yn_RlNU9w",
+     "url": "https://www.youtube.com/watch?v=r_yn_RlNU9w",
+     "title": "Gemini Omni 1.2 Flash Is A Big AI Upgrade",
+     "channel": "Codedigipt",
+     "views": 964,
+     "age_hours": 12,
+     "relevance": 0.71,
+     "velocity": 80
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T19:20:32.178Z"
   },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
@@ -881,110 +994,6 @@
    "searched_at": "2026-11-06T13:36:37.709Z"
   },
   {
-   "first_seen": "2026-11-06T01:12:34.954Z",
-   "id": "39645734",
-   "ids": [
-    "39645734",
-    "39642001"
-   ],
-   "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-   "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-   "source_id": "in-marktechpost",
-   "published_ts": "2026-11-05 22:58:21",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google’s Gemini Omni 1.2 Flash makes 15-second AI videos for less",
-     "url": "https://thenextweb.com/news/google-gemini-omni-1-2-flash-video-15-seconds-price-cut"
-    }
-   ],
-   "queries": [
-    "Google Releases Gemini Omni 1.2 Flash",
-    "google releases gemini omni"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WqkQdsdcBOM",
-     "url": "https://www.youtube.com/watch?v=WqkQdsdcBOM",
-     "title": "🚨URGENT! GOOGLE RELEASED NEW FREE VIDEO AI! (OMNI 1.2 Flash)",
-     "channel": "Jornada Digital",
-     "views": 6344,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 793
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:aZ4ISFax7z8",
-     "url": "https://www.youtube.com/watch?v=aZ4ISFax7z8",
-     "title": "Google 发布 Gemini Omni 1.2 Flash【AI 早报 2026-11-06】",
-     "channel": "橘鸦Juya",
-     "views": 776,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 155
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:iZI2yHERihI",
-     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
-     "title": "Gemini Omni 1.2 Flash: 15-Second AI Videos for About a Dollar",
-     "channel": "Simply AI",
-     "views": 966,
-     "age_hours": 9,
-     "relevance": 0.75,
-     "velocity": 107
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:oZZ9vqzyDkc",
-     "url": "https://www.youtube.com/watch?v=oZZ9vqzyDkc",
-     "title": "Google Launches Gemini Omni 1.2 Flash: Edit Videos with AI via Chat (Real Test)",
-     "channel": "IA Next",
-     "views": 752,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 94
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7-CJjGzZ-ns",
-     "url": "https://www.youtube.com/watch?v=7-CJjGzZ-ns",
-     "title": "[AI News] Google Releases Gemini Omni 1.2 Flash; Docomo Leaks Up to 300,000 | 2026.11.06 | No.243",
-     "channel": "AI&Tech放送局【毎朝のAIニュース】",
-     "views": 596,
-     "age_hours": 8,
-     "relevance": 0.58,
-     "velocity": 75
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zjNTWXzvubg",
-     "url": "https://www.youtube.com/shorts/zjNTWXzvubg",
-     "title": "No Drone Flew This: Google Gemini Omni 1.2 Flash #Shorts",
-     "channel": "",
-     "views": 1300,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T07:23:42.926Z"
-  },
-  {
    "first_seen": "2026-11-04T10:24:47.094Z",
    "id": "39606974",
    "ids": [
@@ -1065,6 +1074,36 @@
    "searched_at": "2026-11-04T16:36:29.710Z"
   },
   {
+   "first_seen": "2026-11-06T16:23:00.438Z",
+   "id": "39649196",
+   "ids": [
+    "39649196",
+    "39659725"
+   ],
+   "title": "Google sued over suicide-related AI chats on school computer",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-06 05:44:46",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "eu-lemonde-pixels",
+     "title": "Google sued over suicide-related AI chats on school computer",
+     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
+    }
+   ],
+   "queries": [
+    "google sued suicide-related ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-06T16:23:04.631Z"
+  },
+  {
    "first_seen": "2026-11-06T10:49:52.000Z",
    "id": "39653118",
    "ids": [
@@ -1118,36 +1157,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T17:10:34.362Z"
-  },
-  {
-   "first_seen": "2026-11-06T16:23:00.438Z",
-   "id": "39649196",
-   "ids": [
-    "39649196",
-    "39659725"
-   ],
-   "title": "Google sued over suicide-related AI chats on school computer",
-   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-06 05:44:46",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-lemonde-pixels",
-     "title": "Google sued over suicide-related AI chats on school computer",
-     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
-    }
-   ],
-   "queries": [
-    "google sued suicide-related ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-06T16:23:04.631Z"
   },
   {
    "first_seen": "2026-11-05T19:08:56.770Z",
@@ -1307,6 +1316,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T17:36:21.454Z"
+  },
+  {
+   "first_seen": "2026-11-06T11:10:44.690Z",
+   "id": "39649200",
+   "ids": [
+    "39649200",
+    "39653732"
+   ],
+   "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
+   "url": "https://www.thehindu.com/sci-tech/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/article71672703.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-06 04:01:18",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "OpenAI launches GPT-6 Cyber with ‘Critical’ cybersecurity rating",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-10952870/"
+    }
+   ],
+   "queries": [
+    "GPT-6 Cyber",
+    "openai gpt-6 cyber launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yqSx4csop6Q",
+     "url": "https://www.youtube.com/watch?v=yqSx4csop6Q",
+     "title": "OpenAI Launches GPT-6 Cyber: AI Model Finds 81 Firefox Security Flaws | NewsX",
+     "channel": "NewsX Live",
+     "views": 118,
+     "age_hours": 10,
+     "relevance": 0.57,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Epdn9X-lqwM",
+     "url": "https://www.youtube.com/shorts/Epdn9X-lqwM",
+     "title": "GPT-6 Cyber Is Here: OpenAI's Flaw-Hunting AI Rated Critical",
+     "channel": "",
+     "views": 114,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lP6Zy7hlQGw",
+     "url": "https://www.youtube.com/shorts/lP6Zy7hlQGw",
+     "title": "OpenAI launched GPT-6 Cyber, but you can't use it",
+     "channel": "",
+     "views": 86,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uWbNFj13BeU",
+     "url": "https://www.youtube.com/shorts/uWbNFj13BeU",
+     "title": "OpenAI Launches GPT-6 Cyber: Rated \"Critical\" 🛡️ #shorts",
+     "channel": "",
+     "views": 84,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DE5bF2bQFpo",
+     "url": "https://www.youtube.com/watch?v=DE5bF2bQFpo",
+     "title": "OpenAI launches GPT-6 Cyber for gated offensive security… — and more by RuntimeWire (Nov 5th)",
+     "channel": "RuntimeWire",
+     "views": 29,
+     "age_hours": 15,
+     "relevance": 0.57,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5yMbJAsc_7k",
+     "url": "https://www.youtube.com/shorts/5yMbJAsc_7k",
+     "title": "GPT-6 Cyber: what changed for defenders?",
+     "channel": "",
+     "views": 57,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T17:21:03.906Z"
   },
   {
    "first_seen": "2026-11-05T22:49:28.125Z",
@@ -1515,110 +1628,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T12:50:14.347Z"
-  },
-  {
-   "first_seen": "2026-11-06T11:10:44.690Z",
-   "id": "39649200",
-   "ids": [
-    "39649200",
-    "39653732"
-   ],
-   "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
-   "url": "https://www.thehindu.com/sci-tech/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/article71672703.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-06 04:01:18",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "OpenAI launches GPT-6 Cyber with ‘Critical’ cybersecurity rating",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-10952870/"
-    }
-   ],
-   "queries": [
-    "GPT-6 Cyber",
-    "openai gpt-6 cyber launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yqSx4csop6Q",
-     "url": "https://www.youtube.com/watch?v=yqSx4csop6Q",
-     "title": "OpenAI Launches GPT-6 Cyber: AI Model Finds 81 Firefox Security Flaws | NewsX",
-     "channel": "NewsX Live",
-     "views": 118,
-     "age_hours": 10,
-     "relevance": 0.57,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Epdn9X-lqwM",
-     "url": "https://www.youtube.com/shorts/Epdn9X-lqwM",
-     "title": "GPT-6 Cyber Is Here: OpenAI's Flaw-Hunting AI Rated Critical",
-     "channel": "",
-     "views": 114,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lP6Zy7hlQGw",
-     "url": "https://www.youtube.com/shorts/lP6Zy7hlQGw",
-     "title": "OpenAI launched GPT-6 Cyber, but you can't use it",
-     "channel": "",
-     "views": 86,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uWbNFj13BeU",
-     "url": "https://www.youtube.com/shorts/uWbNFj13BeU",
-     "title": "OpenAI Launches GPT-6 Cyber: Rated \"Critical\" 🛡️ #shorts",
-     "channel": "",
-     "views": 84,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:DE5bF2bQFpo",
-     "url": "https://www.youtube.com/watch?v=DE5bF2bQFpo",
-     "title": "OpenAI launches GPT-6 Cyber for gated offensive security… — and more by RuntimeWire (Nov 5th)",
-     "channel": "RuntimeWire",
-     "views": 29,
-     "age_hours": 15,
-     "relevance": 0.57,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5yMbJAsc_7k",
-     "url": "https://www.youtube.com/shorts/5yMbJAsc_7k",
-     "title": "GPT-6 Cyber: what changed for defenders?",
-     "channel": "",
-     "views": 57,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T17:21:03.906Z"
   },
   {
    "first_seen": "2026-11-05T08:36:12.741Z",
