@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T06:49:59.544Z",
+ "generated_at": "2026-11-06T07:23:17.951Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,59 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT‑6 Cyber",
+   "source": "youtube: Greg Brockman",
    "ok": true
   },
   {
-   "source": "tiktok: GPT‑6 Cyber",
+   "source": "tiktok: Greg Brockman",
    "ok": true
   },
   {
-   "source": "youtube: gpt cyber advancing frontier",
+   "source": "youtube: openai greg brockman ipo",
    "ok": true
   },
   {
-   "source": "tiktok: gpt cyber advancing frontier",
+   "source": "tiktok: openai greg brockman ipo",
+   "ok": true
+  },
+  {
+   "source": "youtube: Personal Finance",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Personal Finance",
+   "ok": true
+  },
+  {
+   "source": "youtube: claude personal finance can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: claude personal finance can",
+   "ok": true
+  },
+  {
+   "source": "youtube: elevenlabs ai-generated soundcloud lets",
+   "ok": true
+  },
+  {
+   "source": "tiktok: elevenlabs ai-generated soundcloud lets",
+   "ok": true
+  },
+  {
+   "source": "youtube: Google Releases Gemini Omni 1.2 Flash",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Google Releases Gemini Omni 1.2 Flash",
+   "ok": true
+  },
+  {
+   "source": "youtube: google releases gemini omni",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google releases gemini omni",
    "ok": true
   }
  ],
@@ -66,6 +106,18 @@
     {
      "platform": "youtube",
      "kind": "shorts",
+     "id": "youtube:q4Z-du-Kjak",
+     "url": "https://www.youtube.com/shorts/q4Z-du-Kjak",
+     "title": "OpenAI IPO 2027: Greg Brockman Reveals Public Market Readiness Timeline #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
      "id": "youtube:9cnNR-3FzTI",
      "url": "https://www.youtube.com/shorts/9cnNR-3FzTI",
      "title": "OpenAI Says It Will Be Ready to IPO in 2027 #Shorts",
@@ -82,7 +134,7 @@
      "url": "https://www.youtube.com/shorts/9ZQTGOiA3-Y",
      "title": "OpenAI could be IPO-ready next year, says Greg Brockman #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 2,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -90,37 +142,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:q3Yc7VUkGLA",
-     "url": "https://www.youtube.com/shorts/q3Yc7VUkGLA",
-     "title": "OpenAI Says It Could Be Ready to IPO in 2027 and Now Gets Most Sales From Enterprises",
+     "id": "youtube:194bK4CMFUk",
+     "url": "https://www.youtube.com/shorts/194bK4CMFUk",
+     "title": "OpenAI Says It Could Be IPO Ready in 2027 #Shorts #OpenAI #AI",
      "channel": "",
-     "views": 0,
+     "views": 1,
      "age_hours": null,
-     "relevance": 0.56,
+     "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Fi0pztk6s5M",
-     "url": "https://www.youtube.com/watch?v=Fi0pztk6s5M",
-     "title": "OpenAI: Could be ready for an IPO in 2027, Brockman says | Nov 5, 2026",
-     "channel": "Stock News Daily",
-     "views": 1,
-     "age_hours": 10,
-     "relevance": 0.75,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:hGXCIaR8x6o",
-     "url": "https://www.youtube.com/shorts/hGXCIaR8x6o",
-     "title": "OpenAI IPO 2027: A Risky Gamble?",
+     "id": "youtube:LB1CAbPqh0k",
+     "url": "https://www.youtube.com/shorts/LB1CAbPqh0k",
+     "title": "OpenAI IPO in 2027? Greg Brockman Says \"I Think So\" #Shorts",
      "channel": "",
      "views": 0,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -128,7 +168,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-06T01:12:42.539Z"
+   "searched_at": "2026-11-06T07:23:25.578Z"
   },
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -162,10 +202,34 @@
      "url": "https://www.youtube.com/watch?v=UTubvRLX2j4",
      "title": "Introducing Personal Finance in Claude",
      "channel": "Claude",
-     "views": 150713,
-     "age_hours": 7,
+     "views": 213742,
+     "age_hours": 13,
      "relevance": 0.75,
-     "velocity": 21530
+     "velocity": 16442
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lX61uHPPpzM",
+     "url": "https://www.youtube.com/shorts/lX61uHPPpzM",
+     "title": "Anthropic to roll out Claude’s Personal Finance tool #anthropic #ai",
+     "channel": "",
+     "views": 295,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mHRfmgvx8gU",
+     "url": "https://www.youtube.com/watch?v=mHRfmgvx8gU",
+     "title": "Claude Personal Finance: What It Sees When You Connect Your Bank",
+     "channel": "SimplyExplain",
+     "views": 4,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 4
     },
     {
      "platform": "youtube",
@@ -174,9 +238,21 @@
      "url": "https://www.youtube.com/shorts/sKUrASfSdHM",
      "title": "Claude Introduces Personal Finance Tool for Spending Analysis 💰",
      "channel": "",
-     "views": 53,
+     "views": 141,
      "age_hours": null,
      "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Lr9iPZx_2kg",
+     "url": "https://www.youtube.com/shorts/Lr9iPZx_2kg",
+     "title": "Claude can now read your bank account. Anthropic's Personal Finance beta is read-only, US only",
+     "channel": "",
+     "views": 55,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -186,53 +262,17 @@
      "url": "https://www.youtube.com/watch?v=0wmWcwBi6w8",
      "title": "Claude Personal Finance Beta: Check Bill Changes & Spending (US Paid Plans)",
      "channel": "The Edge Engine",
-     "views": 5,
-     "age_hours": 4,
+     "views": 8,
+     "age_hours": 11,
      "relevance": 0.57,
      "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Xo2FYn9PIzc",
-     "url": "https://www.youtube.com/shorts/Xo2FYn9PIzc",
-     "title": "Claude Personal Finance Is Here — Who Gets It? #shorts",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aaL-OF9_hWg",
-     "url": "https://www.youtube.com/shorts/aaL-OF9_hWg",
-     "title": "Claude Can Read Your Bank Account Now 💰 Personal Finance Beta #Shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5w_kv27-_1c",
-     "url": "https://www.youtube.com/shorts/5w_kv27-_1c",
-     "title": "Claude Can Now Read Your Bank Accounts: Personal Finance in Claude Explained",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-06T01:12:49.811Z"
+   "searched_at": "2026-11-06T07:23:32.527Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -308,7 +348,7 @@
      "url": "https://www.youtube.com/shorts/UNtR-mBnAnQ",
      "title": "ElevenLabs Allows AI Music Publishing on SoundCloud 🎶",
      "channel": "",
-     "views": 11,
+     "views": 17,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -324,13 +364,25 @@
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XGgZKdkJjGM",
+     "url": "https://www.youtube.com/shorts/XGgZKdkJjGM",
+     "title": "SoundCloud Now Publishes ElevenLabs AI Music Directly #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-06T01:12:53.229Z"
+   "searched_at": "2026-11-06T07:23:35.938Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -875,38 +927,38 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:7-CJjGzZ-ns",
-     "url": "https://www.youtube.com/watch?v=7-CJjGzZ-ns",
-     "title": "[AI News] Google Releases Gemini Omni 1.2 Flash; Docomo Leaks Up to 300,000 | 2026.11.06 | No.243",
-     "channel": "AI&Tech放送局【毎朝のAIニュース】",
-     "views": 127,
-     "age_hours": 2,
-     "relevance": 0.58,
-     "velocity": 64
+     "id": "youtube:WqkQdsdcBOM",
+     "url": "https://www.youtube.com/watch?v=WqkQdsdcBOM",
+     "title": "🚨URGENT! GOOGLE RELEASED NEW FREE VIDEO AI! (OMNI 1.2 Flash)",
+     "channel": "Jornada Digital",
+     "views": 6344,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 793
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:aZ4ISFax7z8",
+     "url": "https://www.youtube.com/watch?v=aZ4ISFax7z8",
+     "title": "Google 发布 Gemini Omni 1.2 Flash【AI 早报 2026-11-06】",
+     "channel": "橘鸦Juya",
+     "views": 776,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 155
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:iZI2yHERihI",
      "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
-     "title": "Gemini Omni 1.2 Flash, Clearly Explained: Google's 15-Second AI Video Model",
+     "title": "Gemini Omni 1.2 Flash: 15-Second AI Videos for About a Dollar",
      "channel": "Simply AI",
-     "views": 125,
-     "age_hours": 2,
-     "relevance": 0.73,
-     "velocity": 63
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zjNTWXzvubg",
-     "url": "https://www.youtube.com/shorts/zjNTWXzvubg",
-     "title": "No Drone Flew This: Google Gemini Omni 1.2 Flash #Shorts",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
+     "views": 966,
+     "age_hours": 9,
+     "relevance": 0.75,
+     "velocity": 107
     },
     {
      "platform": "youtube",
@@ -915,41 +967,41 @@
      "url": "https://www.youtube.com/watch?v=oZZ9vqzyDkc",
      "title": "Google Launches Gemini Omni 1.2 Flash: Edit Videos with AI via Chat (Real Test)",
      "channel": "IA Next",
-     "views": 53,
-     "age_hours": 2,
+     "views": 752,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": 27
+     "velocity": 94
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:YdQYHC_wJrg",
-     "url": "https://www.youtube.com/watch?v=YdQYHC_wJrg",
-     "title": "Gemini Omni 1.2 Flash Announced: Up to 15s Video Generation and More [Creative AI Digest No.234 1...",
-     "channel": "CHIHIRO",
-     "views": 16,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:K8Sndi9jFt8",
-     "url": "https://www.youtube.com/watch?v=K8Sndi9jFt8",
-     "title": "Google Launches Gemini Omni 1.2 Flash with 15-Second Video Generation and 30% Price Cut",
-     "channel": "Undeniable Progress Super Intelligence ",
-     "views": 10,
-     "age_hours": 4,
+     "id": "youtube:7-CJjGzZ-ns",
+     "url": "https://www.youtube.com/watch?v=7-CJjGzZ-ns",
+     "title": "[AI News] Google Releases Gemini Omni 1.2 Flash; Docomo Leaks Up to 300,000 | 2026.11.06 | No.243",
+     "channel": "AI&Tech放送局【毎朝のAIニュース】",
+     "views": 596,
+     "age_hours": 8,
      "relevance": 0.58,
-     "velocity": 3
+     "velocity": 75
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zjNTWXzvubg",
+     "url": "https://www.youtube.com/shorts/zjNTWXzvubg",
+     "title": "No Drone Flew This: Google Gemini Omni 1.2 Flash #Shorts",
+     "channel": "",
+     "views": 1300,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-06T01:13:00.521Z"
+   "searched_at": "2026-11-06T07:23:42.926Z"
   },
   {
    "first_seen": "2026-11-04T10:24:47.094Z",
