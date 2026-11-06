@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T15:12:12.915Z",
+ "generated_at": "2026-11-06T16:23:00.438Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: google sued suicide-related ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google sued suicide-related ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -271,7 +280,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-06 13:53:04",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 93,
    "related_news": [
     {
      "source_id": "hn",
@@ -743,7 +752,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-05 18:00:00",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "hn",
@@ -1020,6 +1029,61 @@
    "searched_at": "2026-11-04T16:36:29.710Z"
   },
   {
+   "first_seen": "2026-11-06T10:49:52.000Z",
+   "id": "39653118",
+   "ids": [
+    "39653118",
+    "39647556"
+   ],
+   "title": "DeepSeek plans official plugin marketplace as Harness daily users reach 1.54 million",
+   "url": "https://technode.com/2026/11/06/deepseek-plans-official-plugin-marketplace-as-harness-daily-users-reach-1-54-million/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-06 07:48:25",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "cn-pandaily",
+     "title": "DeepSeek Harness Reaches 1.54 Million Daily Users and Plans an Official Plugin Marketplace",
+     "url": "https://pandaily.com/deepseek-harness-1-54-million-daily-active-users-official-plugin-marketplace"
+    }
+   ],
+   "queries": [
+    "deepseek harness 1.54 plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:C4ez8AzkwCc",
+     "url": "https://www.youtube.com/shorts/C4ez8AzkwCc",
+     "title": "DeepSeek Harness: Everything Is a Plugin #shorts",
+     "channel": "",
+     "views": 125,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uV8MKqyEDzQ",
+     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
+     "title": "DeepSeek Harness: everything-is-a-plugin",
+     "channel": "",
+     "views": 42,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T10:49:56.078Z"
+  },
+  {
    "first_seen": "2026-11-05T19:08:56.770Z",
    "id": "39636303",
    "ids": [
@@ -1179,59 +1243,138 @@
    "searched_at": "2026-11-04T17:36:21.454Z"
   },
   {
-   "first_seen": "2026-11-06T10:49:52.000Z",
-   "id": "39653118",
+   "first_seen": "2026-11-06T16:23:00.438Z",
+   "id": "39649196",
    "ids": [
-    "39653118",
-    "39647556"
+    "39649196",
+    "39659725"
    ],
-   "title": "DeepSeek plans official plugin marketplace as Harness daily users reach 1.54 million",
-   "url": "https://technode.com/2026/11/06/deepseek-plans-official-plugin-marketplace-as-harness-daily-users-reach-1-54-million/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-06 07:48:25",
+   "title": "Google sued over suicide-related AI chats on school computer",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-06 05:44:46",
    "story_sources": 2,
    "score_norm": 65,
    "related_news": [
     {
-     "source_id": "cn-pandaily",
-     "title": "DeepSeek Harness Reaches 1.54 Million Daily Users and Plans an Official Plugin Marketplace",
-     "url": "https://pandaily.com/deepseek-harness-1-54-million-daily-active-users-official-plugin-marketplace"
+     "source_id": "eu-lemonde-pixels",
+     "title": "Google sued over suicide-related AI chats on school computer",
+     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
     }
    ],
    "queries": [
-    "deepseek harness 1.54 plans"
+    "google sued suicide-related ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-06T16:23:04.631Z"
+  },
+  {
+   "first_seen": "2026-11-05T22:49:28.125Z",
+   "id": "39644164",
+   "ids": [
+    "39644164",
+    "39637399"
+   ],
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "source_id": "deepmind",
+   "published_ts": "2026-11-05 17:05:16",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    }
+   ],
+   "queries": [
+    "Gemini Omni 1.2 Flash",
+    "gemini omni 1.2 flash"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:C4ez8AzkwCc",
-     "url": "https://www.youtube.com/shorts/C4ez8AzkwCc",
-     "title": "DeepSeek Harness: Everything Is a Plugin #shorts",
-     "channel": "",
-     "views": 125,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:Kw9yRFd2HP0",
+     "url": "https://www.youtube.com/watch?v=Kw9yRFd2HP0",
+     "title": "Gemini Omni Flash 1.2 is live on ElevenCreative",
+     "channel": "ElevenLabs",
+     "views": 11934,
+     "age_hours": 17,
+     "relevance": 0.67,
+     "velocity": 702
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uV8MKqyEDzQ",
-     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
-     "title": "DeepSeek Harness: everything-is-a-plugin",
-     "channel": "",
-     "views": 42,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:jpl7l7GUb_4",
+     "url": "https://www.youtube.com/watch?v=jpl7l7GUb_4",
+     "title": "Gemini Omni 1.2 Flash: Fast and Cheap Video Clips with Sound",
+     "channel": "Fahd Mirza",
+     "views": 6527,
+     "age_hours": 15,
+     "relevance": 0.75,
+     "velocity": 435
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IbR90RYQGhQ",
+     "url": "https://www.youtube.com/watch?v=IbR90RYQGhQ",
+     "title": "I Tested Gemini Omni 1.2 Flash: Can You Save Money on Higgsfield?",
+     "channel": "AmalioMetria",
+     "views": 3525,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 294
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iZI2yHERihI",
+     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
+     "title": "Gemini Omni 1.2 Flash, Clearly Explained: Google's 15-Second AI Video Model",
+     "channel": "Simply AI",
+     "views": 1853,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 154
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:UOkWrjKKksw",
+     "url": "https://www.youtube.com/watch?v=UOkWrjKKksw",
+     "title": "Gemini Omni 1.2 Flash is now Live-  Refine, Edit, Reference, 4K",
+     "channel": "Segmind",
+     "views": 2360,
+     "age_hours": 18,
+     "relevance": 0.5,
+     "velocity": 131
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:r_yn_RlNU9w",
+     "url": "https://www.youtube.com/watch?v=r_yn_RlNU9w",
+     "title": "Gemini Omni 1.2 Flash Is A Big AI Upgrade",
+     "channel": "Codedigipt",
+     "views": 256,
+     "age_hours": 4,
+     "relevance": 0.57,
+     "velocity": 64
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-06T10:49:56.078Z"
+   "searched_at": "2026-11-06T11:11:03.713Z"
   },
   {
    "first_seen": "2026-11-06T12:36:34.846Z",
@@ -1338,184 +1481,6 @@
    "searched_at": "2026-11-06T12:50:14.347Z"
   },
   {
-   "first_seen": "2026-11-05T22:49:28.125Z",
-   "id": "39644164",
-   "ids": [
-    "39644164",
-    "39637399"
-   ],
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-   "source_id": "deepmind",
-   "published_ts": "2026-11-05 17:05:16",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-    }
-   ],
-   "queries": [
-    "Gemini Omni 1.2 Flash",
-    "gemini omni 1.2 flash"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Kw9yRFd2HP0",
-     "url": "https://www.youtube.com/watch?v=Kw9yRFd2HP0",
-     "title": "Gemini Omni Flash 1.2 is live on ElevenCreative",
-     "channel": "ElevenLabs",
-     "views": 11934,
-     "age_hours": 17,
-     "relevance": 0.67,
-     "velocity": 702
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jpl7l7GUb_4",
-     "url": "https://www.youtube.com/watch?v=jpl7l7GUb_4",
-     "title": "Gemini Omni 1.2 Flash: Fast and Cheap Video Clips with Sound",
-     "channel": "Fahd Mirza",
-     "views": 6527,
-     "age_hours": 15,
-     "relevance": 0.75,
-     "velocity": 435
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IbR90RYQGhQ",
-     "url": "https://www.youtube.com/watch?v=IbR90RYQGhQ",
-     "title": "I Tested Gemini Omni 1.2 Flash: Can You Save Money on Higgsfield?",
-     "channel": "AmalioMetria",
-     "views": 3525,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 294
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:iZI2yHERihI",
-     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
-     "title": "Gemini Omni 1.2 Flash, Clearly Explained: Google's 15-Second AI Video Model",
-     "channel": "Simply AI",
-     "views": 1853,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 154
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:UOkWrjKKksw",
-     "url": "https://www.youtube.com/watch?v=UOkWrjKKksw",
-     "title": "Gemini Omni 1.2 Flash is now Live-  Refine, Edit, Reference, 4K",
-     "channel": "Segmind",
-     "views": 2360,
-     "age_hours": 18,
-     "relevance": 0.5,
-     "velocity": 131
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:r_yn_RlNU9w",
-     "url": "https://www.youtube.com/watch?v=r_yn_RlNU9w",
-     "title": "Gemini Omni 1.2 Flash Is A Big AI Upgrade",
-     "channel": "Codedigipt",
-     "views": 256,
-     "age_hours": 4,
-     "relevance": 0.57,
-     "velocity": 64
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-06T11:11:03.713Z"
-  },
-  {
-   "first_seen": "2026-11-05T08:36:12.741Z",
-   "id": "39627601",
-   "ids": [
-    "39627601",
-    "39625050",
-    "39633642",
-    "39626717"
-   ],
-   "title": "Nothing to launch its first AI-native product next month",
-   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-05 06:36:23",
-   "story_sources": 3,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Nothing to launch its first ‘AI-native’ device in December",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/"
-    },
-    {
-     "source_id": "sea-lowyat",
-     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
-     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
-    }
-   ],
-   "queries": [
-    "nothing ai-native launch first"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T_zQ8797nRo",
-     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
-     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:eAC_o4qnheU",
-     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
-     "title": "Nothing launches AI-native product without a display in December",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6wN8B1ehz1A",
-     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
-     "title": "Nothing teases a screen-free AI device ahead of launch next month",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T20:50:15.106Z"
-  },
-  {
    "first_seen": "2026-11-06T11:10:44.690Z",
    "id": "39649200",
    "ids": [
@@ -1527,7 +1492,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-06 04:01:18",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -1618,6 +1583,80 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T11:10:56.412Z"
+  },
+  {
+   "first_seen": "2026-11-05T08:36:12.741Z",
+   "id": "39627601",
+   "ids": [
+    "39627601",
+    "39625050",
+    "39633642",
+    "39626717"
+   ],
+   "title": "Nothing to launch its first AI-native product next month",
+   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-05 06:36:23",
+   "story_sources": 3,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Nothing to launch its first ‘AI-native’ device in December",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/"
+    },
+    {
+     "source_id": "sea-lowyat",
+     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
+     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
+    }
+   ],
+   "queries": [
+    "nothing ai-native launch first"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T_zQ8797nRo",
+     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
+     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:eAC_o4qnheU",
+     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
+     "title": "Nothing launches AI-native product without a display in December",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6wN8B1ehz1A",
+     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
+     "title": "Nothing teases a screen-free AI device ahead of launch next month",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T20:50:15.106Z"
   },
   {
    "first_seen": "2026-11-05T14:12:50.437Z",
