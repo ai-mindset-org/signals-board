@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T04:50:08.418Z",
+ "generated_at": "2026-11-06T05:36:21.036Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Gemini Omni 1.2 Flash",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini Omni 1.2 Flash",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini omni 1.2 flash",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini omni 1.2 flash",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -815,7 +798,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-05 09:00:00",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "hn",
@@ -859,7 +842,7 @@
    "source_id": "in-marktechpost",
    "published_ts": "2026-11-05 22:58:21",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1822,112 +1805,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-03T22:50:13.094Z"
-  },
-  {
-   "first_seen": "2026-11-03T05:49:47.455Z",
-   "id": "39572554",
-   "ids": [
-    "39572554",
-    "39580494",
-    "39583271",
-    "39585333"
-   ],
-   "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-   "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-   "source_id": "latent-space",
-   "published_ts": "2026-11-03 05:35:00",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "[Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/"
-    }
-   ],
-   "queries": [
-    "Weight Space Programming",
-    "llms space programming autoresearch"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:r8sZgPx4jYA",
-     "url": "https://www.youtube.com/watch?v=r8sZgPx4jYA",
-     "title": "LLMs Can Now Read and Write Neural Network Weights",
-     "channel": "Jia-Bin Huang",
-     "views": 18358,
-     "age_hours": 12,
-     "relevance": 1,
-     "velocity": 1530
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:M_lhfc71IAM",
-     "url": "https://www.youtube.com/shorts/M_lhfc71IAM",
-     "title": "Weight Space Programming Explained",
-     "channel": "",
-     "views": 3100,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:uiabfIxxgbQ",
-     "url": "https://www.youtube.com/watch?v=uiabfIxxgbQ",
-     "title": "Weight-Space Programming Explained: Can an LLM Read and Write Neural Network Weights?",
-     "channel": "AI Paper Slop",
-     "views": 1665,
-     "age_hours": 24,
-     "relevance": 0.7,
-     "velocity": 69
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:RUbxQuzjMqo",
-     "url": "https://www.youtube.com/watch?v=RUbxQuzjMqo",
-     "title": "MIT's Weight-Space Programming Is INSANE! LLMs Can READ, EDIT & CREATE Neural Networks WEIGHTS",
-     "channel": "AI WITH Rithesh",
-     "views": 602,
-     "age_hours": 22,
-     "relevance": 0.5,
-     "velocity": 27
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:s9fJnXNSGY4",
-     "url": "https://www.youtube.com/watch?v=s9fJnXNSGY4",
-     "title": "What is Weight Space Programming?",
-     "channel": "Data Science in your pocket",
-     "views": 70,
-     "age_hours": 8,
-     "relevance": 1,
-     "velocity": 9
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:vOVmw7mDKM8",
-     "url": "https://www.youtube.com/watch?v=vOVmw7mDKM8",
-     "title": "Weight Space Programming, Explained From Scratch",
-     "channel": "Ghostbyte",
-     "views": 64,
-     "age_hours": 18,
-     "relevance": 0.6,
-     "velocity": 4
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-04T03:13:00.927Z"
   },
   {
    "first_seen": "2026-11-03T23:20:41.791Z",
