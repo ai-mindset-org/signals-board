@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T16:23:00.438Z",
+ "generated_at": "2026-11-06T17:10:30.472Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: google sued suicide-related ai",
+   "source": "youtube: deepseek harness 1.54 plans",
    "ok": true
   },
   {
-   "source": "tiktok: google sued suicide-related ai",
+   "source": "tiktok: deepseek harness 1.54 plans",
    "ok": true
   }
  ],
@@ -1029,6 +1029,36 @@
    "searched_at": "2026-11-04T16:36:29.710Z"
   },
   {
+   "first_seen": "2026-11-06T16:23:00.438Z",
+   "id": "39649196",
+   "ids": [
+    "39649196",
+    "39659725"
+   ],
+   "title": "Google sued over suicide-related AI chats on school computer",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-06 05:44:46",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "eu-lemonde-pixels",
+     "title": "Google sued over suicide-related AI chats on school computer",
+     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
+    }
+   ],
+   "queries": [
+    "google sued suicide-related ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-06T16:23:04.631Z"
+  },
+  {
    "first_seen": "2026-11-06T10:49:52.000Z",
    "id": "39653118",
    "ids": [
@@ -1055,25 +1085,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:C4ez8AzkwCc",
-     "url": "https://www.youtube.com/shorts/C4ez8AzkwCc",
-     "title": "DeepSeek Harness: Everything Is a Plugin #shorts",
+     "id": "youtube:uV8MKqyEDzQ",
+     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
+     "title": "DeepSeek Harness: everything-is-a-plugin",
      "channel": "",
-     "views": 125,
+     "views": 75,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:uV8MKqyEDzQ",
-     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
-     "title": "DeepSeek Harness: everything-is-a-plugin",
+     "id": "youtube:ZcYR0CCG2X4",
+     "url": "https://www.youtube.com/shorts/ZcYR0CCG2X4",
+     "title": "DeepSeek’s AI Agent Just Hit 1.54 Million Daily Users",
      "channel": "",
-     "views": 42,
+     "views": 2,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -1081,7 +1111,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-06T10:49:56.078Z"
+   "searched_at": "2026-11-06T17:10:34.362Z"
   },
   {
    "first_seen": "2026-11-05T19:08:56.770Z",
@@ -1241,36 +1271,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T17:36:21.454Z"
-  },
-  {
-   "first_seen": "2026-11-06T16:23:00.438Z",
-   "id": "39649196",
-   "ids": [
-    "39649196",
-    "39659725"
-   ],
-   "title": "Google sued over suicide-related AI chats on school computer",
-   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-06 05:44:46",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "eu-lemonde-pixels",
-     "title": "Google sued over suicide-related AI chats on school computer",
-     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
-    }
-   ],
-   "queries": [
-    "google sued suicide-related ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-06T16:23:04.631Z"
   },
   {
    "first_seen": "2026-11-05T22:49:28.125Z",
@@ -1492,7 +1492,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-06 04:01:18",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -2344,110 +2344,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-04T21:36:40.647Z"
-  },
-  {
-   "first_seen": "2026-11-03T23:20:41.791Z",
-   "id": "39598383",
-   "ids": [
-    "39598383",
-    "39591658"
-   ],
-   "title": "OpenAI Updates Its Model Spec",
-   "url": "https://www.lesswrong.com/posts/ABEQbEabK6kcSRrNq/openai-updates-its-model-spec",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-03 16:50:52",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI Updates Its Model Spec",
-     "url": "https://thezvi.substack.com/p/openai-updates-its-model-spec"
-    }
-   ],
-   "queries": [
-    "OpenAI Updates Its",
-    "openai updates spec model"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oHyGjqJlJWQ",
-     "url": "https://www.youtube.com/shorts/oHyGjqJlJWQ",
-     "title": "OpenAI's next model is going to be released soon",
-     "channel": "",
-     "views": 15000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KItEnnHeNz0",
-     "url": "https://www.youtube.com/shorts/KItEnnHeNz0",
-     "title": "OpenAI Dots: New Updates",
-     "channel": "",
-     "views": 4300,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8LWkoBKyd_8",
-     "url": "https://www.youtube.com/shorts/8LWkoBKyd_8",
-     "title": "GPT-6.2 ASTRA SPOTTED?! Codex Usage Stats Hint at OpenAI's Next Model",
-     "channel": "",
-     "views": 896,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:i7vtfq0SXeU",
-     "url": "https://www.youtube.com/watch?v=i7vtfq0SXeU",
-     "title": "GPT-6.1 Terra vs GPT-6 Astra vs Sol: Which OpenAI Model Should You Use? (November 2026)",
-     "channel": "StudyZoom international",
-     "views": 51,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:38hXTDFQ9bc",
-     "url": "https://www.youtube.com/shorts/38hXTDFQ9bc",
-     "title": "OpenAI releases GPT-6.1 Terra, a lower-cost model for computer… · Agentic Software Engineering Daily",
-     "channel": "",
-     "views": 60,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:z4ppFnSsJDI",
-     "url": "https://www.youtube.com/shorts/z4ppFnSsJDI",
-     "title": "OpenAI's New Model Costs Half (GPT-6.1 Terra) #Shorts",
-     "channel": "",
-     "views": 44,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-03T23:20:49.598Z"
   },
   {
    "first_seen": "2026-11-03T21:35:58.367Z",
