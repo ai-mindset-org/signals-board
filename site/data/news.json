@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T17:20:56.094Z",
+ "generated_at": "2026-11-06T17:35:43.235Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: GPT-6 Cyber",
-   "ok": true
-  },
-  {
-   "source": "tiktok: GPT-6 Cyber",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai gpt-6 cyber launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai gpt-6 cyber launches",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -1727,110 +1710,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T02:36:18.433Z"
-  },
-  {
-   "first_seen": "2026-11-03T17:49:32.832Z",
-   "id": "39592297",
-   "ids": [
-    "39592297",
-    "39592262"
-   ],
-   "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-03 17:29:42",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-     "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
-    }
-   ],
-   "queries": [
-    "Like GPT-6 Astra",
-    "like gpt-6 astra qwen"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:e6GjOg8jYMg",
-     "url": "https://www.youtube.com/watch?v=e6GjOg8jYMg",
-     "title": "Qwen 3.8 27B Ripping Apart Model Weights like GPT-6 Astra: Hands-on",
-     "channel": "Fahd Mirza",
-     "views": 4963,
-     "age_hours": 10,
-     "relevance": 0.8,
-     "velocity": 496
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1QRzdjcqWqs",
-     "url": "https://www.youtube.com/shorts/1QRzdjcqWqs",
-     "title": "Qwen 3.8 27B vs GPT-6 Astra: RTX 5090 vs the Cloud, 4 Real Tests",
-     "channel": "",
-     "views": 2500,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GoT71MxCuAs",
-     "url": "https://www.youtube.com/shorts/GoT71MxCuAs",
-     "title": "GPT-6 Astra edited Qwen's weights: math 8% to 48%",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:FFwkqUdaXeY",
-     "url": "https://www.youtube.com/shorts/FFwkqUdaXeY",
-     "title": "GPT-6 Astra edited Qwen's weights. We tested it",
-     "channel": "",
-     "views": 324,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YYc7UZDIlao",
-     "url": "https://www.youtube.com/shorts/YYc7UZDIlao",
-     "title": "GPT-6 Astra Use Cases",
-     "channel": "",
-     "views": 103,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ec3tKFkSZeU",
-     "url": "https://www.youtube.com/shorts/Ec3tKFkSZeU",
-     "title": "GPT-6 Astra Edits Qwen's Weights, MATH-500 Jumps to 48.1%",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T06:40:41.623Z"
   },
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
