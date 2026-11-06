@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:35:54.032Z",
+ "generated_at": "2026-11-06T20:11:05.369Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,96 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: microsoft oracle winding down",
+   "ok": true
+  },
+  {
+   "source": "tiktok: microsoft oracle winding down",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-11-06T20:11:05.369Z",
+   "id": "39664139",
+   "ids": [
+    "39664139",
+    "39661915"
+   ],
+   "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
+   "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-06 18:57:38",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+     "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+    }
+   ],
+   "queries": [
+    "microsoft oracle winding down"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bILnKksVaNE",
+     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
+     "title": "Oracle Is Down 50%. It's Still Spending on AI",
+     "channel": "",
+     "views": 242,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8mW6RzArxaE",
+     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
+     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:71-m0UXoZZE",
+     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
+     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BDpjp6DAwkY",
+     "url": "https://www.youtube.com/shorts/BDpjp6DAwkY",
+     "title": "Oracle stock falls 4% as Microsoft winds down AI cloud capacity deal #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T20:11:09.570Z"
+  },
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
    "id": "39653579",
@@ -228,7 +316,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-06 13:53:04",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "hn",
@@ -319,85 +407,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T14:24:30.259Z"
-  },
-  {
-   "first_seen": "2026-11-06T18:14:56.225Z",
-   "id": "39644250",
-   "ids": [
-    "39644250",
-    "39661842"
-   ],
-   "title": "Perplexity launches its own take on AI agents for work",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-   "source_id": "theverge",
-   "published_ts": "2026-11-05 22:26:50",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Perplexity launches AI agents for work",
-     "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
-    }
-   ],
-   "queries": [
-    "perplexity launches own take"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_WtmleW09vI",
-     "url": "https://www.youtube.com/watch?v=_WtmleW09vI",
-     "title": "Perplexity launches AI Teammates",
-     "channel": "VarOps",
-     "views": 25,
-     "age_hours": 8,
-     "relevance": 0.75,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PupxSU_ge58",
-     "url": "https://www.youtube.com/shorts/PupxSU_ge58",
-     "title": "Perplexity launches its own take on AI agents for work",
-     "channel": "",
-     "views": 52,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4OYZWzBD_18",
-     "url": "https://www.youtube.com/shorts/4OYZWzBD_18",
-     "title": "Perplexity Launches AI Agents for Work",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:B3fJ3R98e80",
-     "url": "https://www.youtube.com/shorts/B3fJ3R98e80",
-     "title": "Perplexity launches work AI agents | codemago.dev/news",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T18:15:00.413Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -509,6 +518,85 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T14:24:12.116Z"
+  },
+  {
+   "first_seen": "2026-11-06T18:14:56.225Z",
+   "id": "39644250",
+   "ids": [
+    "39644250",
+    "39661842"
+   ],
+   "title": "Perplexity launches its own take on AI agents for work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "source_id": "theverge",
+   "published_ts": "2026-11-05 22:26:50",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Perplexity launches AI agents for work",
+     "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+    }
+   ],
+   "queries": [
+    "perplexity launches own take"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_WtmleW09vI",
+     "url": "https://www.youtube.com/watch?v=_WtmleW09vI",
+     "title": "Perplexity launches AI Teammates",
+     "channel": "VarOps",
+     "views": 25,
+     "age_hours": 8,
+     "relevance": 0.75,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PupxSU_ge58",
+     "url": "https://www.youtube.com/shorts/PupxSU_ge58",
+     "title": "Perplexity launches its own take on AI agents for work",
+     "channel": "",
+     "views": 52,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4OYZWzBD_18",
+     "url": "https://www.youtube.com/shorts/4OYZWzBD_18",
+     "title": "Perplexity Launches AI Agents for Work",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:B3fJ3R98e80",
+     "url": "https://www.youtube.com/shorts/B3fJ3R98e80",
+     "title": "Perplexity launches work AI agents | codemago.dev/news",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T18:15:00.413Z"
   },
   {
    "first_seen": "2026-11-06T01:12:34.954Z",
