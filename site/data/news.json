@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T08:50:06.205Z",
+ "generated_at": "2026-11-06T10:49:52.000Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: deepseek harness 1.54 plans",
+   "ok": true
+  },
+  {
+   "source": "tiktok: deepseek harness 1.54 plans",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -261,6 +270,61 @@
    "searched_at": "2026-11-04T12:50:08.322Z"
   },
   {
+   "first_seen": "2026-11-06T10:49:52.000Z",
+   "id": "39653118",
+   "ids": [
+    "39653118",
+    "39647556"
+   ],
+   "title": "DeepSeek plans official plugin marketplace as Harness daily users reach 1.54 million",
+   "url": "https://technode.com/2026/11/06/deepseek-plans-official-plugin-marketplace-as-harness-daily-users-reach-1-54-million/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-06 07:48:25",
+   "story_sources": 2,
+   "score_norm": 94,
+   "related_news": [
+    {
+     "source_id": "cn-pandaily",
+     "title": "DeepSeek Harness Reaches 1.54 Million Daily Users and Plans an Official Plugin Marketplace",
+     "url": "https://pandaily.com/deepseek-harness-1-54-million-daily-active-users-official-plugin-marketplace"
+    }
+   ],
+   "queries": [
+    "deepseek harness 1.54 plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:C4ez8AzkwCc",
+     "url": "https://www.youtube.com/shorts/C4ez8AzkwCc",
+     "title": "DeepSeek Harness: Everything Is a Plugin #shorts",
+     "channel": "",
+     "views": 125,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uV8MKqyEDzQ",
+     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
+     "title": "DeepSeek Harness: everything-is-a-plugin",
+     "channel": "",
+     "views": 42,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T10:49:56.078Z"
+  },
+  {
    "first_seen": "2026-11-05T19:08:56.770Z",
    "id": "39636303",
    "ids": [
@@ -272,7 +336,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-05 15:00:00",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "eu-tnw",
