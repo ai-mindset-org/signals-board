@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-05T06:33:49.841Z",
+ "generated_at": "2026-11-06T06:34:12.707Z",
  "window_days": 7,
  "theme": "обучение AI",
  "digest": [
   "youtube:CWdTBLsbaQs",
   "youtube:r0cJOa9MZsE",
-  "youtube:eDiQNFa-zYg",
-  "tiktok:7702273630838869278",
-  "youtube:rU5llKCPPwI"
+  "youtube:0Kw6_DTZPrY",
+  "tiktok:7704202375950634270",
+  "youtube:DJjK6LAIouM"
  ],
  "formats": {
   "shapes": [
@@ -29,19 +29,19 @@
    "source": "tiktok/nate.b.jones",
    "ok": true,
    "scanned": 13,
-   "fresh": 9
+   "fresh": 8
   },
   {
    "source": "youtube/deeplearningai",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 1
   },
   {
    "source": "youtube/TwoMinutePapers",
    "ok": true,
    "scanned": 30,
-   "fresh": 2
+   "fresh": 1
   },
   {
    "source": "youtube/aiexplained-official",
@@ -53,7 +53,7 @@
    "source": "youtube/mreflow",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 2
   },
   {
    "source": "youtube/matthew_berman",
@@ -65,7 +65,7 @@
    "source": "youtube/NateBJones",
    "ok": true,
    "scanned": 30,
-   "fresh": 5
+   "fresh": 4
   },
   {
    "source": "youtube/futurepedia_io",
@@ -101,8 +101,8 @@
    "person": "twominutepapers",
    "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
    "title": "OpenAI Claims It Just Did The Impossible",
-   "posted_at": "2026-10-31T06:32:22.983Z",
-   "popularity": 478000,
+   "posted_at": "2026-10-31T06:32:49.052Z",
+   "popularity": 484000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -124,8 +124,8 @@
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
    "title": "They did it...",
-   "posted_at": "2026-11-04T06:32:51.437Z",
-   "popularity": 193000,
+   "posted_at": "2026-11-04T06:33:18.764Z",
+   "popularity": 213000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -141,14 +141,14 @@
    "picked": true
   },
   {
-   "id": "youtube:eDiQNFa-zYg",
+   "id": "youtube:0Kw6_DTZPrY",
    "platform": "youtube",
-   "source": "@mreflow",
-   "person": "mreflow",
-   "url": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
-   "title": "AI News: The Only 6 Stories Worth Knowing This Week",
-   "posted_at": "2026-10-31T06:32:38.172Z",
-   "popularity": 125000,
+   "source": "@aiexplained-official",
+   "person": "aiexplained-official",
+   "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+   "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+   "posted_at": "2026-11-03T06:32:56.589Z",
+   "popularity": 128000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -159,22 +159,22 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-c6b4e82565cf.jpg",
-   "first_seen": "2026-10-31T06:29:55.853Z",
+   "media": "data/media/youtube-894f516432a6.jpg",
+   "first_seen": "2026-11-03T06:33:16.581Z",
    "picked": true
   },
   {
-   "id": "tiktok:7702273630838869278",
+   "id": "tiktok:7704202375950634270",
    "platform": "tiktok",
    "source": "@nate.b.jones",
    "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7702273630838869278",
-   "title": "PSA: I give safety tips for crypto accounts here as well as what we know now about the biggest crypto hack in history #ai #crypto #learn #learnontikok #new ",
-   "posted_at": "2026-10-30T01:55:27.000Z",
-   "popularity": 78000,
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7704202375950634270",
+   "title": "Well I wish I didn’t have a round 2 to post on this one 😬🏥 #ai #news #learn #learnontiktok #hack ",
+   "posted_at": "2026-11-04T06:39:58.000Z",
+   "popularity": 54300,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 498200
+    "followers": 498300
    },
    "format": {
     "kind": "видео",
@@ -183,19 +183,19 @@
     "ratio": 0.56,
     "name": "вертикальный 9:16"
    },
-   "media": "data/media/tiktok-5082dd3c1a3f.jpg",
-   "first_seen": "2026-10-30T06:38:06.540Z",
+   "media": "data/media/tiktok-93c3070a84f9.jpg",
+   "first_seen": "2026-11-05T06:33:49.841Z",
    "picked": true
   },
   {
-   "id": "youtube:rU5llKCPPwI",
+   "id": "youtube:DJjK6LAIouM",
    "platform": "youtube",
-   "source": "@futurepedia_io",
-   "person": "futurepedia_io",
-   "url": "https://www.youtube.com/watch?v=rU5llKCPPwI",
-   "title": "Top 15 Tricks for INSTANTLY Better Claude Designs",
-   "posted_at": "2026-11-04T17:33:17.583Z",
-   "popularity": 11000,
+   "source": "@WesRoth",
+   "person": "wesroth",
+   "url": "https://www.youtube.com/watch?v=DJjK6LAIouM",
+   "title": "this might be HUGE...",
+   "posted_at": "2026-11-05T12:33:54.267Z",
+   "popularity": 81000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -206,9 +206,33 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-28a12b835b5c.jpg",
-   "first_seen": "2026-11-05T06:33:49.841Z",
+   "media": "data/media/youtube-6b3dba9e7709.jpg",
+   "first_seen": "2026-11-06T06:34:12.707Z",
    "picked": true
+  },
+  {
+   "id": "tiktok:7704857325890227487",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7704857325890227487",
+   "title": "This is why I film inside now. #ainews #privacy #aisafety #ai #artificialintelligence ",
+   "posted_at": "2026-11-06T01:01:30.000Z",
+   "popularity": 12600,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 498300
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-40b6a92fd2d9.jpg",
+   "first_seen": "2026-11-06T06:34:12.707Z",
+   "picked": false
   },
   {
    "id": "tiktok:7704485973890960670",
@@ -218,10 +242,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7704485973890960670",
    "title": "I’m curious what you actually use. Let me know in the comments. #ainews #ai #aiagents #artificialintelligence #aitools ",
    "posted_at": "2026-11-05T01:00:28.000Z",
-   "popularity": 11300,
+   "popularity": 22400,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 498200
+    "followers": 498300
    },
    "format": {
     "kind": "видео",
@@ -235,30 +259,6 @@
    "picked": false
   },
   {
-   "id": "tiktok:7704202375950634270",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7704202375950634270",
-   "title": "Well I wish I didn’t have a round 2 to post on this one 😬🏥 #ai #news #learn #learnontiktok #hack ",
-   "posted_at": "2026-11-04T06:39:58.000Z",
-   "popularity": 48800,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 498200
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-93c3070a84f9.jpg",
-   "first_seen": "2026-11-05T06:33:49.841Z",
-   "picked": false
-  },
-  {
    "id": "tiktok:7703743150778535198",
    "platform": "tiktok",
    "source": "@nate.b.jones",
@@ -266,10 +266,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7703743150778535198",
    "title": "Find the budget before crisis. #ainews #cybersecurity #aisafety #ai #artificialintelligence ",
    "posted_at": "2026-11-03T00:57:56.000Z",
-   "popularity": 45400,
+   "popularity": 46300,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 498200
+    "followers": 498300
    },
    "format": {
     "kind": "видео",
@@ -290,10 +290,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7703370713025105182",
    "title": "Found it in three messages with Muse. #aistorytime #ai #books #artificialintelligence #muse ",
    "posted_at": "2026-11-02T00:52:41.000Z",
-   "popularity": 7268,
+   "popularity": 7507,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 498200
+    "followers": 498300
    },
    "format": {
     "kind": "видео",
@@ -314,10 +314,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7703298429413297438",
    "title": "Yes this really a thing in tech and yes it’s one of MANY reasons why the job pipeline sucks — blame North Korea I guess #ai #learn #learnontiktok #news #crypto ",
    "posted_at": "2026-11-01T20:12:11.000Z",
-   "popularity": 17500,
+   "popularity": 17800,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 498200
+    "followers": 498300
    },
    "format": {
     "kind": "видео",
@@ -338,10 +338,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7702984350660349215",
    "title": "AI does homework. You vote. #aihack #ai #elections #artificialintelligence #aitips",
    "posted_at": "2026-10-31T23:53:24.000Z",
-   "popularity": 5311,
+   "popularity": 5420,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 498200
+    "followers": 498300
    },
    "format": {
     "kind": "видео",
@@ -362,10 +362,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7702615064674667806",
    "title": "",
    "posted_at": "2026-10-31T00:00:23.000Z",
-   "popularity": 20900,
+   "popularity": 21200,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 498200
+    "followers": 498300
    },
    "format": {
     "kind": "видео",
@@ -379,38 +379,14 @@
    "picked": false
   },
   {
-   "id": "tiktok:7702150414925303070",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7702150414925303070",
-   "title": "Yes do the math it is 4x up from what it would be if they had halved it and yes that’s confusing lol that’s the point it should not be this hard! #ai #learn #learnontiktok #news #chatgpt ",
-   "posted_at": "2026-10-29T17:57:18.000Z",
-   "popularity": 31100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 498200
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-4431da43536e.jpg",
-   "first_seen": "2026-10-30T06:38:06.540Z",
-   "picked": false
-  },
-  {
    "id": "youtube:5__Fm2TnPcU",
    "platform": "youtube",
    "source": "@deeplearningai",
    "person": "deeplearningai",
    "url": "https://www.youtube.com/watch?v=5__Fm2TnPcU",
    "title": "Stop guessing how to fix your agent",
-   "posted_at": "2026-11-04T11:32:13.534Z",
-   "popularity": 2800,
+   "posted_at": "2026-11-05T06:32:39.873Z",
+   "popularity": 3700,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -426,106 +402,14 @@
    "picked": false
   },
   {
-   "id": "youtube:p1jhV6LlbFY",
-   "platform": "youtube",
-   "source": "@deeplearningai",
-   "person": "deeplearningai",
-   "url": "https://www.youtube.com/watch?v=p1jhV6LlbFY",
-   "title": "Join Andrew Ng at AI Dev NYC for two days of technical sessions and workshops.",
-   "posted_at": "2026-10-29T06:32:15.396Z",
-   "popularity": 5100,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-b8d519362b34.jpg",
-   "first_seen": "2026-10-29T06:38:06.709Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:Zo2oyjbTEXA",
-   "platform": "youtube",
-   "source": "@deeplearningai",
-   "person": "deeplearningai",
-   "url": "https://www.youtube.com/watch?v=Zo2oyjbTEXA",
-   "title": "Agents on longer tasks need more than one loop",
-   "posted_at": "2026-10-29T06:32:17.271Z",
-   "popularity": 6400,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-d34f1efd3925.jpg",
-   "first_seen": "2026-10-29T06:38:06.709Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:pryCaGv8wuo",
-   "platform": "youtube",
-   "source": "@TwoMinutePapers",
-   "person": "twominutepapers",
-   "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-   "title": "DeepSeek's New AI Is An Absolute Monster",
-   "posted_at": "2026-10-29T06:32:24.830Z",
-   "popularity": 194000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-a15ec984353b.jpg",
-   "first_seen": "2026-10-29T06:38:06.709Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:0Kw6_DTZPrY",
-   "platform": "youtube",
-   "source": "@aiexplained-official",
-   "person": "aiexplained-official",
-   "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
-   "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
-   "posted_at": "2026-11-03T06:32:30.540Z",
-   "popularity": 123000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-894f516432a6.jpg",
-   "first_seen": "2026-11-03T06:33:16.581Z",
-   "picked": true
-  },
-  {
    "id": "youtube:ep4psgAFOqc",
    "platform": "youtube",
    "source": "@mreflow",
    "person": "mreflow",
    "url": "https://www.youtube.com/watch?v=ep4psgAFOqc",
-   "title": "How I Get Claude To Edit My Videos (No Code Needed)",
-   "posted_at": "2026-11-04T17:32:36.298Z",
-   "popularity": 33000,
+   "title": "How I Get Claude To Edit My Videos (Step-By-Step)",
+   "posted_at": "2026-11-05T06:33:02.210Z",
+   "popularity": 59000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -541,14 +425,14 @@
    "picked": false
   },
   {
-   "id": "youtube:AtjFk9f44HE",
+   "id": "youtube:eDiQNFa-zYg",
    "platform": "youtube",
    "source": "@mreflow",
    "person": "mreflow",
-   "url": "https://www.youtube.com/watch?v=AtjFk9f44HE",
-   "title": "He Built an AI Board of Billionaires (Free & Open-Source)",
-   "posted_at": "2026-10-29T06:32:40.178Z",
-   "popularity": 86000,
+   "url": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
+   "title": "AI News: The Only 6 Stories Worth Knowing This Week",
+   "posted_at": "2026-10-31T06:33:04.159Z",
+   "popularity": 127000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -559,8 +443,31 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-894c1d016a11.jpg",
-   "first_seen": "2026-10-29T06:38:06.709Z",
+   "media": "data/media/youtube-c6b4e82565cf.jpg",
+   "first_seen": "2026-10-31T06:29:55.853Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:-M62vWrZh54",
+   "platform": "youtube",
+   "source": "@matthew_berman",
+   "person": "matthew_berman",
+   "url": "https://www.youtube.com/watch?v=-M62vWrZh54",
+   "title": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
+   "posted_at": "2026-11-05T17:33:11.680Z",
+   "popularity": 102000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-fa4cb5f5b362.jpg",
+   "first_seen": "2026-11-06T06:34:12.707Z",
    "picked": false
   },
   {
@@ -616,8 +523,8 @@
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=j09uV1oAuIo",
    "title": "The most important paper in AI right now",
-   "posted_at": "2026-11-04T17:32:49.638Z",
-   "popularity": 102000,
+   "posted_at": "2026-11-05T06:33:17.030Z",
+   "popularity": 159000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -633,37 +540,14 @@
    "picked": false
   },
   {
-   "id": "youtube:zhnJo7s91ls",
-   "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-   "title": "Google \"Carbon\" just won everything...",
-   "posted_at": "2026-10-29T06:32:53.323Z",
-   "popularity": 139000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-f6cd30c0ead3.jpg",
-   "first_seen": "2026-10-29T06:38:06.709Z",
-   "picked": false
-  },
-  {
    "id": "youtube:-5cDYPwNf5g",
    "platform": "youtube",
    "source": "@NateBJones",
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=-5cDYPwNf5g",
    "title": "Elon's AI Agent Has a Massive Cost Problem",
-   "posted_at": "2026-11-04T15:33:02.817Z",
-   "popularity": 22000,
+   "posted_at": "2026-11-05T06:33:28.148Z",
+   "popularity": 33000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -685,8 +569,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=JFoDdKuRmSk",
    "title": "You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?",
-   "posted_at": "2026-11-04T06:33:04.620Z",
-   "popularity": 22000,
+   "posted_at": "2026-11-04T06:33:29.984Z",
+   "popularity": 24000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -708,7 +592,7 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=KDGxQtfjBj0",
    "title": "Salesforce Just Helped Microsoft. You're Picking The Winner Of A Trillion-Dollar Fight.",
-   "posted_at": "2026-11-02T06:33:06.510Z",
+   "posted_at": "2026-11-02T06:33:31.872Z",
    "popularity": 22000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -731,8 +615,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=c3HHFL_lsLM",
    "title": "The Future Of The Internet Isn't Open For Your Agent. Muse, Dots And Claude Duet Will Find Out.",
-   "posted_at": "2026-11-01T06:33:08.442Z",
-   "popularity": 47000,
+   "posted_at": "2026-11-01T06:33:33.545Z",
+   "popularity": 48000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -748,14 +632,14 @@
    "picked": false
   },
   {
-   "id": "youtube:EAEixlPC6L4",
+   "id": "youtube:rU5llKCPPwI",
    "platform": "youtube",
-   "source": "@NateBJones",
-   "person": "nate b jones",
-   "url": "https://www.youtube.com/watch?v=EAEixlPC6L4",
-   "title": "Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing.",
-   "posted_at": "2026-10-29T06:33:10.224Z",
-   "popularity": 24000,
+   "source": "@futurepedia_io",
+   "person": "futurepedia_io",
+   "url": "https://www.youtube.com/watch?v=rU5llKCPPwI",
+   "title": "Top 15 Tricks for INSTANTLY Better Claude Designs",
+   "posted_at": "2026-11-05T06:33:40.940Z",
+   "popularity": 18000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -766,9 +650,9 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-a7e102bca5ea.jpg",
-   "first_seen": "2026-10-29T06:38:06.709Z",
-   "picked": false
+   "media": "data/media/youtube-28a12b835b5c.jpg",
+   "first_seen": "2026-11-05T06:33:49.841Z",
+   "picked": true
   },
   {
    "id": "youtube:tM0dwXhOv2o",
@@ -777,8 +661,8 @@
    "person": "futurepedia_io",
    "url": "https://www.youtube.com/watch?v=tM0dwXhOv2o",
    "title": "Claude 2.0 Is Here. EVERYTHING in 15 Minutes",
-   "posted_at": "2026-11-04T06:33:19.473Z",
-   "popularity": 61000,
+   "posted_at": "2026-11-04T06:33:42.727Z",
+   "popularity": 86000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -800,8 +684,8 @@
    "person": "mattvidpro",
    "url": "https://www.youtube.com/watch?v=o5iRKvXZEcY",
    "title": "Claude Reverse Engineered Two 3DS Games to Add Real 3D",
-   "posted_at": "2026-11-04T06:33:25.321Z",
-   "popularity": 7800,
+   "posted_at": "2026-11-04T06:33:48.513Z",
+   "popularity": 11000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -823,8 +707,8 @@
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=WhA2iNfzytY",
    "title": "the BIGGEST HACK of all time just started...",
-   "posted_at": "2026-11-02T06:33:31.213Z",
-   "popularity": 97000,
+   "posted_at": "2026-11-02T06:33:56.237Z",
+   "popularity": 98000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -846,8 +730,8 @@
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=rY8FuDONHxw",
    "title": "my bots just BROKE Wall St...",
-   "posted_at": "2026-10-31T06:33:33.103Z",
-   "popularity": 65000,
+   "posted_at": "2026-10-31T06:33:58.124Z",
+   "popularity": 67000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -863,37 +747,14 @@
    "picked": false
   },
   {
-   "id": "youtube:6-sMVePCKS4",
-   "platform": "youtube",
-   "source": "@WesRoth",
-   "person": "wesroth",
-   "url": "https://www.youtube.com/watch?v=6-sMVePCKS4",
-   "title": "Here's how to build ANYTHING with AI...",
-   "posted_at": "2026-10-29T06:33:34.931Z",
-   "popularity": 50000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-3f28447c9d7e.jpg",
-   "first_seen": "2026-10-29T06:38:06.709Z",
-   "picked": false
-  },
-  {
    "id": "youtube:c2cA_LnBvN0",
    "platform": "youtube",
    "source": "@AllAboutAI",
    "person": "allaboutai",
    "url": "https://www.youtube.com/watch?v=c2cA_LnBvN0",
    "title": "Best and Worst AI Predictions From The Midterms as Democrats Sweeps",
-   "posted_at": "2026-11-04T12:33:42.648Z",
-   "popularity": 1200,
+   "posted_at": "2026-11-05T06:34:05.646Z",
+   "popularity": 1600,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -915,8 +776,8 @@
    "person": "allaboutai",
    "url": "https://www.youtube.com/watch?v=SaBtmnZGBxo",
    "title": "Can AI Predict The Future and MAKE MONEY On The Outcome?",
-   "posted_at": "2026-11-01T06:33:44.659Z",
-   "popularity": 2300,
+   "posted_at": "2026-11-01T06:34:07.461Z",
+   "popularity": 2400,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -938,7 +799,7 @@
    "person": "allaboutai",
    "url": "https://www.youtube.com/watch?v=93JxG8dZv84",
    "title": "Can AI Predict the US Midterms?",
-   "posted_at": "2026-10-30T06:33:46.495Z",
+   "posted_at": "2026-10-30T06:34:09.353Z",
    "popularity": 2100,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -952,6 +813,53 @@
    },
    "media": "data/media/youtube-7594b3951cb8.jpg",
    "first_seen": "2026-10-30T06:38:06.540Z",
+   "picked": true
+  },
+  {
+   "id": "tiktok:7702273630838869278",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7702273630838869278",
+   "title": "PSA: I give safety tips for crypto accounts here as well as what we know now about the biggest crypto hack in history #ai #crypto #learn #learnontikok #new ",
+   "posted_at": "2026-10-30T01:55:27.000Z",
+   "popularity": 78000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 498200
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-5082dd3c1a3f.jpg",
+   "first_seen": "2026-10-30T06:38:06.540Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:pryCaGv8wuo",
+   "platform": "youtube",
+   "source": "@TwoMinutePapers",
+   "person": "twominutepapers",
+   "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+   "title": "DeepSeek's New AI Is An Absolute Monster",
+   "posted_at": "2026-10-29T06:32:24.830Z",
+   "popularity": 194000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-a15ec984353b.jpg",
+   "first_seen": "2026-10-29T06:38:06.709Z",
    "picked": true
   },
   {
