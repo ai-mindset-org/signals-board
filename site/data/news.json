@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T12:50:06.721Z",
+ "generated_at": "2026-11-06T13:11:04.835Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: 350m Tigris Data",
-   "ok": true
-  },
-  {
-   "source": "tiktok: 350m Tigris Data",
-   "ok": true
-  },
-  {
-   "source": "youtube: dropbox 350m tigris data",
-   "ok": true
-  },
-  {
-   "source": "tiktok: dropbox 350m tigris data",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -381,61 +364,6 @@
    "searched_at": "2026-11-04T12:50:08.322Z"
   },
   {
-   "first_seen": "2026-11-06T10:49:52.000Z",
-   "id": "39653118",
-   "ids": [
-    "39653118",
-    "39647556"
-   ],
-   "title": "DeepSeek plans official plugin marketplace as Harness daily users reach 1.54 million",
-   "url": "https://technode.com/2026/11/06/deepseek-plans-official-plugin-marketplace-as-harness-daily-users-reach-1-54-million/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-06 07:48:25",
-   "story_sources": 2,
-   "score_norm": 92,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "DeepSeek Harness Reaches 1.54 Million Daily Users and Plans an Official Plugin Marketplace",
-     "url": "https://pandaily.com/deepseek-harness-1-54-million-daily-active-users-official-plugin-marketplace"
-    }
-   ],
-   "queries": [
-    "deepseek harness 1.54 plans"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:C4ez8AzkwCc",
-     "url": "https://www.youtube.com/shorts/C4ez8AzkwCc",
-     "title": "DeepSeek Harness: Everything Is a Plugin #shorts",
-     "channel": "",
-     "views": 125,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uV8MKqyEDzQ",
-     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
-     "title": "DeepSeek Harness: everything-is-a-plugin",
-     "channel": "",
-     "views": 42,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T10:49:56.078Z"
-  },
-  {
    "first_seen": "2026-11-05T19:08:56.770Z",
    "id": "39636303",
    "ids": [
@@ -501,6 +429,61 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T07:23:35.938Z"
+  },
+  {
+   "first_seen": "2026-11-06T10:49:52.000Z",
+   "id": "39653118",
+   "ids": [
+    "39653118",
+    "39647556"
+   ],
+   "title": "DeepSeek plans official plugin marketplace as Harness daily users reach 1.54 million",
+   "url": "https://technode.com/2026/11/06/deepseek-plans-official-plugin-marketplace-as-harness-daily-users-reach-1-54-million/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-06 07:48:25",
+   "story_sources": 2,
+   "score_norm": 91,
+   "related_news": [
+    {
+     "source_id": "cn-pandaily",
+     "title": "DeepSeek Harness Reaches 1.54 Million Daily Users and Plans an Official Plugin Marketplace",
+     "url": "https://pandaily.com/deepseek-harness-1-54-million-daily-active-users-official-plugin-marketplace"
+    }
+   ],
+   "queries": [
+    "deepseek harness 1.54 plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:C4ez8AzkwCc",
+     "url": "https://www.youtube.com/shorts/C4ez8AzkwCc",
+     "title": "DeepSeek Harness: Everything Is a Plugin #shorts",
+     "channel": "",
+     "views": 125,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uV8MKqyEDzQ",
+     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
+     "title": "DeepSeek Harness: everything-is-a-plugin",
+     "channel": "",
+     "views": 42,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T10:49:56.078Z"
   },
   {
    "first_seen": "2026-11-06T12:36:34.846Z",
@@ -974,110 +957,6 @@
    "searched_at": "2026-11-03T22:50:05.900Z"
   },
   {
-   "first_seen": "2026-11-06T11:10:44.690Z",
-   "id": "39649200",
-   "ids": [
-    "39649200",
-    "39653732"
-   ],
-   "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
-   "url": "https://www.thehindu.com/sci-tech/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/article71672703.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-06 04:01:18",
-   "story_sources": 2,
-   "score_norm": 83,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "OpenAI launches GPT-6 Cyber with ‘Critical’ cybersecurity rating",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-10952870/"
-    }
-   ],
-   "queries": [
-    "GPT-6 Cyber",
-    "openai gpt-6 cyber launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0niZaatuQno",
-     "url": "https://www.youtube.com/shorts/0niZaatuQno",
-     "title": "GPT-6 Cyber Explained",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yqSx4csop6Q",
-     "url": "https://www.youtube.com/watch?v=yqSx4csop6Q",
-     "title": "OpenAI Launches GPT-6 Cyber: AI Model Finds 81 Firefox Security Flaws | NewsX",
-     "channel": "NewsX Live",
-     "views": 28,
-     "age_hours": 4,
-     "relevance": 0.57,
-     "velocity": 7
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FsyDcr5rGA8",
-     "url": "https://www.youtube.com/watch?v=FsyDcr5rGA8",
-     "title": "Introducing GPT-6 Cyber",
-     "channel": "Lifey Guy",
-     "views": 75,
-     "age_hours": 12,
-     "relevance": 0.67,
-     "velocity": 6
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Epdn9X-lqwM",
-     "url": "https://www.youtube.com/shorts/Epdn9X-lqwM",
-     "title": "GPT-6 Cyber Is Here: OpenAI's Flaw-Hunting AI Rated Critical",
-     "channel": "",
-     "views": 111,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uWbNFj13BeU",
-     "url": "https://www.youtube.com/shorts/uWbNFj13BeU",
-     "title": "OpenAI Launches GPT-6 Cyber: Rated \"Critical\" 🛡️ #shorts",
-     "channel": "",
-     "views": 67,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lP6Zy7hlQGw",
-     "url": "https://www.youtube.com/shorts/lP6Zy7hlQGw",
-     "title": "OpenAI launched GPT-6 Cyber, but you can't use it",
-     "channel": "",
-     "views": 62,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T11:10:56.412Z"
-  },
-  {
    "first_seen": "2026-11-05T22:49:28.125Z",
    "id": "39644164",
    "ids": [
@@ -1180,6 +1059,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-06T11:11:03.713Z"
+  },
+  {
+   "first_seen": "2026-11-06T11:10:44.690Z",
+   "id": "39649200",
+   "ids": [
+    "39649200",
+    "39653732"
+   ],
+   "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
+   "url": "https://www.thehindu.com/sci-tech/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/article71672703.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-06 04:01:18",
+   "story_sources": 2,
+   "score_norm": 82,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "OpenAI launches GPT-6 Cyber with ‘Critical’ cybersecurity rating",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating-10952870/"
+    }
+   ],
+   "queries": [
+    "GPT-6 Cyber",
+    "openai gpt-6 cyber launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0niZaatuQno",
+     "url": "https://www.youtube.com/shorts/0niZaatuQno",
+     "title": "GPT-6 Cyber Explained",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yqSx4csop6Q",
+     "url": "https://www.youtube.com/watch?v=yqSx4csop6Q",
+     "title": "OpenAI Launches GPT-6 Cyber: AI Model Finds 81 Firefox Security Flaws | NewsX",
+     "channel": "NewsX Live",
+     "views": 28,
+     "age_hours": 4,
+     "relevance": 0.57,
+     "velocity": 7
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FsyDcr5rGA8",
+     "url": "https://www.youtube.com/watch?v=FsyDcr5rGA8",
+     "title": "Introducing GPT-6 Cyber",
+     "channel": "Lifey Guy",
+     "views": 75,
+     "age_hours": 12,
+     "relevance": 0.67,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Epdn9X-lqwM",
+     "url": "https://www.youtube.com/shorts/Epdn9X-lqwM",
+     "title": "GPT-6 Cyber Is Here: OpenAI's Flaw-Hunting AI Rated Critical",
+     "channel": "",
+     "views": 111,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uWbNFj13BeU",
+     "url": "https://www.youtube.com/shorts/uWbNFj13BeU",
+     "title": "OpenAI Launches GPT-6 Cyber: Rated \"Critical\" 🛡️ #shorts",
+     "channel": "",
+     "views": 67,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lP6Zy7hlQGw",
+     "url": "https://www.youtube.com/shorts/lP6Zy7hlQGw",
+     "title": "OpenAI launched GPT-6 Cyber, but you can't use it",
+     "channel": "",
+     "views": 62,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T11:10:56.412Z"
   },
   {
    "first_seen": "2026-11-06T00:48:18.145Z",
@@ -2273,37 +2256,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-04T21:36:40.647Z"
-  },
-  {
-   "first_seen": "2026-11-03T16:36:31.521Z",
-   "id": "39590635",
-   "ids": [
-    "39590635",
-    "39585801"
-   ],
-   "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-03 12:58:05",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "What Qwen is thinking when it gets stuck saying \"Wait\"",
-     "url": "https://alisorcorp.github.io/inside-a-reasoning-loop/"
-    }
-   ],
-   "queries": [
-    "What Qwen",
-    "qwen thinking gets stuck"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-03T22:50:13.094Z"
   },
   {
    "first_seen": "2026-11-03T23:20:41.791Z",
