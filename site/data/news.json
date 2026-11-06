@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:20:23.944Z",
+ "generated_at": "2026-11-06T19:35:54.032Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Google Gemini Omni 1.2 Flash Adds 15-Second",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Google Gemini Omni 1.2 Flash Adds 15-Second",
-   "ok": true
-  },
-  {
-   "source": "youtube: google gemini omni 1.2",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini omni 1.2",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -338,6 +321,85 @@
    "searched_at": "2026-11-06T14:24:30.259Z"
   },
   {
+   "first_seen": "2026-11-06T18:14:56.225Z",
+   "id": "39644250",
+   "ids": [
+    "39644250",
+    "39661842"
+   ],
+   "title": "Perplexity launches its own take on AI agents for work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "source_id": "theverge",
+   "published_ts": "2026-11-05 22:26:50",
+   "story_sources": 2,
+   "score_norm": 87,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Perplexity launches AI agents for work",
+     "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+    }
+   ],
+   "queries": [
+    "perplexity launches own take"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_WtmleW09vI",
+     "url": "https://www.youtube.com/watch?v=_WtmleW09vI",
+     "title": "Perplexity launches AI Teammates",
+     "channel": "VarOps",
+     "views": 25,
+     "age_hours": 8,
+     "relevance": 0.75,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PupxSU_ge58",
+     "url": "https://www.youtube.com/shorts/PupxSU_ge58",
+     "title": "Perplexity launches its own take on AI agents for work",
+     "channel": "",
+     "views": 52,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4OYZWzBD_18",
+     "url": "https://www.youtube.com/shorts/4OYZWzBD_18",
+     "title": "Perplexity Launches AI Agents for Work",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:B3fJ3R98e80",
+     "url": "https://www.youtube.com/shorts/B3fJ3R98e80",
+     "title": "Perplexity launches work AI agents | codemago.dev/news",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T18:15:00.413Z"
+  },
+  {
    "first_seen": "2026-11-04T19:49:54.634Z",
    "id": "39617836",
    "ids": [
@@ -449,85 +511,6 @@
    "searched_at": "2026-11-05T14:24:12.116Z"
   },
   {
-   "first_seen": "2026-11-06T18:14:56.225Z",
-   "id": "39644250",
-   "ids": [
-    "39644250",
-    "39661842"
-   ],
-   "title": "Perplexity launches its own take on AI agents for work",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-   "source_id": "theverge",
-   "published_ts": "2026-11-05 22:26:50",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Perplexity launches AI agents for work",
-     "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
-    }
-   ],
-   "queries": [
-    "perplexity launches own take"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_WtmleW09vI",
-     "url": "https://www.youtube.com/watch?v=_WtmleW09vI",
-     "title": "Perplexity launches AI Teammates",
-     "channel": "VarOps",
-     "views": 25,
-     "age_hours": 8,
-     "relevance": 0.75,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PupxSU_ge58",
-     "url": "https://www.youtube.com/shorts/PupxSU_ge58",
-     "title": "Perplexity launches its own take on AI agents for work",
-     "channel": "",
-     "views": 52,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4OYZWzBD_18",
-     "url": "https://www.youtube.com/shorts/4OYZWzBD_18",
-     "title": "Perplexity Launches AI Agents for Work",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:B3fJ3R98e80",
-     "url": "https://www.youtube.com/shorts/B3fJ3R98e80",
-     "title": "Perplexity launches work AI agents | codemago.dev/news",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T18:15:00.413Z"
-  },
-  {
    "first_seen": "2026-11-06T01:12:34.954Z",
    "id": "39645734",
    "ids": [
@@ -631,109 +614,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T19:20:32.178Z"
-  },
-  {
-   "first_seen": "2026-11-03T20:21:41.850Z",
-   "id": "39594907",
-   "ids": [
-    "39594907",
-    "39595282"
-   ],
-   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-03 19:34:43",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "AI inference startup Fal doubles its value to $16B in a $1.3B round",
-     "url": "https://thenextweb.com/news/fal-1-3b-bessemer-16b-valuation-ai-inference"
-    }
-   ],
-   "queries": [
-    "fal 16b ai inference"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VyaIKwhcOOk",
-     "url": "https://www.youtube.com/shorts/VyaIKwhcOOk",
-     "title": "This AI startup doubled to $16B in 7 months",
-     "channel": "",
-     "views": 46,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vqAeIMX8IVs",
-     "url": "https://www.youtube.com/shorts/vqAeIMX8IVs",
-     "title": "5 Startup Doubles Valuation to 16B",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BN7yUq0_foA",
-     "url": "https://www.youtube.com/shorts/BN7yUq0_foA",
-     "title": "AI Startup fal Doubles Valuation to $16B After $1.65B Raise",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5w-PmN9n75Q",
-     "url": "https://www.youtube.com/shorts/5w-PmN9n75Q",
-     "title": "Fal Doubles to $16B in Days",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xiRq40ZUpGQ",
-     "url": "https://www.youtube.com/shorts/xiRq40ZUpGQ",
-     "title": "fal: raised $1.65B at $16B valuation for inference | AI news in 60s #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:u9cND6iKOVc",
-     "url": "https://www.youtube.com/watch?v=u9cND6iKOVc",
-     "title": "Abu Dhabi signs AI deals as fal doubles valuation",
-     "channel": "Global Advisors - Quantified Strategy",
-     "views": 0,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T14:36:44.277Z"
   },
   {
    "first_seen": "2026-11-03T18:13:19.978Z",
