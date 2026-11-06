@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T03:37:03.764Z",
+ "generated_at": "2026-11-06T04:50:08.418Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Gemini Omni 1.2 Flash",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Gemini Omni 1.2 Flash",
+   "ok": true
+  },
+  {
+   "source": "youtube: gemini omni 1.2 flash",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gemini omni 1.2 flash",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -272,7 +289,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-05 15:00:00",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -714,10 +731,10 @@
      "url": "https://www.youtube.com/watch?v=Kw9yRFd2HP0",
      "title": "Gemini Omni Flash 1.2 is live on ElevenCreative",
      "channel": "ElevenLabs",
-     "views": 4818,
-     "age_hours": 4,
+     "views": 9894,
+     "age_hours": 10,
      "relevance": 0.67,
-     "velocity": 1205
+     "velocity": 989
     },
     {
      "platform": "youtube",
@@ -726,10 +743,22 @@
      "url": "https://www.youtube.com/watch?v=jpl7l7GUb_4",
      "title": "Gemini Omni 1.2 Flash: Fast and Cheap Video Clips with Sound",
      "channel": "Fahd Mirza",
-     "views": 978,
-     "age_hours": 3,
+     "views": 3814,
+     "age_hours": 9,
      "relevance": 0.75,
-     "velocity": 326
+     "velocity": 424
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IbR90RYQGhQ",
+     "url": "https://www.youtube.com/watch?v=IbR90RYQGhQ",
+     "title": "I Tested Gemini Omni 1.2 Flash: Can You Save Money on Higgsfield?",
+     "channel": "AmalioMetria",
+     "views": 1186,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 237
     },
     {
      "platform": "youtube",
@@ -738,10 +767,10 @@
      "url": "https://www.youtube.com/watch?v=UOkWrjKKksw",
      "title": "Gemini Omni 1.2 Flash is now Live-  Refine, Edit, Reference, 4K",
      "channel": "Segmind",
-     "views": 566,
-     "age_hours": 5,
+     "views": 1653,
+     "age_hours": 11,
      "relevance": 0.5,
-     "velocity": 113
+     "velocity": 150
     },
     {
      "platform": "youtube",
@@ -750,41 +779,29 @@
      "url": "https://www.youtube.com/watch?v=9KMQYbWaTy8",
      "title": "Gemini Omni 1.2 Flash: 15-Second Ads You Fix by Chatting",
      "channel": "KiS",
-     "views": 91,
-     "age_hours": 1,
+     "views": 670,
+     "age_hours": 7,
      "relevance": 0.5,
-     "velocity": 91
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zjNTWXzvubg",
-     "url": "https://www.youtube.com/shorts/zjNTWXzvubg",
-     "title": "No Drone Flew This: Google Gemini Omni 1.2 Flash #Shorts",
-     "channel": "",
-     "views": 655,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "velocity": 96
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:iZI2yHERihI",
      "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
-     "title": "Gemini Omni 1.2 Flash vs the Old Version: Same Prompt, Only One Gets the Poster Right",
+     "title": "Gemini Omni 1.2 Flash: 15-Second AI Videos for About a Dollar",
      "channel": "Simply AI",
-     "views": 10,
-     "age_hours": 0.5,
+     "views": 556,
+     "age_hours": 6,
      "relevance": 0.5,
-     "velocity": 10
+     "velocity": 93
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T22:49:35.702Z"
+   "searched_at": "2026-11-06T04:50:16.440Z"
   },
   {
    "first_seen": "2026-11-06T00:48:18.145Z",
