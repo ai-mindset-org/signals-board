@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T13:11:04.835Z",
+ "generated_at": "2026-11-06T13:36:30.177Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Personal Finance",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Personal Finance",
+   "ok": true
+  },
+  {
+   "source": "youtube: claude personal finance can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: claude personal finance can",
+   "ok": true
+  },
+  {
+   "source": "youtube: elevenlabs ai-generated soundcloud lets",
+   "ok": true
+  },
+  {
+   "source": "tiktok: elevenlabs ai-generated soundcloud lets",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -248,21 +273,21 @@
      "url": "https://www.youtube.com/watch?v=UTubvRLX2j4",
      "title": "Introducing Personal Finance in Claude",
      "channel": "Claude",
-     "views": 213742,
-     "age_hours": 13,
+     "views": 250353,
+     "age_hours": 19,
      "relevance": 0.75,
-     "velocity": 16442
+     "velocity": 13176
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:lX61uHPPpzM",
-     "url": "https://www.youtube.com/shorts/lX61uHPPpzM",
-     "title": "Anthropic to roll out Claude’s Personal Finance tool #anthropic #ai",
+     "id": "youtube:sKUrASfSdHM",
+     "url": "https://www.youtube.com/shorts/sKUrASfSdHM",
+     "title": "Claude Introduces Personal Finance Tool for Spending Analysis 💰",
      "channel": "",
-     "views": 295,
+     "views": 172,
      "age_hours": null,
-     "relevance": 0.57,
+     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -272,22 +297,10 @@
      "url": "https://www.youtube.com/watch?v=mHRfmgvx8gU",
      "title": "Claude Personal Finance: What It Sees When You Connect Your Bank",
      "channel": "SimplyExplain",
-     "views": 4,
-     "age_hours": 1,
+     "views": 20,
+     "age_hours": 7,
      "relevance": 0.5,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sKUrASfSdHM",
-     "url": "https://www.youtube.com/shorts/sKUrASfSdHM",
-     "title": "Claude Introduces Personal Finance Tool for Spending Analysis 💰",
-     "channel": "",
-     "views": 141,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
+     "velocity": 3
     },
     {
      "platform": "youtube",
@@ -296,7 +309,7 @@
      "url": "https://www.youtube.com/shorts/Lr9iPZx_2kg",
      "title": "Claude can now read your bank account. Anthropic's Personal Finance beta is read-only, US only",
      "channel": "",
-     "views": 55,
+     "views": 81,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -304,21 +317,33 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:0wmWcwBi6w8",
-     "url": "https://www.youtube.com/watch?v=0wmWcwBi6w8",
-     "title": "Claude Personal Finance Beta: Check Bill Changes & Spending (US Paid Plans)",
-     "channel": "The Edge Engine",
-     "views": 8,
-     "age_hours": 11,
+     "id": "youtube:pjSzZSXVWQA",
+     "url": "https://www.youtube.com/watch?v=pjSzZSXVWQA",
+     "title": "Claude AI Can Now Manage Your Personal Finances? | Introducing Personal Finance in Claude",
+     "channel": "Ai Podcaster7",
+     "views": 2,
+     "age_hours": 1,
      "relevance": 0.57,
-     "velocity": 1
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5w_kv27-_1c",
+     "url": "https://www.youtube.com/shorts/5w_kv27-_1c",
+     "title": "Claude Can Now Read Your Bank Accounts: Personal Finance in Claude Explained",
+     "channel": "",
+     "views": 38,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-06T07:23:32.527Z"
+   "searched_at": "2026-11-06T13:36:37.709Z"
   },
   {
    "first_seen": "2026-11-04T00:29:28.437Z",
@@ -394,19 +419,7 @@
      "url": "https://www.youtube.com/shorts/UNtR-mBnAnQ",
      "title": "ElevenLabs Allows AI Music Publishing on SoundCloud 🎶",
      "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yqgat2-vx74",
-     "url": "https://www.youtube.com/shorts/yqgat2-vx74",
-     "title": "AI Music is taking over SoundCloud! 🎵",
-     "channel": "",
-     "views": 3,
+     "views": 20,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -418,7 +431,7 @@
      "url": "https://www.youtube.com/shorts/XGgZKdkJjGM",
      "title": "SoundCloud Now Publishes ElevenLabs AI Music Directly #shorts",
      "channel": "",
-     "views": 0,
+     "views": 3,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -428,7 +441,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-06T07:23:35.938Z"
+   "searched_at": "2026-11-06T13:36:41.159Z"
   },
   {
    "first_seen": "2026-11-06T10:49:52.000Z",
@@ -484,110 +497,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T10:49:56.078Z"
-  },
-  {
-   "first_seen": "2026-11-06T12:36:34.846Z",
-   "id": "39655135",
-   "ids": [
-    "39655135",
-    "39636025"
-   ],
-   "title": "Dropbox targets AI infrastructure gains with $350m Tigris Data acquisition",
-   "url": "https://www.itpro.com/business/acquisition/dropbox-targets-ai-infrastructure-gains-with-usd350m-tigris-data-acquisition",
-   "source_id": "eu-itpro",
-   "published_ts": "2026-11-06 11:04:39",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-     "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-    }
-   ],
-   "queries": [
-    "350m Tigris Data",
-    "dropbox 350m tigris data"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ypwmsE8VrQ4",
-     "url": "https://www.youtube.com/watch?v=ypwmsE8VrQ4",
-     "title": "Dropbox、Tigris Dataを5億ドルで買収しAI強化【もちもちエンジニアトピックス】",
-     "channel": "もちもちトピックス",
-     "views": 419,
-     "age_hours": 14,
-     "relevance": 0.5,
-     "velocity": 30
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mIUmSYV4hJQ",
-     "url": "https://www.youtube.com/shorts/mIUmSYV4hJQ",
-     "title": "Dropbox's $350M Tigris deal is its biggest acquisition ever",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:53_9hAFYpsM",
-     "url": "https://www.youtube.com/shorts/53_9hAFYpsM",
-     "title": "Dropbox Agrees to $350M Tigris Deal for AI Storage",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iteqvojsY2g",
-     "url": "https://www.youtube.com/shorts/iteqvojsY2g",
-     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mHjH1xaRbqc",
-     "url": "https://www.youtube.com/shorts/mHjH1xaRbqc",
-     "title": "Dropbox Acquires Tigris Data #Shorts",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gzGY1rZmbkk",
-     "url": "https://www.youtube.com/shorts/gzGY1rZmbkk",
-     "title": "Dropbox Buys Tigris Data for $350M #Shorts #Dropbox #AI",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T12:50:14.347Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -699,6 +608,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T14:24:12.116Z"
+  },
+  {
+   "first_seen": "2026-11-06T12:36:34.846Z",
+   "id": "39655135",
+   "ids": [
+    "39655135",
+    "39636025"
+   ],
+   "title": "Dropbox targets AI infrastructure gains with $350m Tigris Data acquisition",
+   "url": "https://www.itpro.com/business/acquisition/dropbox-targets-ai-infrastructure-gains-with-usd350m-tigris-data-acquisition",
+   "source_id": "eu-itpro",
+   "published_ts": "2026-11-06 11:04:39",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+     "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+    }
+   ],
+   "queries": [
+    "350m Tigris Data",
+    "dropbox 350m tigris data"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ypwmsE8VrQ4",
+     "url": "https://www.youtube.com/watch?v=ypwmsE8VrQ4",
+     "title": "Dropbox、Tigris Dataを5億ドルで買収しAI強化【もちもちエンジニアトピックス】",
+     "channel": "もちもちトピックス",
+     "views": 419,
+     "age_hours": 14,
+     "relevance": 0.5,
+     "velocity": 30
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mIUmSYV4hJQ",
+     "url": "https://www.youtube.com/shorts/mIUmSYV4hJQ",
+     "title": "Dropbox's $350M Tigris deal is its biggest acquisition ever",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:53_9hAFYpsM",
+     "url": "https://www.youtube.com/shorts/53_9hAFYpsM",
+     "title": "Dropbox Agrees to $350M Tigris Deal for AI Storage",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iteqvojsY2g",
+     "url": "https://www.youtube.com/shorts/iteqvojsY2g",
+     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mHjH1xaRbqc",
+     "url": "https://www.youtube.com/shorts/mHjH1xaRbqc",
+     "title": "Dropbox Acquires Tigris Data #Shorts",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gzGY1rZmbkk",
+     "url": "https://www.youtube.com/shorts/gzGY1rZmbkk",
+     "title": "Dropbox Buys Tigris Data for $350M #Shorts #Dropbox #AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T12:50:14.347Z"
   },
   {
    "first_seen": "2026-11-03T20:21:41.850Z",
