@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T20:11:05.369Z",
+ "generated_at": "2026-11-06T20:36:38.688Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: microsoft oracle winding down",
+   "source": "youtube: Wind Down Cybertruck Production",
    "ok": true
   },
   {
-   "source": "tiktok: microsoft oracle winding down",
+   "source": "tiktok: Wind Down Cybertruck Production",
+   "ok": true
+  },
+  {
+   "source": "youtube: tesla wind down cybertruck",
+   "ok": true
+  },
+  {
+   "source": "tiktok: tesla wind down cybertruck",
    "ok": true
   }
  ],
@@ -332,81 +340,160 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:_qLluPYHqxU",
+     "url": "https://www.youtube.com/watch?v=_qLluPYHqxU",
+     "title": "Tesla to wind down Cybertruck production",
+     "channel": "NBC News",
+     "views": 6014,
+     "age_hours": 1,
+     "relevance": 1,
+     "velocity": 6014
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SkeD2y-tiyw",
+     "url": "https://www.youtube.com/watch?v=SkeD2y-tiyw",
+     "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
+     "channel": "Forbes",
+     "views": 1828,
+     "age_hours": 2,
+     "relevance": 0.75,
+     "velocity": 914
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YCG4h0QH_Xg",
+     "url": "https://www.youtube.com/watch?v=YCG4h0QH_Xg",
+     "title": "Tesla to wind down Cybertruck production",
+     "channel": "KTLA 5",
+     "views": 2494,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 831
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CQuX-ffwRaI",
+     "url": "https://www.youtube.com/watch?v=CQuX-ffwRaI",
+     "title": "Elon Musk: Cybertruck production ending next year | KTVU",
+     "channel": "KTVU FOX 2 San Francisco",
+     "views": 1176,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 392
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:-XoplniEtrA",
+     "url": "https://www.youtube.com/watch?v=-XoplniEtrA",
+     "title": "Elon Musk says Tesla will end Cybertruck production in 2027",
+     "channel": "KHOU 11",
+     "views": 1161,
+     "age_hours": 3,
+     "relevance": 0.71,
+     "velocity": 387
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:meY_NCoTsuc",
      "url": "https://www.youtube.com/watch?v=meY_NCoTsuc",
      "title": "Tesla to wind down Cybertruck production at Austin Gigafactory, Musk says",
      "channel": "CBS Austin",
-     "views": 380,
-     "age_hours": 1,
+     "views": 2530,
+     "age_hours": 7,
      "relevance": 0.75,
-     "velocity": 380
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TWVzJ3BS5I4",
-     "url": "https://www.youtube.com/watch?v=TWVzJ3BS5I4",
-     "title": "Tesla Is Winding Down Cybertruck Production",
-     "channel": "WHAT'S INSIDE? FAMILY",
-     "views": 331,
-     "age_hours": 0.11666666666666667,
-     "relevance": 0.8,
-     "velocity": 331
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:T7JEU3iWuyI",
-     "url": "https://www.youtube.com/watch?v=T7JEU3iWuyI",
-     "title": "Tesla CEO says it will wind down production of its Cybertruck in Austin",
-     "channel": "WFAA",
-     "views": 170,
-     "age_hours": 1,
-     "relevance": 0.71,
-     "velocity": 170
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Pv7NDxfow3Y",
-     "url": "https://www.youtube.com/watch?v=Pv7NDxfow3Y",
-     "title": "Tesla Cybertruck Shock! Elon Musk Winds Down Production for Cybercab Robotaxi Push | TSG",
-     "channel": "The Sunday Guardian",
-     "views": 36,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 18
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bw6sVBZ6T6M",
-     "url": "https://www.youtube.com/watch?v=bw6sVBZ6T6M",
-     "title": "Tesla Will Wind Down Cybertruck for Cybercab",
-     "channel": "Tech Tick Daily",
-     "views": 32,
-     "age_hours": 3,
-     "relevance": 0.8,
-     "velocity": 11
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HAc4h0EQF78",
-     "url": "https://www.youtube.com/watch?v=HAc4h0EQF78",
-     "title": "What Tesla Keeps From the Cybertruck",
-     "channel": "EverythingXplained",
-     "views": 2,
-     "age_hours": 0.13333333333333333,
-     "relevance": 0.67,
-     "velocity": 2
+     "velocity": 361
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-06T14:24:30.259Z"
+   "searched_at": "2026-11-06T20:36:46.150Z"
+  },
+  {
+   "first_seen": "2026-11-06T18:14:56.225Z",
+   "id": "39644250",
+   "ids": [
+    "39644250",
+    "39661842"
+   ],
+   "title": "Perplexity launches its own take on AI agents for work",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "source_id": "theverge",
+   "published_ts": "2026-11-05 22:26:50",
+   "story_sources": 2,
+   "score_norm": 87,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Perplexity launches AI agents for work",
+     "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
+    }
+   ],
+   "queries": [
+    "perplexity launches own take"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_WtmleW09vI",
+     "url": "https://www.youtube.com/watch?v=_WtmleW09vI",
+     "title": "Perplexity launches AI Teammates",
+     "channel": "VarOps",
+     "views": 25,
+     "age_hours": 8,
+     "relevance": 0.75,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PupxSU_ge58",
+     "url": "https://www.youtube.com/shorts/PupxSU_ge58",
+     "title": "Perplexity launches its own take on AI agents for work",
+     "channel": "",
+     "views": 52,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4OYZWzBD_18",
+     "url": "https://www.youtube.com/shorts/4OYZWzBD_18",
+     "title": "Perplexity Launches AI Agents for Work",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:B3fJ3R98e80",
+     "url": "https://www.youtube.com/shorts/B3fJ3R98e80",
+     "title": "Perplexity launches work AI agents | codemago.dev/news",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T18:15:00.413Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -518,85 +605,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T14:24:12.116Z"
-  },
-  {
-   "first_seen": "2026-11-06T18:14:56.225Z",
-   "id": "39644250",
-   "ids": [
-    "39644250",
-    "39661842"
-   ],
-   "title": "Perplexity launches its own take on AI agents for work",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-   "source_id": "theverge",
-   "published_ts": "2026-11-05 22:26:50",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Perplexity launches AI agents for work",
-     "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work"
-    }
-   ],
-   "queries": [
-    "perplexity launches own take"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_WtmleW09vI",
-     "url": "https://www.youtube.com/watch?v=_WtmleW09vI",
-     "title": "Perplexity launches AI Teammates",
-     "channel": "VarOps",
-     "views": 25,
-     "age_hours": 8,
-     "relevance": 0.75,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PupxSU_ge58",
-     "url": "https://www.youtube.com/shorts/PupxSU_ge58",
-     "title": "Perplexity launches its own take on AI agents for work",
-     "channel": "",
-     "views": 52,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4OYZWzBD_18",
-     "url": "https://www.youtube.com/shorts/4OYZWzBD_18",
-     "title": "Perplexity Launches AI Agents for Work",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:B3fJ3R98e80",
-     "url": "https://www.youtube.com/shorts/B3fJ3R98e80",
-     "title": "Perplexity launches work AI agents | codemago.dev/news",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T18:15:00.413Z"
   },
   {
    "first_seen": "2026-11-06T01:12:34.954Z",
