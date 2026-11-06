@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T23:20:53.699Z",
+ "generated_at": "2026-11-06T00:29:42.663Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: meta conductor buys ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta conductor buys ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-05T18:49:58.511Z",
@@ -224,7 +233,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-05 15:00:00",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1235,41 +1244,53 @@
     }
    ],
    "queries": [
-    "meta conductor acquires ai"
+    "meta conductor buys ai"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:10NyE72YkxA",
-     "url": "https://www.youtube.com/watch?v=10NyE72YkxA",
-     "title": "AI News Today: Baidu 280B Open Model, Meta Buys Conductor, AI Research Expires",
-     "channel": "The Daily Neural",
-     "views": 5,
-     "age_hours": 2,
+     "id": "youtube:2moSrP2tJ7Q",
+     "url": "https://www.youtube.com/watch?v=2moSrP2tJ7Q",
+     "title": "META JUST ACQUIRED AN AI CODING SWARM?! Meet CONDUCTOR #ai #meta #agenticai",
+     "channel": "Jarvis AI Podcast",
+     "views": 13,
+     "age_hours": 10,
      "relevance": 0.5,
-     "velocity": 3
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:bbI4cbosxdo",
-     "url": "https://www.youtube.com/watch?v=bbI4cbosxdo",
-     "title": "AI News: Meta Buys Conductor, OpenAI's Pierre Deal & The Code Responsibility Crisis",
-     "channel": "Tiny Wingman",
-     "views": 12,
-     "age_hours": 8,
+     "id": "youtube:PBXEtYebNas",
+     "url": "https://www.youtube.com/watch?v=PBXEtYebNas",
+     "title": "OpenSSH Vulnerability Fix + Meta Buys Conductor",
+     "channel": "Programmer Sachin",
+     "views": 6,
+     "age_hours": 7,
      "relevance": 0.5,
-     "velocity": 2
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:PwMbl0rfUI0",
-     "url": "https://www.youtube.com/shorts/PwMbl0rfUI0",
-     "title": "Meta's New AI Coding Secret",
+     "id": "youtube:GY8z2t3o9y4",
+     "url": "https://www.youtube.com/shorts/GY8z2t3o9y4",
+     "title": "Meta Buys Conductor, An AI Coding Startup",
      "channel": "",
-     "views": 59,
+     "views": 25,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:54GJfdIIQcA",
+     "url": "https://www.youtube.com/shorts/54GJfdIIQcA",
+     "title": "Meta buys AI coding startup Conductor | codemago.dev/news",
+     "channel": "",
+     "views": 19,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -1277,45 +1298,33 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:gkK8m0XHEJ8",
-     "url": "https://www.youtube.com/shorts/gkK8m0XHEJ8",
-     "title": "AI Agents Explained in 30 Seconds (Why Meta Bought Conductor) #shorts",
+     "id": "youtube:luaeDOdrPhU",
+     "url": "https://www.youtube.com/shorts/luaeDOdrPhU",
+     "title": "Meta Ne Ek AI Coding Startup Kharid Liya: Conductor 🤖",
      "channel": "",
-     "views": 41,
+     "views": 16,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.56,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_DKJxcCMJDc",
-     "url": "https://www.youtube.com/watch?v=_DKJxcCMJDc",
-     "title": "China blocks SoftBank's 5.4 | Google unveils 15 billion dollars | Meta acquires AI coding startup |",
-     "channel": "SanMitra Tech Solutions",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.83,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sTgkG6fUZEk",
-     "url": "https://www.youtube.com/watch?v=sTgkG6fUZEk",
-     "title": "Daily AI News Digest: OpenAI Q3 Surge & Pierre Acquisition, Meta Buys Conductor, Model Watermarking",
-     "channel": "best-ai dot org",
-     "views": 3,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 1
+     "kind": "shorts",
+     "id": "youtube:aZtnrGSmIDk",
+     "url": "https://www.youtube.com/shorts/aZtnrGSmIDk",
+     "title": "Meta Buys Conductor: Coding Agents Go Parallel #AI #Meta #CodingAgents",
+     "channel": "",
+     "views": 14,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-05T18:15:00.511Z"
+   "searched_at": "2026-11-06T00:29:47.011Z"
   },
   {
    "first_seen": "2026-11-04T19:49:54.634Z",
@@ -1432,7 +1441,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-05 02:00:00",
    "story_sources": 2,
-   "score_norm": 55,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "hn",
@@ -1475,7 +1484,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-05 07:05:35",
    "story_sources": 2,
-   "score_norm": 52,
+   "score_norm": 53,
    "related_news": [
     {
      "source_id": "cn-pandaily",
