@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T21:35:35.321Z",
+ "generated_at": "2026-11-06T22:35:38.174Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic’s IPO Is Cratering",
+   "source": "youtube: google sued suicide-related ai",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic’s IPO Is Cratering",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo cratering",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo cratering",
+   "source": "tiktok: google sued suicide-related ai",
    "ok": true
   }
  ],
@@ -324,7 +316,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-06 13:53:04",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 93,
    "related_news": [
     {
      "source_id": "hn",
@@ -1165,7 +1157,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-06 05:44:46",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "eu-lemonde-pixels",
@@ -1181,7 +1173,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-06T16:23:04.631Z"
+   "searched_at": "2026-11-06T22:35:42.611Z"
   },
   {
    "first_seen": "2026-11-06T10:49:52.000Z",
