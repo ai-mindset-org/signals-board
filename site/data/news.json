@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T17:10:30.472Z",
+ "generated_at": "2026-11-06T17:20:56.094Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: deepseek harness 1.54 plans",
+   "source": "youtube: GPT-6 Cyber",
    "ok": true
   },
   {
-   "source": "tiktok: deepseek harness 1.54 plans",
+   "source": "tiktok: GPT-6 Cyber",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai gpt-6 cyber launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai gpt-6 cyber launches",
    "ok": true
   }
  ],
@@ -224,49 +232,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T07:23:25.578Z"
-  },
-  {
-   "first_seen": "2026-11-04T00:29:28.437Z",
-   "id": "39598940",
-   "ids": [
-    "39598940",
-    "39592786"
-   ],
-   "title": "StateBench: Testing how language models track state changes over long documents",
-   "url": "https://huggingface.co/blog/allenai/statebench",
-   "source_id": "hf-blog",
-   "published_ts": "2026-11-03 17:15:21",
-   "story_sources": 2,
-   "score_norm": 98,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "StateBench: Testing how language models track state changes over long documents",
-     "url": "https://allenai.org/blog/statebench"
-    }
-   ],
-   "queries": [
-    "statebench testing language models"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:V7d61YB3V_0",
-     "url": "https://www.youtube.com/shorts/V7d61YB3V_0",
-     "title": "Hugging Face: StateBench: Testing how language models track state changes over long documents",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-04T12:50:08.322Z"
   },
   {
    "first_seen": "2026-11-06T14:24:22.308Z",
@@ -752,7 +717,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-05 18:00:00",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "hn",
@@ -1507,39 +1472,15 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0niZaatuQno",
-     "url": "https://www.youtube.com/shorts/0niZaatuQno",
-     "title": "GPT-6 Cyber Explained",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
      "kind": "видео",
      "id": "youtube:yqSx4csop6Q",
      "url": "https://www.youtube.com/watch?v=yqSx4csop6Q",
      "title": "OpenAI Launches GPT-6 Cyber: AI Model Finds 81 Firefox Security Flaws | NewsX",
      "channel": "NewsX Live",
-     "views": 28,
-     "age_hours": 4,
+     "views": 118,
+     "age_hours": 10,
      "relevance": 0.57,
-     "velocity": 7
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FsyDcr5rGA8",
-     "url": "https://www.youtube.com/watch?v=FsyDcr5rGA8",
-     "title": "Introducing GPT-6 Cyber",
-     "channel": "Lifey Guy",
-     "views": 75,
-     "age_hours": 12,
-     "relevance": 0.67,
-     "velocity": 6
+     "velocity": 12
     },
     {
      "platform": "youtube",
@@ -1548,21 +1489,9 @@
      "url": "https://www.youtube.com/shorts/Epdn9X-lqwM",
      "title": "GPT-6 Cyber Is Here: OpenAI's Flaw-Hunting AI Rated Critical",
      "channel": "",
-     "views": 111,
+     "views": 114,
      "age_hours": null,
      "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uWbNFj13BeU",
-     "url": "https://www.youtube.com/shorts/uWbNFj13BeU",
-     "title": "OpenAI Launches GPT-6 Cyber: Rated \"Critical\" 🛡️ #shorts",
-     "channel": "",
-     "views": 67,
-     "age_hours": null,
-     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -1572,7 +1501,43 @@
      "url": "https://www.youtube.com/shorts/lP6Zy7hlQGw",
      "title": "OpenAI launched GPT-6 Cyber, but you can't use it",
      "channel": "",
-     "views": 62,
+     "views": 86,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uWbNFj13BeU",
+     "url": "https://www.youtube.com/shorts/uWbNFj13BeU",
+     "title": "OpenAI Launches GPT-6 Cyber: Rated \"Critical\" 🛡️ #shorts",
+     "channel": "",
+     "views": 84,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DE5bF2bQFpo",
+     "url": "https://www.youtube.com/watch?v=DE5bF2bQFpo",
+     "title": "OpenAI launches GPT-6 Cyber for gated offensive security… — and more by RuntimeWire (Nov 5th)",
+     "channel": "RuntimeWire",
+     "views": 29,
+     "age_hours": 15,
+     "relevance": 0.57,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5yMbJAsc_7k",
+     "url": "https://www.youtube.com/shorts/5yMbJAsc_7k",
+     "title": "GPT-6 Cyber: what changed for defenders?",
+     "channel": "",
+     "views": 57,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1582,7 +1547,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-06T11:10:56.412Z"
+   "searched_at": "2026-11-06T17:21:03.906Z"
   },
   {
    "first_seen": "2026-11-05T08:36:12.741Z",
