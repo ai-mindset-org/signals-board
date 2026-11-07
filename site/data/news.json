@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T00:27:45.014Z",
+ "generated_at": "2026-11-07T01:21:34.379Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: openai 11b 1.25t reportedly",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai 11b 1.25t reportedly",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-07T00:27:45.014Z",
@@ -764,7 +755,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-06 13:53:04",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "hn",
@@ -1016,7 +1007,7 @@
    "source_id": "futurism-ai",
    "published_ts": "2026-11-06 18:46:11",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
@@ -1800,7 +1791,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-06 05:44:46",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "eu-lemonde-pixels",
@@ -2370,36 +2361,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T00:48:30.078Z"
-  },
-  {
-   "first_seen": "2026-11-04T09:13:10.178Z",
-   "id": "39605989",
-   "ids": [
-    "39605989",
-    "39599762"
-   ],
-   "title": "AI can read neural network weights. I wasn't ready for that. [D]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-04 01:20:44",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
-     "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that/"
-    }
-   ],
-   "queries": [
-    "ai can read neural"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-04T21:36:40.647Z"
   },
   {
    "first_seen": "2026-11-03T21:35:58.367Z",
