@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T07:49:54.330Z",
+ "generated_at": "2026-11-07T08:24:13.941Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai cfo press ahead",
+   "source": "youtube: microsoft oracle winds down",
    "ok": true
   },
   {
-   "source": "tiktok: openai cfo press ahead",
+   "source": "tiktok: microsoft oracle winds down",
    "ok": true
   }
  ],
@@ -45,43 +45,43 @@
     }
    ],
    "queries": [
-    "microsoft oracle winding down"
+    "microsoft oracle winds down"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
+     "kind": "видео",
      "id": "youtube:srtrR3jlGEQ",
-     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
+     "url": "https://www.youtube.com/watch?v=srtrR3jlGEQ",
      "title": "$MSFT Winds Down Oracle AI Cloud Deal",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
+     "channel": "1 OF 1 HAWK",
+     "views": 32,
+     "age_hours": 11,
+     "relevance": 0.71,
+     "velocity": 3
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:71-m0UXoZZE",
-     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
-     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
+     "kind": "видео",
      "id": "youtube:BDpjp6DAwkY",
-     "url": "https://www.youtube.com/shorts/BDpjp6DAwkY",
+     "url": "https://www.youtube.com/watch?v=BDpjp6DAwkY",
      "title": "Oracle stock falls 4% as Microsoft winds down AI cloud capacity deal #Shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.63,
+     "channel": "Digital Akhbaar",
+     "views": 6,
+     "age_hours": 12,
+     "relevance": 0.88,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Va9YXZXFjZ0",
+     "url": "https://www.youtube.com/watch?v=Va9YXZXFjZ0",
+     "title": "Microsoft Winds Down Oracle AI Cloud Deal",
+     "channel": "Breaking News to Trading Moves",
+     "views": 0,
+     "age_hours": 1,
+     "relevance": 0.86,
      "velocity": null
     }
    ],
@@ -89,7 +89,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-07T02:14:20.254Z"
+   "searched_at": "2026-11-07T08:24:18.276Z"
   },
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
