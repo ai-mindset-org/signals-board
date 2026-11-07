@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:19:52.438Z",
+ "generated_at": "2026-11-07T00:27:45.014Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,15 +9,58 @@
  },
  "search_report": [
   {
-   "source": "youtube: deepseek harness 1.54 plans",
+   "source": "youtube: openai 11b 1.25t reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: deepseek harness 1.54 plans",
+   "source": "tiktok: openai 11b 1.25t reportedly",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-07T00:27:45.014Z",
+   "id": "39667710",
+   "ids": [
+    "39667710",
+    "39667474"
+   ],
+   "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+   "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-06 23:43:40",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI Secures $11B at $1.25T Valuation",
+     "url": "https://epyhia.com/openai-secures-11-billion-at-1-25-trillion-valuation-well-short-of"
+    }
+   ],
+   "queries": [
+    "openai 11b 1.25t reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ybARujL2uXw",
+     "url": "https://www.youtube.com/shorts/ybARujL2uXw",
+     "title": "OpenAI receives $11B in funding at a $1.25T valuation #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-07T00:27:48.805Z"
+  },
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
    "id": "39653579",
@@ -226,189 +269,6 @@
    "searched_at": "2026-11-06T07:23:25.578Z"
   },
   {
-   "first_seen": "2026-11-06T20:11:05.369Z",
-   "id": "39664139",
-   "ids": [
-    "39664139",
-    "39661915"
-   ],
-   "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
-   "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-06 18:57:38",
-   "story_sources": 2,
-   "score_norm": 99,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-     "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
-    }
-   ],
-   "queries": [
-    "microsoft oracle winding down"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bILnKksVaNE",
-     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
-     "title": "Oracle Is Down 50%. It's Still Spending on AI",
-     "channel": "",
-     "views": 242,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8mW6RzArxaE",
-     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
-     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:71-m0UXoZZE",
-     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
-     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BDpjp6DAwkY",
-     "url": "https://www.youtube.com/shorts/BDpjp6DAwkY",
-     "title": "Oracle stock falls 4% as Microsoft winds down AI cloud capacity deal #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T20:11:09.570Z"
-  },
-  {
-   "first_seen": "2026-11-06T14:24:22.308Z",
-   "id": "39657448",
-   "ids": [
-    "39657448",
-    "39655890"
-   ],
-   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-   "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-11-06 13:53:04",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-     "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
-    }
-   ],
-   "queries": [
-    "Wind Down Cybertruck Production",
-    "tesla wind down cybertruck"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_qLluPYHqxU",
-     "url": "https://www.youtube.com/watch?v=_qLluPYHqxU",
-     "title": "Tesla to wind down Cybertruck production",
-     "channel": "NBC News",
-     "views": 6014,
-     "age_hours": 1,
-     "relevance": 1,
-     "velocity": 6014
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SkeD2y-tiyw",
-     "url": "https://www.youtube.com/watch?v=SkeD2y-tiyw",
-     "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
-     "channel": "Forbes",
-     "views": 1828,
-     "age_hours": 2,
-     "relevance": 0.75,
-     "velocity": 914
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YCG4h0QH_Xg",
-     "url": "https://www.youtube.com/watch?v=YCG4h0QH_Xg",
-     "title": "Tesla to wind down Cybertruck production",
-     "channel": "KTLA 5",
-     "views": 2494,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 831
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CQuX-ffwRaI",
-     "url": "https://www.youtube.com/watch?v=CQuX-ffwRaI",
-     "title": "Elon Musk: Cybertruck production ending next year | KTVU",
-     "channel": "KTVU FOX 2 San Francisco",
-     "views": 1176,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 392
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:-XoplniEtrA",
-     "url": "https://www.youtube.com/watch?v=-XoplniEtrA",
-     "title": "Elon Musk says Tesla will end Cybertruck production in 2027",
-     "channel": "KHOU 11",
-     "views": 1161,
-     "age_hours": 3,
-     "relevance": 0.71,
-     "velocity": 387
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:meY_NCoTsuc",
-     "url": "https://www.youtube.com/watch?v=meY_NCoTsuc",
-     "title": "Tesla to wind down Cybertruck production at Austin Gigafactory, Musk says",
-     "channel": "CBS Austin",
-     "views": 2530,
-     "age_hours": 7,
-     "relevance": 0.75,
-     "velocity": 361
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T20:36:46.150Z"
-  },
-  {
    "first_seen": "2026-11-06T18:14:56.225Z",
    "id": "39644250",
    "ids": [
@@ -597,110 +457,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T14:24:12.116Z"
-  },
-  {
-   "first_seen": "2026-11-06T21:35:35.321Z",
-   "id": "39665514",
-   "ids": [
-    "39665514",
-    "39647322"
-   ],
-   "title": "Anthropic’s IPO Is Cratering",
-   "url": "https://futurism.com/artificial-intelligence/anthropics-ipo-cratering",
-   "source_id": "futurism-ai",
-   "published_ts": "2026-11-06 18:46:11",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "About That Anthropic IPO",
-     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/about-that-anthropic-ipo--HxROC02eSczLj6ht0MJz"
-    }
-   ],
-   "queries": [
-    "Anthropic’s IPO Is Cratering",
-    "anthropic ipo cratering"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6u9uZWtlUg8",
-     "url": "https://www.youtube.com/watch?v=6u9uZWtlUg8",
-     "title": "Dan Ives Sees Anthropic IPO Facing Valuation Pressure",
-     "channel": "Bloomberg Television",
-     "views": 49677,
-     "age_hours": 72,
-     "relevance": 0.67,
-     "velocity": 690
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:BZ76M7FSLVM",
-     "url": "https://www.youtube.com/watch?v=BZ76M7FSLVM",
-     "title": "Anthropic IPO: The Scam Of The Century",
-     "channel": "The Maverick of Wall Street",
-     "views": 28869,
-     "age_hours": 72,
-     "relevance": 0.67,
-     "velocity": 401
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:u1N0ECln7N0",
-     "url": "https://www.youtube.com/watch?v=u1N0ECln7N0",
-     "title": "Is Anthropic's $895-Billion IPO A Bubble Waiting to Burst? | Vantage on Firstpost",
-     "channel": "Firstpost",
-     "views": 19865,
-     "age_hours": 72,
-     "relevance": 0.67,
-     "velocity": 276
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4-wDpDW6XUw",
-     "url": "https://www.youtube.com/shorts/4-wDpDW6XUw",
-     "title": "Anthropic Hit $17 Billion In Q3Revenue Ahead Of IPO—But AI Spending Commitments Hit $900 Billion",
-     "channel": "",
-     "views": 6500,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zzjg2r_FHGE",
-     "url": "https://www.youtube.com/watch?v=zzjg2r_FHGE",
-     "title": "Anthropic's IPO will be a positive catalyst for tech, says New York Angels' Bob Peck",
-     "channel": "CNBC Television",
-     "views": 12237,
-     "age_hours": 72,
-     "relevance": 0.67,
-     "velocity": 170
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:n9KYgQ-IIKs",
-     "url": "https://www.youtube.com/watch?v=n9KYgQ-IIKs",
-     "title": "Anthropic Hit $17 Billion In Q3Revenue Ahead Of IPO—But AI Spending Commitments Hit $900 Billion",
-     "channel": "Forbes",
-     "views": 4947,
-     "age_hours": 72,
-     "relevance": 0.67,
-     "velocity": 69
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-06T21:35:43.193Z"
   },
   {
    "first_seen": "2026-11-06T01:12:34.954Z",
@@ -918,6 +674,189 @@
    "searched_at": "2026-11-04T12:50:11.949Z"
   },
   {
+   "first_seen": "2026-11-06T20:11:05.369Z",
+   "id": "39664139",
+   "ids": [
+    "39664139",
+    "39661915"
+   ],
+   "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
+   "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-06 18:57:38",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+     "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+    }
+   ],
+   "queries": [
+    "microsoft oracle winding down"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bILnKksVaNE",
+     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
+     "title": "Oracle Is Down 50%. It's Still Spending on AI",
+     "channel": "",
+     "views": 242,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8mW6RzArxaE",
+     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
+     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:71-m0UXoZZE",
+     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
+     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BDpjp6DAwkY",
+     "url": "https://www.youtube.com/shorts/BDpjp6DAwkY",
+     "title": "Oracle stock falls 4% as Microsoft winds down AI cloud capacity deal #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T20:11:09.570Z"
+  },
+  {
+   "first_seen": "2026-11-06T14:24:22.308Z",
+   "id": "39657448",
+   "ids": [
+    "39657448",
+    "39655890"
+   ],
+   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+   "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-11-06 13:53:04",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+     "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+    }
+   ],
+   "queries": [
+    "Wind Down Cybertruck Production",
+    "tesla wind down cybertruck"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_qLluPYHqxU",
+     "url": "https://www.youtube.com/watch?v=_qLluPYHqxU",
+     "title": "Tesla to wind down Cybertruck production",
+     "channel": "NBC News",
+     "views": 6014,
+     "age_hours": 1,
+     "relevance": 1,
+     "velocity": 6014
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SkeD2y-tiyw",
+     "url": "https://www.youtube.com/watch?v=SkeD2y-tiyw",
+     "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
+     "channel": "Forbes",
+     "views": 1828,
+     "age_hours": 2,
+     "relevance": 0.75,
+     "velocity": 914
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YCG4h0QH_Xg",
+     "url": "https://www.youtube.com/watch?v=YCG4h0QH_Xg",
+     "title": "Tesla to wind down Cybertruck production",
+     "channel": "KTLA 5",
+     "views": 2494,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 831
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CQuX-ffwRaI",
+     "url": "https://www.youtube.com/watch?v=CQuX-ffwRaI",
+     "title": "Elon Musk: Cybertruck production ending next year | KTVU",
+     "channel": "KTVU FOX 2 San Francisco",
+     "views": 1176,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 392
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:-XoplniEtrA",
+     "url": "https://www.youtube.com/watch?v=-XoplniEtrA",
+     "title": "Elon Musk says Tesla will end Cybertruck production in 2027",
+     "channel": "KHOU 11",
+     "views": 1161,
+     "age_hours": 3,
+     "relevance": 0.71,
+     "velocity": 387
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:meY_NCoTsuc",
+     "url": "https://www.youtube.com/watch?v=meY_NCoTsuc",
+     "title": "Tesla to wind down Cybertruck production at Austin Gigafactory, Musk says",
+     "channel": "CBS Austin",
+     "views": 2530,
+     "age_hours": 7,
+     "relevance": 0.75,
+     "velocity": 361
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-06T20:36:46.150Z"
+  },
+  {
    "first_seen": "2026-11-06T00:48:18.145Z",
    "id": "39645497",
    "ids": [
@@ -1066,6 +1005,110 @@
    "searched_at": "2026-11-06T13:36:37.709Z"
   },
   {
+   "first_seen": "2026-11-06T21:35:35.321Z",
+   "id": "39665514",
+   "ids": [
+    "39665514",
+    "39647322"
+   ],
+   "title": "Anthropic’s IPO Is Cratering",
+   "url": "https://futurism.com/artificial-intelligence/anthropics-ipo-cratering",
+   "source_id": "futurism-ai",
+   "published_ts": "2026-11-06 18:46:11",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "About That Anthropic IPO",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/about-that-anthropic-ipo--HxROC02eSczLj6ht0MJz"
+    }
+   ],
+   "queries": [
+    "Anthropic’s IPO Is Cratering",
+    "anthropic ipo cratering"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6u9uZWtlUg8",
+     "url": "https://www.youtube.com/watch?v=6u9uZWtlUg8",
+     "title": "Dan Ives Sees Anthropic IPO Facing Valuation Pressure",
+     "channel": "Bloomberg Television",
+     "views": 49677,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 690
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BZ76M7FSLVM",
+     "url": "https://www.youtube.com/watch?v=BZ76M7FSLVM",
+     "title": "Anthropic IPO: The Scam Of The Century",
+     "channel": "The Maverick of Wall Street",
+     "views": 28869,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 401
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:u1N0ECln7N0",
+     "url": "https://www.youtube.com/watch?v=u1N0ECln7N0",
+     "title": "Is Anthropic's $895-Billion IPO A Bubble Waiting to Burst? | Vantage on Firstpost",
+     "channel": "Firstpost",
+     "views": 19865,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 276
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4-wDpDW6XUw",
+     "url": "https://www.youtube.com/shorts/4-wDpDW6XUw",
+     "title": "Anthropic Hit $17 Billion In Q3Revenue Ahead Of IPO—But AI Spending Commitments Hit $900 Billion",
+     "channel": "",
+     "views": 6500,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zzjg2r_FHGE",
+     "url": "https://www.youtube.com/watch?v=zzjg2r_FHGE",
+     "title": "Anthropic's IPO will be a positive catalyst for tech, says New York Angels' Bob Peck",
+     "channel": "CNBC Television",
+     "views": 12237,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 170
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:n9KYgQ-IIKs",
+     "url": "https://www.youtube.com/watch?v=n9KYgQ-IIKs",
+     "title": "Anthropic Hit $17 Billion In Q3Revenue Ahead Of IPO—But AI Spending Commitments Hit $900 Billion",
+     "channel": "Forbes",
+     "views": 4947,
+     "age_hours": 72,
+     "relevance": 0.67,
+     "velocity": 69
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-06T21:35:43.193Z"
+  },
+  {
    "first_seen": "2026-11-04T10:24:47.094Z",
    "id": "39606974",
    "ids": [
@@ -1144,36 +1187,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-04T16:36:29.710Z"
-  },
-  {
-   "first_seen": "2026-11-06T16:23:00.438Z",
-   "id": "39649196",
-   "ids": [
-    "39649196",
-    "39659725"
-   ],
-   "title": "Google sued over suicide-related AI chats on school computer",
-   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-06 05:44:46",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "eu-lemonde-pixels",
-     "title": "Google sued over suicide-related AI chats on school computer",
-     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
-    }
-   ],
-   "queries": [
-    "google sued suicide-related ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-06T22:35:42.611Z"
   },
   {
    "first_seen": "2026-11-06T10:49:52.000Z",
@@ -1774,6 +1787,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T20:50:15.106Z"
+  },
+  {
+   "first_seen": "2026-11-06T16:23:00.438Z",
+   "id": "39649196",
+   "ids": [
+    "39649196",
+    "39659725"
+   ],
+   "title": "Google sued over suicide-related AI chats on school computer",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-06 05:44:46",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "eu-lemonde-pixels",
+     "title": "Google sued over suicide-related AI chats on school computer",
+     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
+    }
+   ],
+   "queries": [
+    "google sued suicide-related ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-06T22:35:42.611Z"
   },
   {
    "first_seen": "2026-11-05T14:12:50.437Z",
