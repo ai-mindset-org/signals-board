@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T06:37:09.143Z",
+ "generated_at": "2026-11-07T07:49:54.330Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai 11b 1.25t raises",
+   "source": "youtube: openai cfo press ahead",
    "ok": true
   },
   {
-   "source": "tiktok: openai 11b 1.25t raises",
+   "source": "tiktok: openai cfo press ahead",
    "ok": true
   }
  ],
@@ -813,6 +813,49 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-06T13:36:37.709Z"
+  },
+  {
+   "first_seen": "2026-11-07T07:49:54.330Z",
+   "id": "39672407",
+   "ids": [
+    "39672407",
+    "39671648"
+   ],
+   "title": "OpenAI to press ahead with data-centre expansion despite midterm sweep, CFO says",
+   "url": "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-07 04:56:58",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "OpenAI to press ahead with data-center expansion despite midterm sweep: Report",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
+    }
+   ],
+   "queries": [
+    "openai cfo press ahead"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rgWLYsQNVWE",
+     "url": "https://www.youtube.com/watch?v=rgWLYsQNVWE",
+     "title": "RERIGHT · OpenAI to press ahead with data-center expansion despite mid",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 7,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-07T07:49:58.374Z"
   },
   {
    "first_seen": "2026-11-06T21:35:35.321Z",
@@ -1918,7 +1961,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-06 13:53:04",
    "story_sources": 2,
-   "score_norm": 53,
+   "score_norm": 54,
    "related_news": [
     {
      "source_id": "hn",
@@ -2217,7 +2260,7 @@
    "source_id": "lesswrong-feed",
    "published_ts": "2026-11-06 18:30:54",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "x-thezvi-substack",
