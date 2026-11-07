@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T18:11:56.734Z",
+ "generated_at": "2026-11-07T18:49:40.229Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: openai 11b 1.25t raises",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai 11b 1.25t raises",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -253,7 +262,7 @@
      "url": "https://www.youtube.com/shorts/56uwF8CWuW0",
      "title": "OpenAI reaches 1.25 trillion dollar valuation after 11 billion funding round",
      "channel": "",
-     "views": 10,
+     "views": 12,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -265,7 +274,7 @@
      "url": "https://www.youtube.com/shorts/ybARujL2uXw",
      "title": "OpenAI receives $11B in funding at a $1.25T valuation #Shorts",
      "channel": "",
-     "views": 8,
+     "views": 10,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
@@ -273,13 +282,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:YyCd7VhcEh8",
-     "url": "https://www.youtube.com/shorts/YyCd7VhcEh8",
-     "title": "OpenAI Raises $11B to $1.2T! Will You Still Have a Job?",
+     "id": "youtube:UUA2Nxb-tNw",
+     "url": "https://www.youtube.com/shorts/UUA2Nxb-tNw",
+     "title": "OpenAI reportedly raises $11B so far at $1.25T valuation · Nov 7",
      "channel": "",
-     "views": 4,
+     "views": 6,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -289,7 +298,7 @@
      "url": "https://www.youtube.com/shorts/_L2FH68S9g8",
      "title": "OpenAI Raises $11B At $1.25T Valuation",
      "channel": "",
-     "views": 2,
+     "views": 4,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -305,13 +314,25 @@
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:R4qn2uJ8v8k",
+     "url": "https://www.youtube.com/shorts/R4qn2uJ8v8k",
+     "title": "OpenAI raises $11B at $1.25T valuation",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-07T12:49:28.254Z"
+   "searched_at": "2026-11-07T18:49:44.360Z"
   },
   {
    "first_seen": "2026-11-06T18:14:56.225Z",
@@ -542,6 +563,110 @@
    "searched_at": "2026-11-06T06:50:07.051Z"
   },
   {
+   "first_seen": "2026-11-06T20:11:05.369Z",
+   "id": "39664139",
+   "ids": [
+    "39664139",
+    "39661915",
+    "39670301"
+   ],
+   "title": "Microsoft winds down Oracle deal for AI computing capacity",
+   "url": "https://www.techinasia.com/news/microsoft-winds-oracle-ai-deal-nvidia-chips",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-07 02:42:23",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
+     "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal"
+    }
+   ],
+   "queries": [
+    "microsoft oracle winds down"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bILnKksVaNE",
+     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
+     "title": "Oracle Is Down 50%. It's Still Spending on AI",
+     "channel": "",
+     "views": 561,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8mW6RzArxaE",
+     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
+     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
+     "channel": "",
+     "views": 47,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:srtrR3jlGEQ",
+     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
+     "title": "$MSFT Winds Down Oracle AI Cloud Deal",
+     "channel": "",
+     "views": 37,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:71-m0UXoZZE",
+     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
+     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ut_KpnbjPls",
+     "url": "https://www.youtube.com/shorts/ut_KpnbjPls",
+     "title": "Microsoft Cuts Oracle AI Cloud Deal",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fEWyHTStdeI",
+     "url": "https://www.youtube.com/shorts/fEWyHTStdeI",
+     "title": "Microsoft Reportedly Winds Down an Oracle AI Deal. When Do Contracts Become Revenue? #MSFT #ORCL",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-07T14:35:39.982Z"
+  },
+  {
    "first_seen": "2026-11-05T18:49:58.511Z",
    "id": "39639592",
    "ids": [
@@ -644,110 +769,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-06T13:36:37.709Z"
-  },
-  {
-   "first_seen": "2026-11-06T20:11:05.369Z",
-   "id": "39664139",
-   "ids": [
-    "39664139",
-    "39661915",
-    "39670301"
-   ],
-   "title": "Microsoft winds down Oracle deal for AI computing capacity",
-   "url": "https://www.techinasia.com/news/microsoft-winds-oracle-ai-deal-nvidia-chips",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-07 02:42:23",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
-     "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal"
-    }
-   ],
-   "queries": [
-    "microsoft oracle winds down"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bILnKksVaNE",
-     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
-     "title": "Oracle Is Down 50%. It's Still Spending on AI",
-     "channel": "",
-     "views": 561,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8mW6RzArxaE",
-     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
-     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
-     "channel": "",
-     "views": 47,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:srtrR3jlGEQ",
-     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
-     "title": "$MSFT Winds Down Oracle AI Cloud Deal",
-     "channel": "",
-     "views": 37,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:71-m0UXoZZE",
-     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
-     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ut_KpnbjPls",
-     "url": "https://www.youtube.com/shorts/ut_KpnbjPls",
-     "title": "Microsoft Cuts Oracle AI Cloud Deal",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fEWyHTStdeI",
-     "url": "https://www.youtube.com/shorts/fEWyHTStdeI",
-     "title": "Microsoft Reportedly Winds Down an Oracle AI Deal. When Do Contracts Become Revenue? #MSFT #ORCL",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-07T14:35:39.982Z"
   },
   {
    "first_seen": "2026-11-06T21:35:35.321Z",
