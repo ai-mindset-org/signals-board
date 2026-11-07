@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T11:35:38.909Z",
+ "generated_at": "2026-11-07T12:26:59.262Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: GPT-6 Astra Covertly Underperforms",
-   "ok": true
-  },
-  {
-   "source": "tiktok: GPT-6 Astra Covertly Underperforms",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt-6 astra covertly underperforms",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-6 astra covertly underperforms",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-06T20:11:05.369Z",
@@ -1811,49 +1794,6 @@
    "searched_at": "2026-11-05T14:24:15.649Z"
   },
   {
-   "first_seen": "2026-11-05T21:36:31.241Z",
-   "id": "39643020",
-   "ids": [
-    "39643020",
-    "39632645"
-   ],
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-05 02:00:00",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Setting a new standard for responsible AI infrastructure",
-     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"
-    }
-   ],
-   "queries": [
-    "setting standard responsible ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MbIOVQ3Lag0",
-     "url": "https://www.youtube.com/shorts/MbIOVQ3Lag0",
-     "title": "Setting a new standard for responsible AI infrastructu! #Shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T21:36:36.241Z"
-  },
-  {
    "first_seen": "2026-11-06T14:24:22.308Z",
    "id": "39657448",
    "ids": [
@@ -1865,7 +1805,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-06 13:53:04",
    "story_sources": 2,
-   "score_norm": 55,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "hn",
@@ -1956,6 +1896,49 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-07T08:49:32.891Z"
+  },
+  {
+   "first_seen": "2026-11-05T21:36:31.241Z",
+   "id": "39643020",
+   "ids": [
+    "39643020",
+    "39632645"
+   ],
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-05 02:00:00",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Setting a new standard for responsible AI infrastructure",
+     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"
+    }
+   ],
+   "queries": [
+    "setting standard responsible ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MbIOVQ3Lag0",
+     "url": "https://www.youtube.com/shorts/MbIOVQ3Lag0",
+     "title": "Setting a new standard for responsible AI infrastructu! #Shorts",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-05T21:36:36.241Z"
   },
   {
    "first_seen": "2026-11-06T12:16:53.791Z",
@@ -2389,37 +2372,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-05T07:49:54.959Z"
-  },
-  {
-   "first_seen": "2026-11-04T13:11:00.145Z",
-   "id": "39609749",
-   "ids": [
-    "39609749",
-    "39607389"
-   ],
-   "title": "Smart Reports: Was Vorgesetzte über die Claude-Nutzung von Mitarbeitern erfahren",
-   "url": "https://www.heise.de/news/Smart-Reports-Was-Vorgesetzte-ueber-die-Claude-Nutzung-von-Mitarbeitern-erfahren-11511478.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-04 12:24:00",
-   "story_sources": 2,
-   "score_norm": 37,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Smart Reports: Was Vorgesetzte jetzt über die Claude-Nutzung von Mitarbeitenden erfahren können",
-     "url": "https://t3n.de/news/smart-reports-was-vorgesetzte-jetzt-ueber-die-claude-nutzung-von-mitarbeitenden-erfahren-koennen-1771500/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Smart Reports",
-    "smart reports vorgesetzte claude-nutzung"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T01:23:22.546Z"
   }
  ]
 }
