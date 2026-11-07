@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T12:49:24.512Z",
+ "generated_at": "2026-11-07T13:50:08.498Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai 11b 1.25t raises",
+   "source": "youtube: openai cfo press ahead",
    "ok": true
   },
   {
-   "source": "tiktok: openai 11b 1.25t raises",
+   "source": "tiktok: openai cfo press ahead",
    "ok": true
   }
  ],
@@ -974,7 +974,7 @@
      "title": "RERIGHT · OpenAI to press ahead with data-center expansion despite mid",
      "channel": "reright",
      "views": 0,
-     "age_hours": 7,
+     "age_hours": 13,
      "relevance": 0.63,
      "velocity": null
     }
@@ -983,7 +983,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-07T07:49:58.374Z"
+   "searched_at": "2026-11-07T13:50:12.601Z"
   },
   {
    "first_seen": "2026-11-06T10:49:52.000Z",
