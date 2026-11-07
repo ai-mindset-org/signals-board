@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T10:35:40.949Z",
+ "generated_at": "2026-11-07T11:35:38.909Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: GPT-6 Astra Covertly Underperforms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: GPT-6 Astra Covertly Underperforms",
+   "ok": true
+  },
+  {
+   "source": "youtube: gpt-6 astra covertly underperforms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gpt-6 astra covertly underperforms",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-06T20:11:05.369Z",
@@ -806,49 +823,6 @@
    "searched_at": "2026-11-06T13:36:37.709Z"
   },
   {
-   "first_seen": "2026-11-07T07:49:54.330Z",
-   "id": "39672407",
-   "ids": [
-    "39672407",
-    "39671648"
-   ],
-   "title": "OpenAI to press ahead with data-centre expansion despite midterm sweep, CFO says",
-   "url": "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-07 04:56:58",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "OpenAI to press ahead with data-center expansion despite midterm sweep: Report",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
-    }
-   ],
-   "queries": [
-    "openai cfo press ahead"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rgWLYsQNVWE",
-     "url": "https://www.youtube.com/watch?v=rgWLYsQNVWE",
-     "title": "RERIGHT · OpenAI to press ahead with data-center expansion despite mid",
-     "channel": "reright",
-     "views": 0,
-     "age_hours": 7,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-07T07:49:58.374Z"
-  },
-  {
    "first_seen": "2026-11-06T21:35:35.321Z",
    "id": "39665514",
    "ids": [
@@ -951,6 +925,49 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-06T21:35:43.193Z"
+  },
+  {
+   "first_seen": "2026-11-07T07:49:54.330Z",
+   "id": "39672407",
+   "ids": [
+    "39672407",
+    "39671648"
+   ],
+   "title": "OpenAI to press ahead with data-centre expansion despite midterm sweep, CFO says",
+   "url": "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-07 04:56:58",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "OpenAI to press ahead with data-center expansion despite midterm sweep: Report",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
+    }
+   ],
+   "queries": [
+    "openai cfo press ahead"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rgWLYsQNVWE",
+     "url": "https://www.youtube.com/watch?v=rgWLYsQNVWE",
+     "title": "RERIGHT · OpenAI to press ahead with data-center expansion despite mid",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 7,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-07T07:49:58.374Z"
   },
   {
    "first_seen": "2026-11-06T10:49:52.000Z",
@@ -2162,13 +2179,25 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jXRCP7UJqhg",
+     "url": "https://www.youtube.com/shorts/jXRCP7UJqhg",
+     "title": "OpenAI: GPT-6 Astra Underperforms on Safety Research",
+     "channel": "",
+     "views": 104,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
      "kind": "видео",
      "id": "youtube:71lyAxzgcsM",
      "url": "https://www.youtube.com/watch?v=71lyAxzgcsM",
      "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
      "channel": "AskwhoCasts AI",
-     "views": 17,
-     "age_hours": 10,
+     "views": 37,
+     "age_hours": 16,
      "relevance": 1,
      "velocity": 2
     },
@@ -2179,7 +2208,7 @@
      "url": "https://www.youtube.com/shorts/DbufTxCasmc",
      "title": "OpenAI Says GPT-6 Astra Quietly Did Less on Safety Research",
      "channel": "",
-     "views": 61,
+     "views": 63,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -2191,8 +2220,8 @@
      "url": "https://www.youtube.com/watch?v=bl-q2kPhSyg",
      "title": "Researchers Caught GPT-6 Astra Quietly SABOTAGING Safety Research…",
      "channel": "Hype or Real",
-     "views": 7,
-     "age_hours": 7,
+     "views": 12,
+     "age_hours": 13,
      "relevance": 0.57,
      "velocity": 1
     },
@@ -2203,41 +2232,29 @@
      "url": "https://www.youtube.com/watch?v=CQHoQmoim5s",
      "title": "OpenAI Says GPT-6 Astra Quietly Held Back on Safety Research",
      "channel": "The Daily Token",
-     "views": 13,
+     "views": 14,
      "age_hours": 24,
      "relevance": 0.57,
      "velocity": 1
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MRLUwxKeOts",
-     "url": "https://www.youtube.com/shorts/MRLUwxKeOts",
-     "title": "OpenAI's GPT-6 Astra QUIETLY Stalled Safety Research 😳 #Shorts",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:HKIyZZlgsDk",
+     "url": "https://www.youtube.com/watch?v=HKIyZZlgsDk",
+     "title": "OpenAI's GPT-6 Astra Quietly Did Less on Safety Research. Its Monitors Didn't Flag It.",
+     "channel": "Broke in Prod ",
+     "views": 14,
+     "age_hours": 24,
      "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jXRCP7UJqhg",
-     "url": "https://www.youtube.com/shorts/jXRCP7UJqhg",
-     "title": "OpenAI: GPT-6 Astra Underperforms on Safety Research",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-07T05:20:30.753Z"
+   "searched_at": "2026-11-07T11:35:46.374Z"
   },
   {
    "first_seen": "2026-11-05T07:23:40.700Z",
