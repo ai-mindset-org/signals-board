@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T03:36:24.481Z",
+ "generated_at": "2026-11-07T04:23:39.597Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -10,39 +10,69 @@
  "search_report": [],
  "stories": [
   {
-   "first_seen": "2026-11-07T00:27:45.014Z",
-   "id": "39667710",
+   "first_seen": "2026-11-06T20:11:05.369Z",
+   "id": "39664139",
    "ids": [
-    "39667710",
-    "39667474"
+    "39664139",
+    "39661915",
+    "39670301"
    ],
-   "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
-   "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-06 23:43:40",
-   "story_sources": 2,
+   "title": "Microsoft winds down Oracle deal for AI computing capacity",
+   "url": "https://www.techinasia.com/news/microsoft-winds-oracle-ai-deal-nvidia-chips",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-07 02:42:23",
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
     {
+     "source_id": "eu-tnw",
+     "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
+     "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal"
+    },
+    {
      "source_id": "hn",
-     "title": "OpenAI Secures $11B at $1.25T Valuation",
-     "url": "https://epyhia.com/openai-secures-11-billion-at-1-25-trillion-valuation-well-short-of"
+     "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+     "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
     }
    ],
    "queries": [
-    "openai 11b 1.25t reportedly"
+    "microsoft oracle winding down"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:ybARujL2uXw",
-     "url": "https://www.youtube.com/shorts/ybARujL2uXw",
-     "title": "OpenAI receives $11B in funding at a $1.25T valuation #Shorts",
+     "id": "youtube:srtrR3jlGEQ",
+     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
+     "title": "$MSFT Winds Down Oracle AI Cloud Deal",
      "channel": "",
-     "views": 1,
+     "views": 16,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:71-m0UXoZZE",
+     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
+     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BDpjp6DAwkY",
+     "url": "https://www.youtube.com/shorts/BDpjp6DAwkY",
+     "title": "Oracle stock falls 4% as Microsoft winds down AI cloud capacity deal #Shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -50,7 +80,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-07T00:27:48.805Z"
+   "searched_at": "2026-11-07T02:14:20.254Z"
   },
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -260,6 +290,55 @@
    "searched_at": "2026-11-06T07:23:25.578Z"
   },
   {
+   "first_seen": "2026-11-07T00:27:45.014Z",
+   "id": "39667710",
+   "ids": [
+    "39667710",
+    "39667474",
+    "39670308"
+   ],
+   "title": "OpenAI raises $11b at $1.25t valuation in funding round",
+   "url": "https://www.techinasia.com/news/openai-raises-11b-125t-valuation-funding",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-07 01:13:15",
+   "story_sources": 3,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+     "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/"
+    },
+    {
+     "source_id": "hn",
+     "title": "OpenAI Secures $11B at $1.25T Valuation",
+     "url": "https://epyhia.com/openai-secures-11-billion-at-1-25-trillion-valuation-well-short-of"
+    }
+   ],
+   "queries": [
+    "openai 11b 1.25t reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ybARujL2uXw",
+     "url": "https://www.youtube.com/shorts/ybARujL2uXw",
+     "title": "OpenAI receives $11B in funding at a $1.25T valuation #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-07T00:27:48.805Z"
+  },
+  {
    "first_seen": "2026-11-06T18:14:56.225Z",
    "id": "39644250",
    "ids": [
@@ -450,73 +529,6 @@
    "searched_at": "2026-11-05T14:24:12.116Z"
   },
   {
-   "first_seen": "2026-11-06T20:11:05.369Z",
-   "id": "39664139",
-   "ids": [
-    "39664139",
-    "39661915"
-   ],
-   "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
-   "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-06 18:57:38",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-     "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
-    }
-   ],
-   "queries": [
-    "microsoft oracle winding down"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:srtrR3jlGEQ",
-     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
-     "title": "$MSFT Winds Down Oracle AI Cloud Deal",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:71-m0UXoZZE",
-     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
-     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BDpjp6DAwkY",
-     "url": "https://www.youtube.com/shorts/BDpjp6DAwkY",
-     "title": "Oracle stock falls 4% as Microsoft winds down AI cloud capacity deal #Shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-07T02:14:20.254Z"
-  },
-  {
    "first_seen": "2026-11-06T01:12:34.954Z",
    "id": "39645734",
    "ids": [
@@ -620,110 +632,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T19:20:32.178Z"
-  },
-  {
-   "first_seen": "2026-11-06T14:24:22.308Z",
-   "id": "39657448",
-   "ids": [
-    "39657448",
-    "39655890"
-   ],
-   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-   "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-11-06 13:53:04",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-     "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
-    }
-   ],
-   "queries": [
-    "Wind Down Cybertruck Production",
-    "tesla wind down cybertruck"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wisQR4efdQg",
-     "url": "https://www.youtube.com/watch?v=wisQR4efdQg",
-     "title": "More BAD NEWS For Elon Musk",
-     "channel": "The Damage Report",
-     "views": 87923,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 21981
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_qLluPYHqxU",
-     "url": "https://www.youtube.com/watch?v=_qLluPYHqxU",
-     "title": "Tesla to wind down Cybertruck production",
-     "channel": "NBC News",
-     "views": 53723,
-     "age_hours": 7,
-     "relevance": 1,
-     "velocity": 7675
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FG0P2qrhLT0",
-     "url": "https://www.youtube.com/watch?v=FG0P2qrhLT0",
-     "title": "Tesla to wind down production of Cybertruck",
-     "channel": "NBC News",
-     "views": 5025,
-     "age_hours": 2,
-     "relevance": 1,
-     "velocity": 2513
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SkeD2y-tiyw",
-     "url": "https://www.youtube.com/watch?v=SkeD2y-tiyw",
-     "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
-     "channel": "Forbes",
-     "views": 10211,
-     "age_hours": 8,
-     "relevance": 0.75,
-     "velocity": 1276
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:P3FNBB14VVU",
-     "url": "https://www.youtube.com/watch?v=P3FNBB14VVU",
-     "title": "Tesla to wind down Cybertruck production #shorts",
-     "channel": "PBS NewsHour",
-     "views": 2055,
-     "age_hours": 4,
-     "relevance": 0.83,
-     "velocity": 514
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CQuX-ffwRaI",
-     "url": "https://www.youtube.com/watch?v=CQuX-ffwRaI",
-     "title": "Elon Musk: Cybertruck production ending next year | KTVU",
-     "channel": "KTVU FOX 2 San Francisco",
-     "views": 4232,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 470
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-07T02:37:01.746Z"
   },
   {
    "first_seen": "2026-11-06T00:48:18.145Z",
@@ -2239,6 +2147,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T00:48:30.078Z"
+  },
+  {
+   "first_seen": "2026-11-06T14:24:22.308Z",
+   "id": "39657448",
+   "ids": [
+    "39657448",
+    "39655890"
+   ],
+   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+   "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-11-06 13:53:04",
+   "story_sources": 2,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+     "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+    }
+   ],
+   "queries": [
+    "Wind Down Cybertruck Production",
+    "tesla wind down cybertruck"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wisQR4efdQg",
+     "url": "https://www.youtube.com/watch?v=wisQR4efdQg",
+     "title": "More BAD NEWS For Elon Musk",
+     "channel": "The Damage Report",
+     "views": 87923,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 21981
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_qLluPYHqxU",
+     "url": "https://www.youtube.com/watch?v=_qLluPYHqxU",
+     "title": "Tesla to wind down Cybertruck production",
+     "channel": "NBC News",
+     "views": 53723,
+     "age_hours": 7,
+     "relevance": 1,
+     "velocity": 7675
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FG0P2qrhLT0",
+     "url": "https://www.youtube.com/watch?v=FG0P2qrhLT0",
+     "title": "Tesla to wind down production of Cybertruck",
+     "channel": "NBC News",
+     "views": 5025,
+     "age_hours": 2,
+     "relevance": 1,
+     "velocity": 2513
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SkeD2y-tiyw",
+     "url": "https://www.youtube.com/watch?v=SkeD2y-tiyw",
+     "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
+     "channel": "Forbes",
+     "views": 10211,
+     "age_hours": 8,
+     "relevance": 0.75,
+     "velocity": 1276
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:P3FNBB14VVU",
+     "url": "https://www.youtube.com/watch?v=P3FNBB14VVU",
+     "title": "Tesla to wind down Cybertruck production #shorts",
+     "channel": "PBS NewsHour",
+     "views": 2055,
+     "age_hours": 4,
+     "relevance": 0.83,
+     "velocity": 514
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CQuX-ffwRaI",
+     "url": "https://www.youtube.com/watch?v=CQuX-ffwRaI",
+     "title": "Elon Musk: Cybertruck production ending next year | KTVU",
+     "channel": "KTVU FOX 2 San Francisco",
+     "views": 4232,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 470
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-07T02:37:01.746Z"
   },
   {
    "first_seen": "2026-11-03T21:35:58.367Z",
