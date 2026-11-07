@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T05:20:23.309Z",
+ "generated_at": "2026-11-07T06:37:09.143Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT-6 Astra Covertly Underperforms",
+   "source": "youtube: openai 11b 1.25t raises",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-6 Astra Covertly Underperforms",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt-6 astra covertly underperforms",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-6 astra covertly underperforms",
+   "source": "tiktok: openai 11b 1.25t raises",
    "ok": true
   }
  ],
@@ -333,7 +325,7 @@
     }
    ],
    "queries": [
-    "openai 11b 1.25t reportedly"
+    "openai 11b 1.25t raises"
    ],
    "videos": [
     {
@@ -343,9 +335,33 @@
      "url": "https://www.youtube.com/shorts/ybARujL2uXw",
      "title": "OpenAI receives $11B in funding at a $1.25T valuation #Shorts",
      "channel": "",
-     "views": 1,
+     "views": 2,
      "age_hours": null,
      "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:56uwF8CWuW0",
+     "url": "https://www.youtube.com/shorts/56uwF8CWuW0",
+     "title": "OpenAI reaches 1.25 trillion dollar valuation after 11 billion funding round",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YyCd7VhcEh8",
+     "url": "https://www.youtube.com/shorts/YyCd7VhcEh8",
+     "title": "OpenAI Raises $11B to $1.2T! Will You Still Have a Job?",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -353,7 +369,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-07T00:27:48.805Z"
+   "searched_at": "2026-11-07T06:37:13.675Z"
   },
   {
    "first_seen": "2026-11-06T18:14:56.225Z",
@@ -1891,6 +1907,110 @@
    "searched_at": "2026-11-05T21:36:36.241Z"
   },
   {
+   "first_seen": "2026-11-06T14:24:22.308Z",
+   "id": "39657448",
+   "ids": [
+    "39657448",
+    "39655890"
+   ],
+   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+   "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-11-06 13:53:04",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+     "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+    }
+   ],
+   "queries": [
+    "Wind Down Cybertruck Production",
+    "tesla wind down cybertruck"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wisQR4efdQg",
+     "url": "https://www.youtube.com/watch?v=wisQR4efdQg",
+     "title": "More BAD NEWS For Elon Musk",
+     "channel": "The Damage Report",
+     "views": 87923,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 21981
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_qLluPYHqxU",
+     "url": "https://www.youtube.com/watch?v=_qLluPYHqxU",
+     "title": "Tesla to wind down Cybertruck production",
+     "channel": "NBC News",
+     "views": 53723,
+     "age_hours": 7,
+     "relevance": 1,
+     "velocity": 7675
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FG0P2qrhLT0",
+     "url": "https://www.youtube.com/watch?v=FG0P2qrhLT0",
+     "title": "Tesla to wind down production of Cybertruck",
+     "channel": "NBC News",
+     "views": 5025,
+     "age_hours": 2,
+     "relevance": 1,
+     "velocity": 2513
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SkeD2y-tiyw",
+     "url": "https://www.youtube.com/watch?v=SkeD2y-tiyw",
+     "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
+     "channel": "Forbes",
+     "views": 10211,
+     "age_hours": 8,
+     "relevance": 0.75,
+     "velocity": 1276
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:P3FNBB14VVU",
+     "url": "https://www.youtube.com/watch?v=P3FNBB14VVU",
+     "title": "Tesla to wind down Cybertruck production #shorts",
+     "channel": "PBS NewsHour",
+     "views": 2055,
+     "age_hours": 4,
+     "relevance": 0.83,
+     "velocity": 514
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CQuX-ffwRaI",
+     "url": "https://www.youtube.com/watch?v=CQuX-ffwRaI",
+     "title": "Elon Musk: Cybertruck production ending next year | KTVU",
+     "channel": "KTVU FOX 2 San Francisco",
+     "views": 4232,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 470
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-07T02:37:01.746Z"
+  },
+  {
    "first_seen": "2026-11-06T12:16:53.791Z",
    "id": "39654592",
    "ids": [
@@ -2084,110 +2204,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T00:48:30.078Z"
-  },
-  {
-   "first_seen": "2026-11-06T14:24:22.308Z",
-   "id": "39657448",
-   "ids": [
-    "39657448",
-    "39655890"
-   ],
-   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-   "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
-   "source_id": "crypto-decrypt",
-   "published_ts": "2026-11-06 13:53:04",
-   "story_sources": 2,
-   "score_norm": 52,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-     "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
-    }
-   ],
-   "queries": [
-    "Wind Down Cybertruck Production",
-    "tesla wind down cybertruck"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wisQR4efdQg",
-     "url": "https://www.youtube.com/watch?v=wisQR4efdQg",
-     "title": "More BAD NEWS For Elon Musk",
-     "channel": "The Damage Report",
-     "views": 87923,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 21981
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_qLluPYHqxU",
-     "url": "https://www.youtube.com/watch?v=_qLluPYHqxU",
-     "title": "Tesla to wind down Cybertruck production",
-     "channel": "NBC News",
-     "views": 53723,
-     "age_hours": 7,
-     "relevance": 1,
-     "velocity": 7675
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FG0P2qrhLT0",
-     "url": "https://www.youtube.com/watch?v=FG0P2qrhLT0",
-     "title": "Tesla to wind down production of Cybertruck",
-     "channel": "NBC News",
-     "views": 5025,
-     "age_hours": 2,
-     "relevance": 1,
-     "velocity": 2513
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SkeD2y-tiyw",
-     "url": "https://www.youtube.com/watch?v=SkeD2y-tiyw",
-     "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
-     "channel": "Forbes",
-     "views": 10211,
-     "age_hours": 8,
-     "relevance": 0.75,
-     "velocity": 1276
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:P3FNBB14VVU",
-     "url": "https://www.youtube.com/watch?v=P3FNBB14VVU",
-     "title": "Tesla to wind down Cybertruck production #shorts",
-     "channel": "PBS NewsHour",
-     "views": 2055,
-     "age_hours": 4,
-     "relevance": 0.83,
-     "velocity": 514
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CQuX-ffwRaI",
-     "url": "https://www.youtube.com/watch?v=CQuX-ffwRaI",
-     "title": "Elon Musk: Cybertruck production ending next year | KTVU",
-     "channel": "KTVU FOX 2 San Francisco",
-     "views": 4232,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 470
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-07T02:37:01.746Z"
   },
   {
    "first_seen": "2026-11-07T05:20:23.309Z",
