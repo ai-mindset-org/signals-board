@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T02:14:15.819Z",
+ "generated_at": "2026-11-07T02:36:53.668Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: microsoft oracle winding down",
+   "source": "youtube: Wind Down Cybertruck Production",
    "ok": true
   },
   {
-   "source": "tiktok: microsoft oracle winding down",
+   "source": "tiktok: Wind Down Cybertruck Production",
+   "ok": true
+  },
+  {
+   "source": "youtube: tesla wind down cybertruck",
+   "ok": true
+  },
+  {
+   "source": "tiktok: tesla wind down cybertruck",
    "ok": true
   }
  ],
@@ -752,7 +760,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-06 13:53:04",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "hn",
@@ -768,14 +776,38 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:wisQR4efdQg",
+     "url": "https://www.youtube.com/watch?v=wisQR4efdQg",
+     "title": "More BAD NEWS For Elon Musk",
+     "channel": "The Damage Report",
+     "views": 87923,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 21981
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:_qLluPYHqxU",
      "url": "https://www.youtube.com/watch?v=_qLluPYHqxU",
      "title": "Tesla to wind down Cybertruck production",
      "channel": "NBC News",
-     "views": 6014,
-     "age_hours": 1,
+     "views": 53723,
+     "age_hours": 7,
      "relevance": 1,
-     "velocity": 6014
+     "velocity": 7675
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FG0P2qrhLT0",
+     "url": "https://www.youtube.com/watch?v=FG0P2qrhLT0",
+     "title": "Tesla to wind down production of Cybertruck",
+     "channel": "NBC News",
+     "views": 5025,
+     "age_hours": 2,
+     "relevance": 1,
+     "velocity": 2513
     },
     {
      "platform": "youtube",
@@ -784,22 +816,22 @@
      "url": "https://www.youtube.com/watch?v=SkeD2y-tiyw",
      "title": "Musk Says Tesla Will Wind Down Cybertruck Production Next Year",
      "channel": "Forbes",
-     "views": 1828,
-     "age_hours": 2,
+     "views": 10211,
+     "age_hours": 8,
      "relevance": 0.75,
-     "velocity": 914
+     "velocity": 1276
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:YCG4h0QH_Xg",
-     "url": "https://www.youtube.com/watch?v=YCG4h0QH_Xg",
-     "title": "Tesla to wind down Cybertruck production",
-     "channel": "KTLA 5",
-     "views": 2494,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 831
+     "id": "youtube:P3FNBB14VVU",
+     "url": "https://www.youtube.com/watch?v=P3FNBB14VVU",
+     "title": "Tesla to wind down Cybertruck production #shorts",
+     "channel": "PBS NewsHour",
+     "views": 2055,
+     "age_hours": 4,
+     "relevance": 0.83,
+     "velocity": 514
     },
     {
      "platform": "youtube",
@@ -808,41 +840,17 @@
      "url": "https://www.youtube.com/watch?v=CQuX-ffwRaI",
      "title": "Elon Musk: Cybertruck production ending next year | KTVU",
      "channel": "KTVU FOX 2 San Francisco",
-     "views": 1176,
-     "age_hours": 3,
+     "views": 4232,
+     "age_hours": 9,
      "relevance": 0.5,
-     "velocity": 392
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:-XoplniEtrA",
-     "url": "https://www.youtube.com/watch?v=-XoplniEtrA",
-     "title": "Elon Musk says Tesla will end Cybertruck production in 2027",
-     "channel": "KHOU 11",
-     "views": 1161,
-     "age_hours": 3,
-     "relevance": 0.71,
-     "velocity": 387
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:meY_NCoTsuc",
-     "url": "https://www.youtube.com/watch?v=meY_NCoTsuc",
-     "title": "Tesla to wind down Cybertruck production at Austin Gigafactory, Musk says",
-     "channel": "CBS Austin",
-     "views": 2530,
-     "age_hours": 7,
-     "relevance": 0.75,
-     "velocity": 361
+     "velocity": 470
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-06T20:36:46.150Z"
+   "searched_at": "2026-11-07T02:37:01.746Z"
   },
   {
    "first_seen": "2026-11-06T00:48:18.145Z",
