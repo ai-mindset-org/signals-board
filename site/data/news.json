@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T12:26:59.262Z",
+ "generated_at": "2026-11-07T12:49:24.512Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: openai 11b 1.25t raises",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai 11b 1.25t raises",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-06T20:11:05.369Z",
@@ -322,25 +331,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:ybARujL2uXw",
-     "url": "https://www.youtube.com/shorts/ybARujL2uXw",
-     "title": "OpenAI receives $11B in funding at a $1.25T valuation #Shorts",
+     "id": "youtube:56uwF8CWuW0",
+     "url": "https://www.youtube.com/shorts/56uwF8CWuW0",
+     "title": "OpenAI reaches 1.25 trillion dollar valuation after 11 billion funding round",
      "channel": "",
-     "views": 2,
+     "views": 10,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:56uwF8CWuW0",
-     "url": "https://www.youtube.com/shorts/56uwF8CWuW0",
-     "title": "OpenAI reaches 1.25 trillion dollar valuation after 11 billion funding round",
+     "id": "youtube:ybARujL2uXw",
+     "url": "https://www.youtube.com/shorts/ybARujL2uXw",
+     "title": "OpenAI receives $11B in funding at a $1.25T valuation #Shorts",
      "channel": "",
-     "views": 1,
+     "views": 8,
      "age_hours": null,
-     "relevance": 0.57,
+     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -350,9 +359,33 @@
      "url": "https://www.youtube.com/shorts/YyCd7VhcEh8",
      "title": "OpenAI Raises $11B to $1.2T! Will You Still Have a Job?",
      "channel": "",
-     "views": 0,
+     "views": 4,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_L2FH68S9g8",
+     "url": "https://www.youtube.com/shorts/_L2FH68S9g8",
+     "title": "OpenAI Raises $11B At $1.25T Valuation",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dIZygTLhdpk",
+     "url": "https://www.youtube.com/shorts/dIZygTLhdpk",
+     "title": "BREAKING (Nov 6): OpenAI Closes $11B at $1.25T Valuation | AI360",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -360,7 +393,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-07T06:37:13.675Z"
+   "searched_at": "2026-11-07T12:49:28.254Z"
   },
   {
    "first_seen": "2026-11-06T18:14:56.225Z",
