@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T13:50:08.498Z",
+ "generated_at": "2026-11-07T14:35:35.753Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai cfo press ahead",
+   "source": "youtube: microsoft oracle winds down",
    "ok": true
   },
   {
-   "source": "tiktok: openai cfo press ahead",
+   "source": "tiktok: microsoft oracle winds down",
    "ok": true
   }
  ],
@@ -50,38 +50,74 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
+     "kind": "shorts",
+     "id": "youtube:bILnKksVaNE",
+     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
+     "title": "Oracle Is Down 50%. It's Still Spending on AI",
+     "channel": "",
+     "views": 561,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8mW6RzArxaE",
+     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
+     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
+     "channel": "",
+     "views": 47,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
      "id": "youtube:srtrR3jlGEQ",
-     "url": "https://www.youtube.com/watch?v=srtrR3jlGEQ",
+     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
      "title": "$MSFT Winds Down Oracle AI Cloud Deal",
-     "channel": "1 OF 1 HAWK",
-     "views": 32,
-     "age_hours": 11,
+     "channel": "",
+     "views": 37,
+     "age_hours": null,
      "relevance": 0.71,
-     "velocity": 3
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:BDpjp6DAwkY",
-     "url": "https://www.youtube.com/watch?v=BDpjp6DAwkY",
-     "title": "Oracle stock falls 4% as Microsoft winds down AI cloud capacity deal #Shorts",
-     "channel": "Digital Akhbaar",
-     "views": 6,
-     "age_hours": 12,
-     "relevance": 0.88,
-     "velocity": 1
+     "kind": "shorts",
+     "id": "youtube:71-m0UXoZZE",
+     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
+     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Va9YXZXFjZ0",
-     "url": "https://www.youtube.com/watch?v=Va9YXZXFjZ0",
-     "title": "Microsoft Winds Down Oracle AI Cloud Deal",
-     "channel": "Breaking News to Trading Moves",
-     "views": 0,
-     "age_hours": 1,
-     "relevance": 0.86,
+     "kind": "shorts",
+     "id": "youtube:ut_KpnbjPls",
+     "url": "https://www.youtube.com/shorts/ut_KpnbjPls",
+     "title": "Microsoft Cuts Oracle AI Cloud Deal",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fEWyHTStdeI",
+     "url": "https://www.youtube.com/shorts/fEWyHTStdeI",
+     "title": "Microsoft Reportedly Winds Down an Oracle AI Deal. When Do Contracts Become Revenue? #MSFT #ORCL",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     }
    ],
@@ -89,7 +125,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-07T08:24:18.276Z"
+   "searched_at": "2026-11-07T14:35:39.982Z"
   },
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -473,117 +509,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T18:15:00.413Z"
-  },
-  {
-   "first_seen": "2026-11-04T19:49:54.634Z",
-   "id": "39617836",
-   "ids": [
-    "39617836",
-    "39611534",
-    "39610391",
-    "39624927"
-   ],
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "url": "https://openai.com/index/openai-to-acquire-pierre",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-04 14:30:00",
-   "story_sources": 3,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "OpenAI to acquire Pierre Computer Company to expand Codex coding capabilities",
-     "url": "https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece"
-    },
-    {
-     "source_id": "hn",
-     "title": "OpenAI to Acquire Pierre Computer Company, Inc",
-     "url": "https://openai.com/index/openai-to-acquire-pierre/"
-    }
-   ],
-   "queries": [
-    "Pierre Computer Company",
-    "openai pierre computer company"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TPcrGokJerk",
-     "url": "https://www.youtube.com/shorts/TPcrGokJerk",
-     "title": "OpenAI is acquiring Pierre Computer #ai #openai #news",
-     "channel": "",
-     "views": 391,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:vKXTppMcBdY",
-     "url": "https://www.youtube.com/watch?v=vKXTppMcBdY",
-     "title": "OpenAI: Pierre Computer deal takes aim at Microsoft's GitHub | Nov 4, 2026",
-     "channel": "Stock News Daily",
-     "views": 40,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:hVBpwMf-Mn4",
-     "url": "https://www.youtube.com/shorts/hVBpwMf-Mn4",
-     "title": "OpenAI acquisition of Pierre Computer #Shorts",
-     "channel": "",
-     "views": 40,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WaSWknuzptw",
-     "url": "https://www.youtube.com/watch?v=WaSWknuzptw",
-     "title": "OpenAI의 Pierre Computer Company, Inc. 인수",
-     "channel": "Ki-jung Kim (akaslany)",
-     "views": 22,
-     "age_hours": 21,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4kSedKv6tmQ",
-     "url": "https://www.youtube.com/shorts/4kSedKv6tmQ",
-     "title": "OpenAI to Acquire Pierre Computer Company, Whose Diff Libraries Power the Codex App",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iOVKLLZ7pnw",
-     "url": "https://www.youtube.com/shorts/iOVKLLZ7pnw",
-     "title": "OpenAI to acquire Pierre to strengthen its AI-powered coding platform Codex",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T14:24:12.116Z"
   },
   {
    "first_seen": "2026-11-06T01:12:34.954Z",
