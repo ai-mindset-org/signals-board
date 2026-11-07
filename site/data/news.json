@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T01:21:34.379Z",
+ "generated_at": "2026-11-07T02:14:15.819Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: microsoft oracle winding down",
+   "ok": true
+  },
+  {
+   "source": "tiktok: microsoft oracle winding down",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-07T00:27:45.014Z",
@@ -676,7 +685,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-06 18:57:38",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "hn",
@@ -691,25 +700,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:bILnKksVaNE",
-     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
-     "title": "Oracle Is Down 50%. It's Still Spending on AI",
+     "id": "youtube:srtrR3jlGEQ",
+     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
+     "title": "$MSFT Winds Down Oracle AI Cloud Deal",
      "channel": "",
-     "views": 242,
+     "views": 16,
      "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8mW6RzArxaE",
-     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
-     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -719,7 +716,7 @@
      "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
      "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
      "channel": "",
-     "views": 3,
+     "views": 13,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -731,7 +728,7 @@
      "url": "https://www.youtube.com/shorts/BDpjp6DAwkY",
      "title": "Oracle stock falls 4% as Microsoft winds down AI cloud capacity deal #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 5,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
@@ -741,7 +738,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-06T20:11:09.570Z"
+   "searched_at": "2026-11-07T02:14:20.254Z"
   },
   {
    "first_seen": "2026-11-06T14:24:22.308Z",
@@ -1706,6 +1703,36 @@
    "searched_at": "2026-11-06T12:50:14.347Z"
   },
   {
+   "first_seen": "2026-11-06T16:23:00.438Z",
+   "id": "39649196",
+   "ids": [
+    "39649196",
+    "39659725"
+   ],
+   "title": "Google sued over suicide-related AI chats on school computer",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-06 05:44:46",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "eu-lemonde-pixels",
+     "title": "Google sued over suicide-related AI chats on school computer",
+     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
+    }
+   ],
+   "queries": [
+    "google sued suicide-related ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-06T22:35:42.611Z"
+  },
+  {
    "first_seen": "2026-11-05T08:36:12.741Z",
    "id": "39627601",
    "ids": [
@@ -1778,36 +1805,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T20:50:15.106Z"
-  },
-  {
-   "first_seen": "2026-11-06T16:23:00.438Z",
-   "id": "39649196",
-   "ids": [
-    "39649196",
-    "39659725"
-   ],
-   "title": "Google sued over suicide-related AI chats on school computer",
-   "url": "https://www.thehindu.com/sci-tech/technology/google-sued-over-suicide-related-ai-chats-on-school-computer/article71672701.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-06 05:44:46",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "eu-lemonde-pixels",
-     "title": "Google sued over suicide-related AI chats on school computer",
-     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/06/google-sued-over-suicide-related-ai-chats-on-school-computer_6773200_13.html"
-    }
-   ],
-   "queries": [
-    "google sued suicide-related ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-06T22:35:42.611Z"
   },
   {
    "first_seen": "2026-11-05T14:12:50.437Z",
