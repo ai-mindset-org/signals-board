@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T14:35:35.753Z",
+ "generated_at": "2026-11-07T18:11:56.734Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,126 +7,8 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: microsoft oracle winds down",
-   "ok": true
-  },
-  {
-   "source": "tiktok: microsoft oracle winds down",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
-  {
-   "first_seen": "2026-11-06T20:11:05.369Z",
-   "id": "39664139",
-   "ids": [
-    "39664139",
-    "39661915",
-    "39670301"
-   ],
-   "title": "Microsoft winds down Oracle deal for AI computing capacity",
-   "url": "https://www.techinasia.com/news/microsoft-winds-oracle-ai-deal-nvidia-chips",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-07 02:42:23",
-   "story_sources": 3,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
-     "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal"
-    },
-    {
-     "source_id": "hn",
-     "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-     "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
-    }
-   ],
-   "queries": [
-    "microsoft oracle winds down"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bILnKksVaNE",
-     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
-     "title": "Oracle Is Down 50%. It's Still Spending on AI",
-     "channel": "",
-     "views": 561,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8mW6RzArxaE",
-     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
-     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
-     "channel": "",
-     "views": 47,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:srtrR3jlGEQ",
-     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
-     "title": "$MSFT Winds Down Oracle AI Cloud Deal",
-     "channel": "",
-     "views": 37,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:71-m0UXoZZE",
-     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
-     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ut_KpnbjPls",
-     "url": "https://www.youtube.com/shorts/ut_KpnbjPls",
-     "title": "Microsoft Cuts Oracle AI Cloud Deal",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fEWyHTStdeI",
-     "url": "https://www.youtube.com/shorts/fEWyHTStdeI",
-     "title": "Microsoft Reportedly Winds Down an Oracle AI Deal. When Do Contracts Become Revenue? #MSFT #ORCL",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-07T14:35:39.982Z"
-  },
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
    "id": "39653579",
@@ -347,7 +229,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-07 01:13:15",
    "story_sources": 3,
-   "score_norm": 93,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -762,6 +644,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-06T13:36:37.709Z"
+  },
+  {
+   "first_seen": "2026-11-06T20:11:05.369Z",
+   "id": "39664139",
+   "ids": [
+    "39664139",
+    "39661915",
+    "39670301"
+   ],
+   "title": "Microsoft winds down Oracle deal for AI computing capacity",
+   "url": "https://www.techinasia.com/news/microsoft-winds-oracle-ai-deal-nvidia-chips",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-07 02:42:23",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
+     "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal"
+    }
+   ],
+   "queries": [
+    "microsoft oracle winds down"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bILnKksVaNE",
+     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
+     "title": "Oracle Is Down 50%. It's Still Spending on AI",
+     "channel": "",
+     "views": 561,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8mW6RzArxaE",
+     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
+     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
+     "channel": "",
+     "views": 47,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:srtrR3jlGEQ",
+     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
+     "title": "$MSFT Winds Down Oracle AI Cloud Deal",
+     "channel": "",
+     "views": 37,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:71-m0UXoZZE",
+     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
+     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ut_KpnbjPls",
+     "url": "https://www.youtube.com/shorts/ut_KpnbjPls",
+     "title": "Microsoft Cuts Oracle AI Cloud Deal",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fEWyHTStdeI",
+     "url": "https://www.youtube.com/shorts/fEWyHTStdeI",
+     "title": "Microsoft Reportedly Winds Down an Oracle AI Deal. When Do Contracts Become Revenue? #MSFT #ORCL",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-07T14:35:39.982Z"
   },
   {
    "first_seen": "2026-11-06T21:35:35.321Z",
@@ -1647,109 +1633,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T00:29:47.011Z"
-  },
-  {
-   "first_seen": "2026-11-04T19:49:54.634Z",
-   "id": "39616463",
-   "ids": [
-    "39616463",
-    "39617740"
-   ],
-   "title": "ChatGPT will now make you animated GIFs",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-   "source_id": "theverge",
-   "published_ts": "2026-11-04 18:00:00",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "ChatGPT can now make animated GIFs with OpenAI’s Images 2.6",
-     "url": "https://thenextweb.com/news/chatgpt-animated-gifs-images-2-6-openai"
-    }
-   ],
-   "queries": [
-    "chatgpt gifs make animated"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:e4gNCfPZ7dE",
-     "url": "https://www.youtube.com/watch?v=e4gNCfPZ7dE",
-     "title": "ChatGPT Images 2.6 Can Do Things We've Never Seen! (Gifs + Sprites)",
-     "channel": "Evan Burger",
-     "views": 6516,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 815
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qt9N43N7qIQ",
-     "url": "https://www.youtube.com/shorts/qt9N43N7qIQ",
-     "title": "ChatGPT Images 2.6: Turn Photos into Animated GIFs",
-     "channel": "",
-     "views": 3800,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:PgPH30En_to",
-     "url": "https://www.youtube.com/watch?v=PgPH30En_to",
-     "title": "ChatGPT Images 2.6 Makes GIFs - And It's INSANE (Full Breakdown + My Tests)",
-     "channel": "Prompt Engineer 48",
-     "views": 472,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 79
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BNXykbFTqvE",
-     "url": "https://www.youtube.com/shorts/BNXykbFTqvE",
-     "title": "ChatGPT Images 2.6 Can Now Make GIFs",
-     "channel": "",
-     "views": 1800,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FbeS6LSHy2Y",
-     "url": "https://www.youtube.com/watch?v=FbeS6LSHy2Y",
-     "title": "ChatGPT Images 2.6 Now Makes Icons & GIFs",
-     "channel": "AsapGuide",
-     "views": 62,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 31
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ae46n3mNSDI",
-     "url": "https://www.youtube.com/shorts/Ae46n3mNSDI",
-     "title": "ChatGPT can make GIFs now: Images 2.6 explained",
-     "channel": "",
-     "views": 414,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T14:24:15.649Z"
   },
   {
    "first_seen": "2026-11-06T14:24:22.308Z",
