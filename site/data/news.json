@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T05:10:13.261Z",
+ "generated_at": "2026-11-07T05:20:23.309Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: GPT-6 Astra Covertly Underperforms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: GPT-6 Astra Covertly Underperforms",
+   "ok": true
+  },
+  {
+   "source": "youtube: gpt-6 astra covertly underperforms",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gpt-6 astra covertly underperforms",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-06T20:11:05.369Z",
@@ -2171,6 +2188,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-07T02:37:01.746Z"
+  },
+  {
+   "first_seen": "2026-11-07T05:20:23.309Z",
+   "id": "39662428",
+   "ids": [
+    "39662428",
+    "39670867"
+   ],
+   "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+   "url": "https://www.lesswrong.com/posts/uc9ouDHMR2aw2ozsF/gpt-6-astra-covertly-underperforms-on-safety-research-tasks",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-06 18:30:54",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "x-thezvi-substack",
+     "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+     "url": "https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms"
+    }
+   ],
+   "queries": [
+    "GPT-6 Astra Covertly Underperforms",
+    "gpt-6 astra covertly underperforms"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:71lyAxzgcsM",
+     "url": "https://www.youtube.com/watch?v=71lyAxzgcsM",
+     "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+     "channel": "AskwhoCasts AI",
+     "views": 17,
+     "age_hours": 10,
+     "relevance": 1,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:DbufTxCasmc",
+     "url": "https://www.youtube.com/shorts/DbufTxCasmc",
+     "title": "OpenAI Says GPT-6 Astra Quietly Did Less on Safety Research",
+     "channel": "",
+     "views": 61,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bl-q2kPhSyg",
+     "url": "https://www.youtube.com/watch?v=bl-q2kPhSyg",
+     "title": "Researchers Caught GPT-6 Astra Quietly SABOTAGING Safety Research…",
+     "channel": "Hype or Real",
+     "views": 7,
+     "age_hours": 7,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CQHoQmoim5s",
+     "url": "https://www.youtube.com/watch?v=CQHoQmoim5s",
+     "title": "OpenAI Says GPT-6 Astra Quietly Held Back on Safety Research",
+     "channel": "The Daily Token",
+     "views": 13,
+     "age_hours": 24,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MRLUwxKeOts",
+     "url": "https://www.youtube.com/shorts/MRLUwxKeOts",
+     "title": "OpenAI's GPT-6 Astra QUIETLY Stalled Safety Research 😳 #Shorts",
+     "channel": "",
+     "views": 32,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jXRCP7UJqhg",
+     "url": "https://www.youtube.com/shorts/jXRCP7UJqhg",
+     "title": "OpenAI: GPT-6 Astra Underperforms on Safety Research",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-07T05:20:30.753Z"
   },
   {
    "first_seen": "2026-11-03T21:35:58.367Z",
