@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T09:10:58.184Z",
+ "generated_at": "2026-11-08T11:20:11.001Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1894,37 +1894,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-05T13:11:34.237Z"
-  },
-  {
-   "first_seen": "2026-11-05T14:37:35.182Z",
-   "id": "39633713",
-   "ids": [
-    "39633713",
-    "39614114"
-   ],
-   "title": "Nigeria’s Helium Health Secures USD 2.5 M Google.org Grant For AI Maternal Care",
-   "url": "https://weetracker.com/2026/11/05/helium-health-secures-2-5m-google-org-grant-ai-maternal-health/",
-   "source_id": "africa-weetracker",
-   "published_ts": "2026-11-05 11:13:43",
-   "story_sources": 2,
-   "score_norm": 39,
-   "related_news": [
-    {
-     "source_id": "africa-techcabal",
-     "title": "Helium Health secures $2.5 million Google grant to tackle maternal deaths with AI",
-     "url": "https://techcabal.com/2026/11/04/helium-health-2-5-million-google-grant/"
-    }
-   ],
-   "queries": [
-    "Nigeria’s Helium Health Secures USD 2.5 M Google.org Grant For",
-    "nigeria helium health secures"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T14:37:46.503Z"
   }
  ]
 }
