@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T11:20:11.001Z",
+ "generated_at": "2026-11-08T12:26:30.747Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1851,49 +1851,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-07T11:35:46.374Z"
-  },
-  {
-   "first_seen": "2026-11-05T13:11:29.925Z",
-   "id": "39631717",
-   "ids": [
-    "39631717",
-    "39621158"
-   ],
-   "title": "Pangram expands AI detection tools to cover images, videos: Are they accurate?",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/pangram-expands-ai-detection-tools-images-videos-accuracy-10952201/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-05 12:16:12",
-   "story_sources": 2,
-   "score_norm": 43,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Pangram expands its AI detection tools to video and images",
-     "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/"
-    }
-   ],
-   "queries": [
-    "pangram expands ai detection"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Z6Dy48PGxMY",
-     "url": "https://www.youtube.com/shorts/Z6Dy48PGxMY",
-     "title": "Pangram expands its AI detection tools to video and images #Shorts #Tech",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T13:11:34.237Z"
   }
  ]
 }
