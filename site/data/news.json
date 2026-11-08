@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T12:26:30.747Z",
+ "generated_at": "2026-11-08T13:49:13.903Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1327,111 +1327,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T12:50:14.347Z"
-  },
-  {
-   "first_seen": "2026-11-05T14:12:50.437Z",
-   "id": "39633187",
-   "ids": [
-    "39633187",
-    "39633179",
-    "39622961"
-   ],
-   "title": "Claude Code’s product lead Cat Wu leaves Anthropic to join OpenAI",
-   "url": "https://thenextweb.com/news/cat-wu-claude-code-anthropic-openai-core-products",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-05 13:47:34",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "eu-the-decoder",
-     "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
-     "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/"
-    }
-   ],
-   "queries": [
-    "Claude Code’s",
-    "claude code cat wu"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1saigsJZfiM",
-     "url": "https://www.youtube.com/shorts/1saigsJZfiM",
-     "title": "AI 快訊｜Claude Code 推手 Cat Wu 離開 Anthropic，告別文一天 300 萬人看 👋",
-     "channel": "",
-     "views": 1400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0JCD_ZKek6A",
-     "url": "https://www.youtube.com/shorts/0JCD_ZKek6A",
-     "title": "I Hacked Claude Code Itself",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YdUU466vjHc",
-     "url": "https://www.youtube.com/shorts/YdUU466vjHc",
-     "title": "Cat Wu on Claude Code: Prototype First After Writing the Spec",
-     "channel": "",
-     "views": 146,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vp5hpNir3hA",
-     "url": "https://www.youtube.com/shorts/vp5hpNir3hA",
-     "title": "Claude Code Product Lead Cat Wu Leaves Anthropic | AI Daily 11/04 #AIDaily #ClaudeCode",
-     "channel": "",
-     "views": 136,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AHH2BNAKoZw",
-     "url": "https://www.youtube.com/shorts/AHH2BNAKoZw",
-     "title": "Claude Code For Free",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WofG3O77q0U",
-     "url": "https://www.youtube.com/shorts/WofG3O77q0U",
-     "title": "Claude Code Leader Cat Wu Exits Anthropic | Artificial Intelligence News",
-     "channel": "",
-     "views": 48,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T02:36:18.433Z"
   },
   {
    "first_seen": "2026-11-04T23:35:20.975Z",
