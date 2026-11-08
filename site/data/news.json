@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T02:16:17.776Z",
+ "generated_at": "2026-11-08T06:37:59.295Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: openai cfo press ahead",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai cfo press ahead",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
@@ -1382,80 +1373,6 @@
    "searched_at": "2026-11-06T12:50:14.347Z"
   },
   {
-   "first_seen": "2026-11-05T08:36:12.741Z",
-   "id": "39627601",
-   "ids": [
-    "39627601",
-    "39625050",
-    "39633642",
-    "39626717"
-   ],
-   "title": "Nothing to launch its first AI-native product next month",
-   "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-05 06:36:23",
-   "story_sources": 3,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Nothing to launch its first ‘AI-native’ device in December",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/nothing-to-launch-its-first-ai-native-device-in-december-10952254/"
-    },
-    {
-     "source_id": "sea-lowyat",
-     "title": "Nothing Teases Its First “AI-Native” Product; Launching Next Month",
-     "url": "https://www.lowyat.net/2026/409228/nothing-first-ai-native-product/"
-    }
-   ],
-   "queries": [
-    "nothing ai-native launch first"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T_zQ8797nRo",
-     "url": "https://www.youtube.com/shorts/T_zQ8797nRo",
-     "title": "Nothing’s First AI-Native Product Ships in December, Carl Pei Says #Shorts",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:eAC_o4qnheU",
-     "url": "https://www.youtube.com/shorts/eAC_o4qnheU",
-     "title": "Nothing launches AI-native product without a display in December",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6wN8B1ehz1A",
-     "url": "https://www.youtube.com/shorts/6wN8B1ehz1A",
-     "title": "Nothing teases a screen-free AI device ahead of launch next month",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-05T20:50:15.106Z"
-  },
-  {
    "first_seen": "2026-11-05T14:12:50.437Z",
    "id": "39633187",
    "ids": [
@@ -2069,36 +1986,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-07T11:35:46.374Z"
-  },
-  {
-   "first_seen": "2026-11-05T07:23:40.700Z",
-   "id": "39626419",
-   "ids": [
-    "39626419",
-    "39626682"
-   ],
-   "title": "Kabilio raises €10M to expand AI accounting platform and introduce AI agents",
-   "url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
-   "source_id": "eu-tech-eu",
-   "published_ts": "2026-11-05 06:30:00",
-   "story_sources": 2,
-   "score_norm": 44,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Barcelona’s Kabilio raises €10M to bring AI agents to accounting firms",
-     "url": "https://thenextweb.com/news/kabilio-raises-e10m-to-bring-ai-agents-to-accounting-firms"
-    }
-   ],
-   "queries": [
-    "kabilio 10m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-05T13:36:55.608Z"
   },
   {
    "first_seen": "2026-11-05T13:11:29.925Z",
