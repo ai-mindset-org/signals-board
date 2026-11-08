@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T06:37:59.295Z",
+ "generated_at": "2026-11-08T07:11:56.005Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1791,97 +1791,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T12:17:01.308Z"
-  },
-  {
-   "first_seen": "2026-11-05T12:37:45.185Z",
-   "id": "39626577",
-   "ids": [
-    "39626577",
-    "39631313"
-   ],
-   "title": "Moonshot AI launches hosted AI agent service for enterprise",
-   "url": "https://www.techinasia.com/news/moonshot-ai-launches-hosted-ai-agent-service-for-enterprise",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-05 07:05:35",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
-     "url": "https://pandaily.com/moonshot-ai-kimi-hosted-agents-harness-as-a-service-sandbox-inference-hook"
-    }
-   ],
-   "queries": [
-    "moonshot ai launches hosted"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qTyDngCMROk",
-     "url": "https://www.youtube.com/shorts/qTyDngCMROk",
-     "title": "Cirquu Technologies launches Cirquu AI at Moonshot 2026",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zQ_VddOcd4c",
-     "url": "https://www.youtube.com/watch?v=zQ_VddOcd4c",
-     "title": "Moonshot AI launches Kimi-K3.1-Pro",
-     "channel": "FreeLLMArena",
-     "views": 5,
-     "age_hours": 5,
-     "relevance": 0.75,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8tD4CZ4Cqnw",
-     "url": "https://www.youtube.com/shorts/8tD4CZ4Cqnw",
-     "title": "Moonshot AI launches Kimi-K3.1-Pro #Shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IyUl4kGFy_E",
-     "url": "https://www.youtube.com/shorts/IyUl4kGFy_E",
-     "title": "Moonshot AI Launches Kimi Hosted Agents as a Managed Agent-Harness Cloud Service",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:L_wj2l8dBWA",
-     "url": "https://www.youtube.com/shorts/L_wj2l8dBWA",
-     "title": "Background agents are an enterprise moonshot",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T00:48:30.078Z"
   },
   {
    "first_seen": "2026-11-07T05:20:23.309Z",
