@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T07:49:17.967Z",
+ "generated_at": "2026-11-09T08:17:36.958Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -217,6 +217,50 @@
    "searched_at": "2026-11-06T11:10:49.163Z"
   },
   {
+   "first_seen": "2026-11-09T07:37:10.024Z",
+   "id": "39702433",
+   "ids": [
+    "39702433",
+    "39693121"
+   ],
+   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-08 17:54:43",
+   "story_sources": 2,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
+    }
+   ],
+   "queries": [
+    "Artificial Analysis",
+    "artificial analysis drex max"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:j_IlGQ01X4A",
+     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
+     "title": "has Artificial Analysis just exposed benchmaxxers?",
+     "channel": "Tom Dohnal",
+     "views": 396,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T07:37:17.499Z"
+  },
+  {
    "first_seen": "2026-11-07T00:27:45.014Z",
    "id": "39667710",
    "ids": [
@@ -324,50 +368,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-07T18:49:44.360Z"
-  },
-  {
-   "first_seen": "2026-11-09T07:37:10.024Z",
-   "id": "39702433",
-   "ids": [
-    "39702433",
-    "39693121"
-   ],
-   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-08 17:54:43",
-   "story_sources": 2,
-   "score_norm": 91,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
-    }
-   ],
-   "queries": [
-    "Artificial Analysis",
-    "artificial analysis drex max"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:j_IlGQ01X4A",
-     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
-     "title": "has Artificial Analysis just exposed benchmaxxers?",
-     "channel": "Tom Dohnal",
-     "views": 396,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T07:37:17.499Z"
   },
   {
    "first_seen": "2026-11-06T01:12:34.954Z",
@@ -1012,110 +1012,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-07T08:49:32.891Z"
-  },
-  {
-   "first_seen": "2026-11-06T12:16:53.791Z",
-   "id": "39654592",
-   "ids": [
-    "39654592",
-    "39638845"
-   ],
-   "title": "OpenAI’s New Cyber Model Found 81 Firefox Flaws",
-   "url": "https://cioafrica.co/openais-new-cyber-model-found-81-firefox-flaws/",
-   "source_id": "africa-cioafrica",
-   "published_ts": "2026-11-06 08:10:08",
-   "story_sources": 2,
-   "score_norm": 53,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’",
-     "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red"
-    }
-   ],
-   "queries": [
-    "Found 81 Firefox Flaws",
-    "openai cyber found 81"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9AdXLYwJAQA",
-     "url": "https://www.youtube.com/shorts/9AdXLYwJAQA",
-     "title": "GPT-6 Cyber Found 81 Firefox Bugs… Devs: 💀 #gpt6  #cybersecurity  #openai  #codingmemes  #shorts",
-     "channel": "",
-     "views": 511,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yqSx4csop6Q",
-     "url": "https://www.youtube.com/watch?v=yqSx4csop6Q",
-     "title": "OpenAI Launches GPT-6 Cyber: AI Model Finds 81 Firefox Security Flaws | NewsX",
-     "channel": "NewsX Live",
-     "views": 28,
-     "age_hours": 5,
-     "relevance": 0.86,
-     "velocity": 6
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Uj91TtfsOpY",
-     "url": "https://www.youtube.com/shorts/Uj91TtfsOpY",
-     "title": "AI Found 81 Hidden Firefox Security Flaws",
-     "channel": "",
-     "views": 136,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f1QD7tNjByA",
-     "url": "https://www.youtube.com/shorts/f1QD7tNjByA",
-     "title": "OpenAI's new AI found 81 Firefox security holes",
-     "channel": "",
-     "views": 44,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nE6njolYbT8",
-     "url": "https://www.youtube.com/shorts/nE6njolYbT8",
-     "title": "GPT-6 Cyber: From Firefox Flaws to Fixes",
-     "channel": "",
-     "views": 31,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rRMs641Q-mg",
-     "url": "https://www.youtube.com/shorts/rRMs641Q-mg",
-     "title": "OpenAI GPT-6 Cyber rated Critical: 948 Linux exploits, 81 Firefox bugs",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T12:17:01.308Z"
   },
   {
    "first_seen": "2026-11-07T05:20:23.309Z",
