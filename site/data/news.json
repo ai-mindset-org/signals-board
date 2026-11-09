@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T20:36:09.398Z",
+ "generated_at": "2026-11-09T21:10:03.334Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: R&D Is Accelerating Towards Potential RSI",
+   "source": "youtube: Anthropic’s Claude Mythos",
    "ok": true
   },
   {
-   "source": "tiktok: R&D Is Accelerating Towards Potential RSI",
+   "source": "tiktok: Anthropic’s Claude Mythos",
    "ok": true
   },
   {
-   "source": "youtube: accelerating towards potential rsi",
+   "source": "youtube: ibm anthropic claude mythos",
    "ok": true
   },
   {
-   "source": "tiktok: accelerating towards potential rsi",
+   "source": "tiktok: ibm anthropic claude mythos",
    "ok": true
   }
  ],
@@ -134,6 +134,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-07T18:49:44.360Z"
+  },
+  {
+   "first_seen": "2026-11-09T21:10:03.334Z",
+   "id": "39716552",
+   "ids": [
+    "39716552",
+    "39712914"
+   ],
+   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
+   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-09 20:34:10",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
+     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Claude Mythos",
+    "ibm anthropic claude mythos"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WlozwcUDaqw",
+     "url": "https://www.youtube.com/shorts/WlozwcUDaqw",
+     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T21:10:11.346Z"
   },
   {
    "first_seen": "2026-11-09T19:49:54.771Z",
