@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T21:10:03.334Z",
+ "generated_at": "2026-11-09T22:09:37.479Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,133 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic’s Claude Mythos",
+   "source": "youtube: Introducing Claude Fable 5.2",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic’s Claude Mythos",
+   "source": "tiktok: Introducing Claude Fable 5.2",
    "ok": true
   },
   {
-   "source": "youtube: ibm anthropic claude mythos",
+   "source": "youtube: introducing claude fable 5.2",
    "ok": true
   },
   {
-   "source": "tiktok: ibm anthropic claude mythos",
+   "source": "tiktok: introducing claude fable 5.2",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-09T22:09:37.479Z",
+   "id": "39717715",
+   "ids": [
+    "39717715",
+    "39714633",
+    "39714405"
+   ],
+   "title": "Introducing Claude Fable 5.2 on AWS",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+   "source_id": "aws-ml-blog",
+   "published_ts": "2026-11-09 20:04:37",
+   "story_sources": 2,
+   "score_norm": 98,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Claude Fable 5.2",
+     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
+    },
+    {
+     "source_id": "hn",
+     "title": "Claude Fable 5.2",
+     "url": "https://twitter.com/claudeai/status/2119867114450268322"
+    }
+   ],
+   "queries": [
+    "Introducing Claude Fable 5.2",
+    "introducing claude fable 5.2"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6a1QSJlsYpU",
+     "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
+     "title": "Introducing Claude Fable 5.2",
+     "channel": "Claude",
+     "views": 52202,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 17401
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FbveQFfB8Sg",
+     "url": "https://www.youtube.com/watch?v=FbveQFfB8Sg",
+     "title": "Claude Fable 5.2: Fermat's Last Theorem in 30 Hours",
+     "channel": "LLMs Explained",
+     "views": 32,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 32
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QvCUaBtoZS0",
+     "url": "https://www.youtube.com/watch?v=QvCUaBtoZS0",
+     "title": "Claude Fable 5.2 및 Claude Mythos 5.2",
+     "channel": "Ki-jung Kim (akaslany)",
+     "views": 31,
+     "age_hours": 2,
+     "relevance": 0.75,
+     "velocity": 16
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Te9tKY7N-Dk",
+     "url": "https://www.youtube.com/watch?v=Te9tKY7N-Dk",
+     "title": "System Card: Claude Fable 5.2 & Claude Mythos 5.2 (Nov 2026)",
+     "channel": "AI Paper Slop",
+     "views": 3,
+     "age_hours": 0.7666666666666666,
+     "relevance": 0.6,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fMeroO3I6EA",
+     "url": "https://www.youtube.com/watch?v=fMeroO3I6EA",
+     "title": "Claude Code v2.1.321 — Fable 5.2 and Remote Control Improvements",
+     "channel": "Claude Code Changelog",
+     "views": 4,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:qcrej_yDENw",
+     "url": "https://www.youtube.com/watch?v=qcrej_yDENw",
+     "title": "CLAUDE 5.2 FABLE IS HERE! 🚨 30% Faster & CHEAPER?!",
+     "channel": "AN.AITechWorld",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-09T22:09:44.926Z"
+  },
   {
    "first_seen": "2026-11-07T00:27:45.014Z",
    "id": "39667710",
