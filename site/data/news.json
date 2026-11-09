@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:10:52.938Z",
+ "generated_at": "2026-11-09T11:49:48.382Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: anthropic 3.4 report secures",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic 3.4 report secures",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-09T05:36:45.359Z",
@@ -31,87 +40,51 @@
     }
    ],
    "queries": [
-    "anthropic 3.4b secures deal"
+    "anthropic 3.4 report secures"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xA6c3Waa7qg",
-     "url": "https://www.youtube.com/shorts/xA6c3Waa7qg",
-     "title": "Anthropic just paid $3.4B for its own gas generators to power AI",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:sO8YTACLl2w",
+     "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
+     "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
+     "channel": "Mafh² Discovery",
+     "views": 36,
+     "age_hours": 17,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 2
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZXsED6Sk-GQ",
-     "url": "https://www.youtube.com/shorts/ZXsED6Sk-GQ",
-     "title": "Anthropic is spending $3.4B to generate its own power",
-     "channel": "",
-     "views": 178,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pt4XKxiR5Ek",
-     "url": "https://www.youtube.com/shorts/pt4XKxiR5Ek",
-     "title": "Anthropic Secures 3.4 Billion Generator Deal",
-     "channel": "",
-     "views": 111,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:U1Hjxp3qr1Q",
-     "url": "https://www.youtube.com/shorts/U1Hjxp3qr1Q",
-     "title": "Anthropic's Reported $3.4B Gas Generator Deal",
-     "channel": "",
-     "views": 87,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wdmWrYZNM2M",
-     "url": "https://www.youtube.com/shorts/wdmWrYZNM2M",
-     "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres #Shorts",
-     "channel": "",
-     "views": 39,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c_lN7LusaXw",
-     "url": "https://www.youtube.com/shorts/c_lN7LusaXw",
-     "title": "AI Has a Power Problem ⚡ Anthropic's Reported $3.4B Deal #Shorts",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:KCi1auHtIg8",
+     "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
+     "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
+     "channel": "AP Quintellect | AI & Business",
+     "views": 1,
+     "age_hours": 0.9333333333333333,
      "relevance": 0.63,
-     "velocity": null
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:f5BHDOnQ1i8",
+     "url": "https://www.youtube.com/watch?v=f5BHDOnQ1i8",
+     "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
+     "channel": "BreakingNewsAI",
+     "views": 4,
+     "age_hours": 23,
+     "relevance": 0.6,
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-09T05:36:49.387Z"
+   "searched_at": "2026-11-09T11:49:52.165Z"
   },
   {
    "first_seen": "2026-11-09T07:37:10.024Z",
@@ -125,7 +98,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-08 17:54:43",
    "story_sources": 2,
-   "score_norm": 94,
+   "score_norm": 95,
    "related_news": [
     {
      "source_id": "reddit-localllama",
