@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:12:52.729Z",
+ "generated_at": "2026-11-09T17:21:17.554Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -117,179 +117,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-07T18:49:44.360Z"
-  },
-  {
-   "first_seen": "2026-11-06T01:12:34.954Z",
-   "id": "39645734",
-   "ids": [
-    "39645734",
-    "39642001",
-    "39663074"
-   ],
-   "title": "Google Gemini Omni 1.2 Flash Adds 15-Second AI Videos, Cuts Generation Costs by 30%",
-   "url": "https://techgenyz.com/gemini-omni-1-2-flash-price-features-uses/",
-   "source_id": "in-techgenyz",
-   "published_ts": "2026-11-06 17:16:28",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google’s Gemini Omni 1.2 Flash makes 15-second AI videos for less",
-     "url": "https://thenextweb.com/news/google-gemini-omni-1-2-flash-video-15-seconds-price-cut"
-    }
-   ],
-   "queries": [
-    "Google Gemini Omni 1.2 Flash Adds 15-Second",
-    "google gemini omni 1.2"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QKfWZkZgQFI",
-     "url": "https://www.youtube.com/watch?v=QKfWZkZgQFI",
-     "title": "😮 Gemini Omni 1.2 Flash: Is Google promising TOO MUCH?",
-     "channel": "Onde eu Clico",
-     "views": 3313,
-     "age_hours": 4,
-     "relevance": 0.63,
-     "velocity": 828
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:iZI2yHERihI",
-     "url": "https://www.youtube.com/watch?v=iZI2yHERihI",
-     "title": "Gemini Omni 1.2 Flash, Clearly Explained: Google's 15-Second AI Video Model",
-     "channel": "Simply AI",
-     "views": 4593,
-     "age_hours": 21,
-     "relevance": 0.64,
-     "velocity": 219
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:juSmUWWaIO0",
-     "url": "https://www.youtube.com/watch?v=juSmUWWaIO0",
-     "title": "Google Gemini Omni 1.2 Flash Tested! INSANE 15-Second AI Videos… But Physics FAILS",
-     "channel": "AI WITH Rithesh",
-     "views": 2098,
-     "age_hours": 12,
-     "relevance": 0.67,
-     "velocity": 175
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QNr0z4hWKZ4",
-     "url": "https://www.youtube.com/watch?v=QNr0z4hWKZ4",
-     "title": "Gemini Omni 1.2 Flash vs Seedance 2.5 🤯 Google Is Finally Here!",
-     "channel": "Aivoxy",
-     "views": 1160,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 166
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ITZY2MeJ7EE",
-     "url": "https://www.youtube.com/watch?v=ITZY2MeJ7EE",
-     "title": "Google Just Launched Gemini Omni 1.2 Flash! 😱 (Omni 1.2 vs 1.1 Full Comparison)",
-     "channel": "Subhan Kaladi",
-     "views": 398,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 100
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:r_yn_RlNU9w",
-     "url": "https://www.youtube.com/watch?v=r_yn_RlNU9w",
-     "title": "Gemini Omni 1.2 Flash Is A Big AI Upgrade",
-     "channel": "Codedigipt",
-     "views": 964,
-     "age_hours": 12,
-     "relevance": 0.71,
-     "velocity": 80
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T19:20:32.178Z"
-  },
-  {
-   "first_seen": "2026-11-09T05:36:45.359Z",
-   "id": "39700788",
-   "ids": [
-    "39700788",
-    "39701198",
-    "39701850"
-   ],
-   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-09 04:07:44",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic secures $3.4B generator deal for AI data centers",
-     "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
-    }
-   ],
-   "queries": [
-    "anthropic 3.4 report secures"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sO8YTACLl2w",
-     "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
-     "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
-     "channel": "Mafh² Discovery",
-     "views": 36,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KCi1auHtIg8",
-     "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
-     "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
-     "channel": "AP Quintellect | AI & Business",
-     "views": 1,
-     "age_hours": 0.9333333333333333,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:f5BHDOnQ1i8",
-     "url": "https://www.youtube.com/watch?v=f5BHDOnQ1i8",
-     "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
-     "channel": "BreakingNewsAI",
-     "views": 4,
-     "age_hours": 23,
-     "relevance": 0.6,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T11:49:52.165Z"
   },
   {
    "first_seen": "2026-11-06T20:11:05.369Z",
@@ -665,6 +492,74 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-06T21:35:43.193Z"
+  },
+  {
+   "first_seen": "2026-11-09T05:36:45.359Z",
+   "id": "39700788",
+   "ids": [
+    "39700788",
+    "39701198",
+    "39701850"
+   ],
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-09 04:07:44",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic secures $3.4B generator deal for AI data centers",
+     "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
+    }
+   ],
+   "queries": [
+    "anthropic 3.4 report secures"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sO8YTACLl2w",
+     "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
+     "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
+     "channel": "Mafh² Discovery",
+     "views": 36,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:KCi1auHtIg8",
+     "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
+     "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
+     "channel": "AP Quintellect | AI & Business",
+     "views": 1,
+     "age_hours": 0.9333333333333333,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:f5BHDOnQ1i8",
+     "url": "https://www.youtube.com/watch?v=f5BHDOnQ1i8",
+     "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
+     "channel": "BreakingNewsAI",
+     "views": 4,
+     "age_hours": 23,
+     "relevance": 0.6,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T11:49:52.165Z"
   },
   {
    "first_seen": "2026-11-07T05:20:23.309Z",
