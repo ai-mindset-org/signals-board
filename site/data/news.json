@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T19:49:54.771Z",
+ "generated_at": "2026-11-09T20:36:09.398Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Fable 5.2",
+   "source": "youtube: R&D Is Accelerating Towards Potential RSI",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Fable 5.2",
+   "source": "tiktok: R&D Is Accelerating Towards Potential RSI",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude fable 5.2",
+   "source": "youtube: accelerating towards potential rsi",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude fable 5.2",
+   "source": "tiktok: accelerating towards potential rsi",
    "ok": true
   }
  ],
@@ -497,6 +497,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-08T02:16:21.772Z"
+  },
+  {
+   "first_seen": "2026-11-09T20:36:09.398Z",
+   "id": "39716220",
+   "ids": [
+    "39716220",
+    "39709533"
+   ],
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-11-09 14:45:41",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "url": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"
+    }
+   ],
+   "queries": [
+    "R&D Is Accelerating Towards Potential RSI",
+    "accelerating towards potential rsi"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YJPdXY45JOc",
+     "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "channel": "AskwhoCasts AI",
+     "views": 32,
+     "age_hours": 4,
+     "relevance": 1,
+     "velocity": 8
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T20:36:17.305Z"
   },
   {
    "first_seen": "2026-11-09T05:36:45.359Z",
