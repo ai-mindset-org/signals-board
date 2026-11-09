@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T04:14:46.775Z",
+ "generated_at": "2026-11-09T05:36:45.359Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,120 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: anthropic 3.4b secures deal",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic 3.4b secures deal",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-11-09T05:36:45.359Z",
+   "id": "39700788",
+   "ids": [
+    "39700788",
+    "39701198"
+   ],
+   "title": "Anthropic secures $3.4b deal for AI data center power",
+   "url": "https://www.techinasia.com/news/anthropic-secures-34b-deal-ai-data-center-power",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-09 00:11:24",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic secures $3.4B generator deal for AI data centers",
+     "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
+    }
+   ],
+   "queries": [
+    "anthropic 3.4b secures deal"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xA6c3Waa7qg",
+     "url": "https://www.youtube.com/shorts/xA6c3Waa7qg",
+     "title": "Anthropic just paid $3.4B for its own gas generators to power AI",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZXsED6Sk-GQ",
+     "url": "https://www.youtube.com/shorts/ZXsED6Sk-GQ",
+     "title": "Anthropic is spending $3.4B to generate its own power",
+     "channel": "",
+     "views": 178,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pt4XKxiR5Ek",
+     "url": "https://www.youtube.com/shorts/pt4XKxiR5Ek",
+     "title": "Anthropic Secures 3.4 Billion Generator Deal",
+     "channel": "",
+     "views": 111,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:U1Hjxp3qr1Q",
+     "url": "https://www.youtube.com/shorts/U1Hjxp3qr1Q",
+     "title": "Anthropic's Reported $3.4B Gas Generator Deal",
+     "channel": "",
+     "views": 87,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wdmWrYZNM2M",
+     "url": "https://www.youtube.com/shorts/wdmWrYZNM2M",
+     "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres #Shorts",
+     "channel": "",
+     "views": 39,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c_lN7LusaXw",
+     "url": "https://www.youtube.com/shorts/c_lN7LusaXw",
+     "title": "AI Has a Power Problem ⚡ Anthropic's Reported $3.4B Deal #Shorts",
+     "channel": "",
+     "views": 32,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T05:36:49.387Z"
+  },
   {
    "first_seen": "2026-11-06T11:10:44.690Z",
    "id": "39653579",
@@ -111,50 +223,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T11:10:49.163Z"
-  },
-  {
-   "first_seen": "2026-11-09T00:32:30.093Z",
-   "id": "39691636",
-   "ids": [
-    "39691636",
-    "39698035"
-   ],
-   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-08 14:45:22",
-   "story_sources": 2,
-   "score_norm": 92,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
-     "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii"
-    }
-   ],
-   "queries": [
-    "RTX 5060 Ti 16GB",
-    "users rtx 5060 ti"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:20xONWZCw9M",
-     "url": "https://www.youtube.com/watch?v=20xONWZCw9M",
-     "title": "RTX 5060 Ti 16GB: One Year Later",
-     "channel": "AFK Capital",
-     "views": 12,
-     "age_hours": 10,
-     "relevance": 0.57,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T00:32:38.229Z"
   },
   {
    "first_seen": "2026-11-07T00:27:45.014Z",
@@ -369,6 +437,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-06T19:20:32.178Z"
+  },
+  {
+   "first_seen": "2026-11-09T00:32:30.093Z",
+   "id": "39691636",
+   "ids": [
+    "39691636",
+    "39698035"
+   ],
+   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-08 14:45:22",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
+     "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii"
+    }
+   ],
+   "queries": [
+    "RTX 5060 Ti 16GB",
+    "users rtx 5060 ti"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:20xONWZCw9M",
+     "url": "https://www.youtube.com/watch?v=20xONWZCw9M",
+     "title": "RTX 5060 Ti 16GB: One Year Later",
+     "channel": "AFK Capital",
+     "views": 12,
+     "age_hours": 10,
+     "relevance": 0.57,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T00:32:38.229Z"
   },
   {
    "first_seen": "2026-11-06T20:11:05.369Z",
