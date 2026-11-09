@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T07:37:10.024Z",
+ "generated_at": "2026-11-09T07:49:17.967Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Artificial Analysis",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Artificial Analysis",
-   "ok": true
-  },
-  {
-   "source": "youtube: artificial analysis drex max",
-   "ok": true
-  },
-  {
-   "source": "tiktok: artificial analysis drex max",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-09T05:36:45.359Z",
@@ -821,61 +804,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-09T06:48:40.784Z"
-  },
-  {
-   "first_seen": "2026-11-06T10:49:52.000Z",
-   "id": "39653118",
-   "ids": [
-    "39653118",
-    "39647556"
-   ],
-   "title": "DeepSeek plans official plugin marketplace as Harness daily users reach 1.54 million",
-   "url": "https://technode.com/2026/11/06/deepseek-plans-official-plugin-marketplace-as-harness-daily-users-reach-1-54-million/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-06 07:48:25",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "DeepSeek Harness Reaches 1.54 Million Daily Users and Plans an Official Plugin Marketplace",
-     "url": "https://pandaily.com/deepseek-harness-1-54-million-daily-active-users-official-plugin-marketplace"
-    }
-   ],
-   "queries": [
-    "deepseek harness 1.54 plans"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uV8MKqyEDzQ",
-     "url": "https://www.youtube.com/shorts/uV8MKqyEDzQ",
-     "title": "DeepSeek Harness: everything-is-a-plugin",
-     "channel": "",
-     "views": 118,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZcYR0CCG2X4",
-     "url": "https://www.youtube.com/shorts/ZcYR0CCG2X4",
-     "title": "DeepSeek’s AI Agent Just Hit 1.54 Million Daily Users",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T23:19:56.296Z"
   },
   {
    "first_seen": "2026-11-06T12:36:34.846Z",
