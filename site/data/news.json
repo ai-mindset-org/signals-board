@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:49:48.382Z",
+ "generated_at": "2026-11-09T13:49:42.301Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,127 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic 3.4 report secures",
+   "source": "youtube: Artificial Analysis",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 3.4 report secures",
+   "source": "tiktok: Artificial Analysis",
+   "ok": true
+  },
+  {
+   "source": "youtube: artificial analysis drex max",
+   "ok": true
+  },
+  {
+   "source": "tiktok: artificial analysis drex max",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-11-09T05:36:45.359Z",
-   "id": "39700788",
-   "ids": [
-    "39700788",
-    "39701198",
-    "39701850"
-   ],
-   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-09 04:07:44",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic secures $3.4B generator deal for AI data centers",
-     "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
-    }
-   ],
-   "queries": [
-    "anthropic 3.4 report secures"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sO8YTACLl2w",
-     "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
-     "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
-     "channel": "Mafh² Discovery",
-     "views": 36,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KCi1auHtIg8",
-     "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
-     "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
-     "channel": "AP Quintellect | AI & Business",
-     "views": 1,
-     "age_hours": 0.9333333333333333,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:f5BHDOnQ1i8",
-     "url": "https://www.youtube.com/watch?v=f5BHDOnQ1i8",
-     "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
-     "channel": "BreakingNewsAI",
-     "views": 4,
-     "age_hours": 23,
-     "relevance": 0.6,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T11:49:52.165Z"
-  },
-  {
-   "first_seen": "2026-11-09T07:37:10.024Z",
-   "id": "39702433",
-   "ids": [
-    "39702433",
-    "39693121"
-   ],
-   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-08 17:54:43",
-   "story_sources": 2,
-   "score_norm": 95,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
-    }
-   ],
-   "queries": [
-    "Artificial Analysis",
-    "artificial analysis drex max"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:j_IlGQ01X4A",
-     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
-     "title": "has Artificial Analysis just exposed benchmaxxers?",
-     "channel": "Tom Dohnal",
-     "views": 396,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T07:37:17.499Z"
-  },
   {
    "first_seen": "2026-11-07T00:27:45.014Z",
    "id": "39667710",
@@ -345,6 +241,74 @@
    "searched_at": "2026-11-06T19:20:32.178Z"
   },
   {
+   "first_seen": "2026-11-09T05:36:45.359Z",
+   "id": "39700788",
+   "ids": [
+    "39700788",
+    "39701198",
+    "39701850"
+   ],
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-09 04:07:44",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic secures $3.4B generator deal for AI data centers",
+     "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
+    }
+   ],
+   "queries": [
+    "anthropic 3.4 report secures"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sO8YTACLl2w",
+     "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
+     "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
+     "channel": "Mafh² Discovery",
+     "views": 36,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:KCi1auHtIg8",
+     "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
+     "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
+     "channel": "AP Quintellect | AI & Business",
+     "views": 1,
+     "age_hours": 0.9333333333333333,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:f5BHDOnQ1i8",
+     "url": "https://www.youtube.com/watch?v=f5BHDOnQ1i8",
+     "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
+     "channel": "BreakingNewsAI",
+     "views": 4,
+     "age_hours": 23,
+     "relevance": 0.6,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T11:49:52.165Z"
+  },
+  {
    "first_seen": "2026-11-06T20:11:05.369Z",
    "id": "39664139",
    "ids": [
@@ -447,6 +411,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-07T14:35:39.982Z"
+  },
+  {
+   "first_seen": "2026-11-09T07:37:10.024Z",
+   "id": "39702433",
+   "ids": [
+    "39702433",
+    "39693121"
+   ],
+   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-08 17:54:43",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
+    }
+   ],
+   "queries": [
+    "Artificial Analysis",
+    "artificial analysis drex max"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:j_IlGQ01X4A",
+     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
+     "title": "has Artificial Analysis just exposed benchmaxxers?",
+     "channel": "Tom Dohnal",
+     "views": 407,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T13:49:49.599Z"
   },
   {
    "first_seen": "2026-11-09T00:32:30.093Z",
