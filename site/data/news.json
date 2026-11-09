@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:09:37.479Z",
+ "generated_at": "2026-11-09T22:50:05.120Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,132 +9,66 @@
  },
  "search_report": [
   {
-   "source": "youtube: Introducing Claude Fable 5.2",
+   "source": "youtube: Control Room",
    "ok": true
   },
   {
-   "source": "tiktok: Introducing Claude Fable 5.2",
+   "source": "tiktok: Control Room",
    "ok": true
   },
   {
-   "source": "youtube: introducing claude fable 5.2",
+   "source": "youtube: control room central system",
    "ok": true
   },
   {
-   "source": "tiktok: introducing claude fable 5.2",
+   "source": "tiktok: control room central system",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-09T22:09:37.479Z",
-   "id": "39717715",
+   "first_seen": "2026-11-09T22:50:05.120Z",
+   "id": "39717917",
    "ids": [
-    "39717715",
-    "39714633",
-    "39714405"
+    "39717917",
+    "39718245"
    ],
-   "title": "Introducing Claude Fable 5.2 on AWS",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-   "source_id": "aws-ml-blog",
-   "published_ts": "2026-11-09 20:04:37",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-09 13:00:00",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 100,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
-    },
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://twitter.com/claudeai/status/2119867114450268322"
+     "title": "OpenAI Control Room: track and stop model workloads across research infra",
+     "url": "https://openai.com/index/control-room/"
     }
    ],
    "queries": [
-    "Introducing Claude Fable 5.2",
-    "introducing claude fable 5.2"
+    "Control Room",
+    "control room central system"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:6a1QSJlsYpU",
-     "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
-     "title": "Introducing Claude Fable 5.2",
-     "channel": "Claude",
-     "views": 52202,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 17401
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FbveQFfB8Sg",
-     "url": "https://www.youtube.com/watch?v=FbveQFfB8Sg",
-     "title": "Claude Fable 5.2: Fermat's Last Theorem in 30 Hours",
-     "channel": "LLMs Explained",
-     "views": 32,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 32
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QvCUaBtoZS0",
-     "url": "https://www.youtube.com/watch?v=QvCUaBtoZS0",
-     "title": "Claude Fable 5.2 및 Claude Mythos 5.2",
-     "channel": "Ki-jung Kim (akaslany)",
-     "views": 31,
-     "age_hours": 2,
-     "relevance": 0.75,
-     "velocity": 16
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Te9tKY7N-Dk",
-     "url": "https://www.youtube.com/watch?v=Te9tKY7N-Dk",
-     "title": "System Card: Claude Fable 5.2 & Claude Mythos 5.2 (Nov 2026)",
-     "channel": "AI Paper Slop",
-     "views": 3,
-     "age_hours": 0.7666666666666666,
-     "relevance": 0.6,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fMeroO3I6EA",
-     "url": "https://www.youtube.com/watch?v=fMeroO3I6EA",
-     "title": "Claude Code v2.1.321 — Fable 5.2 and Remote Control Improvements",
-     "channel": "Claude Code Changelog",
-     "views": 4,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:qcrej_yDENw",
-     "url": "https://www.youtube.com/watch?v=qcrej_yDENw",
-     "title": "CLAUDE 5.2 FABLE IS HERE! 🚨 30% Faster & CHEAPER?!",
-     "channel": "AN.AITechWorld",
-     "views": 2,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 2
+     "id": "youtube:3yIVRDNEVmI",
+     "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
+     "title": "The Control Room #2: Bob Horn",
+     "channel": "Greazy Wil",
+     "views": 2140,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 45
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-09T22:09:44.926Z"
+   "searched_at": "2026-11-09T22:50:13.257Z"
   },
   {
    "first_seen": "2026-11-07T00:27:45.014Z",
@@ -246,72 +180,34 @@
    "searched_at": "2026-11-07T18:49:44.360Z"
   },
   {
-   "first_seen": "2026-11-09T21:10:03.334Z",
-   "id": "39716552",
+   "first_seen": "2026-11-09T22:09:37.479Z",
+   "id": "39717715",
    "ids": [
-    "39716552",
-    "39712914"
+    "39717715",
+    "39714633",
+    "39714405"
    ],
-   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
-   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-09 20:34:10",
+   "title": "Introducing Claude Fable 5.2 on AWS",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+   "source_id": "aws-ml-blog",
+   "published_ts": "2026-11-09 20:04:37",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
-     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
-    }
-   ],
-   "queries": [
-    "Anthropic’s Claude Mythos",
-    "ibm anthropic claude mythos"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WlozwcUDaqw",
-     "url": "https://www.youtube.com/shorts/WlozwcUDaqw",
-     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T21:10:11.346Z"
-  },
-  {
-   "first_seen": "2026-11-09T19:49:54.771Z",
-   "id": "39715005",
-   "ids": [
-    "39715005",
-    "39714459"
-   ],
-   "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and cuts Fable’s price",
-   "url": "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-09 19:22:39",
-   "story_sources": 2,
-   "score_norm": 78,
-   "related_news": [
+     "title": "Claude Fable 5.2",
+     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
+    },
     {
      "source_id": "hn",
-     "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+     "title": "Claude Fable 5.2",
+     "url": "https://twitter.com/claudeai/status/2119867114450268322"
     }
    ],
    "queries": [
-    "Claude Fable 5.2",
-    "anthropic claude fable 5.2"
+    "Introducing Claude Fable 5.2",
+    "introducing claude fable 5.2"
    ],
    "videos": [
     {
@@ -321,65 +217,77 @@
      "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
      "title": "Introducing Claude Fable 5.2",
      "channel": "Claude",
-     "views": 16534,
-     "age_hours": 0.8833333333333333,
-     "relevance": 0.75,
-     "velocity": 16534
+     "views": 52202,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 17401
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:0vNyVMDFdkg",
-     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-     "title": "Fable 5.2 is here! (Anthropic COOKED)",
-     "channel": "Matthew Berman",
-     "views": 7542,
-     "age_hours": 0.7833333333333333,
+     "id": "youtube:FbveQFfB8Sg",
+     "url": "https://www.youtube.com/watch?v=FbveQFfB8Sg",
+     "title": "Claude Fable 5.2: Fermat's Last Theorem in 30 Hours",
+     "channel": "LLMs Explained",
+     "views": 32,
+     "age_hours": 1,
      "relevance": 0.6,
-     "velocity": 7542
+     "velocity": 32
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:QwaU4yU0PdQ",
-     "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
-     "title": "Fable 5.2 | First Impressions",
-     "channel": "Arena  ",
-     "views": 2208,
-     "age_hours": 0.6,
-     "relevance": 0.5,
-     "velocity": 2208
+     "id": "youtube:QvCUaBtoZS0",
+     "url": "https://www.youtube.com/watch?v=QvCUaBtoZS0",
+     "title": "Claude Fable 5.2 및 Claude Mythos 5.2",
+     "channel": "Ki-jung Kim (akaslany)",
+     "views": 31,
+     "age_hours": 2,
+     "relevance": 0.75,
+     "velocity": 16
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:SLve5ZI8nPE",
-     "url": "https://www.youtube.com/watch?v=SLve5ZI8nPE",
-     "title": "Claude Fable 5.2: What the Benchmarks Actually Show",
-     "channel": "AI Mathias | AI Automation",
-     "views": 29,
-     "age_hours": 0.3,
-     "relevance": 0.5,
-     "velocity": 29
+     "id": "youtube:Te9tKY7N-Dk",
+     "url": "https://www.youtube.com/watch?v=Te9tKY7N-Dk",
+     "title": "System Card: Claude Fable 5.2 & Claude Mythos 5.2 (Nov 2026)",
+     "channel": "AI Paper Slop",
+     "views": 3,
+     "age_hours": 0.7666666666666666,
+     "relevance": 0.6,
+     "velocity": 3
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:LfLu3zwe5-4",
-     "url": "https://www.youtube.com/watch?v=LfLu3zwe5-4",
-     "title": "Claude Fable 5.2 Just Launched. Testing It Live",
-     "channel": "Tech Friend AJ",
-     "views": null,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "id": "youtube:fMeroO3I6EA",
+     "url": "https://www.youtube.com/watch?v=fMeroO3I6EA",
+     "title": "Claude Code v2.1.321 — Fable 5.2 and Remote Control Improvements",
+     "channel": "Claude Code Changelog",
+     "views": 4,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:qcrej_yDENw",
+     "url": "https://www.youtube.com/watch?v=qcrej_yDENw",
+     "title": "CLAUDE 5.2 FABLE IS HERE! 🚨 30% Faster & CHEAPER?!",
+     "channel": "AN.AITechWorld",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 2
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-09T19:50:02.136Z"
+   "searched_at": "2026-11-09T22:09:44.926Z"
   },
   {
    "first_seen": "2026-11-06T20:11:05.369Z",
@@ -530,6 +438,50 @@
    "searched_at": "2026-11-09T13:49:49.599Z"
   },
   {
+   "first_seen": "2026-11-09T21:10:03.334Z",
+   "id": "39716552",
+   "ids": [
+    "39716552",
+    "39712914"
+   ],
+   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
+   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-09 20:34:10",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
+     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Claude Mythos",
+    "ibm anthropic claude mythos"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WlozwcUDaqw",
+     "url": "https://www.youtube.com/shorts/WlozwcUDaqw",
+     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T21:10:11.346Z"
+  },
+  {
    "first_seen": "2026-11-09T00:32:30.093Z",
    "id": "39691636",
    "ids": [
@@ -653,48 +605,96 @@
    "searched_at": "2026-11-08T02:16:21.772Z"
   },
   {
-   "first_seen": "2026-11-09T20:36:09.398Z",
-   "id": "39716220",
+   "first_seen": "2026-11-09T19:49:54.771Z",
+   "id": "39715005",
    "ids": [
-    "39716220",
-    "39709533"
+    "39715005",
+    "39714459"
    ],
-   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-11-09 14:45:41",
+   "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and cuts Fable’s price",
+   "url": "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-09 19:22:39",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 71,
    "related_news": [
     {
-     "source_id": "lesswrong-feed",
-     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-     "url": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"
+     "source_id": "hn",
+     "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
     }
    ],
    "queries": [
-    "R&D Is Accelerating Towards Potential RSI",
-    "accelerating towards potential rsi"
+    "Claude Fable 5.2",
+    "anthropic claude fable 5.2"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:YJPdXY45JOc",
-     "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
-     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-     "channel": "AskwhoCasts AI",
-     "views": 32,
-     "age_hours": 4,
-     "relevance": 1,
-     "velocity": 8
+     "id": "youtube:6a1QSJlsYpU",
+     "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
+     "title": "Introducing Claude Fable 5.2",
+     "channel": "Claude",
+     "views": 16534,
+     "age_hours": 0.8833333333333333,
+     "relevance": 0.75,
+     "velocity": 16534
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0vNyVMDFdkg",
+     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+     "title": "Fable 5.2 is here! (Anthropic COOKED)",
+     "channel": "Matthew Berman",
+     "views": 7542,
+     "age_hours": 0.7833333333333333,
+     "relevance": 0.6,
+     "velocity": 7542
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QwaU4yU0PdQ",
+     "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
+     "title": "Fable 5.2 | First Impressions",
+     "channel": "Arena  ",
+     "views": 2208,
+     "age_hours": 0.6,
+     "relevance": 0.5,
+     "velocity": 2208
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SLve5ZI8nPE",
+     "url": "https://www.youtube.com/watch?v=SLve5ZI8nPE",
+     "title": "Claude Fable 5.2: What the Benchmarks Actually Show",
+     "channel": "AI Mathias | AI Automation",
+     "views": 29,
+     "age_hours": 0.3,
+     "relevance": 0.5,
+     "velocity": 29
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LfLu3zwe5-4",
+     "url": "https://www.youtube.com/watch?v=LfLu3zwe5-4",
+     "title": "Claude Fable 5.2 Just Launched. Testing It Live",
+     "channel": "Tech Friend AJ",
+     "views": null,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-09T20:36:17.305Z"
+   "searched_at": "2026-11-09T19:50:02.136Z"
   },
   {
    "first_seen": "2026-11-09T05:36:45.359Z",
@@ -775,6 +775,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-09T17:50:05.278Z"
+  },
+  {
+   "first_seen": "2026-11-09T20:36:09.398Z",
+   "id": "39716220",
+   "ids": [
+    "39716220",
+    "39709533"
+   ],
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-11-09 14:45:41",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "url": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"
+    }
+   ],
+   "queries": [
+    "R&D Is Accelerating Towards Potential RSI",
+    "accelerating towards potential rsi"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YJPdXY45JOc",
+     "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "channel": "AskwhoCasts AI",
+     "views": 32,
+     "age_hours": 4,
+     "relevance": 1,
+     "velocity": 8
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T20:36:17.305Z"
   }
  ]
 }
