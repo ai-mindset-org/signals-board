@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T17:21:17.554Z",
+ "generated_at": "2026-11-09T17:50:01.095Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: anthropic 3.4 report secures",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic 3.4 report secures",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-07T00:27:45.014Z",
@@ -506,7 +515,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-09 04:07:44",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
@@ -521,12 +530,24 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:Q1MKbjgRDJk",
+     "url": "https://www.youtube.com/watch?v=Q1MKbjgRDJk",
+     "title": "Anthropic's $3.4B Generator Deal | AI News #Shorts",
+     "channel": "DevTech Services",
+     "views": 49,
+     "age_hours": 3,
+     "relevance": 0.57,
+     "velocity": 16
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:sO8YTACLl2w",
      "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
      "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
      "channel": "Mafh² Discovery",
      "views": 36,
-     "age_hours": 17,
+     "age_hours": 23,
      "relevance": 0.5,
      "velocity": 2
     },
@@ -537,8 +558,8 @@
      "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
      "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
      "channel": "AP Quintellect | AI & Business",
-     "views": 1,
-     "age_hours": 0.9333333333333333,
+     "views": 5,
+     "age_hours": 6,
      "relevance": 0.63,
      "velocity": 1
     },
@@ -550,7 +571,7 @@
      "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
      "channel": "BreakingNewsAI",
      "views": 4,
-     "age_hours": 23,
+     "age_hours": 24,
      "relevance": 0.6,
      "velocity": 0
     }
@@ -559,7 +580,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-09T11:49:52.165Z"
+   "searched_at": "2026-11-09T17:50:05.278Z"
   },
   {
    "first_seen": "2026-11-07T05:20:23.309Z",
