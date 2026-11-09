@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T18:49:54.185Z",
+ "generated_at": "2026-11-09T19:49:54.771Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Claude Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Claude Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude fable 5.2",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-07T00:27:45.014Z",
@@ -117,6 +134,98 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-07T18:49:44.360Z"
+  },
+  {
+   "first_seen": "2026-11-09T19:49:54.771Z",
+   "id": "39715005",
+   "ids": [
+    "39715005",
+    "39714459"
+   ],
+   "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and cuts Fable’s price",
+   "url": "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-09 19:22:39",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+    }
+   ],
+   "queries": [
+    "Claude Fable 5.2",
+    "anthropic claude fable 5.2"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6a1QSJlsYpU",
+     "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
+     "title": "Introducing Claude Fable 5.2",
+     "channel": "Claude",
+     "views": 16534,
+     "age_hours": 0.8833333333333333,
+     "relevance": 0.75,
+     "velocity": 16534
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0vNyVMDFdkg",
+     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+     "title": "Fable 5.2 is here! (Anthropic COOKED)",
+     "channel": "Matthew Berman",
+     "views": 7542,
+     "age_hours": 0.7833333333333333,
+     "relevance": 0.6,
+     "velocity": 7542
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QwaU4yU0PdQ",
+     "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
+     "title": "Fable 5.2 | First Impressions",
+     "channel": "Arena  ",
+     "views": 2208,
+     "age_hours": 0.6,
+     "relevance": 0.5,
+     "velocity": 2208
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SLve5ZI8nPE",
+     "url": "https://www.youtube.com/watch?v=SLve5ZI8nPE",
+     "title": "Claude Fable 5.2: What the Benchmarks Actually Show",
+     "channel": "AI Mathias | AI Automation",
+     "views": 29,
+     "age_hours": 0.3,
+     "relevance": 0.5,
+     "velocity": 29
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LfLu3zwe5-4",
+     "url": "https://www.youtube.com/watch?v=LfLu3zwe5-4",
+     "title": "Claude Fable 5.2 Just Launched. Testing It Live",
+     "channel": "Tech Friend AJ",
+     "views": null,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-09T19:50:02.136Z"
   },
   {
    "first_seen": "2026-11-06T20:11:05.369Z",
