@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T08:17:36.958Z",
+ "generated_at": "2026-11-09T11:10:52.938Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -114,109 +114,6 @@
    "searched_at": "2026-11-09T05:36:49.387Z"
   },
   {
-   "first_seen": "2026-11-06T11:10:44.690Z",
-   "id": "39653579",
-   "ids": [
-    "39653579",
-    "39630085"
-   ],
-   "title": "OpenAI finds 948 local privilege escalation bugs in the Linux kernel",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xp9xau/openai_finds_948_local_privilege_escalation_bugs/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-06 10:52:24",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
-     "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs"
-    }
-   ],
-   "queries": [
-    "openai 948 linux finds"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:v-ooOJ8rLt4",
-     "url": "https://www.youtube.com/watch?v=v-ooOJ8rLt4",
-     "title": "GPT-6.2 LEAKED on Google Cloud: Release TOMORROW?! OpenAI's Cyber Model Finds 948 Linux Bugs & More!",
-     "channel": "NewEraAi",
-     "views": 1129,
-     "age_hours": 18,
-     "relevance": 0.56,
-     "velocity": 63
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rRzyyZ20eyM",
-     "url": "https://www.youtube.com/watch?v=rRzyyZ20eyM",
-     "title": "OpenAI GPT-6 Cyber Finds 948 Linux Kernel Vulnerabilities...",
-     "channel": "lustoykov",
-     "views": 778,
-     "age_hours": 17,
-     "relevance": 0.63,
-     "velocity": 46
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Hcer2_MA73Q",
-     "url": "https://www.youtube.com/watch?v=Hcer2_MA73Q",
-     "title": "948 Linux Kernel Vulnerabilities Found!",
-     "channel": "Mr and Mrs Linux",
-     "views": 231,
-     "age_hours": 23,
-     "relevance": 0.6,
-     "velocity": 10
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wu258Z4uYaU",
-     "url": "https://www.youtube.com/shorts/wu258Z4uYaU",
-     "title": "OpenAI Built an AI That Found 948 Linux Kernel Root Bugs for $1.2M, and Wrote a Patch for Each",
-     "channel": "",
-     "views": 194,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:FieI65D4x60",
-     "url": "https://www.youtube.com/shorts/FieI65D4x60",
-     "title": "OpenAI Says Its AI Found 948 Linux Root Bugs #shorts",
-     "channel": "",
-     "views": 82,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eWlG5QG23L4",
-     "url": "https://www.youtube.com/watch?v=eWlG5QG23L4",
-     "title": "OpenAI reports 948 local root flaws in Linux",
-     "channel": "The Daily Diff",
-     "views": 24,
-     "age_hours": 14,
-     "relevance": 0.57,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T11:10:49.163Z"
-  },
-  {
    "first_seen": "2026-11-09T07:37:10.024Z",
    "id": "39702433",
    "ids": [
@@ -228,7 +125,7 @@
    "source_id": "reddit-ml",
    "published_ts": "2026-11-08 17:54:43",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "reddit-localllama",
@@ -579,6 +476,74 @@
    "searched_at": "2026-11-07T14:35:39.982Z"
   },
   {
+   "first_seen": "2026-11-09T00:32:30.093Z",
+   "id": "39691636",
+   "ids": [
+    "39691636",
+    "39698035"
+   ],
+   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-08 14:45:22",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
+     "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii"
+    }
+   ],
+   "queries": [
+    "RTX 5060 Ti 16GB",
+    "users rtx 5060 ti"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Jxcu3JWBcbc",
+     "url": "https://www.youtube.com/shorts/Jxcu3JWBcbc",
+     "title": "RTX 5060 + Core i5-14400F",
+     "channel": "",
+     "views": 21000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2KW_W-vImVU",
+     "url": "https://www.youtube.com/shorts/2KW_W-vImVU",
+     "title": "RTX 3080 10GB vs RTX 5060 Ti 16GB at 1440p",
+     "channel": "",
+     "views": 11000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:20xONWZCw9M",
+     "url": "https://www.youtube.com/watch?v=20xONWZCw9M",
+     "title": "RTX 5060 Ti 16GB: One Year Later",
+     "channel": "AFK Capital",
+     "views": 52,
+     "age_hours": 16,
+     "relevance": 0.57,
+     "velocity": 3
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-09T06:48:40.784Z"
+  },
+  {
    "first_seen": "2026-11-07T07:49:54.330Z",
    "id": "39672407",
    "ids": [
@@ -736,178 +701,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-06T21:35:43.193Z"
-  },
-  {
-   "first_seen": "2026-11-09T00:32:30.093Z",
-   "id": "39691636",
-   "ids": [
-    "39691636",
-    "39698035"
-   ],
-   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-08 14:45:22",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
-     "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii"
-    }
-   ],
-   "queries": [
-    "RTX 5060 Ti 16GB",
-    "users rtx 5060 ti"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Jxcu3JWBcbc",
-     "url": "https://www.youtube.com/shorts/Jxcu3JWBcbc",
-     "title": "RTX 5060 + Core i5-14400F",
-     "channel": "",
-     "views": 21000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2KW_W-vImVU",
-     "url": "https://www.youtube.com/shorts/2KW_W-vImVU",
-     "title": "RTX 3080 10GB vs RTX 5060 Ti 16GB at 1440p",
-     "channel": "",
-     "views": 11000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:20xONWZCw9M",
-     "url": "https://www.youtube.com/watch?v=20xONWZCw9M",
-     "title": "RTX 5060 Ti 16GB: One Year Later",
-     "channel": "AFK Capital",
-     "views": 52,
-     "age_hours": 16,
-     "relevance": 0.57,
-     "velocity": 3
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-09T06:48:40.784Z"
-  },
-  {
-   "first_seen": "2026-11-06T12:36:34.846Z",
-   "id": "39655135",
-   "ids": [
-    "39655135",
-    "39636025"
-   ],
-   "title": "Dropbox targets AI infrastructure gains with $350m Tigris Data acquisition",
-   "url": "https://www.itpro.com/business/acquisition/dropbox-targets-ai-infrastructure-gains-with-usd350m-tigris-data-acquisition",
-   "source_id": "eu-itpro",
-   "published_ts": "2026-11-06 11:04:39",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-     "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-    }
-   ],
-   "queries": [
-    "350m Tigris Data",
-    "dropbox 350m tigris data"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ypwmsE8VrQ4",
-     "url": "https://www.youtube.com/watch?v=ypwmsE8VrQ4",
-     "title": "Dropbox、Tigris Dataを5億ドルで買収しAI強化【もちもちエンジニアトピックス】",
-     "channel": "もちもちトピックス",
-     "views": 419,
-     "age_hours": 14,
-     "relevance": 0.5,
-     "velocity": 30
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mIUmSYV4hJQ",
-     "url": "https://www.youtube.com/shorts/mIUmSYV4hJQ",
-     "title": "Dropbox's $350M Tigris deal is its biggest acquisition ever",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:53_9hAFYpsM",
-     "url": "https://www.youtube.com/shorts/53_9hAFYpsM",
-     "title": "Dropbox Agrees to $350M Tigris Deal for AI Storage",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iteqvojsY2g",
-     "url": "https://www.youtube.com/shorts/iteqvojsY2g",
-     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mHjH1xaRbqc",
-     "url": "https://www.youtube.com/shorts/mHjH1xaRbqc",
-     "title": "Dropbox Acquires Tigris Data #Shorts",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gzGY1rZmbkk",
-     "url": "https://www.youtube.com/shorts/gzGY1rZmbkk",
-     "title": "Dropbox Buys Tigris Data for $350M #Shorts #Dropbox #AI",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-06T12:50:14.347Z"
   },
   {
    "first_seen": "2026-11-06T14:24:22.308Z",
