@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:36:04.560Z",
+ "generated_at": "2026-11-10T08:36:04.403Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic fable 5.2 mythos",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic fable 5.2 mythos",
+   "ok": true
+  },
+  {
+   "source": "youtube: cuda+rocm llm gpus 48",
+   "ok": true
+  },
+  {
+   "source": "tiktok: cuda+rocm llm gpus 48",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -141,10 +166,22 @@
     }
    ],
    "queries": [
-    "Claude Fable 5.2",
-    "anthropic claude fable 5.2"
+    "Fable 5.2",
+    "anthropic fable 5.2 mythos"
    ],
    "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:foCBPrpbO68",
+     "url": "https://www.youtube.com/watch?v=foCBPrpbO68",
+     "title": "Anthropic has just DROPPED A NUKE! (Fable 5.2)",
+     "channel": "Nick Saraev",
+     "views": 288455,
+     "age_hours": 12,
+     "relevance": 0.6,
+     "velocity": 24038
+    },
     {
      "platform": "youtube",
      "kind": "видео",
@@ -152,10 +189,10 @@
      "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
      "title": "Introducing Claude Fable 5.2",
      "channel": "Claude",
-     "views": 162980,
-     "age_hours": 7,
-     "relevance": 0.75,
-     "velocity": 23283
+     "views": 240690,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 18515
     },
     {
      "platform": "youtube",
@@ -164,10 +201,10 @@
      "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
      "title": "Fable 5.2 is ridiculous",
      "channel": "Matthew Berman",
-     "views": 150230,
-     "age_hours": 7,
+     "views": 199446,
+     "age_hours": 13,
      "relevance": 0.67,
-     "velocity": 21461
+     "velocity": 15342
     },
     {
      "platform": "youtube",
@@ -176,34 +213,10 @@
      "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
      "title": "NOTHING will be smarter than Fable 5.2...",
      "channel": "Wes Roth",
-     "views": 16748,
-     "age_hours": 2,
+     "views": 97078,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": 8374
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QwaU4yU0PdQ",
-     "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
-     "title": "Fable 5.2 | First Impressions",
-     "channel": "Arena  ",
-     "views": 39238,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 5605
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:909cmkmq8Yk",
-     "url": "https://www.youtube.com/watch?v=909cmkmq8Yk",
-     "title": "Anthropic launches Claude Fable 5.2: we have a NEW KING",
-     "channel": "Benjamín Cordero",
-     "views": 13460,
-     "age_hours": 4,
-     "relevance": 0.71,
-     "velocity": 3365
+     "velocity": 12135
     },
     {
      "platform": "youtube",
@@ -212,17 +225,29 @@
      "url": "https://www.youtube.com/watch?v=k1nqJXchluE",
      "title": "Anthropic Just Dropped Fable 5.2 (Full Breakdown)",
      "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 11253,
-     "age_hours": 4,
+     "views": 29630,
+     "age_hours": 10,
      "relevance": 0.5,
-     "velocity": 2813
+     "velocity": 2963
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cH88SXCQZEQ",
+     "url": "https://www.youtube.com/shorts/cH88SXCQZEQ",
+     "title": "Claude Fable 5.2 Explained",
+     "channel": "",
+     "views": 41000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-10T02:15:40.234Z"
+   "searched_at": "2026-11-10T08:36:12.040Z"
   },
   {
    "first_seen": "2026-11-09T07:37:10.024Z",
@@ -348,7 +373,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-09 13:00:00",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "hn",
@@ -404,7 +429,7 @@
    "source_id": "in-medianama",
    "published_ts": "2026-11-10 06:03:03",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -529,7 +554,7 @@
    "source_id": "aws-ml-blog",
    "published_ts": "2026-11-09 20:04:37",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "hn",
@@ -638,7 +663,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-10 02:09:31",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "hn",
@@ -654,7 +679,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-10T02:35:44.478Z"
+   "searched_at": "2026-11-10T08:36:15.522Z"
   },
   {
    "first_seen": "2026-11-09T20:36:09.398Z",
@@ -712,7 +737,7 @@
    "source_id": "import-ai",
    "published_ts": "2026-11-09 13:31:34",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "x-importai-substack",
