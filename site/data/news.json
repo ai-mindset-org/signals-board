@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T16:23:28.147Z",
+ "generated_at": "2026-11-10T17:10:10.451Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,48 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: mega 30 commits million",
-   "ok": true
-  },
-  {
-   "source": "tiktok: mega 30 commits million",
-   "ok": true
-  },
-  {
-   "source": "youtube: ChatGPT Enterprise",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ChatGPT Enterprise",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt enterprise aws marketplace",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt enterprise aws marketplace",
-   "ok": true
-  },
-  {
-   "source": "youtube: Quoting Prompting Claude Fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Quoting Prompting Claude Fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "youtube: quoting prompting claude fable",
-   "ok": true
-  },
-  {
-   "source": "tiktok: quoting prompting claude fable",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-10T16:23:28.147Z",
@@ -92,7 +51,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-09 19:00:00",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 98,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -183,6 +142,63 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T16:23:39.595Z"
+  },
+  {
+   "first_seen": "2026-11-09T22:50:05.120Z",
+   "id": "39717917",
+   "ids": [
+    "39717917",
+    "39718245",
+    "39735241"
+   ],
+   "title": "OpenAI describes Control Room, a central system that can track and stop model workloads across its research infrastructure",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xssa49/openai_describes_control_room_a_central_system/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 17:01:55",
+   "story_sources": 2,
+   "score_norm": 97,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI Control Room: track and stop model workloads across research infra",
+     "url": "https://openai.com/index/control-room/"
+    }
+   ],
+   "queries": [
+    "Control Room",
+    "control room central system"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3yIVRDNEVmI",
+     "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
+     "title": "The Control Room #2: Bob Horn",
+     "channel": "Greazy Wil",
+     "views": 2370,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 33
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TyaZI-_dARs",
+     "url": "https://www.youtube.com/watch?v=TyaZI-_dARs",
+     "title": "Control Room for Skills Explained",
+     "channel": "Mat Siems",
+     "views": 4,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T11:21:13.573Z"
   },
   {
    "first_seen": "2026-11-10T15:36:05.516Z",
@@ -690,62 +706,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T14:36:39.766Z"
-  },
-  {
-   "first_seen": "2026-11-09T22:50:05.120Z",
-   "id": "39717917",
-   "ids": [
-    "39717917",
-    "39718245"
-   ],
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "url": "https://openai.com/index/control-room",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-09 13:00:00",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI Control Room: track and stop model workloads across research infra",
-     "url": "https://openai.com/index/control-room/"
-    }
-   ],
-   "queries": [
-    "Control Room",
-    "control room central system"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3yIVRDNEVmI",
-     "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
-     "title": "The Control Room #2: Bob Horn",
-     "channel": "Greazy Wil",
-     "views": 2370,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 33
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TyaZI-_dARs",
-     "url": "https://www.youtube.com/watch?v=TyaZI-_dARs",
-     "title": "Control Room for Skills Explained",
-     "channel": "Mat Siems",
-     "views": 4,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T11:21:13.573Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
