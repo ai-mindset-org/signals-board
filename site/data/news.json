@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:36:09.440Z",
+ "generated_at": "2026-11-10T18:12:30.265Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,103 @@
  },
  "search_report": [
   {
-   "source": "youtube: Control Room",
+   "source": "youtube: Google Cloud",
    "ok": true
   },
   {
-   "source": "tiktok: Control Room",
+   "source": "tiktok: Google Cloud",
    "ok": true
   },
   {
-   "source": "youtube: openai control room describes",
+   "source": "youtube: google cloud gemini launches",
    "ok": true
   },
   {
-   "source": "tiktok: openai control room describes",
+   "source": "tiktok: google cloud gemini launches",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-10T18:12:30.265Z",
+   "id": "39734823",
+   "ids": [
+    "39734823",
+    "39736505"
+   ],
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source_id": "google-ai",
+   "published_ts": "2026-11-10 13:00:00",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Google Cloud launches Gemini for healthcare to take on hospital paperwork",
+     "url": "https://thenextweb.com/news/gemini-for-healthcare-google-cloud-ai-agent-launch"
+    }
+   ],
+   "queries": [
+    "Google Cloud",
+    "google cloud gemini launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mSYEdwQxtZ4",
+     "url": "https://www.youtube.com/watch?v=mSYEdwQxtZ4",
+     "title": "Power Gemini AI Agents with Live Web Context | Firecrawl on Google Cloud",
+     "channel": "Google Cloud",
+     "views": 77,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 39
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bEW8n6t8Hno",
+     "url": "https://www.youtube.com/watch?v=bEW8n6t8Hno",
+     "title": "Build with Gemini | Tech Mahindra and Google Cloud",
+     "channel": "Tech Mahindra",
+     "views": 31,
+     "age_hours": 12,
+     "relevance": 0.6,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GgwAeG8oAkE",
+     "url": "https://www.youtube.com/shorts/GgwAeG8oAkE",
+     "title": "Gemini 4 Carbon leak: $4 price spotted in Google Cloud catalog",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:J4vhWTUAzf8",
+     "url": "https://www.youtube.com/shorts/J4vhWTUAzf8",
+     "title": "Google Cloud this week: Gemini Omni Flash",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T18:12:38.958Z"
+  },
   {
    "first_seen": "2026-11-10T16:23:28.147Z",
    "id": "39733820",
@@ -38,7 +118,7 @@
    "source_id": "crypto-theblock",
    "published_ts": "2026-11-10 15:56:02",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -68,7 +148,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-09 19:00:00",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -161,6 +241,50 @@
    "searched_at": "2026-11-10T16:23:39.595Z"
   },
   {
+   "first_seen": "2026-11-09T07:37:10.024Z",
+   "id": "39702433",
+   "ids": [
+    "39702433",
+    "39693121"
+   ],
+   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-08 17:54:43",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
+    }
+   ],
+   "queries": [
+    "Artificial Analysis",
+    "artificial analysis drex max"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:j_IlGQ01X4A",
+     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
+     "title": "has Artificial Analysis just exposed benchmaxxers?",
+     "channel": "Tom Dohnal",
+     "views": 407,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T13:49:49.599Z"
+  },
+  {
    "first_seen": "2026-11-09T22:50:05.120Z",
    "id": "39717917",
    "ids": [
@@ -173,7 +297,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 17:01:55",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
@@ -266,342 +390,6 @@
    "searched_at": "2026-11-10T17:36:17.216Z"
   },
   {
-   "first_seen": "2026-11-10T15:36:05.516Z",
-   "id": "39732622",
-   "ids": [
-    "39732622",
-    "39732518"
-   ],
-   "title": "Reverse Engineer Anything - AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsop6i/reverse_engineer_anything_ai_companies_crack_down/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 14:45:24",
-   "story_sources": 2,
-   "score_norm": 88,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI Companies Crack Down on the Coolest Thing People Were Doing with AI",
-     "url": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/"
-    }
-   ],
-   "queries": [
-    "Coolest Thing People Were Doing With",
-    "reverse engineer anything companies"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:aqdHjpH4NXU",
-     "url": "https://www.youtube.com/watch?v=aqdHjpH4NXU",
-     "title": "Reverse Engineer Changes AI Completely!  🤯",
-     "channel": "Julian Goldie SEO",
-     "views": 1791,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 75
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZziQrVKiqyQ",
-     "url": "https://www.youtube.com/shorts/ZziQrVKiqyQ",
-     "title": "Reverse Engineer Anything #codingagents #ai #softwareengineering",
-     "channel": "",
-     "views": 355,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:468G2gh6dVI",
-     "url": "https://www.youtube.com/shorts/468G2gh6dVI",
-     "title": "Reverse Engineer Anything with AI Agents #shorts",
-     "channel": "",
-     "views": 34,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T15:36:13.516Z"
-  },
-  {
-   "first_seen": "2026-11-09T22:09:37.479Z",
-   "id": "39717715",
-   "ids": [
-    "39717715",
-    "39714633",
-    "39714405",
-    "39726514"
-   ],
-   "title": "Quoting Prompting Claude Fable 5.2",
-   "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-10 05:34:14",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
-    },
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://twitter.com/claudeai/status/2119867114450268322"
-    }
-   ],
-   "queries": [
-    "Quoting Prompting Claude Fable 5.2",
-    "quoting prompting claude fable"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:0vNyVMDFdkg",
-     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-     "title": "Fable 5.2 is ridiculous",
-     "channel": "@matthew_berman",
-     "views": 187000,
-     "age_hours": 20.858899444444443,
-     "relevance": 0.67,
-     "velocity": 8965
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:h76wUNmRqxc",
-     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
-     "title": "NOTHING will be smarter than Fable 5.2...",
-     "channel": "@WesRoth",
-     "views": 76000,
-     "age_hours": 15.847242777777778,
-     "relevance": 0.5,
-     "velocity": 4796
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BsWS2dImirs",
-     "url": "https://www.youtube.com/shorts/BsWS2dImirs",
-     "title": "Claude Fable 5.2: The New Frontier from Claude!",
-     "channel": "",
-     "views": 52000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hsqUdJAI3Jg",
-     "url": "https://www.youtube.com/watch?v=hsqUdJAI3Jg",
-     "title": "CLAUDE FABLE 5.2 has been released and brings a message to humanity…",
-     "channel": "Maestros da IA",
-     "views": 809,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 809
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4sV2Wzo1V1s",
-     "url": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
-     "title": "Meet Claude Fable 5.2",
-     "channel": "",
-     "views": 23000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NdHUdVvVVQI",
-     "url": "https://www.youtube.com/shorts/NdHUdVvVVQI",
-     "title": "Claude Fable 5.2: Your Resets Depend on How Long You've Paid",
-     "channel": "",
-     "views": 22000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-10T16:23:46.921Z"
-  },
-  {
-   "first_seen": "2026-11-09T07:37:10.024Z",
-   "id": "39702433",
-   "ids": [
-    "39702433",
-    "39693121"
-   ],
-   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-08 17:54:43",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
-    }
-   ],
-   "queries": [
-    "Artificial Analysis",
-    "artificial analysis drex max"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:j_IlGQ01X4A",
-     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
-     "title": "has Artificial Analysis just exposed benchmaxxers?",
-     "channel": "Tom Dohnal",
-     "views": 407,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T13:49:49.599Z"
-  },
-  {
-   "first_seen": "2026-11-09T19:49:54.771Z",
-   "id": "39715005",
-   "ids": [
-    "39715005",
-    "39714459",
-    "39724166",
-    "39724456",
-    "39730173",
-    "39732546"
-   ],
-   "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
-   "url": "https://www.siliconrepublic.com/machines/anthropic-launches-fable-5-2-and-mythos-5-2-ahead-of-ipo-ai-models",
-   "source_id": "eu-siliconrepublic",
-   "published_ts": "2026-11-10 09:16:14",
-   "story_sources": 3,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "in-thehindu-tech",
-     "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
-     "url": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece"
-    },
-    {
-     "source_id": "in-express-tech",
-     "title": "Anthropic unveils Claude Fable 5.2, Mythos 5.2 ahead of potential IPO",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"
-    }
-   ],
-   "queries": [
-    "Fable 5.2",
-    "anthropic fable 5.2 mythos"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:foCBPrpbO68",
-     "url": "https://www.youtube.com/watch?v=foCBPrpbO68",
-     "title": "Anthropic Is Out Of Control (Fable 5.2)",
-     "channel": "Nick Saraev",
-     "views": 335623,
-     "age_hours": 18,
-     "relevance": 0.6,
-     "velocity": 18646
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0vNyVMDFdkg",
-     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-     "title": "Fable 5.2 is ridiculous",
-     "channel": "Matthew Berman",
-     "views": 224059,
-     "age_hours": 19,
-     "relevance": 0.67,
-     "velocity": 11793
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:h76wUNmRqxc",
-     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
-     "title": "NOTHING will be smarter than Fable 5.2...",
-     "channel": "Wes Roth",
-     "views": 139194,
-     "age_hours": 14,
-     "relevance": 0.5,
-     "velocity": 9942
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QwaU4yU0PdQ",
-     "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
-     "title": "Fable 5.2 | First Impressions",
-     "channel": "Arena  ",
-     "views": 58373,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 3072
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:k1nqJXchluE",
-     "url": "https://www.youtube.com/watch?v=k1nqJXchluE",
-     "title": "Anthropic Just Dropped Fable 5.2 (Full Breakdown)",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 40951,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 2559
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YK2-fpu6goE",
-     "url": "https://www.youtube.com/watch?v=YK2-fpu6goE",
-     "title": "Anthropic releases Fable 5.2 and Mythos 5.2 (not just cybersecurity)",
-     "channel": "Raffaele Gaito",
-     "views": 1002,
-     "age_hours": 1,
-     "relevance": 0.57,
-     "velocity": 1002
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-10T14:36:36.323Z"
-  },
-  {
    "first_seen": "2026-11-09T00:32:30.093Z",
    "id": "39691636",
    "ids": [
@@ -670,107 +458,72 @@
    "searched_at": "2026-11-09T06:48:40.784Z"
   },
   {
-   "first_seen": "2026-11-10T14:36:28.292Z",
-   "id": "39731384",
+   "first_seen": "2026-11-10T15:36:05.516Z",
+   "id": "39732622",
    "ids": [
-    "39731384",
-    "39728870"
+    "39732622",
+    "39732518"
    ],
-   "title": "Anthropic targets $1.4trn valuation in blockbuster IPO",
-   "url": "https://www.siliconrepublic.com/business/anthropic-aims-for-1-4trn-valuation-in-blockbuster-ipo",
-   "source_id": "eu-siliconrepublic",
-   "published_ts": "2026-11-10 14:07:09",
+   "title": "Reverse Engineer Anything - AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsop6i/reverse_engineer_anything_ai_companies_crack_down/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 14:45:24",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Anthropic Targets Valuation of Up to $1.4T for Blockbuster IPO",
-     "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
+     "title": "AI Companies Crack Down on the Coolest Thing People Were Doing with AI",
+     "url": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/"
     }
    ],
    "queries": [
-    "anthropic 1.4trn ipo targets"
+    "Coolest Thing People Were Doing With",
+    "reverse engineer anything companies"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:PLlQVsaLpRQ",
-     "url": "https://www.youtube.com/watch?v=PLlQVsaLpRQ",
-     "title": "Anthropic's $2T Valuation Slashed By 50% to $1T in Just 30 Days -Now Its IPO May Be Delayed ",
-     "channel": "Ox Talks",
-     "views": 48874,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 679
+     "id": "youtube:aqdHjpH4NXU",
+     "url": "https://www.youtube.com/watch?v=aqdHjpH4NXU",
+     "title": "Reverse Engineer Changes AI Completely!  🤯",
+     "channel": "Julian Goldie SEO",
+     "views": 1791,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 75
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:RsZv7Gl6Iwg",
-     "url": "https://www.youtube.com/watch?v=RsZv7Gl6Iwg",
-     "title": "Anthropic's $1.5 trillion IPO valuation in doubt after tech sell-off hammers the market",
-     "channel": "CNBC Television",
-     "views": 28845,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 401
+     "kind": "shorts",
+     "id": "youtube:ZziQrVKiqyQ",
+     "url": "https://www.youtube.com/shorts/ZziQrVKiqyQ",
+     "title": "Reverse Engineer Anything #codingagents #ai #softwareengineering",
+     "channel": "",
+     "views": 355,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3AfKkvIaMRU",
-     "url": "https://www.youtube.com/watch?v=3AfKkvIaMRU",
-     "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion",
-     "channel": "Bloomberg Podcasts",
-     "views": 9531,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 132
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Y_tyq0fqvNc",
-     "url": "https://www.youtube.com/watch?v=Y_tyq0fqvNc",
-     "title": "Anthropic's $1.5 trillion IPO valuation in doubt after tech sell-off hammers the market",
-     "channel": "CNBC Television",
-     "views": 8499,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 118
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ozd5ySBPLO8",
-     "url": "https://www.youtube.com/watch?v=ozd5ySBPLO8",
-     "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
-     "channel": "Bloomberg Television",
-     "views": 8295,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 115
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fjnhTbAtTpI",
-     "url": "https://www.youtube.com/watch?v=fjnhTbAtTpI",
-     "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-     "channel": "Bloomberg Tech",
-     "views": 8079,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 112
+     "kind": "shorts",
+     "id": "youtube:468G2gh6dVI",
+     "url": "https://www.youtube.com/shorts/468G2gh6dVI",
+     "title": "Reverse Engineer Anything with AI Agents #shorts",
+     "channel": "",
+     "views": 34,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T14:36:39.766Z"
+   "searched_at": "2026-11-10T15:36:13.516Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
@@ -1158,6 +911,117 @@
    "searched_at": "2026-11-10T10:12:04.926Z"
   },
   {
+   "first_seen": "2026-11-09T22:09:37.479Z",
+   "id": "39717715",
+   "ids": [
+    "39717715",
+    "39714633",
+    "39714405",
+    "39726514"
+   ],
+   "title": "Quoting Prompting Claude Fable 5.2",
+   "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-10 05:34:14",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Claude Fable 5.2",
+     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
+    },
+    {
+     "source_id": "hn",
+     "title": "Claude Fable 5.2",
+     "url": "https://twitter.com/claudeai/status/2119867114450268322"
+    }
+   ],
+   "queries": [
+    "Quoting Prompting Claude Fable 5.2",
+    "quoting prompting claude fable"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:0vNyVMDFdkg",
+     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+     "title": "Fable 5.2 is ridiculous",
+     "channel": "@matthew_berman",
+     "views": 187000,
+     "age_hours": 20.858899444444443,
+     "relevance": 0.67,
+     "velocity": 8965
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:h76wUNmRqxc",
+     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
+     "title": "NOTHING will be smarter than Fable 5.2...",
+     "channel": "@WesRoth",
+     "views": 76000,
+     "age_hours": 15.847242777777778,
+     "relevance": 0.5,
+     "velocity": 4796
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BsWS2dImirs",
+     "url": "https://www.youtube.com/shorts/BsWS2dImirs",
+     "title": "Claude Fable 5.2: The New Frontier from Claude!",
+     "channel": "",
+     "views": 52000,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hsqUdJAI3Jg",
+     "url": "https://www.youtube.com/watch?v=hsqUdJAI3Jg",
+     "title": "CLAUDE FABLE 5.2 has been released and brings a message to humanity…",
+     "channel": "Maestros da IA",
+     "views": 809,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 809
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4sV2Wzo1V1s",
+     "url": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
+     "title": "Meet Claude Fable 5.2",
+     "channel": "",
+     "views": 23000,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NdHUdVvVVQI",
+     "url": "https://www.youtube.com/shorts/NdHUdVvVVQI",
+     "title": "Claude Fable 5.2: Your Resets Depend on How Long You've Paid",
+     "channel": "",
+     "views": 22000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T16:23:46.921Z"
+  },
+  {
    "first_seen": "2026-11-09T20:36:09.398Z",
    "id": "39716220",
    "ids": [
@@ -1274,6 +1138,222 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-10T14:36:43.250Z"
+  },
+  {
+   "first_seen": "2026-11-09T19:49:54.771Z",
+   "id": "39715005",
+   "ids": [
+    "39715005",
+    "39714459",
+    "39724166",
+    "39724456",
+    "39730173",
+    "39732546"
+   ],
+   "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
+   "url": "https://www.siliconrepublic.com/machines/anthropic-launches-fable-5-2-and-mythos-5-2-ahead-of-ipo-ai-models",
+   "source_id": "eu-siliconrepublic",
+   "published_ts": "2026-11-10 09:16:14",
+   "story_sources": 3,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "in-thehindu-tech",
+     "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
+     "url": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece"
+    },
+    {
+     "source_id": "in-express-tech",
+     "title": "Anthropic unveils Claude Fable 5.2, Mythos 5.2 ahead of potential IPO",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"
+    }
+   ],
+   "queries": [
+    "Fable 5.2",
+    "anthropic fable 5.2 mythos"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:foCBPrpbO68",
+     "url": "https://www.youtube.com/watch?v=foCBPrpbO68",
+     "title": "Anthropic Is Out Of Control (Fable 5.2)",
+     "channel": "Nick Saraev",
+     "views": 335623,
+     "age_hours": 18,
+     "relevance": 0.6,
+     "velocity": 18646
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0vNyVMDFdkg",
+     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+     "title": "Fable 5.2 is ridiculous",
+     "channel": "Matthew Berman",
+     "views": 224059,
+     "age_hours": 19,
+     "relevance": 0.67,
+     "velocity": 11793
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:h76wUNmRqxc",
+     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
+     "title": "NOTHING will be smarter than Fable 5.2...",
+     "channel": "Wes Roth",
+     "views": 139194,
+     "age_hours": 14,
+     "relevance": 0.5,
+     "velocity": 9942
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QwaU4yU0PdQ",
+     "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
+     "title": "Fable 5.2 | First Impressions",
+     "channel": "Arena  ",
+     "views": 58373,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 3072
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:k1nqJXchluE",
+     "url": "https://www.youtube.com/watch?v=k1nqJXchluE",
+     "title": "Anthropic Just Dropped Fable 5.2 (Full Breakdown)",
+     "channel": "Brock Mesarich | AI for Non Techies",
+     "views": 40951,
+     "age_hours": 16,
+     "relevance": 0.5,
+     "velocity": 2559
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YK2-fpu6goE",
+     "url": "https://www.youtube.com/watch?v=YK2-fpu6goE",
+     "title": "Anthropic releases Fable 5.2 and Mythos 5.2 (not just cybersecurity)",
+     "channel": "Raffaele Gaito",
+     "views": 1002,
+     "age_hours": 1,
+     "relevance": 0.57,
+     "velocity": 1002
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T14:36:36.323Z"
+  },
+  {
+   "first_seen": "2026-11-10T14:36:28.292Z",
+   "id": "39731384",
+   "ids": [
+    "39731384",
+    "39728870"
+   ],
+   "title": "Anthropic targets $1.4trn valuation in blockbuster IPO",
+   "url": "https://www.siliconrepublic.com/business/anthropic-aims-for-1-4trn-valuation-in-blockbuster-ipo",
+   "source_id": "eu-siliconrepublic",
+   "published_ts": "2026-11-10 14:07:09",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic Targets Valuation of Up to $1.4T for Blockbuster IPO",
+     "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
+    }
+   ],
+   "queries": [
+    "anthropic 1.4trn ipo targets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:PLlQVsaLpRQ",
+     "url": "https://www.youtube.com/watch?v=PLlQVsaLpRQ",
+     "title": "Anthropic's $2T Valuation Slashed By 50% to $1T in Just 30 Days -Now Its IPO May Be Delayed ",
+     "channel": "Ox Talks",
+     "views": 48874,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 679
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:RsZv7Gl6Iwg",
+     "url": "https://www.youtube.com/watch?v=RsZv7Gl6Iwg",
+     "title": "Anthropic's $1.5 trillion IPO valuation in doubt after tech sell-off hammers the market",
+     "channel": "CNBC Television",
+     "views": 28845,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 401
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3AfKkvIaMRU",
+     "url": "https://www.youtube.com/watch?v=3AfKkvIaMRU",
+     "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion",
+     "channel": "Bloomberg Podcasts",
+     "views": 9531,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 132
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Y_tyq0fqvNc",
+     "url": "https://www.youtube.com/watch?v=Y_tyq0fqvNc",
+     "title": "Anthropic's $1.5 trillion IPO valuation in doubt after tech sell-off hammers the market",
+     "channel": "CNBC Television",
+     "views": 8499,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 118
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ozd5ySBPLO8",
+     "url": "https://www.youtube.com/watch?v=ozd5ySBPLO8",
+     "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
+     "channel": "Bloomberg Television",
+     "views": 8295,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 115
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fjnhTbAtTpI",
+     "url": "https://www.youtube.com/watch?v=fjnhTbAtTpI",
+     "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
+     "channel": "Bloomberg Tech",
+     "views": 8079,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 112
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T14:36:39.766Z"
   },
   {
    "first_seen": "2026-11-10T00:46:41.054Z",
