@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T02:15:32.009Z",
+ "generated_at": "2026-11-10T02:35:38.760Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Fable 5.2",
+   "source": "youtube: cuda+rocm llm gpus 48",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic claude fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic claude fable 5.2",
+   "source": "tiktok: cuda+rocm llm gpus 48",
    "ok": true
   }
  ],
@@ -69,6 +61,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-09T22:50:13.257Z"
+  },
+  {
+   "first_seen": "2026-11-10T02:35:38.760Z",
+   "id": "39721308",
+   "ids": [
+    "39721308",
+    "39720979"
+   ],
+   "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-10 02:09:31",
+   "story_sources": 2,
+   "score_norm": 88,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+     "url": "https://github.com/mw00/project-maya/pull/879"
+    }
+   ],
+   "queries": [
+    "cuda+rocm llm gpus 48"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T02:35:44.478Z"
   },
   {
    "first_seen": "2026-11-09T22:09:37.479Z",
@@ -721,7 +743,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-11-09 14:45:41",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
