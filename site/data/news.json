@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T19:09:57.802Z",
+ "generated_at": "2026-11-10T19:35:41.446Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: openai chatgpt lets businesses",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai chatgpt lets businesses",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
@@ -88,6 +97,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T18:12:38.958Z"
+  },
+  {
+   "first_seen": "2026-11-10T19:35:41.446Z",
+   "id": "39737655",
+   "ids": [
+    "39737655",
+    "39738216"
+   ],
+   "title": "OpenAI lets businesses claim their ChatGPT listing and build their own agent",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsuibf/openai_lets_businesses_claim_their_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 18:24:53",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
+     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
+    }
+   ],
+   "queries": [
+    "openai chatgpt lets businesses"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T19:35:45.647Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -194,36 +233,6 @@
    "searched_at": "2026-11-10T16:23:39.595Z"
   },
   {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
-   "ids": [
-    "39733820",
-    "39733880"
-   ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
-    }
-   ],
-   "queries": [
-    "mega 30 commits million"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T16:23:32.364Z"
-  },
-  {
    "first_seen": "2026-11-09T07:37:10.024Z",
    "id": "39702433",
    "ids": [
@@ -266,6 +275,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-09T13:49:49.599Z"
+  },
+  {
+   "first_seen": "2026-11-10T16:23:28.147Z",
+   "id": "39733820",
+   "ids": [
+    "39733820",
+    "39733880"
+   ],
+   "title": "MEGA commits $30 million to new products, starting with AI inference",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-11-10 15:56:02",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
+     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
+    }
+   ],
+   "queries": [
+    "mega 30 commits million"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T16:23:32.364Z"
   },
   {
    "first_seen": "2026-11-09T00:32:30.093Z",
