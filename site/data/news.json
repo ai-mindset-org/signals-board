@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T18:49:16.614Z",
+ "generated_at": "2026-11-10T19:09:57.802Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: don use ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: don use ai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
@@ -529,7 +520,7 @@
    "source_id": "lesswrong-feed",
    "published_ts": "2026-11-10 18:28:24",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "hn",
@@ -946,17 +937,12 @@
    "source_id": "simonw",
    "published_ts": "2026-11-10 05:34:14",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
      "title": "Claude Fable 5.2",
      "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
-    },
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://twitter.com/claudeai/status/2119867114450268322"
     }
    ],
    "queries": [
