@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T11:36:09.397Z",
+ "generated_at": "2026-11-10T13:11:06.133Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: anthropic ipo sends out",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo sends out",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -136,7 +127,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-10 05:34:14",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -234,6 +225,50 @@
    "searched_at": "2026-11-10T10:23:00.784Z"
   },
   {
+   "first_seen": "2026-11-09T07:37:10.024Z",
+   "id": "39702433",
+   "ids": [
+    "39702433",
+    "39693121"
+   ],
+   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
+   "source_id": "reddit-ml",
+   "published_ts": "2026-11-08 17:54:43",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
+    }
+   ],
+   "queries": [
+    "Artificial Analysis",
+    "artificial analysis drex max"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:j_IlGQ01X4A",
+     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
+     "title": "has Artificial Analysis just exposed benchmaxxers?",
+     "channel": "Tom Dohnal",
+     "views": 407,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T13:49:49.599Z"
+  },
+  {
    "first_seen": "2026-11-09T19:49:54.771Z",
    "id": "39715005",
    "ids": [
@@ -247,7 +282,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-10 03:43:25",
    "story_sources": 3,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -343,50 +378,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T08:36:12.040Z"
-  },
-  {
-   "first_seen": "2026-11-09T07:37:10.024Z",
-   "id": "39702433",
-   "ids": [
-    "39702433",
-    "39693121"
-   ],
-   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-08 17:54:43",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
-    }
-   ],
-   "queries": [
-    "Artificial Analysis",
-    "artificial analysis drex max"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:j_IlGQ01X4A",
-     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
-     "title": "has Artificial Analysis just exposed benchmaxxers?",
-     "channel": "Tom Dohnal",
-     "views": 407,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T13:49:49.599Z"
   },
   {
    "first_seen": "2026-11-09T00:32:30.093Z",
@@ -524,7 +515,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-10 08:53:21",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -586,17 +577,17 @@
     "39727469",
     "39724285"
    ],
-   "title": "Ant Group’s Robbyant open-sources tactile AI model for robot hands",
-   "url": "https://technode.com/2026/11/10/ant-groups-robbyant-open-sources-tactile-ai-model-for-robot-hands/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-10 07:53:21",
+   "title": "Ant Group’s Robbyant open-sources tactile AI model",
+   "url": "https://www.techinasia.com/news/ant-groups-robbyant-opensources-tactile-ai-model",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-10 04:43:22",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 64,
    "related_news": [
     {
-     "source_id": "sea-techinasia",
-     "title": "Ant Group’s Robbyant open-sources tactile AI model",
-     "url": "https://www.techinasia.com/news/ant-groups-robbyant-opensources-tactile-ai-model"
+     "source_id": "cn-technode",
+     "title": "Ant Group’s Robbyant open-sources tactile AI model for robot hands",
+     "url": "https://technode.com/2026/11/10/ant-groups-robbyant-open-sources-tactile-ai-model-for-robot-hands/"
     }
    ],
    "queries": [
@@ -622,7 +613,7 @@
    "source_id": "in-medianama",
    "published_ts": "2026-11-10 06:03:03",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -666,7 +657,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-10 06:51:42",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "sea-techinasia",
