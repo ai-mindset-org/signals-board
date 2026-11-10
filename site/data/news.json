@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T00:46:41.054Z",
+ "generated_at": "2026-11-10T01:21:20.485Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: import 480 self-sustaining meta",
-   "ok": true
-  },
-  {
-   "source": "tiktok: import 480 self-sustaining meta",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-09T22:50:05.120Z",
@@ -61,115 +52,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-09T22:50:13.257Z"
-  },
-  {
-   "first_seen": "2026-11-07T00:27:45.014Z",
-   "id": "39667710",
-   "ids": [
-    "39667710",
-    "39667474",
-    "39670308"
-   ],
-   "title": "OpenAI raises $11b at $1.25t valuation in funding round",
-   "url": "https://www.techinasia.com/news/openai-raises-11b-125t-valuation-funding",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-07 01:13:15",
-   "story_sources": 3,
-   "score_norm": 92,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
-     "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/"
-    },
-    {
-     "source_id": "hn",
-     "title": "OpenAI Secures $11B at $1.25T Valuation",
-     "url": "https://epyhia.com/openai-secures-11-billion-at-1-25-trillion-valuation-well-short-of"
-    }
-   ],
-   "queries": [
-    "openai 11b 1.25t raises"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:56uwF8CWuW0",
-     "url": "https://www.youtube.com/shorts/56uwF8CWuW0",
-     "title": "OpenAI reaches 1.25 trillion dollar valuation after 11 billion funding round",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ybARujL2uXw",
-     "url": "https://www.youtube.com/shorts/ybARujL2uXw",
-     "title": "OpenAI receives $11B in funding at a $1.25T valuation #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:UUA2Nxb-tNw",
-     "url": "https://www.youtube.com/shorts/UUA2Nxb-tNw",
-     "title": "OpenAI reportedly raises $11B so far at $1.25T valuation · Nov 7",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_L2FH68S9g8",
-     "url": "https://www.youtube.com/shorts/_L2FH68S9g8",
-     "title": "OpenAI Raises $11B At $1.25T Valuation",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dIZygTLhdpk",
-     "url": "https://www.youtube.com/shorts/dIZygTLhdpk",
-     "title": "BREAKING (Nov 6): OpenAI Closes $11B at $1.25T Valuation | AI360",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:R4qn2uJ8v8k",
-     "url": "https://www.youtube.com/shorts/R4qn2uJ8v8k",
-     "title": "OpenAI raises $11B at $1.25T valuation",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-07T18:49:44.360Z"
   },
   {
    "first_seen": "2026-11-09T22:09:37.479Z",
