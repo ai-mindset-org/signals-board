@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:21:20.485Z",
+ "generated_at": "2026-11-10T02:15:32.009Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Claude Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Claude Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude fable 5.2",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-09T22:50:05.120Z",
@@ -66,7 +83,7 @@
    "source_id": "aws-ml-blog",
    "published_ts": "2026-11-09 20:04:37",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "hn",
@@ -312,50 +329,6 @@
    "searched_at": "2026-11-09T13:49:49.599Z"
   },
   {
-   "first_seen": "2026-11-09T21:10:03.334Z",
-   "id": "39716552",
-   "ids": [
-    "39716552",
-    "39712914"
-   ],
-   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
-   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-09 20:34:10",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
-     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
-    }
-   ],
-   "queries": [
-    "Anthropic’s Claude Mythos",
-    "ibm anthropic claude mythos"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WlozwcUDaqw",
-     "url": "https://www.youtube.com/shorts/WlozwcUDaqw",
-     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T21:10:11.346Z"
-  },
-  {
    "first_seen": "2026-11-09T00:32:30.093Z",
    "id": "39691636",
    "ids": [
@@ -509,6 +482,50 @@
    "searched_at": "2026-11-10T00:46:45.334Z"
   },
   {
+   "first_seen": "2026-11-09T21:10:03.334Z",
+   "id": "39716552",
+   "ids": [
+    "39716552",
+    "39712914"
+   ],
+   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
+   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-09 20:34:10",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
+     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Claude Mythos",
+    "ibm anthropic claude mythos"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WlozwcUDaqw",
+     "url": "https://www.youtube.com/shorts/WlozwcUDaqw",
+     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T21:10:11.346Z"
+  },
+  {
    "first_seen": "2026-11-09T19:49:54.771Z",
    "id": "39715005",
    "ids": [
@@ -520,7 +537,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-09 19:22:39",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "hn",
@@ -540,22 +557,34 @@
      "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
      "title": "Introducing Claude Fable 5.2",
      "channel": "Claude",
-     "views": 16534,
-     "age_hours": 0.8833333333333333,
+     "views": 162980,
+     "age_hours": 7,
      "relevance": 0.75,
-     "velocity": 16534
+     "velocity": 23283
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:0vNyVMDFdkg",
      "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-     "title": "Fable 5.2 is here! (Anthropic COOKED)",
+     "title": "Fable 5.2 is ridiculous",
      "channel": "Matthew Berman",
-     "views": 7542,
-     "age_hours": 0.7833333333333333,
-     "relevance": 0.6,
-     "velocity": 7542
+     "views": 150230,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 21461
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:h76wUNmRqxc",
+     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
+     "title": "NOTHING will be smarter than Fable 5.2...",
+     "channel": "Wes Roth",
+     "views": 16748,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 8374
     },
     {
      "platform": "youtube",
@@ -564,41 +593,41 @@
      "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
      "title": "Fable 5.2 | First Impressions",
      "channel": "Arena  ",
-     "views": 2208,
-     "age_hours": 0.6,
+     "views": 39238,
+     "age_hours": 7,
      "relevance": 0.5,
-     "velocity": 2208
+     "velocity": 5605
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:SLve5ZI8nPE",
-     "url": "https://www.youtube.com/watch?v=SLve5ZI8nPE",
-     "title": "Claude Fable 5.2: What the Benchmarks Actually Show",
-     "channel": "AI Mathias | AI Automation",
-     "views": 29,
-     "age_hours": 0.3,
-     "relevance": 0.5,
-     "velocity": 29
+     "id": "youtube:909cmkmq8Yk",
+     "url": "https://www.youtube.com/watch?v=909cmkmq8Yk",
+     "title": "Anthropic launches Claude Fable 5.2: we have a NEW KING",
+     "channel": "Benjamín Cordero",
+     "views": 13460,
+     "age_hours": 4,
+     "relevance": 0.71,
+     "velocity": 3365
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:LfLu3zwe5-4",
-     "url": "https://www.youtube.com/watch?v=LfLu3zwe5-4",
-     "title": "Claude Fable 5.2 Just Launched. Testing It Live",
-     "channel": "Tech Friend AJ",
-     "views": null,
-     "age_hours": null,
+     "id": "youtube:k1nqJXchluE",
+     "url": "https://www.youtube.com/watch?v=k1nqJXchluE",
+     "title": "Anthropic Just Dropped Fable 5.2 (Full Breakdown)",
+     "channel": "Brock Mesarich | AI for Non Techies",
+     "views": 11253,
+     "age_hours": 4,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 2813
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-09T19:50:02.136Z"
+   "searched_at": "2026-11-10T02:15:40.234Z"
   },
   {
    "first_seen": "2026-11-09T05:36:45.359Z",
