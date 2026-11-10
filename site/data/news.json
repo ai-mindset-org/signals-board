@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T10:22:46.355Z",
+ "generated_at": "2026-11-10T10:35:40.217Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: ChatGPT Enterprise",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ChatGPT Enterprise",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt enterprise aws marketplace",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt enterprise aws marketplace",
-   "ok": true
-  },
-  {
-   "source": "youtube: Introducing Claude Fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Introducing Claude Fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing claude fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing claude fable 5.2",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -147,6 +114,117 @@
    "searched_at": "2026-11-10T10:22:54.014Z"
   },
   {
+   "first_seen": "2026-11-09T22:09:37.479Z",
+   "id": "39717715",
+   "ids": [
+    "39717715",
+    "39714633",
+    "39714405",
+    "39726514"
+   ],
+   "title": "Quoting Prompting Claude Fable 5.2",
+   "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-10 05:34:14",
+   "story_sources": 2,
+   "score_norm": 85,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Claude Fable 5.2",
+     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
+    },
+    {
+     "source_id": "hn",
+     "title": "Claude Fable 5.2",
+     "url": "https://twitter.com/claudeai/status/2119867114450268322"
+    }
+   ],
+   "queries": [
+    "Introducing Claude Fable 5.2",
+    "introducing claude fable 5.2"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6a1QSJlsYpU",
+     "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
+     "title": "Introducing Claude Fable 5.2",
+     "channel": "Claude",
+     "views": 257020,
+     "age_hours": 15,
+     "relevance": 1,
+     "velocity": 17135
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:0vNyVMDFdkg",
+     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+     "title": "Fable 5.2 is ridiculous",
+     "channel": "@matthew_berman",
+     "views": 187000,
+     "age_hours": 14.84608361111111,
+     "relevance": 0.67,
+     "velocity": 12596
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:h76wUNmRqxc",
+     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
+     "title": "NOTHING will be smarter than Fable 5.2...",
+     "channel": "Wes Roth",
+     "views": 114010,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 11401
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gd2-D47ExhY",
+     "url": "https://www.youtube.com/watch?v=gd2-D47ExhY",
+     "title": "Claude Fable 5.2: 1,000 AI Agents Built an Entire OS (I Tested It)",
+     "channel": "AI with Surya",
+     "views": 4602,
+     "age_hours": 6,
+     "relevance": 0.6,
+     "velocity": 767
+    },
+    {
+     "platform": "tiktok",
+     "kind": "с борда",
+     "id": "tiktok:7706357191967591710",
+     "url": "https://www.tiktok.com/@rileybrown.ai/video/7706357191967591710",
+     "title": "Fable 5.2 was just released and I created this video in one prompt with Blender. I gave Claude one prompt.  It wrote code that builds the entire room in Blender: the desk, the MacBook, the light, even",
+     "channel": "@rileybrown.ai",
+     "views": 5853,
+     "age_hours": 8.354384166666666,
+     "relevance": 0.6,
+     "velocity": 701
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fBICTeXtA1c",
+     "url": "https://www.youtube.com/watch?v=fBICTeXtA1c",
+     "title": "Claude Fable 5.2、完全にイカれてる。Opus 5.5とGPT-6 Astraに同じ3Dを作らせたら、1つだけ次元が違った",
+     "channel": "Claude Code業務自動化の教科書",
+     "views": 593,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 593
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T10:23:00.784Z"
+  },
+  {
    "first_seen": "2026-11-09T19:49:54.771Z",
    "id": "39715005",
    "ids": [
@@ -160,7 +238,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-10 03:43:25",
    "story_sources": 3,
-   "score_norm": 76,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -481,7 +559,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-10 06:51:42",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -653,146 +731,6 @@
    "searched_at": "2026-11-09T17:50:05.278Z"
   },
   {
-   "first_seen": "2026-11-09T22:09:37.479Z",
-   "id": "39717715",
-   "ids": [
-    "39717715",
-    "39714633",
-    "39714405"
-   ],
-   "title": "Introducing Claude Fable 5.2 on AWS",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-   "source_id": "aws-ml-blog",
-   "published_ts": "2026-11-09 20:04:37",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
-    },
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://twitter.com/claudeai/status/2119867114450268322"
-    }
-   ],
-   "queries": [
-    "Introducing Claude Fable 5.2",
-    "introducing claude fable 5.2"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6a1QSJlsYpU",
-     "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
-     "title": "Introducing Claude Fable 5.2",
-     "channel": "Claude",
-     "views": 257020,
-     "age_hours": 15,
-     "relevance": 1,
-     "velocity": 17135
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:0vNyVMDFdkg",
-     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-     "title": "Fable 5.2 is ridiculous",
-     "channel": "@matthew_berman",
-     "views": 187000,
-     "age_hours": 14.84608361111111,
-     "relevance": 0.67,
-     "velocity": 12596
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:h76wUNmRqxc",
-     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
-     "title": "NOTHING will be smarter than Fable 5.2...",
-     "channel": "Wes Roth",
-     "views": 114010,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 11401
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gd2-D47ExhY",
-     "url": "https://www.youtube.com/watch?v=gd2-D47ExhY",
-     "title": "Claude Fable 5.2: 1,000 AI Agents Built an Entire OS (I Tested It)",
-     "channel": "AI with Surya",
-     "views": 4602,
-     "age_hours": 6,
-     "relevance": 0.6,
-     "velocity": 767
-    },
-    {
-     "platform": "tiktok",
-     "kind": "с борда",
-     "id": "tiktok:7706357191967591710",
-     "url": "https://www.tiktok.com/@rileybrown.ai/video/7706357191967591710",
-     "title": "Fable 5.2 was just released and I created this video in one prompt with Blender. I gave Claude one prompt.  It wrote code that builds the entire room in Blender: the desk, the MacBook, the light, even",
-     "channel": "@rileybrown.ai",
-     "views": 5853,
-     "age_hours": 8.354384166666666,
-     "relevance": 0.6,
-     "velocity": 701
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fBICTeXtA1c",
-     "url": "https://www.youtube.com/watch?v=fBICTeXtA1c",
-     "title": "Claude Fable 5.2、完全にイカれてる。Opus 5.5とGPT-6 Astraに同じ3Dを作らせたら、1つだけ次元が違った",
-     "channel": "Claude Code業務自動化の教科書",
-     "views": 593,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 593
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-10T10:23:00.784Z"
-  },
-  {
-   "first_seen": "2026-11-10T02:35:38.760Z",
-   "id": "39721308",
-   "ids": [
-    "39721308",
-    "39720979"
-   ],
-   "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-10 02:09:31",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
-     "url": "https://github.com/mw00/project-maya/pull/879"
-    }
-   ],
-   "queries": [
-    "cuda+rocm llm gpus 48"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T08:36:15.522Z"
-  },
-  {
    "first_seen": "2026-11-09T20:36:09.398Z",
    "id": "39716220",
    "ids": [
@@ -835,6 +773,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T02:49:43.406Z"
+  },
+  {
+   "first_seen": "2026-11-10T02:35:38.760Z",
+   "id": "39721308",
+   "ids": [
+    "39721308",
+    "39720979"
+   ],
+   "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-10 02:09:31",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+     "url": "https://github.com/mw00/project-maya/pull/879"
+    }
+   ],
+   "queries": [
+    "cuda+rocm llm gpus 48"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T08:36:15.522Z"
   },
   {
    "first_seen": "2026-11-10T00:46:41.054Z",
