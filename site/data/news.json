@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T02:35:38.760Z",
+ "generated_at": "2026-11-10T02:49:35.624Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: cuda+rocm llm gpus 48",
+   "source": "youtube: R&D Is Accelerating Towards Potential RSI",
    "ok": true
   },
   {
-   "source": "tiktok: cuda+rocm llm gpus 48",
+   "source": "tiktok: R&D Is Accelerating Towards Potential RSI",
+   "ok": true
+  },
+  {
+   "source": "youtube: accelerating towards potential rsi",
+   "ok": true
+  },
+  {
+   "source": "tiktok: accelerating towards potential rsi",
    "ok": true
   }
  ],
@@ -201,110 +209,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-09T22:09:44.926Z"
-  },
-  {
-   "first_seen": "2026-11-06T20:11:05.369Z",
-   "id": "39664139",
-   "ids": [
-    "39664139",
-    "39661915",
-    "39670301"
-   ],
-   "title": "Microsoft winds down Oracle deal for AI computing capacity",
-   "url": "https://www.techinasia.com/news/microsoft-winds-oracle-ai-deal-nvidia-chips",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-07 02:42:23",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Microsoft is winding down its deal to rent AI computing from Oracle",
-     "url": "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal"
-    }
-   ],
-   "queries": [
-    "microsoft oracle winds down"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bILnKksVaNE",
-     "url": "https://www.youtube.com/shorts/bILnKksVaNE",
-     "title": "Oracle Is Down 50%. It's Still Spending on AI",
-     "channel": "",
-     "views": 561,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8mW6RzArxaE",
-     "url": "https://www.youtube.com/shorts/8mW6RzArxaE",
-     "title": "Oracle Near 52-Week Low as Microsoft Exits AI Cloud Deal",
-     "channel": "",
-     "views": 47,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:srtrR3jlGEQ",
-     "url": "https://www.youtube.com/shorts/srtrR3jlGEQ",
-     "title": "$MSFT Winds Down Oracle AI Cloud Deal",
-     "channel": "",
-     "views": 37,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:71-m0UXoZZE",
-     "url": "https://www.youtube.com/shorts/71-m0UXoZZE",
-     "title": "MICROSOFT DUMPS ORACLE AI DEAL! 4% Plunge & Cloud Shock #Shorts",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ut_KpnbjPls",
-     "url": "https://www.youtube.com/shorts/ut_KpnbjPls",
-     "title": "Microsoft Cuts Oracle AI Cloud Deal",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fEWyHTStdeI",
-     "url": "https://www.youtube.com/shorts/fEWyHTStdeI",
-     "title": "Microsoft Reportedly Winds Down an Oracle AI Deal. When Do Contracts Become Revenue? #MSFT #ORCL",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-07T14:35:39.982Z"
   },
   {
    "first_seen": "2026-11-09T07:37:10.024Z",
@@ -763,17 +667,17 @@
      "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
      "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
      "channel": "AskwhoCasts AI",
-     "views": 32,
-     "age_hours": 4,
+     "views": 60,
+     "age_hours": 11,
      "relevance": 1,
-     "velocity": 8
+     "velocity": 5
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-09T20:36:17.305Z"
+   "searched_at": "2026-11-10T02:49:43.406Z"
   }
  ]
 }
