@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:50:05.120Z",
+ "generated_at": "2026-11-10T00:46:41.054Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Control Room",
+   "source": "youtube: import 480 self-sustaining meta",
    "ok": true
   },
   {
-   "source": "tiktok: Control Room",
-   "ok": true
-  },
-  {
-   "source": "youtube: control room central system",
-   "ok": true
-  },
-  {
-   "source": "tiktok: control room central system",
+   "source": "tiktok: import 480 self-sustaining meta",
    "ok": true
   }
  ],
@@ -192,7 +184,7 @@
    "source_id": "aws-ml-blog",
    "published_ts": "2026-11-09 20:04:37",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "hn",
@@ -449,7 +441,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-09 20:34:10",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
@@ -605,6 +597,36 @@
    "searched_at": "2026-11-08T02:16:21.772Z"
   },
   {
+   "first_seen": "2026-11-10T00:46:41.054Z",
+   "id": "39710179",
+   "ids": [
+    "39710179",
+    "39719618"
+   ],
+   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+   "url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-09 13:31:34",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+     "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space"
+    }
+   ],
+   "queries": [
+    "import 480 self-sustaining meta"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T00:46:45.334Z"
+  },
+  {
    "first_seen": "2026-11-09T19:49:54.771Z",
    "id": "39715005",
    "ids": [
@@ -616,7 +638,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-09 19:22:39",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
