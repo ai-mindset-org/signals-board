@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T08:36:04.403Z",
+ "generated_at": "2026-11-10T09:24:18.926Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Fable 5.2",
+   "source": "youtube: Anthropic’s Claude Mythos",
    "ok": true
   },
   {
-   "source": "tiktok: Fable 5.2",
+   "source": "tiktok: Anthropic’s Claude Mythos",
    "ok": true
   },
   {
-   "source": "youtube: anthropic fable 5.2 mythos",
+   "source": "youtube: ibm anthropic claude mythos",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic fable 5.2 mythos",
-   "ok": true
-  },
-  {
-   "source": "youtube: cuda+rocm llm gpus 48",
-   "ok": true
-  },
-  {
-   "source": "tiktok: cuda+rocm llm gpus 48",
+   "source": "tiktok: ibm anthropic claude mythos",
    "ok": true
   }
  ],
@@ -152,7 +144,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-10 03:43:25",
    "story_sources": 3,
-   "score_norm": 77,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -429,7 +421,7 @@
    "source_id": "in-medianama",
    "published_ts": "2026-11-10 06:03:03",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -787,21 +779,21 @@
      "url": "https://www.youtube.com/watch?v=2ow4uoE6wy8",
      "title": "Anthropic's Claude Mythos 5.2 Is Absolutely Insane",
      "channel": "DeepManim",
-     "views": 1,
-     "age_hours": 3,
+     "views": 5,
+     "age_hours": 9,
      "relevance": 0.5,
-     "velocity": 0
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:-uOC5wHWKF8",
-     "url": "https://www.youtube.com/shorts/-uOC5wHWKF8",
-     "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+     "id": "youtube:nc7zTB8jySw",
+     "url": "https://www.youtube.com/shorts/nc7zTB8jySw",
+     "title": "Anthropic has upgraded Claude Fable and Claude Mythos to",
      "channel": "",
-     "views": 0,
+     "views": 2,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.6,
      "velocity": null
     }
    ],
@@ -809,7 +801,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T03:13:41.086Z"
+   "searched_at": "2026-11-10T09:24:26.577Z"
   }
  ]
 }
