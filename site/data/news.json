@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T03:13:33.130Z",
+ "generated_at": "2026-11-10T04:12:34.851Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,206 +9,142 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic’s Claude Mythos",
+   "source": "youtube: ChatGPT Enterprise",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic’s Claude Mythos",
+   "source": "tiktok: ChatGPT Enterprise",
    "ok": true
   },
   {
-   "source": "youtube: ibm anthropic claude mythos",
+   "source": "youtube: chatgpt enterprise aws marketplace",
    "ok": true
   },
   {
-   "source": "tiktok: ibm anthropic claude mythos",
+   "source": "tiktok: chatgpt enterprise aws marketplace",
+   "ok": true
+  },
+  {
+   "source": "youtube: Introducing Claude Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Introducing Claude Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing claude fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing claude fable 5.2",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-09T22:50:05.120Z",
-   "id": "39717917",
+   "first_seen": "2026-11-10T04:12:34.851Z",
+   "id": "39714640",
    "ids": [
-    "39717917",
-    "39718245"
+    "39714640",
+    "39722319"
    ],
-   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "url": "https://openai.com/index/control-room",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "source_id": "openai-blog",
-   "published_ts": "2026-11-09 13:00:00",
+   "published_ts": "2026-11-09 19:00:00",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "OpenAI Control Room: track and stop model workloads across research infra",
-     "url": "https://openai.com/index/control-room/"
+     "source_id": "sea-techinasia",
+     "title": "OpenAI brings ChatGPT Enterprise to AWS Marketplace",
+     "url": "https://www.techinasia.com/news/openai-brings-chatgpt-enterprise-aws-marketplace"
     }
    ],
    "queries": [
-    "Control Room",
-    "control room central system"
+    "ChatGPT Enterprise",
+    "chatgpt enterprise aws marketplace"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:3yIVRDNEVmI",
-     "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
-     "title": "The Control Room #2: Bob Horn",
-     "channel": "Greazy Wil",
-     "views": 2140,
-     "age_hours": 48,
+     "id": "youtube:zQQpggKQdaU",
+     "url": "https://www.youtube.com/watch?v=zQQpggKQdaU",
+     "title": "Geminiの影響、ChatGPT Enterprise｜昨日のITニュース",
+     "channel": "Daily IT News",
+     "views": 10,
+     "age_hours": 6,
      "relevance": 0.5,
-     "velocity": 45
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ee1JlHR4X3M",
+     "url": "https://www.youtube.com/shorts/Ee1JlHR4X3M",
+     "title": "OpenAI: ChatGPT Enterprise now available in AWS Marketplace",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bprJxNksyCI",
+     "url": "https://www.youtube.com/shorts/bprJxNksyCI",
+     "title": "ChatGPT Enterprise Now Available In AWS Marketplace",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0JRtkEOgHd4",
+     "url": "https://www.youtube.com/shorts/0JRtkEOgHd4",
+     "title": "ChatGPT Enterprise Is Now Sold Through AWS Marketplace",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:52JkrJHW9Yg",
+     "url": "https://www.youtube.com/shorts/52JkrJHW9Yg",
+     "title": "ChatGPT Enterprise comes to AWS Marketplace: eligible spend can count toward commitments",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7opgEKWQXgE",
+     "url": "https://www.youtube.com/shorts/7opgEKWQXgE",
+     "title": "ChatGPT Enterprise Now on AWS Marketplace – Faster AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-09T22:50:13.257Z"
-  },
-  {
-   "first_seen": "2026-11-10T02:35:38.760Z",
-   "id": "39721308",
-   "ids": [
-    "39721308",
-    "39720979"
-   ],
-   "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-10 02:09:31",
-   "story_sources": 2,
-   "score_norm": 88,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
-     "url": "https://github.com/mw00/project-maya/pull/879"
-    }
-   ],
-   "queries": [
-    "cuda+rocm llm gpus 48"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T02:35:44.478Z"
-  },
-  {
-   "first_seen": "2026-11-09T22:09:37.479Z",
-   "id": "39717715",
-   "ids": [
-    "39717715",
-    "39714633",
-    "39714405"
-   ],
-   "title": "Introducing Claude Fable 5.2 on AWS",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-   "source_id": "aws-ml-blog",
-   "published_ts": "2026-11-09 20:04:37",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
-    },
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://twitter.com/claudeai/status/2119867114450268322"
-    }
-   ],
-   "queries": [
-    "Introducing Claude Fable 5.2",
-    "introducing claude fable 5.2"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6a1QSJlsYpU",
-     "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
-     "title": "Introducing Claude Fable 5.2",
-     "channel": "Claude",
-     "views": 52202,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 17401
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FbveQFfB8Sg",
-     "url": "https://www.youtube.com/watch?v=FbveQFfB8Sg",
-     "title": "Claude Fable 5.2: Fermat's Last Theorem in 30 Hours",
-     "channel": "LLMs Explained",
-     "views": 32,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 32
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QvCUaBtoZS0",
-     "url": "https://www.youtube.com/watch?v=QvCUaBtoZS0",
-     "title": "Claude Fable 5.2 및 Claude Mythos 5.2",
-     "channel": "Ki-jung Kim (akaslany)",
-     "views": 31,
-     "age_hours": 2,
-     "relevance": 0.75,
-     "velocity": 16
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Te9tKY7N-Dk",
-     "url": "https://www.youtube.com/watch?v=Te9tKY7N-Dk",
-     "title": "System Card: Claude Fable 5.2 & Claude Mythos 5.2 (Nov 2026)",
-     "channel": "AI Paper Slop",
-     "views": 3,
-     "age_hours": 0.7666666666666666,
-     "relevance": 0.6,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fMeroO3I6EA",
-     "url": "https://www.youtube.com/watch?v=fMeroO3I6EA",
-     "title": "Claude Code v2.1.321 — Fable 5.2 and Remote Control Improvements",
-     "channel": "Claude Code Changelog",
-     "views": 4,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:qcrej_yDENw",
-     "url": "https://www.youtube.com/watch?v=qcrej_yDENw",
-     "title": "CLAUDE 5.2 FABLE IS HERE! 🚨 30% Faster & CHEAPER?!",
-     "channel": "AN.AITechWorld",
-     "views": 2,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-09T22:09:44.926Z"
+   "searched_at": "2026-11-10T04:12:42.311Z"
   },
   {
    "first_seen": "2026-11-09T07:37:10.024Z",
@@ -378,6 +314,314 @@
    "searched_at": "2026-11-08T02:16:21.772Z"
   },
   {
+   "first_seen": "2026-11-09T22:50:05.120Z",
+   "id": "39717917",
+   "ids": [
+    "39717917",
+    "39718245"
+   ],
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-09 13:00:00",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI Control Room: track and stop model workloads across research infra",
+     "url": "https://openai.com/index/control-room/"
+    }
+   ],
+   "queries": [
+    "Control Room",
+    "control room central system"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3yIVRDNEVmI",
+     "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
+     "title": "The Control Room #2: Bob Horn",
+     "channel": "Greazy Wil",
+     "views": 2140,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 45
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T22:50:13.257Z"
+  },
+  {
+   "first_seen": "2026-11-09T05:36:45.359Z",
+   "id": "39700788",
+   "ids": [
+    "39700788",
+    "39701198",
+    "39701850"
+   ],
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-09 04:07:44",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic secures $3.4B generator deal for AI data centers",
+     "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
+    }
+   ],
+   "queries": [
+    "anthropic 3.4 report secures"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Q1MKbjgRDJk",
+     "url": "https://www.youtube.com/watch?v=Q1MKbjgRDJk",
+     "title": "Anthropic's $3.4B Generator Deal | AI News #Shorts",
+     "channel": "DevTech Services",
+     "views": 49,
+     "age_hours": 3,
+     "relevance": 0.57,
+     "velocity": 16
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sO8YTACLl2w",
+     "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
+     "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
+     "channel": "Mafh² Discovery",
+     "views": 36,
+     "age_hours": 23,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:KCi1auHtIg8",
+     "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
+     "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
+     "channel": "AP Quintellect | AI & Business",
+     "views": 5,
+     "age_hours": 6,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:f5BHDOnQ1i8",
+     "url": "https://www.youtube.com/watch?v=f5BHDOnQ1i8",
+     "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
+     "channel": "BreakingNewsAI",
+     "views": 4,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-09T17:50:05.278Z"
+  },
+  {
+   "first_seen": "2026-11-10T02:35:38.760Z",
+   "id": "39721308",
+   "ids": [
+    "39721308",
+    "39720979"
+   ],
+   "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-10 02:09:31",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+     "url": "https://github.com/mw00/project-maya/pull/879"
+    }
+   ],
+   "queries": [
+    "cuda+rocm llm gpus 48"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T02:35:44.478Z"
+  },
+  {
+   "first_seen": "2026-11-09T22:09:37.479Z",
+   "id": "39717715",
+   "ids": [
+    "39717715",
+    "39714633",
+    "39714405"
+   ],
+   "title": "Introducing Claude Fable 5.2 on AWS",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
+   "source_id": "aws-ml-blog",
+   "published_ts": "2026-11-09 20:04:37",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Claude Fable 5.2",
+     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
+    },
+    {
+     "source_id": "hn",
+     "title": "Claude Fable 5.2",
+     "url": "https://twitter.com/claudeai/status/2119867114450268322"
+    }
+   ],
+   "queries": [
+    "Introducing Claude Fable 5.2",
+    "introducing claude fable 5.2"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6a1QSJlsYpU",
+     "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
+     "title": "Introducing Claude Fable 5.2",
+     "channel": "Claude",
+     "views": 193662,
+     "age_hours": 9,
+     "relevance": 1,
+     "velocity": 21518
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:h76wUNmRqxc",
+     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
+     "title": "NOTHING will be smarter than Fable 5.2...",
+     "channel": "Wes Roth",
+     "views": 52618,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 13155
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:emIl6Ugmoik",
+     "url": "https://www.youtube.com/watch?v=emIl6Ugmoik",
+     "title": "Claude Fable 5.2 First Impressions: I Tried It for AI VFX",
+     "channel": "Ashe Magalhaes",
+     "views": 136,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 136
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FbveQFfB8Sg",
+     "url": "https://www.youtube.com/watch?v=FbveQFfB8Sg",
+     "title": "Claude Fable 5.2 Built an Operating System From an Empty Folder",
+     "channel": "LLMs Explained",
+     "views": 267,
+     "age_hours": 7,
+     "relevance": 0.6,
+     "velocity": 38
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gd2-D47ExhY",
+     "url": "https://www.youtube.com/watch?v=gd2-D47ExhY",
+     "title": "Claude Fable 5.2 Is Here: I Built 4 Demos With One Prompt Each",
+     "channel": "AI with Surya",
+     "views": 23,
+     "age_hours": 0.35,
+     "relevance": 0.6,
+     "velocity": 23
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fMeroO3I6EA",
+     "url": "https://www.youtube.com/watch?v=fMeroO3I6EA",
+     "title": "Claude Code v2.1.321 — Fable 5.2 and Remote Control Improvements",
+     "channel": "Claude Code Changelog",
+     "views": 70,
+     "age_hours": 8,
+     "relevance": 0.6,
+     "velocity": 9
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T04:12:49.151Z"
+  },
+  {
+   "first_seen": "2026-11-09T20:36:09.398Z",
+   "id": "39716220",
+   "ids": [
+    "39716220",
+    "39709533"
+   ],
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-11-09 14:45:41",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "url": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"
+    }
+   ],
+   "queries": [
+    "R&D Is Accelerating Towards Potential RSI",
+    "accelerating towards potential rsi"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YJPdXY45JOc",
+     "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "channel": "AskwhoCasts AI",
+     "views": 60,
+     "age_hours": 11,
+     "relevance": 1,
+     "velocity": 5
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T02:49:43.406Z"
+  },
+  {
    "first_seen": "2026-11-10T00:46:41.054Z",
    "id": "39710179",
    "ids": [
@@ -389,7 +633,7 @@
    "source_id": "import-ai",
    "published_ts": "2026-11-09 13:31:34",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "x-importai-substack",
@@ -419,7 +663,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-09 20:34:10",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 49,
    "related_news": [
     {
      "source_id": "hn",
@@ -475,7 +719,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-09 19:22:39",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 48,
    "related_news": [
     {
      "source_id": "hn",
@@ -566,130 +810,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T02:15:40.234Z"
-  },
-  {
-   "first_seen": "2026-11-09T05:36:45.359Z",
-   "id": "39700788",
-   "ids": [
-    "39700788",
-    "39701198",
-    "39701850"
-   ],
-   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-09 04:07:44",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic secures $3.4B generator deal for AI data centers",
-     "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
-    }
-   ],
-   "queries": [
-    "anthropic 3.4 report secures"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Q1MKbjgRDJk",
-     "url": "https://www.youtube.com/watch?v=Q1MKbjgRDJk",
-     "title": "Anthropic's $3.4B Generator Deal | AI News #Shorts",
-     "channel": "DevTech Services",
-     "views": 49,
-     "age_hours": 3,
-     "relevance": 0.57,
-     "velocity": 16
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sO8YTACLl2w",
-     "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
-     "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
-     "channel": "Mafh² Discovery",
-     "views": 36,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KCi1auHtIg8",
-     "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
-     "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
-     "channel": "AP Quintellect | AI & Business",
-     "views": 5,
-     "age_hours": 6,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:f5BHDOnQ1i8",
-     "url": "https://www.youtube.com/watch?v=f5BHDOnQ1i8",
-     "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
-     "channel": "BreakingNewsAI",
-     "views": 4,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T17:50:05.278Z"
-  },
-  {
-   "first_seen": "2026-11-09T20:36:09.398Z",
-   "id": "39716220",
-   "ids": [
-    "39716220",
-    "39709533"
-   ],
-   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-11-09 14:45:41",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-     "url": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"
-    }
-   ],
-   "queries": [
-    "R&D Is Accelerating Towards Potential RSI",
-    "accelerating towards potential rsi"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YJPdXY45JOc",
-     "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
-     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-     "channel": "AskwhoCasts AI",
-     "views": 60,
-     "age_hours": 11,
-     "relevance": 1,
-     "velocity": 5
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T02:49:43.406Z"
   }
  ]
 }
