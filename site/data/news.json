@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:11:06.133Z",
+ "generated_at": "2026-11-10T13:21:06.597Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Instagram Teen Accounts",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Instagram Teen Accounts",
+   "ok": true
+  },
+  {
+   "source": "youtube: meta instagram teen accounts",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta instagram teen accounts",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -628,22 +645,82 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fM4teS_GdMI",
-     "url": "https://www.youtube.com/watch?v=fM4teS_GdMI",
-     "title": "What Is AI Age Detection: Instagram Is Guessing Your Age",
-     "channel": "Infrastructure in Minutes",
-     "views": 2,
-     "age_hours": 15,
-     "relevance": 0.6,
-     "velocity": 0
+     "kind": "shorts",
+     "id": "youtube:UXJCSCdRtIg",
+     "url": "https://www.youtube.com/shorts/UXJCSCdRtIg",
+     "title": "Instagram AI age detection expands globally for teen accounts",
+     "channel": "",
+     "views": 49,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:OeXEWdFp2aw",
+     "url": "https://www.youtube.com/shorts/OeXEWdFp2aw",
+     "title": "Meta AI Age Estimation Goes Global on Instagram #Shorts",
+     "channel": "",
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xhBcUs4v2wU",
+     "url": "https://www.youtube.com/shorts/xhBcUs4v2wU",
+     "title": "Instagram's AI Age Checks Go Global",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2bH54NYWTY8",
+     "url": "https://www.youtube.com/shorts/2bH54NYWTY8",
+     "title": "Instagram's AI Will Now Guess YOUR Age 😱📱",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AapZhst1nE0",
+     "url": "https://www.youtube.com/shorts/AapZhst1nE0",
+     "title": "Instagram's AI Is Checking Who's a Teen",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CXrtT4NWmvg",
+     "url": "https://www.youtube.com/shorts/CXrtT4NWmvg",
+     "title": "Instagram's AI Now Guesses Your Age",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T07:12:31.259Z"
+   "searched_at": "2026-11-10T13:21:14.186Z"
   },
   {
    "first_seen": "2026-11-10T10:12:00.650Z",
