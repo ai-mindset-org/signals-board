@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T02:49:35.624Z",
+ "generated_at": "2026-11-10T03:13:33.130Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: R&D Is Accelerating Towards Potential RSI",
+   "source": "youtube: Anthropic’s Claude Mythos",
    "ok": true
   },
   {
-   "source": "tiktok: R&D Is Accelerating Towards Potential RSI",
+   "source": "tiktok: Anthropic’s Claude Mythos",
    "ok": true
   },
   {
-   "source": "youtube: accelerating towards potential rsi",
+   "source": "youtube: ibm anthropic claude mythos",
    "ok": true
   },
   {
-   "source": "tiktok: accelerating towards potential rsi",
+   "source": "tiktok: ibm anthropic claude mythos",
    "ok": true
   }
  ],
@@ -434,10 +434,22 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:2ow4uoE6wy8",
+     "url": "https://www.youtube.com/watch?v=2ow4uoE6wy8",
+     "title": "Anthropic's Claude Mythos 5.2 Is Absolutely Insane",
+     "channel": "DeepManim",
+     "views": 1,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:WlozwcUDaqw",
-     "url": "https://www.youtube.com/shorts/WlozwcUDaqw",
-     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+     "id": "youtube:-uOC5wHWKF8",
+     "url": "https://www.youtube.com/shorts/-uOC5wHWKF8",
+     "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
      "channel": "",
      "views": 0,
      "age_hours": null,
@@ -449,7 +461,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-09T21:10:11.346Z"
+   "searched_at": "2026-11-10T03:13:41.086Z"
   },
   {
    "first_seen": "2026-11-09T19:49:54.771Z",
