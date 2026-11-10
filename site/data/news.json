@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T19:49:29.894Z",
+ "generated_at": "2026-11-10T20:11:07.923Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,15 +9,141 @@
  },
  "search_report": [
   {
-   "source": "youtube: ai agents work",
+   "source": "youtube: Gemini 4 Carbon",
    "ok": true
   },
   {
-   "source": "tiktok: ai agents work",
+   "source": "tiktok: Gemini 4 Carbon",
+   "ok": true
+  },
+  {
+   "source": "youtube: gemini carbon available",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gemini carbon available",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic 1.4 ipo targets",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic 1.4 ipo targets",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39739132",
+   "ids": [
+    "39739132",
+    "39737677",
+    "39733654"
+   ],
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source_id": "gl-deepmind",
+   "published_ts": "2026-11-10 16:03:47",
+   "story_sources": 3,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "vercel-blog",
+     "title": "Gemini 4 Carbon now available on AI Gateway",
+     "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "gemini carbon available"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l32KKNKdpIk",
+     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
+     "title": "Gemini 4 Carbon is Live!",
+     "channel": "Sam Witteveen",
+     "views": 27466,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 6867
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YTA_DsiYwAc",
+     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
+     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
+     "channel": "Paul J Lipsky",
+     "views": 22267,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 5567
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lQ6wwLHqDAg",
+     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
+     "title": "Gemini 4 Carbon: The Most Capable Model from Google",
+     "channel": "Prompt Engineering",
+     "views": 5529,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 1382
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:0Kw6_DTZPrY",
+     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+     "channel": "@aiexplained-official",
+     "views": 142000,
+     "age_hours": 181.65466527777778,
+     "relevance": 0.67,
+     "velocity": 782
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tD2Zg43wyBU",
+     "url": "https://www.youtube.com/watch?v=tD2Zg43wyBU",
+     "title": "Google Gemini Krypton (Insane Pure-Code Animations vs Argon & Carbon)",
+     "channel": "Dom the AI Tutor",
+     "views": 6845,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 285
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4onc5T6VHSM",
+     "url": "https://www.youtube.com/watch?v=4onc5T6VHSM",
+     "title": "Gemini 4 Carbon Never Asked Me a Single Question",
+     "channel": "codeSTACKr",
+     "views": 166,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 166
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T20:11:15.957Z"
+  },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
    "id": "39734823",
@@ -30,7 +156,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -99,6 +225,85 @@
    "searched_at": "2026-11-10T18:12:38.958Z"
   },
   {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39733176",
+   "ids": [
+    "39733176",
+    "39739052"
+   ],
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+   "source_id": "theverge",
+   "published_ts": "2026-11-10 14:06:54",
+   "story_sources": 2,
+   "score_norm": 88,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic Targets $1.4T Valuation in IPO",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video"
+    }
+   ],
+   "queries": [
+    "anthropic 1.4 ipo targets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VFsng_wiwOw",
+     "url": "https://www.youtube.com/watch?v=VFsng_wiwOw",
+     "title": "Anthropic Targets $1.4 Trillion Valuation in IPO",
+     "channel": "Bloomberg Television",
+     "views": 9087,
+     "age_hours": 6,
+     "relevance": 1,
+     "velocity": 1515
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:I-Gc-CtOL8k",
+     "url": "https://www.youtube.com/watch?v=I-Gc-CtOL8k",
+     "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+     "channel": "Bloomberg Podcasts",
+     "views": 2231,
+     "age_hours": 2,
+     "relevance": 1,
+     "velocity": 1116
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mb9h4Di12k0",
+     "url": "https://www.youtube.com/watch?v=mb9h4Di12k0",
+     "title": "Anthropic’s $1.4 Trillion IPO Bet Tests AI Appetite",
+     "channel": "Bloomberg Tech",
+     "views": 623,
+     "age_hours": 1,
+     "relevance": 0.8,
+     "velocity": 623
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tJ4coTzBB1U",
+     "url": "https://www.youtube.com/watch?v=tJ4coTzBB1U",
+     "title": "Anthropic’s IPO price is slipping",
+     "channel": "parlance",
+     "views": 94,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T20:11:19.580Z"
+  },
+  {
    "first_seen": "2026-11-10T19:49:29.894Z",
    "id": "39738826",
    "ids": [
@@ -110,7 +315,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 19:31:37",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "hn",
@@ -233,36 +438,6 @@
    "searched_at": "2026-11-10T16:23:39.595Z"
   },
   {
-   "first_seen": "2026-11-10T19:35:41.446Z",
-   "id": "39737655",
-   "ids": [
-    "39737655",
-    "39738216"
-   ],
-   "title": "OpenAI lets businesses claim their ChatGPT listing and build their own agent",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsuibf/openai_lets_businesses_claim_their_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 18:24:53",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
-     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
-    }
-   ],
-   "queries": [
-    "openai chatgpt lets businesses"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T19:35:45.647Z"
-  },
-  {
    "first_seen": "2026-11-09T07:37:10.024Z",
    "id": "39702433",
    "ids": [
@@ -307,6 +482,36 @@
    "searched_at": "2026-11-09T13:49:49.599Z"
   },
   {
+   "first_seen": "2026-11-10T19:35:41.446Z",
+   "id": "39737655",
+   "ids": [
+    "39737655",
+    "39738216"
+   ],
+   "title": "OpenAI lets businesses claim their ChatGPT listing and build their own agent",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsuibf/openai_lets_businesses_claim_their_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 18:24:53",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
+     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
+    }
+   ],
+   "queries": [
+    "openai chatgpt lets businesses"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T19:35:45.647Z"
+  },
+  {
    "first_seen": "2026-11-10T16:23:28.147Z",
    "id": "39733820",
    "ids": [
@@ -318,7 +523,7 @@
    "source_id": "crypto-theblock",
    "published_ts": "2026-11-10 15:56:02",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -417,7 +622,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 17:01:55",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "hn",
@@ -578,36 +783,6 @@
    "searched_at": "2026-11-10T15:36:13.516Z"
   },
   {
-   "first_seen": "2026-11-10T18:49:16.614Z",
-   "id": "39737517",
-   "ids": [
-    "39737517",
-    "39733330"
-   ],
-   "title": "I don't use AI",
-   "url": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-10 18:28:24",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "How Not to Use AI",
-     "url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html"
-    }
-   ],
-   "queries": [
-    "don use ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T18:49:20.708Z"
-  },
-  {
    "first_seen": "2026-11-10T11:36:09.397Z",
    "id": "39727734",
    "ids": [
@@ -704,6 +879,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-10T11:21:20.197Z"
+  },
+  {
+   "first_seen": "2026-11-10T18:49:16.614Z",
+   "id": "39737517",
+   "ids": [
+    "39737517",
+    "39733330"
+   ],
+   "title": "I don't use AI",
+   "url": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-10 18:28:24",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "How Not to Use AI",
+     "url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html"
+    }
+   ],
+   "queries": [
+    "don use ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T18:49:20.708Z"
   },
   {
    "first_seen": "2026-11-10T07:12:23.800Z",
