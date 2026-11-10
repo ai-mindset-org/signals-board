@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T11:21:05.691Z",
+ "generated_at": "2026-11-10T11:36:09.397Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Control Room",
+   "source": "youtube: anthropic ipo sends out",
    "ok": true
   },
   {
-   "source": "tiktok: Control Room",
-   "ok": true
-  },
-  {
-   "source": "youtube: control room central system",
-   "ok": true
-  },
-  {
-   "source": "tiktok: control room central system",
-   "ok": true
-  },
-  {
-   "source": "youtube: Ant Group’s Robbyant",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Ant Group’s Robbyant",
-   "ok": true
-  },
-  {
-   "source": "youtube: ant group robbyant open-sources",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ant group robbyant open-sources",
+   "source": "tiktok: anthropic ipo sends out",
    "ok": true
   }
  ],
@@ -535,6 +511,73 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T11:21:13.573Z"
+  },
+  {
+   "first_seen": "2026-11-10T11:36:09.397Z",
+   "id": "39727734",
+   "ids": [
+    "39727734",
+    "39721447"
+   ],
+   "title": "Anthropic sends out, then retracts details of IPO filing, emails show",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/article71684856.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-10 08:53:21",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic sends out, then retracts details of IPO filing, emails show",
+     "url": "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/"
+    }
+   ],
+   "queries": [
+    "anthropic ipo sends out"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:y1ca8YubaE8",
+     "url": "https://www.youtube.com/shorts/y1ca8YubaE8",
+     "title": "Anthropic’s Trillion-Dollar IPO Is Coming 📈",
+     "channel": "",
+     "views": 85,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JduXFs3QXik",
+     "url": "https://www.youtube.com/shorts/JduXFs3QXik",
+     "title": "Anthropic's $69.3B IPO Filing Was Retracted",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gsq43rr0mAw",
+     "url": "https://www.youtube.com/shorts/gsq43rr0mAw",
+     "title": "Anthropic withdraws IPO pricing details after filing error",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T11:36:13.863Z"
   },
   {
    "first_seen": "2026-11-10T11:21:05.691Z",
