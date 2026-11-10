@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T19:35:41.446Z",
+ "generated_at": "2026-11-10T19:49:29.894Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai chatgpt lets businesses",
+   "source": "youtube: ai agents work",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt lets businesses",
+   "source": "tiktok: ai agents work",
    "ok": true
   }
  ],
@@ -99,34 +99,34 @@
    "searched_at": "2026-11-10T18:12:38.958Z"
   },
   {
-   "first_seen": "2026-11-10T19:35:41.446Z",
-   "id": "39737655",
+   "first_seen": "2026-11-10T19:49:29.894Z",
+   "id": "39738826",
    "ids": [
-    "39737655",
-    "39738216"
+    "39738826",
+    "39737100"
    ],
-   "title": "OpenAI lets businesses claim their ChatGPT listing and build their own agent",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsuibf/openai_lets_businesses_claim_their_chatgpt/",
+   "title": "How AI agents work",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
    "source_id": "x-reddit",
-   "published_ts": "2026-11-10 18:24:53",
+   "published_ts": "2026-11-10 19:31:37",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 79,
    "related_news": [
     {
-     "source_id": "eu-tnw",
-     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
-     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
+     "source_id": "hn",
+     "title": "AI and the Art of Work",
+     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
     }
    ],
    "queries": [
-    "openai chatgpt lets businesses"
+    "ai agents work"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-10T19:35:45.647Z"
+   "searched_at": "2026-11-10T19:49:34.169Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -231,6 +231,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T16:23:39.595Z"
+  },
+  {
+   "first_seen": "2026-11-10T19:35:41.446Z",
+   "id": "39737655",
+   "ids": [
+    "39737655",
+    "39738216"
+   ],
+   "title": "OpenAI lets businesses claim their ChatGPT listing and build their own agent",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsuibf/openai_lets_businesses_claim_their_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 18:24:53",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
+     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
+    }
+   ],
+   "queries": [
+    "openai chatgpt lets businesses"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T19:35:45.647Z"
   },
   {
    "first_seen": "2026-11-09T07:37:10.024Z",
@@ -491,7 +521,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 14:45:24",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
