@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T04:12:34.851Z",
+ "generated_at": "2026-11-10T05:12:10.431Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: ChatGPT Enterprise",
+   "source": "youtube: Control Room",
    "ok": true
   },
   {
-   "source": "tiktok: ChatGPT Enterprise",
+   "source": "tiktok: Control Room",
    "ok": true
   },
   {
-   "source": "youtube: chatgpt enterprise aws marketplace",
+   "source": "youtube: control room central system",
    "ok": true
   },
   {
-   "source": "tiktok: chatgpt enterprise aws marketplace",
-   "ok": true
-  },
-  {
-   "source": "youtube: Introducing Claude Fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Introducing Claude Fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing claude fable 5.2",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing claude fable 5.2",
+   "source": "tiktok: control room central system",
    "ok": true
   }
  ],
@@ -259,61 +243,6 @@
    "searched_at": "2026-11-09T06:48:40.784Z"
   },
   {
-   "first_seen": "2026-11-07T07:49:54.330Z",
-   "id": "39672407",
-   "ids": [
-    "39672407",
-    "39671648"
-   ],
-   "title": "OpenAI to press ahead with data-centre expansion despite midterm sweep, CFO says",
-   "url": "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-07 04:56:58",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "OpenAI to press ahead with data-center expansion despite midterm sweep: Report",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-us-data-centre-expansion-10954367/"
-    }
-   ],
-   "queries": [
-    "openai cfo press ahead"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zCT5KYnN3fM",
-     "url": "https://www.youtube.com/watch?v=zCT5KYnN3fM",
-     "title": "OpenAI Will Press Ahead With US Data Center Expansion Despite the Midterm Sweep, CFO Says",
-     "channel": "AI Signal Live: Business",
-     "views": 3,
-     "age_hours": 0.85,
-     "relevance": 0.89,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rgWLYsQNVWE",
-     "url": "https://www.youtube.com/watch?v=rgWLYsQNVWE",
-     "title": "RERIGHT · OpenAI to press ahead with data-center expansion despite mid",
-     "channel": "reright",
-     "views": 0,
-     "age_hours": 24,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-08T02:16:21.772Z"
-  },
-  {
    "first_seen": "2026-11-09T22:50:05.120Z",
    "id": "39717917",
    "ids": [
@@ -325,7 +254,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-09 13:00:00",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -345,17 +274,29 @@
      "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
      "title": "The Control Room #2: Bob Horn",
      "channel": "Greazy Wil",
-     "views": 2140,
+     "views": 2283,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 32
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TyaZI-_dARs",
+     "url": "https://www.youtube.com/watch?v=TyaZI-_dARs",
+     "title": "Control Room for Skills Explained",
+     "channel": "Mat Siems",
+     "views": 4,
      "age_hours": 48,
      "relevance": 0.5,
-     "velocity": 45
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-09T22:50:13.257Z"
+   "searched_at": "2026-11-10T05:12:18.034Z"
   },
   {
    "first_seen": "2026-11-09T05:36:45.359Z",
