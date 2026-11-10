@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T21:49:20.512Z",
+ "generated_at": "2026-11-10T22:35:38.309Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Coolest Thing People Were Doing With",
+   "source": "youtube: mega 30 commits million",
    "ok": true
   },
   {
-   "source": "tiktok: Coolest Thing People Were Doing With",
-   "ok": true
-  },
-  {
-   "source": "youtube: reverse engineer anything companies",
-   "ok": true
-  },
-  {
-   "source": "tiktok: reverse engineer anything companies",
+   "source": "tiktok: mega 30 commits million",
    "ok": true
   }
  ],
@@ -148,7 +140,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 100,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -307,7 +299,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-10 10:00:00",
    "story_sources": 2,
-   "score_norm": 86,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "hn",
@@ -587,7 +579,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-10T16:23:32.364Z"
+   "searched_at": "2026-11-10T22:35:42.394Z"
   },
   {
    "first_seen": "2026-11-09T00:32:30.093Z",
