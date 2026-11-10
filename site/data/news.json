@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:10:10.451Z",
+ "generated_at": "2026-11-10T17:36:09.440Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Control Room",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Control Room",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai control room describes",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai control room describes",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-10T16:23:28.147Z",
@@ -51,7 +68,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-09 19:00:00",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -166,7 +183,7 @@
    ],
    "queries": [
     "Control Room",
-    "control room central system"
+    "openai control room describes"
    ],
    "videos": [
     {
@@ -176,29 +193,77 @@
      "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
      "title": "The Control Room #2: Bob Horn",
      "channel": "Greazy Wil",
-     "views": 2370,
+     "views": 2408,
      "age_hours": 72,
      "relevance": 0.5,
      "velocity": 33
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TyaZI-_dARs",
-     "url": "https://www.youtube.com/watch?v=TyaZI-_dARs",
-     "title": "Control Room for Skills Explained",
-     "channel": "Mat Siems",
-     "views": 4,
-     "age_hours": 48,
+     "kind": "shorts",
+     "id": "youtube:DK0MwGYHoLg",
+     "url": "https://www.youtube.com/shorts/DK0MwGYHoLg",
+     "title": "OpenAI Control Room",
+     "channel": "",
+     "views": 52,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9QIrvML5DAc",
+     "url": "https://www.youtube.com/shorts/9QIrvML5DAc",
+     "title": "OpenAI deploys Control Room to stop research model workloads in 35 seconds #Shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.64,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iEeS3Kop5YU",
+     "url": "https://www.youtube.com/shorts/iEeS3Kop5YU",
+     "title": "OpenAI Introduces Control Room For Human Control Over AI Workloads",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ULUlchY08gk",
+     "url": "https://www.youtube.com/shorts/ULUlchY08gk",
+     "title": "OpenAI's Control Room can stop a research AI in 35 seconds #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BjMp5hB5QsU",
+     "url": "https://www.youtube.com/shorts/BjMp5hB5QsU",
+     "title": "OpenAI Launches Control Room for Fast Research Workload Shutdowns",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 0
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T11:21:13.573Z"
+   "searched_at": "2026-11-10T17:36:17.216Z"
   },
   {
    "first_seen": "2026-11-10T15:36:05.516Z",
@@ -282,7 +347,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-10 05:34:14",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "hn",
