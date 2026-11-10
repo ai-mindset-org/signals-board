@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T18:12:30.265Z",
+ "generated_at": "2026-11-10T18:49:16.614Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Google Cloud",
+   "source": "youtube: don use ai",
    "ok": true
   },
   {
-   "source": "tiktok: Google Cloud",
-   "ok": true
-  },
-  {
-   "source": "youtube: google cloud gemini launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google cloud gemini launches",
+   "source": "tiktok: don use ai",
    "ok": true
   }
  ],
@@ -107,36 +99,6 @@
    "searched_at": "2026-11-10T18:12:38.958Z"
   },
   {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
-   "ids": [
-    "39733820",
-    "39733880"
-   ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
-    }
-   ],
-   "queries": [
-    "mega 30 commits million"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T16:23:32.364Z"
-  },
-  {
    "first_seen": "2026-11-10T04:12:34.851Z",
    "id": "39714640",
    "ids": [
@@ -148,7 +110,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-09 19:00:00",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -241,6 +203,36 @@
    "searched_at": "2026-11-10T16:23:39.595Z"
   },
   {
+   "first_seen": "2026-11-10T16:23:28.147Z",
+   "id": "39733820",
+   "ids": [
+    "39733820",
+    "39733880"
+   ],
+   "title": "MEGA commits $30 million to new products, starting with AI inference",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-11-10 15:56:02",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
+     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
+    }
+   ],
+   "queries": [
+    "mega 30 commits million"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T16:23:32.364Z"
+  },
+  {
    "first_seen": "2026-11-09T07:37:10.024Z",
    "id": "39702433",
    "ids": [
@@ -285,6 +277,74 @@
    "searched_at": "2026-11-09T13:49:49.599Z"
   },
   {
+   "first_seen": "2026-11-09T00:32:30.093Z",
+   "id": "39691636",
+   "ids": [
+    "39691636",
+    "39698035"
+   ],
+   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-08 14:45:22",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
+     "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii"
+    }
+   ],
+   "queries": [
+    "RTX 5060 Ti 16GB",
+    "users rtx 5060 ti"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Jxcu3JWBcbc",
+     "url": "https://www.youtube.com/shorts/Jxcu3JWBcbc",
+     "title": "RTX 5060 + Core i5-14400F",
+     "channel": "",
+     "views": 21000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2KW_W-vImVU",
+     "url": "https://www.youtube.com/shorts/2KW_W-vImVU",
+     "title": "RTX 3080 10GB vs RTX 5060 Ti 16GB at 1440p",
+     "channel": "",
+     "views": 11000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:20xONWZCw9M",
+     "url": "https://www.youtube.com/watch?v=20xONWZCw9M",
+     "title": "RTX 5060 Ti 16GB: One Year Later",
+     "channel": "AFK Capital",
+     "views": 52,
+     "age_hours": 16,
+     "relevance": 0.57,
+     "velocity": 3
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-09T06:48:40.784Z"
+  },
+  {
    "first_seen": "2026-11-09T22:50:05.120Z",
    "id": "39717917",
    "ids": [
@@ -297,7 +357,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 17:01:55",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
@@ -390,74 +450,6 @@
    "searched_at": "2026-11-10T17:36:17.216Z"
   },
   {
-   "first_seen": "2026-11-09T00:32:30.093Z",
-   "id": "39691636",
-   "ids": [
-    "39691636",
-    "39698035"
-   ],
-   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-08 14:45:22",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
-     "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii"
-    }
-   ],
-   "queries": [
-    "RTX 5060 Ti 16GB",
-    "users rtx 5060 ti"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Jxcu3JWBcbc",
-     "url": "https://www.youtube.com/shorts/Jxcu3JWBcbc",
-     "title": "RTX 5060 + Core i5-14400F",
-     "channel": "",
-     "views": 21000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2KW_W-vImVU",
-     "url": "https://www.youtube.com/shorts/2KW_W-vImVU",
-     "title": "RTX 3080 10GB vs RTX 5060 Ti 16GB at 1440p",
-     "channel": "",
-     "views": 11000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:20xONWZCw9M",
-     "url": "https://www.youtube.com/watch?v=20xONWZCw9M",
-     "title": "RTX 5060 Ti 16GB: One Year Later",
-     "channel": "AFK Capital",
-     "views": 52,
-     "age_hours": 16,
-     "relevance": 0.57,
-     "velocity": 3
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-09T06:48:40.784Z"
-  },
-  {
    "first_seen": "2026-11-10T15:36:05.516Z",
    "id": "39732622",
    "ids": [
@@ -524,6 +516,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T15:36:13.516Z"
+  },
+  {
+   "first_seen": "2026-11-10T18:49:16.614Z",
+   "id": "39737517",
+   "ids": [
+    "39737517",
+    "39733330"
+   ],
+   "title": "I don't use AI",
+   "url": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-10 18:28:24",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "How Not to Use AI",
+     "url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html"
+    }
+   ],
+   "queries": [
+    "don use ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T18:49:20.708Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
