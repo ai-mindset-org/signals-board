@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T14:36:28.292Z",
+ "generated_at": "2026-11-10T15:21:05.493Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Fable 5.2",
+   "source": "youtube: AWS Commits 100 Million",
    "ok": true
   },
   {
-   "source": "tiktok: Fable 5.2",
+   "source": "tiktok: AWS Commits 100 Million",
    "ok": true
   },
   {
-   "source": "youtube: anthropic fable 5.2 mythos",
+   "source": "youtube: aws commits 100 million",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic fable 5.2 mythos",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic 1.4trn ipo targets",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic 1.4trn ipo targets",
-   "ok": true
-  },
-  {
-   "source": "youtube: cuda+rocm llm gpus 48",
-   "ok": true
-  },
-  {
-   "source": "tiktok: cuda+rocm llm gpus 48",
+   "source": "tiktok: aws commits 100 million",
    "ok": true
   }
  ],
@@ -161,7 +145,7 @@
    "source_id": "eu-siliconrepublic",
    "published_ts": "2026-11-10 09:16:14",
    "story_sources": 4,
-   "score_norm": 95,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "in-thehindu-tech",
@@ -386,7 +370,7 @@
    "source_id": "eu-siliconrepublic",
    "published_ts": "2026-11-10 14:07:09",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "hn",
@@ -657,7 +641,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-10 08:53:21",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
@@ -1073,6 +1057,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T02:49:43.406Z"
+  },
+  {
+   "first_seen": "2026-11-10T15:21:05.493Z",
+   "id": "39732502",
+   "ids": [
+    "39732502",
+    "39725624"
+   ],
+   "title": "AWS Commits $100 Million to Expand AI Use in Healthcare, Targeting Underserved Markets",
+   "url": "https://techmoran.com/2026/11/10/aws-commits-100-million-to-expand-ai-use-in-healthcare-targeting-underserved-markets/",
+   "source_id": "africa-techmoran",
+   "published_ts": "2026-11-10 09:47:14",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "africa-cioafrica",
+     "title": "AWS Commits $100 Million To Expand AI Use In Healthcare, Targeting Underserved Markets",
+     "url": "https://cioafrica.co/aws-commits-100-million-to-expand-ai-use-in-healthcare-targeting-underserved-markets/"
+    }
+   ],
+   "queries": [
+    "AWS Commits 100 Million",
+    "aws commits 100 million"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mgUGSnpRn0w",
+     "url": "https://www.youtube.com/shorts/mgUGSnpRn0w",
+     "title": "AWS Commits 100 Million Dollars Of AI And Cloud To Global Health",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T15:21:13.334Z"
   },
   {
    "first_seen": "2026-11-10T02:35:38.760Z",
