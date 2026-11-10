@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T06:50:17.681Z",
+ "generated_at": "2026-11-10T07:12:23.800Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: import 480 self-sustaining meta",
+   "source": "youtube: Instagram Teen Accounts",
    "ok": true
   },
   {
-   "source": "tiktok: import 480 self-sustaining meta",
+   "source": "tiktok: Instagram Teen Accounts",
+   "ok": true
+  },
+  {
+   "source": "youtube: meta instagram teen accounts",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta instagram teen accounts",
    "ok": true
   }
  ],
@@ -291,6 +299,50 @@
    "searched_at": "2026-11-10T05:12:18.034Z"
   },
   {
+   "first_seen": "2026-11-10T07:12:23.800Z",
+   "id": "39724103",
+   "ids": [
+    "39724103",
+    "39712186"
+   ],
+   "title": "Meta expands AI age estimation globally to move suspected teens into Instagram Teen Accounts",
+   "url": "https://www.medianama.com/2026/11/223-meta-age-estimation-instagram-teen-accounts/",
+   "source_id": "in-medianama",
+   "published_ts": "2026-11-10 06:03:03",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Meta expands AI age checks to move more Instagram teens into Teen Accounts",
+     "url": "https://thenextweb.com/news/meta-instagram-ai-age-estimation-global"
+    }
+   ],
+   "queries": [
+    "Instagram Teen Accounts",
+    "meta instagram teen accounts"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fM4teS_GdMI",
+     "url": "https://www.youtube.com/watch?v=fM4teS_GdMI",
+     "title": "What Is AI Age Detection: Instagram Is Guessing Your Age",
+     "channel": "Infrastructure in Minutes",
+     "views": 2,
+     "age_hours": 15,
+     "relevance": 0.6,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T07:12:31.259Z"
+  },
+  {
    "first_seen": "2026-11-09T05:36:45.359Z",
    "id": "39700788",
    "ids": [
@@ -555,104 +607,19 @@
    "searched_at": "2026-11-10T02:49:43.406Z"
   },
   {
-   "first_seen": "2026-11-10T00:46:41.054Z",
-   "id": "39710179",
-   "ids": [
-    "39710179",
-    "39719618"
-   ],
-   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-   "url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-09 13:31:34",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-     "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space"
-    }
-   ],
-   "queries": [
-    "import 480 self-sustaining meta"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T06:50:21.796Z"
-  },
-  {
-   "first_seen": "2026-11-09T21:10:03.334Z",
-   "id": "39716552",
-   "ids": [
-    "39716552",
-    "39712914"
-   ],
-   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
-   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-09 20:34:10",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
-     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
-    }
-   ],
-   "queries": [
-    "Anthropic’s Claude Mythos",
-    "ibm anthropic claude mythos"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:2ow4uoE6wy8",
-     "url": "https://www.youtube.com/watch?v=2ow4uoE6wy8",
-     "title": "Anthropic's Claude Mythos 5.2 Is Absolutely Insane",
-     "channel": "DeepManim",
-     "views": 1,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-uOC5wHWKF8",
-     "url": "https://www.youtube.com/shorts/-uOC5wHWKF8",
-     "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T03:13:41.086Z"
-  },
-  {
    "first_seen": "2026-11-09T19:49:54.771Z",
    "id": "39715005",
    "ids": [
     "39715005",
-    "39714459"
+    "39714459",
+    "39724166"
    ],
-   "title": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, and cuts Fable’s price",
-   "url": "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-09 19:22:39",
+   "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-10 03:43:25",
    "story_sources": 2,
-   "score_norm": 48,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "hn",
@@ -743,6 +710,92 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T02:15:40.234Z"
+  },
+  {
+   "first_seen": "2026-11-10T00:46:41.054Z",
+   "id": "39710179",
+   "ids": [
+    "39710179",
+    "39719618"
+   ],
+   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+   "url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-09 13:31:34",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+     "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space"
+    }
+   ],
+   "queries": [
+    "import 480 self-sustaining meta"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T06:50:21.796Z"
+  },
+  {
+   "first_seen": "2026-11-09T21:10:03.334Z",
+   "id": "39716552",
+   "ids": [
+    "39716552",
+    "39712914"
+   ],
+   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
+   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-09 20:34:10",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
+     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Claude Mythos",
+    "ibm anthropic claude mythos"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:2ow4uoE6wy8",
+     "url": "https://www.youtube.com/watch?v=2ow4uoE6wy8",
+     "title": "Anthropic's Claude Mythos 5.2 Is Absolutely Insane",
+     "channel": "DeepManim",
+     "views": 1,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-uOC5wHWKF8",
+     "url": "https://www.youtube.com/shorts/-uOC5wHWKF8",
+     "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T03:13:41.086Z"
   }
  ]
 }
