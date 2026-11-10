@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:11:07.923Z",
+ "generated_at": "2026-11-10T21:10:13.784Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Gemini 4 Carbon",
+   "source": "youtube: Introducing Businesses",
    "ok": true
   },
   {
-   "source": "tiktok: Gemini 4 Carbon",
+   "source": "tiktok: Introducing Businesses",
    "ok": true
   },
   {
-   "source": "youtube: gemini carbon available",
+   "source": "youtube: introducing businesses chatgpt",
    "ok": true
   },
   {
-   "source": "tiktok: gemini carbon available",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic 1.4 ipo targets",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic 1.4 ipo targets",
+   "source": "tiktok: introducing businesses chatgpt",
    "ok": true
   }
  ],
@@ -304,6 +296,62 @@
    "searched_at": "2026-11-10T20:11:19.580Z"
   },
   {
+   "first_seen": "2026-11-10T21:10:13.784Z",
+   "id": "39740400",
+   "ids": [
+    "39740400",
+    "39736975"
+   ],
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-10 10:00:00",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Businesses in ChatGPT – OpenAI",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
+    }
+   ],
+   "queries": [
+    "Introducing Businesses",
+    "introducing businesses chatgpt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z9k5oI3Paoc",
+     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
+     "title": "Introducing Businesses in ChatGPT in beta",
+     "channel": "OpenAI",
+     "views": 20813,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 6938
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QXV3AUo2Q8Q",
+     "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
+     "title": "List your Businesses in ChatGPT #ainews #chatgpt",
+     "channel": "",
+     "views": 170,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T21:10:22.216Z"
+  },
+  {
    "first_seen": "2026-11-10T19:49:29.894Z",
    "id": "39738826",
    "ids": [
@@ -315,7 +363,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 19:31:37",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "hn",
