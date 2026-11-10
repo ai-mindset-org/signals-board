@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T10:35:40.217Z",
+ "generated_at": "2026-11-10T11:21:05.691Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,40 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Control Room",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Control Room",
+   "ok": true
+  },
+  {
+   "source": "youtube: control room central system",
+   "ok": true
+  },
+  {
+   "source": "tiktok: control room central system",
+   "ok": true
+  },
+  {
+   "source": "youtube: Ant Group’s Robbyant",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Ant Group’s Robbyant",
+   "ok": true
+  },
+  {
+   "source": "youtube: ant group robbyant open-sources",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ant group robbyant open-sources",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -127,7 +160,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-10 05:34:14",
    "story_sources": 2,
-   "score_norm": 85,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "hn",
@@ -479,10 +512,10 @@
      "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
      "title": "The Control Room #2: Bob Horn",
      "channel": "Greazy Wil",
-     "views": 2283,
+     "views": 2370,
      "age_hours": 72,
      "relevance": 0.5,
-     "velocity": 32
+     "velocity": 33
     },
     {
      "platform": "youtube",
@@ -501,7 +534,38 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T05:12:18.034Z"
+   "searched_at": "2026-11-10T11:21:13.573Z"
+  },
+  {
+   "first_seen": "2026-11-10T11:21:05.691Z",
+   "id": "39727469",
+   "ids": [
+    "39727469",
+    "39724285"
+   ],
+   "title": "Ant Group’s Robbyant open-sources tactile AI model for robot hands",
+   "url": "https://technode.com/2026/11/10/ant-groups-robbyant-open-sources-tactile-ai-model-for-robot-hands/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-10 07:53:21",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Ant Group’s Robbyant open-sources tactile AI model",
+     "url": "https://www.techinasia.com/news/ant-groups-robbyant-opensources-tactile-ai-model"
+    }
+   ],
+   "queries": [
+    "Ant Group’s Robbyant",
+    "ant group robbyant open-sources"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T11:21:20.197Z"
   },
   {
    "first_seen": "2026-11-10T07:12:23.800Z",
@@ -515,7 +579,7 @@
    "source_id": "in-medianama",
    "published_ts": "2026-11-10 06:03:03",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "eu-tnw",
