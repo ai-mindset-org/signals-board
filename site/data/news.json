@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T10:12:00.650Z",
+ "generated_at": "2026-11-10T10:22:46.355Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: meta instagram expands ai",
+   "source": "youtube: ChatGPT Enterprise",
    "ok": true
   },
   {
-   "source": "tiktok: meta instagram expands ai",
+   "source": "tiktok: ChatGPT Enterprise",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt enterprise aws marketplace",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt enterprise aws marketplace",
+   "ok": true
+  },
+  {
+   "source": "youtube: Introducing Claude Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Introducing Claude Fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing claude fable 5.2",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing claude fable 5.2",
    "ok": true
   }
  ],
@@ -51,9 +75,21 @@
      "title": "Geminiの影響、ChatGPT Enterprise｜昨日のITニュース",
      "channel": "Daily IT News",
      "views": 10,
-     "age_hours": 6,
+     "age_hours": 12,
      "relevance": 0.5,
-     "velocity": 2
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zlnckKwkBVc",
+     "url": "https://www.youtube.com/shorts/zlnckKwkBVc",
+     "title": "You Can Now Buy ChatGPT Enterprise Through AWS Marketplace",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -62,7 +98,7 @@
      "url": "https://www.youtube.com/shorts/Ee1JlHR4X3M",
      "title": "OpenAI: ChatGPT Enterprise now available in AWS Marketplace",
      "channel": "",
-     "views": 3,
+     "views": 4,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -74,9 +110,21 @@
      "url": "https://www.youtube.com/shorts/bprJxNksyCI",
      "title": "ChatGPT Enterprise Now Available In AWS Marketplace",
      "channel": "",
-     "views": 2,
+     "views": 4,
      "age_hours": null,
      "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7opgEKWQXgE",
+     "url": "https://www.youtube.com/shorts/7opgEKWQXgE",
+     "title": "ChatGPT Enterprise Now on AWS Marketplace – Faster AI",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.8,
      "velocity": null
     },
     {
@@ -90,37 +138,13 @@
      "age_hours": null,
      "relevance": 0.8,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:52JkrJHW9Yg",
-     "url": "https://www.youtube.com/shorts/52JkrJHW9Yg",
-     "title": "ChatGPT Enterprise comes to AWS Marketplace: eligible spend can count toward commitments",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7opgEKWQXgE",
-     "url": "https://www.youtube.com/shorts/7opgEKWQXgE",
-     "title": "ChatGPT Enterprise Now on AWS Marketplace – Faster AI",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T04:12:42.311Z"
+   "searched_at": "2026-11-10T10:22:54.014Z"
   },
   {
    "first_seen": "2026-11-09T19:49:54.771Z",
@@ -666,10 +690,22 @@
      "url": "https://www.youtube.com/watch?v=6a1QSJlsYpU",
      "title": "Introducing Claude Fable 5.2",
      "channel": "Claude",
-     "views": 193662,
-     "age_hours": 9,
+     "views": 257020,
+     "age_hours": 15,
      "relevance": 1,
-     "velocity": 21518
+     "velocity": 17135
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:0vNyVMDFdkg",
+     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+     "title": "Fable 5.2 is ridiculous",
+     "channel": "@matthew_berman",
+     "views": 187000,
+     "age_hours": 14.84608361111111,
+     "relevance": 0.67,
+     "velocity": 12596
     },
     {
      "platform": "youtube",
@@ -678,65 +714,53 @@
      "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
      "title": "NOTHING will be smarter than Fable 5.2...",
      "channel": "Wes Roth",
-     "views": 52618,
-     "age_hours": 4,
+     "views": 114010,
+     "age_hours": 10,
      "relevance": 0.5,
-     "velocity": 13155
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:emIl6Ugmoik",
-     "url": "https://www.youtube.com/watch?v=emIl6Ugmoik",
-     "title": "Claude Fable 5.2 First Impressions: I Tried It for AI VFX",
-     "channel": "Ashe Magalhaes",
-     "views": 136,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 136
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FbveQFfB8Sg",
-     "url": "https://www.youtube.com/watch?v=FbveQFfB8Sg",
-     "title": "Claude Fable 5.2 Built an Operating System From an Empty Folder",
-     "channel": "LLMs Explained",
-     "views": 267,
-     "age_hours": 7,
-     "relevance": 0.6,
-     "velocity": 38
+     "velocity": 11401
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:gd2-D47ExhY",
      "url": "https://www.youtube.com/watch?v=gd2-D47ExhY",
-     "title": "Claude Fable 5.2 Is Here: I Built 4 Demos With One Prompt Each",
+     "title": "Claude Fable 5.2: 1,000 AI Agents Built an Entire OS (I Tested It)",
      "channel": "AI with Surya",
-     "views": 23,
-     "age_hours": 0.35,
+     "views": 4602,
+     "age_hours": 6,
      "relevance": 0.6,
-     "velocity": 23
+     "velocity": 767
+    },
+    {
+     "platform": "tiktok",
+     "kind": "с борда",
+     "id": "tiktok:7706357191967591710",
+     "url": "https://www.tiktok.com/@rileybrown.ai/video/7706357191967591710",
+     "title": "Fable 5.2 was just released and I created this video in one prompt with Blender. I gave Claude one prompt.  It wrote code that builds the entire room in Blender: the desk, the MacBook, the light, even",
+     "channel": "@rileybrown.ai",
+     "views": 5853,
+     "age_hours": 8.354384166666666,
+     "relevance": 0.6,
+     "velocity": 701
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:fMeroO3I6EA",
-     "url": "https://www.youtube.com/watch?v=fMeroO3I6EA",
-     "title": "Claude Code v2.1.321 — Fable 5.2 and Remote Control Improvements",
-     "channel": "Claude Code Changelog",
-     "views": 70,
-     "age_hours": 8,
+     "id": "youtube:fBICTeXtA1c",
+     "url": "https://www.youtube.com/watch?v=fBICTeXtA1c",
+     "title": "Claude Fable 5.2、完全にイカれてる。Opus 5.5とGPT-6 Astraに同じ3Dを作らせたら、1つだけ次元が違った",
+     "channel": "Claude Code業務自動化の教科書",
+     "views": 593,
+     "age_hours": 1,
      "relevance": 0.6,
-     "velocity": 9
+     "velocity": 593
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-10T04:12:49.151Z"
+   "searched_at": "2026-11-10T10:23:00.784Z"
   },
   {
    "first_seen": "2026-11-10T02:35:38.760Z",
