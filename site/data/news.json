@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T23:10:07.247Z",
+ "generated_at": "2026-11-11T23:49:13.243Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: google tabletop tests letting",
+   "source": "youtube: meta tiktok google indonesia",
    "ok": true
   },
   {
-   "source": "tiktok: google tabletop tests letting",
+   "source": "tiktok: meta tiktok google indonesia",
    "ok": true
   }
  ],
@@ -68,11 +68,6 @@
      "source_id": "hn",
      "title": "Anthropic IPO – Dario Amodei [video]",
      "url": "https://www.youtube.com/watch?v=eynv5VR9qos"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Roadshow",
-     "url": "https://www.netroadshow.com/custom/IPO/Anthropic/retail/roadshow.html"
     }
    ],
    "queries": [
@@ -171,7 +166,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-11 22:37:09",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -800,12 +795,25 @@
    "queries": [
     "meta tiktok google indonesia"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_pfXe2TukP8",
+     "url": "https://www.youtube.com/shorts/_pfXe2TukP8",
+     "title": "Meta, Google & TikTok Sue California",
+     "channel": "",
+     "views": 57,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-11T17:36:32.761Z"
+   "searched_at": "2026-11-11T23:49:17.197Z"
   },
   {
    "first_seen": "2026-11-11T14:11:55.934Z",
