@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:49:55.735Z",
+ "generated_at": "2026-11-11T17:10:30.748Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -34,11 +34,6 @@
      "source_id": "hn",
      "title": "Anthropic Roadshow",
      "url": "https://www.netroadshow.com/custom/IPO/Anthropic/retail/roadshow.html"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic IPO Roadshow",
-     "url": "https://www.netroadshow.com/custom/IPO/Anthropic/retail/agenda.html"
     }
    ],
    "queries": [
