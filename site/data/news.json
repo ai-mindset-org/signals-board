@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T08:15:01.661Z",
+ "generated_at": "2026-11-11T09:23:42.101Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic 1.4 targets valuation",
+   "source": "youtube: Introducing Businesses",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 1.4 targets valuation",
+   "source": "tiktok: Introducing Businesses",
    "ok": true
   },
   {
-   "source": "youtube: Gemini 4 Carbon",
+   "source": "youtube: introducing businesses chatgpt",
    "ok": true
   },
   {
-   "source": "tiktok: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini carbon available",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini carbon available",
-   "ok": true
-  },
-  {
-   "source": "youtube: ai agents work",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ai agents work",
+   "source": "tiktok: introducing businesses chatgpt",
    "ok": true
   }
  ],
@@ -479,7 +463,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -963,6 +947,110 @@
    "searched_at": "2026-11-11T03:49:44.777Z"
   },
   {
+   "first_seen": "2026-11-10T21:10:13.784Z",
+   "id": "39740400",
+   "ids": [
+    "39740400",
+    "39736975"
+   ],
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-10 10:00:00",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Businesses in ChatGPT – OpenAI",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
+    }
+   ],
+   "queries": [
+    "Introducing Businesses",
+    "introducing businesses chatgpt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z9k5oI3Paoc",
+     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
+     "title": "Introducing Businesses in ChatGPT in beta",
+     "channel": "OpenAI",
+     "views": 149896,
+     "age_hours": 15,
+     "relevance": 1,
+     "velocity": 9993
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nvnZPAoR9lI",
+     "url": "https://www.youtube.com/watch?v=nvnZPAoR9lI",
+     "title": "Businesses in ChatGPT: How to Claim & Verify Your Business (Step-by-Step Guide)",
+     "channel": "Mayank Sahu SEO",
+     "views": 1393,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 279
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Xy8dCdyoc6c",
+     "url": "https://www.youtube.com/shorts/Xy8dCdyoc6c",
+     "title": "Businesses in ChatGPT beta: claim your profile; Business Agents start US-first",
+     "channel": "",
+     "views": 127,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yZuJlliFBPY",
+     "url": "https://www.youtube.com/shorts/yZuJlliFBPY",
+     "title": "Businesses in ChatGPT Launched — Shops Get AI Agents",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1W09qm4-KR8",
+     "url": "https://www.youtube.com/shorts/1W09qm4-KR8",
+     "title": "Does ChatGPT know your shop? 🏪 Businesses in ChatGPT explained #shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Hxx2k6056r4",
+     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
+     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T09:23:49.933Z"
+  },
+  {
    "first_seen": "2026-11-10T10:12:00.650Z",
    "id": "39726235",
    "ids": [
@@ -1172,110 +1260,6 @@
    "searched_at": "2026-11-10T16:23:46.921Z"
   },
   {
-   "first_seen": "2026-11-10T21:10:13.784Z",
-   "id": "39740400",
-   "ids": [
-    "39740400",
-    "39736975"
-   ],
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-10 10:00:00",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Businesses in ChatGPT – OpenAI",
-     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
-    }
-   ],
-   "queries": [
-    "Introducing Businesses",
-    "introducing businesses chatgpt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z9k5oI3Paoc",
-     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
-     "title": "Introducing Businesses in ChatGPT in beta",
-     "channel": "OpenAI",
-     "views": 110272,
-     "age_hours": 9,
-     "relevance": 1,
-     "velocity": 12252
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QXV3AUo2Q8Q",
-     "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
-     "title": "List your Businesses in ChatGPT #ainews #chatgpt",
-     "channel": "",
-     "views": 690,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Xy8dCdyoc6c",
-     "url": "https://www.youtube.com/shorts/Xy8dCdyoc6c",
-     "title": "Businesses in ChatGPT beta: claim your profile; Business Agents start US-first",
-     "channel": "",
-     "views": 90,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yZuJlliFBPY",
-     "url": "https://www.youtube.com/shorts/yZuJlliFBPY",
-     "title": "Businesses in ChatGPT Launched — Shops Get AI Agents",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZC4j1HOFpxA",
-     "url": "https://www.youtube.com/shorts/ZC4j1HOFpxA",
-     "title": "ChatGPT released businesses on ChatGPT for you to rank higher an AI search. #seo #geo",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9REsc4ZGE6E",
-     "url": "https://www.youtube.com/shorts/9REsc4ZGE6E",
-     "title": "🔥 OpenAI Lets Businesses Answer Customers Inside ChatGPT #AINews",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T03:14:06.366Z"
-  },
-  {
    "first_seen": "2026-11-11T03:49:40.566Z",
    "id": "39746267",
    "ids": [
@@ -1287,7 +1271,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-11 01:55:35",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -1806,36 +1790,6 @@
    "searched_at": "2026-11-10T14:36:39.766Z"
   },
   {
-   "first_seen": "2026-11-10T00:46:41.054Z",
-   "id": "39710179",
-   "ids": [
-    "39710179",
-    "39719618"
-   ],
-   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-   "url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-09 13:31:34",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-     "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space"
-    }
-   ],
-   "queries": [
-    "import 480 self-sustaining meta"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T06:50:21.796Z"
-  },
-  {
    "first_seen": "2026-11-10T20:11:07.923Z",
    "id": "39739132",
    "ids": [
@@ -1848,7 +1802,7 @@
    "source_id": "gl-deepmind",
    "published_ts": "2026-11-10 16:03:47",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "hn",
@@ -1941,6 +1895,36 @@
    "searched_at": "2026-11-11T08:15:13.127Z"
   },
   {
+   "first_seen": "2026-11-10T00:46:41.054Z",
+   "id": "39710179",
+   "ids": [
+    "39710179",
+    "39719618"
+   ],
+   "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+   "url": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-09 13:31:34",
+   "story_sources": 2,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+     "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space"
+    }
+   ],
+   "queries": [
+    "import 480 self-sustaining meta"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T06:50:21.796Z"
+  },
+  {
    "first_seen": "2026-11-10T19:49:29.894Z",
    "id": "39738826",
    "ids": [
@@ -1982,7 +1966,7 @@
    "source_id": "crypto-theblock",
    "published_ts": "2026-11-10 15:56:02",
    "story_sources": 2,
-   "score_norm": 49,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -2001,62 +1985,6 @@
    "searched_at": "2026-11-11T04:36:21.268Z"
   },
   {
-   "first_seen": "2026-11-09T21:10:03.334Z",
-   "id": "39716552",
-   "ids": [
-    "39716552",
-    "39712914"
-   ],
-   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
-   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-09 20:34:10",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
-     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
-    }
-   ],
-   "queries": [
-    "Anthropic’s Claude Mythos",
-    "ibm anthropic claude mythos"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:2ow4uoE6wy8",
-     "url": "https://www.youtube.com/watch?v=2ow4uoE6wy8",
-     "title": "Anthropic's Claude Mythos 5.2 Is Absolutely Insane",
-     "channel": "DeepManim",
-     "views": 5,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nc7zTB8jySw",
-     "url": "https://www.youtube.com/shorts/nc7zTB8jySw",
-     "title": "Anthropic has upgraded Claude Fable and Claude Mythos to",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T09:24:26.577Z"
-  },
-  {
    "first_seen": "2026-11-10T19:35:41.446Z",
    "id": "39737655",
    "ids": [
@@ -2068,7 +1996,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 18:24:53",
    "story_sources": 2,
-   "score_norm": 48,
+   "score_norm": 49,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -2158,6 +2086,62 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T07:49:54.251Z"
+  },
+  {
+   "first_seen": "2026-11-09T21:10:03.334Z",
+   "id": "39716552",
+   "ids": [
+    "39716552",
+    "39712914"
+   ],
+   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
+   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-09 20:34:10",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
+     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Claude Mythos",
+    "ibm anthropic claude mythos"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:2ow4uoE6wy8",
+     "url": "https://www.youtube.com/watch?v=2ow4uoE6wy8",
+     "title": "Anthropic's Claude Mythos 5.2 Is Absolutely Insane",
+     "channel": "DeepManim",
+     "views": 5,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nc7zTB8jySw",
+     "url": "https://www.youtube.com/shorts/nc7zTB8jySw",
+     "title": "Anthropic has upgraded Claude Fable and Claude Mythos to",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T09:24:26.577Z"
   }
  ]
 }
