@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T00:29:40.884Z",
+ "generated_at": "2026-11-11T01:39:01.823Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Google Cloud",
+   "source": "youtube: openai chatgpt lets businesses",
    "ok": true
   },
   {
-   "source": "tiktok: Google Cloud",
-   "ok": true
-  },
-  {
-   "source": "youtube: google cloud gemini launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google cloud gemini launches",
+   "source": "tiktok: openai chatgpt lets businesses",
    "ok": true
   }
  ],
@@ -131,6 +123,62 @@
    "searched_at": "2026-11-11T00:29:48.918Z"
   },
   {
+   "first_seen": "2026-11-10T21:10:13.784Z",
+   "id": "39740400",
+   "ids": [
+    "39740400",
+    "39736975"
+   ],
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-10 10:00:00",
+   "story_sources": 2,
+   "score_norm": 88,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Businesses in ChatGPT – OpenAI",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
+    }
+   ],
+   "queries": [
+    "Introducing Businesses",
+    "introducing businesses chatgpt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z9k5oI3Paoc",
+     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
+     "title": "Introducing Businesses in ChatGPT in beta",
+     "channel": "OpenAI",
+     "views": 20813,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 6938
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QXV3AUo2Q8Q",
+     "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
+     "title": "List your Businesses in ChatGPT #ainews #chatgpt",
+     "channel": "",
+     "views": 170,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T21:10:22.216Z"
+  },
+  {
    "first_seen": "2026-11-10T20:11:07.923Z",
    "id": "39733176",
    "ids": [
@@ -142,7 +190,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-10 14:06:54",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "hn",
@@ -208,62 +256,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T20:11:19.580Z"
-  },
-  {
-   "first_seen": "2026-11-10T21:10:13.784Z",
-   "id": "39740400",
-   "ids": [
-    "39740400",
-    "39736975"
-   ],
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-10 10:00:00",
-   "story_sources": 2,
-   "score_norm": 87,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Businesses in ChatGPT – OpenAI",
-     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
-    }
-   ],
-   "queries": [
-    "Introducing Businesses",
-    "introducing businesses chatgpt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z9k5oI3Paoc",
-     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
-     "title": "Introducing Businesses in ChatGPT in beta",
-     "channel": "OpenAI",
-     "views": 20813,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 6938
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QXV3AUo2Q8Q",
-     "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
-     "title": "List your Businesses in ChatGPT #ainews #chatgpt",
-     "channel": "",
-     "views": 170,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-10T21:10:22.216Z"
   },
   {
    "first_seen": "2026-11-10T19:49:29.894Z",
@@ -571,12 +563,85 @@
    "queries": [
     "openai chatgpt lets businesses"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QXV3AUo2Q8Q",
+     "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
+     "title": "List your Businesses in ChatGPT #ainews #chatgpt",
+     "channel": "",
+     "views": 595,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:W9fymOTlCs4",
+     "url": "https://www.youtube.com/watch?v=W9fymOTlCs4",
+     "title": "Claim Your Business in ChatGPT",
+     "channel": "The Edge Engine",
+     "views": 8,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_Wu8xA0kKVo",
+     "url": "https://www.youtube.com/watch?v=_Wu8xA0kKVo",
+     "title": "Ep. 169: OpenAI lets businesses claim their ChatGPT listing and build their own agent (Daily Reca...",
+     "channel": "RuntimeWire",
+     "views": 1,
+     "age_hours": 0.13333333333333333,
+     "relevance": 1,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9REsc4ZGE6E",
+     "url": "https://www.youtube.com/shorts/9REsc4ZGE6E",
+     "title": "🔥 OpenAI Lets Businesses Answer Customers Inside ChatGPT #AINews",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9wOnafRNi1M",
+     "url": "https://www.youtube.com/shorts/9wOnafRNi1M",
+     "title": "Businesses in ChatGPT: Claim Your AI Listing Now",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bKDmNmOghxI",
+     "url": "https://www.youtube.com/watch?v=bKDmNmOghxI",
+     "title": "OpenAI lets businesses claim their ChatGPT listing and build… — and more by RuntimeWire (Nov 10th)",
+     "channel": "RuntimeWire",
+     "views": 0,
+     "age_hours": 0.26666666666666666,
+     "relevance": 0.8,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T19:35:45.647Z"
+   "searched_at": "2026-11-11T01:39:06.278Z"
   },
   {
    "first_seen": "2026-11-10T16:23:28.147Z",
