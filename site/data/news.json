@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T21:08:27.296Z",
+ "generated_at": "2026-11-11T21:36:02.545Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Modell Aure",
+   "source": "youtube: united restricting ai agents",
    "ok": true
   },
   {
-   "source": "tiktok: Modell Aure",
-   "ok": true
-  },
-  {
-   "source": "youtube: ki-stimmen emotionen deepl modell",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ki-stimmen emotionen deepl modell",
-   "ok": true
-  },
-  {
-   "source": "youtube: Anthropic’s IPO",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Anthropic’s IPO",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo 64.4b 1.4",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo 64.4b 1.4",
+   "source": "tiktok: united restricting ai agents",
    "ok": true
   }
  ],
@@ -597,6 +573,61 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T09:23:49.933Z"
+  },
+  {
+   "first_seen": "2026-11-11T21:36:02.545Z",
+   "id": "39764443",
+   "ids": [
+    "39764443",
+    "39764934"
+   ],
+   "title": "United is restricting AI agents from booking flights",
+   "url": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+   "source_id": "engadget",
+   "published_ts": "2026-11-11 20:09:44",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+    }
+   ],
+   "queries": [
+    "united restricting ai agents"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ESn91XspYdY",
+     "url": "https://www.youtube.com/watch?v=ESn91XspYdY",
+     "title": "United Airlines bans AI agents from buying tickets",
+     "channel": "ABC News",
+     "views": 841,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 841
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6ARh7HVxYDU",
+     "url": "https://www.youtube.com/watch?v=6ARh7HVxYDU",
+     "title": "United Just Banned AI Bots From Booking Flights #shorts",
+     "channel": "Big Aviation",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T21:36:06.772Z"
   },
   {
    "first_seen": "2026-11-09T22:50:05.120Z",
