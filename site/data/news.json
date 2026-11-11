@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T18:12:17.472Z",
+ "generated_at": "2026-11-11T19:49:38.331Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,47 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: 0.37.2 llm",
+   "ok": true
+  },
+  {
+   "source": "tiktok: 0.37.2 llm",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-11-11T19:49:38.331Z",
+   "id": "39762509",
+   "ids": [
+    "39762509",
+    "39761255"
+   ],
+   "title": "llm 0.37.2",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-11 17:19:52",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "37% on ARC-AGI 2 without an LLM",
+     "url": "https://mvakde.github.io/blog/looped-mdlarc/#vs-trm"
+    }
+   ],
+   "queries": [
+    "0.37.2 llm"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T19:49:42.238Z"
+  },
   {
    "first_seen": "2026-11-11T16:36:48.177Z",
    "id": "39758563",
@@ -23,7 +62,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-11 15:11:59",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "hn",
@@ -641,67 +680,6 @@
    "searched_at": "2026-11-10T17:36:17.216Z"
   },
   {
-   "first_seen": "2026-11-11T17:36:27.454Z",
-   "id": "39755841",
-   "ids": [
-    "39755841",
-    "39759615"
-   ],
-   "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
-   "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-11 13:49:03",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
-     "url": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/"
-    }
-   ],
-   "queries": [
-    "meta tiktok google indonesia"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T17:36:32.761Z"
-  },
-  {
-   "first_seen": "2026-11-11T14:11:55.934Z",
-   "id": "39755394",
-   "ids": [
-    "39755394",
-    "39750218"
-   ],
-   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-11 13:52:00",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Modell Aure",
-    "ki-stimmen emotionen deepl modell"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T14:12:03.652Z"
-  },
-  {
    "first_seen": "2026-11-10T20:11:07.923Z",
    "id": "39739132",
    "ids": [
@@ -805,6 +783,67 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T14:22:54.754Z"
+  },
+  {
+   "first_seen": "2026-11-11T17:36:27.454Z",
+   "id": "39755841",
+   "ids": [
+    "39755841",
+    "39759615"
+   ],
+   "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
+   "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-11 13:49:03",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
+     "url": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/"
+    }
+   ],
+   "queries": [
+    "meta tiktok google indonesia"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T17:36:32.761Z"
+  },
+  {
+   "first_seen": "2026-11-11T14:11:55.934Z",
+   "id": "39755394",
+   "ids": [
+    "39755394",
+    "39750218"
+   ],
+   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-11 13:52:00",
+   "story_sources": 2,
+   "score_norm": 63,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Modell Aure",
+    "ki-stimmen emotionen deepl modell"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T14:12:03.652Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
@@ -1671,144 +1710,6 @@
    "searched_at": "2026-11-10T15:21:13.334Z"
   },
   {
-   "first_seen": "2026-11-11T11:20:23.205Z",
-   "id": "39752321",
-   "ids": [
-    "39752321",
-    "39742367"
-   ],
-   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
-   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-11 09:18:15",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
-     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
-    }
-   ],
-   "queries": [
-    "mercor 750m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T17:20:57.400Z"
-  },
-  {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39733176",
-   "ids": [
-    "39733176",
-    "39739052",
-    "39748353",
-    "39749171",
-    "39728870",
-    "39750690"
-   ],
-   "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
-   "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-11 08:45:40",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Anthropic targets valuation of up to $1.4 trillion for blockbuster IPO",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-ipo-10958400/"
-    }
-   ],
-   "queries": [
-    "Anthropic’s IPO",
-    "anthropic ipo 64.4b 1.4"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1FurWDiK9A4",
-     "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
-     "title": "Did Anthropic just save its $1 trillion IPO?",
-     "channel": "Fireship",
-     "views": 1156994,
-     "age_hours": 20,
-     "relevance": 0.6,
-     "velocity": 57850
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BE7YjDfVRLE",
-     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
-     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
-     "channel": "",
-     "views": 492000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NCZZ1YVD4hY",
-     "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
-     "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
-     "channel": "Eli the Computer Guy",
-     "views": 87584,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 4610
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:py4lODPF_kE",
-     "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
-     "title": "Big Twist In Anthropic IPO",
-     "channel": "Solving The Money Problem",
-     "views": 34117,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 3412
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pPXM6wj1B4s",
-     "url": "https://www.youtube.com/watch?v=pPXM6wj1B4s",
-     "title": "Anthropic's DISASTER $1.4 Trillion IPO Just FINISHED The Ai Bubble",
-     "channel": "Stoic Finance",
-     "views": 50077,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 2177
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CPyXG57ouw4",
-     "url": "https://www.youtube.com/watch?v=CPyXG57ouw4",
-     "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
-     "channel": "Bloomberg Tech",
-     "views": 16173,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 851
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T14:22:47.442Z"
-  },
-  {
    "first_seen": "2026-11-10T02:35:38.760Z",
    "id": "39721308",
    "ids": [
@@ -1952,6 +1853,114 @@
    "searched_at": "2026-11-10T14:36:36.323Z"
   },
   {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39733176",
+   "ids": [
+    "39733176",
+    "39739052",
+    "39748353",
+    "39749171",
+    "39728870",
+    "39750690"
+   ],
+   "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
+   "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-11 08:45:40",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Anthropic targets valuation of up to $1.4 trillion for blockbuster IPO",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-ipo-10958400/"
+    }
+   ],
+   "queries": [
+    "Anthropic’s IPO",
+    "anthropic ipo 64.4b 1.4"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1FurWDiK9A4",
+     "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+     "title": "Did Anthropic just save its $1 trillion IPO?",
+     "channel": "Fireship",
+     "views": 1156994,
+     "age_hours": 20,
+     "relevance": 0.6,
+     "velocity": 57850
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BE7YjDfVRLE",
+     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
+     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
+     "channel": "",
+     "views": 492000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NCZZ1YVD4hY",
+     "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
+     "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
+     "channel": "Eli the Computer Guy",
+     "views": 87584,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 4610
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:py4lODPF_kE",
+     "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
+     "title": "Big Twist In Anthropic IPO",
+     "channel": "Solving The Money Problem",
+     "views": 34117,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 3412
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pPXM6wj1B4s",
+     "url": "https://www.youtube.com/watch?v=pPXM6wj1B4s",
+     "title": "Anthropic's DISASTER $1.4 Trillion IPO Just FINISHED The Ai Bubble",
+     "channel": "Stoic Finance",
+     "views": 50077,
+     "age_hours": 23,
+     "relevance": 0.5,
+     "velocity": 2177
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CPyXG57ouw4",
+     "url": "https://www.youtube.com/watch?v=CPyXG57ouw4",
+     "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
+     "channel": "Bloomberg Tech",
+     "views": 16173,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 851
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T14:22:47.442Z"
+  },
+  {
    "first_seen": "2026-11-10T14:36:28.292Z",
    "id": "39731384",
    "ids": [
@@ -2053,6 +2062,36 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T14:36:39.766Z"
+  },
+  {
+   "first_seen": "2026-11-11T11:20:23.205Z",
+   "id": "39752321",
+   "ids": [
+    "39752321",
+    "39742367"
+   ],
+   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
+   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-11 09:18:15",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
+     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
+    }
+   ],
+   "queries": [
+    "mercor 750m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T17:20:57.400Z"
   },
   {
    "first_seen": "2026-11-10T00:46:41.054Z",
