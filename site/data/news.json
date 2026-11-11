@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T10:11:52.447Z",
+ "generated_at": "2026-11-11T10:36:23.307Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,119 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Meetings",
+   "source": "youtube: mega 30 commits million",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Meetings",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic claude meetings launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic claude meetings launches",
+   "source": "tiktok: mega 30 commits million",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-10T18:12:30.265Z",
+   "id": "39734823",
+   "ids": [
+    "39734823",
+    "39736505"
+   ],
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source_id": "google-ai",
+   "published_ts": "2026-11-10 13:00:00",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Google Cloud launches Gemini for healthcare to take on hospital paperwork",
+     "url": "https://thenextweb.com/news/gemini-for-healthcare-google-cloud-ai-agent-launch"
+    }
+   ],
+   "queries": [
+    "Google Cloud",
+    "google cloud gemini launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XZVN4efOqY8",
+     "url": "https://www.youtube.com/watch?v=XZVN4efOqY8",
+     "title": "New Way Now: Bosch scales Agentic AI with Gemini on Google Cloud",
+     "channel": "Google Cloud",
+     "views": 423,
+     "age_hours": 10,
+     "relevance": 0.6,
+     "velocity": 42
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mSYEdwQxtZ4",
+     "url": "https://www.youtube.com/watch?v=mSYEdwQxtZ4",
+     "title": "Power Gemini AI Agents with Live Web Context | Firecrawl on Google Cloud",
+     "channel": "Google Cloud",
+     "views": 587,
+     "age_hours": 14,
+     "relevance": 0.6,
+     "velocity": 42
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rOXvd3BHPCg",
+     "url": "https://www.youtube.com/shorts/rOXvd3BHPCg",
+     "title": "Google Unveils Gemini 4 Carbon",
+     "channel": "",
+     "views": 69,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9CmaRl_Bb5s",
+     "url": "https://www.youtube.com/shorts/9CmaRl_Bb5s",
+     "title": "Google Launches Gemini 4 Carbon 🤯 AI Agents, Cybersecurity & Swarm Mode",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:J4vhWTUAzf8",
+     "url": "https://www.youtube.com/shorts/J4vhWTUAzf8",
+     "title": "Google Cloud this week: Gemini Omni Flash",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kSnLu0Hdp2M",
+     "url": "https://www.youtube.com/shorts/kSnLu0Hdp2M",
+     "title": "Google DeepMind launches Gemini Robotics 2.5 for industrial robots",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T06:40:43.147Z"
+  },
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
    "id": "39733176",
@@ -120,110 +216,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T08:15:05.848Z"
-  },
-  {
-   "first_seen": "2026-11-10T18:12:30.265Z",
-   "id": "39734823",
-   "ids": [
-    "39734823",
-    "39736505"
-   ],
-   "title": "Google Cloud launches Gemini for healthcare.",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-   "source_id": "google-ai",
-   "published_ts": "2026-11-10 13:00:00",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google Cloud launches Gemini for healthcare to take on hospital paperwork",
-     "url": "https://thenextweb.com/news/gemini-for-healthcare-google-cloud-ai-agent-launch"
-    }
-   ],
-   "queries": [
-    "Google Cloud",
-    "google cloud gemini launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XZVN4efOqY8",
-     "url": "https://www.youtube.com/watch?v=XZVN4efOqY8",
-     "title": "New Way Now: Bosch scales Agentic AI with Gemini on Google Cloud",
-     "channel": "Google Cloud",
-     "views": 423,
-     "age_hours": 10,
-     "relevance": 0.6,
-     "velocity": 42
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mSYEdwQxtZ4",
-     "url": "https://www.youtube.com/watch?v=mSYEdwQxtZ4",
-     "title": "Power Gemini AI Agents with Live Web Context | Firecrawl on Google Cloud",
-     "channel": "Google Cloud",
-     "views": 587,
-     "age_hours": 14,
-     "relevance": 0.6,
-     "velocity": 42
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rOXvd3BHPCg",
-     "url": "https://www.youtube.com/shorts/rOXvd3BHPCg",
-     "title": "Google Unveils Gemini 4 Carbon",
-     "channel": "",
-     "views": 69,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9CmaRl_Bb5s",
-     "url": "https://www.youtube.com/shorts/9CmaRl_Bb5s",
-     "title": "Google Launches Gemini 4 Carbon 🤯 AI Agents, Cybersecurity & Swarm Mode",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:J4vhWTUAzf8",
-     "url": "https://www.youtube.com/shorts/J4vhWTUAzf8",
-     "title": "Google Cloud this week: Gemini Omni Flash",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kSnLu0Hdp2M",
-     "url": "https://www.youtube.com/shorts/kSnLu0Hdp2M",
-     "title": "Google DeepMind launches Gemini Robotics 2.5 for industrial robots",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T06:40:43.147Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -372,6 +364,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-09T13:49:49.599Z"
+  },
+  {
+   "first_seen": "2026-11-11T03:49:40.566Z",
+   "id": "39746262",
+   "ids": [
+    "39746262",
+    "39733342"
+   ],
+   "title": "Adobe brings AI agents to Photoshop, Premiere, Firefly",
+   "url": "https://www.techinasia.com/news/adobe-brings-ai-agents-photoshop-premiere-firefly",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-11 02:44:55",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "techcrunch",
+     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    }
+   ],
+   "queries": [
+    "adobe photoshop premiere firefly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JmBIb-8vpyc",
+     "url": "https://www.youtube.com/watch?v=JmBIb-8vpyc",
+     "title": "Adobe MAX 2026: New Photoshop, Premiere & Firefly AI Features",
+     "channel": "KareemScope",
+     "views": 413,
+     "age_hours": 24,
+     "relevance": 0.71,
+     "velocity": 17
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fFkx9BK8NDw",
+     "url": "https://www.youtube.com/shorts/fFkx9BK8NDw",
+     "title": "Adobe MAX 2026 🔥 | New AI Tools, Photoshop, Premiere Pro & Future of Video Editing!",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I8rDYWmZsVQ",
+     "url": "https://www.youtube.com/shorts/I8rDYWmZsVQ",
+     "title": "Adobe Unleashes AI Agents in Photoshop, Premiere and Firefly, A Shock",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7rPfaUyK1zw",
+     "url": "https://www.youtube.com/shorts/7rPfaUyK1zw",
+     "title": "Premiere's AI Assistant now spends your Firefly credits",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:P1mhvFtMZIA",
+     "url": "https://www.youtube.com/shorts/P1mhvFtMZIA",
+     "title": "Adobe Just Let AI Agents Into Photoshop, Premiere Pro and After Effects.",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:B5TvlegfQUE",
+     "url": "https://www.youtube.com/shorts/B5TvlegfQUE",
+     "title": "Adobe Firefly Is Now a Full AI Creative Studio",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T09:49:54.024Z"
   },
   {
    "first_seen": "2026-11-10T21:10:13.784Z",
@@ -546,109 +641,6 @@
    "searched_at": "2026-11-09T06:48:40.784Z"
   },
   {
-   "first_seen": "2026-11-11T03:49:40.566Z",
-   "id": "39746262",
-   "ids": [
-    "39746262",
-    "39733342"
-   ],
-   "title": "Adobe brings AI agents to Photoshop, Premiere, Firefly",
-   "url": "https://www.techinasia.com/news/adobe-brings-ai-agents-photoshop-premiere-firefly",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-11 02:44:55",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "techcrunch",
-     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
-    }
-   ],
-   "queries": [
-    "adobe photoshop premiere firefly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JmBIb-8vpyc",
-     "url": "https://www.youtube.com/watch?v=JmBIb-8vpyc",
-     "title": "Adobe MAX 2026: New Photoshop, Premiere & Firefly AI Features",
-     "channel": "KareemScope",
-     "views": 413,
-     "age_hours": 24,
-     "relevance": 0.71,
-     "velocity": 17
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fFkx9BK8NDw",
-     "url": "https://www.youtube.com/shorts/fFkx9BK8NDw",
-     "title": "Adobe MAX 2026 🔥 | New AI Tools, Photoshop, Premiere Pro & Future of Video Editing!",
-     "channel": "",
-     "views": 35,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:I8rDYWmZsVQ",
-     "url": "https://www.youtube.com/shorts/I8rDYWmZsVQ",
-     "title": "Adobe Unleashes AI Agents in Photoshop, Premiere and Firefly, A Shock",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7rPfaUyK1zw",
-     "url": "https://www.youtube.com/shorts/7rPfaUyK1zw",
-     "title": "Premiere's AI Assistant now spends your Firefly credits",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:P1mhvFtMZIA",
-     "url": "https://www.youtube.com/shorts/P1mhvFtMZIA",
-     "title": "Adobe Just Let AI Agents Into Photoshop, Premiere Pro and After Effects.",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:B5TvlegfQUE",
-     "url": "https://www.youtube.com/shorts/B5TvlegfQUE",
-     "title": "Adobe Firefly Is Now a Full AI Creative Studio",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T09:49:54.024Z"
-  },
-  {
    "first_seen": "2026-11-09T22:50:05.120Z",
    "id": "39717917",
    "ids": [
@@ -765,7 +757,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-11 01:55:35",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "x-techcrunch",
@@ -1541,7 +1533,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-11T04:36:21.268Z"
+   "searched_at": "2026-11-11T10:36:27.388Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
