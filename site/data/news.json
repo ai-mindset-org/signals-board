@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:35:38.309Z",
+ "generated_at": "2026-11-11T00:29:40.884Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,125 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: mega 30 commits million",
+   "source": "youtube: Google Cloud",
    "ok": true
   },
   {
-   "source": "tiktok: mega 30 commits million",
+   "source": "tiktok: Google Cloud",
+   "ok": true
+  },
+  {
+   "source": "youtube: google cloud gemini launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google cloud gemini launches",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39739132",
-   "ids": [
-    "39739132",
-    "39737677",
-    "39733654"
-   ],
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "source_id": "gl-deepmind",
-   "published_ts": "2026-11-10 16:03:47",
-   "story_sources": 3,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "vercel-blog",
-     "title": "Gemini 4 Carbon now available on AI Gateway",
-     "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Carbon is now available",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
-    }
-   ],
-   "queries": [
-    "Gemini 4 Carbon",
-    "gemini carbon available"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l32KKNKdpIk",
-     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
-     "title": "Gemini 4 Carbon is Live!",
-     "channel": "Sam Witteveen",
-     "views": 27466,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 6867
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YTA_DsiYwAc",
-     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
-     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
-     "channel": "Paul J Lipsky",
-     "views": 22267,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 5567
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lQ6wwLHqDAg",
-     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
-     "title": "Gemini 4 Carbon: The Most Capable Model from Google",
-     "channel": "Prompt Engineering",
-     "views": 5529,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 1382
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:0Kw6_DTZPrY",
-     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
-     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
-     "channel": "@aiexplained-official",
-     "views": 142000,
-     "age_hours": 181.65466527777778,
-     "relevance": 0.67,
-     "velocity": 782
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tD2Zg43wyBU",
-     "url": "https://www.youtube.com/watch?v=tD2Zg43wyBU",
-     "title": "Google Gemini Krypton (Insane Pure-Code Animations vs Argon & Carbon)",
-     "channel": "Dom the AI Tutor",
-     "views": 6845,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 285
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:4onc5T6VHSM",
-     "url": "https://www.youtube.com/watch?v=4onc5T6VHSM",
-     "title": "Gemini 4 Carbon Never Asked Me a Single Question",
-     "channel": "codeSTACKr",
-     "views": 166,
-     "age_hours": 1,
-     "relevance": 0.67,
-     "velocity": 166
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-10T20:11:15.957Z"
-  },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
    "id": "39734823",
@@ -160,22 +58,22 @@
      "url": "https://www.youtube.com/watch?v=mSYEdwQxtZ4",
      "title": "Power Gemini AI Agents with Live Web Context | Firecrawl on Google Cloud",
      "channel": "Google Cloud",
-     "views": 77,
-     "age_hours": 2,
+     "views": 471,
+     "age_hours": 8,
      "relevance": 0.6,
-     "velocity": 39
+     "velocity": 59
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:bEW8n6t8Hno",
-     "url": "https://www.youtube.com/watch?v=bEW8n6t8Hno",
-     "title": "Build with Gemini | Tech Mahindra and Google Cloud",
-     "channel": "Tech Mahindra",
-     "views": 31,
-     "age_hours": 12,
+     "id": "youtube:XZVN4efOqY8",
+     "url": "https://www.youtube.com/watch?v=XZVN4efOqY8",
+     "title": "New Way Now: Bosch scales Agentic AI with Gemini on Google Cloud",
+     "channel": "Google Cloud",
+     "views": 212,
+     "age_hours": 4,
      "relevance": 0.6,
-     "velocity": 3
+     "velocity": 53
     },
     {
      "platform": "youtube",
@@ -184,7 +82,7 @@
      "url": "https://www.youtube.com/shorts/GgwAeG8oAkE",
      "title": "Gemini 4 Carbon leak: $4 price spotted in Google Cloud catalog",
      "channel": "",
-     "views": 4,
+     "views": 13,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -196,7 +94,31 @@
      "url": "https://www.youtube.com/shorts/J4vhWTUAzf8",
      "title": "Google Cloud this week: Gemini Omni Flash",
      "channel": "",
-     "views": 3,
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XhIYX1aR53U",
+     "url": "https://www.youtube.com/shorts/XhIYX1aR53U",
+     "title": "Google Cloud Introduces Gemini AI Solution for Healthcare",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cydtarmQi_8",
+     "url": "https://www.youtube.com/shorts/cydtarmQi_8",
+     "title": "Gemini 4 Carbon leak: Google Cloud catalog reveals price after Nov 30",
+     "channel": "",
+     "views": 1,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -206,7 +128,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T18:12:38.958Z"
+   "searched_at": "2026-11-11T00:29:48.918Z"
   },
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
@@ -220,7 +142,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-10 14:06:54",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "hn",
@@ -355,7 +277,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 19:31:37",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "hn",
@@ -478,6 +400,111 @@
    "searched_at": "2026-11-10T16:23:39.595Z"
   },
   {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39739132",
+   "ids": [
+    "39739132",
+    "39737677",
+    "39733654"
+   ],
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source_id": "gl-deepmind",
+   "published_ts": "2026-11-10 16:03:47",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "gemini carbon available"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l32KKNKdpIk",
+     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
+     "title": "Gemini 4 Carbon is Live!",
+     "channel": "Sam Witteveen",
+     "views": 27466,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 6867
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YTA_DsiYwAc",
+     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
+     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
+     "channel": "Paul J Lipsky",
+     "views": 22267,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 5567
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lQ6wwLHqDAg",
+     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
+     "title": "Gemini 4 Carbon: The Most Capable Model from Google",
+     "channel": "Prompt Engineering",
+     "views": 5529,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 1382
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:0Kw6_DTZPrY",
+     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+     "channel": "@aiexplained-official",
+     "views": 142000,
+     "age_hours": 181.65466527777778,
+     "relevance": 0.67,
+     "velocity": 782
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tD2Zg43wyBU",
+     "url": "https://www.youtube.com/watch?v=tD2Zg43wyBU",
+     "title": "Google Gemini Krypton (Insane Pure-Code Animations vs Argon & Carbon)",
+     "channel": "Dom the AI Tutor",
+     "views": 6845,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 285
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4onc5T6VHSM",
+     "url": "https://www.youtube.com/watch?v=4onc5T6VHSM",
+     "title": "Gemini 4 Carbon Never Asked Me a Single Question",
+     "channel": "codeSTACKr",
+     "views": 166,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 166
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-10T20:11:15.957Z"
+  },
+  {
    "first_seen": "2026-11-09T07:37:10.024Z",
    "id": "39702433",
    "ids": [
@@ -533,7 +560,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 18:24:53",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "eu-tnw",
