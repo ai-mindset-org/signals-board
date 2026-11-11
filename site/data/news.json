@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T14:49:38.801Z",
+ "generated_at": "2026-11-11T16:12:28.841Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Claude Meetings",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Claude Meetings",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude meetings launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude meetings launches",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-11T14:11:55.934Z",
@@ -21,7 +38,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-11-11 13:52:00",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 98,
    "related_news": [
     {
      "source_id": "eu-t3n",
@@ -145,36 +162,6 @@
    "searched_at": "2026-11-11T12:49:56.834Z"
   },
   {
-   "first_seen": "2026-11-11T11:20:23.205Z",
-   "id": "39752321",
-   "ids": [
-    "39752321",
-    "39742367"
-   ],
-   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
-   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-11 09:18:15",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
-     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
-    }
-   ],
-   "queries": [
-    "mercor 750m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T11:20:27.286Z"
-  },
-  {
    "first_seen": "2026-11-10T20:11:07.923Z",
    "id": "39733176",
    "ids": [
@@ -281,6 +268,36 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T14:22:47.442Z"
+  },
+  {
+   "first_seen": "2026-11-11T11:20:23.205Z",
+   "id": "39752321",
+   "ids": [
+    "39752321",
+    "39742367"
+   ],
+   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
+   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-11 09:18:15",
+   "story_sources": 2,
+   "score_norm": 80,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
+     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
+    }
+   ],
+   "queries": [
+    "mercor 750m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T11:20:27.286Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -664,25 +681,25 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:41YU2hew7l4",
-     "url": "https://www.youtube.com/shorts/41YU2hew7l4",
-     "title": "Anthropic Launches Claude 5.2 Before Trillion-Dollar IPO #Shorts",
-     "channel": "",
-     "views": 282,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
      "kind": "видео",
      "id": "youtube:0sBKbJkvEeU",
      "url": "https://www.youtube.com/watch?v=0sBKbJkvEeU",
      "title": "Claude Now Joins Your Meetings… Should You Let It? #Claude #Anthropic #AI",
      "channel": "硅谷工具箱",
-     "views": 25,
-     "age_hours": 7,
+     "views": 55,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:EsizQhWzpxw",
+     "url": "https://www.youtube.com/watch?v=EsizQhWzpxw",
+     "title": "Anthropic Just Launched Claude Sheets, Meetings, and Whiteboards — The AI Office Suite Is Here",
+     "channel": "AI News",
+     "views": 61,
+     "age_hours": 16,
      "relevance": 0.5,
      "velocity": 4
     },
@@ -693,7 +710,31 @@
      "url": "https://www.youtube.com/shorts/8hm_Ud3_AeA",
      "title": "Anthropic Unveils Office Tools, but Claude Meetings Availability Is Unclear",
      "channel": "",
-     "views": 80,
+     "views": 110,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jAZaCUSOQ5Q",
+     "url": "https://www.youtube.com/watch?v=jAZaCUSOQ5Q",
+     "title": "Claude Launches Meetings, Whiteboards, Sheets; Google Gemini 4 Carbon GA | Daily Tech Brief",
+     "channel": "Sys Articles",
+     "views": 33,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xTNBGGVFTXg",
+     "url": "https://www.youtube.com/shorts/xTNBGGVFTXg",
+     "title": "Claude Meetings: Anthropic's New AI Joins Google Meet as a Coworker",
+     "channel": "",
+     "views": 105,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -705,31 +746,7 @@
      "url": "https://www.youtube.com/shorts/9QA2tJYUiY4",
      "title": "Claude Meetings: Anthropic's AI now joins your video calls",
      "channel": "",
-     "views": 62,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xTNBGGVFTXg",
-     "url": "https://www.youtube.com/shorts/xTNBGGVFTXg",
-     "title": "Claude Meetings: Anthropic's New AI Joins Google Meet as a Coworker",
-     "channel": "",
-     "views": 57,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bAQhS3zn830",
-     "url": "https://www.youtube.com/shorts/bAQhS3zn830",
-     "title": "Anthropic Puts Claude Inside Your Meetings #AI #AINews",
-     "channel": "",
-     "views": 44,
+     "views": 75,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -739,7 +756,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-11T10:12:00.231Z"
+   "searched_at": "2026-11-11T16:12:36.657Z"
   },
   {
    "first_seen": "2026-11-09T22:50:05.120Z",
