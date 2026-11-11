@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:10:30.748Z",
+ "generated_at": "2026-11-11T17:20:53.261Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: mercor 750m raises expand",
+   "ok": true
+  },
+  {
+   "source": "tiktok: mercor 750m raises expand",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-11T16:36:48.177Z",
@@ -1963,7 +1972,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-11T11:20:27.286Z"
+   "searched_at": "2026-11-11T17:20:57.400Z"
   },
   {
    "first_seen": "2026-11-10T14:36:28.292Z",
