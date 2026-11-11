@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T11:36:05.817Z",
+ "generated_at": "2026-11-11T12:49:48.967Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai chatgpt us lets",
+   "source": "youtube: Google Cloud",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt us lets",
+   "source": "tiktok: Google Cloud",
+   "ok": true
+  },
+  {
+   "source": "youtube: google cloud gemini launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google cloud gemini launches",
    "ok": true
   }
  ],
@@ -30,7 +38,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -50,10 +58,10 @@
      "url": "https://www.youtube.com/watch?v=XZVN4efOqY8",
      "title": "New Way Now: Bosch scales Agentic AI with Gemini on Google Cloud",
      "channel": "Google Cloud",
-     "views": 423,
-     "age_hours": 10,
+     "views": 604,
+     "age_hours": 16,
      "relevance": 0.6,
-     "velocity": 42
+     "velocity": 38
     },
     {
      "platform": "youtube",
@@ -62,10 +70,22 @@
      "url": "https://www.youtube.com/watch?v=mSYEdwQxtZ4",
      "title": "Power Gemini AI Agents with Live Web Context | Firecrawl on Google Cloud",
      "channel": "Google Cloud",
-     "views": 587,
-     "age_hours": 14,
+     "views": 646,
+     "age_hours": 20,
      "relevance": 0.6,
-     "velocity": 42
+     "velocity": 32
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7vND1J2vjO4",
+     "url": "https://www.youtube.com/shorts/7vND1J2vjO4",
+     "title": "Google Just Unleashed Gemini 4 Carbon 🔥",
+     "channel": "",
+     "views": 420,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -74,7 +94,7 @@
      "url": "https://www.youtube.com/shorts/rOXvd3BHPCg",
      "title": "Google Unveils Gemini 4 Carbon",
      "channel": "",
-     "views": 69,
+     "views": 81,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -86,7 +106,7 @@
      "url": "https://www.youtube.com/shorts/9CmaRl_Bb5s",
      "title": "Google Launches Gemini 4 Carbon 🤯 AI Agents, Cybersecurity & Swarm Mode",
      "channel": "",
-     "views": 22,
+     "views": 59,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -94,23 +114,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:J4vhWTUAzf8",
-     "url": "https://www.youtube.com/shorts/J4vhWTUAzf8",
-     "title": "Google Cloud this week: Gemini Omni Flash",
+     "id": "youtube:hfynGxZPLcI",
+     "url": "https://www.youtube.com/shorts/hfynGxZPLcI",
+     "title": "Google's Gemini 4 Carbon Launches at 1/4 the Price of Claude's Top Model",
      "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kSnLu0Hdp2M",
-     "url": "https://www.youtube.com/shorts/kSnLu0Hdp2M",
-     "title": "Google DeepMind launches Gemini Robotics 2.5 for industrial robots",
-     "channel": "",
-     "views": 3,
+     "views": 32,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -120,37 +128,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-11T06:40:43.147Z"
-  },
-  {
-   "first_seen": "2026-11-11T11:20:23.205Z",
-   "id": "39752321",
-   "ids": [
-    "39752321",
-    "39742367"
-   ],
-   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
-   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-11 09:18:15",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
-     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
-    }
-   ],
-   "queries": [
-    "mercor 750m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T11:20:27.286Z"
+   "searched_at": "2026-11-11T12:49:56.834Z"
   },
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
@@ -246,6 +224,36 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T08:15:05.848Z"
+  },
+  {
+   "first_seen": "2026-11-11T11:20:23.205Z",
+   "id": "39752321",
+   "ids": [
+    "39752321",
+    "39742367"
+   ],
+   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
+   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-11 09:18:15",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
+     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
+    }
+   ],
+   "queries": [
+    "mercor 750m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T11:20:27.286Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -407,7 +415,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-10 14:05:10",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -1430,6 +1438,36 @@
    "searched_at": "2026-11-11T08:15:16.712Z"
   },
   {
+   "first_seen": "2026-11-10T16:23:28.147Z",
+   "id": "39733820",
+   "ids": [
+    "39733820",
+    "39733880"
+   ],
+   "title": "MEGA commits $30 million to new products, starting with AI inference",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-11-10 15:56:02",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
+     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
+    }
+   ],
+   "queries": [
+    "mega 30 commits million"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T10:36:27.388Z"
+  },
+  {
    "first_seen": "2026-11-10T10:12:00.650Z",
    "id": "39726235",
    "ids": [
@@ -1637,36 +1675,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T16:23:46.921Z"
-  },
-  {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
-   "ids": [
-    "39733820",
-    "39733880"
-   ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
-    }
-   ],
-   "queries": [
-    "mega 30 commits million"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T10:36:27.388Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
