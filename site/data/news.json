@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T11:20:23.205Z",
+ "generated_at": "2026-11-11T11:36:05.817Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: mercor 750m raises expand",
+   "source": "youtube: openai chatgpt us lets",
    "ok": true
   },
   {
-   "source": "tiktok: mercor 750m raises expand",
+   "source": "tiktok: openai chatgpt us lets",
    "ok": true
   }
  ],
@@ -30,7 +30,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -880,6 +880,109 @@
    "searched_at": "2026-11-11T10:12:00.231Z"
   },
   {
+   "first_seen": "2026-11-11T11:36:05.817Z",
+   "id": "39748310",
+   "ids": [
+    "39748310",
+    "39752604"
+   ],
+   "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
+   "url": "https://www.thehindubusinessline.com/info-tech/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms/article71688454.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-11 05:48:39",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms-10958389/"
+    }
+   ],
+   "queries": [
+    "openai chatgpt us lets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Ljg0yKACWjA",
+     "url": "https://www.youtube.com/watch?v=Ljg0yKACWjA",
+     "title": "ChatGPT Now Has Business Profiles: Here’s How to Claim Yours",
+     "channel": "proflead",
+     "views": 50,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 50
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XjqQ2nbOQbE",
+     "url": "https://www.youtube.com/shorts/XjqQ2nbOQbE",
+     "title": "OpenAI Built ChatGPT by Accident",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CSVo7XBx784",
+     "url": "https://www.youtube.com/shorts/CSVo7XBx784",
+     "title": "OpenAI Business Agents in ChatGPT: What the US Beta Actually Allows",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ea3PNnGlPgA",
+     "url": "https://www.youtube.com/shorts/Ea3PNnGlPgA",
+     "title": "OpenAI Lets Brands Claim a Verified ChatGPT Profile",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Hxx2k6056r4",
+     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
+     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cvG77fBrgtM",
+     "url": "https://www.youtube.com/shorts/cvG77fBrgtM",
+     "title": "OpenAI Just Opened ChatGPT to Businesses 🛒",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T11:36:10.042Z"
+  },
+  {
    "first_seen": "2026-11-10T11:36:09.397Z",
    "id": "39727734",
    "ids": [
@@ -976,6 +1079,111 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-10T11:21:20.197Z"
+  },
+  {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39739132",
+   "ids": [
+    "39739132",
+    "39737677",
+    "39733654"
+   ],
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source_id": "gl-deepmind",
+   "published_ts": "2026-11-10 16:03:47",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "gemini carbon available"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:583ThJIqQ7k",
+     "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+     "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+     "channel": "AI Explained",
+     "views": 58685,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 6521
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0GSvcg9wncc",
+     "url": "https://www.youtube.com/watch?v=0GSvcg9wncc",
+     "title": "Gemini 4 Carbon Is INSANE – Seriously, This Model Is Ridiculous!",
+     "channel": "Bijan Bowen",
+     "views": 49590,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 6199
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YTA_DsiYwAc",
+     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
+     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
+     "channel": "Paul J Lipsky",
+     "views": 95899,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 5994
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l32KKNKdpIk",
+     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
+     "title": "Gemini 4 Carbon is Live!",
+     "channel": "Sam Witteveen",
+     "views": 56478,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 3530
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lQ6wwLHqDAg",
+     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
+     "title": "Gemini 4 Carbon Is Finally Here, And It's a Beast!",
+     "channel": "Prompt Engineering",
+     "views": 30197,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 1887
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:0Kw6_DTZPrY",
+     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+     "channel": "@aiexplained-official",
+     "views": 142000,
+     "age_hours": 193.72054583333335,
+     "relevance": 0.67,
+     "velocity": 733
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T08:15:13.127Z"
   },
   {
    "first_seen": "2026-11-10T18:49:16.614Z",
@@ -1192,109 +1400,34 @@
    "searched_at": "2026-11-09T17:50:05.278Z"
   },
   {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39739132",
+   "first_seen": "2026-11-10T19:49:29.894Z",
+   "id": "39738826",
    "ids": [
-    "39739132",
-    "39737677",
-    "39733654"
+    "39738826",
+    "39737100"
    ],
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "source_id": "gl-deepmind",
-   "published_ts": "2026-11-10 16:03:47",
+   "title": "How AI agents work",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 19:31:37",
    "story_sources": 2,
    "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Gemini 4 Carbon is now available",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+     "title": "AI and the Art of Work",
+     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
     }
    ],
    "queries": [
-    "Gemini 4 Carbon",
-    "gemini carbon available"
+    "ai agents work"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:583ThJIqQ7k",
-     "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
-     "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
-     "channel": "AI Explained",
-     "views": 58685,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 6521
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0GSvcg9wncc",
-     "url": "https://www.youtube.com/watch?v=0GSvcg9wncc",
-     "title": "Gemini 4 Carbon Is INSANE – Seriously, This Model Is Ridiculous!",
-     "channel": "Bijan Bowen",
-     "views": 49590,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 6199
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YTA_DsiYwAc",
-     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
-     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
-     "channel": "Paul J Lipsky",
-     "views": 95899,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 5994
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l32KKNKdpIk",
-     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
-     "title": "Gemini 4 Carbon is Live!",
-     "channel": "Sam Witteveen",
-     "views": 56478,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 3530
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lQ6wwLHqDAg",
-     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
-     "title": "Gemini 4 Carbon Is Finally Here, And It's a Beast!",
-     "channel": "Prompt Engineering",
-     "views": 30197,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 1887
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:0Kw6_DTZPrY",
-     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
-     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
-     "channel": "@aiexplained-official",
-     "views": 142000,
-     "age_hours": 193.72054583333335,
-     "relevance": 0.67,
-     "velocity": 733
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-11T08:15:13.127Z"
+   "searched_at": "2026-11-11T08:15:16.712Z"
   },
   {
    "first_seen": "2026-11-10T10:12:00.650Z",
@@ -1504,36 +1637,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T16:23:46.921Z"
-  },
-  {
-   "first_seen": "2026-11-10T19:49:29.894Z",
-   "id": "39738826",
-   "ids": [
-    "39738826",
-    "39737100"
-   ],
-   "title": "How AI agents work",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 19:31:37",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI and the Art of Work",
-     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
-    }
-   ],
-   "queries": [
-    "ai agents work"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T08:15:16.712Z"
   },
   {
    "first_seen": "2026-11-10T16:23:28.147Z",
