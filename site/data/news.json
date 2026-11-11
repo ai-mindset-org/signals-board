@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T14:22:39.621Z",
+ "generated_at": "2026-11-11T14:49:38.801Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,48 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Anthropic’s IPO",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Anthropic’s IPO",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo 64.4b 1.4",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo 64.4b 1.4",
-   "ok": true
-  },
-  {
-   "source": "youtube: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini carbon available",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini carbon available",
-   "ok": true
-  },
-  {
-   "source": "youtube: ai agents work",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ai agents work",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-11T14:11:55.934Z",
@@ -679,74 +638,6 @@
    "searched_at": "2026-11-11T09:23:49.933Z"
   },
   {
-   "first_seen": "2026-11-09T00:32:30.093Z",
-   "id": "39691636",
-   "ids": [
-    "39691636",
-    "39698035"
-   ],
-   "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-08 14:45:22",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
-     "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii"
-    }
-   ],
-   "queries": [
-    "RTX 5060 Ti 16GB",
-    "users rtx 5060 ti"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Jxcu3JWBcbc",
-     "url": "https://www.youtube.com/shorts/Jxcu3JWBcbc",
-     "title": "RTX 5060 + Core i5-14400F",
-     "channel": "",
-     "views": 21000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2KW_W-vImVU",
-     "url": "https://www.youtube.com/shorts/2KW_W-vImVU",
-     "title": "RTX 3080 10GB vs RTX 5060 Ti 16GB at 1440p",
-     "channel": "",
-     "views": 11000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:20xONWZCw9M",
-     "url": "https://www.youtube.com/watch?v=20xONWZCw9M",
-     "title": "RTX 5060 Ti 16GB: One Year Later",
-     "channel": "AFK Capital",
-     "views": 52,
-     "age_hours": 16,
-     "relevance": 0.57,
-     "velocity": 3
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-09T06:48:40.784Z"
-  },
-  {
    "first_seen": "2026-11-11T03:49:40.566Z",
    "id": "39746267",
    "ids": [
@@ -1071,7 +962,7 @@
    "source_id": "gl-deepmind",
    "published_ts": "2026-11-10 16:03:47",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "hn",
