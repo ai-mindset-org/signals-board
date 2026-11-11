@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:12:28.841Z",
+ "generated_at": "2026-11-11T16:36:48.177Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,53 +9,132 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Meetings",
+   "source": "youtube: Anthropic's IPO",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Meetings",
+   "source": "tiktok: Anthropic's IPO",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude meetings launches",
+   "source": "youtube: anthropic ipo roadshow video",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude meetings launches",
+   "source": "tiktok: anthropic ipo roadshow video",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-11T14:11:55.934Z",
-   "id": "39755394",
+   "first_seen": "2026-11-11T16:36:48.177Z",
+   "id": "39758563",
    "ids": [
-    "39755394",
-    "39750218"
+    "39758563",
+    "39743034",
+    "39735111"
    ],
-   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-11 13:52:00",
+   "title": "Anthropic's IPO roadshow video",
+   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-11 15:11:59",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 100,
    "related_news": [
     {
-     "source_id": "eu-t3n",
-     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+     "source_id": "hn",
+     "title": "Anthropic Roadshow",
+     "url": "https://www.netroadshow.com/custom/IPO/Anthropic/retail/roadshow.html"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic IPO Roadshow",
+     "url": "https://www.netroadshow.com/custom/IPO/Anthropic/retail/agenda.html"
     }
    ],
    "queries": [
-    "Modell Aure",
-    "ki-stimmen emotionen deepl modell"
+    "Anthropic's IPO",
+    "anthropic ipo roadshow video"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1FurWDiK9A4",
+     "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+     "title": "Did Anthropic just save its $1 trillion IPO?",
+     "channel": "Fireship",
+     "views": 1187909,
+     "age_hours": 22,
+     "relevance": 0.5,
+     "velocity": 53996
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BE7YjDfVRLE",
+     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
+     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
+     "channel": "",
+     "views": 503000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NCZZ1YVD4hY",
+     "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
+     "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
+     "channel": "Eli the Computer Guy",
+     "views": 89252,
+     "age_hours": 21,
+     "relevance": 0.5,
+     "velocity": 4250
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:py4lODPF_kE",
+     "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
+     "title": "Big Twist In Anthropic IPO",
+     "channel": "Solving The Money Problem",
+     "views": 38901,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 3242
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3hJscphUBAI",
+     "url": "https://www.youtube.com/watch?v=3hJscphUBAI",
+     "title": "Anthropic IPO Said to Be Multiple Times Oversubscribed",
+     "channel": "Bloomberg Television",
+     "views": 2161,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 2161
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pPXM6wj1B4s",
+     "url": "https://www.youtube.com/watch?v=pPXM6wj1B4s",
+     "title": "Anthropic's DISASTER $1.4 Trillion IPO Just FINISHED The Ai Bubble",
+     "channel": "Stoic Finance",
+     "views": 50660,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 2111
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-11T14:12:03.652Z"
+   "searched_at": "2026-11-11T16:36:56.497Z"
   },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
@@ -160,144 +239,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T12:49:56.834Z"
-  },
-  {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39733176",
-   "ids": [
-    "39733176",
-    "39739052",
-    "39748353",
-    "39749171",
-    "39728870",
-    "39750690"
-   ],
-   "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
-   "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-11 08:45:40",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Anthropic targets valuation of up to $1.4 trillion for blockbuster IPO",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-ipo-10958400/"
-    }
-   ],
-   "queries": [
-    "Anthropic’s IPO",
-    "anthropic ipo 64.4b 1.4"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1FurWDiK9A4",
-     "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
-     "title": "Did Anthropic just save its $1 trillion IPO?",
-     "channel": "Fireship",
-     "views": 1156994,
-     "age_hours": 20,
-     "relevance": 0.6,
-     "velocity": 57850
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BE7YjDfVRLE",
-     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
-     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
-     "channel": "",
-     "views": 492000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NCZZ1YVD4hY",
-     "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
-     "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
-     "channel": "Eli the Computer Guy",
-     "views": 87584,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 4610
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:py4lODPF_kE",
-     "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
-     "title": "Big Twist In Anthropic IPO",
-     "channel": "Solving The Money Problem",
-     "views": 34117,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 3412
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pPXM6wj1B4s",
-     "url": "https://www.youtube.com/watch?v=pPXM6wj1B4s",
-     "title": "Anthropic's DISASTER $1.4 Trillion IPO Just FINISHED The Ai Bubble",
-     "channel": "Stoic Finance",
-     "views": 50077,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 2177
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CPyXG57ouw4",
-     "url": "https://www.youtube.com/watch?v=CPyXG57ouw4",
-     "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
-     "channel": "Bloomberg Tech",
-     "views": 16173,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 851
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T14:22:47.442Z"
-  },
-  {
-   "first_seen": "2026-11-11T11:20:23.205Z",
-   "id": "39752321",
-   "ids": [
-    "39752321",
-    "39742367"
-   ],
-   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
-   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-11 09:18:15",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
-     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
-    }
-   ],
-   "queries": [
-    "mercor 750m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T11:20:27.286Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -655,110 +596,6 @@
    "searched_at": "2026-11-11T09:23:49.933Z"
   },
   {
-   "first_seen": "2026-11-11T03:49:40.566Z",
-   "id": "39746267",
-   "ids": [
-    "39746267",
-    "39737613"
-   ],
-   "title": "Anthropic launches Claude Meetings for workplace tasks",
-   "url": "https://www.techinasia.com/news/anthropic-launches-claude-meetings-workplace-tasks",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-11 01:55:35",
-   "story_sources": 2,
-   "score_norm": 71,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-    }
-   ],
-   "queries": [
-    "Claude Meetings",
-    "anthropic claude meetings launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0sBKbJkvEeU",
-     "url": "https://www.youtube.com/watch?v=0sBKbJkvEeU",
-     "title": "Claude Now Joins Your Meetings… Should You Let It? #Claude #Anthropic #AI",
-     "channel": "硅谷工具箱",
-     "views": 55,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:EsizQhWzpxw",
-     "url": "https://www.youtube.com/watch?v=EsizQhWzpxw",
-     "title": "Anthropic Just Launched Claude Sheets, Meetings, and Whiteboards — The AI Office Suite Is Here",
-     "channel": "AI News",
-     "views": 61,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8hm_Ud3_AeA",
-     "url": "https://www.youtube.com/shorts/8hm_Ud3_AeA",
-     "title": "Anthropic Unveils Office Tools, but Claude Meetings Availability Is Unclear",
-     "channel": "",
-     "views": 110,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jAZaCUSOQ5Q",
-     "url": "https://www.youtube.com/watch?v=jAZaCUSOQ5Q",
-     "title": "Claude Launches Meetings, Whiteboards, Sheets; Google Gemini 4 Carbon GA | Daily Tech Brief",
-     "channel": "Sys Articles",
-     "views": 33,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xTNBGGVFTXg",
-     "url": "https://www.youtube.com/shorts/xTNBGGVFTXg",
-     "title": "Claude Meetings: Anthropic's New AI Joins Google Meet as a Coworker",
-     "channel": "",
-     "views": 105,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9QA2tJYUiY4",
-     "url": "https://www.youtube.com/shorts/9QA2tJYUiY4",
-     "title": "Claude Meetings: Anthropic's AI now joins your video calls",
-     "channel": "",
-     "views": 75,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T16:12:36.657Z"
-  },
-  {
    "first_seen": "2026-11-09T22:50:05.120Z",
    "id": "39717917",
    "ids": [
@@ -864,107 +701,35 @@
    "searched_at": "2026-11-10T17:36:17.216Z"
   },
   {
-   "first_seen": "2026-11-11T11:36:05.817Z",
-   "id": "39748310",
+   "first_seen": "2026-11-11T14:11:55.934Z",
+   "id": "39755394",
    "ids": [
-    "39748310",
-    "39752604"
+    "39755394",
+    "39750218"
    ],
-   "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-   "url": "https://www.thehindubusinessline.com/info-tech/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms/article71688454.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-11 05:48:39",
+   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-11 13:52:00",
    "story_sources": 2,
    "score_norm": 67,
    "related_news": [
     {
-     "source_id": "in-express-tech",
-     "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms-10958389/"
+     "source_id": "eu-t3n",
+     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
     }
    ],
    "queries": [
-    "openai chatgpt us lets"
+    "Modell Aure",
+    "ki-stimmen emotionen deepl modell"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Ljg0yKACWjA",
-     "url": "https://www.youtube.com/watch?v=Ljg0yKACWjA",
-     "title": "ChatGPT Now Has Business Profiles: Here’s How to Claim Yours",
-     "channel": "proflead",
-     "views": 50,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 50
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XjqQ2nbOQbE",
-     "url": "https://www.youtube.com/shorts/XjqQ2nbOQbE",
-     "title": "OpenAI Built ChatGPT by Accident",
-     "channel": "",
-     "views": 35,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CSVo7XBx784",
-     "url": "https://www.youtube.com/shorts/CSVo7XBx784",
-     "title": "OpenAI Business Agents in ChatGPT: What the US Beta Actually Allows",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ea3PNnGlPgA",
-     "url": "https://www.youtube.com/shorts/Ea3PNnGlPgA",
-     "title": "OpenAI Lets Brands Claim a Verified ChatGPT Profile",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Hxx2k6056r4",
-     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
-     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cvG77fBrgtM",
-     "url": "https://www.youtube.com/shorts/cvG77fBrgtM",
-     "title": "OpenAI Just Opened ChatGPT to Businesses 🛒",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-11T11:36:10.042Z"
+   "searched_at": "2026-11-11T14:12:03.652Z"
   },
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
@@ -1936,6 +1701,114 @@
    "searched_at": "2026-11-10T15:21:13.334Z"
   },
   {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39733176",
+   "ids": [
+    "39733176",
+    "39739052",
+    "39748353",
+    "39749171",
+    "39728870",
+    "39750690"
+   ],
+   "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
+   "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-11 08:45:40",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Anthropic targets valuation of up to $1.4 trillion for blockbuster IPO",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-ipo-10958400/"
+    }
+   ],
+   "queries": [
+    "Anthropic’s IPO",
+    "anthropic ipo 64.4b 1.4"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1FurWDiK9A4",
+     "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+     "title": "Did Anthropic just save its $1 trillion IPO?",
+     "channel": "Fireship",
+     "views": 1156994,
+     "age_hours": 20,
+     "relevance": 0.6,
+     "velocity": 57850
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BE7YjDfVRLE",
+     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
+     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
+     "channel": "",
+     "views": 492000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NCZZ1YVD4hY",
+     "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
+     "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
+     "channel": "Eli the Computer Guy",
+     "views": 87584,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 4610
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:py4lODPF_kE",
+     "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
+     "title": "Big Twist In Anthropic IPO",
+     "channel": "Solving The Money Problem",
+     "views": 34117,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 3412
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pPXM6wj1B4s",
+     "url": "https://www.youtube.com/watch?v=pPXM6wj1B4s",
+     "title": "Anthropic's DISASTER $1.4 Trillion IPO Just FINISHED The Ai Bubble",
+     "channel": "Stoic Finance",
+     "views": 50077,
+     "age_hours": 23,
+     "relevance": 0.5,
+     "velocity": 2177
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CPyXG57ouw4",
+     "url": "https://www.youtube.com/watch?v=CPyXG57ouw4",
+     "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
+     "channel": "Bloomberg Tech",
+     "views": 16173,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 851
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T14:22:47.442Z"
+  },
+  {
    "first_seen": "2026-11-10T02:35:38.760Z",
    "id": "39721308",
    "ids": [
@@ -2079,6 +1952,36 @@
    "searched_at": "2026-11-10T14:36:36.323Z"
   },
   {
+   "first_seen": "2026-11-11T11:20:23.205Z",
+   "id": "39752321",
+   "ids": [
+    "39752321",
+    "39742367"
+   ],
+   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
+   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-11 09:18:15",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
+     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
+    }
+   ],
+   "queries": [
+    "mercor 750m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T11:20:27.286Z"
+  },
+  {
    "first_seen": "2026-11-10T14:36:28.292Z",
    "id": "39731384",
    "ids": [
@@ -2212,6 +2115,110 @@
    "searched_at": "2026-11-10T06:50:21.796Z"
   },
   {
+   "first_seen": "2026-11-11T03:49:40.566Z",
+   "id": "39746267",
+   "ids": [
+    "39746267",
+    "39737613"
+   ],
+   "title": "Anthropic launches Claude Meetings for workplace tasks",
+   "url": "https://www.techinasia.com/news/anthropic-launches-claude-meetings-workplace-tasks",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-11 01:55:35",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    }
+   ],
+   "queries": [
+    "Claude Meetings",
+    "anthropic claude meetings launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0sBKbJkvEeU",
+     "url": "https://www.youtube.com/watch?v=0sBKbJkvEeU",
+     "title": "Claude Now Joins Your Meetings… Should You Let It? #Claude #Anthropic #AI",
+     "channel": "硅谷工具箱",
+     "views": 55,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:EsizQhWzpxw",
+     "url": "https://www.youtube.com/watch?v=EsizQhWzpxw",
+     "title": "Anthropic Just Launched Claude Sheets, Meetings, and Whiteboards — The AI Office Suite Is Here",
+     "channel": "AI News",
+     "views": 61,
+     "age_hours": 16,
+     "relevance": 0.5,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8hm_Ud3_AeA",
+     "url": "https://www.youtube.com/shorts/8hm_Ud3_AeA",
+     "title": "Anthropic Unveils Office Tools, but Claude Meetings Availability Is Unclear",
+     "channel": "",
+     "views": 110,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jAZaCUSOQ5Q",
+     "url": "https://www.youtube.com/watch?v=jAZaCUSOQ5Q",
+     "title": "Claude Launches Meetings, Whiteboards, Sheets; Google Gemini 4 Carbon GA | Daily Tech Brief",
+     "channel": "Sys Articles",
+     "views": 33,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xTNBGGVFTXg",
+     "url": "https://www.youtube.com/shorts/xTNBGGVFTXg",
+     "title": "Claude Meetings: Anthropic's New AI Joins Google Meet as a Coworker",
+     "channel": "",
+     "views": 105,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9QA2tJYUiY4",
+     "url": "https://www.youtube.com/shorts/9QA2tJYUiY4",
+     "title": "Claude Meetings: Anthropic's AI now joins your video calls",
+     "channel": "",
+     "views": 75,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T16:12:36.657Z"
+  },
+  {
    "first_seen": "2026-11-09T21:10:03.334Z",
    "id": "39716552",
    "ids": [
@@ -2266,6 +2273,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T09:24:26.577Z"
+  },
+  {
+   "first_seen": "2026-11-11T11:36:05.817Z",
+   "id": "39748310",
+   "ids": [
+    "39748310",
+    "39752604"
+   ],
+   "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
+   "url": "https://www.thehindubusinessline.com/info-tech/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms/article71688454.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-11 05:48:39",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms-10958389/"
+    }
+   ],
+   "queries": [
+    "openai chatgpt us lets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Ljg0yKACWjA",
+     "url": "https://www.youtube.com/watch?v=Ljg0yKACWjA",
+     "title": "ChatGPT Now Has Business Profiles: Here’s How to Claim Yours",
+     "channel": "proflead",
+     "views": 50,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 50
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XjqQ2nbOQbE",
+     "url": "https://www.youtube.com/shorts/XjqQ2nbOQbE",
+     "title": "OpenAI Built ChatGPT by Accident",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CSVo7XBx784",
+     "url": "https://www.youtube.com/shorts/CSVo7XBx784",
+     "title": "OpenAI Business Agents in ChatGPT: What the US Beta Actually Allows",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ea3PNnGlPgA",
+     "url": "https://www.youtube.com/shorts/Ea3PNnGlPgA",
+     "title": "OpenAI Lets Brands Claim a Verified ChatGPT Profile",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Hxx2k6056r4",
+     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
+     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cvG77fBrgtM",
+     "url": "https://www.youtube.com/shorts/cvG77fBrgtM",
+     "title": "OpenAI Just Opened ChatGPT to Businesses 🛒",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T11:36:10.042Z"
   }
  ]
 }
