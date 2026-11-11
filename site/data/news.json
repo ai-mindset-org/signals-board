@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T09:49:49.908Z",
+ "generated_at": "2026-11-11T10:11:52.447Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: adobe photoshop premiere firefly",
+   "source": "youtube: Claude Meetings",
    "ok": true
   },
   {
-   "source": "tiktok: adobe photoshop premiere firefly",
+   "source": "tiktok: Claude Meetings",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude meetings launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude meetings launches",
    "ok": true
   }
  ],
@@ -34,7 +42,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-11 08:45:40",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -773,23 +781,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:m4x-u6NaHO8",
-     "url": "https://www.youtube.com/shorts/m4x-u6NaHO8",
-     "title": "Claude launches AI sales agent that books meetings and finds leads automatically #AI",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
      "id": "youtube:41YU2hew7l4",
      "url": "https://www.youtube.com/shorts/41YU2hew7l4",
      "title": "Anthropic Launches Claude 5.2 Before Trillion-Dollar IPO #Shorts",
      "channel": "",
-     "views": 243,
+     "views": 282,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -801,10 +797,10 @@
      "url": "https://www.youtube.com/watch?v=0sBKbJkvEeU",
      "title": "Claude Now Joins Your Meetings… Should You Let It? #Claude #Anthropic #AI",
      "channel": "硅谷工具箱",
-     "views": 2,
-     "age_hours": 1,
+     "views": 25,
+     "age_hours": 7,
      "relevance": 0.5,
-     "velocity": 2
+     "velocity": 4
     },
     {
      "platform": "youtube",
@@ -813,7 +809,7 @@
      "url": "https://www.youtube.com/shorts/8hm_Ud3_AeA",
      "title": "Anthropic Unveils Office Tools, but Claude Meetings Availability Is Unclear",
      "channel": "",
-     "views": 46,
+     "views": 80,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -825,7 +821,19 @@
      "url": "https://www.youtube.com/shorts/9QA2tJYUiY4",
      "title": "Claude Meetings: Anthropic's AI now joins your video calls",
      "channel": "",
-     "views": 41,
+     "views": 62,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xTNBGGVFTXg",
+     "url": "https://www.youtube.com/shorts/xTNBGGVFTXg",
+     "title": "Claude Meetings: Anthropic's New AI Joins Google Meet as a Coworker",
+     "channel": "",
+     "views": 57,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -837,7 +845,7 @@
      "url": "https://www.youtube.com/shorts/bAQhS3zn830",
      "title": "Anthropic Puts Claude Inside Your Meetings #AI #AINews",
      "channel": "",
-     "views": 31,
+     "views": 44,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -847,7 +855,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-11T03:49:52.023Z"
+   "searched_at": "2026-11-11T10:12:00.231Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
@@ -1162,6 +1170,111 @@
    "searched_at": "2026-11-09T17:50:05.278Z"
   },
   {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39739132",
+   "ids": [
+    "39739132",
+    "39737677",
+    "39733654"
+   ],
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source_id": "gl-deepmind",
+   "published_ts": "2026-11-10 16:03:47",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "gemini carbon available"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:583ThJIqQ7k",
+     "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+     "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+     "channel": "AI Explained",
+     "views": 58685,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 6521
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0GSvcg9wncc",
+     "url": "https://www.youtube.com/watch?v=0GSvcg9wncc",
+     "title": "Gemini 4 Carbon Is INSANE – Seriously, This Model Is Ridiculous!",
+     "channel": "Bijan Bowen",
+     "views": 49590,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 6199
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YTA_DsiYwAc",
+     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
+     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
+     "channel": "Paul J Lipsky",
+     "views": 95899,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 5994
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l32KKNKdpIk",
+     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
+     "title": "Gemini 4 Carbon is Live!",
+     "channel": "Sam Witteveen",
+     "views": 56478,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 3530
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lQ6wwLHqDAg",
+     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
+     "title": "Gemini 4 Carbon Is Finally Here, And It's a Beast!",
+     "channel": "Prompt Engineering",
+     "views": 30197,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 1887
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:0Kw6_DTZPrY",
+     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+     "channel": "@aiexplained-official",
+     "views": 142000,
+     "age_hours": 193.72054583333335,
+     "relevance": 0.67,
+     "velocity": 733
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T08:15:13.127Z"
+  },
+  {
    "first_seen": "2026-11-10T10:12:00.650Z",
    "id": "39726235",
    "ids": [
@@ -1371,111 +1484,6 @@
    "searched_at": "2026-11-10T16:23:46.921Z"
   },
   {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39739132",
-   "ids": [
-    "39739132",
-    "39737677",
-    "39733654"
-   ],
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "source_id": "gl-deepmind",
-   "published_ts": "2026-11-10 16:03:47",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Carbon is now available",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
-    }
-   ],
-   "queries": [
-    "Gemini 4 Carbon",
-    "gemini carbon available"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:583ThJIqQ7k",
-     "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
-     "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
-     "channel": "AI Explained",
-     "views": 58685,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 6521
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0GSvcg9wncc",
-     "url": "https://www.youtube.com/watch?v=0GSvcg9wncc",
-     "title": "Gemini 4 Carbon Is INSANE – Seriously, This Model Is Ridiculous!",
-     "channel": "Bijan Bowen",
-     "views": 49590,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 6199
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YTA_DsiYwAc",
-     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
-     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
-     "channel": "Paul J Lipsky",
-     "views": 95899,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 5994
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l32KKNKdpIk",
-     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
-     "title": "Gemini 4 Carbon is Live!",
-     "channel": "Sam Witteveen",
-     "views": 56478,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 3530
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lQ6wwLHqDAg",
-     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
-     "title": "Gemini 4 Carbon Is Finally Here, And It's a Beast!",
-     "channel": "Prompt Engineering",
-     "views": 30197,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 1887
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:0Kw6_DTZPrY",
-     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
-     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
-     "channel": "@aiexplained-official",
-     "views": 142000,
-     "age_hours": 193.72054583333335,
-     "relevance": 0.67,
-     "velocity": 733
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T08:15:13.127Z"
-  },
-  {
    "first_seen": "2026-11-10T19:49:29.894Z",
    "id": "39738826",
    "ids": [
@@ -1487,7 +1495,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 19:31:37",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "hn",
