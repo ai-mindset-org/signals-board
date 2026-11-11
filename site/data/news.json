@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:14:15.607Z",
+ "generated_at": "2026-11-11T03:13:58.036Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic 1.4 ipo targets",
+   "source": "youtube: Introducing Businesses",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 1.4 ipo targets",
+   "source": "tiktok: Introducing Businesses",
    "ok": true
   },
   {
-   "source": "youtube: Gemini 4 Carbon",
+   "source": "youtube: introducing businesses chatgpt",
    "ok": true
   },
   {
-   "source": "tiktok: Gemini 4 Carbon",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini carbon available",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini carbon available",
+   "source": "tiktok: introducing businesses chatgpt",
    "ok": true
   }
  ],
@@ -46,7 +38,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -150,7 +142,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-10 10:00:00",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "hn",
@@ -170,10 +162,10 @@
      "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
      "title": "Introducing Businesses in ChatGPT in beta",
      "channel": "OpenAI",
-     "views": 20813,
-     "age_hours": 3,
+     "views": 110272,
+     "age_hours": 9,
      "relevance": 1,
-     "velocity": 6938
+     "velocity": 12252
     },
     {
      "platform": "youtube",
@@ -182,7 +174,55 @@
      "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
      "title": "List your Businesses in ChatGPT #ainews #chatgpt",
      "channel": "",
-     "views": 170,
+     "views": 690,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Xy8dCdyoc6c",
+     "url": "https://www.youtube.com/shorts/Xy8dCdyoc6c",
+     "title": "Businesses in ChatGPT beta: claim your profile; Business Agents start US-first",
+     "channel": "",
+     "views": 90,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yZuJlliFBPY",
+     "url": "https://www.youtube.com/shorts/yZuJlliFBPY",
+     "title": "Businesses in ChatGPT Launched — Shops Get AI Agents",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZC4j1HOFpxA",
+     "url": "https://www.youtube.com/shorts/ZC4j1HOFpxA",
+     "title": "ChatGPT released businesses on ChatGPT for you to rank higher an AI search. #seo #geo",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9REsc4ZGE6E",
+     "url": "https://www.youtube.com/shorts/9REsc4ZGE6E",
+     "title": "🔥 OpenAI Lets Businesses Answer Customers Inside ChatGPT #AINews",
+     "channel": "",
+     "views": 2,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -192,7 +232,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-10T21:10:22.216Z"
+   "searched_at": "2026-11-11T03:14:06.366Z"
   },
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
@@ -206,7 +246,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-10 14:06:54",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "hn",
@@ -619,6 +659,36 @@
    "searched_at": "2026-11-10T17:36:17.216Z"
   },
   {
+   "first_seen": "2026-11-10T19:49:29.894Z",
+   "id": "39738826",
+   "ids": [
+    "39738826",
+    "39737100"
+   ],
+   "title": "How AI agents work",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 19:31:37",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI and the Art of Work",
+     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
+    }
+   ],
+   "queries": [
+    "ai agents work"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T01:50:03.730Z"
+  },
+  {
    "first_seen": "2026-11-10T20:11:07.923Z",
    "id": "39739132",
    "ids": [
@@ -724,34 +794,34 @@
    "searched_at": "2026-11-11T02:14:27.080Z"
   },
   {
-   "first_seen": "2026-11-10T19:49:29.894Z",
-   "id": "39738826",
+   "first_seen": "2026-11-10T16:23:28.147Z",
+   "id": "39733820",
    "ids": [
-    "39738826",
-    "39737100"
+    "39733820",
+    "39733880"
    ],
-   "title": "How AI agents work",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 19:31:37",
+   "title": "MEGA commits $30 million to new products, starting with AI inference",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-11-10 15:56:02",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "AI and the Art of Work",
-     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
+     "source_id": "x-thedefiant-io",
+     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
+     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
     }
    ],
    "queries": [
-    "ai agents work"
+    "mega 30 commits million"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-11T01:50:03.730Z"
+   "searched_at": "2026-11-10T22:35:42.394Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
@@ -855,36 +925,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T01:39:06.278Z"
-  },
-  {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
-   "ids": [
-    "39733820",
-    "39733880"
-   ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
-   "story_sources": 2,
-   "score_norm": 64,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
-    }
-   ],
-   "queries": [
-    "mega 30 commits million"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T22:35:42.394Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
@@ -1408,50 +1448,6 @@
    "searched_at": "2026-11-10T16:23:46.921Z"
   },
   {
-   "first_seen": "2026-11-09T20:36:09.398Z",
-   "id": "39716220",
-   "ids": [
-    "39716220",
-    "39709533"
-   ],
-   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-11-09 14:45:41",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-     "url": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"
-    }
-   ],
-   "queries": [
-    "R&D Is Accelerating Towards Potential RSI",
-    "accelerating towards potential rsi"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YJPdXY45JOc",
-     "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
-     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-     "channel": "AskwhoCasts AI",
-     "views": 60,
-     "age_hours": 11,
-     "relevance": 1,
-     "velocity": 5
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T02:49:43.406Z"
-  },
-  {
    "first_seen": "2026-11-10T15:36:05.516Z",
    "id": "39732622",
    "ids": [
@@ -1463,7 +1459,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 14:45:24",
    "story_sources": 2,
-   "score_norm": 57,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "hn",
@@ -1530,6 +1526,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T21:49:28.522Z"
+  },
+  {
+   "first_seen": "2026-11-09T20:36:09.398Z",
+   "id": "39716220",
+   "ids": [
+    "39716220",
+    "39709533"
+   ],
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-11-09 14:45:41",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "url": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"
+    }
+   ],
+   "queries": [
+    "R&D Is Accelerating Towards Potential RSI",
+    "accelerating towards potential rsi"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YJPdXY45JOc",
+     "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
+     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+     "channel": "AskwhoCasts AI",
+     "views": 60,
+     "age_hours": 11,
+     "relevance": 1,
+     "velocity": 5
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-10T02:49:43.406Z"
   },
   {
    "first_seen": "2026-11-10T15:21:05.493Z",
