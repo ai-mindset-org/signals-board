@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:36:48.177Z",
+ "generated_at": "2026-11-11T16:49:55.735Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Anthropic's IPO",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Anthropic's IPO",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo roadshow video",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo roadshow video",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-11T16:36:48.177Z",
@@ -32,7 +15,8 @@
    "ids": [
     "39758563",
     "39743034",
-    "39735111"
+    "39735111",
+    "39758842"
    ],
    "title": "Anthropic's IPO roadshow video",
    "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
@@ -41,6 +25,11 @@
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic IPO – Dario Amodei [video]",
+     "url": "https://www.youtube.com/watch?v=eynv5VR9qos"
+    },
     {
      "source_id": "hn",
      "title": "Anthropic Roadshow",
