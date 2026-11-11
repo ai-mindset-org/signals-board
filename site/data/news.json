@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T03:13:58.036Z",
+ "generated_at": "2026-11-11T03:49:40.566Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,43 @@
  },
  "search_report": [
   {
-   "source": "youtube: Introducing Businesses",
+   "source": "youtube: adobe photoshop premiere firefly",
    "ok": true
   },
   {
-   "source": "tiktok: Introducing Businesses",
+   "source": "tiktok: adobe photoshop premiere firefly",
    "ok": true
   },
   {
-   "source": "youtube: introducing businesses chatgpt",
+   "source": "youtube: Claude Meetings",
    "ok": true
   },
   {
-   "source": "tiktok: introducing businesses chatgpt",
+   "source": "tiktok: Claude Meetings",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude meetings launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude meetings launches",
+   "ok": true
+  },
+  {
+   "source": "youtube: Coolest Thing People Were Doing With",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Coolest Thing People Were Doing With",
+   "ok": true
+  },
+  {
+   "source": "youtube: reverse engineer anything companies",
+   "ok": true
+  },
+  {
+   "source": "tiktok: reverse engineer anything companies",
    "ok": true
   }
  ],
@@ -131,6 +155,189 @@
    "searched_at": "2026-11-11T00:29:48.918Z"
   },
   {
+   "first_seen": "2026-11-11T03:49:40.566Z",
+   "id": "39746262",
+   "ids": [
+    "39746262",
+    "39733342"
+   ],
+   "title": "Adobe brings AI agents to Photoshop, Premiere, Firefly",
+   "url": "https://www.techinasia.com/news/adobe-brings-ai-agents-photoshop-premiere-firefly",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-11 02:44:55",
+   "story_sources": 2,
+   "score_norm": 85,
+   "related_news": [
+    {
+     "source_id": "techcrunch",
+     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    }
+   ],
+   "queries": [
+    "adobe photoshop premiere firefly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JmBIb-8vpyc",
+     "url": "https://www.youtube.com/watch?v=JmBIb-8vpyc",
+     "title": "Adobe MAX 2026: New Photoshop, Premiere & Firefly AI Features",
+     "channel": "KareemScope",
+     "views": 401,
+     "age_hours": 24,
+     "relevance": 0.71,
+     "velocity": 17
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I8rDYWmZsVQ",
+     "url": "https://www.youtube.com/shorts/I8rDYWmZsVQ",
+     "title": "Adobe Unleashes AI Agents in Photoshop, Premiere and Firefly, A Shock",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7rPfaUyK1zw",
+     "url": "https://www.youtube.com/shorts/7rPfaUyK1zw",
+     "title": "Premiere's AI Assistant now spends your Firefly credits",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VN4UUA1xoYo",
+     "url": "https://www.youtube.com/watch?v=VN4UUA1xoYo",
+     "title": "Adobe AI Agents in Photoshop, Premiere and Firefly: What Creators Need to Know",
+     "channel": "AI in Sixty",
+     "views": 0,
+     "age_hours": 0.8166666666666667,
+     "relevance": 0.86,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T03:49:44.777Z"
+  },
+  {
+   "first_seen": "2026-11-11T03:49:40.566Z",
+   "id": "39746267",
+   "ids": [
+    "39746267",
+    "39737613"
+   ],
+   "title": "Anthropic launches Claude Meetings for workplace tasks",
+   "url": "https://www.techinasia.com/news/anthropic-launches-claude-meetings-workplace-tasks",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-11 01:55:35",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    }
+   ],
+   "queries": [
+    "Claude Meetings",
+    "anthropic claude meetings launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:m4x-u6NaHO8",
+     "url": "https://www.youtube.com/shorts/m4x-u6NaHO8",
+     "title": "Claude launches AI sales agent that books meetings and finds leads automatically #AI",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:41YU2hew7l4",
+     "url": "https://www.youtube.com/shorts/41YU2hew7l4",
+     "title": "Anthropic Launches Claude 5.2 Before Trillion-Dollar IPO #Shorts",
+     "channel": "",
+     "views": 243,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0sBKbJkvEeU",
+     "url": "https://www.youtube.com/watch?v=0sBKbJkvEeU",
+     "title": "Claude Now Joins Your Meetings… Should You Let It? #Claude #Anthropic #AI",
+     "channel": "硅谷工具箱",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8hm_Ud3_AeA",
+     "url": "https://www.youtube.com/shorts/8hm_Ud3_AeA",
+     "title": "Anthropic Unveils Office Tools, but Claude Meetings Availability Is Unclear",
+     "channel": "",
+     "views": 46,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9QA2tJYUiY4",
+     "url": "https://www.youtube.com/shorts/9QA2tJYUiY4",
+     "title": "Claude Meetings: Anthropic's AI now joins your video calls",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bAQhS3zn830",
+     "url": "https://www.youtube.com/shorts/bAQhS3zn830",
+     "title": "Anthropic Puts Claude Inside Your Meetings #AI #AINews",
+     "channel": "",
+     "views": 31,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T03:49:52.023Z"
+  },
+  {
    "first_seen": "2026-11-10T21:10:13.784Z",
    "id": "39740400",
    "ids": [
@@ -142,7 +349,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-10 10:00:00",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "hn",
@@ -246,7 +453,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-10 14:06:54",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "hn",
@@ -659,36 +866,6 @@
    "searched_at": "2026-11-10T17:36:17.216Z"
   },
   {
-   "first_seen": "2026-11-10T19:49:29.894Z",
-   "id": "39738826",
-   "ids": [
-    "39738826",
-    "39737100"
-   ],
-   "title": "How AI agents work",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 19:31:37",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI and the Art of Work",
-     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
-    }
-   ],
-   "queries": [
-    "ai agents work"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T01:50:03.730Z"
-  },
-  {
    "first_seen": "2026-11-10T20:11:07.923Z",
    "id": "39739132",
    "ids": [
@@ -701,7 +878,7 @@
    "source_id": "gl-deepmind",
    "published_ts": "2026-11-10 16:03:47",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -794,34 +971,34 @@
    "searched_at": "2026-11-11T02:14:27.080Z"
   },
   {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
+   "first_seen": "2026-11-10T19:49:29.894Z",
+   "id": "39738826",
    "ids": [
-    "39733820",
-    "39733880"
+    "39738826",
+    "39737100"
    ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
+   "title": "How AI agents work",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 19:31:37",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 67,
    "related_news": [
     {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
+     "source_id": "hn",
+     "title": "AI and the Art of Work",
+     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
     }
    ],
    "queries": [
-    "mega 30 commits million"
+    "ai agents work"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-10T22:35:42.394Z"
+   "searched_at": "2026-11-11T01:50:03.730Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
@@ -835,7 +1012,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 18:24:53",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -925,6 +1102,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T01:39:06.278Z"
+  },
+  {
+   "first_seen": "2026-11-10T16:23:28.147Z",
+   "id": "39733820",
+   "ids": [
+    "39733820",
+    "39733880"
+   ],
+   "title": "MEGA commits $30 million to new products, starting with AI inference",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-11-10 15:56:02",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
+     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
+    }
+   ],
+   "queries": [
+    "mega 30 commits million"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T22:35:42.394Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
@@ -1475,11 +1682,23 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:G0WqLjlSXNo",
+     "url": "https://www.youtube.com/watch?v=G0WqLjlSXNo",
+     "title": "DeepSeek + Reverse Engineer Anything (REA) is WILD!",
+     "channel": "Julian Goldie SEO",
+     "views": 54031,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 750
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:aqdHjpH4NXU",
      "url": "https://www.youtube.com/watch?v=aqdHjpH4NXU",
      "title": "Reverse Engineer Changes AI Completely!  🤯",
      "channel": "Julian Goldie SEO",
-     "views": 1814,
+     "views": 1819,
      "age_hours": 48,
      "relevance": 0.6,
      "velocity": 38
@@ -1491,7 +1710,7 @@
      "url": "https://www.youtube.com/shorts/ZziQrVKiqyQ",
      "title": "Reverse Engineer Anything #codingagents #ai #softwareengineering",
      "channel": "",
-     "views": 356,
+     "views": 357,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1503,7 +1722,7 @@
      "url": "https://www.youtube.com/shorts/vkwabg9RV2U",
      "title": "Your coding agent can reverse engineer anything now",
      "channel": "",
-     "views": 116,
+     "views": 224,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1511,21 +1730,21 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:468G2gh6dVI",
-     "url": "https://www.youtube.com/shorts/468G2gh6dVI",
-     "title": "Reverse Engineer Anything with AI Agents #shorts",
+     "id": "youtube:8NRvprEznfo",
+     "url": "https://www.youtube.com/shorts/8NRvprEznfo",
+     "title": "Reverse Engineer Anything With AI? Meet REA",
      "channel": "",
-     "views": 34,
+     "views": 11,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-10T21:49:28.522Z"
+   "searched_at": "2026-11-11T03:49:59.328Z"
   },
   {
    "first_seen": "2026-11-09T20:36:09.398Z",
