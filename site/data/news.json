@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:36:27.454Z",
+ "generated_at": "2026-11-11T18:12:17.472Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: meta tiktok google indonesia",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta tiktok google indonesia",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-11T16:36:48.177Z",
@@ -336,50 +327,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T16:23:39.595Z"
-  },
-  {
-   "first_seen": "2026-11-09T07:37:10.024Z",
-   "id": "39702433",
-   "ids": [
-    "39702433",
-    "39693121"
-   ],
-   "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
-   "source_id": "reddit-ml",
-   "published_ts": "2026-11-08 17:54:43",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/"
-    }
-   ],
-   "queries": [
-    "Artificial Analysis",
-    "artificial analysis drex max"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:j_IlGQ01X4A",
-     "url": "https://www.youtube.com/watch?v=j_IlGQ01X4A",
-     "title": "has Artificial Analysis just exposed benchmaxxers?",
-     "channel": "Tom Dohnal",
-     "views": 407,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T13:49:49.599Z"
   },
   {
    "first_seen": "2026-11-11T03:49:40.566Z",
