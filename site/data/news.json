@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:20:53.261Z",
+ "generated_at": "2026-11-11T17:36:27.454Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: mercor 750m raises expand",
+   "source": "youtube: meta tiktok google indonesia",
    "ok": true
   },
   {
-   "source": "tiktok: mercor 750m raises expand",
+   "source": "tiktok: meta tiktok google indonesia",
    "ok": true
   }
  ],
@@ -692,6 +692,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T17:36:17.216Z"
+  },
+  {
+   "first_seen": "2026-11-11T17:36:27.454Z",
+   "id": "39755841",
+   "ids": [
+    "39755841",
+    "39759615"
+   ],
+   "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
+   "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-11 13:49:03",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
+     "url": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/"
+    }
+   ],
+   "queries": [
+    "meta tiktok google indonesia"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T17:36:32.761Z"
   },
   {
    "first_seen": "2026-11-11T14:11:55.934Z",
@@ -1694,6 +1724,36 @@
    "searched_at": "2026-11-10T15:21:13.334Z"
   },
   {
+   "first_seen": "2026-11-11T11:20:23.205Z",
+   "id": "39752321",
+   "ids": [
+    "39752321",
+    "39742367"
+   ],
+   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
+   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-11 09:18:15",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
+     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
+    }
+   ],
+   "queries": [
+    "mercor 750m raises expand"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T17:20:57.400Z"
+  },
+  {
    "first_seen": "2026-11-10T20:11:07.923Z",
    "id": "39733176",
    "ids": [
@@ -1943,36 +2003,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T14:36:36.323Z"
-  },
-  {
-   "first_seen": "2026-11-11T11:20:23.205Z",
-   "id": "39752321",
-   "ids": [
-    "39752321",
-    "39742367"
-   ],
-   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
-   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-11 09:18:15",
-   "story_sources": 2,
-   "score_norm": 55,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
-     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
-    }
-   ],
-   "queries": [
-    "mercor 750m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T17:20:57.400Z"
   },
   {
    "first_seen": "2026-11-10T14:36:28.292Z",
