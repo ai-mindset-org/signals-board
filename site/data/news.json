@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T10:36:23.307Z",
+ "generated_at": "2026-11-11T11:10:28.555Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: mega 30 commits million",
-   "ok": true
-  },
-  {
-   "source": "tiktok: mega 30 commits million",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
@@ -372,17 +363,17 @@
     "39746262",
     "39733342"
    ],
-   "title": "Adobe brings AI agents to Photoshop, Premiere, Firefly",
-   "url": "https://www.techinasia.com/news/adobe-brings-ai-agents-photoshop-premiere-firefly",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-11 02:44:55",
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-10 14:05:10",
    "story_sources": 2,
    "score_norm": 73,
    "related_news": [
     {
-     "source_id": "techcrunch",
-     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+     "source_id": "sea-techinasia",
+     "title": "Adobe brings AI agents to Photoshop, Premiere, Firefly",
+     "url": "https://www.techinasia.com/news/adobe-brings-ai-agents-photoshop-premiere-firefly"
     }
    ],
    "queries": [
@@ -1517,7 +1508,7 @@
    "source_id": "crypto-theblock",
    "published_ts": "2026-11-10 15:56:02",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -1547,7 +1538,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-10 18:24:53",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "eu-tnw",
