@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T09:36:16.724Z",
+ "generated_at": "2026-11-11T09:49:49.908Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: adobe photoshop premiere firefly",
+   "ok": true
+  },
+  {
+   "source": "tiktok: adobe photoshop premiere firefly",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
@@ -116,7 +125,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -357,6 +366,110 @@
    "searched_at": "2026-11-09T13:49:49.599Z"
   },
   {
+   "first_seen": "2026-11-10T21:10:13.784Z",
+   "id": "39740400",
+   "ids": [
+    "39740400",
+    "39736975"
+   ],
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-10 10:00:00",
+   "story_sources": 2,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Businesses in ChatGPT – OpenAI",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
+    }
+   ],
+   "queries": [
+    "Introducing Businesses",
+    "introducing businesses chatgpt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z9k5oI3Paoc",
+     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
+     "title": "Introducing Businesses in ChatGPT in beta",
+     "channel": "OpenAI",
+     "views": 149896,
+     "age_hours": 15,
+     "relevance": 1,
+     "velocity": 9993
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nvnZPAoR9lI",
+     "url": "https://www.youtube.com/watch?v=nvnZPAoR9lI",
+     "title": "Businesses in ChatGPT: How to Claim & Verify Your Business (Step-by-Step Guide)",
+     "channel": "Mayank Sahu SEO",
+     "views": 1393,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 279
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Xy8dCdyoc6c",
+     "url": "https://www.youtube.com/shorts/Xy8dCdyoc6c",
+     "title": "Businesses in ChatGPT beta: claim your profile; Business Agents start US-first",
+     "channel": "",
+     "views": 127,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yZuJlliFBPY",
+     "url": "https://www.youtube.com/shorts/yZuJlliFBPY",
+     "title": "Businesses in ChatGPT Launched — Shops Get AI Agents",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1W09qm4-KR8",
+     "url": "https://www.youtube.com/shorts/1W09qm4-KR8",
+     "title": "Does ChatGPT know your shop? 🏪 Businesses in ChatGPT explained #shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Hxx2k6056r4",
+     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
+     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T09:23:49.933Z"
+  },
+  {
    "first_seen": "2026-11-09T00:32:30.093Z",
    "id": "39691636",
    "ids": [
@@ -455,10 +568,22 @@
      "url": "https://www.youtube.com/watch?v=JmBIb-8vpyc",
      "title": "Adobe MAX 2026: New Photoshop, Premiere & Firefly AI Features",
      "channel": "KareemScope",
-     "views": 401,
+     "views": 413,
      "age_hours": 24,
      "relevance": 0.71,
      "velocity": 17
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fFkx9BK8NDw",
+     "url": "https://www.youtube.com/shorts/fFkx9BK8NDw",
+     "title": "Adobe MAX 2026 🔥 | New AI Tools, Photoshop, Premiere Pro & Future of Video Editing!",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -467,7 +592,7 @@
      "url": "https://www.youtube.com/shorts/I8rDYWmZsVQ",
      "title": "Adobe Unleashes AI Agents in Photoshop, Premiere and Firefly, A Shock",
      "channel": "",
-     "views": 17,
+     "views": 27,
      "age_hours": null,
      "relevance": 0.86,
      "velocity": null
@@ -486,14 +611,26 @@
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VN4UUA1xoYo",
-     "url": "https://www.youtube.com/watch?v=VN4UUA1xoYo",
-     "title": "Adobe AI Agents in Photoshop, Premiere and Firefly: What Creators Need to Know",
-     "channel": "AI in Sixty",
+     "kind": "shorts",
+     "id": "youtube:P1mhvFtMZIA",
+     "url": "https://www.youtube.com/shorts/P1mhvFtMZIA",
+     "title": "Adobe Just Let AI Agents Into Photoshop, Premiere Pro and After Effects.",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:B5TvlegfQUE",
+     "url": "https://www.youtube.com/shorts/B5TvlegfQUE",
+     "title": "Adobe Firefly Is Now a Full AI Creative Studio",
+     "channel": "",
      "views": 0,
-     "age_hours": 0.8166666666666667,
-     "relevance": 0.86,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -501,111 +638,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-11T03:49:44.777Z"
-  },
-  {
-   "first_seen": "2026-11-10T21:10:13.784Z",
-   "id": "39740400",
-   "ids": [
-    "39740400",
-    "39736975"
-   ],
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-10 10:00:00",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Businesses in ChatGPT – OpenAI",
-     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
-    }
-   ],
-   "queries": [
-    "Introducing Businesses",
-    "introducing businesses chatgpt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z9k5oI3Paoc",
-     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
-     "title": "Introducing Businesses in ChatGPT in beta",
-     "channel": "OpenAI",
-     "views": 149896,
-     "age_hours": 15,
-     "relevance": 1,
-     "velocity": 9993
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nvnZPAoR9lI",
-     "url": "https://www.youtube.com/watch?v=nvnZPAoR9lI",
-     "title": "Businesses in ChatGPT: How to Claim & Verify Your Business (Step-by-Step Guide)",
-     "channel": "Mayank Sahu SEO",
-     "views": 1393,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 279
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Xy8dCdyoc6c",
-     "url": "https://www.youtube.com/shorts/Xy8dCdyoc6c",
-     "title": "Businesses in ChatGPT beta: claim your profile; Business Agents start US-first",
-     "channel": "",
-     "views": 127,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yZuJlliFBPY",
-     "url": "https://www.youtube.com/shorts/yZuJlliFBPY",
-     "title": "Businesses in ChatGPT Launched — Shops Get AI Agents",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1W09qm4-KR8",
-     "url": "https://www.youtube.com/shorts/1W09qm4-KR8",
-     "title": "Does ChatGPT know your shop? 🏪 Businesses in ChatGPT explained #shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Hxx2k6056r4",
-     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
-     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T09:23:49.933Z"
+   "searched_at": "2026-11-11T09:49:54.024Z"
   },
   {
    "first_seen": "2026-11-09T22:50:05.120Z",
