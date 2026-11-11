@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T03:49:40.566Z",
+ "generated_at": "2026-11-11T04:36:16.852Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,43 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: adobe photoshop premiere firefly",
+   "source": "youtube: mega 30 commits million",
    "ok": true
   },
   {
-   "source": "tiktok: adobe photoshop premiere firefly",
-   "ok": true
-  },
-  {
-   "source": "youtube: Claude Meetings",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Claude Meetings",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic claude meetings launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic claude meetings launches",
-   "ok": true
-  },
-  {
-   "source": "youtube: Coolest Thing People Were Doing With",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Coolest Thing People Were Doing With",
-   "ok": true
-  },
-  {
-   "source": "youtube: reverse engineer anything companies",
-   "ok": true
-  },
-  {
-   "source": "tiktok: reverse engineer anything companies",
+   "source": "tiktok: mega 30 commits million",
    "ok": true
   }
  ],
@@ -62,7 +30,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -349,7 +317,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-10 10:00:00",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "hn",
@@ -453,7 +421,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-10 14:06:54",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "hn",
@@ -1001,6 +969,36 @@
    "searched_at": "2026-11-11T01:50:03.730Z"
   },
   {
+   "first_seen": "2026-11-10T16:23:28.147Z",
+   "id": "39733820",
+   "ids": [
+    "39733820",
+    "39733880"
+   ],
+   "title": "MEGA commits $30 million to new products, starting with AI inference",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-11-10 15:56:02",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
+     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
+    }
+   ],
+   "queries": [
+    "mega 30 commits million"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T04:36:21.268Z"
+  },
+  {
    "first_seen": "2026-11-10T19:35:41.446Z",
    "id": "39737655",
    "ids": [
@@ -1102,36 +1100,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T01:39:06.278Z"
-  },
-  {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
-   "ids": [
-    "39733820",
-    "39733880"
-   ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
-    }
-   ],
-   "queries": [
-    "mega 30 commits million"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T22:35:42.394Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
