@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T04:36:16.852Z",
+ "generated_at": "2026-11-11T06:40:35.572Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: mega 30 commits million",
+   "source": "youtube: Google Cloud",
    "ok": true
   },
   {
-   "source": "tiktok: mega 30 commits million",
+   "source": "tiktok: Google Cloud",
+   "ok": true
+  },
+  {
+   "source": "youtube: google cloud gemini launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google cloud gemini launches",
    "ok": true
   }
  ],
@@ -30,7 +38,7 @@
    "source_id": "google-ai",
    "published_ts": "2026-11-10 13:00:00",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -46,35 +54,47 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:mSYEdwQxtZ4",
-     "url": "https://www.youtube.com/watch?v=mSYEdwQxtZ4",
-     "title": "Power Gemini AI Agents with Live Web Context | Firecrawl on Google Cloud",
-     "channel": "Google Cloud",
-     "views": 471,
-     "age_hours": 8,
-     "relevance": 0.6,
-     "velocity": 59
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:XZVN4efOqY8",
      "url": "https://www.youtube.com/watch?v=XZVN4efOqY8",
      "title": "New Way Now: Bosch scales Agentic AI with Gemini on Google Cloud",
      "channel": "Google Cloud",
-     "views": 212,
-     "age_hours": 4,
+     "views": 423,
+     "age_hours": 10,
      "relevance": 0.6,
-     "velocity": 53
+     "velocity": 42
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mSYEdwQxtZ4",
+     "url": "https://www.youtube.com/watch?v=mSYEdwQxtZ4",
+     "title": "Power Gemini AI Agents with Live Web Context | Firecrawl on Google Cloud",
+     "channel": "Google Cloud",
+     "views": 587,
+     "age_hours": 14,
+     "relevance": 0.6,
+     "velocity": 42
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:GgwAeG8oAkE",
-     "url": "https://www.youtube.com/shorts/GgwAeG8oAkE",
-     "title": "Gemini 4 Carbon leak: $4 price spotted in Google Cloud catalog",
+     "id": "youtube:rOXvd3BHPCg",
+     "url": "https://www.youtube.com/shorts/rOXvd3BHPCg",
+     "title": "Google Unveils Gemini 4 Carbon",
      "channel": "",
-     "views": 13,
+     "views": 69,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9CmaRl_Bb5s",
+     "url": "https://www.youtube.com/shorts/9CmaRl_Bb5s",
+     "title": "Google Launches Gemini 4 Carbon 🤯 AI Agents, Cybersecurity & Swarm Mode",
+     "channel": "",
+     "views": 22,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -86,7 +106,7 @@
      "url": "https://www.youtube.com/shorts/J4vhWTUAzf8",
      "title": "Google Cloud this week: Gemini Omni Flash",
      "channel": "",
-     "views": 6,
+     "views": 10,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -94,23 +114,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:XhIYX1aR53U",
-     "url": "https://www.youtube.com/shorts/XhIYX1aR53U",
-     "title": "Google Cloud Introduces Gemini AI Solution for Healthcare",
+     "id": "youtube:kSnLu0Hdp2M",
+     "url": "https://www.youtube.com/shorts/kSnLu0Hdp2M",
+     "title": "Google DeepMind launches Gemini Robotics 2.5 for industrial robots",
      "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cydtarmQi_8",
-     "url": "https://www.youtube.com/shorts/cydtarmQi_8",
-     "title": "Gemini 4 Carbon leak: Google Cloud catalog reveals price after Nov 30",
-     "channel": "",
-     "views": 1,
+     "views": 3,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -120,397 +128,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-11T00:29:48.918Z"
-  },
-  {
-   "first_seen": "2026-11-11T03:49:40.566Z",
-   "id": "39746262",
-   "ids": [
-    "39746262",
-    "39733342"
-   ],
-   "title": "Adobe brings AI agents to Photoshop, Premiere, Firefly",
-   "url": "https://www.techinasia.com/news/adobe-brings-ai-agents-photoshop-premiere-firefly",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-11 02:44:55",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "techcrunch",
-     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
-    }
-   ],
-   "queries": [
-    "adobe photoshop premiere firefly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JmBIb-8vpyc",
-     "url": "https://www.youtube.com/watch?v=JmBIb-8vpyc",
-     "title": "Adobe MAX 2026: New Photoshop, Premiere & Firefly AI Features",
-     "channel": "KareemScope",
-     "views": 401,
-     "age_hours": 24,
-     "relevance": 0.71,
-     "velocity": 17
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:I8rDYWmZsVQ",
-     "url": "https://www.youtube.com/shorts/I8rDYWmZsVQ",
-     "title": "Adobe Unleashes AI Agents in Photoshop, Premiere and Firefly, A Shock",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7rPfaUyK1zw",
-     "url": "https://www.youtube.com/shorts/7rPfaUyK1zw",
-     "title": "Premiere's AI Assistant now spends your Firefly credits",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VN4UUA1xoYo",
-     "url": "https://www.youtube.com/watch?v=VN4UUA1xoYo",
-     "title": "Adobe AI Agents in Photoshop, Premiere and Firefly: What Creators Need to Know",
-     "channel": "AI in Sixty",
-     "views": 0,
-     "age_hours": 0.8166666666666667,
-     "relevance": 0.86,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T03:49:44.777Z"
-  },
-  {
-   "first_seen": "2026-11-11T03:49:40.566Z",
-   "id": "39746267",
-   "ids": [
-    "39746267",
-    "39737613"
-   ],
-   "title": "Anthropic launches Claude Meetings for workplace tasks",
-   "url": "https://www.techinasia.com/news/anthropic-launches-claude-meetings-workplace-tasks",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-11 01:55:35",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-    }
-   ],
-   "queries": [
-    "Claude Meetings",
-    "anthropic claude meetings launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:m4x-u6NaHO8",
-     "url": "https://www.youtube.com/shorts/m4x-u6NaHO8",
-     "title": "Claude launches AI sales agent that books meetings and finds leads automatically #AI",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:41YU2hew7l4",
-     "url": "https://www.youtube.com/shorts/41YU2hew7l4",
-     "title": "Anthropic Launches Claude 5.2 Before Trillion-Dollar IPO #Shorts",
-     "channel": "",
-     "views": 243,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0sBKbJkvEeU",
-     "url": "https://www.youtube.com/watch?v=0sBKbJkvEeU",
-     "title": "Claude Now Joins Your Meetings… Should You Let It? #Claude #Anthropic #AI",
-     "channel": "硅谷工具箱",
-     "views": 2,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8hm_Ud3_AeA",
-     "url": "https://www.youtube.com/shorts/8hm_Ud3_AeA",
-     "title": "Anthropic Unveils Office Tools, but Claude Meetings Availability Is Unclear",
-     "channel": "",
-     "views": 46,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9QA2tJYUiY4",
-     "url": "https://www.youtube.com/shorts/9QA2tJYUiY4",
-     "title": "Claude Meetings: Anthropic's AI now joins your video calls",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bAQhS3zn830",
-     "url": "https://www.youtube.com/shorts/bAQhS3zn830",
-     "title": "Anthropic Puts Claude Inside Your Meetings #AI #AINews",
-     "channel": "",
-     "views": 31,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T03:49:52.023Z"
-  },
-  {
-   "first_seen": "2026-11-10T21:10:13.784Z",
-   "id": "39740400",
-   "ids": [
-    "39740400",
-    "39736975"
-   ],
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-10 10:00:00",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Businesses in ChatGPT – OpenAI",
-     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
-    }
-   ],
-   "queries": [
-    "Introducing Businesses",
-    "introducing businesses chatgpt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z9k5oI3Paoc",
-     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
-     "title": "Introducing Businesses in ChatGPT in beta",
-     "channel": "OpenAI",
-     "views": 110272,
-     "age_hours": 9,
-     "relevance": 1,
-     "velocity": 12252
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QXV3AUo2Q8Q",
-     "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
-     "title": "List your Businesses in ChatGPT #ainews #chatgpt",
-     "channel": "",
-     "views": 690,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Xy8dCdyoc6c",
-     "url": "https://www.youtube.com/shorts/Xy8dCdyoc6c",
-     "title": "Businesses in ChatGPT beta: claim your profile; Business Agents start US-first",
-     "channel": "",
-     "views": 90,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yZuJlliFBPY",
-     "url": "https://www.youtube.com/shorts/yZuJlliFBPY",
-     "title": "Businesses in ChatGPT Launched — Shops Get AI Agents",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZC4j1HOFpxA",
-     "url": "https://www.youtube.com/shorts/ZC4j1HOFpxA",
-     "title": "ChatGPT released businesses on ChatGPT for you to rank higher an AI search. #seo #geo",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9REsc4ZGE6E",
-     "url": "https://www.youtube.com/shorts/9REsc4ZGE6E",
-     "title": "🔥 OpenAI Lets Businesses Answer Customers Inside ChatGPT #AINews",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T03:14:06.366Z"
-  },
-  {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39733176",
-   "ids": [
-    "39733176",
-    "39739052"
-   ],
-   "title": "Anthropic targets $1.4 trillion IPO",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-   "source_id": "theverge",
-   "published_ts": "2026-11-10 14:06:54",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic Targets $1.4T Valuation in IPO",
-     "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video"
-    }
-   ],
-   "queries": [
-    "anthropic 1.4 ipo targets"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BE7YjDfVRLE",
-     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
-     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
-     "channel": "",
-     "views": 351000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VFsng_wiwOw",
-     "url": "https://www.youtube.com/watch?v=VFsng_wiwOw",
-     "title": "Anthropic Targets $1.4 Trillion Valuation in IPO",
-     "channel": "Bloomberg Television",
-     "views": 16503,
-     "age_hours": 12,
-     "relevance": 1,
-     "velocity": 1375
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mb9h4Di12k0",
-     "url": "https://www.youtube.com/watch?v=mb9h4Di12k0",
-     "title": "Anthropic’s $1.4 Trillion IPO Bet Tests AI Appetite",
-     "channel": "Bloomberg Tech",
-     "views": 7761,
-     "age_hours": 7,
-     "relevance": 0.8,
-     "velocity": 1109
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:I-Gc-CtOL8k",
-     "url": "https://www.youtube.com/watch?v=I-Gc-CtOL8k",
-     "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-     "channel": "Bloomberg Podcasts",
-     "views": 8381,
-     "age_hours": 8,
-     "relevance": 1,
-     "velocity": 1048
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CPyXG57ouw4",
-     "url": "https://www.youtube.com/watch?v=CPyXG57ouw4",
-     "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
-     "channel": "Bloomberg Tech",
-     "views": 6505,
-     "age_hours": 7,
-     "relevance": 0.6,
-     "velocity": 929
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dVcsXHNMAXI",
-     "url": "https://www.youtube.com/shorts/dVcsXHNMAXI",
-     "title": "Anthropic IPO: Is the Claude Maker Really Worth $1.4 Trillion?",
-     "channel": "",
-     "views": 859,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T02:14:19.698Z"
+   "searched_at": "2026-11-11T06:40:43.147Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -729,6 +347,85 @@
    "searched_at": "2026-11-09T06:48:40.784Z"
   },
   {
+   "first_seen": "2026-11-11T03:49:40.566Z",
+   "id": "39746262",
+   "ids": [
+    "39746262",
+    "39733342"
+   ],
+   "title": "Adobe brings AI agents to Photoshop, Premiere, Firefly",
+   "url": "https://www.techinasia.com/news/adobe-brings-ai-agents-photoshop-premiere-firefly",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-11 02:44:55",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "techcrunch",
+     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+     "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    }
+   ],
+   "queries": [
+    "adobe photoshop premiere firefly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JmBIb-8vpyc",
+     "url": "https://www.youtube.com/watch?v=JmBIb-8vpyc",
+     "title": "Adobe MAX 2026: New Photoshop, Premiere & Firefly AI Features",
+     "channel": "KareemScope",
+     "views": 401,
+     "age_hours": 24,
+     "relevance": 0.71,
+     "velocity": 17
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I8rDYWmZsVQ",
+     "url": "https://www.youtube.com/shorts/I8rDYWmZsVQ",
+     "title": "Adobe Unleashes AI Agents in Photoshop, Premiere and Firefly, A Shock",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7rPfaUyK1zw",
+     "url": "https://www.youtube.com/shorts/7rPfaUyK1zw",
+     "title": "Premiere's AI Assistant now spends your Firefly credits",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VN4UUA1xoYo",
+     "url": "https://www.youtube.com/watch?v=VN4UUA1xoYo",
+     "title": "Adobe AI Agents in Photoshop, Premiere and Firefly: What Creators Need to Know",
+     "channel": "AI in Sixty",
+     "views": 0,
+     "age_hours": 0.8166666666666667,
+     "relevance": 0.86,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T03:49:44.777Z"
+  },
+  {
    "first_seen": "2026-11-09T22:50:05.120Z",
    "id": "39717917",
    "ids": [
@@ -834,194 +531,42 @@
    "searched_at": "2026-11-10T17:36:17.216Z"
   },
   {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39739132",
+   "first_seen": "2026-11-10T21:10:13.784Z",
+   "id": "39740400",
    "ids": [
-    "39739132",
-    "39737677",
-    "39733654"
+    "39740400",
+    "39736975"
    ],
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "source_id": "gl-deepmind",
-   "published_ts": "2026-11-10 16:03:47",
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-10 10:00:00",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Gemini 4 Carbon is now available",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+     "title": "Businesses in ChatGPT – OpenAI",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
     }
    ],
    "queries": [
-    "Gemini 4 Carbon",
-    "gemini carbon available"
+    "Introducing Businesses",
+    "introducing businesses chatgpt"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:YTA_DsiYwAc",
-     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
-     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
-     "channel": "Paul J Lipsky",
-     "views": 69457,
-     "age_hours": 10,
-     "relevance": 0.67,
-     "velocity": 6946
+     "id": "youtube:Z9k5oI3Paoc",
+     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
+     "title": "Introducing Businesses in ChatGPT in beta",
+     "channel": "OpenAI",
+     "views": 110272,
+     "age_hours": 9,
+     "relevance": 1,
+     "velocity": 12252
     },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l32KKNKdpIk",
-     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
-     "title": "Gemini 4 Carbon is Live!",
-     "channel": "Sam Witteveen",
-     "views": 53371,
-     "age_hours": 10,
-     "relevance": 0.67,
-     "velocity": 5337
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:583ThJIqQ7k",
-     "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
-     "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
-     "channel": "AI Explained",
-     "views": 14663,
-     "age_hours": 3,
-     "relevance": 0.67,
-     "velocity": 4888
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0GSvcg9wncc",
-     "url": "https://www.youtube.com/watch?v=0GSvcg9wncc",
-     "title": "Gemini 4 Carbon Is INSANE – Seriously, This Model Is Ridiculous!",
-     "channel": "Bijan Bowen",
-     "views": 8313,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 4157
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lQ6wwLHqDAg",
-     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
-     "title": "Gemini 4 Carbon Is Finally Here, And It's a Beast!",
-     "channel": "Prompt Engineering",
-     "views": 21748,
-     "age_hours": 10,
-     "relevance": 0.67,
-     "velocity": 2175
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:0Kw6_DTZPrY",
-     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
-     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
-     "channel": "@aiexplained-official",
-     "views": 142000,
-     "age_hours": 187.70775527777778,
-     "relevance": 0.67,
-     "velocity": 756
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T02:14:27.080Z"
-  },
-  {
-   "first_seen": "2026-11-10T19:49:29.894Z",
-   "id": "39738826",
-   "ids": [
-    "39738826",
-    "39737100"
-   ],
-   "title": "How AI agents work",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 19:31:37",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI and the Art of Work",
-     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
-    }
-   ],
-   "queries": [
-    "ai agents work"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T01:50:03.730Z"
-  },
-  {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
-   "ids": [
-    "39733820",
-    "39733880"
-   ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
-    }
-   ],
-   "queries": [
-    "mega 30 commits million"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T04:36:21.268Z"
-  },
-  {
-   "first_seen": "2026-11-10T19:35:41.446Z",
-   "id": "39737655",
-   "ids": [
-    "39737655",
-    "39738216"
-   ],
-   "title": "OpenAI lets businesses claim their ChatGPT listing and build their own agent",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsuibf/openai_lets_businesses_claim_their_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 18:24:53",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
-     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
-    }
-   ],
-   "queries": [
-    "openai chatgpt lets businesses"
-   ],
-   "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
@@ -1029,34 +574,46 @@
      "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
      "title": "List your Businesses in ChatGPT #ainews #chatgpt",
      "channel": "",
-     "views": 595,
+     "views": 690,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:W9fymOTlCs4",
-     "url": "https://www.youtube.com/watch?v=W9fymOTlCs4",
-     "title": "Claim Your Business in ChatGPT",
-     "channel": "The Edge Engine",
-     "views": 8,
-     "age_hours": 4,
+     "kind": "shorts",
+     "id": "youtube:Xy8dCdyoc6c",
+     "url": "https://www.youtube.com/shorts/Xy8dCdyoc6c",
+     "title": "Businesses in ChatGPT beta: claim your profile; Business Agents start US-first",
+     "channel": "",
+     "views": 90,
+     "age_hours": null,
      "relevance": 0.67,
-     "velocity": 2
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_Wu8xA0kKVo",
-     "url": "https://www.youtube.com/watch?v=_Wu8xA0kKVo",
-     "title": "Ep. 169: OpenAI lets businesses claim their ChatGPT listing and build their own agent (Daily Reca...",
-     "channel": "RuntimeWire",
-     "views": 1,
-     "age_hours": 0.13333333333333333,
-     "relevance": 1,
-     "velocity": 1
+     "kind": "shorts",
+     "id": "youtube:yZuJlliFBPY",
+     "url": "https://www.youtube.com/shorts/yZuJlliFBPY",
+     "title": "Businesses in ChatGPT Launched — Shops Get AI Agents",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZC4j1HOFpxA",
+     "url": "https://www.youtube.com/shorts/ZC4j1HOFpxA",
+     "title": "ChatGPT released businesses on ChatGPT for you to rank higher an AI search. #seo #geo",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -1065,7 +622,154 @@
      "url": "https://www.youtube.com/shorts/9REsc4ZGE6E",
      "title": "🔥 OpenAI Lets Businesses Answer Customers Inside ChatGPT #AINews",
      "channel": "",
-     "views": 1,
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T03:14:06.366Z"
+  },
+  {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39733176",
+   "ids": [
+    "39733176",
+    "39739052"
+   ],
+   "title": "Anthropic targets $1.4 trillion IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+   "source_id": "theverge",
+   "published_ts": "2026-11-10 14:06:54",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic Targets $1.4T Valuation in IPO",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-10/anthropic-targets-1-4-trillion-valuation-in-ipo-video"
+    }
+   ],
+   "queries": [
+    "anthropic 1.4 ipo targets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BE7YjDfVRLE",
+     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
+     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
+     "channel": "",
+     "views": 351000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VFsng_wiwOw",
+     "url": "https://www.youtube.com/watch?v=VFsng_wiwOw",
+     "title": "Anthropic Targets $1.4 Trillion Valuation in IPO",
+     "channel": "Bloomberg Television",
+     "views": 16503,
+     "age_hours": 12,
+     "relevance": 1,
+     "velocity": 1375
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mb9h4Di12k0",
+     "url": "https://www.youtube.com/watch?v=mb9h4Di12k0",
+     "title": "Anthropic’s $1.4 Trillion IPO Bet Tests AI Appetite",
+     "channel": "Bloomberg Tech",
+     "views": 7761,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": 1109
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:I-Gc-CtOL8k",
+     "url": "https://www.youtube.com/watch?v=I-Gc-CtOL8k",
+     "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
+     "channel": "Bloomberg Podcasts",
+     "views": 8381,
+     "age_hours": 8,
+     "relevance": 1,
+     "velocity": 1048
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CPyXG57ouw4",
+     "url": "https://www.youtube.com/watch?v=CPyXG57ouw4",
+     "title": "Anthropic Targets $1.4T Valuation in Blockbuster IPO",
+     "channel": "Bloomberg Tech",
+     "views": 6505,
+     "age_hours": 7,
+     "relevance": 0.6,
+     "velocity": 929
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dVcsXHNMAXI",
+     "url": "https://www.youtube.com/shorts/dVcsXHNMAXI",
+     "title": "Anthropic IPO: Is the Claude Maker Really Worth $1.4 Trillion?",
+     "channel": "",
+     "views": 859,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T02:14:19.698Z"
+  },
+  {
+   "first_seen": "2026-11-11T03:49:40.566Z",
+   "id": "39746267",
+   "ids": [
+    "39746267",
+    "39737613"
+   ],
+   "title": "Anthropic launches Claude Meetings for workplace tasks",
+   "url": "https://www.techinasia.com/news/anthropic-launches-claude-meetings-workplace-tasks",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-11 01:55:35",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    }
+   ],
+   "queries": [
+    "Claude Meetings",
+    "anthropic claude meetings launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:m4x-u6NaHO8",
+     "url": "https://www.youtube.com/shorts/m4x-u6NaHO8",
+     "title": "Claude launches AI sales agent that books meetings and finds leads automatically #AI",
+     "channel": "",
+     "views": 1000,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1073,25 +777,61 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:9wOnafRNi1M",
-     "url": "https://www.youtube.com/shorts/9wOnafRNi1M",
-     "title": "Businesses in ChatGPT: Claim Your AI Listing Now",
+     "id": "youtube:41YU2hew7l4",
+     "url": "https://www.youtube.com/shorts/41YU2hew7l4",
+     "title": "Anthropic Launches Claude 5.2 Before Trillion-Dollar IPO #Shorts",
      "channel": "",
-     "views": 1,
+     "views": 243,
      "age_hours": null,
-     "relevance": 0.8,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:bKDmNmOghxI",
-     "url": "https://www.youtube.com/watch?v=bKDmNmOghxI",
-     "title": "OpenAI lets businesses claim their ChatGPT listing and build… — and more by RuntimeWire (Nov 10th)",
-     "channel": "RuntimeWire",
-     "views": 0,
-     "age_hours": 0.26666666666666666,
-     "relevance": 0.8,
+     "id": "youtube:0sBKbJkvEeU",
+     "url": "https://www.youtube.com/watch?v=0sBKbJkvEeU",
+     "title": "Claude Now Joins Your Meetings… Should You Let It? #Claude #Anthropic #AI",
+     "channel": "硅谷工具箱",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8hm_Ud3_AeA",
+     "url": "https://www.youtube.com/shorts/8hm_Ud3_AeA",
+     "title": "Anthropic Unveils Office Tools, but Claude Meetings Availability Is Unclear",
+     "channel": "",
+     "views": 46,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9QA2tJYUiY4",
+     "url": "https://www.youtube.com/shorts/9QA2tJYUiY4",
+     "title": "Claude Meetings: Anthropic's AI now joins your video calls",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bAQhS3zn830",
+     "url": "https://www.youtube.com/shorts/bAQhS3zn830",
+     "title": "Anthropic Puts Claude Inside Your Meetings #AI #AINews",
+     "channel": "",
+     "views": 31,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -1099,7 +839,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-11T01:39:06.278Z"
+   "searched_at": "2026-11-11T03:49:52.023Z"
   },
   {
    "first_seen": "2026-11-10T11:36:09.397Z",
@@ -1623,6 +1363,111 @@
    "searched_at": "2026-11-10T16:23:46.921Z"
   },
   {
+   "first_seen": "2026-11-10T20:11:07.923Z",
+   "id": "39739132",
+   "ids": [
+    "39739132",
+    "39737677",
+    "39733654"
+   ],
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source_id": "gl-deepmind",
+   "published_ts": "2026-11-10 16:03:47",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Carbon is now available",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Carbon",
+    "gemini carbon available"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YTA_DsiYwAc",
+     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
+     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
+     "channel": "Paul J Lipsky",
+     "views": 69457,
+     "age_hours": 10,
+     "relevance": 0.67,
+     "velocity": 6946
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l32KKNKdpIk",
+     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
+     "title": "Gemini 4 Carbon is Live!",
+     "channel": "Sam Witteveen",
+     "views": 53371,
+     "age_hours": 10,
+     "relevance": 0.67,
+     "velocity": 5337
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:583ThJIqQ7k",
+     "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+     "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+     "channel": "AI Explained",
+     "views": 14663,
+     "age_hours": 3,
+     "relevance": 0.67,
+     "velocity": 4888
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0GSvcg9wncc",
+     "url": "https://www.youtube.com/watch?v=0GSvcg9wncc",
+     "title": "Gemini 4 Carbon Is INSANE – Seriously, This Model Is Ridiculous!",
+     "channel": "Bijan Bowen",
+     "views": 8313,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 4157
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lQ6wwLHqDAg",
+     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
+     "title": "Gemini 4 Carbon Is Finally Here, And It's a Beast!",
+     "channel": "Prompt Engineering",
+     "views": 21748,
+     "age_hours": 10,
+     "relevance": 0.67,
+     "velocity": 2175
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:0Kw6_DTZPrY",
+     "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+     "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+     "channel": "@aiexplained-official",
+     "views": 142000,
+     "age_hours": 187.70775527777778,
+     "relevance": 0.67,
+     "velocity": 756
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-11T02:14:27.080Z"
+  },
+  {
    "first_seen": "2026-11-10T15:36:05.516Z",
    "id": "39732622",
    "ids": [
@@ -1759,6 +1604,36 @@
    "searched_at": "2026-11-10T02:49:43.406Z"
   },
   {
+   "first_seen": "2026-11-10T19:49:29.894Z",
+   "id": "39738826",
+   "ids": [
+    "39738826",
+    "39737100"
+   ],
+   "title": "How AI agents work",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 19:31:37",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI and the Art of Work",
+     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
+    }
+   ],
+   "queries": [
+    "ai agents work"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T01:50:03.730Z"
+  },
+  {
    "first_seen": "2026-11-10T15:21:05.493Z",
    "id": "39732502",
    "ids": [
@@ -1801,6 +1676,139 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T15:21:13.334Z"
+  },
+  {
+   "first_seen": "2026-11-10T19:35:41.446Z",
+   "id": "39737655",
+   "ids": [
+    "39737655",
+    "39738216"
+   ],
+   "title": "OpenAI lets businesses claim their ChatGPT listing and build their own agent",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsuibf/openai_lets_businesses_claim_their_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 18:24:53",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
+     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
+    }
+   ],
+   "queries": [
+    "openai chatgpt lets businesses"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QXV3AUo2Q8Q",
+     "url": "https://www.youtube.com/shorts/QXV3AUo2Q8Q",
+     "title": "List your Businesses in ChatGPT #ainews #chatgpt",
+     "channel": "",
+     "views": 595,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:W9fymOTlCs4",
+     "url": "https://www.youtube.com/watch?v=W9fymOTlCs4",
+     "title": "Claim Your Business in ChatGPT",
+     "channel": "The Edge Engine",
+     "views": 8,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_Wu8xA0kKVo",
+     "url": "https://www.youtube.com/watch?v=_Wu8xA0kKVo",
+     "title": "Ep. 169: OpenAI lets businesses claim their ChatGPT listing and build their own agent (Daily Reca...",
+     "channel": "RuntimeWire",
+     "views": 1,
+     "age_hours": 0.13333333333333333,
+     "relevance": 1,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9REsc4ZGE6E",
+     "url": "https://www.youtube.com/shorts/9REsc4ZGE6E",
+     "title": "🔥 OpenAI Lets Businesses Answer Customers Inside ChatGPT #AINews",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9wOnafRNi1M",
+     "url": "https://www.youtube.com/shorts/9wOnafRNi1M",
+     "title": "Businesses in ChatGPT: Claim Your AI Listing Now",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bKDmNmOghxI",
+     "url": "https://www.youtube.com/watch?v=bKDmNmOghxI",
+     "title": "OpenAI lets businesses claim their ChatGPT listing and build… — and more by RuntimeWire (Nov 10th)",
+     "channel": "RuntimeWire",
+     "views": 0,
+     "age_hours": 0.26666666666666666,
+     "relevance": 0.8,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T01:39:06.278Z"
+  },
+  {
+   "first_seen": "2026-11-10T16:23:28.147Z",
+   "id": "39733820",
+   "ids": [
+    "39733820",
+    "39733880"
+   ],
+   "title": "MEGA commits $30 million to new products, starting with AI inference",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-11-10 15:56:02",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
+     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
+    }
+   ],
+   "queries": [
+    "mega 30 commits million"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T04:36:21.268Z"
   },
   {
    "first_seen": "2026-11-10T02:35:38.760Z",
