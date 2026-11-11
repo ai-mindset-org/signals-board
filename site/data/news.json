@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T22:49:53.853Z",
+ "generated_at": "2026-11-11T23:10:07.247Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic's IPO",
+   "source": "youtube: google tabletop tests letting",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic's IPO",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo roadshow video",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo roadshow video",
+   "source": "tiktok: google tabletop tests letting",
    "ok": true
   }
  ],
@@ -166,6 +158,49 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T22:50:01.335Z"
+  },
+  {
+   "first_seen": "2026-11-11T23:10:07.247Z",
+   "id": "39766560",
+   "ids": [
+    "39766560",
+    "39760725"
+   ],
+   "title": "Google tests Tabletop, letting groups build planning tools with an AI agent",
+   "url": "https://siliconangle.com/2026/11/11/google-tests-tabletop-letting-groups-build-planning-tools-with-an-ai-agent/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-11 22:37:09",
+   "story_sources": 2,
+   "score_norm": 87,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Google’s Tabletop lets groups build AI planning tools together",
+     "url": "https://thenextweb.com/news/google-labs-tabletop-ai-group-planning-spaces"
+    }
+   ],
+   "queries": [
+    "google tabletop tests letting"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5hHq_HTyfdw",
+     "url": "https://www.youtube.com/shorts/5hHq_HTyfdw",
+     "title": "Google's Tabletop AI: Build Custom Apps! #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-11T23:10:11.362Z"
   },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
