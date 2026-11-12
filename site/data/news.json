@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:20:49.230Z",
+ "generated_at": "2026-11-12T11:36:05.764Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: google tabletop tests letting",
+   "source": "youtube: Meta’s Muse",
    "ok": true
   },
   {
-   "source": "tiktok: google tabletop tests letting",
+   "source": "tiktok: Meta’s Muse",
+   "ok": true
+  },
+  {
+   "source": "youtube: bytedance meta muse reportedly",
+   "ok": true
+  },
+  {
+   "source": "tiktok: bytedance meta muse reportedly",
    "ok": true
   }
  ],
@@ -653,7 +661,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-11 17:19:52",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -703,6 +711,110 @@
    "searched_at": "2026-11-12T03:14:14.392Z"
   },
   {
+   "first_seen": "2026-11-12T11:36:05.764Z",
+   "id": "39775966",
+   "ids": [
+    "39775966",
+    "39769061"
+   ],
+   "title": "ByteDance reportedly plans AI assistant similar to Meta’s Muse",
+   "url": "https://technode.com/2026/11/12/bytedance-reportedly-plans-ai-assistant-similar-to-metas-muse/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-12 07:11:14",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "ByteDance plans Meta Muse-like AI assistant to chase OpenAI",
+     "url": "https://www.techinasia.com/news/bytedance-plans-meta-muselike-ai-assistant-chase-openai"
+    }
+   ],
+   "queries": [
+    "Meta’s Muse",
+    "bytedance meta muse reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xpANrcjTDaA",
+     "url": "https://www.youtube.com/shorts/xpANrcjTDaA",
+     "title": "4 Ways to Use Meta Muse",
+     "channel": "",
+     "views": 647,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:X2ffXbQY2r0",
+     "url": "https://www.youtube.com/shorts/X2ffXbQY2r0",
+     "title": "Meta Just Introduced Muse AI - Your New Personal AI Agent?",
+     "channel": "",
+     "views": 97,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:pDXVcr7QjSY",
+     "url": "https://www.youtube.com/shorts/pDXVcr7QjSY",
+     "title": "Meta Muse",
+     "channel": "",
+     "views": 58,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5lWDT-wWBy4",
+     "url": "https://www.youtube.com/shorts/5lWDT-wWBy4",
+     "title": "Meta Muse Wonder | Is Meta AI Open Source?",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Q3urrExUu2k",
+     "url": "https://www.youtube.com/shorts/Q3urrExUu2k",
+     "title": "Meta Signals Buy from Muse AI News",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:z_E6wirUFMI",
+     "url": "https://www.youtube.com/shorts/z_E6wirUFMI",
+     "title": "Meta's Muse Now Answers Your Email",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-12T11:36:13.579Z"
+  },
+  {
    "first_seen": "2026-11-11T17:36:27.454Z",
    "id": "39755841",
    "ids": [
@@ -746,7 +858,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-11 15:11:59",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
