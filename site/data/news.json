@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T17:10:35.081Z",
+ "generated_at": "2026-11-12T17:50:00.291Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Russian Pranksters Into Thinking They Were Speaking",
+   "source": "youtube: Meta’s Muse",
    "ok": true
   },
   {
-   "source": "tiktok: Russian Pranksters Into Thinking They Were Speaking",
+   "source": "tiktok: Meta’s Muse",
    "ok": true
   },
   {
-   "source": "youtube: openai fooled russian pranksters",
+   "source": "youtube: bytedance meta muse reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: openai fooled russian pranksters",
+   "source": "tiktok: bytedance meta muse reportedly",
    "ok": true
   }
  ],
@@ -1586,6 +1586,86 @@
    "searched_at": "2026-11-10T13:21:14.186Z"
   },
   {
+   "first_seen": "2026-11-12T11:36:05.764Z",
+   "id": "39775966",
+   "ids": [
+    "39775966",
+    "39769061"
+   ],
+   "title": "ByteDance reportedly plans AI assistant similar to Meta’s Muse",
+   "url": "https://technode.com/2026/11/12/bytedance-reportedly-plans-ai-assistant-similar-to-metas-muse/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-12 07:11:14",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "ByteDance plans Meta Muse-like AI assistant to chase OpenAI",
+     "url": "https://www.techinasia.com/news/bytedance-plans-meta-muselike-ai-assistant-chase-openai"
+    }
+   ],
+   "queries": [
+    "Meta’s Muse",
+    "bytedance meta muse reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:eyKgE8swaOE",
+     "url": "https://www.youtube.com/watch?v=eyKgE8swaOE",
+     "title": "First impressions on Meta's new Muse AI",
+     "channel": "João Nina Matos",
+     "views": 120,
+     "age_hours": 6,
+     "relevance": 0.6,
+     "velocity": 20
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:X2ffXbQY2r0",
+     "url": "https://www.youtube.com/shorts/X2ffXbQY2r0",
+     "title": "Meta Just Introduced Muse AI - Your New Personal AI Agent?",
+     "channel": "",
+     "views": 160,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:z_E6wirUFMI",
+     "url": "https://www.youtube.com/shorts/z_E6wirUFMI",
+     "title": "Meta's Muse Now Answers Your Email",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:E4Qh9oHkQpY",
+     "url": "https://www.youtube.com/watch?v=E4Qh9oHkQpY",
+     "title": "RERIGHT · ByteDance reportedly plans a Muse-like AI agent within weeks",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-12T17:50:07.984Z"
+  },
+  {
    "first_seen": "2026-11-10T10:12:00.650Z",
    "id": "39726235",
    "ids": [
@@ -1793,110 +1873,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T16:23:46.921Z"
-  },
-  {
-   "first_seen": "2026-11-12T11:36:05.764Z",
-   "id": "39775966",
-   "ids": [
-    "39775966",
-    "39769061"
-   ],
-   "title": "ByteDance reportedly plans AI assistant similar to Meta’s Muse",
-   "url": "https://technode.com/2026/11/12/bytedance-reportedly-plans-ai-assistant-similar-to-metas-muse/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-12 07:11:14",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "ByteDance plans Meta Muse-like AI assistant to chase OpenAI",
-     "url": "https://www.techinasia.com/news/bytedance-plans-meta-muselike-ai-assistant-chase-openai"
-    }
-   ],
-   "queries": [
-    "Meta’s Muse",
-    "bytedance meta muse reportedly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xpANrcjTDaA",
-     "url": "https://www.youtube.com/shorts/xpANrcjTDaA",
-     "title": "4 Ways to Use Meta Muse",
-     "channel": "",
-     "views": 647,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:X2ffXbQY2r0",
-     "url": "https://www.youtube.com/shorts/X2ffXbQY2r0",
-     "title": "Meta Just Introduced Muse AI - Your New Personal AI Agent?",
-     "channel": "",
-     "views": 97,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pDXVcr7QjSY",
-     "url": "https://www.youtube.com/shorts/pDXVcr7QjSY",
-     "title": "Meta Muse",
-     "channel": "",
-     "views": 58,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5lWDT-wWBy4",
-     "url": "https://www.youtube.com/shorts/5lWDT-wWBy4",
-     "title": "Meta Muse Wonder | Is Meta AI Open Source?",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Q3urrExUu2k",
-     "url": "https://www.youtube.com/shorts/Q3urrExUu2k",
-     "title": "Meta Signals Buy from Muse AI News",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:z_E6wirUFMI",
-     "url": "https://www.youtube.com/shorts/z_E6wirUFMI",
-     "title": "Meta's Muse Now Answers Your Email",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-12T11:36:13.579Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
