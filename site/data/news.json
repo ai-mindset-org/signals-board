@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T04:13:19.044Z",
+ "generated_at": "2026-11-12T04:51:17.614Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Anthropic's IPO",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Anthropic's IPO",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic ipo roadshow video",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic ipo roadshow video",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-11T19:49:38.331Z",
@@ -73,10 +90,10 @@
      "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
      "title": "Did Anthropic just save its $1 trillion IPO?",
      "channel": "Fireship",
-     "views": 1352373,
+     "views": 1396057,
      "age_hours": 24,
      "relevance": 0.5,
-     "velocity": 56349
+     "velocity": 58169
     },
     {
      "platform": "youtube",
@@ -85,22 +102,22 @@
      "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
      "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
      "channel": "",
-     "views": 547000,
+     "views": 555000,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:RCpgwpdvDu8",
-     "url": "https://www.youtube.com/watch?v=RCpgwpdvDu8",
-     "title": "JensenGate and Anthropic's IPO w/ Ed Elson | Better Offline",
-     "channel": "Better Offline",
-     "views": 24197,
-     "age_hours": 5,
+     "kind": "shorts",
+     "id": "youtube:1Wg8HWNrYhE",
+     "url": "https://www.youtube.com/shorts/1Wg8HWNrYhE",
+     "title": "Is Anthropic’s IPO getting delayed??? Is AI cooked?! #AI #stockmarket #money #bluewave #finance",
+     "channel": "",
+     "views": 199000,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 4839
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -109,10 +126,10 @@
      "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
      "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
      "channel": "Eli the Computer Guy",
-     "views": 95799,
+     "views": 97299,
      "age_hours": 24,
      "relevance": 0.5,
-     "velocity": 3992
+     "velocity": 4054
     },
     {
      "platform": "youtube",
@@ -121,29 +138,29 @@
      "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
      "title": "Big Twist In Anthropic IPO",
      "channel": "Solving The Money Problem",
-     "views": 53128,
-     "age_hours": 18,
+     "views": 56686,
+     "age_hours": 24,
      "relevance": 0.5,
-     "velocity": 2952
+     "velocity": 2362
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:sMO9WTDYgDw",
-     "url": "https://www.youtube.com/watch?v=sMO9WTDYgDw",
-     "title": "Investor Selby on Why Anthropic's IPO Puzzles Him",
-     "channel": "Bloomberg Television",
-     "views": 8308,
-     "age_hours": 3,
+     "id": "youtube:ewJ9NRQZ6So",
+     "url": "https://www.youtube.com/watch?v=ewJ9NRQZ6So",
+     "title": "Anthropic IPO: Chatbot Maker Eyes $1.4 Trillion Valuation; Can They Deliver? | The Palki Sharma Show",
+     "channel": "India Global Review",
+     "views": 22738,
+     "age_hours": 11,
      "relevance": 0.5,
-     "velocity": 2769
+     "velocity": 2067
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-11T22:50:01.335Z"
+   "searched_at": "2026-11-12T04:51:25.585Z"
   },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
