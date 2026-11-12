@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T13:36:20.361Z",
+ "generated_at": "2026-11-12T14:24:19.845Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: 0.37.2 llm",
+   "ok": true
+  },
+  {
+   "source": "tiktok: 0.37.2 llm",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-12T13:21:45.102Z",
@@ -21,7 +30,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-12 12:18:51",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "theverge",
@@ -764,7 +773,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-12T08:15:20.413Z"
+   "searched_at": "2026-11-12T14:24:23.812Z"
   },
   {
    "first_seen": "2026-11-11T16:36:48.177Z",
