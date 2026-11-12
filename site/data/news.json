@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T19:09:32.502Z",
+ "generated_at": "2026-11-12T19:35:39.556Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: United Airlines Won’t Let Your",
+   "ok": true
+  },
+  {
+   "source": "tiktok: United Airlines Won’t Let Your",
+   "ok": true
+  },
+  {
+   "source": "youtube: united airlines won let",
+   "ok": true
+  },
+  {
+   "source": "tiktok: united airlines won let",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-12T17:10:35.081Z",
@@ -177,9 +194,21 @@
      "title": "Is the AI Boom Over? Let's Talk About It.",
      "channel": "@NateBJones",
      "views": 57000,
-     "age_hours": 78.79035888888889,
+     "age_hours": 85.02224083333333,
      "relevance": 0.5,
-     "velocity": 723
+     "velocity": 670
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Y18BEEjkq-U",
+     "url": "https://www.youtube.com/shorts/Y18BEEjkq-U",
+     "title": "United Airlines banning AI bots from booking flights",
+     "channel": "",
+     "views": 983,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -188,46 +217,34 @@
      "url": "https://www.youtube.com/watch?v=i613RK0vCbY",
      "title": "United Airlines bans AI bots from booking flights",
      "channel": "KGW News",
-     "views": 372,
-     "age_hours": 12,
+     "views": 421,
+     "age_hours": 18,
      "relevance": 0.57,
-     "velocity": 31
+     "velocity": 23
     },
     {
      "platform": "youtube",
-     "kind": "видео",
+     "kind": "shorts",
      "id": "youtube:af6GTar_I4U",
-     "url": "https://www.youtube.com/watch?v=af6GTar_I4U",
+     "url": "https://www.youtube.com/shorts/af6GTar_I4U",
      "title": "United Airlines Bans AI Bots From Booking Flights",
-     "channel": "Erick Erickson",
-     "views": 148,
-     "age_hours": 12,
+     "channel": "",
+     "views": 180,
+     "age_hours": null,
      "relevance": 0.57,
-     "velocity": 12
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:aR5IhrSrBik",
-     "url": "https://www.youtube.com/watch?v=aR5IhrSrBik",
-     "title": "United Says It Won’t Allow Unauthorized AI Agents to Book Flights",
-     "channel": "Generative",
-     "views": 33,
-     "age_hours": 9,
-     "relevance": 0.63,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NalIBAJ1sEg",
-     "url": "https://www.youtube.com/watch?v=NalIBAJ1sEg",
-     "title": "United won’t let your AI agent book your flight #Shorts",
-     "channel": "Morningcoffeebyte",
-     "views": 25,
-     "age_hours": 6,
-     "relevance": 0.63,
-     "velocity": 4
+     "kind": "shorts",
+     "id": "youtube:hazZEOkHTWs",
+     "url": "https://www.youtube.com/shorts/hazZEOkHTWs",
+     "title": "United Airlines Bans AI from Booking Flights Amid Security Concerns",
+     "channel": "",
+     "views": 117,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -236,7 +253,7 @@
      "url": "https://www.youtube.com/shorts/VYMUJ5vMDn4",
      "title": "United Airlines Now BANS AI Agents From Booking",
      "channel": "",
-     "views": 28,
+     "views": 70,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -246,7 +263,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-12T13:21:52.496Z"
+   "searched_at": "2026-11-12T19:35:47.271Z"
   },
   {
    "first_seen": "2026-11-12T15:11:46.853Z",
