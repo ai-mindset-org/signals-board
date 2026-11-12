@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T04:51:17.614Z",
+ "generated_at": "2026-11-12T05:12:09.459Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic's IPO",
+   "source": "youtube: google tabletop tests letting",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic's IPO",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo roadshow video",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo roadshow video",
+   "source": "tiktok: google tabletop tests letting",
    "ok": true
   }
  ],
@@ -289,25 +281,12 @@
    "queries": [
     "google tabletop tests letting"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5hHq_HTyfdw",
-     "url": "https://www.youtube.com/shorts/5hHq_HTyfdw",
-     "title": "Google's Tabletop AI: Build Custom Apps! #shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-11T23:10:11.362Z"
+   "searched_at": "2026-11-12T05:12:13.925Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
