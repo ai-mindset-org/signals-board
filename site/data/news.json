@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:36:05.764Z",
+ "generated_at": "2026-11-12T13:21:45.102Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,127 @@
  },
  "search_report": [
   {
-   "source": "youtube: Meta’s Muse",
+   "source": "youtube: United Airlines Won’t Let Your",
    "ok": true
   },
   {
-   "source": "tiktok: Meta’s Muse",
+   "source": "tiktok: United Airlines Won’t Let Your",
    "ok": true
   },
   {
-   "source": "youtube: bytedance meta muse reportedly",
+   "source": "youtube: united airlines won let",
    "ok": true
   },
   {
-   "source": "tiktok: bytedance meta muse reportedly",
+   "source": "tiktok: united airlines won let",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-12T13:21:45.102Z",
+   "id": "39777649",
+   "ids": [
+    "39777649",
+    "39765894"
+   ],
+   "title": "United Airlines Won’t Let Your AI Assistant Book Your Flights",
+   "url": "https://dailyai.com/2026/11/united-airlines-wont-let-your-ai-assistant-book-your-flights/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-12 12:18:51",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "theverge",
+     "title": "United won’t let your AI agent book your flight",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    }
+   ],
+   "queries": [
+    "United Airlines Won’t Let Your",
+    "united airlines won let"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:illf65HD_t4",
+     "url": "https://www.youtube.com/watch?v=illf65HD_t4",
+     "title": "Is the AI Boom Over? Let's Talk About It.",
+     "channel": "@NateBJones",
+     "views": 57000,
+     "age_hours": 78.79035888888889,
+     "relevance": 0.5,
+     "velocity": 723
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:i613RK0vCbY",
+     "url": "https://www.youtube.com/watch?v=i613RK0vCbY",
+     "title": "United Airlines bans AI bots from booking flights",
+     "channel": "KGW News",
+     "views": 372,
+     "age_hours": 12,
+     "relevance": 0.57,
+     "velocity": 31
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:af6GTar_I4U",
+     "url": "https://www.youtube.com/watch?v=af6GTar_I4U",
+     "title": "United Airlines Bans AI Bots From Booking Flights",
+     "channel": "Erick Erickson",
+     "views": 148,
+     "age_hours": 12,
+     "relevance": 0.57,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:aR5IhrSrBik",
+     "url": "https://www.youtube.com/watch?v=aR5IhrSrBik",
+     "title": "United Says It Won’t Allow Unauthorized AI Agents to Book Flights",
+     "channel": "Generative",
+     "views": 33,
+     "age_hours": 9,
+     "relevance": 0.63,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NalIBAJ1sEg",
+     "url": "https://www.youtube.com/watch?v=NalIBAJ1sEg",
+     "title": "United won’t let your AI agent book your flight #Shorts",
+     "channel": "Morningcoffeebyte",
+     "views": 25,
+     "age_hours": 6,
+     "relevance": 0.63,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VYMUJ5vMDn4",
+     "url": "https://www.youtube.com/shorts/VYMUJ5vMDn4",
+     "title": "United Airlines Now BANS AI Agents From Booking",
+     "channel": "",
+     "views": 28,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-12T13:21:52.496Z"
+  },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
    "id": "39734823",
@@ -661,7 +765,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-11 17:19:52",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
@@ -680,37 +784,6 @@
    "searched_at": "2026-11-12T08:15:20.413Z"
   },
   {
-   "first_seen": "2026-11-11T14:11:55.934Z",
-   "id": "39755394",
-   "ids": [
-    "39755394",
-    "39750218"
-   ],
-   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-11 13:52:00",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Modell Aure",
-    "ki-stimmen emotionen deepl modell"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T03:14:14.392Z"
-  },
-  {
    "first_seen": "2026-11-12T11:36:05.764Z",
    "id": "39775966",
    "ids": [
@@ -722,7 +795,7 @@
    "source_id": "cn-technode",
    "published_ts": "2026-11-12 07:11:14",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -815,36 +888,6 @@
    "searched_at": "2026-11-12T11:36:13.579Z"
   },
   {
-   "first_seen": "2026-11-11T17:36:27.454Z",
-   "id": "39755841",
-   "ids": [
-    "39755841",
-    "39759615"
-   ],
-   "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
-   "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-11 13:49:03",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
-     "url": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/"
-    }
-   ],
-   "queries": [
-    "meta tiktok google indonesia"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T05:49:40.866Z"
-  },
-  {
    "first_seen": "2026-11-11T16:36:48.177Z",
    "id": "39758563",
    "ids": [
@@ -858,7 +901,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-11 15:11:59",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "hn",
@@ -949,6 +992,67 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-12T11:10:46.156Z"
+  },
+  {
+   "first_seen": "2026-11-11T14:11:55.934Z",
+   "id": "39755394",
+   "ids": [
+    "39755394",
+    "39750218"
+   ],
+   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-11 13:52:00",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Modell Aure",
+    "ki-stimmen emotionen deepl modell"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-12T03:14:14.392Z"
+  },
+  {
+   "first_seen": "2026-11-11T17:36:27.454Z",
+   "id": "39755841",
+   "ids": [
+    "39755841",
+    "39759615"
+   ],
+   "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
+   "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-11 13:49:03",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
+     "url": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/"
+    }
+   ],
+   "queries": [
+    "meta tiktok google indonesia"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-12T05:49:40.866Z"
   },
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
@@ -1994,7 +2098,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-11 22:37:09",
    "story_sources": 2,
-   "score_norm": 54,
+   "score_norm": 55,
    "related_news": [
     {
      "source_id": "eu-tnw",
