@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T21:20:52.813Z",
+ "generated_at": "2026-11-12T23:20:43.517Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Nvidia CEO Jensen Huang",
+   "source": "youtube: Russian Pranksters Into Thinking They Were Speaking",
    "ok": true
   },
   {
-   "source": "tiktok: Nvidia CEO Jensen Huang",
+   "source": "tiktok: Russian Pranksters Into Thinking They Were Speaking",
    "ok": true
   },
   {
-   "source": "youtube: nvidia ceo jensen huang",
+   "source": "youtube: openai fooled russian pranksters",
    "ok": true
   },
   {
-   "source": "tiktok: nvidia ceo jensen huang",
+   "source": "tiktok: openai fooled russian pranksters",
    "ok": true
   }
  ],
@@ -514,12 +514,25 @@
     "Russian Pranksters Into Thinking They Were Speaking",
     "openai fooled russian pranksters"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:EisCDuIoOYw",
+     "url": "https://www.youtube.com/shorts/EisCDuIoOYw",
+     "title": "Russian Pranksters Fooled OpenAI's Security Team #shorts",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-12T17:10:42.468Z"
+   "searched_at": "2026-11-12T23:20:50.998Z"
   },
   {
    "first_seen": "2026-11-09T22:50:05.120Z",
