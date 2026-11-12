@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T08:15:16.497Z",
+ "generated_at": "2026-11-12T11:10:38.312Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,151 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: 0.37.2 llm",
+   "source": "youtube: Anthropic's IPO",
    "ok": true
   },
   {
-   "source": "tiktok: 0.37.2 llm",
+   "source": "tiktok: Anthropic's IPO",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic ipo roadshow video",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic ipo roadshow video",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-11-11T19:49:38.331Z",
-   "id": "39762509",
-   "ids": [
-    "39762509",
-    "39761255"
-   ],
-   "title": "llm 0.37.2",
-   "url": "https://simonwillison.net/2026/Nov/11/llm/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-11 17:19:52",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "37% on ARC-AGI 2 without an LLM",
-     "url": "https://mvakde.github.io/blog/looped-mdlarc/#vs-trm"
-    }
-   ],
-   "queries": [
-    "0.37.2 llm"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T08:15:20.413Z"
-  },
-  {
-   "first_seen": "2026-11-11T16:36:48.177Z",
-   "id": "39758563",
-   "ids": [
-    "39758563",
-    "39743034",
-    "39735111",
-    "39758842"
-   ],
-   "title": "Anthropic's IPO roadshow video",
-   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-11 15:11:59",
-   "story_sources": 2,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic IPO – Dario Amodei [video]",
-     "url": "https://www.youtube.com/watch?v=eynv5VR9qos"
-    }
-   ],
-   "queries": [
-    "Anthropic's IPO",
-    "anthropic ipo roadshow video"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1FurWDiK9A4",
-     "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
-     "title": "Did Anthropic just save its $1 trillion IPO?",
-     "channel": "Fireship",
-     "views": 1396057,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 58169
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BE7YjDfVRLE",
-     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
-     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
-     "channel": "",
-     "views": 555000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1Wg8HWNrYhE",
-     "url": "https://www.youtube.com/shorts/1Wg8HWNrYhE",
-     "title": "Is Anthropic’s IPO getting delayed??? Is AI cooked?! #AI #stockmarket #money #bluewave #finance",
-     "channel": "",
-     "views": 199000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NCZZ1YVD4hY",
-     "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
-     "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
-     "channel": "Eli the Computer Guy",
-     "views": 97299,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 4054
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:py4lODPF_kE",
-     "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
-     "title": "Big Twist In Anthropic IPO",
-     "channel": "Solving The Money Problem",
-     "views": 56686,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 2362
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ewJ9NRQZ6So",
-     "url": "https://www.youtube.com/watch?v=ewJ9NRQZ6So",
-     "title": "Anthropic IPO: Chatbot Maker Eyes $1.4 Trillion Valuation; Can They Deliver? | The Palki Sharma Show",
-     "channel": "India Global Review",
-     "views": 22738,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 2067
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-12T04:51:25.585Z"
-  },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
    "id": "39734823",
@@ -257,36 +129,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T12:49:56.834Z"
-  },
-  {
-   "first_seen": "2026-11-11T23:10:07.247Z",
-   "id": "39766560",
-   "ids": [
-    "39766560",
-    "39760725"
-   ],
-   "title": "Google tests Tabletop, letting groups build planning tools with an AI agent",
-   "url": "https://siliconangle.com/2026/11/11/google-tests-tabletop-letting-groups-build-planning-tools-with-an-ai-agent/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-11 22:37:09",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google’s Tabletop lets groups build AI planning tools together",
-     "url": "https://thenextweb.com/news/google-labs-tabletop-ai-group-planning-spaces"
-    }
-   ],
-   "queries": [
-    "google tabletop tests letting"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T05:12:13.925Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -808,6 +650,36 @@
    "searched_at": "2026-11-12T03:37:40.924Z"
   },
   {
+   "first_seen": "2026-11-11T19:49:38.331Z",
+   "id": "39762509",
+   "ids": [
+    "39762509",
+    "39761255"
+   ],
+   "title": "llm 0.37.2",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-11 17:19:52",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "37% on ARC-AGI 2 without an LLM",
+     "url": "https://mvakde.github.io/blog/looped-mdlarc/#vs-trm"
+    }
+   ],
+   "queries": [
+    "0.37.2 llm"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-12T08:15:20.413Z"
+  },
+  {
    "first_seen": "2026-11-11T14:11:55.934Z",
    "id": "39755394",
    "ids": [
@@ -867,6 +739,112 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-12T05:49:40.866Z"
+  },
+  {
+   "first_seen": "2026-11-11T16:36:48.177Z",
+   "id": "39758563",
+   "ids": [
+    "39758563",
+    "39743034",
+    "39735111",
+    "39758842"
+   ],
+   "title": "Anthropic's IPO roadshow video",
+   "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-11 15:11:59",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic IPO – Dario Amodei [video]",
+     "url": "https://www.youtube.com/watch?v=eynv5VR9qos"
+    }
+   ],
+   "queries": [
+    "Anthropic's IPO",
+    "anthropic ipo roadshow video"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1FurWDiK9A4",
+     "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+     "title": "Did Anthropic just save its $1 trillion IPO?",
+     "channel": "Fireship",
+     "views": 1452298,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 60512
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BE7YjDfVRLE",
+     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
+     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
+     "channel": "",
+     "views": 565000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NCZZ1YVD4hY",
+     "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
+     "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
+     "channel": "Eli the Computer Guy",
+     "views": 98444,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 4102
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:RCpgwpdvDu8",
+     "url": "https://www.youtube.com/watch?v=RCpgwpdvDu8",
+     "title": "JensenGate and Anthropic's IPO w/ Ed Elson | Better Offline",
+     "channel": "Better Offline",
+     "views": 55647,
+     "age_hours": 18,
+     "relevance": 0.5,
+     "velocity": 3092
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:py4lODPF_kE",
+     "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
+     "title": "Big Twist In Anthropic IPO",
+     "channel": "Solving The Money Problem",
+     "views": 59846,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 2494
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sMO9WTDYgDw",
+     "url": "https://www.youtube.com/watch?v=sMO9WTDYgDw",
+     "title": "Investor Selby on Why Anthropic's IPO Puzzles Him",
+     "channel": "Bloomberg Television",
+     "views": 27165,
+     "age_hours": 16,
+     "relevance": 0.5,
+     "velocity": 1698
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-12T11:10:46.156Z"
   },
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
@@ -1899,6 +1877,36 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-10T14:36:36.323Z"
+  },
+  {
+   "first_seen": "2026-11-11T23:10:07.247Z",
+   "id": "39766560",
+   "ids": [
+    "39766560",
+    "39760725"
+   ],
+   "title": "Google tests Tabletop, letting groups build planning tools with an AI agent",
+   "url": "https://siliconangle.com/2026/11/11/google-tests-tabletop-letting-groups-build-planning-tools-with-an-ai-agent/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-11 22:37:09",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Google’s Tabletop lets groups build AI planning tools together",
+     "url": "https://thenextweb.com/news/google-labs-tabletop-ai-group-planning-spaces"
+    }
+   ],
+   "queries": [
+    "google tabletop tests letting"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-12T05:12:13.925Z"
   },
   {
    "first_seen": "2026-11-11T11:20:23.205Z",
