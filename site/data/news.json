@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T14:49:31.963Z",
+ "generated_at": "2026-11-12T15:11:46.853Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Nvidia CEO Jensen Huang",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Nvidia CEO Jensen Huang",
+   "ok": true
+  },
+  {
+   "source": "youtube: nvidia ceo jensen huang",
+   "ok": true
+  },
+  {
+   "source": "tiktok: nvidia ceo jensen huang",
+   "ok": true
+  },
+  {
+   "source": "youtube: uk fractile 720m 7bn",
+   "ok": true
+  },
+  {
+   "source": "tiktok: uk fractile 720m 7bn",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-12T13:21:45.102Z",
@@ -216,6 +241,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T12:49:56.834Z"
+  },
+  {
+   "first_seen": "2026-11-12T15:11:46.853Z",
+   "id": "39778803",
+   "ids": [
+    "39778803",
+    "39779691"
+   ],
+   "title": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
+   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom/article71694311.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-12 14:12:00",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Jensen Huang Resigns as Nvidia CEO: What Happens Next for AI Chips?",
+     "url": "https://oplexa.com/blogs/jensen-huang-resigns-nvidia-ceo-november-2026/"
+    }
+   ],
+   "queries": [
+    "Nvidia CEO Jensen Huang",
+    "nvidia ceo jensen huang"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:h7Xq6wvIDWE",
+     "url": "https://www.youtube.com/watch?v=h7Xq6wvIDWE",
+     "title": "Nvidia Preparing to Oust CEO Jensen Huang: WSJ",
+     "channel": "Bloomberg Television",
+     "views": 527287,
+     "age_hours": 16,
+     "relevance": 0.57,
+     "velocity": 32955
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jHXVDncg5QE",
+     "url": "https://www.youtube.com/watch?v=jHXVDncg5QE",
+     "title": "BREAKING: Nvidia reportedly preparing to oust CEO Jensen Huang",
+     "channel": "Fox News",
+     "views": 287386,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 19159
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:M2NwfHUDu1w",
+     "url": "https://www.youtube.com/watch?v=M2NwfHUDu1w",
+     "title": "What happens if Jensen Huang is ousted at Nvidia?",
+     "channel": "Reuters",
+     "views": 31509,
+     "age_hours": 8,
+     "relevance": 0.5,
+     "velocity": 3939
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MCND7X2jXUY",
+     "url": "https://www.youtube.com/shorts/MCND7X2jXUY",
+     "title": "What the Jensen Huang Scandal Could Mean for Nvidia",
+     "channel": "",
+     "views": 96000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CU1I2a-FF7E",
+     "url": "https://www.youtube.com/watch?v=CU1I2a-FF7E",
+     "title": "Nvidia CEO Jensen Huang resigns",
+     "channel": "Reuters",
+     "views": 2367,
+     "age_hours": 0.95,
+     "relevance": 1,
+     "velocity": 2367
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3xBKmuW8nOo",
+     "url": "https://www.youtube.com/watch?v=3xBKmuW8nOo",
+     "title": "Nvidia CEO Jensen Huang resigns",
+     "channel": "NewsNation",
+     "views": 1118,
+     "age_hours": 0.8,
+     "relevance": 1,
+     "velocity": 1118
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-12T15:11:54.757Z"
   },
   {
    "first_seen": "2026-11-10T04:12:34.851Z",
@@ -527,6 +656,109 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T09:23:49.933Z"
+  },
+  {
+   "first_seen": "2026-11-12T15:11:46.853Z",
+   "id": "39779077",
+   "ids": [
+    "39779077",
+    "39779834"
+   ],
+   "title": "UK AI chip start-up Fractile raises $720m at $7bn valuation",
+   "url": "https://www.techmonitor.ai/news/uk-ai-chip-start-up-fractile-raises-720m-at-7bn-valuation",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-12 09:40:55",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "eu-siliconrepublic",
+     "title": "UK AI chips start-up Fractile raises $720m at $7bn valuation",
+     "url": "https://www.siliconrepublic.com/start-ups/uk-ai-chips-start-up-fractile-raises-720m-at-7bn-valuation"
+    }
+   ],
+   "queries": [
+    "uk fractile 720m 7bn"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0vkwBNz8KEg",
+     "url": "https://www.youtube.com/shorts/0vkwBNz8KEg",
+     "title": "Britain's Fractile Raises $720M to Take On Nvidia in the AI Chip Race",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CcZ5TpSkD0k",
+     "url": "https://www.youtube.com/shorts/CcZ5TpSkD0k",
+     "title": "Fractile Raises $720M at a $7B Valuation, With No Production Chip Yet #Shorts",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:aD8X2w3JlTg",
+     "url": "https://www.youtube.com/shorts/aD8X2w3JlTg",
+     "title": "Fractile Raises $720M at $7B Valuation for AI Chips",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dN25ZxDGzNg",
+     "url": "https://www.youtube.com/shorts/dN25ZxDGzNg",
+     "title": "Fractile AI chip startup valued at $7 billion",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:LSNUzj-E_iM",
+     "url": "https://www.youtube.com/shorts/LSNUzj-E_iM",
+     "title": "Fractile raises $720M to build new AI chips",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Kem6E1dwXN0",
+     "url": "https://www.youtube.com/shorts/Kem6E1dwXN0",
+     "title": "Fractile Raises $720M at a $7B Valuation 🚀 #AI #StartupFunding #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-12T15:11:58.190Z"
   },
   {
    "first_seen": "2026-11-09T22:50:05.120Z",
