@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T03:37:36.484Z",
+ "generated_at": "2026-11-12T04:13:19.044Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: united restricting ai agents",
-   "ok": true
-  },
-  {
-   "source": "tiktok: united restricting ai agents",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-11T19:49:38.331Z",
@@ -1290,86 +1281,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T13:21:14.186Z"
-  },
-  {
-   "first_seen": "2026-11-09T05:36:45.359Z",
-   "id": "39700788",
-   "ids": [
-    "39700788",
-    "39701198",
-    "39701850"
-   ],
-   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-09 04:07:44",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic secures $3.4B generator deal for AI data centers",
-     "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
-    }
-   ],
-   "queries": [
-    "anthropic 3.4 report secures"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Q1MKbjgRDJk",
-     "url": "https://www.youtube.com/watch?v=Q1MKbjgRDJk",
-     "title": "Anthropic's $3.4B Generator Deal | AI News #Shorts",
-     "channel": "DevTech Services",
-     "views": 49,
-     "age_hours": 3,
-     "relevance": 0.57,
-     "velocity": 16
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sO8YTACLl2w",
-     "url": "https://www.youtube.com/watch?v=sO8YTACLl2w",
-     "title": "AI POWER SHOCK! Anthropic's $3 4 BILLION Energy Deal! #shorts",
-     "channel": "Mafh² Discovery",
-     "views": 36,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KCi1auHtIg8",
-     "url": "https://www.youtube.com/watch?v=KCi1auHtIg8",
-     "title": "Anthropic's Reported $3.4 Billion AI Power Deal Explained!",
-     "channel": "AP Quintellect | AI & Business",
-     "views": 5,
-     "age_hours": 6,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:f5BHDOnQ1i8",
-     "url": "https://www.youtube.com/watch?v=f5BHDOnQ1i8",
-     "title": "Anthropic Strikes A 3.4 Billion Dollar Deal To Run Its Own Gas-Fired Power For Data Centres",
-     "channel": "BreakingNewsAI",
-     "views": 4,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-09T17:50:05.278Z"
   },
   {
    "first_seen": "2026-11-10T10:12:00.650Z",
