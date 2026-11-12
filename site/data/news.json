@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T20:11:34.998Z",
+ "generated_at": "2026-11-12T20:36:36.773Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: ai chatbots recommending fake",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ai chatbots recommending fake",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
@@ -2470,62 +2461,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T16:12:36.657Z"
-  },
-  {
-   "first_seen": "2026-11-09T21:10:03.334Z",
-   "id": "39716552",
-   "ids": [
-    "39716552",
-    "39712914"
-   ],
-   "title": "IBM plans to bring Anthropic’s Claude Mythos to enterprise customers",
-   "url": "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-09 20:34:10",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "IBM plans to bring Anthropic's Claude Mythos cyber reasoning into IBM Concert",
-     "url": "https://www.ibm.com/new/announcements/ibm-plans-to-bring-anthropic-s-claude-mythos-cyber-reasoning-into-ibm-concert"
-    }
-   ],
-   "queries": [
-    "Anthropic’s Claude Mythos",
-    "ibm anthropic claude mythos"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:2ow4uoE6wy8",
-     "url": "https://www.youtube.com/watch?v=2ow4uoE6wy8",
-     "title": "Anthropic's Claude Mythos 5.2 Is Absolutely Insane",
-     "channel": "DeepManim",
-     "views": 5,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nc7zTB8jySw",
-     "url": "https://www.youtube.com/shorts/nc7zTB8jySw",
-     "title": "Anthropic has upgraded Claude Fable and Claude Mythos to",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T09:24:26.577Z"
   },
   {
    "first_seen": "2026-11-12T15:11:46.853Z",
