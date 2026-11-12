@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T05:12:09.459Z",
+ "generated_at": "2026-11-12T05:49:36.701Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: google tabletop tests letting",
+   "source": "youtube: meta tiktok google indonesia",
    "ok": true
   },
   {
-   "source": "tiktok: google tabletop tests letting",
+   "source": "tiktok: meta tiktok google indonesia",
    "ok": true
   }
  ],
@@ -270,7 +270,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-11 22:37:09",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -808,6 +808,37 @@
    "searched_at": "2026-11-12T03:37:40.924Z"
   },
   {
+   "first_seen": "2026-11-11T14:11:55.934Z",
+   "id": "39755394",
+   "ids": [
+    "39755394",
+    "39750218"
+   ],
+   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-11 13:52:00",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
+     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Modell Aure",
+    "ki-stimmen emotionen deepl modell"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-12T03:14:14.392Z"
+  },
+  {
    "first_seen": "2026-11-11T17:36:27.454Z",
    "id": "39755841",
    "ids": [
@@ -830,56 +861,12 @@
    "queries": [
     "meta tiktok google indonesia"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_pfXe2TukP8",
-     "url": "https://www.youtube.com/shorts/_pfXe2TukP8",
-     "title": "Meta, Google & TikTok Sue California",
-     "channel": "",
-     "views": 57,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T23:49:17.197Z"
-  },
-  {
-   "first_seen": "2026-11-11T14:11:55.934Z",
-   "id": "39755394",
-   "ids": [
-    "39755394",
-    "39750218"
-   ],
-   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-11 13:52:00",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Modell Aure",
-    "ki-stimmen emotionen deepl modell"
-   ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-12T03:14:14.392Z"
+   "searched_at": "2026-11-12T05:49:40.866Z"
   },
   {
    "first_seen": "2026-11-10T20:11:07.923Z",
