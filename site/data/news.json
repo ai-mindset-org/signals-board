@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T05:49:36.701Z",
+ "generated_at": "2026-11-12T08:15:16.497Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: meta tiktok google indonesia",
+   "source": "youtube: 0.37.2 llm",
    "ok": true
   },
   {
-   "source": "tiktok: meta tiktok google indonesia",
+   "source": "tiktok: 0.37.2 llm",
    "ok": true
   }
  ],
@@ -46,7 +46,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-12T01:49:59.965Z"
+   "searched_at": "2026-11-12T08:15:20.413Z"
   },
   {
    "first_seen": "2026-11-11T16:36:48.177Z",
@@ -62,7 +62,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-11 15:11:59",
    "story_sources": 2,
-   "score_norm": 96,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "hn",
@@ -270,7 +270,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-11 22:37:09",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "eu-tnw",
