@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T20:36:36.773Z",
+ "generated_at": "2026-11-12T20:49:14.534Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Introducing Gemini 4 Hydrogen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Introducing Gemini 4 Hydrogen",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing gemini hydrogen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing gemini hydrogen",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
@@ -38,6 +55,129 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-12T20:11:39.104Z"
+  },
+  {
+   "first_seen": "2026-11-12T20:49:14.534Z",
+   "id": "39786912",
+   "ids": [
+    "39786912",
+    "39784806",
+    "39783910",
+    "39783775",
+    "39783776",
+    "39783777"
+   ],
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "source_id": "deepmind",
+   "published_ts": "2026-11-12 18:00:50",
+   "story_sources": 2,
+   "score_norm": 95,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://deepmind.google/models/model-cards/gemini-4-hydrogen/"
+    }
+   ],
+   "queries": [
+    "Introducing Gemini 4 Hydrogen",
+    "introducing gemini hydrogen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:oh8AyMFU5S8",
+     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
+     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
+     "channel": "Google Gemini",
+     "views": 5858,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 2929
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6GA_zSxtSHE",
+     "url": "https://www.youtube.com/watch?v=6GA_zSxtSHE",
+     "title": "Gemini 4 Hydrogen: Everyday Model for Everyone from Google",
+     "channel": "Fahd Mirza",
+     "views": 182,
+     "age_hours": 0.7,
+     "relevance": 0.67,
+     "velocity": 182
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:E4TzPbJUrX0",
+     "url": "https://www.youtube.com/watch?v=E4TzPbJUrX0",
+     "title": "Gemini 4 Hydrogen Just Beat Argon (And It's Cheaper)",
+     "channel": "Hyperautomation Labs",
+     "views": 181,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 181
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2imEgVWkeoA",
+     "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
+     "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
+     "channel": "",
+     "views": 1600,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VIBvNUWB-NQ",
+     "url": "https://www.youtube.com/watch?v=VIBvNUWB-NQ",
+     "title": "Introducing Gemini for healthcare",
+     "channel": "Google Cloud",
+     "views": 1981,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 41
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:M4QX9CHkaYM",
+     "url": "https://www.youtube.com/shorts/M4QX9CHkaYM",
+     "title": "Gemini 4 Hydrogen is now available to everyone as our latest model for fast, everyday help.",
+     "channel": "",
+     "views": 1400,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-12T20:49:22.016Z"
   },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
