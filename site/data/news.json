@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:10:38.312Z",
+ "generated_at": "2026-11-12T11:20:49.230Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic's IPO",
+   "source": "youtube: google tabletop tests letting",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic's IPO",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic ipo roadshow video",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo roadshow video",
+   "source": "tiktok: google tabletop tests letting",
    "ok": true
   }
  ],
@@ -1901,12 +1893,37 @@
    "queries": [
     "google tabletop tests letting"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yEG-tkEaY5A",
+     "url": "https://www.youtube.com/watch?v=yEG-tkEaY5A",
+     "title": "Google Labs Tests Tabletop: A Shared Space Where an AI Agent Builds Group Plans",
+     "channel": "AIPopDB",
+     "views": 3,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QVUHEVYllRc",
+     "url": "https://www.youtube.com/shorts/QVUHEVYllRc",
+     "title": "Google Tabletop: An AI Agent Builds Your Group's Plans #Shorts",
+     "channel": "",
+     "views": 53,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-12T05:12:13.925Z"
+   "searched_at": "2026-11-12T11:20:53.393Z"
   },
   {
    "first_seen": "2026-11-11T11:20:23.205Z",
