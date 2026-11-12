@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T14:24:19.845Z",
+ "generated_at": "2026-11-12T14:49:31.963Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: 0.37.2 llm",
-   "ok": true
-  },
-  {
-   "source": "tiktok: 0.37.2 llm",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-12T13:21:45.102Z",
@@ -757,7 +748,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-11 17:19:52",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -789,7 +780,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-11 15:11:59",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
@@ -1846,50 +1837,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T03:49:59.328Z"
-  },
-  {
-   "first_seen": "2026-11-09T20:36:09.398Z",
-   "id": "39716220",
-   "ids": [
-    "39716220",
-    "39709533"
-   ],
-   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-   "url": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-11-09 14:45:41",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-     "url": "https://www.lesswrong.com/posts/je5X4xEuehu3j3HoF/ai-r-and-d-is-accelerating-towards-potential-rsi-in-2027"
-    }
-   ],
-   "queries": [
-    "R&D Is Accelerating Towards Potential RSI",
-    "accelerating towards potential rsi"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YJPdXY45JOc",
-     "url": "https://www.youtube.com/watch?v=YJPdXY45JOc",
-     "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-     "channel": "AskwhoCasts AI",
-     "views": 60,
-     "age_hours": 11,
-     "relevance": 1,
-     "velocity": 5
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T02:49:43.406Z"
   },
   {
    "first_seen": "2026-11-10T15:21:05.493Z",
