@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:49:41.856Z",
+ "generated_at": "2026-11-13T10:11:40.574Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,190 +7,125 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: microsoft outlook teams copilot",
+   "ok": true
+  },
+  {
+   "source": "tiktok: microsoft outlook teams copilot",
+   "ok": true
+  }
+ ],
  "stories": [
   {
-   "first_seen": "2026-11-12T20:11:34.998Z",
-   "id": "39784023",
+   "first_seen": "2026-11-13T10:11:40.574Z",
+   "id": "39797675",
    "ids": [
-    "39784023",
-    "39785852"
+    "39797675",
+    "39797545",
+    "39792053"
    ],
-   "title": "AI chatbots are recommending fake retail websites, study finds",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-   "source_id": "theverge",
-   "published_ts": "2026-11-12 17:00:00",
-   "story_sources": 2,
+   "title": "Microsoft outage: Outlook, Teams & Copilot hit by major disruption",
+   "url": "https://www.thehindubusinessline.com/multimedia/video/microsoft-outage-outlook-teams-amp-copilot-hit-by-major-disruption/article71697424.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-13 09:48:26",
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "AI search is recommending fake retail websites",
-     "url": "https://podqi.com/research/ai-search-brand-risk"
+     "source_id": "in-techgenyz",
+     "title": "Microsoft Outlook Outage Hits Teams, Copilot Worldwide",
+     "url": "https://techgenyz.com/outlook-down-microsoft-365-outage-india/"
+    },
+    {
+     "source_id": "sea-soyacincau",
+     "title": "Microsoft 365 suffers major outage affecting Teams, Outlook, SharePoint and Copilot",
+     "url": "https://soyacincau.com/2026/11/13/microsoft-365-business-enterprise-outage-teams-outlook-sharepoint-copilot-xrs/"
     }
    ],
    "queries": [
-    "ai chatbots recommending fake"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-13T08:14:31.575Z"
-  },
-  {
-   "first_seen": "2026-11-12T20:49:14.534Z",
-   "id": "39786912",
-   "ids": [
-    "39786912",
-    "39784806",
-    "39783910",
-    "39783775",
-    "39783776",
-    "39783777"
-   ],
-   "title": "Introducing Gemini 4 Hydrogen",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "source_id": "deepmind",
-   "published_ts": "2026-11-12 18:00:50",
-   "story_sources": 2,
-   "score_norm": 94,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://deepmind.google/models/model-cards/gemini-4-hydrogen/"
-    }
-   ],
-   "queries": [
-    "Introducing Gemini 4 Hydrogen",
-    "introducing gemini hydrogen"
+    "microsoft outlook teams copilot"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:oh8AyMFU5S8",
-     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
-     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
-     "channel": "Google Gemini",
-     "views": 61091,
-     "age_hours": 15,
-     "relevance": 0.67,
-     "velocity": 4073
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2imEgVWkeoA",
-     "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
-     "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
-     "channel": "",
-     "views": 132000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
+     "id": "youtube:3cRg3JECSa4",
+     "url": "https://www.youtube.com/watch?v=3cRg3JECSa4",
+     "title": "Microsoft Outage Hits Outlook, Teams & Copilot; 130,000 Users Report Problems",
+     "channel": "NDTV Profit",
+     "views": 34982,
+     "age_hours": 7,
+     "relevance": 0.63,
+     "velocity": 4997
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:OFkDCJ9Yjzo",
-     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
-     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
-     "channel": "Universe of AI",
-     "views": 22542,
-     "age_hours": 10,
-     "relevance": 0.67,
-     "velocity": 2254
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yvq3lEyWdE8",
-     "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
-     "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
-     "channel": "AI with Surya",
-     "views": 7110,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 889
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GsX8CDwP3Bc",
-     "url": "https://www.youtube.com/watch?v=GsX8CDwP3Bc",
-     "title": "[New Gemini Model] Gemini 4 Hydrogen is Now Free for Everyone | Game Creation Demo and Comparison...",
-     "channel": "AI market",
-     "views": 660,
+     "id": "youtube:_5Bz4KPfGyU",
+     "url": "https://www.youtube.com/watch?v=_5Bz4KPfGyU",
+     "title": "Microsoft outage affects users worldwide, impacting Teams, Outlook and Copilot | ABC NEWS",
+     "channel": "ABC News (Australia)",
+     "views": 4525,
      "age_hours": 1,
-     "relevance": 0.67,
-     "velocity": 660
+     "relevance": 0.63,
+     "velocity": 4525
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:0BQWHdAt2os",
-     "url": "https://www.youtube.com/watch?v=0BQWHdAt2os",
-     "title": "The NEW Gemini 4 Hydrogen is INSANE",
-     "channel": "Lifey Guy",
-     "views": 3428,
+     "id": "youtube:UReWU_7SX28",
+     "url": "https://www.youtube.com/watch?v=UReWU_7SX28",
+     "title": "Microsoft Outage: Outlook, Teams And Copilot Services Disrupted Worldwide",
+     "channel": "NDTV",
+     "views": 23113,
+     "age_hours": 7,
+     "relevance": 0.63,
+     "velocity": 3302
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:V3nBFEyaZcA",
+     "url": "https://www.youtube.com/watch?v=V3nBFEyaZcA",
+     "title": "Microsoft Outage: Outlook, Teams, OneDrive & Copilot Hit By Widespread Disruption | N18S",
+     "channel": "CNN-News18",
+     "views": 3559,
+     "age_hours": 2,
+     "relevance": 0.88,
+     "velocity": 1780
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:9IgyhooRy4A",
+     "url": "https://www.youtube.com/watch?v=9IgyhooRy4A",
+     "title": "Microsoft Outage: Outlook, Teams, Copilot Hit as Over 1.3 Lakh Users Report Problems | N18S",
+     "channel": "CNBC-TV18",
+     "views": 3322,
+     "age_hours": 2,
+     "relevance": 0.75,
+     "velocity": 1661
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:uzmJVGDwwfc",
+     "url": "https://www.youtube.com/watch?v=uzmJVGDwwfc",
+     "title": "Caída Global Microsoft 365: Qué Pasó con Outlook, Teams y Copilot",
+     "channel": "TecnoInfo Digital",
+     "views": 17372,
      "age_hours": 11,
-     "relevance": 0.67,
-     "velocity": 312
+     "relevance": 0.5,
+     "velocity": 1579
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-13T09:13:39.496Z"
-  },
-  {
-   "first_seen": "2026-11-13T06:41:03.533Z",
-   "id": "39795053",
-   "ids": [
-    "39795053",
-    "39785779"
-   ],
-   "title": "Microsoft tries to fix Outlook and Copilot hours into outage",
-   "url": "https://www.thehindubusinessline.com/info-tech/microsoft-tries-to-fix-outlook-and-copilot-hours-into-outage/article71696560.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-13 06:15:44",
-   "story_sources": 2,
-   "score_norm": 89,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Microsoft Says It's Working to Fix Outlook, Copilot Outage",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage"
-    }
-   ],
-   "queries": [
-    "microsoft outlook copilot tries"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-13T06:41:07.638Z"
+   "searched_at": "2026-11-13T10:11:44.507Z"
   },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
@@ -297,108 +232,34 @@
    "searched_at": "2026-11-11T12:49:56.834Z"
   },
   {
-   "first_seen": "2026-11-13T00:30:00.198Z",
-   "id": "39790391",
+   "first_seen": "2026-11-12T20:11:34.998Z",
+   "id": "39784023",
    "ids": [
-    "39790391",
-    "39784006"
+    "39784023",
+    "39785852"
    ],
-   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-13 00:11:18",
+   "title": "AI chatbots are recommending fake retail websites, study finds",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+   "source_id": "theverge",
+   "published_ts": "2026-11-12 17:00:00",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+     "title": "AI search is recommending fake retail websites",
+     "url": "https://podqi.com/research/ai-search-brand-risk"
     }
    ],
    "queries": [
-    "Hugging Face CEO",
-    "hugging face ceo jensen"
+    "ai chatbots recommending fake"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nS-yvvNQnsA",
-     "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
-     "title": "Rise and fall of Nvidia CEO Jensen Huang",
-     "channel": "",
-     "views": 329000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mcp-BK5zN0w",
-     "url": "https://www.youtube.com/shorts/mcp-BK5zN0w",
-     "title": "Jensen Huang resigns as CEO of Nvidia",
-     "channel": "",
-     "views": 46000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BhuFXtQPd1o",
-     "url": "https://www.youtube.com/shorts/BhuFXtQPd1o",
-     "title": "Nvidia’s Jensen Huang Resigns as CEO",
-     "channel": "",
-     "views": 36000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:74k4UgmtmrY",
-     "url": "https://www.youtube.com/shorts/74k4UgmtmrY",
-     "title": "Nvidia CEO Jensen Huang resigns",
-     "channel": "",
-     "views": 34000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LDPLVz73dgg",
-     "url": "https://www.youtube.com/watch?v=LDPLVz73dgg",
-     "title": "Jensen Huang Is Gone. What Happens to Your AI Now?",
-     "channel": "Devsplainers",
-     "views": 2368,
-     "age_hours": 8,
-     "relevance": 0.6,
-     "velocity": 296
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RMmBx_cioNo",
-     "url": "https://www.youtube.com/shorts/RMmBx_cioNo",
-     "title": "Why AI Agents Really Hacked Hugging Face",
-     "channel": "",
-     "views": 199,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-13T06:41:14.825Z"
+   "searched_at": "2026-11-13T08:14:31.575Z"
   },
   {
    "first_seen": "2026-11-11T03:49:40.566Z",
@@ -502,110 +363,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T09:49:54.024Z"
-  },
-  {
-   "first_seen": "2026-11-10T21:10:13.784Z",
-   "id": "39740400",
-   "ids": [
-    "39740400",
-    "39736975"
-   ],
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-10 10:00:00",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Businesses in ChatGPT – OpenAI",
-     "url": "https://openai.com/index/introducing-businesses-chatgpt/"
-    }
-   ],
-   "queries": [
-    "Introducing Businesses",
-    "introducing businesses chatgpt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z9k5oI3Paoc",
-     "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc",
-     "title": "Introducing Businesses in ChatGPT in beta",
-     "channel": "OpenAI",
-     "views": 149896,
-     "age_hours": 15,
-     "relevance": 1,
-     "velocity": 9993
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nvnZPAoR9lI",
-     "url": "https://www.youtube.com/watch?v=nvnZPAoR9lI",
-     "title": "Businesses in ChatGPT: How to Claim & Verify Your Business (Step-by-Step Guide)",
-     "channel": "Mayank Sahu SEO",
-     "views": 1393,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 279
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Xy8dCdyoc6c",
-     "url": "https://www.youtube.com/shorts/Xy8dCdyoc6c",
-     "title": "Businesses in ChatGPT beta: claim your profile; Business Agents start US-first",
-     "channel": "",
-     "views": 127,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yZuJlliFBPY",
-     "url": "https://www.youtube.com/shorts/yZuJlliFBPY",
-     "title": "Businesses in ChatGPT Launched — Shops Get AI Agents",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1W09qm4-KR8",
-     "url": "https://www.youtube.com/shorts/1W09qm4-KR8",
-     "title": "Does ChatGPT know your shop? 🏪 Businesses in ChatGPT explained #shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Hxx2k6056r4",
-     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
-     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T09:23:49.933Z"
   },
   {
    "first_seen": "2026-11-12T17:10:35.081Z",
@@ -860,6 +617,129 @@
    "searched_at": "2026-11-12T03:37:40.924Z"
   },
   {
+   "first_seen": "2026-11-12T20:49:14.534Z",
+   "id": "39786912",
+   "ids": [
+    "39786912",
+    "39784806",
+    "39783910",
+    "39783775",
+    "39783776",
+    "39783777"
+   ],
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "source_id": "deepmind",
+   "published_ts": "2026-11-12 18:00:50",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen",
+     "url": "https://deepmind.google/models/model-cards/gemini-4-hydrogen/"
+    }
+   ],
+   "queries": [
+    "Introducing Gemini 4 Hydrogen",
+    "introducing gemini hydrogen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:oh8AyMFU5S8",
+     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
+     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
+     "channel": "Google Gemini",
+     "views": 61091,
+     "age_hours": 15,
+     "relevance": 0.67,
+     "velocity": 4073
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2imEgVWkeoA",
+     "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
+     "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
+     "channel": "",
+     "views": 132000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OFkDCJ9Yjzo",
+     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
+     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
+     "channel": "Universe of AI",
+     "views": 22542,
+     "age_hours": 10,
+     "relevance": 0.67,
+     "velocity": 2254
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yvq3lEyWdE8",
+     "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
+     "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
+     "channel": "AI with Surya",
+     "views": 7110,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 889
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GsX8CDwP3Bc",
+     "url": "https://www.youtube.com/watch?v=GsX8CDwP3Bc",
+     "title": "[New Gemini Model] Gemini 4 Hydrogen is Now Free for Everyone | Game Creation Demo and Comparison...",
+     "channel": "AI market",
+     "views": 660,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 660
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0BQWHdAt2os",
+     "url": "https://www.youtube.com/watch?v=0BQWHdAt2os",
+     "title": "The NEW Gemini 4 Hydrogen is INSANE",
+     "channel": "Lifey Guy",
+     "views": 3428,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 312
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-13T09:13:39.496Z"
+  },
+  {
    "first_seen": "2026-11-11T16:36:48.177Z",
    "id": "39758563",
    "ids": [
@@ -964,6 +844,36 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-12T11:10:46.156Z"
+  },
+  {
+   "first_seen": "2026-11-13T06:41:03.533Z",
+   "id": "39795053",
+   "ids": [
+    "39795053",
+    "39785779"
+   ],
+   "title": "Microsoft tries to fix Outlook and Copilot hours into outage",
+   "url": "https://www.thehindubusinessline.com/info-tech/microsoft-tries-to-fix-outlook-and-copilot-hours-into-outage/article71696560.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-13 06:15:44",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Microsoft Says It's Working to Fix Outlook, Copilot Outage",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage"
+    }
+   ],
+   "queries": [
+    "microsoft outlook copilot tries"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-13T06:41:07.638Z"
   },
   {
    "first_seen": "2026-11-11T14:11:55.934Z",
@@ -1434,6 +1344,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T17:50:07.984Z"
+  },
+  {
+   "first_seen": "2026-11-13T00:30:00.198Z",
+   "id": "39790391",
+   "ids": [
+    "39790391",
+    "39784006"
+   ],
+   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-13 00:11:18",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+    }
+   ],
+   "queries": [
+    "Hugging Face CEO",
+    "hugging face ceo jensen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nS-yvvNQnsA",
+     "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
+     "title": "Rise and fall of Nvidia CEO Jensen Huang",
+     "channel": "",
+     "views": 329000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mcp-BK5zN0w",
+     "url": "https://www.youtube.com/shorts/mcp-BK5zN0w",
+     "title": "Jensen Huang resigns as CEO of Nvidia",
+     "channel": "",
+     "views": 46000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BhuFXtQPd1o",
+     "url": "https://www.youtube.com/shorts/BhuFXtQPd1o",
+     "title": "Nvidia’s Jensen Huang Resigns as CEO",
+     "channel": "",
+     "views": 36000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:74k4UgmtmrY",
+     "url": "https://www.youtube.com/shorts/74k4UgmtmrY",
+     "title": "Nvidia CEO Jensen Huang resigns",
+     "channel": "",
+     "views": 34000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LDPLVz73dgg",
+     "url": "https://www.youtube.com/watch?v=LDPLVz73dgg",
+     "title": "Jensen Huang Is Gone. What Happens to Your AI Now?",
+     "channel": "Devsplainers",
+     "views": 2368,
+     "age_hours": 8,
+     "relevance": 0.6,
+     "velocity": 296
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RMmBx_cioNo",
+     "url": "https://www.youtube.com/shorts/RMmBx_cioNo",
+     "title": "Why AI Agents Really Hacked Hugging Face",
+     "channel": "",
+     "views": 199,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-13T06:41:14.825Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
