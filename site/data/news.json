@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T15:49:18.421Z",
+ "generated_at": "2026-11-13T16:12:40.095Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Company Employees Should Unionize",
+   "source": "youtube: microsoft outlook teams copilot",
    "ok": true
   },
   {
-   "source": "tiktok: Company Employees Should Unionize",
-   "ok": true
-  },
-  {
-   "source": "youtube: company employees should unionize",
-   "ok": true
-  },
-  {
-   "source": "tiktok: company employees should unionize",
+   "source": "tiktok: microsoft outlook teams copilot",
    "ok": true
   }
  ],
@@ -121,50 +113,50 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:EGXXrvwiX-A",
+     "url": "https://www.youtube.com/watch?v=EGXXrvwiX-A",
+     "title": "Microsoft investigates widespread Outlook and Teams outage",
+     "channel": "FOX 5 Washington DC",
+     "views": 188211,
+     "age_hours": 19,
+     "relevance": 0.67,
+     "velocity": 9906
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lal5Lno9jYM",
+     "url": "https://www.youtube.com/watch?v=lal5Lno9jYM",
+     "title": "Microsoft 365 Outage Disrupts Outlook, Teams And Word Worldwide As Users Turn To Memes ",
+     "channel": "Mint",
+     "views": 17379,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 4345
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:3cRg3JECSa4",
      "url": "https://www.youtube.com/watch?v=3cRg3JECSa4",
      "title": "Microsoft Outage Hits Outlook, Teams & Copilot; 130,000 Users Report Problems",
      "channel": "NDTV Profit",
-     "views": 34982,
-     "age_hours": 7,
+     "views": 48249,
+     "age_hours": 13,
      "relevance": 0.63,
-     "velocity": 4997
+     "velocity": 3711
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:_5Bz4KPfGyU",
-     "url": "https://www.youtube.com/watch?v=_5Bz4KPfGyU",
-     "title": "Microsoft outage affects users worldwide, impacting Teams, Outlook and Copilot | ABC NEWS",
-     "channel": "ABC News (Australia)",
-     "views": 4525,
-     "age_hours": 1,
+     "id": "youtube:7jtgFzruvVM",
+     "url": "https://www.youtube.com/watch?v=7jtgFzruvVM",
+     "title": "Microsoft OUTAGE CHAOS! Outlook, Teams, Copilot Down For 14+ Hours As 140,000 Reports Flood In",
+     "channel": "MIRROR NOW",
+     "views": 21559,
+     "age_hours": 6,
      "relevance": 0.63,
-     "velocity": 4525
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:UReWU_7SX28",
-     "url": "https://www.youtube.com/watch?v=UReWU_7SX28",
-     "title": "Microsoft Outage: Outlook, Teams And Copilot Services Disrupted Worldwide",
-     "channel": "NDTV",
-     "views": 23113,
-     "age_hours": 7,
-     "relevance": 0.63,
-     "velocity": 3302
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:V3nBFEyaZcA",
-     "url": "https://www.youtube.com/watch?v=V3nBFEyaZcA",
-     "title": "Microsoft Outage: Outlook, Teams, OneDrive & Copilot Hit By Widespread Disruption | N18S",
-     "channel": "CNN-News18",
-     "views": 3559,
-     "age_hours": 2,
-     "relevance": 0.88,
-     "velocity": 1780
+     "velocity": 3593
     },
     {
      "platform": "youtube",
@@ -173,29 +165,29 @@
      "url": "https://www.youtube.com/watch?v=9IgyhooRy4A",
      "title": "Microsoft Outage: Outlook, Teams, Copilot Hit as Over 1.3 Lakh Users Report Problems | N18S",
      "channel": "CNBC-TV18",
-     "views": 3322,
-     "age_hours": 2,
+     "views": 27842,
+     "age_hours": 8,
      "relevance": 0.75,
-     "velocity": 1661
+     "velocity": 3480
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:uzmJVGDwwfc",
-     "url": "https://www.youtube.com/watch?v=uzmJVGDwwfc",
-     "title": "Caída Global Microsoft 365: Qué Pasó con Outlook, Teams y Copilot",
-     "channel": "TecnoInfo Digital",
-     "views": 17372,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 1579
+     "id": "youtube:UReWU_7SX28",
+     "url": "https://www.youtube.com/watch?v=UReWU_7SX28",
+     "title": "Microsoft Outage: Outlook, Teams And Copilot Services Disrupted Worldwide",
+     "channel": "NDTV",
+     "views": 35136,
+     "age_hours": 13,
+     "relevance": 0.63,
+     "velocity": 2703
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-13T10:11:44.507Z"
+   "searched_at": "2026-11-13T16:12:44.423Z"
   },
   {
    "first_seen": "2026-11-13T14:49:51.295Z",
@@ -516,6 +508,115 @@
    "searched_at": "2026-11-12T03:37:40.924Z"
   },
   {
+   "first_seen": "2026-11-12T20:49:14.534Z",
+   "id": "39786912",
+   "ids": [
+    "39786912",
+    "39784806",
+    "39783910",
+    "39783775",
+    "39783776",
+    "39783777",
+    "39803589"
+   ],
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "source_id": "deepmind",
+   "published_ts": "2026-11-12 18:00:50",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+    }
+   ],
+   "queries": [
+    "Introducing Gemini 4 Hydrogen",
+    "introducing gemini hydrogen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1KtXDpSYedo",
+     "url": "https://www.youtube.com/watch?v=1KtXDpSYedo",
+     "title": "Anthropic SLOWING DOWN!?, Gemini 4 HYDROGEN IS INSANE, OpenAI's NEW Model, & NVIDIA FIRES Jensen!",
+     "channel": "WorldofAI",
+     "views": 31390,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 4484
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2imEgVWkeoA",
+     "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
+     "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
+     "channel": "",
+     "views": 157000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:oh8AyMFU5S8",
+     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
+     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
+     "channel": "Google Gemini",
+     "views": 75361,
+     "age_hours": 21,
+     "relevance": 0.67,
+     "velocity": 3589
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GI1Ahvmqyd4",
+     "url": "https://www.youtube.com/watch?v=GI1Ahvmqyd4",
+     "title": "NOVO Gemini 4 Hydrogen Surpreende em Velocidade e Preço Baixo e Coloca Google na Corrida de Novo",
+     "channel": "Inteligência Mil Grau",
+     "views": 10674,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 1779
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OFkDCJ9Yjzo",
+     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
+     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
+     "channel": "Universe of AI",
+     "views": 27422,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 1714
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yvq3lEyWdE8",
+     "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
+     "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
+     "channel": "AI with Surya",
+     "views": 12543,
+     "age_hours": 14,
+     "relevance": 0.67,
+     "velocity": 896
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-13T15:20:37.336Z"
+  },
+  {
    "first_seen": "2026-11-11T16:36:48.177Z",
    "id": "39758563",
    "ids": [
@@ -622,115 +723,6 @@
    "searched_at": "2026-11-12T11:10:46.156Z"
   },
   {
-   "first_seen": "2026-11-12T20:49:14.534Z",
-   "id": "39786912",
-   "ids": [
-    "39786912",
-    "39784806",
-    "39783910",
-    "39783775",
-    "39783776",
-    "39783777",
-    "39803589"
-   ],
-   "title": "Introducing Gemini 4 Hydrogen",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "source_id": "deepmind",
-   "published_ts": "2026-11-12 18:00:50",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
-    }
-   ],
-   "queries": [
-    "Introducing Gemini 4 Hydrogen",
-    "introducing gemini hydrogen"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1KtXDpSYedo",
-     "url": "https://www.youtube.com/watch?v=1KtXDpSYedo",
-     "title": "Anthropic SLOWING DOWN!?, Gemini 4 HYDROGEN IS INSANE, OpenAI's NEW Model, & NVIDIA FIRES Jensen!",
-     "channel": "WorldofAI",
-     "views": 31390,
-     "age_hours": 7,
-     "relevance": 0.67,
-     "velocity": 4484
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2imEgVWkeoA",
-     "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
-     "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
-     "channel": "",
-     "views": 157000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:oh8AyMFU5S8",
-     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
-     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
-     "channel": "Google Gemini",
-     "views": 75361,
-     "age_hours": 21,
-     "relevance": 0.67,
-     "velocity": 3589
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GI1Ahvmqyd4",
-     "url": "https://www.youtube.com/watch?v=GI1Ahvmqyd4",
-     "title": "NOVO Gemini 4 Hydrogen Surpreende em Velocidade e Preço Baixo e Coloca Google na Corrida de Novo",
-     "channel": "Inteligência Mil Grau",
-     "views": 10674,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 1779
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OFkDCJ9Yjzo",
-     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
-     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
-     "channel": "Universe of AI",
-     "views": 27422,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 1714
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yvq3lEyWdE8",
-     "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
-     "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
-     "channel": "AI with Surya",
-     "views": 12543,
-     "age_hours": 14,
-     "relevance": 0.67,
-     "velocity": 896
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-13T15:20:37.336Z"
-  },
-  {
    "first_seen": "2026-11-11T14:11:55.934Z",
    "id": "39755394",
    "ids": [
@@ -822,111 +814,6 @@
    "searched_at": "2026-11-12T05:49:40.866Z"
   },
   {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39739132",
-   "ids": [
-    "39739132",
-    "39737677",
-    "39733654"
-   ],
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "source_id": "gl-deepmind",
-   "published_ts": "2026-11-10 16:03:47",
-   "story_sources": 2,
-   "score_norm": 64,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Carbon is now available",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
-    }
-   ],
-   "queries": [
-    "Gemini 4 Carbon",
-    "gemini carbon available"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:583ThJIqQ7k",
-     "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
-     "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
-     "channel": "AI Explained",
-     "views": 97343,
-     "age_hours": 15,
-     "relevance": 0.67,
-     "velocity": 6490
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0GSvcg9wncc",
-     "url": "https://www.youtube.com/watch?v=0GSvcg9wncc",
-     "title": "Gemini 4 Carbon Is INSANE – Seriously, This Model Is Ridiculous!",
-     "channel": "Bijan Bowen",
-     "views": 81795,
-     "age_hours": 14,
-     "relevance": 0.67,
-     "velocity": 5843
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:FCmLuTENOp0",
-     "url": "https://www.youtube.com/watch?v=FCmLuTENOp0",
-     "title": "Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
-     "channel": "Matthew Berman",
-     "views": 16949,
-     "age_hours": 3,
-     "relevance": 0.67,
-     "velocity": 5650
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YTA_DsiYwAc",
-     "url": "https://www.youtube.com/watch?v=YTA_DsiYwAc",
-     "title": "Gemini 4 Carbon Is Here (Fully Tested)",
-     "channel": "Paul J Lipsky",
-     "views": 115010,
-     "age_hours": 22,
-     "relevance": 0.67,
-     "velocity": 5228
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l32KKNKdpIk",
-     "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
-     "title": "Gemini 4 Carbon is Live!",
-     "channel": "Sam Witteveen",
-     "views": 58767,
-     "age_hours": 22,
-     "relevance": 0.67,
-     "velocity": 2671
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lQ6wwLHqDAg",
-     "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
-     "title": "Gemini 4 Carbon Is Finally Here, And It's a Beast!",
-     "channel": "Prompt Engineering",
-     "views": 36560,
-     "age_hours": 22,
-     "relevance": 0.67,
-     "velocity": 1662
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T14:22:54.754Z"
-  },
-  {
    "first_seen": "2026-11-10T19:49:29.894Z",
    "id": "39738826",
    "ids": [
@@ -985,36 +872,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-10T18:49:20.708Z"
-  },
-  {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
-   "ids": [
-    "39733820",
-    "39733880"
-   ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
-    }
-   ],
-   "queries": [
-    "mega 30 commits million"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T10:36:27.388Z"
   },
   {
    "first_seen": "2026-11-13T06:41:03.533Z",
@@ -1521,7 +1378,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-13 00:11:18",
    "story_sources": 2,
-   "score_norm": 56,
+   "score_norm": 57,
    "related_news": [
     {
      "source_id": "hn",
