@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T14:22:36.500Z",
+ "generated_at": "2026-11-13T14:49:51.295Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: ai chatbots recommending fake",
+   "source": "youtube: v1.0 llama.cpp here",
    "ok": true
   },
   {
-   "source": "tiktok: ai chatbots recommending fake",
+   "source": "tiktok: v1.0 llama.cpp here",
    "ok": true
   }
  ],
@@ -128,6 +128,42 @@
    "searched_at": "2026-11-13T10:11:44.507Z"
   },
   {
+   "first_seen": "2026-11-13T14:49:51.295Z",
+   "id": "39802700",
+   "ids": [
+    "39802700",
+    "39801784",
+    "39798606"
+   ],
+   "title": "llama.cpp v1.0 is here 🦙",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-13 14:07:33",
+   "story_sources": 2,
+   "score_norm": 96,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Llama.cpp v1 Is Out",
+     "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+     "source_id": "hn",
+     "title": "llama.cpp v1.0",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"
+    }
+   ],
+   "queries": [
+    "v1.0 llama.cpp here"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-13T14:49:55.397Z"
+  },
+  {
    "first_seen": "2026-11-12T20:11:34.998Z",
    "id": "39784023",
    "ids": [
@@ -173,7 +209,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-12 18:00:50",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "hn",
@@ -1520,98 +1556,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T07:49:54.251Z"
-  },
-  {
-   "first_seen": "2026-11-10T15:36:05.516Z",
-   "id": "39732622",
-   "ids": [
-    "39732622",
-    "39732518"
-   ],
-   "title": "Reverse Engineer Anything - AI Companies Crack Down on the Coolest Thing People Were Doing With AI",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsop6i/reverse_engineer_anything_ai_companies_crack_down/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 14:45:24",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI Companies Crack Down on the Coolest Thing People Were Doing with AI",
-     "url": "https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/"
-    }
-   ],
-   "queries": [
-    "Coolest Thing People Were Doing With",
-    "reverse engineer anything companies"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:G0WqLjlSXNo",
-     "url": "https://www.youtube.com/watch?v=G0WqLjlSXNo",
-     "title": "DeepSeek + Reverse Engineer Anything (REA) is WILD!",
-     "channel": "Julian Goldie SEO",
-     "views": 54031,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 750
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:aqdHjpH4NXU",
-     "url": "https://www.youtube.com/watch?v=aqdHjpH4NXU",
-     "title": "Reverse Engineer Changes AI Completely!  🤯",
-     "channel": "Julian Goldie SEO",
-     "views": 1819,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 38
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZziQrVKiqyQ",
-     "url": "https://www.youtube.com/shorts/ZziQrVKiqyQ",
-     "title": "Reverse Engineer Anything #codingagents #ai #softwareengineering",
-     "channel": "",
-     "views": 357,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vkwabg9RV2U",
-     "url": "https://www.youtube.com/shorts/vkwabg9RV2U",
-     "title": "Your coding agent can reverse engineer anything now",
-     "channel": "",
-     "views": 224,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8NRvprEznfo",
-     "url": "https://www.youtube.com/shorts/8NRvprEznfo",
-     "title": "Reverse Engineer Anything With AI? Meet REA",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T03:49:59.328Z"
   },
   {
    "first_seen": "2026-11-11T23:10:07.247Z",
