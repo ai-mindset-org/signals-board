@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T08:14:27.427Z",
+ "generated_at": "2026-11-13T09:13:31.906Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: ai chatbots recommending fake",
+   "source": "youtube: Introducing Gemini 4 Hydrogen",
    "ok": true
   },
   {
-   "source": "tiktok: ai chatbots recommending fake",
+   "source": "tiktok: Introducing Gemini 4 Hydrogen",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing gemini hydrogen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing gemini hydrogen",
    "ok": true
   }
  ],
@@ -99,22 +107,10 @@
      "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
      "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
      "channel": "Google Gemini",
-     "views": 43924,
-     "age_hours": 8,
+     "views": 61091,
+     "age_hours": 15,
      "relevance": 0.67,
-     "velocity": 5491
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OFkDCJ9Yjzo",
-     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
-     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
-     "channel": "Universe of AI",
-     "views": 9192,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 2298
+     "velocity": 4073
     },
     {
      "platform": "youtube",
@@ -123,7 +119,7 @@
      "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
      "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
      "channel": "",
-     "views": 34000,
+     "views": 132000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -131,45 +127,57 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:uS1kHkXLdp4",
-     "url": "https://www.youtube.com/watch?v=uS1kHkXLdp4",
-     "title": "The Gemini 4 Hydrogen Mystery: 5x Faster! Everything You Need to Know About the Upcoming Gemini M...",
-     "channel": "عبداللطيف سعيد Abdellatif Said",
-     "views": 19290,
-     "age_hours": 48,
+     "id": "youtube:OFkDCJ9Yjzo",
+     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
+     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
+     "channel": "Universe of AI",
+     "views": 22542,
+     "age_hours": 10,
      "relevance": 0.67,
-     "velocity": 402
+     "velocity": 2254
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:E4TzPbJUrX0",
-     "url": "https://www.youtube.com/watch?v=E4TzPbJUrX0",
-     "title": "Gemini 4 Hydrogen Just Beat Argon (And It's Cheaper)",
-     "channel": "Hyperautomation Labs",
-     "views": 2800,
-     "age_hours": 7,
+     "id": "youtube:yvq3lEyWdE8",
+     "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
+     "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
+     "channel": "AI with Surya",
+     "views": 7110,
+     "age_hours": 8,
      "relevance": 0.67,
-     "velocity": 400
+     "velocity": 889
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:6GA_zSxtSHE",
-     "url": "https://www.youtube.com/watch?v=6GA_zSxtSHE",
-     "title": "Gemini 4 Hydrogen: Everyday Model for Everyone from Google",
-     "channel": "Fahd Mirza",
-     "views": 2334,
-     "age_hours": 6,
+     "id": "youtube:GsX8CDwP3Bc",
+     "url": "https://www.youtube.com/watch?v=GsX8CDwP3Bc",
+     "title": "[New Gemini Model] Gemini 4 Hydrogen is Now Free for Everyone | Game Creation Demo and Comparison...",
+     "channel": "AI market",
+     "views": 660,
+     "age_hours": 1,
      "relevance": 0.67,
-     "velocity": 389
+     "velocity": 660
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0BQWHdAt2os",
+     "url": "https://www.youtube.com/watch?v=0BQWHdAt2os",
+     "title": "The NEW Gemini 4 Hydrogen is INSANE",
+     "channel": "Lifey Guy",
+     "views": 3428,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 312
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-13T02:50:07.656Z"
+   "searched_at": "2026-11-13T09:13:39.496Z"
   },
   {
    "first_seen": "2026-11-13T06:41:03.533Z",
@@ -183,7 +191,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-13 06:15:44",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "hn",
@@ -1169,73 +1177,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T14:22:54.754Z"
-  },
-  {
-   "first_seen": "2026-11-10T11:36:09.397Z",
-   "id": "39727734",
-   "ids": [
-    "39727734",
-    "39721447"
-   ],
-   "title": "Anthropic sends out, then retracts details of IPO filing, emails show",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/article71684856.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-10 08:53:21",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic sends out, then retracts details of IPO filing, emails show",
-     "url": "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/"
-    }
-   ],
-   "queries": [
-    "anthropic ipo sends out"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:y1ca8YubaE8",
-     "url": "https://www.youtube.com/shorts/y1ca8YubaE8",
-     "title": "Anthropic’s Trillion-Dollar IPO Is Coming 📈",
-     "channel": "",
-     "views": 85,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JduXFs3QXik",
-     "url": "https://www.youtube.com/shorts/JduXFs3QXik",
-     "title": "Anthropic's $69.3B IPO Filing Was Retracted",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gsq43rr0mAw",
-     "url": "https://www.youtube.com/shorts/gsq43rr0mAw",
-     "title": "Anthropic withdraws IPO pricing details after filing error",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T11:36:13.863Z"
   },
   {
    "first_seen": "2026-11-10T19:49:29.894Z",
