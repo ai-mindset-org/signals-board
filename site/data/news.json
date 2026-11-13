@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:18:51.625Z",
+ "generated_at": "2026-11-13T06:41:03.533Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: microsoft outlook copilot tries",
+   "ok": true
+  },
+  {
+   "source": "tiktok: microsoft outlook copilot tries",
+   "ok": true
+  },
+  {
+   "source": "youtube: Hugging Face CEO",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Hugging Face CEO",
+   "ok": true
+  },
+  {
+   "source": "youtube: hugging face ceo jensen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: hugging face ceo jensen",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
@@ -163,6 +188,36 @@
    "searched_at": "2026-11-13T02:50:07.656Z"
   },
   {
+   "first_seen": "2026-11-13T06:41:03.533Z",
+   "id": "39795053",
+   "ids": [
+    "39795053",
+    "39785779"
+   ],
+   "title": "Microsoft tries to fix Outlook and Copilot hours into outage",
+   "url": "https://www.thehindubusinessline.com/info-tech/microsoft-tries-to-fix-outlook-and-copilot-hours-into-outage/article71696560.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-13 06:15:44",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Microsoft Says It's Working to Fix Outlook, Copilot Outage",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage"
+    }
+   ],
+   "queries": [
+    "microsoft outlook copilot tries"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-13T06:41:07.638Z"
+  },
+  {
    "first_seen": "2026-11-10T18:12:30.265Z",
    "id": "39734823",
    "ids": [
@@ -298,7 +353,7 @@
      "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
      "title": "Rise and fall of Nvidia CEO Jensen Huang",
      "channel": "",
-     "views": 279000,
+     "views": 329000,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -306,26 +361,50 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:I0rpmWBifxU",
-     "url": "https://www.youtube.com/shorts/I0rpmWBifxU",
-     "title": "How An Autonomous AI Agent Exploited Hugging Face",
+     "id": "youtube:mcp-BK5zN0w",
+     "url": "https://www.youtube.com/shorts/mcp-BK5zN0w",
+     "title": "Jensen Huang resigns as CEO of Nvidia",
      "channel": "",
-     "views": 1200,
+     "views": 46000,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.6,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:D7Ky7-1cdeU",
-     "url": "https://www.youtube.com/shorts/D7Ky7-1cdeU",
-     "title": "AI Tech CEO, on Prompting AI",
+     "id": "youtube:BhuFXtQPd1o",
+     "url": "https://www.youtube.com/shorts/BhuFXtQPd1o",
+     "title": "Nvidia’s Jensen Huang Resigns as CEO",
      "channel": "",
-     "views": 789,
+     "views": 36000,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.6,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:74k4UgmtmrY",
+     "url": "https://www.youtube.com/shorts/74k4UgmtmrY",
+     "title": "Nvidia CEO Jensen Huang resigns",
+     "channel": "",
+     "views": 34000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LDPLVz73dgg",
+     "url": "https://www.youtube.com/watch?v=LDPLVz73dgg",
+     "title": "Jensen Huang Is Gone. What Happens to Your AI Now?",
+     "channel": "Devsplainers",
+     "views": 2368,
+     "age_hours": 8,
+     "relevance": 0.6,
+     "velocity": 296
     },
     {
      "platform": "youtube",
@@ -338,37 +417,13 @@
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PHb8t3Ia-mA",
-     "url": "https://www.youtube.com/shorts/PHb8t3Ia-mA",
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tZW28xPG9dk",
-     "url": "https://www.youtube.com/watch?v=tZW28xPG9dk",
-     "title": "RERIGHT · Hugging Face CEO vows to keep fighting for open source AI af",
-     "channel": "reright",
-     "views": 0,
-     "age_hours": 0.23333333333333334,
-     "relevance": 0.82,
-     "velocity": null
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-13T00:30:08.577Z"
+   "searched_at": "2026-11-13T06:41:14.825Z"
   },
   {
    "first_seen": "2026-11-11T03:49:40.566Z",
