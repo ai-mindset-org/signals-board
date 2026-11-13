@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:13:31.906Z",
+ "generated_at": "2026-11-13T09:24:54.543Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Introducing Gemini 4 Hydrogen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Introducing Gemini 4 Hydrogen",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing gemini hydrogen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing gemini hydrogen",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
@@ -1745,119 +1728,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T11:20:53.393Z"
-  },
-  {
-   "first_seen": "2026-11-09T19:49:54.771Z",
-   "id": "39715005",
-   "ids": [
-    "39715005",
-    "39714459",
-    "39724166",
-    "39724456",
-    "39730173",
-    "39732546"
-   ],
-   "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
-   "url": "https://www.siliconrepublic.com/machines/anthropic-launches-fable-5-2-and-mythos-5-2-ahead-of-ipo-ai-models",
-   "source_id": "eu-siliconrepublic",
-   "published_ts": "2026-11-10 09:16:14",
-   "story_sources": 3,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "in-thehindu-tech",
-     "title": "Anthropic launches Fable 5.2 and Mythos 5.2 ahead of IPO",
-     "url": "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece"
-    },
-    {
-     "source_id": "in-express-tech",
-     "title": "Anthropic unveils Claude Fable 5.2, Mythos 5.2 ahead of potential IPO",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-unveils-claude-fable-5-2-mythos-5-2-ahead-of-potential-ipo-10957120/"
-    }
-   ],
-   "queries": [
-    "Fable 5.2",
-    "anthropic fable 5.2 mythos"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:foCBPrpbO68",
-     "url": "https://www.youtube.com/watch?v=foCBPrpbO68",
-     "title": "Anthropic Is Out Of Control (Fable 5.2)",
-     "channel": "Nick Saraev",
-     "views": 335623,
-     "age_hours": 18,
-     "relevance": 0.6,
-     "velocity": 18646
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0vNyVMDFdkg",
-     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-     "title": "Fable 5.2 is ridiculous",
-     "channel": "Matthew Berman",
-     "views": 224059,
-     "age_hours": 19,
-     "relevance": 0.67,
-     "velocity": 11793
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:h76wUNmRqxc",
-     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
-     "title": "NOTHING will be smarter than Fable 5.2...",
-     "channel": "Wes Roth",
-     "views": 139194,
-     "age_hours": 14,
-     "relevance": 0.5,
-     "velocity": 9942
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QwaU4yU0PdQ",
-     "url": "https://www.youtube.com/watch?v=QwaU4yU0PdQ",
-     "title": "Fable 5.2 | First Impressions",
-     "channel": "Arena  ",
-     "views": 58373,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 3072
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:k1nqJXchluE",
-     "url": "https://www.youtube.com/watch?v=k1nqJXchluE",
-     "title": "Anthropic Just Dropped Fable 5.2 (Full Breakdown)",
-     "channel": "Brock Mesarich | AI for Non Techies",
-     "views": 40951,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 2559
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YK2-fpu6goE",
-     "url": "https://www.youtube.com/watch?v=YK2-fpu6goE",
-     "title": "Anthropic releases Fable 5.2 and Mythos 5.2 (not just cybersecurity)",
-     "channel": "Raffaele Gaito",
-     "views": 1002,
-     "age_hours": 1,
-     "relevance": 0.57,
-     "velocity": 1002
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-10T14:36:36.323Z"
   },
   {
    "first_seen": "2026-11-12T15:11:46.853Z",
