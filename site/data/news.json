@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T21:09:05.172Z",
+ "generated_at": "2026-11-13T21:36:06.670Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: v1.0 llama.cpp here",
+   "source": "youtube: 4 Chinese",
    "ok": true
   },
   {
-   "source": "tiktok: v1.0 llama.cpp here",
+   "source": "tiktok: 4 Chinese",
+   "ok": true
+  },
+  {
+   "source": "youtube: investigators chinese nvidia blackwell",
+   "ok": true
+  },
+  {
+   "source": "tiktok: investigators chinese nvidia blackwell",
    "ok": true
   }
  ],
@@ -1168,7 +1176,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-13T15:36:05.439Z"
+   "searched_at": "2026-11-13T21:36:14.698Z"
   },
   {
    "first_seen": "2026-11-12T15:11:46.853Z",
