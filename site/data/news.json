@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:49:54.368Z",
+ "generated_at": "2026-11-13T21:09:05.172Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: v1.0 llama.cpp here",
+   "ok": true
+  },
+  {
+   "source": "tiktok: v1.0 llama.cpp here",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-13T19:49:40.462Z",
@@ -230,7 +239,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-13 16:00:12",
    "story_sources": 2,
-   "score_norm": 82,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1602,12 +1611,25 @@
    "queries": [
     "v1.0 llama.cpp here"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Nr7w7yhRJP4",
+     "url": "https://www.youtube.com/shorts/Nr7w7yhRJP4",
+     "title": "llama.cpp v1.0: 3 Upgrades & 3 Migration Traps",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T14:49:55.397Z"
+   "searched_at": "2026-11-13T21:09:09.751Z"
   },
   {
    "first_seen": "2026-11-11T03:49:40.566Z",
