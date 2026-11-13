@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T22:20:28.188Z",
+ "generated_at": "2026-11-13T23:10:31.863Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,43 @@
  },
  "search_report": [
   {
-   "source": "youtube: microsoft outlook teams copilot",
+   "source": "youtube: ChatGPT Wallet",
    "ok": true
   },
   {
-   "source": "tiktok: microsoft outlook teams copilot",
+   "source": "tiktok: ChatGPT Wallet",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt wallet openai dots",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt wallet openai dots",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt wallet lets ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt wallet lets ai",
+   "ok": true
+  },
+  {
+   "source": "youtube: Perplexity Releases Decider",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Perplexity Releases Decider",
+   "ok": true
+  },
+  {
+   "source": "youtube: perplexity releases decider v1.3",
+   "ok": true
+  },
+  {
+   "source": "tiktok: perplexity releases decider v1.3",
    "ok": true
   }
  ],
@@ -135,7 +167,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-13 20:45:10",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -144,20 +176,56 @@
     }
    ],
    "queries": [
-    "Pay Without Seeing Your Card",
-    "chatgpt wallet lets openai"
+    "ChatGPT Wallet",
+    "chatgpt wallet openai dots"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vJz14JoQ0pw",
-     "url": "https://www.youtube.com/shorts/vJz14JoQ0pw",
-     "title": "This Is What Happens When You Tap Your Card to Pay",
-     "channel": "",
-     "views": 1600,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:EJyDl4-I4XE",
+     "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
+     "title": "Introducing ChatGPT Wallet",
+     "channel": "Chris Messina",
+     "views": 69,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 14
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:z9gNrI8HHeM",
+     "url": "https://www.youtube.com/watch?v=z9gNrI8HHeM",
+     "title": "OpenAI Launches ChatGPT Wallet: Pro Only for Now",
+     "channel": "Shadow Lab Digital",
+     "views": 5,
+     "age_hours": 1,
      "relevance": 0.5,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:mvB3QONU7gU",
+     "url": "https://www.youtube.com/watch?v=mvB3QONU7gU",
+     "title": "How to Access and Use OpenAI ChatGPT AI Dots Wallet",
+     "channel": "Reality PC",
+     "views": 13,
+     "age_hours": 4,
+     "relevance": 0.57,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sx9_AuGtUEc",
+     "url": "https://www.youtube.com/shorts/sx9_AuGtUEc",
+     "title": "ChatGPT Wallet lets OpenAI's AI agents shop and check out with your card",
+     "channel": "",
+     "views": 72,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     },
     {
@@ -167,57 +235,21 @@
      "url": "https://www.youtube.com/shorts/5VqladPSLdM",
      "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
      "channel": "",
-     "views": 12,
+     "views": 31,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:oIWSTjiPSrs",
+     "url": "https://www.youtube.com/shorts/oIWSTjiPSrs",
+     "title": "OpenAI's ChatGPT Wallet Lets AI Agents Buy for You #Shorts",
+     "channel": "",
+     "views": 11,
      "age_hours": null,
      "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zYLfzrAJF2g",
-     "url": "https://www.youtube.com/shorts/zYLfzrAJF2g",
-     "title": "ChatGPT Can Now Pay for Things for You",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rMUYXALR9no",
-     "url": "https://www.youtube.com/shorts/rMUYXALR9no",
-     "title": "OpenAI launches ChatGPT Wallet for AI agents to make secure purchases",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8da3Dblu3YY",
-     "url": "https://www.youtube.com/shorts/8da3Dblu3YY",
-     "title": "OpenAI ChatGPT Wallet: Agents Can Now Pay For You #AI #OpenAI",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WbPPZuflW4U",
-     "url": "https://www.youtube.com/shorts/WbPPZuflW4U",
-     "title": "ChatGPT Wallet: AI agents can now pay for you",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -225,7 +257,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T17:10:20.429Z"
+   "searched_at": "2026-11-13T23:10:39.522Z"
   },
   {
    "first_seen": "2026-11-13T16:49:54.153Z",
@@ -253,62 +285,74 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:eMfmGWwH7UA",
+     "url": "https://www.youtube.com/watch?v=eMfmGWwH7UA",
+     "title": "ChatGPT Wallet: Should You Let AI Pay?",
+     "channel": "AI Tools Optimizer",
+     "views": 3,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:kjU0PAYtm8M",
+     "url": "https://www.youtube.com/watch?v=kjU0PAYtm8M",
+     "title": "ChatGPT Wallet Lets AI Shop—You Still Approve | Nov 13, 2026",
+     "channel": "Tomorrow This Morning",
+     "views": 4,
+     "age_hours": 3,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Km4GMbvQ-Yc",
+     "url": "https://www.youtube.com/watch?v=Km4GMbvQ-Yc",
+     "title": "ChatGPT Wallet Just Let AI Agents Check Out for You",
+     "channel": "ToolScout",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.86,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:dZJI_5pQXSI",
+     "url": "https://www.youtube.com/watch?v=dZJI_5pQXSI",
+     "title": "ChatGPT Wallet: How AI Agents Pay Without Your Card Number (and Why Stores May Block Them)",
+     "channel": "Daily AI News By Ali",
+     "views": 5,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lKlzKJPErMc",
+     "url": "https://www.youtube.com/watch?v=lKlzKJPErMc",
+     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you\"",
+     "channel": "The Street Manager",
+     "views": 1,
+     "age_hours": 1,
+     "relevance": 1,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:5VqladPSLdM",
      "url": "https://www.youtube.com/shorts/5VqladPSLdM",
      "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
      "channel": "",
-     "views": 10,
+     "views": 31,
      "age_hours": null,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Bc4JAVSKc7o",
-     "url": "https://www.youtube.com/shorts/Bc4JAVSKc7o",
-     "title": "ChatGPT Wallet Lets AI Shop and Check Out for You (Here's the Catch) #shorts",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rMUYXALR9no",
-     "url": "https://www.youtube.com/shorts/rMUYXALR9no",
-     "title": "OpenAI launches ChatGPT Wallet for AI agents to make secure purchases",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8da3Dblu3YY",
-     "url": "https://www.youtube.com/shorts/8da3Dblu3YY",
-     "title": "OpenAI ChatGPT Wallet: Agents Can Now Pay For You #AI #OpenAI",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WbPPZuflW4U",
-     "url": "https://www.youtube.com/shorts/WbPPZuflW4U",
-     "title": "ChatGPT Wallet: AI agents can now pay for you",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -316,7 +360,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T16:49:58.371Z"
+   "searched_at": "2026-11-13T23:10:43.061Z"
   },
   {
    "first_seen": "2026-11-12T17:10:35.081Z",
@@ -1545,12 +1589,25 @@
     "Perplexity Releases Decider",
     "perplexity releases decider v1.3"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:h5s3mVDbiJ0",
+     "url": "https://www.youtube.com/shorts/h5s3mVDbiJ0",
+     "title": "Perplexity ships Decider v1.3 and Decider Flash v1.3 #shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T17:10:27.120Z"
+   "searched_at": "2026-11-13T23:10:49.816Z"
   },
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
