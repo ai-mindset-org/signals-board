@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T13:49:58.454Z",
+ "generated_at": "2026-11-13T14:11:59.466Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: enter chatgpt actually happens",
-   "ok": true
-  },
-  {
-   "source": "tiktok: enter chatgpt actually happens",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-13T10:11:40.574Z",
@@ -156,109 +147,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-13T08:14:31.575Z"
-  },
-  {
-   "first_seen": "2026-11-11T03:49:40.566Z",
-   "id": "39746262",
-   "ids": [
-    "39746262",
-    "39733342"
-   ],
-   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-   "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-10 14:05:10",
-   "story_sources": 2,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Adobe brings AI agents to Photoshop, Premiere, Firefly",
-     "url": "https://www.techinasia.com/news/adobe-brings-ai-agents-photoshop-premiere-firefly"
-    }
-   ],
-   "queries": [
-    "adobe photoshop premiere firefly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JmBIb-8vpyc",
-     "url": "https://www.youtube.com/watch?v=JmBIb-8vpyc",
-     "title": "Adobe MAX 2026: New Photoshop, Premiere & Firefly AI Features",
-     "channel": "KareemScope",
-     "views": 413,
-     "age_hours": 24,
-     "relevance": 0.71,
-     "velocity": 17
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fFkx9BK8NDw",
-     "url": "https://www.youtube.com/shorts/fFkx9BK8NDw",
-     "title": "Adobe MAX 2026 🔥 | New AI Tools, Photoshop, Premiere Pro & Future of Video Editing!",
-     "channel": "",
-     "views": 35,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:I8rDYWmZsVQ",
-     "url": "https://www.youtube.com/shorts/I8rDYWmZsVQ",
-     "title": "Adobe Unleashes AI Agents in Photoshop, Premiere and Firefly, A Shock",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7rPfaUyK1zw",
-     "url": "https://www.youtube.com/shorts/7rPfaUyK1zw",
-     "title": "Premiere's AI Assistant now spends your Firefly credits",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:P1mhvFtMZIA",
-     "url": "https://www.youtube.com/shorts/P1mhvFtMZIA",
-     "title": "Adobe Just Let AI Agents Into Photoshop, Premiere Pro and After Effects.",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:B5TvlegfQUE",
-     "url": "https://www.youtube.com/shorts/B5TvlegfQUE",
-     "title": "Adobe Firefly Is Now a Full AI Creative Studio",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T09:49:54.024Z"
   },
   {
    "first_seen": "2026-11-12T20:49:14.534Z",
@@ -2012,109 +1900,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T21:08:42.211Z"
-  },
-  {
-   "first_seen": "2026-11-10T14:36:28.292Z",
-   "id": "39731384",
-   "ids": [
-    "39731384",
-    "39728870"
-   ],
-   "title": "Anthropic targets $1.4trn valuation in blockbuster IPO",
-   "url": "https://www.siliconrepublic.com/business/anthropic-aims-for-1-4trn-valuation-in-blockbuster-ipo",
-   "source_id": "eu-siliconrepublic",
-   "published_ts": "2026-11-10 14:07:09",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic Targets Valuation of Up to $1.4T for Blockbuster IPO",
-     "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html"
-    }
-   ],
-   "queries": [
-    "anthropic 1.4trn ipo targets"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:PLlQVsaLpRQ",
-     "url": "https://www.youtube.com/watch?v=PLlQVsaLpRQ",
-     "title": "Anthropic's $2T Valuation Slashed By 50% to $1T in Just 30 Days -Now Its IPO May Be Delayed ",
-     "channel": "Ox Talks",
-     "views": 48874,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 679
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:RsZv7Gl6Iwg",
-     "url": "https://www.youtube.com/watch?v=RsZv7Gl6Iwg",
-     "title": "Anthropic's $1.5 trillion IPO valuation in doubt after tech sell-off hammers the market",
-     "channel": "CNBC Television",
-     "views": 28845,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 401
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3AfKkvIaMRU",
-     "url": "https://www.youtube.com/watch?v=3AfKkvIaMRU",
-     "title": "Anthropic IPO Buyers See Valuation as Low as $1.1 Trillion",
-     "channel": "Bloomberg Podcasts",
-     "views": 9531,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 132
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Y_tyq0fqvNc",
-     "url": "https://www.youtube.com/watch?v=Y_tyq0fqvNc",
-     "title": "Anthropic's $1.5 trillion IPO valuation in doubt after tech sell-off hammers the market",
-     "channel": "CNBC Television",
-     "views": 8499,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 118
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ozd5ySBPLO8",
-     "url": "https://www.youtube.com/watch?v=ozd5ySBPLO8",
-     "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
-     "channel": "Bloomberg Television",
-     "views": 8295,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 115
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fjnhTbAtTpI",
-     "url": "https://www.youtube.com/watch?v=fjnhTbAtTpI",
-     "title": "Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion",
-     "channel": "Bloomberg Tech",
-     "views": 8079,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 112
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-10T14:36:39.766Z"
   },
   {
    "first_seen": "2026-11-11T03:49:40.566Z",
