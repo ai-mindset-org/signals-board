@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T21:49:42.215Z",
+ "generated_at": "2026-11-13T22:20:28.188Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Company Employees Should Unionize",
+   "source": "youtube: microsoft outlook teams copilot",
    "ok": true
   },
   {
-   "source": "tiktok: Company Employees Should Unionize",
-   "ok": true
-  },
-  {
-   "source": "youtube: company employees should unionize",
-   "ok": true
-  },
-  {
-   "source": "tiktok: company employees should unionize",
+   "source": "tiktok: microsoft outlook teams copilot",
    "ok": true
   }
  ],
@@ -1315,50 +1307,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:_xMwKDtUpLM",
+     "url": "https://www.youtube.com/watch?v=_xMwKDtUpLM",
+     "title": "Microsoft Outage: Outlook, Teams & Copilot Down For Millions",
+     "channel": "CNBC-TV18",
+     "views": 267320,
+     "age_hours": 9,
+     "relevance": 0.71,
+     "velocity": 29702
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:EGXXrvwiX-A",
      "url": "https://www.youtube.com/watch?v=EGXXrvwiX-A",
      "title": "Microsoft investigates widespread Outlook and Teams outage",
      "channel": "FOX 5 Washington DC",
-     "views": 188211,
-     "age_hours": 19,
+     "views": 192006,
+     "age_hours": 24,
      "relevance": 0.67,
-     "velocity": 9906
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lal5Lno9jYM",
-     "url": "https://www.youtube.com/watch?v=lal5Lno9jYM",
-     "title": "Microsoft 365 Outage Disrupts Outlook, Teams And Word Worldwide As Users Turn To Memes ",
-     "channel": "Mint",
-     "views": 17379,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 4345
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3cRg3JECSa4",
-     "url": "https://www.youtube.com/watch?v=3cRg3JECSa4",
-     "title": "Microsoft Outage Hits Outlook, Teams & Copilot; 130,000 Users Report Problems",
-     "channel": "NDTV Profit",
-     "views": 48249,
-     "age_hours": 13,
-     "relevance": 0.63,
-     "velocity": 3711
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7jtgFzruvVM",
-     "url": "https://www.youtube.com/watch?v=7jtgFzruvVM",
-     "title": "Microsoft OUTAGE CHAOS! Outlook, Teams, Copilot Down For 14+ Hours As 140,000 Reports Flood In",
-     "channel": "MIRROR NOW",
-     "views": 21559,
-     "age_hours": 6,
-     "relevance": 0.63,
-     "velocity": 3593
+     "velocity": 8000
     },
     {
      "platform": "youtube",
@@ -1367,10 +1335,22 @@
      "url": "https://www.youtube.com/watch?v=9IgyhooRy4A",
      "title": "Microsoft Outage: Outlook, Teams, Copilot Hit as Over 1.3 Lakh Users Report Problems | N18S",
      "channel": "CNBC-TV18",
-     "views": 27842,
-     "age_hours": 8,
+     "views": 39082,
+     "age_hours": 14,
      "relevance": 0.75,
-     "velocity": 3480
+     "velocity": 2792
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3cRg3JECSa4",
+     "url": "https://www.youtube.com/watch?v=3cRg3JECSa4",
+     "title": "Microsoft Outage Hits Outlook, Teams & Copilot; 130,000 Users Report Problems",
+     "channel": "NDTV Profit",
+     "views": 52148,
+     "age_hours": 19,
+     "relevance": 0.63,
+     "velocity": 2745
     },
     {
      "platform": "youtube",
@@ -1379,17 +1359,29 @@
      "url": "https://www.youtube.com/watch?v=UReWU_7SX28",
      "title": "Microsoft Outage: Outlook, Teams And Copilot Services Disrupted Worldwide",
      "channel": "NDTV",
-     "views": 35136,
-     "age_hours": 13,
+     "views": 40074,
+     "age_hours": 19,
      "relevance": 0.63,
-     "velocity": 2703
+     "velocity": 2109
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7jtgFzruvVM",
+     "url": "https://www.youtube.com/watch?v=7jtgFzruvVM",
+     "title": "Microsoft OUTAGE CHAOS! Outlook, Teams, Copilot Down For 14+ Hours As 140,000 Reports Flood In",
+     "channel": "MIRROR NOW",
+     "views": 22951,
+     "age_hours": 12,
+     "relevance": 0.63,
+     "velocity": 1913
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-13T16:12:44.423Z"
+   "searched_at": "2026-11-13T22:20:32.788Z"
   },
   {
    "first_seen": "2026-11-11T11:20:23.205Z",
