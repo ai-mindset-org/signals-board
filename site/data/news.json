@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T07:12:21.846Z",
+ "generated_at": "2026-11-13T08:14:27.427Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: ai chatbots recommending fake",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ai chatbots recommending fake",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
@@ -37,7 +46,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-13T02:14:07.278Z"
+   "searched_at": "2026-11-13T08:14:31.575Z"
   },
   {
    "first_seen": "2026-11-12T20:49:14.534Z",
@@ -174,7 +183,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-13 06:15:44",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "hn",
@@ -308,7 +317,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-13 00:11:18",
    "story_sources": 2,
-   "score_norm": 82,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "hn",
