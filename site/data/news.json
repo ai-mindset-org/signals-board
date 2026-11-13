@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T12:49:51.670Z",
+ "generated_at": "2026-11-13T13:10:38.740Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: microsoft outlook copilot tries",
-   "ok": true
-  },
-  {
-   "source": "tiktok: microsoft outlook copilot tries",
-   "ok": true
-  },
-  {
-   "source": "youtube: Hugging Face CEO",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Hugging Face CEO",
-   "ok": true
-  },
-  {
-   "source": "youtube: hugging face ceo jensen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: hugging face ceo jensen",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-13T10:11:40.574Z",
@@ -142,110 +117,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-13T10:11:44.507Z"
-  },
-  {
-   "first_seen": "2026-11-10T18:12:30.265Z",
-   "id": "39734823",
-   "ids": [
-    "39734823",
-    "39736505"
-   ],
-   "title": "Google Cloud launches Gemini for healthcare.",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-   "source_id": "google-ai",
-   "published_ts": "2026-11-10 13:00:00",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google Cloud launches Gemini for healthcare to take on hospital paperwork",
-     "url": "https://thenextweb.com/news/gemini-for-healthcare-google-cloud-ai-agent-launch"
-    }
-   ],
-   "queries": [
-    "Google Cloud",
-    "google cloud gemini launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XZVN4efOqY8",
-     "url": "https://www.youtube.com/watch?v=XZVN4efOqY8",
-     "title": "New Way Now: Bosch scales Agentic AI with Gemini on Google Cloud",
-     "channel": "Google Cloud",
-     "views": 604,
-     "age_hours": 16,
-     "relevance": 0.6,
-     "velocity": 38
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mSYEdwQxtZ4",
-     "url": "https://www.youtube.com/watch?v=mSYEdwQxtZ4",
-     "title": "Power Gemini AI Agents with Live Web Context | Firecrawl on Google Cloud",
-     "channel": "Google Cloud",
-     "views": 646,
-     "age_hours": 20,
-     "relevance": 0.6,
-     "velocity": 32
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7vND1J2vjO4",
-     "url": "https://www.youtube.com/shorts/7vND1J2vjO4",
-     "title": "Google Just Unleashed Gemini 4 Carbon 🔥",
-     "channel": "",
-     "views": 420,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rOXvd3BHPCg",
-     "url": "https://www.youtube.com/shorts/rOXvd3BHPCg",
-     "title": "Google Unveils Gemini 4 Carbon",
-     "channel": "",
-     "views": 81,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9CmaRl_Bb5s",
-     "url": "https://www.youtube.com/shorts/9CmaRl_Bb5s",
-     "title": "Google Launches Gemini 4 Carbon 🤯 AI Agents, Cybersecurity & Swarm Mode",
-     "channel": "",
-     "views": 59,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:hfynGxZPLcI",
-     "url": "https://www.youtube.com/shorts/hfynGxZPLcI",
-     "title": "Google's Gemini 4 Carbon Launches at 1/4 the Price of Claude's Top Model",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T12:49:56.834Z"
   },
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
