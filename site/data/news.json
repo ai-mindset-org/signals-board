@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T14:49:51.295Z",
+ "generated_at": "2026-11-13T15:20:29.168Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: v1.0 llama.cpp here",
+   "source": "youtube: Introducing Gemini 4 Hydrogen",
    "ok": true
   },
   {
-   "source": "tiktok: v1.0 llama.cpp here",
+   "source": "tiktok: Introducing Gemini 4 Hydrogen",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing gemini hydrogen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing gemini hydrogen",
    "ok": true
   }
  ],
@@ -240,14 +248,14 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:oh8AyMFU5S8",
-     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
-     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
-     "channel": "Google Gemini",
-     "views": 61091,
-     "age_hours": 15,
+     "id": "youtube:1KtXDpSYedo",
+     "url": "https://www.youtube.com/watch?v=1KtXDpSYedo",
+     "title": "Anthropic SLOWING DOWN!?, Gemini 4 HYDROGEN IS INSANE, OpenAI's NEW Model, & NVIDIA FIRES Jensen!",
+     "channel": "WorldofAI",
+     "views": 31390,
+     "age_hours": 7,
      "relevance": 0.67,
-     "velocity": 4073
+     "velocity": 4484
     },
     {
      "platform": "youtube",
@@ -256,10 +264,34 @@
      "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
      "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
      "channel": "",
-     "views": 132000,
+     "views": 157000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:oh8AyMFU5S8",
+     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
+     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
+     "channel": "Google Gemini",
+     "views": 75361,
+     "age_hours": 21,
+     "relevance": 0.67,
+     "velocity": 3589
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GI1Ahvmqyd4",
+     "url": "https://www.youtube.com/watch?v=GI1Ahvmqyd4",
+     "title": "NOVO Gemini 4 Hydrogen Surpreende em Velocidade e Preço Baixo e Coloca Google na Corrida de Novo",
+     "channel": "Inteligência Mil Grau",
+     "views": 10674,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 1779
     },
     {
      "platform": "youtube",
@@ -268,10 +300,10 @@
      "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
      "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
      "channel": "Universe of AI",
-     "views": 22542,
-     "age_hours": 10,
+     "views": 27422,
+     "age_hours": 16,
      "relevance": 0.67,
-     "velocity": 2254
+     "velocity": 1714
     },
     {
      "platform": "youtube",
@@ -280,41 +312,17 @@
      "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
      "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
      "channel": "AI with Surya",
-     "views": 7110,
-     "age_hours": 8,
+     "views": 12543,
+     "age_hours": 14,
      "relevance": 0.67,
-     "velocity": 889
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GsX8CDwP3Bc",
-     "url": "https://www.youtube.com/watch?v=GsX8CDwP3Bc",
-     "title": "[New Gemini Model] Gemini 4 Hydrogen is Now Free for Everyone | Game Creation Demo and Comparison...",
-     "channel": "AI market",
-     "views": 660,
-     "age_hours": 1,
-     "relevance": 0.67,
-     "velocity": 660
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0BQWHdAt2os",
-     "url": "https://www.youtube.com/watch?v=0BQWHdAt2os",
-     "title": "The NEW Gemini 4 Hydrogen is INSANE",
-     "channel": "Lifey Guy",
-     "views": 3428,
-     "age_hours": 11,
-     "relevance": 0.67,
-     "velocity": 312
+     "velocity": 896
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-13T09:13:39.496Z"
+   "searched_at": "2026-11-13T15:20:37.336Z"
   },
   {
    "first_seen": "2026-11-12T17:10:35.081Z",
