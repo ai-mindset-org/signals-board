@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:24:54.543Z",
+ "generated_at": "2026-11-13T09:49:41.856Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -174,7 +174,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-13 06:15:44",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "hn",
@@ -1629,50 +1629,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-11T03:49:59.328Z"
-  },
-  {
-   "first_seen": "2026-11-10T15:21:05.493Z",
-   "id": "39732502",
-   "ids": [
-    "39732502",
-    "39725624"
-   ],
-   "title": "AWS Commits $100 Million to Expand AI Use in Healthcare, Targeting Underserved Markets",
-   "url": "https://techmoran.com/2026/11/10/aws-commits-100-million-to-expand-ai-use-in-healthcare-targeting-underserved-markets/",
-   "source_id": "africa-techmoran",
-   "published_ts": "2026-11-10 09:47:14",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "africa-cioafrica",
-     "title": "AWS Commits $100 Million To Expand AI Use In Healthcare, Targeting Underserved Markets",
-     "url": "https://cioafrica.co/aws-commits-100-million-to-expand-ai-use-in-healthcare-targeting-underserved-markets/"
-    }
-   ],
-   "queries": [
-    "AWS Commits 100 Million",
-    "aws commits 100 million"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mgUGSnpRn0w",
-     "url": "https://www.youtube.com/shorts/mgUGSnpRn0w",
-     "title": "AWS Commits 100 Million Dollars Of AI And Cloud To Global Health",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T15:21:13.334Z"
   },
   {
    "first_seen": "2026-11-11T23:10:07.247Z",
