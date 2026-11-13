@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:49:58.173Z",
+ "generated_at": "2026-11-13T19:35:31.359Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: microsoft outlook copilot tries",
-   "ok": true
-  },
-  {
-   "source": "tiktok: microsoft outlook copilot tries",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-13T16:49:54.153Z",
@@ -591,66 +582,6 @@
    "searched_at": "2026-11-13T17:10:27.120Z"
   },
   {
-   "first_seen": "2026-11-11T19:49:38.331Z",
-   "id": "39762509",
-   "ids": [
-    "39762509",
-    "39761255"
-   ],
-   "title": "llm 0.37.2",
-   "url": "https://simonwillison.net/2026/Nov/11/llm/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-11 17:19:52",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "37% on ARC-AGI 2 without an LLM",
-     "url": "https://mvakde.github.io/blog/looped-mdlarc/#vs-trm"
-    }
-   ],
-   "queries": [
-    "0.37.2 llm"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T14:24:23.812Z"
-  },
-  {
-   "first_seen": "2026-11-11T17:36:27.454Z",
-   "id": "39755841",
-   "ids": [
-    "39755841",
-    "39759615"
-   ],
-   "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
-   "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-11 13:49:03",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
-     "url": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/"
-    }
-   ],
-   "queries": [
-    "meta tiktok google indonesia"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T05:49:40.866Z"
-  },
-  {
    "first_seen": "2026-11-13T10:11:40.574Z",
    "id": "39797675",
    "ids": [
@@ -663,7 +594,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-13 09:48:26",
    "story_sources": 3,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "in-techgenyz",
@@ -760,34 +691,64 @@
    "searched_at": "2026-11-13T16:12:44.423Z"
   },
   {
-   "first_seen": "2026-11-10T19:49:29.894Z",
-   "id": "39738826",
+   "first_seen": "2026-11-11T19:49:38.331Z",
+   "id": "39762509",
    "ids": [
-    "39738826",
-    "39737100"
+    "39762509",
+    "39761255"
    ],
-   "title": "How AI agents work",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 19:31:37",
+   "title": "llm 0.37.2",
+   "url": "https://simonwillison.net/2026/Nov/11/llm/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-11 17:19:52",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "AI and the Art of Work",
-     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
+     "title": "37% on ARC-AGI 2 without an LLM",
+     "url": "https://mvakde.github.io/blog/looped-mdlarc/#vs-trm"
     }
    ],
    "queries": [
-    "ai agents work"
+    "0.37.2 llm"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-11T14:22:58.383Z"
+   "searched_at": "2026-11-12T14:24:23.812Z"
+  },
+  {
+   "first_seen": "2026-11-11T17:36:27.454Z",
+   "id": "39755841",
+   "ids": [
+    "39755841",
+    "39759615"
+   ],
+   "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
+   "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-11 13:49:03",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
+     "url": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/"
+    }
+   ],
+   "queries": [
+    "meta tiktok google indonesia"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-12T05:49:40.866Z"
   },
   {
    "first_seen": "2026-11-13T14:49:51.295Z",
