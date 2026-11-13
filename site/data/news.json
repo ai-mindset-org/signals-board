@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T00:30:00.198Z",
+ "generated_at": "2026-11-13T02:14:02.961Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Hugging Face CEO",
+   "source": "youtube: ai chatbots recommending fake",
    "ok": true
   },
   {
-   "source": "tiktok: Hugging Face CEO",
-   "ok": true
-  },
-  {
-   "source": "youtube: hugging face ceo jensen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: hugging face ceo jensen",
+   "source": "tiktok: ai chatbots recommending fake",
    "ok": true
   }
  ],
@@ -54,7 +46,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-12T20:11:39.104Z"
+   "searched_at": "2026-11-13T02:14:07.278Z"
   },
   {
    "first_seen": "2026-11-12T20:49:14.534Z",
@@ -191,7 +183,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-13 00:11:18",
    "story_sources": 2,
-   "score_norm": 86,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "hn",
@@ -2126,36 +2118,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T11:20:53.393Z"
-  },
-  {
-   "first_seen": "2026-11-10T02:35:38.760Z",
-   "id": "39721308",
-   "ids": [
-    "39721308",
-    "39720979"
-   ],
-   "title": "CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-10 02:09:31",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
-     "url": "https://github.com/mw00/project-maya/pull/879"
-    }
-   ],
-   "queries": [
-    "cuda+rocm llm gpus 48"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T14:36:43.250Z"
   },
   {
    "first_seen": "2026-11-09T19:49:54.771Z",
