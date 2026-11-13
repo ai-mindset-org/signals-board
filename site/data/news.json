@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T04:49:55.939Z",
+ "generated_at": "2026-11-13T05:36:17.069Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1678,112 +1678,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T10:12:04.926Z"
-  },
-  {
-   "first_seen": "2026-11-09T22:09:37.479Z",
-   "id": "39717715",
-   "ids": [
-    "39717715",
-    "39714633",
-    "39714405",
-    "39726514"
-   ],
-   "title": "Quoting Prompting Claude Fable 5.2",
-   "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-10 05:34:14",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Claude Fable 5.2",
-     "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview"
-    }
-   ],
-   "queries": [
-    "Quoting Prompting Claude Fable 5.2",
-    "quoting prompting claude fable"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:0vNyVMDFdkg",
-     "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-     "title": "Fable 5.2 is ridiculous",
-     "channel": "@matthew_berman",
-     "views": 187000,
-     "age_hours": 20.858899444444443,
-     "relevance": 0.67,
-     "velocity": 8965
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:h76wUNmRqxc",
-     "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
-     "title": "NOTHING will be smarter than Fable 5.2...",
-     "channel": "@WesRoth",
-     "views": 76000,
-     "age_hours": 15.847242777777778,
-     "relevance": 0.5,
-     "velocity": 4796
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BsWS2dImirs",
-     "url": "https://www.youtube.com/shorts/BsWS2dImirs",
-     "title": "Claude Fable 5.2: The New Frontier from Claude!",
-     "channel": "",
-     "views": 52000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hsqUdJAI3Jg",
-     "url": "https://www.youtube.com/watch?v=hsqUdJAI3Jg",
-     "title": "CLAUDE FABLE 5.2 has been released and brings a message to humanity…",
-     "channel": "Maestros da IA",
-     "views": 809,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 809
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4sV2Wzo1V1s",
-     "url": "https://www.youtube.com/shorts/4sV2Wzo1V1s",
-     "title": "Meet Claude Fable 5.2",
-     "channel": "",
-     "views": 23000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NdHUdVvVVQI",
-     "url": "https://www.youtube.com/shorts/NdHUdVvVVQI",
-     "title": "Claude Fable 5.2: Your Resets Depend on How Long You've Paid",
-     "channel": "",
-     "views": 22000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-10T16:23:46.921Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
