@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:41:03.533Z",
+ "generated_at": "2026-11-13T07:12:21.846Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: microsoft outlook copilot tries",
-   "ok": true
-  },
-  {
-   "source": "tiktok: microsoft outlook copilot tries",
-   "ok": true
-  },
-  {
-   "source": "youtube: Hugging Face CEO",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Hugging Face CEO",
-   "ok": true
-  },
-  {
-   "source": "youtube: hugging face ceo jensen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: hugging face ceo jensen",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
@@ -199,7 +174,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-13 06:15:44",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "hn",
@@ -1526,109 +1501,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T17:50:07.984Z"
-  },
-  {
-   "first_seen": "2026-11-10T10:12:00.650Z",
-   "id": "39726235",
-   "ids": [
-    "39726235",
-    "39722331"
-   ],
-   "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
-   "url": "https://www.thehindu.com/sci-tech/technology/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount/article71684865.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-10 06:51:42",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Meta expands AI age checks on Instagram across APAC",
-     "url": "https://www.techinasia.com/news/meta-expands-ai-age-checks-instagram-apac"
-    }
-   ],
-   "queries": [
-    "meta instagram expands ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Sgmwc1DILWg",
-     "url": "https://www.youtube.com/shorts/Sgmwc1DILWg",
-     "title": "Why Instagram Wants You to Use AI",
-     "channel": "",
-     "views": 111,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:OeXEWdFp2aw",
-     "url": "https://www.youtube.com/shorts/OeXEWdFp2aw",
-     "title": "Meta AI Age Estimation Goes Global on Instagram #Shorts",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xhBcUs4v2wU",
-     "url": "https://www.youtube.com/shorts/xhBcUs4v2wU",
-     "title": "Instagram's AI Age Checks Go Global",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yzhMvwcjjFo",
-     "url": "https://www.youtube.com/shorts/yzhMvwcjjFo",
-     "title": "Instagram Expands AI Age Checks Worldwide | AI News Today",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:AapZhst1nE0",
-     "url": "https://www.youtube.com/shorts/AapZhst1nE0",
-     "title": "Instagram's AI Is Checking Who's a Teen",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4P9Sl1fH_m0",
-     "url": "https://www.youtube.com/shorts/4P9Sl1fH_m0",
-     "title": "Meta expands AI age detection on Instagram globally",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-10T10:12:04.926Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
