@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T23:20:43.517Z",
+ "generated_at": "2026-11-13T00:30:00.198Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Russian Pranksters Into Thinking They Were Speaking",
+   "source": "youtube: Hugging Face CEO",
    "ok": true
   },
   {
-   "source": "tiktok: Russian Pranksters Into Thinking They Were Speaking",
+   "source": "tiktok: Hugging Face CEO",
    "ok": true
   },
   {
-   "source": "youtube: openai fooled russian pranksters",
+   "source": "youtube: hugging face ceo jensen",
    "ok": true
   },
   {
-   "source": "tiktok: openai fooled russian pranksters",
+   "source": "tiktok: hugging face ceo jensen",
    "ok": true
   }
  ],
@@ -72,7 +72,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-12 18:00:50",
    "story_sources": 2,
-   "score_norm": 95,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "hn",
@@ -178,6 +178,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T20:49:22.016Z"
+  },
+  {
+   "first_seen": "2026-11-13T00:30:00.198Z",
+   "id": "39790391",
+   "ids": [
+    "39790391",
+    "39784006"
+   ],
+   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-13 00:11:18",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+    }
+   ],
+   "queries": [
+    "Hugging Face CEO",
+    "hugging face ceo jensen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nS-yvvNQnsA",
+     "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
+     "title": "Rise and fall of Nvidia CEO Jensen Huang",
+     "channel": "",
+     "views": 279000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I0rpmWBifxU",
+     "url": "https://www.youtube.com/shorts/I0rpmWBifxU",
+     "title": "How An Autonomous AI Agent Exploited Hugging Face",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D7Ky7-1cdeU",
+     "url": "https://www.youtube.com/shorts/D7Ky7-1cdeU",
+     "title": "AI Tech CEO, on Prompting AI",
+     "channel": "",
+     "views": 789,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RMmBx_cioNo",
+     "url": "https://www.youtube.com/shorts/RMmBx_cioNo",
+     "title": "Why AI Agents Really Hacked Hugging Face",
+     "channel": "",
+     "views": 199,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PHb8t3Ia-mA",
+     "url": "https://www.youtube.com/shorts/PHb8t3Ia-mA",
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tZW28xPG9dk",
+     "url": "https://www.youtube.com/watch?v=tZW28xPG9dk",
+     "title": "RERIGHT · Hugging Face CEO vows to keep fighting for open source AI af",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 0.23333333333333334,
+     "relevance": 0.82,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-13T00:30:08.577Z"
   },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
