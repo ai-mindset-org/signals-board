@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:10:10.722Z",
+ "generated_at": "2026-11-13T18:36:38.352Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Pay Without Seeing Your Card",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Pay Without Seeing Your Card",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt wallet lets openai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt wallet lets openai",
-   "ok": true
-  },
-  {
-   "source": "youtube: Perplexity Releases Decider",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Perplexity Releases Decider",
-   "ok": true
-  },
-  {
-   "source": "youtube: perplexity releases decider v1.3",
-   "ok": true
-  },
-  {
-   "source": "tiktok: perplexity releases decider v1.3",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-13T16:49:54.153Z",
@@ -416,6 +383,37 @@
    "searched_at": "2026-11-12T03:37:40.924Z"
   },
   {
+   "first_seen": "2026-11-13T15:35:57.728Z",
+   "id": "39803331",
+   "ids": [
+    "39803331",
+    "39788065"
+   ],
+   "title": "Investigators have discovered that the top 4 Chinese AI labs all built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China.",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xv9pff/investigators_have_discovered_that_the_top_4/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-13 14:44:27",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+     "url": "https://twitter.com/willdepue/status/2120992457630326841"
+    }
+   ],
+   "queries": [
+    "4 Chinese",
+    "investigators chinese nvidia blackwell"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-13T15:36:05.439Z"
+  },
+  {
    "first_seen": "2026-11-11T16:36:48.177Z",
    "id": "39758563",
    "ids": [
@@ -520,37 +518,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-12T11:10:46.156Z"
-  },
-  {
-   "first_seen": "2026-11-13T15:35:57.728Z",
-   "id": "39803331",
-   "ids": [
-    "39803331",
-    "39788065"
-   ],
-   "title": "Investigators have discovered that the top 4 Chinese AI labs all built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China.",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xv9pff/investigators_have_discovered_that_the_top_4/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-13 14:44:27",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
-     "url": "https://twitter.com/willdepue/status/2120992457630326841"
-    }
-   ],
-   "queries": [
-    "4 Chinese",
-    "investigators chinese nvidia blackwell"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-13T15:36:05.439Z"
   },
   {
    "first_seen": "2026-11-11T14:11:55.934Z",
@@ -814,34 +781,40 @@
    "searched_at": "2026-11-11T14:22:58.383Z"
   },
   {
-   "first_seen": "2026-11-10T18:49:16.614Z",
-   "id": "39737517",
+   "first_seen": "2026-11-13T14:49:51.295Z",
+   "id": "39802700",
    "ids": [
-    "39737517",
-    "39733330"
+    "39802700",
+    "39801784",
+    "39798606"
    ],
-   "title": "I don't use AI",
-   "url": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-10 18:28:24",
+   "title": "llama.cpp v1.0 is here 🦙",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-13 14:07:33",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "How Not to Use AI",
-     "url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html"
+     "title": "Llama.cpp v1 Is Out",
+     "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+     "source_id": "hn",
+     "title": "llama.cpp v1.0",
+     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"
     }
    ],
    "queries": [
-    "don use ai"
+    "v1.0 llama.cpp here"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-10T18:49:20.708Z"
+   "searched_at": "2026-11-13T14:49:55.397Z"
   },
   {
    "first_seen": "2026-11-12T13:21:45.102Z",
@@ -1026,145 +999,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T17:50:07.984Z"
-  },
-  {
-   "first_seen": "2026-11-13T14:49:51.295Z",
-   "id": "39802700",
-   "ids": [
-    "39802700",
-    "39801784",
-    "39798606"
-   ],
-   "title": "llama.cpp v1.0 is here 🦙",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-13 14:07:33",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Llama.cpp v1 Is Out",
-     "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-    },
-    {
-     "source_id": "hn",
-     "title": "llama.cpp v1.0",
-     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"
-    }
-   ],
-   "queries": [
-    "v1.0 llama.cpp here"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-13T14:49:55.397Z"
-  },
-  {
-   "first_seen": "2026-11-10T19:35:41.446Z",
-   "id": "39737655",
-   "ids": [
-    "39737655",
-    "39738216"
-   ],
-   "title": "OpenAI lets businesses claim their ChatGPT listing and build their own agent",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsuibf/openai_lets_businesses_claim_their_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 18:24:53",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "OpenAI lets businesses claim ChatGPT profiles and launch their own agents",
-     "url": "https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents"
-    }
-   ],
-   "queries": [
-    "openai chatgpt lets businesses"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:W9fymOTlCs4",
-     "url": "https://www.youtube.com/watch?v=W9fymOTlCs4",
-     "title": "Claim Your Business in ChatGPT",
-     "channel": "The Edge Engine",
-     "views": 15,
-     "age_hours": 10,
-     "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_Wu8xA0kKVo",
-     "url": "https://www.youtube.com/watch?v=_Wu8xA0kKVo",
-     "title": "Ep. 169: OpenAI lets businesses claim their ChatGPT listing and build their own agent (Daily Reca...",
-     "channel": "RuntimeWire",
-     "views": 12,
-     "age_hours": 6,
-     "relevance": 1,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Hxx2k6056r4",
-     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
-     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9REsc4ZGE6E",
-     "url": "https://www.youtube.com/shorts/9REsc4ZGE6E",
-     "title": "🔥 OpenAI Lets Businesses Answer Customers Inside ChatGPT #AINews",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bKDmNmOghxI",
-     "url": "https://www.youtube.com/watch?v=bKDmNmOghxI",
-     "title": "OpenAI lets businesses claim their ChatGPT listing and build… — and more by RuntimeWire (Nov 10th)",
-     "channel": "RuntimeWire",
-     "views": 2,
-     "age_hours": 6,
-     "relevance": 0.8,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TPU0h5YTZlw",
-     "url": "https://www.youtube.com/shorts/TPU0h5YTZlw",
-     "title": "OpenAI: Introducing Businesses in ChatGPT",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T07:49:54.251Z"
   },
   {
    "first_seen": "2026-11-13T13:49:58.454Z",
@@ -2131,7 +1965,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-13 06:15:44",
    "story_sources": 2,
-   "score_norm": 43,
+   "score_norm": 44,
    "related_news": [
     {
      "source_id": "hn",
