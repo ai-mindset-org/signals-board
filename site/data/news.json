@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T15:35:57.728Z",
+ "generated_at": "2026-11-13T15:49:18.421Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,54 @@
  },
  "search_report": [
   {
-   "source": "youtube: 4 Chinese",
+   "source": "youtube: Company Employees Should Unionize",
    "ok": true
   },
   {
-   "source": "tiktok: 4 Chinese",
+   "source": "tiktok: Company Employees Should Unionize",
    "ok": true
   },
   {
-   "source": "youtube: investigators chinese nvidia blackwell",
+   "source": "youtube: company employees should unionize",
    "ok": true
   },
   {
-   "source": "tiktok: investigators chinese nvidia blackwell",
+   "source": "tiktok: company employees should unionize",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-13T15:49:18.421Z",
+   "id": "39803802",
+   "ids": [
+    "39803802",
+    "39789527"
+   ],
+   "title": "AI Company Employees Should Unionize",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xvawe7/ai_company_employees_should_unionize/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-13 15:32:12",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI Company Employees Should Unionize",
+     "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize"
+    }
+   ],
+   "queries": [
+    "Company Employees Should Unionize",
+    "company employees should unionize"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-13T15:49:26.624Z"
+  },
   {
    "first_seen": "2026-11-13T15:35:57.728Z",
    "id": "39803331",
@@ -38,7 +69,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-13 14:44:27",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 96,
    "related_news": [
     {
      "source_id": "hn",
@@ -70,7 +101,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-13 09:48:26",
    "story_sources": 3,
-   "score_norm": 94,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "in-techgenyz",
@@ -179,7 +210,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-13 14:07:33",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "hn",
@@ -214,7 +245,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-12 17:00:00",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
@@ -380,129 +411,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T17:36:17.216Z"
-  },
-  {
-   "first_seen": "2026-11-12T20:49:14.534Z",
-   "id": "39786912",
-   "ids": [
-    "39786912",
-    "39784806",
-    "39783910",
-    "39783775",
-    "39783776",
-    "39783777"
-   ],
-   "title": "Introducing Gemini 4 Hydrogen",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "source_id": "deepmind",
-   "published_ts": "2026-11-12 18:00:50",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen",
-     "url": "https://deepmind.google/models/model-cards/gemini-4-hydrogen/"
-    }
-   ],
-   "queries": [
-    "Introducing Gemini 4 Hydrogen",
-    "introducing gemini hydrogen"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1KtXDpSYedo",
-     "url": "https://www.youtube.com/watch?v=1KtXDpSYedo",
-     "title": "Anthropic SLOWING DOWN!?, Gemini 4 HYDROGEN IS INSANE, OpenAI's NEW Model, & NVIDIA FIRES Jensen!",
-     "channel": "WorldofAI",
-     "views": 31390,
-     "age_hours": 7,
-     "relevance": 0.67,
-     "velocity": 4484
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2imEgVWkeoA",
-     "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
-     "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
-     "channel": "",
-     "views": 157000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:oh8AyMFU5S8",
-     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
-     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
-     "channel": "Google Gemini",
-     "views": 75361,
-     "age_hours": 21,
-     "relevance": 0.67,
-     "velocity": 3589
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GI1Ahvmqyd4",
-     "url": "https://www.youtube.com/watch?v=GI1Ahvmqyd4",
-     "title": "NOVO Gemini 4 Hydrogen Surpreende em Velocidade e Preço Baixo e Coloca Google na Corrida de Novo",
-     "channel": "Inteligência Mil Grau",
-     "views": 10674,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 1779
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OFkDCJ9Yjzo",
-     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
-     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
-     "channel": "Universe of AI",
-     "views": 27422,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 1714
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yvq3lEyWdE8",
-     "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
-     "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
-     "channel": "AI with Surya",
-     "views": 12543,
-     "age_hours": 14,
-     "relevance": 0.67,
-     "velocity": 896
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-13T15:20:37.336Z"
   },
   {
    "first_seen": "2026-11-11T21:36:02.545Z",
@@ -714,6 +622,115 @@
    "searched_at": "2026-11-12T11:10:46.156Z"
   },
   {
+   "first_seen": "2026-11-12T20:49:14.534Z",
+   "id": "39786912",
+   "ids": [
+    "39786912",
+    "39784806",
+    "39783910",
+    "39783775",
+    "39783776",
+    "39783777",
+    "39803589"
+   ],
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "source_id": "deepmind",
+   "published_ts": "2026-11-12 18:00:50",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Hydrogen and Orchestrator",
+     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+    }
+   ],
+   "queries": [
+    "Introducing Gemini 4 Hydrogen",
+    "introducing gemini hydrogen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1KtXDpSYedo",
+     "url": "https://www.youtube.com/watch?v=1KtXDpSYedo",
+     "title": "Anthropic SLOWING DOWN!?, Gemini 4 HYDROGEN IS INSANE, OpenAI's NEW Model, & NVIDIA FIRES Jensen!",
+     "channel": "WorldofAI",
+     "views": 31390,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 4484
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2imEgVWkeoA",
+     "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
+     "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
+     "channel": "",
+     "views": 157000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:oh8AyMFU5S8",
+     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
+     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
+     "channel": "Google Gemini",
+     "views": 75361,
+     "age_hours": 21,
+     "relevance": 0.67,
+     "velocity": 3589
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GI1Ahvmqyd4",
+     "url": "https://www.youtube.com/watch?v=GI1Ahvmqyd4",
+     "title": "NOVO Gemini 4 Hydrogen Surpreende em Velocidade e Preço Baixo e Coloca Google na Corrida de Novo",
+     "channel": "Inteligência Mil Grau",
+     "views": 10674,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 1779
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OFkDCJ9Yjzo",
+     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
+     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
+     "channel": "Universe of AI",
+     "views": 27422,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 1714
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yvq3lEyWdE8",
+     "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
+     "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
+     "channel": "AI with Surya",
+     "views": 12543,
+     "age_hours": 14,
+     "relevance": 0.67,
+     "velocity": 896
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-13T15:20:37.336Z"
+  },
+  {
    "first_seen": "2026-11-11T14:11:55.934Z",
    "id": "39755394",
    "ids": [
@@ -910,6 +927,96 @@
    "searched_at": "2026-11-11T14:22:54.754Z"
   },
   {
+   "first_seen": "2026-11-10T19:49:29.894Z",
+   "id": "39738826",
+   "ids": [
+    "39738826",
+    "39737100"
+   ],
+   "title": "How AI agents work",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-10 19:31:37",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "AI and the Art of Work",
+     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
+    }
+   ],
+   "queries": [
+    "ai agents work"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T14:22:58.383Z"
+  },
+  {
+   "first_seen": "2026-11-10T18:49:16.614Z",
+   "id": "39737517",
+   "ids": [
+    "39737517",
+    "39733330"
+   ],
+   "title": "I don't use AI",
+   "url": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-10 18:28:24",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "How Not to Use AI",
+     "url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html"
+    }
+   ],
+   "queries": [
+    "don use ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-10T18:49:20.708Z"
+  },
+  {
+   "first_seen": "2026-11-10T16:23:28.147Z",
+   "id": "39733820",
+   "ids": [
+    "39733820",
+    "39733880"
+   ],
+   "title": "MEGA commits $30 million to new products, starting with AI inference",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+   "source_id": "crypto-theblock",
+   "published_ts": "2026-11-10 15:56:02",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
+     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
+    }
+   ],
+   "queries": [
+    "mega 30 commits million"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-11T10:36:27.388Z"
+  },
+  {
    "first_seen": "2026-11-13T06:41:03.533Z",
    "id": "39795053",
    "ids": [
@@ -921,7 +1028,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-13 06:15:44",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
@@ -1011,96 +1118,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-13T12:49:55.925Z"
-  },
-  {
-   "first_seen": "2026-11-10T19:49:29.894Z",
-   "id": "39738826",
-   "ids": [
-    "39738826",
-    "39737100"
-   ],
-   "title": "How AI agents work",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xsw9na/how_ai_agents_work/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 19:31:37",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI and the Art of Work",
-     "url": "https://shanedowling.com/posts/2026-11-10-ai-and-the-art-of-work/"
-    }
-   ],
-   "queries": [
-    "ai agents work"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T14:22:58.383Z"
-  },
-  {
-   "first_seen": "2026-11-10T18:49:16.614Z",
-   "id": "39737517",
-   "ids": [
-    "39737517",
-    "39733330"
-   ],
-   "title": "I don't use AI",
-   "url": "https://www.lesswrong.com/posts/PEHsGHp2HLxgdCxxA/i-don-t-use-ai",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-10 18:28:24",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "How Not to Use AI",
-     "url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html"
-    }
-   ],
-   "queries": [
-    "don use ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T18:49:20.708Z"
-  },
-  {
-   "first_seen": "2026-11-10T16:23:28.147Z",
-   "id": "39733820",
-   "ids": [
-    "39733820",
-    "39733880"
-   ],
-   "title": "MEGA commits $30 million to new products, starting with AI inference",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
-   "source_id": "crypto-theblock",
-   "published_ts": "2026-11-10 15:56:02",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "MEGA Pledges $30 Million for Products, Starting With AI",
-     "url": "https://thedefiant.io/news/infrastructure/mega-pledges-30-million-for-products-starting-with-ai"
-    }
-   ],
-   "queries": [
-    "mega 30 commits million"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T10:36:27.388Z"
   },
   {
    "first_seen": "2026-11-12T13:21:45.102Z",
@@ -1285,110 +1302,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T17:50:07.984Z"
-  },
-  {
-   "first_seen": "2026-11-13T00:30:00.198Z",
-   "id": "39790391",
-   "ids": [
-    "39790391",
-    "39784006"
-   ],
-   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-13 00:11:18",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
-    }
-   ],
-   "queries": [
-    "Hugging Face CEO",
-    "hugging face ceo jensen"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nS-yvvNQnsA",
-     "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
-     "title": "Rise and fall of Nvidia CEO Jensen Huang",
-     "channel": "",
-     "views": 348000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hEV8b5jNbYg",
-     "url": "https://www.youtube.com/watch?v=hEV8b5jNbYg",
-     "title": "What happens to Nvidia without Jensen Huang?",
-     "channel": "Machine Gods and 2 more",
-     "views": 352,
-     "age_hours": 0.8166666666666667,
-     "relevance": 0.5,
-     "velocity": 352
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LDPLVz73dgg",
-     "url": "https://www.youtube.com/watch?v=LDPLVz73dgg",
-     "title": "Jensen Huang Is Gone. What Happens to Your AI Now?",
-     "channel": "Devsplainers",
-     "views": 3621,
-     "age_hours": 14,
-     "relevance": 0.6,
-     "velocity": 259
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RMmBx_cioNo",
-     "url": "https://www.youtube.com/shorts/RMmBx_cioNo",
-     "title": "Why AI Agents Really Hacked Hugging Face",
-     "channel": "",
-     "views": 199,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PHb8t3Ia-mA",
-     "url": "https://www.youtube.com/shorts/PHb8t3Ia-mA",
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Fea0vj6vYng",
-     "url": "https://www.youtube.com/shorts/Fea0vj6vYng",
-     "title": "Hugging Face CEO Defends Open Source AI After Jensen Huang Exit #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.82,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-13T12:50:07.529Z"
   },
   {
    "first_seen": "2026-11-10T19:35:41.446Z",
@@ -1595,6 +1508,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-13T13:50:05.563Z"
+  },
+  {
+   "first_seen": "2026-11-13T00:30:00.198Z",
+   "id": "39790391",
+   "ids": [
+    "39790391",
+    "39784006"
+   ],
+   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-13 00:11:18",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+    }
+   ],
+   "queries": [
+    "Hugging Face CEO",
+    "hugging face ceo jensen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nS-yvvNQnsA",
+     "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
+     "title": "Rise and fall of Nvidia CEO Jensen Huang",
+     "channel": "",
+     "views": 348000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hEV8b5jNbYg",
+     "url": "https://www.youtube.com/watch?v=hEV8b5jNbYg",
+     "title": "What happens to Nvidia without Jensen Huang?",
+     "channel": "Machine Gods and 2 more",
+     "views": 352,
+     "age_hours": 0.8166666666666667,
+     "relevance": 0.5,
+     "velocity": 352
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LDPLVz73dgg",
+     "url": "https://www.youtube.com/watch?v=LDPLVz73dgg",
+     "title": "Jensen Huang Is Gone. What Happens to Your AI Now?",
+     "channel": "Devsplainers",
+     "views": 3621,
+     "age_hours": 14,
+     "relevance": 0.6,
+     "velocity": 259
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RMmBx_cioNo",
+     "url": "https://www.youtube.com/shorts/RMmBx_cioNo",
+     "title": "Why AI Agents Really Hacked Hugging Face",
+     "channel": "",
+     "views": 199,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PHb8t3Ia-mA",
+     "url": "https://www.youtube.com/shorts/PHb8t3Ia-mA",
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Fea0vj6vYng",
+     "url": "https://www.youtube.com/shorts/Fea0vj6vYng",
+     "title": "Hugging Face CEO Defends Open Source AI After Jensen Huang Exit #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.82,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-13T12:50:07.529Z"
   },
   {
    "first_seen": "2026-11-11T23:10:07.247Z",
