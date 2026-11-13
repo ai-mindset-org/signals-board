@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T16:49:54.153Z",
+ "generated_at": "2026-11-13T17:10:10.722Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: chatgpt wallet lets ai",
+   "source": "youtube: Pay Without Seeing Your Card",
    "ok": true
   },
   {
-   "source": "tiktok: chatgpt wallet lets ai",
+   "source": "tiktok: Pay Without Seeing Your Card",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt wallet lets openai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt wallet lets openai",
+   "ok": true
+  },
+  {
+   "source": "youtube: Perplexity Releases Decider",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Perplexity Releases Decider",
+   "ok": true
+  },
+  {
+   "source": "youtube: perplexity releases decider v1.3",
+   "ok": true
+  },
+  {
+   "source": "tiktok: perplexity releases decider v1.3",
    "ok": true
   }
  ],
@@ -154,101 +178,100 @@
    "searched_at": "2026-11-12T23:20:50.998Z"
   },
   {
-   "first_seen": "2026-11-09T22:50:05.120Z",
-   "id": "39717917",
+   "first_seen": "2026-11-13T17:10:10.722Z",
+   "id": "39805547",
    "ids": [
-    "39717917",
-    "39718245",
-    "39735241"
+    "39805547",
+    "39803674"
    ],
-   "title": "OpenAI describes Control Room, a central system that can track and stop model workloads across its research infrastructure",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xssa49/openai_describes_control_room_a_central_system/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-10 17:01:55",
+   "title": "ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card",
+   "url": "https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-your-card/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-13 16:13:14",
    "story_sources": 2,
    "score_norm": 71,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "OpenAI Control Room: track and stop model workloads across research infra",
-     "url": "https://openai.com/index/control-room/"
+     "source_id": "x-thedefiant-io",
+     "title": "OpenAI Gives ChatGPT Agents a Card Wallet for Purchases",
+     "url": "https://thedefiant.io/frontier/ai/openai-gives-chatgpt-agents-a-card-wallet-for-purchases"
     }
    ],
    "queries": [
-    "Control Room",
-    "openai control room describes"
+    "Pay Without Seeing Your Card",
+    "chatgpt wallet lets openai"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3yIVRDNEVmI",
-     "url": "https://www.youtube.com/watch?v=3yIVRDNEVmI",
-     "title": "The Control Room #2: Bob Horn",
-     "channel": "Greazy Wil",
-     "views": 2408,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 33
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:DK0MwGYHoLg",
-     "url": "https://www.youtube.com/shorts/DK0MwGYHoLg",
-     "title": "OpenAI Control Room",
+     "id": "youtube:vJz14JoQ0pw",
+     "url": "https://www.youtube.com/shorts/vJz14JoQ0pw",
+     "title": "This Is What Happens When You Tap Your Card to Pay",
      "channel": "",
-     "views": 52,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9QIrvML5DAc",
-     "url": "https://www.youtube.com/shorts/9QIrvML5DAc",
-     "title": "OpenAI deploys Control Room to stop research model workloads in 35 seconds #Shorts",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.64,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iEeS3Kop5YU",
-     "url": "https://www.youtube.com/shorts/iEeS3Kop5YU",
-     "title": "OpenAI Introduces Control Room For Human Control Over AI Workloads",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ULUlchY08gk",
-     "url": "https://www.youtube.com/shorts/ULUlchY08gk",
-     "title": "OpenAI's Control Room can stop a research AI in 35 seconds #shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BjMp5hB5QsU",
-     "url": "https://www.youtube.com/shorts/BjMp5hB5QsU",
-     "title": "OpenAI Launches Control Room for Fast Research Workload Shutdowns",
-     "channel": "",
-     "views": 0,
+     "views": 1600,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5VqladPSLdM",
+     "url": "https://www.youtube.com/shorts/5VqladPSLdM",
+     "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zYLfzrAJF2g",
+     "url": "https://www.youtube.com/shorts/zYLfzrAJF2g",
+     "title": "ChatGPT Can Now Pay for Things for You",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rMUYXALR9no",
+     "url": "https://www.youtube.com/shorts/rMUYXALR9no",
+     "title": "OpenAI launches ChatGPT Wallet for AI agents to make secure purchases",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8da3Dblu3YY",
+     "url": "https://www.youtube.com/shorts/8da3Dblu3YY",
+     "title": "OpenAI ChatGPT Wallet: Agents Can Now Pay For You #AI #OpenAI",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WbPPZuflW4U",
+     "url": "https://www.youtube.com/shorts/WbPPZuflW4U",
+     "title": "ChatGPT Wallet: AI agents can now pay for you",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -256,7 +279,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-10T17:36:17.216Z"
+   "searched_at": "2026-11-13T17:10:20.429Z"
   },
   {
    "first_seen": "2026-11-13T15:49:18.421Z",
@@ -559,6 +582,37 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-12T03:14:14.392Z"
+  },
+  {
+   "first_seen": "2026-11-13T17:10:10.722Z",
+   "id": "39805339",
+   "ids": [
+    "39805339",
+    "39801125"
+   ],
+   "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+   "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+   "source_id": "in-marktechpost",
+   "published_ts": "2026-11-13 16:10:02",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "reddit-localllama",
+     "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/"
+    }
+   ],
+   "queries": [
+    "Perplexity Releases Decider",
+    "perplexity releases decider v1.3"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-13T17:10:27.120Z"
   },
   {
    "first_seen": "2026-11-11T19:49:38.331Z",
