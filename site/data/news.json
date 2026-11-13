@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T02:14:02.961Z",
+ "generated_at": "2026-11-13T02:49:59.571Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: ai chatbots recommending fake",
+   "source": "youtube: Introducing Gemini 4 Hydrogen",
    "ok": true
   },
   {
-   "source": "tiktok: ai chatbots recommending fake",
+   "source": "tiktok: Introducing Gemini 4 Hydrogen",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing gemini hydrogen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing gemini hydrogen",
    "ok": true
   }
  ],
@@ -99,34 +107,22 @@
      "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
      "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
      "channel": "Google Gemini",
-     "views": 5858,
-     "age_hours": 2,
+     "views": 43924,
+     "age_hours": 8,
      "relevance": 0.67,
-     "velocity": 2929
+     "velocity": 5491
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:6GA_zSxtSHE",
-     "url": "https://www.youtube.com/watch?v=6GA_zSxtSHE",
-     "title": "Gemini 4 Hydrogen: Everyday Model for Everyone from Google",
-     "channel": "Fahd Mirza",
-     "views": 182,
-     "age_hours": 0.7,
+     "id": "youtube:OFkDCJ9Yjzo",
+     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
+     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
+     "channel": "Universe of AI",
+     "views": 9192,
+     "age_hours": 4,
      "relevance": 0.67,
-     "velocity": 182
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:E4TzPbJUrX0",
-     "url": "https://www.youtube.com/watch?v=E4TzPbJUrX0",
-     "title": "Gemini 4 Hydrogen Just Beat Argon (And It's Cheaper)",
-     "channel": "Hyperautomation Labs",
-     "views": 181,
-     "age_hours": 1,
-     "relevance": 0.67,
-     "velocity": 181
+     "velocity": 2298
     },
     {
      "platform": "youtube",
@@ -135,7 +131,7 @@
      "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
      "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
      "channel": "",
-     "views": 1600,
+     "views": 34000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -143,137 +139,45 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:VIBvNUWB-NQ",
-     "url": "https://www.youtube.com/watch?v=VIBvNUWB-NQ",
-     "title": "Introducing Gemini for healthcare",
-     "channel": "Google Cloud",
-     "views": 1981,
+     "id": "youtube:uS1kHkXLdp4",
+     "url": "https://www.youtube.com/watch?v=uS1kHkXLdp4",
+     "title": "The Gemini 4 Hydrogen Mystery: 5x Faster! Everything You Need to Know About the Upcoming Gemini M...",
+     "channel": "عبداللطيف سعيد Abdellatif Said",
+     "views": 19290,
      "age_hours": 48,
      "relevance": 0.67,
-     "velocity": 41
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:M4QX9CHkaYM",
-     "url": "https://www.youtube.com/shorts/M4QX9CHkaYM",
-     "title": "Gemini 4 Hydrogen is now available to everyone as our latest model for fast, everyday help.",
-     "channel": "",
-     "views": 1400,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-12T20:49:22.016Z"
-  },
-  {
-   "first_seen": "2026-11-13T00:30:00.198Z",
-   "id": "39790391",
-   "ids": [
-    "39790391",
-    "39784006"
-   ],
-   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-13 00:11:18",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
-    }
-   ],
-   "queries": [
-    "Hugging Face CEO",
-    "hugging face ceo jensen"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nS-yvvNQnsA",
-     "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
-     "title": "Rise and fall of Nvidia CEO Jensen Huang",
-     "channel": "",
-     "views": 279000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:I0rpmWBifxU",
-     "url": "https://www.youtube.com/shorts/I0rpmWBifxU",
-     "title": "How An Autonomous AI Agent Exploited Hugging Face",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D7Ky7-1cdeU",
-     "url": "https://www.youtube.com/shorts/D7Ky7-1cdeU",
-     "title": "AI Tech CEO, on Prompting AI",
-     "channel": "",
-     "views": 789,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RMmBx_cioNo",
-     "url": "https://www.youtube.com/shorts/RMmBx_cioNo",
-     "title": "Why AI Agents Really Hacked Hugging Face",
-     "channel": "",
-     "views": 199,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PHb8t3Ia-mA",
-     "url": "https://www.youtube.com/shorts/PHb8t3Ia-mA",
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
+     "velocity": 402
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:tZW28xPG9dk",
-     "url": "https://www.youtube.com/watch?v=tZW28xPG9dk",
-     "title": "RERIGHT · Hugging Face CEO vows to keep fighting for open source AI af",
-     "channel": "reright",
-     "views": 0,
-     "age_hours": 0.23333333333333334,
-     "relevance": 0.82,
-     "velocity": null
+     "id": "youtube:E4TzPbJUrX0",
+     "url": "https://www.youtube.com/watch?v=E4TzPbJUrX0",
+     "title": "Gemini 4 Hydrogen Just Beat Argon (And It's Cheaper)",
+     "channel": "Hyperautomation Labs",
+     "views": 2800,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 400
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6GA_zSxtSHE",
+     "url": "https://www.youtube.com/watch?v=6GA_zSxtSHE",
+     "title": "Gemini 4 Hydrogen: Everyday Model for Everyone from Google",
+     "channel": "Fahd Mirza",
+     "views": 2334,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 389
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-13T00:30:08.577Z"
+   "searched_at": "2026-11-13T02:50:07.656Z"
   },
   {
    "first_seen": "2026-11-10T18:12:30.265Z",
@@ -378,6 +282,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-11T12:49:56.834Z"
+  },
+  {
+   "first_seen": "2026-11-13T00:30:00.198Z",
+   "id": "39790391",
+   "ids": [
+    "39790391",
+    "39784006"
+   ],
+   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+   "source_id": "reddit-localllama",
+   "published_ts": "2026-11-13 00:11:18",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+    }
+   ],
+   "queries": [
+    "Hugging Face CEO",
+    "hugging face ceo jensen"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nS-yvvNQnsA",
+     "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
+     "title": "Rise and fall of Nvidia CEO Jensen Huang",
+     "channel": "",
+     "views": 279000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I0rpmWBifxU",
+     "url": "https://www.youtube.com/shorts/I0rpmWBifxU",
+     "title": "How An Autonomous AI Agent Exploited Hugging Face",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D7Ky7-1cdeU",
+     "url": "https://www.youtube.com/shorts/D7Ky7-1cdeU",
+     "title": "AI Tech CEO, on Prompting AI",
+     "channel": "",
+     "views": 789,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RMmBx_cioNo",
+     "url": "https://www.youtube.com/shorts/RMmBx_cioNo",
+     "title": "Why AI Agents Really Hacked Hugging Face",
+     "channel": "",
+     "views": 199,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:PHb8t3Ia-mA",
+     "url": "https://www.youtube.com/shorts/PHb8t3Ia-mA",
+     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tZW28xPG9dk",
+     "url": "https://www.youtube.com/watch?v=tZW28xPG9dk",
+     "title": "RERIGHT · Hugging Face CEO vows to keep fighting for open source AI af",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 0.23333333333333334,
+     "relevance": 0.82,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-13T00:30:08.577Z"
   },
   {
    "first_seen": "2026-11-11T03:49:40.566Z",
