@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T02:49:59.571Z",
+ "generated_at": "2026-11-13T04:49:55.939Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Introducing Gemini 4 Hydrogen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Introducing Gemini 4 Hydrogen",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing gemini hydrogen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing gemini hydrogen",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
@@ -295,7 +278,7 @@
    "source_id": "reddit-localllama",
    "published_ts": "2026-11-13 00:11:18",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -1214,37 +1197,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-10T11:36:13.863Z"
-  },
-  {
-   "first_seen": "2026-11-10T11:21:05.691Z",
-   "id": "39727469",
-   "ids": [
-    "39727469",
-    "39724285"
-   ],
-   "title": "Ant Group’s Robbyant open-sources tactile AI model",
-   "url": "https://www.techinasia.com/news/ant-groups-robbyant-opensources-tactile-ai-model",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-10 04:43:22",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "cn-technode",
-     "title": "Ant Group’s Robbyant open-sources tactile AI model for robot hands",
-     "url": "https://technode.com/2026/11/10/ant-groups-robbyant-open-sources-tactile-ai-model-for-robot-hands/"
-    }
-   ],
-   "queries": [
-    "Ant Group’s Robbyant",
-    "ant group robbyant open-sources"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-10T11:21:20.197Z"
   },
   {
    "first_seen": "2026-11-10T19:49:29.894Z",
