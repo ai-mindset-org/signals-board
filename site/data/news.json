@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:36:38.352Z",
+ "generated_at": "2026-11-13T18:49:58.173Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: microsoft outlook copilot tries",
+   "ok": true
+  },
+  {
+   "source": "tiktok: microsoft outlook copilot tries",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-13T16:49:54.153Z",
@@ -1979,24 +1988,12 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:MOKwnRXD__U",
-     "url": "https://www.youtube.com/watch?v=MOKwnRXD__U",
-     "title": "Is there still a Microsoft outage?",
-     "channel": "WKYC Channel 3",
-     "views": 1024,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 512
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:9IgyhooRy4A",
      "url": "https://www.youtube.com/shorts/9IgyhooRy4A",
      "title": "Microsoft Outage: Outlook, Teams, Copilot Hit as Over 1.3 Lakh Users Report Problems | N18S",
      "channel": "",
-     "views": 12000,
+     "views": 34000,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -2008,7 +2005,7 @@
      "url": "https://www.youtube.com/shorts/V3nBFEyaZcA",
      "title": "Microsoft Outage: Outlook, Teams, OneDrive & Copilot Hit By Widespread Disruption | N18S",
      "channel": "",
-     "views": 10000,
+     "views": 20000,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -2020,7 +2017,7 @@
      "url": "https://www.youtube.com/shorts/W_i6pvckt4E",
      "title": "Microsoft 365 Outage: Outlook, Teams, and Copilot Go Down",
      "channel": "",
-     "views": 2500,
+     "views": 2800,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -2028,11 +2025,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:5OxsgRDa21Q",
-     "url": "https://www.youtube.com/shorts/5OxsgRDa21Q",
-     "title": "Microsoft outage: Outlook, Teams & Copilot hit by major disruption",
+     "id": "youtube:HbH3wM8E6Ds",
+     "url": "https://www.youtube.com/shorts/HbH3wM8E6Ds",
+     "title": "Microsoft Outage: Outlook, Copilot and Teams Go Offline #shorts",
      "channel": "",
-     "views": 2100,
+     "views": 285,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -2040,13 +2037,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:SnlJwl_bRrk",
-     "url": "https://www.youtube.com/shorts/SnlJwl_bRrk",
-     "title": "Microsoft outage hits Outlook , Teams and Copilot worldwide what happened & it will resolve or not ?",
+     "id": "youtube:MUt4EgyPJXU",
+     "url": "https://www.youtube.com/shorts/MUt4EgyPJXU",
+     "title": "MICROSOFT DOWN?! 😱 What Happened to Outlook, Teams & Copilot? #microsoft",
      "channel": "",
-     "views": 76,
+     "views": 88,
      "age_hours": null,
-     "relevance": 0.57,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -2054,7 +2051,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-13T12:49:55.925Z"
+   "searched_at": "2026-11-13T18:50:02.528Z"
   }
  ]
 }
