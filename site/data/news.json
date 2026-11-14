@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T05:20:33.957Z",
+ "generated_at": "2026-11-14T05:49:43.484Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,48 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: ChatGPT Wallet",
-   "ok": true
-  },
-  {
-   "source": "tiktok: ChatGPT Wallet",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt wallet openai dots",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt wallet openai dots",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt wallet lets ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt wallet lets ai",
-   "ok": true
-  },
-  {
-   "source": "youtube: Perplexity Releases Decider",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Perplexity Releases Decider",
-   "ok": true
-  },
-  {
-   "source": "youtube: perplexity releases decider v1.3",
-   "ok": true
-  },
-  {
-   "source": "tiktok: perplexity releases decider v1.3",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-13T19:49:40.462Z",
@@ -2027,109 +1986,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T15:11:58.190Z"
-  },
-  {
-   "first_seen": "2026-11-11T11:36:05.817Z",
-   "id": "39748310",
-   "ids": [
-    "39748310",
-    "39752604"
-   ],
-   "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-   "url": "https://www.thehindubusinessline.com/info-tech/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms/article71688454.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-11 05:48:39",
-   "story_sources": 2,
-   "score_norm": 46,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-e-commerce-firms-10958389/"
-    }
-   ],
-   "queries": [
-    "openai chatgpt us lets"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Ljg0yKACWjA",
-     "url": "https://www.youtube.com/watch?v=Ljg0yKACWjA",
-     "title": "ChatGPT Now Has Business Profiles: Here’s How to Claim Yours",
-     "channel": "proflead",
-     "views": 50,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 50
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XjqQ2nbOQbE",
-     "url": "https://www.youtube.com/shorts/XjqQ2nbOQbE",
-     "title": "OpenAI Built ChatGPT by Accident",
-     "channel": "",
-     "views": 35,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CSVo7XBx784",
-     "url": "https://www.youtube.com/shorts/CSVo7XBx784",
-     "title": "OpenAI Business Agents in ChatGPT: What the US Beta Actually Allows",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ea3PNnGlPgA",
-     "url": "https://www.youtube.com/shorts/Ea3PNnGlPgA",
-     "title": "OpenAI Lets Brands Claim a Verified ChatGPT Profile",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Hxx2k6056r4",
-     "url": "https://www.youtube.com/shorts/Hxx2k6056r4",
-     "title": "OpenAI Opens ChatGPT To Businesses With New Business Hub",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cvG77fBrgtM",
-     "url": "https://www.youtube.com/shorts/cvG77fBrgtM",
-     "title": "OpenAI Just Opened ChatGPT to Businesses 🛒",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T11:36:10.042Z"
   },
   {
    "first_seen": "2026-11-13T06:41:03.533Z",
