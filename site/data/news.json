@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T03:12:15.414Z",
+ "generated_at": "2026-11-14T04:12:35.337Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: v1.0 llama.cpp here",
+   "source": "youtube: ChatGPT Wallet",
    "ok": true
   },
   {
-   "source": "tiktok: v1.0 llama.cpp here",
+   "source": "tiktok: ChatGPT Wallet",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai chatgpt wallet unveils",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai chatgpt wallet unveils",
    "ok": true
   }
  ],
@@ -329,6 +337,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-13T23:10:43.061Z"
+  },
+  {
+   "first_seen": "2026-11-14T04:12:35.337Z",
+   "id": "39815650",
+   "ids": [
+    "39815650",
+    "39807099"
+   ],
+   "title": "OpenAI unveils ChatGPT Wallet for AI agent purchases",
+   "url": "https://www.techinasia.com/news/openai-unveils-chatgpt-wallet-ai-agent-purchases",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-14 02:04:56",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchases",
+     "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/"
+    }
+   ],
+   "queries": [
+    "ChatGPT Wallet",
+    "openai chatgpt wallet unveils"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5Q89lUEYDWI",
+     "url": "https://www.youtube.com/watch?v=5Q89lUEYDWI",
+     "title": "DeepSeek Announces Full Suite API; OpenAI Launches ChatGPT Wallet | AI Morning Briefing 11/14/2026",
+     "channel": "橘鸦Juya",
+     "views": 343,
+     "age_hours": 3,
+     "relevance": 0.57,
+     "velocity": 114
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:EJyDl4-I4XE",
+     "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
+     "title": "Introducing ChatGPT Wallet",
+     "channel": "Chris Messina",
+     "views": 93,
+     "age_hours": 10,
+     "relevance": 0.67,
+     "velocity": 9
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SzaxoDh5Aqk",
+     "url": "https://www.youtube.com/watch?v=SzaxoDh5Aqk",
+     "title": "OpenAI Launches ChatGPT Wallet and More AI News",
+     "channel": "Jaeden Schafer",
+     "views": 24,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Qsng1AY3q_g",
+     "url": "https://www.youtube.com/shorts/Qsng1AY3q_g",
+     "title": "OpenAI just introduced ChatGPT Wallet, allowing AI agents to shop #TechNews #explorepages #AI",
+     "channel": "",
+     "views": 176,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Qsjhh0O98GE",
+     "url": "https://www.youtube.com/shorts/Qsjhh0O98GE",
+     "title": "OpenAI launches ChatGPT Wallet for AI shopping | codemago.dev/news",
+     "channel": "",
+     "views": 162,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sx9_AuGtUEc",
+     "url": "https://www.youtube.com/shorts/sx9_AuGtUEc",
+     "title": "ChatGPT Wallet lets OpenAI's AI agents shop and check out with your card",
+     "channel": "",
+     "views": 117,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-14T04:12:43.680Z"
   },
   {
    "first_seen": "2026-11-12T17:10:35.081Z",
