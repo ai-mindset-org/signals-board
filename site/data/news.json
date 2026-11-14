@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:23:36.830Z",
+ "generated_at": "2026-11-14T08:49:44.940Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Introducing ChatGPT Wallet",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Introducing ChatGPT Wallet",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing chatgpt wallet",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing chatgpt wallet",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-13T19:49:40.462Z",
@@ -1536,114 +1519,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-11T17:20:57.400Z"
-  },
-  {
-   "first_seen": "2026-11-10T20:11:07.923Z",
-   "id": "39733176",
-   "ids": [
-    "39733176",
-    "39739052",
-    "39748353",
-    "39749171",
-    "39728870",
-    "39750690"
-   ],
-   "title": "Anthropic’s IPO seeks up to $64.4B at a $1.4 trillion valuation",
-   "url": "https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-11 08:45:40",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Anthropic targets valuation of up to $1.4 trillion for blockbuster IPO",
-     "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-targets-valuation-of-up-to-1-4-trillion-for-blockbuster-ipo-10958400/"
-    }
-   ],
-   "queries": [
-    "Anthropic’s IPO",
-    "anthropic ipo 64.4b 1.4"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1FurWDiK9A4",
-     "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
-     "title": "Did Anthropic just save its $1 trillion IPO?",
-     "channel": "Fireship",
-     "views": 1322023,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 55084
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BE7YjDfVRLE",
-     "url": "https://www.youtube.com/shorts/BE7YjDfVRLE",
-     "title": "Anthropic Eying Absurd $1.3 TRILLION IPO",
-     "channel": "",
-     "views": 543000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NCZZ1YVD4hY",
-     "url": "https://www.youtube.com/watch?v=NCZZ1YVD4hY",
-     "title": "Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping",
-     "channel": "Eli the Computer Guy",
-     "views": 94709,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 3946
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:py4lODPF_kE",
-     "url": "https://www.youtube.com/watch?v=py4lODPF_kE",
-     "title": "Big Twist In Anthropic IPO",
-     "channel": "Solving The Money Problem",
-     "views": 51013,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 3188
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mb9h4Di12k0",
-     "url": "https://www.youtube.com/watch?v=mb9h4Di12k0",
-     "title": "Anthropic’s $1.4 Trillion IPO Bet Tests AI Appetite",
-     "channel": "Bloomberg Tech",
-     "views": 17974,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 749
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bulCTkaR-1g",
-     "url": "https://www.youtube.com/shorts/bulCTkaR-1g",
-     "title": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
-     "channel": "",
-     "views": 2000,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-11T21:08:42.211Z"
   },
   {
    "first_seen": "2026-11-13T17:10:10.722Z",
