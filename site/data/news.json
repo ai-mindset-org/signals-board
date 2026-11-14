@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T11:35:40.513Z",
+ "generated_at": "2026-11-14T12:14:13.694Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: ChatGPT Wallet",
+   "source": "youtube: AINews The No",
    "ok": true
   },
   {
-   "source": "tiktok: ChatGPT Wallet",
+   "source": "tiktok: AINews The No",
    "ok": true
   },
   {
-   "source": "youtube: chatgpt wallet openai dots",
+   "source": "youtube: no slop manifesto ainews",
    "ok": true
   },
   {
-   "source": "tiktok: chatgpt wallet openai dots",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt wallet lets ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt wallet lets ai",
+   "source": "tiktok: no slop manifesto ainews",
    "ok": true
   }
  ],
@@ -137,6 +129,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T08:23:44.591Z"
+  },
+  {
+   "first_seen": "2026-11-14T12:14:13.694Z",
+   "id": "39820507",
+   "ids": [
+    "39820507",
+    "39809084"
+   ],
+   "title": "[AINews] The No AI Slop Manifesto",
+   "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+   "source_id": "latent-space",
+   "published_ts": "2026-11-14 08:31:02",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "No AI Slop: A Manifesto",
+     "url": "https://www.slopmanifesto.com/"
+    }
+   ],
+   "queries": [
+    "AINews The No",
+    "no slop manifesto ainews"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-14T12:14:21.198Z"
   },
   {
    "first_seen": "2026-11-13T17:10:10.722Z",
