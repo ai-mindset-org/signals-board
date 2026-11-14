@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:09:56.101Z",
+ "generated_at": "2026-11-14T22:49:50.683Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1074,61 +1074,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-13T12:50:07.529Z"
-  },
-  {
-   "first_seen": "2026-11-11T23:10:07.247Z",
-   "id": "39766560",
-   "ids": [
-    "39766560",
-    "39760725"
-   ],
-   "title": "Google tests Tabletop, letting groups build planning tools with an AI agent",
-   "url": "https://siliconangle.com/2026/11/11/google-tests-tabletop-letting-groups-build-planning-tools-with-an-ai-agent/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-11 22:37:09",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google’s Tabletop lets groups build AI planning tools together",
-     "url": "https://thenextweb.com/news/google-labs-tabletop-ai-group-planning-spaces"
-    }
-   ],
-   "queries": [
-    "google tabletop tests letting"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yEG-tkEaY5A",
-     "url": "https://www.youtube.com/watch?v=yEG-tkEaY5A",
-     "title": "Google Labs Tests Tabletop: A Shared Space Where an AI Agent Builds Group Plans",
-     "channel": "AIPopDB",
-     "views": 3,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QVUHEVYllRc",
-     "url": "https://www.youtube.com/shorts/QVUHEVYllRc",
-     "title": "Google Tabletop: An AI Agent Builds Your Group's Plans #Shorts",
-     "channel": "",
-     "views": 53,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-12T11:20:53.393Z"
   },
   {
    "first_seen": "2026-11-13T15:35:57.728Z",
