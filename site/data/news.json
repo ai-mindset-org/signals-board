@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T05:49:43.484Z",
+ "generated_at": "2026-11-14T08:23:36.830Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Introducing ChatGPT Wallet",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Introducing ChatGPT Wallet",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing chatgpt wallet",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing chatgpt wallet",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-13T19:49:40.462Z",
@@ -37,23 +54,35 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:EJyDl4-I4XE",
-     "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
-     "title": "Introducing ChatGPT Wallet",
-     "channel": "Chris Messina",
-     "views": 75,
-     "age_hours": 8,
-     "relevance": 1,
-     "velocity": 9
+     "id": "youtube:5Q89lUEYDWI",
+     "url": "https://www.youtube.com/watch?v=5Q89lUEYDWI",
+     "title": "DeepSeek Announces Full Suite API; OpenAI Launches ChatGPT Wallet | AI Morning Briefing 11/14/2026",
+     "channel": "橘鸦Juya",
+     "views": 765,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 109
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Qsjhh0O98GE",
-     "url": "https://www.youtube.com/shorts/Qsjhh0O98GE",
-     "title": "OpenAI launches ChatGPT Wallet for AI shopping | codemago.dev/news",
+     "id": "youtube:RX8SxBuVIPk",
+     "url": "https://www.youtube.com/shorts/RX8SxBuVIPk",
+     "title": "Would you let ChatGPT spend your money? ChatGPT Wallet just made that real",
      "channel": "",
-     "views": 159,
+     "views": 799,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Qsng1AY3q_g",
+     "url": "https://www.youtube.com/shorts/Qsng1AY3q_g",
+     "title": "OpenAI just introduced ChatGPT Wallet, allowing AI agents to shop #TechNews #explorepages #AI",
+     "channel": "",
+     "views": 323,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -61,26 +90,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:b3zsYQgg9s4",
-     "url": "https://www.youtube.com/watch?v=b3zsYQgg9s4",
-     "title": "ChatGPT Can Now Spend Your Money: ChatGPT Wallet Explained",
-     "channel": "Red, White & Drama",
-     "views": 37,
-     "age_hours": 9,
-     "relevance": 0.67,
-     "velocity": 4
+     "id": "youtube:EJyDl4-I4XE",
+     "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
+     "title": "Introducing ChatGPT Wallet",
+     "channel": "Chris Messina",
+     "views": 107,
+     "age_hours": 14,
+     "relevance": 1,
+     "velocity": 8
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:3AMOV8Nfc70",
-     "url": "https://www.youtube.com/watch?v=3AMOV8Nfc70",
-     "title": "ChatGPT Wallet Launch: Who Can Use It, and Who Approves Purchases?",
-     "channel": "Forever Desk",
-     "views": 38,
+     "id": "youtube:SzaxoDh5Aqk",
+     "url": "https://www.youtube.com/watch?v=SzaxoDh5Aqk",
+     "title": "OpenAI Launches ChatGPT Wallet and More AI News",
+     "channel": "Jaeden Schafer",
+     "views": 62,
      "age_hours": 9,
      "relevance": 0.67,
-     "velocity": 4
+     "velocity": 7
     },
     {
      "platform": "youtube",
@@ -89,29 +118,17 @@
      "url": "https://www.youtube.com/shorts/j1rUdYvNqV0",
      "title": "ChatGPT Wallet explained: OpenAI's agents can now pay without seeing your card #shorts",
      "channel": "",
-     "views": 131,
+     "views": 152,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gZqUqW5-Nlg",
-     "url": "https://www.youtube.com/watch?v=gZqUqW5-Nlg",
-     "title": "ChatGPT Wallet Puts AI at Checkout | Nov 13, 2026",
-     "channel": "SuperIntelligence News",
-     "views": 3,
-     "age_hours": 1,
-     "relevance": 0.67,
-     "velocity": 3
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-14T02:14:46.038Z"
+   "searched_at": "2026-11-14T08:23:44.591Z"
   },
   {
    "first_seen": "2026-11-13T17:10:10.722Z",
@@ -126,7 +143,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-13 20:45:10",
    "story_sources": 2,
-   "score_norm": 94,
+   "score_norm": 93,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -333,7 +350,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-14 02:04:56",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "hn",
