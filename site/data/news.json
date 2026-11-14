@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T23:10:31.863Z",
+ "generated_at": "2026-11-14T02:14:37.256Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,43 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: ChatGPT Wallet",
+   "source": "youtube: Introducing ChatGPT Wallet",
    "ok": true
   },
   {
-   "source": "tiktok: ChatGPT Wallet",
+   "source": "tiktok: Introducing ChatGPT Wallet",
    "ok": true
   },
   {
-   "source": "youtube: chatgpt wallet openai dots",
+   "source": "youtube: introducing chatgpt wallet",
    "ok": true
   },
   {
-   "source": "tiktok: chatgpt wallet openai dots",
-   "ok": true
-  },
-  {
-   "source": "youtube: chatgpt wallet lets ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chatgpt wallet lets ai",
-   "ok": true
-  },
-  {
-   "source": "youtube: Perplexity Releases Decider",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Perplexity Releases Decider",
-   "ok": true
-  },
-  {
-   "source": "youtube: perplexity releases decider v1.3",
-   "ok": true
-  },
-  {
-   "source": "tiktok: perplexity releases decider v1.3",
+   "source": "tiktok: introducing chatgpt wallet",
    "ok": true
   }
  ],
@@ -82,22 +58,34 @@
      "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
      "title": "Introducing ChatGPT Wallet",
      "channel": "Chris Messina",
-     "views": 12,
-     "age_hours": 1,
+     "views": 75,
+     "age_hours": 8,
      "relevance": 1,
-     "velocity": 12
+     "velocity": 9
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Qsjhh0O98GE",
+     "url": "https://www.youtube.com/shorts/Qsjhh0O98GE",
+     "title": "OpenAI launches ChatGPT Wallet for AI shopping | codemago.dev/news",
+     "channel": "",
+     "views": 159,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:b3zsYQgg9s4",
      "url": "https://www.youtube.com/watch?v=b3zsYQgg9s4",
-     "title": "ChatGPT Wallet Never Sees Your Card. Here's How It Pays Anyway",
+     "title": "ChatGPT Can Now Spend Your Money: ChatGPT Wallet Explained",
      "channel": "Red, White & Drama",
-     "views": 16,
-     "age_hours": 3,
+     "views": 37,
+     "age_hours": 9,
      "relevance": 0.67,
-     "velocity": 5
+     "velocity": 4
     },
     {
      "platform": "youtube",
@@ -106,53 +94,41 @@
      "url": "https://www.youtube.com/watch?v=3AMOV8Nfc70",
      "title": "ChatGPT Wallet Launch: Who Can Use It, and Who Approves Purchases?",
      "channel": "Forever Desk",
-     "views": 6,
-     "age_hours": 2,
+     "views": 38,
+     "age_hours": 9,
+     "relevance": 0.67,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:j1rUdYvNqV0",
+     "url": "https://www.youtube.com/shorts/j1rUdYvNqV0",
+     "title": "ChatGPT Wallet explained: OpenAI's agents can now pay without seeing your card #shorts",
+     "channel": "",
+     "views": 131,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gZqUqW5-Nlg",
+     "url": "https://www.youtube.com/watch?v=gZqUqW5-Nlg",
+     "title": "ChatGPT Wallet Puts AI at Checkout | Nov 13, 2026",
+     "channel": "SuperIntelligence News",
+     "views": 3,
+     "age_hours": 1,
      "relevance": 0.67,
      "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7p9E5Q3u1C0",
-     "url": "https://www.youtube.com/shorts/7p9E5Q3u1C0",
-     "title": "Old news for RuntimeWire readers: OpenAI launches the ChatGPT Wallet we revealed in August #Shorts",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rMUYXALR9no",
-     "url": "https://www.youtube.com/shorts/rMUYXALR9no",
-     "title": "OpenAI launches ChatGPT Wallet for AI agents to make secure purchases",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5VqladPSLdM",
-     "url": "https://www.youtube.com/shorts/5VqladPSLdM",
-     "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T19:49:48.311Z"
+   "searched_at": "2026-11-14T02:14:46.038Z"
   },
   {
    "first_seen": "2026-11-13T17:10:10.722Z",
@@ -167,7 +143,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-13 20:45:10",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 96,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -1687,110 +1663,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-13T21:09:09.751Z"
-  },
-  {
-   "first_seen": "2026-11-11T03:49:40.566Z",
-   "id": "39746267",
-   "ids": [
-    "39746267",
-    "39737613"
-   ],
-   "title": "Anthropic launches Claude Meetings for workplace tasks",
-   "url": "https://www.techinasia.com/news/anthropic-launches-claude-meetings-workplace-tasks",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-11 01:55:35",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "x-techcrunch",
-     "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-     "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-    }
-   ],
-   "queries": [
-    "Claude Meetings",
-    "anthropic claude meetings launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0sBKbJkvEeU",
-     "url": "https://www.youtube.com/watch?v=0sBKbJkvEeU",
-     "title": "Claude Now Joins Your Meetings… Should You Let It? #Claude #Anthropic #AI",
-     "channel": "硅谷工具箱",
-     "views": 55,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:EsizQhWzpxw",
-     "url": "https://www.youtube.com/watch?v=EsizQhWzpxw",
-     "title": "Anthropic Just Launched Claude Sheets, Meetings, and Whiteboards — The AI Office Suite Is Here",
-     "channel": "AI News",
-     "views": 61,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8hm_Ud3_AeA",
-     "url": "https://www.youtube.com/shorts/8hm_Ud3_AeA",
-     "title": "Anthropic Unveils Office Tools, but Claude Meetings Availability Is Unclear",
-     "channel": "",
-     "views": 110,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jAZaCUSOQ5Q",
-     "url": "https://www.youtube.com/watch?v=jAZaCUSOQ5Q",
-     "title": "Claude Launches Meetings, Whiteboards, Sheets; Google Gemini 4 Carbon GA | Daily Tech Brief",
-     "channel": "Sys Articles",
-     "views": 33,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xTNBGGVFTXg",
-     "url": "https://www.youtube.com/shorts/xTNBGGVFTXg",
-     "title": "Claude Meetings: Anthropic's New AI Joins Google Meet as a Coworker",
-     "channel": "",
-     "views": 105,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9QA2tJYUiY4",
-     "url": "https://www.youtube.com/shorts/9QA2tJYUiY4",
-     "title": "Claude Meetings: Anthropic's AI now joins your video calls",
-     "channel": "",
-     "views": 75,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-11T16:12:36.657Z"
   },
   {
    "first_seen": "2026-11-12T20:49:14.534Z",
