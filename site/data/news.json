@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T04:12:35.337Z",
+ "generated_at": "2026-11-14T05:20:33.957Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -17,11 +17,35 @@
    "ok": true
   },
   {
-   "source": "youtube: openai chatgpt wallet unveils",
+   "source": "youtube: chatgpt wallet openai dots",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt wallet unveils",
+   "source": "tiktok: chatgpt wallet openai dots",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt wallet lets ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt wallet lets ai",
+   "ok": true
+  },
+  {
+   "source": "youtube: Perplexity Releases Decider",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Perplexity Releases Decider",
+   "ok": true
+  },
+  {
+   "source": "youtube: perplexity releases decider v1.3",
+   "ok": true
+  },
+  {
+   "source": "tiktok: perplexity releases decider v1.3",
    "ok": true
   }
  ],
@@ -143,7 +167,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-13 20:45:10",
    "story_sources": 2,
-   "score_norm": 95,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -163,34 +187,46 @@
      "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
      "title": "Introducing ChatGPT Wallet",
      "channel": "Chris Messina",
-     "views": 69,
-     "age_hours": 5,
+     "views": 94,
+     "age_hours": 11,
      "relevance": 0.67,
-     "velocity": 14
+     "velocity": 9
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:z9gNrI8HHeM",
-     "url": "https://www.youtube.com/watch?v=z9gNrI8HHeM",
-     "title": "OpenAI Launches ChatGPT Wallet: Pro Only for Now",
-     "channel": "Shadow Lab Digital",
-     "views": 5,
-     "age_hours": 1,
+     "kind": "shorts",
+     "id": "youtube:Qsng1AY3q_g",
+     "url": "https://www.youtube.com/shorts/Qsng1AY3q_g",
+     "title": "OpenAI just introduced ChatGPT Wallet, allowing AI agents to shop #TechNews #explorepages #AI",
+     "channel": "",
+     "views": 242,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 5
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:j1rUdYvNqV0",
+     "url": "https://www.youtube.com/shorts/j1rUdYvNqV0",
+     "title": "ChatGPT Wallet explained: OpenAI's agents can now pay without seeing your card #shorts",
+     "channel": "",
+     "views": 150,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:mvB3QONU7gU",
-     "url": "https://www.youtube.com/watch?v=mvB3QONU7gU",
-     "title": "How to Access and Use OpenAI ChatGPT AI Dots Wallet",
-     "channel": "Reality PC",
-     "views": 13,
-     "age_hours": 4,
-     "relevance": 0.57,
-     "velocity": 3
+     "id": "youtube:SzaxoDh5Aqk",
+     "url": "https://www.youtube.com/watch?v=SzaxoDh5Aqk",
+     "title": "OpenAI Launches ChatGPT Wallet and More AI News",
+     "channel": "Jaeden Schafer",
+     "views": 24,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 4
     },
     {
      "platform": "youtube",
@@ -199,41 +235,29 @@
      "url": "https://www.youtube.com/shorts/sx9_AuGtUEc",
      "title": "ChatGPT Wallet lets OpenAI's AI agents shop and check out with your card",
      "channel": "",
-     "views": 72,
+     "views": 117,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5VqladPSLdM",
-     "url": "https://www.youtube.com/shorts/5VqladPSLdM",
-     "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
-     "channel": "",
-     "views": 31,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oIWSTjiPSrs",
-     "url": "https://www.youtube.com/shorts/oIWSTjiPSrs",
-     "title": "OpenAI's ChatGPT Wallet Lets AI Agents Buy for You #Shorts",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:mvB3QONU7gU",
+     "url": "https://www.youtube.com/watch?v=mvB3QONU7gU",
+     "title": "How to Access and Use OpenAI ChatGPT AI Dots Wallet",
+     "channel": "Reality PC",
+     "views": 25,
+     "age_hours": 10,
+     "relevance": 0.57,
+     "velocity": 3
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T23:10:39.522Z"
+   "searched_at": "2026-11-14T05:20:41.697Z"
   },
   {
    "first_seen": "2026-11-13T16:49:54.153Z",
@@ -261,39 +285,51 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Qsng1AY3q_g",
+     "url": "https://www.youtube.com/shorts/Qsng1AY3q_g",
+     "title": "OpenAI just introduced ChatGPT Wallet, allowing AI agents to shop #TechNews #explorepages #AI",
+     "channel": "",
+     "views": 242,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sx9_AuGtUEc",
+     "url": "https://www.youtube.com/shorts/sx9_AuGtUEc",
+     "title": "ChatGPT Wallet lets OpenAI's AI agents shop and check out with your card",
+     "channel": "",
+     "views": 117,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
      "kind": "видео",
      "id": "youtube:eMfmGWwH7UA",
      "url": "https://www.youtube.com/watch?v=eMfmGWwH7UA",
      "title": "ChatGPT Wallet: Should You Let AI Pay?",
      "channel": "AI Tools Optimizer",
-     "views": 3,
-     "age_hours": 2,
+     "views": 14,
+     "age_hours": 8,
      "relevance": 0.5,
      "velocity": 2
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:kjU0PAYtm8M",
-     "url": "https://www.youtube.com/watch?v=kjU0PAYtm8M",
-     "title": "ChatGPT Wallet Lets AI Shop—You Still Approve | Nov 13, 2026",
-     "channel": "Tomorrow This Morning",
-     "views": 4,
-     "age_hours": 3,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Km4GMbvQ-Yc",
-     "url": "https://www.youtube.com/watch?v=Km4GMbvQ-Yc",
-     "title": "ChatGPT Wallet Just Let AI Agents Check Out for You",
-     "channel": "ToolScout",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.86,
-     "velocity": 1
+     "kind": "shorts",
+     "id": "youtube:5VqladPSLdM",
+     "url": "https://www.youtube.com/shorts/5VqladPSLdM",
+     "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
+     "channel": "",
+     "views": 49,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -302,29 +338,17 @@
      "url": "https://www.youtube.com/watch?v=dZJI_5pQXSI",
      "title": "ChatGPT Wallet: How AI Agents Pay Without Your Card Number (and Why Stores May Block Them)",
      "channel": "Daily AI News By Ali",
-     "views": 5,
-     "age_hours": 4,
+     "views": 7,
+     "age_hours": 11,
      "relevance": 0.5,
      "velocity": 1
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:lKlzKJPErMc",
-     "url": "https://www.youtube.com/watch?v=lKlzKJPErMc",
-     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you\"",
-     "channel": "The Street Manager",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 1,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:5VqladPSLdM",
-     "url": "https://www.youtube.com/shorts/5VqladPSLdM",
-     "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
+     "id": "youtube:Gc5yL7nW8RQ",
+     "url": "https://www.youtube.com/shorts/Gc5yL7nW8RQ",
+     "title": "OpenAI launches ChatGPT Wallet to let AI agents buy for you",
      "channel": "",
      "views": 31,
      "age_hours": null,
@@ -336,7 +360,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T23:10:43.061Z"
+   "searched_at": "2026-11-14T05:20:45.235Z"
   },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -350,7 +374,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-14 02:04:56",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "hn",
@@ -1687,7 +1711,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T23:10:49.816Z"
+   "searched_at": "2026-11-14T05:20:56.373Z"
   },
   {
    "first_seen": "2026-11-12T20:11:34.998Z",
