@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-13T06:34:06.878Z",
+ "generated_at": "2026-11-14T06:31:18.842Z",
  "window_days": 7,
  "theme": "обучение AI",
  "digest": [
+  "tiktok:7707775598504054029",
   "youtube:0vNyVMDFdkg",
-  "youtube:GJ6PMUm5oTA",
+  "youtube:gPNiuyYirfw",
   "youtube:2lt4P_xGFL8",
-  "tiktok:7706640422436703518",
   "tiktok:7706357191967591710",
-  "youtube:ZxaMmG71g8c"
+  "youtube:G_Jrexy_5Bg"
  ],
  "formats": {
   "shapes": [
@@ -54,19 +54,19 @@
    "source": "youtube/mreflow",
    "ok": true,
    "scanned": 30,
-   "fresh": 3
+   "fresh": 4
   },
   {
    "source": "youtube/matthew_berman",
    "ok": true,
    "scanned": 30,
-   "fresh": 6
+   "fresh": 5
   },
   {
    "source": "youtube/NateBJones",
    "ok": true,
    "scanned": 30,
-   "fresh": 4
+   "fresh": 5
   },
   {
    "source": "youtube/futurepedia_io",
@@ -96,14 +96,38 @@
  "summary": "За 7 дней на YouTube в теме AI лидируют форматы тревожных заголовков и дайджестов новостей: видео про проблемы контроля моделей OpenAI набрало ≈260000 просмотров, обзор новых моделей (GPT-6.1, Sonnet 5.5, Gemini 4) – ≈153000, а тема исчезающего преимущества крупных игроков в AI – ≈146000. Узкая тема про данные и покупку старых писем Google собрала значительно меньше – ≈12000, что заметно ниже остальных в этой подборке.",
  "signals": [
   {
+   "id": "tiktok:7707775598504054029",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7707775598504054029",
+   "title": "Good luck to everyone in airports tonight 🤞#ai #news #travel #learn #learnontiktok ",
+   "posted_at": "2026-11-13T21:45:53.000Z",
+   "popularity": 878300,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 500900
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-1d69480443c6.jpg",
+   "first_seen": "2026-11-14T06:31:18.842Z",
+   "picked": true
+  },
+  {
    "id": "youtube:0vNyVMDFdkg",
    "platform": "youtube",
    "source": "@matthew_berman",
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-   "title": "Fable 5.2 is ridiculous",
-   "posted_at": "2026-11-10T06:33:11.035Z",
-   "popularity": 299000,
+   "title": "Fable 5.2 solved all software...",
+   "posted_at": "2026-11-10T06:30:28.682Z",
+   "popularity": 303000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -119,14 +143,14 @@
    "picked": true
   },
   {
-   "id": "youtube:GJ6PMUm5oTA",
+   "id": "youtube:gPNiuyYirfw",
    "platform": "youtube",
    "source": "@TwoMinutePapers",
    "person": "twominutepapers",
-   "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-   "title": "OpenAI's Astra Just Opened The Black Box Of AI",
-   "posted_at": "2026-11-08T06:32:41.426Z",
-   "popularity": 229000,
+   "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+   "title": "DeepMind’s AI Just Did The Impossible",
+   "posted_at": "2026-11-13T06:29:55.783Z",
+   "popularity": 280000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -137,8 +161,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-2a064d523a10.jpg",
-   "first_seen": "2026-11-09T06:42:50.010Z",
+   "media": "data/media/youtube-79a9e3e4bf4e.jpg",
+   "first_seen": "2026-11-13T06:34:06.878Z",
    "picked": true
   },
   {
@@ -148,8 +172,8 @@
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=2lt4P_xGFL8",
    "title": "Anthropic just built it...",
-   "posted_at": "2026-11-07T06:33:50.900Z",
-   "popularity": 214000,
+   "posted_at": "2026-11-07T06:31:04.464Z",
+   "popularity": 215000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -165,30 +189,6 @@
    "picked": true
   },
   {
-   "id": "tiktok:7706640422436703518",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7706640422436703518",
-   "title": "Billions of dollars in the line here and thousands of pages of paperwork for investigators #ai #news #nvidia #learn #learnontiktok ",
-   "posted_at": "2026-11-10T20:20:49.000Z",
-   "popularity": 181300,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 499000
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-cc9a056bafbc.jpg",
-   "first_seen": "2026-11-11T06:34:20.619Z",
-   "picked": true
-  },
-  {
    "id": "tiktok:7706357191967591710",
    "platform": "tiktok",
    "source": "@rileybrown.ai",
@@ -196,7 +196,7 @@
    "url": "https://www.tiktok.com/@rileybrown.ai/video/7706357191967591710",
    "title": "Fable 5.2 was just released and I created this video in one prompt with Blender. I gave Claude one prompt.  It wrote code that builds the entire room in Blender: the desk, the MacBook, the light, even",
    "posted_at": "2026-11-10T02:01:45.000Z",
-   "popularity": 71700,
+   "popularity": 73000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": 639200
@@ -213,14 +213,14 @@
    "picked": true
   },
   {
-   "id": "youtube:ZxaMmG71g8c",
+   "id": "youtube:G_Jrexy_5Bg",
    "platform": "youtube",
-   "source": "@futurepedia_io",
-   "person": "futurepedia_io",
-   "url": "https://www.youtube.com/watch?v=ZxaMmG71g8c",
-   "title": "Claude Makes 3D Animations Easy Now",
-   "posted_at": "2026-11-12T19:33:37.981Z",
-   "popularity": 36000,
+   "source": "@mreflow",
+   "person": "mreflow",
+   "url": "https://www.youtube.com/watch?v=G_Jrexy_5Bg",
+   "title": "AI News: Things Will Never Be The Same",
+   "posted_at": "2026-11-13T17:30:12.259Z",
+   "popularity": 67000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -231,8 +231,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-bfc3c59f4d2c.jpg",
-   "first_seen": "2026-11-13T06:34:06.878Z",
+   "media": "data/media/youtube-59dc477a069c.jpg",
+   "first_seen": "2026-11-14T06:31:18.842Z",
    "picked": true
   },
   {
@@ -243,10 +243,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7707391765715733791",
    "title": "He’s out but maybe not for long? #ai #news #nvidia #learn #learnontiktok ",
    "posted_at": "2026-11-12T20:56:25.000Z",
-   "popularity": 77200,
+   "popularity": 108300,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 499000
+    "followers": 500900
    },
    "format": {
     "kind": "видео",
@@ -267,10 +267,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7707085465748327693",
    "title": "New day, new scandal. This is becoming THE story of the year in AI. Will it cost Jensen his job? #ai #learn #learnontiktok #news #nvidia ",
    "posted_at": "2026-11-12T01:07:49.000Z",
-   "popularity": 38200,
+   "popularity": 39800,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 499000
+    "followers": 500900
    },
    "format": {
     "kind": "видео",
@@ -284,6 +284,30 @@
    "picked": false
   },
   {
+   "id": "tiktok:7706640422436703518",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7706640422436703518",
+   "title": "Billions of dollars in the line here and thousands of pages of paperwork for investigators #ai #news #nvidia #learn #learnontiktok ",
+   "posted_at": "2026-11-10T20:20:49.000Z",
+   "popularity": 190800,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 500900
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-cc9a056bafbc.jpg",
+   "first_seen": "2026-11-11T06:34:20.619Z",
+   "picked": true
+  },
+  {
    "id": "tiktok:7705986425317084446",
    "platform": "tiktok",
    "source": "@nate.b.jones",
@@ -291,10 +315,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7705986425317084446",
    "title": "I did not have this on my 2026 bingo card #news #ai #learn #learnwithtiktok #nvidia ",
    "posted_at": "2026-11-09T02:02:59.000Z",
-   "popularity": 96300,
+   "popularity": 97000,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 499000
+    "followers": 500900
    },
    "format": {
     "kind": "видео",
@@ -315,10 +339,10 @@
    "url": "https://www.tiktok.com/@nate.b.jones/video/7705600535742762270",
    "title": "Recorded this before the results came in, so a little behind, but the takeaway still holds. Voters went on to reject data centers almost everywhere on Tuesday. The unintended consequence? A real boost",
    "posted_at": "2026-11-08T01:05:32.000Z",
-   "popularity": 14700,
+   "popularity": 15200,
    "popularity_unit": "просмотры",
    "metrics": {
-    "followers": 499000
+    "followers": 500900
    },
    "format": {
     "kind": "видео",
@@ -332,38 +356,14 @@
    "picked": false
   },
   {
-   "id": "tiktok:7705226690963705119",
-   "platform": "tiktok",
-   "source": "@nate.b.jones",
-   "person": "nate b jones",
-   "url": "https://www.tiktok.com/@nate.b.jones/video/7705226690963705119",
-   "title": "Check your reasoning level now. #aihack #chatgpt #ai #openai #learnontiktok ",
-   "posted_at": "2026-11-07T00:54:49.000Z",
-   "popularity": 127200,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": 499000
-   },
-   "format": {
-    "kind": "видео",
-    "width": 720,
-    "height": 1280,
-    "ratio": 0.56,
-    "name": "вертикальный 9:16"
-   },
-   "media": "data/media/tiktok-acb5d8c749f1.jpg",
-   "first_seen": "2026-11-08T06:35:29.079Z",
-   "picked": true
-  },
-  {
    "id": "youtube:0NbLVdCZHF0",
    "platform": "youtube",
    "source": "@deeplearningai",
    "person": "deeplearningai",
    "url": "https://www.youtube.com/watch?v=0NbLVdCZHF0",
    "title": "Tabular Foundation Models for Data Science Agents",
-   "posted_at": "2026-11-12T06:32:30.670Z",
-   "popularity": 3800,
+   "posted_at": "2026-11-12T06:29:50.303Z",
+   "popularity": 4300,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -379,37 +379,14 @@
    "picked": false
   },
   {
-   "id": "youtube:gPNiuyYirfw",
-   "platform": "youtube",
-   "source": "@TwoMinutePapers",
-   "person": "twominutepapers",
-   "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
-   "title": "DeepMind’s AI Just Did The Impossible",
-   "posted_at": "2026-11-12T14:32:37.879Z",
-   "popularity": 201000,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-79a9e3e4bf4e.jpg",
-   "first_seen": "2026-11-13T06:34:06.878Z",
-   "picked": false
-  },
-  {
    "id": "youtube:vug73goPJaM",
    "platform": "youtube",
    "source": "@TwoMinutePapers",
    "person": "twominutepapers",
    "url": "https://www.youtube.com/watch?v=vug73goPJaM",
    "title": "Is Software Over?",
-   "posted_at": "2026-11-11T06:32:39.593Z",
-   "popularity": 180000,
+   "posted_at": "2026-11-11T06:29:57.519Z",
+   "popularity": 183000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -425,14 +402,37 @@
    "picked": false
   },
   {
+   "id": "youtube:GJ6PMUm5oTA",
+   "platform": "youtube",
+   "source": "@TwoMinutePapers",
+   "person": "twominutepapers",
+   "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+   "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+   "posted_at": "2026-11-08T06:29:59.246Z",
+   "popularity": 231000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-2a064d523a10.jpg",
+   "first_seen": "2026-11-09T06:42:50.010Z",
+   "picked": true
+  },
+  {
    "id": "youtube:XgC1QTs6A2U",
    "platform": "youtube",
    "source": "@TwoMinutePapers",
    "person": "twominutepapers",
    "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
    "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-   "posted_at": "2026-11-07T06:32:43.324Z",
-   "popularity": 51000,
+   "posted_at": "2026-11-07T06:30:01.155Z",
+   "popularity": 53000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -454,8 +454,8 @@
    "person": "aiexplained-official",
    "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
    "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
-   "posted_at": "2026-11-11T06:32:48.759Z",
-   "popularity": 186000,
+   "posted_at": "2026-11-11T06:30:06.602Z",
+   "popularity": 199000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -477,8 +477,8 @@
    "person": "mreflow",
    "url": "https://www.youtube.com/watch?v=pvl3z_GyU2Y",
    "title": "How To Build An AI Operating System For Your Life",
-   "posted_at": "2026-11-12T06:32:54.561Z",
-   "popularity": 71000,
+   "posted_at": "2026-11-12T06:30:14.096Z",
+   "popularity": 87000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -500,8 +500,8 @@
    "person": "mreflow",
    "url": "https://www.youtube.com/watch?v=2TM8W66NI_8",
    "title": "Anthropic's Fable 5.2 is the World’s Best AI Model",
-   "posted_at": "2026-11-10T06:32:56.306Z",
-   "popularity": 153000,
+   "posted_at": "2026-11-10T06:30:15.928Z",
+   "popularity": 156000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -523,8 +523,8 @@
    "person": "mreflow",
    "url": "https://www.youtube.com/watch?v=IrAHINf0M6E",
    "title": "AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)",
-   "posted_at": "2026-11-07T06:32:58.254Z",
-   "popularity": 128000,
+   "posted_at": "2026-11-07T06:30:17.785Z",
+   "popularity": 129000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -546,8 +546,8 @@
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=Sjdvu4nHfDk",
    "title": "Anthropic Researcher explains how to train LLMs",
-   "posted_at": "2026-11-12T22:33:05.767Z",
-   "popularity": 27000,
+   "posted_at": "2026-11-13T06:30:23.395Z",
+   "popularity": 59000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -569,8 +569,8 @@
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=FCmLuTENOp0",
    "title": "Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
-   "posted_at": "2026-11-12T06:33:07.550Z",
-   "popularity": 107000,
+   "posted_at": "2026-11-12T06:30:25.198Z",
+   "popularity": 109000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -615,7 +615,7 @@
    "person": "matthew_berman",
    "url": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
    "title": "12 months to the singularity",
-   "posted_at": "2026-11-08T06:33:12.693Z",
+   "posted_at": "2026-11-08T06:30:30.368Z",
    "popularity": 159000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -632,14 +632,14 @@
    "picked": false
   },
   {
-   "id": "youtube:-M62vWrZh54",
+   "id": "youtube:04ClMCe_-JY",
    "platform": "youtube",
-   "source": "@matthew_berman",
-   "person": "matthew_berman",
-   "url": "https://www.youtube.com/watch?v=-M62vWrZh54",
-   "title": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
-   "posted_at": "2026-11-06T06:33:14.511Z",
-   "popularity": 173000,
+   "source": "@NateBJones",
+   "person": "nate b jones",
+   "url": "https://www.youtube.com/watch?v=04ClMCe_-JY",
+   "title": "Why Jensen Huang's Resignation Could Change Your AI Bill",
+   "posted_at": "2026-11-13T15:30:37.871Z",
+   "popularity": 30000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -650,8 +650,8 @@
     "width": 1280,
     "height": 720
    },
-   "media": "data/media/youtube-fa4cb5f5b362.jpg",
-   "first_seen": "2026-11-06T06:34:12.707Z",
+   "media": "data/media/youtube-7968080d34ff.jpg",
+   "first_seen": "2026-11-14T06:31:18.842Z",
    "picked": false
   },
   {
@@ -661,8 +661,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=owMtQh_3k4k",
    "title": "Claude Fable 5.2 read a month of my failed attempts and got it right the first time.",
-   "posted_at": "2026-11-12T15:33:25.300Z",
-   "popularity": 51000,
+   "posted_at": "2026-11-13T06:30:39.718Z",
+   "popularity": 66000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -684,8 +684,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=OEY-vm7qRHc",
    "title": "China Won't Take 600,000 Nvidia Chips. Did It Target Jensen Huang For Better Ones?",
-   "posted_at": "2026-11-11T06:33:27.236Z",
-   "popularity": 140000,
+   "posted_at": "2026-11-11T06:30:41.437Z",
+   "popularity": 162000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -707,7 +707,7 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=illf65HD_t4",
    "title": "Is the AI Boom Over? Let's Talk About It.",
-   "posted_at": "2026-11-09T06:33:29.032Z",
+   "posted_at": "2026-11-09T06:30:43.166Z",
    "popularity": 58000,
    "popularity_unit": "просмотры",
    "metrics": {
@@ -730,8 +730,8 @@
    "person": "nate b jones",
    "url": "https://www.youtube.com/watch?v=S6SEgMooZpE",
    "title": "The end of git? OpenAI CTO on the future of coding.",
-   "posted_at": "2026-11-07T06:33:30.868Z",
-   "popularity": 25000,
+   "posted_at": "2026-11-07T06:30:44.869Z",
+   "popularity": 26000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -747,14 +747,60 @@
    "picked": false
   },
   {
+   "id": "youtube:ZxaMmG71g8c",
+   "platform": "youtube",
+   "source": "@futurepedia_io",
+   "person": "futurepedia_io",
+   "url": "https://www.youtube.com/watch?v=ZxaMmG71g8c",
+   "title": "Claude Makes 3D Animations Easy Now",
+   "posted_at": "2026-11-13T06:30:50.530Z",
+   "popularity": 108000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-bfc3c59f4d2c.jpg",
+   "first_seen": "2026-11-13T06:34:06.878Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:Sc6TriRAGnI",
+   "platform": "youtube",
+   "source": "@WesRoth",
+   "person": "wesroth",
+   "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+   "title": "Gemini 4 Swarm is out of control...",
+   "posted_at": "2026-11-13T14:31:00.861Z",
+   "popularity": 113000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-559ac1f00922.jpg",
+   "first_seen": "2026-11-14T06:31:18.842Z",
+   "picked": false
+  },
+  {
    "id": "youtube:h76wUNmRqxc",
    "platform": "youtube",
    "source": "@WesRoth",
    "person": "wesroth",
    "url": "https://www.youtube.com/watch?v=h76wUNmRqxc",
    "title": "NOTHING will be smarter than Fable 5.2...",
-   "posted_at": "2026-11-10T06:33:49.168Z",
-   "popularity": 211000,
+   "posted_at": "2026-11-10T06:31:02.646Z",
+   "popularity": 214000,
    "popularity_unit": "просмотры",
    "metrics": {
     "followers": null
@@ -768,6 +814,99 @@
    "media": "data/media/youtube-0972dc935b9c.jpg",
    "first_seen": "2026-11-10T06:33:14.412Z",
    "picked": false
+  },
+  {
+   "id": "youtube:3FKdVJf-tUk",
+   "platform": "youtube",
+   "source": "@AllAboutAI",
+   "person": "allaboutai",
+   "url": "https://www.youtube.com/watch?v=3FKdVJf-tUk",
+   "title": "AI Agentic Trading Will Change EVERYTHING About Investing | Public",
+   "posted_at": "2026-11-11T06:31:11.838Z",
+   "popularity": 2700,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-cf24ad46343a.jpg",
+   "first_seen": "2026-11-11T06:34:20.619Z",
+   "picked": false
+  },
+  {
+   "id": "youtube:rzSJ7qkXEjY",
+   "platform": "youtube",
+   "source": "@AllAboutAI",
+   "person": "allaboutai",
+   "url": "https://www.youtube.com/watch?v=rzSJ7qkXEjY",
+   "title": "Could AI Have Predicted The November 5 Stock Market Crash?",
+   "posted_at": "2026-11-09T06:31:13.608Z",
+   "popularity": 2900,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-aefa9c04c189.jpg",
+   "first_seen": "2026-11-09T06:42:50.010Z",
+   "picked": true
+  },
+  {
+   "id": "youtube:kzsXy3YxcI0",
+   "platform": "youtube",
+   "source": "@AllAboutAI",
+   "person": "allaboutai",
+   "url": "https://www.youtube.com/watch?v=kzsXy3YxcI0",
+   "title": "The Worlds First AI Labs Simulator RTS Game - Kimi K3.1 Pro",
+   "posted_at": "2026-11-07T06:31:15.525Z",
+   "popularity": 3000,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": null
+   },
+   "approx": true,
+   "format": {
+    "kind": "видео",
+    "width": 1280,
+    "height": 720
+   },
+   "media": "data/media/youtube-c7fa93cc103d.jpg",
+   "first_seen": "2026-11-07T06:30:00.042Z",
+   "picked": false
+  },
+  {
+   "id": "tiktok:7705226690963705119",
+   "platform": "tiktok",
+   "source": "@nate.b.jones",
+   "person": "nate b jones",
+   "url": "https://www.tiktok.com/@nate.b.jones/video/7705226690963705119",
+   "title": "Check your reasoning level now. #aihack #chatgpt #ai #openai #learnontiktok ",
+   "posted_at": "2026-11-07T00:54:49.000Z",
+   "popularity": 127200,
+   "popularity_unit": "просмотры",
+   "metrics": {
+    "followers": 499000
+   },
+   "format": {
+    "kind": "видео",
+    "width": 720,
+    "height": 1280,
+    "ratio": 0.56,
+    "name": "вертикальный 9:16"
+   },
+   "media": "data/media/tiktok-acb5d8c749f1.jpg",
+   "first_seen": "2026-11-08T06:35:29.079Z",
+   "picked": true
   },
   {
    "id": "youtube:DJjK6LAIouM",
@@ -791,75 +930,6 @@
    "media": "data/media/youtube-6b3dba9e7709.jpg",
    "first_seen": "2026-11-06T06:34:12.707Z",
    "picked": true
-  },
-  {
-   "id": "youtube:3FKdVJf-tUk",
-   "platform": "youtube",
-   "source": "@AllAboutAI",
-   "person": "allaboutai",
-   "url": "https://www.youtube.com/watch?v=3FKdVJf-tUk",
-   "title": "AI Agentic Trading Will Change EVERYTHING About Investing | Public",
-   "posted_at": "2026-11-11T06:33:58.210Z",
-   "popularity": 2600,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-cf24ad46343a.jpg",
-   "first_seen": "2026-11-11T06:34:20.619Z",
-   "picked": false
-  },
-  {
-   "id": "youtube:rzSJ7qkXEjY",
-   "platform": "youtube",
-   "source": "@AllAboutAI",
-   "person": "allaboutai",
-   "url": "https://www.youtube.com/watch?v=rzSJ7qkXEjY",
-   "title": "Could AI Have Predicted The November 5 Stock Market Crash?",
-   "posted_at": "2026-11-09T06:34:00.028Z",
-   "popularity": 2900,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-aefa9c04c189.jpg",
-   "first_seen": "2026-11-09T06:42:50.010Z",
-   "picked": true
-  },
-  {
-   "id": "youtube:kzsXy3YxcI0",
-   "platform": "youtube",
-   "source": "@AllAboutAI",
-   "person": "allaboutai",
-   "url": "https://www.youtube.com/watch?v=kzsXy3YxcI0",
-   "title": "The Worlds First AI Labs Simulator RTS Game - Kimi K3.1 Pro",
-   "posted_at": "2026-11-07T06:34:01.730Z",
-   "popularity": 2900,
-   "popularity_unit": "просмотры",
-   "metrics": {
-    "followers": null
-   },
-   "approx": true,
-   "format": {
-    "kind": "видео",
-    "width": 1280,
-    "height": 720
-   },
-   "media": "data/media/youtube-c7fa93cc103d.jpg",
-   "first_seen": "2026-11-07T06:30:00.042Z",
-   "picked": false
   },
   {
    "id": "youtube:rU5llKCPPwI",
