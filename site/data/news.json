@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T10:20:14.224Z",
+ "generated_at": "2026-11-14T11:35:40.513Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,14 +9,6 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai board member worries",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai board member worries",
-   "ok": true
-  },
-  {
    "source": "youtube: ChatGPT Wallet",
    "ok": true
   },
@@ -25,11 +17,19 @@
    "ok": true
   },
   {
-   "source": "youtube: openai chatgpt wallet unveils",
+   "source": "youtube: chatgpt wallet openai dots",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt wallet unveils",
+   "source": "tiktok: chatgpt wallet openai dots",
+   "ok": true
+  },
+  {
+   "source": "youtube: chatgpt wallet lets ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chatgpt wallet lets ai",
    "ok": true
   }
  ],
@@ -171,34 +171,10 @@
      "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
      "title": "Introducing ChatGPT Wallet",
      "channel": "Chris Messina",
-     "views": 94,
-     "age_hours": 11,
+     "views": 138,
+     "age_hours": 17,
      "relevance": 0.67,
-     "velocity": 9
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Qsng1AY3q_g",
-     "url": "https://www.youtube.com/shorts/Qsng1AY3q_g",
-     "title": "OpenAI just introduced ChatGPT Wallet, allowing AI agents to shop #TechNews #explorepages #AI",
-     "channel": "",
-     "views": 242,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:j1rUdYvNqV0",
-     "url": "https://www.youtube.com/shorts/j1rUdYvNqV0",
-     "title": "ChatGPT Wallet explained: OpenAI's agents can now pay without seeing your card #shorts",
-     "channel": "",
-     "views": 150,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "velocity": 8
     },
     {
      "platform": "youtube",
@@ -207,21 +183,45 @@
      "url": "https://www.youtube.com/watch?v=SzaxoDh5Aqk",
      "title": "OpenAI Launches ChatGPT Wallet and More AI News",
      "channel": "Jaeden Schafer",
-     "views": 24,
-     "age_hours": 6,
+     "views": 62,
+     "age_hours": 12,
      "relevance": 0.5,
-     "velocity": 4
+     "velocity": 5
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:sx9_AuGtUEc",
-     "url": "https://www.youtube.com/shorts/sx9_AuGtUEc",
-     "title": "ChatGPT Wallet lets OpenAI's AI agents shop and check out with your card",
+     "id": "youtube:j1rUdYvNqV0",
+     "url": "https://www.youtube.com/shorts/j1rUdYvNqV0",
+     "title": "ChatGPT Wallet explained: OpenAI's agents can now pay without seeing your card #shorts",
      "channel": "",
-     "views": 117,
+     "views": 152,
      "age_hours": null,
-     "relevance": 0.63,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:z9gNrI8HHeM",
+     "url": "https://www.youtube.com/watch?v=z9gNrI8HHeM",
+     "title": "OpenAI Launches ChatGPT Wallet: Pro Only for Now",
+     "channel": "Shadow Lab Digital",
+     "views": 45,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iNxT6dwLPqc",
+     "url": "https://www.youtube.com/shorts/iNxT6dwLPqc",
+     "title": "OpenAI launches ChatGPT wallet #ai #chatgpt",
+     "channel": "",
+     "views": 96,
+     "age_hours": null,
+     "relevance": 0.6,
      "velocity": null
     },
     {
@@ -231,17 +231,17 @@
      "url": "https://www.youtube.com/watch?v=mvB3QONU7gU",
      "title": "How to Access and Use OpenAI ChatGPT AI Dots Wallet",
      "channel": "Reality PC",
-     "views": 25,
-     "age_hours": 10,
+     "views": 38,
+     "age_hours": 16,
      "relevance": 0.57,
-     "velocity": 3
+     "velocity": 2
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-14T05:20:41.697Z"
+   "searched_at": "2026-11-14T11:35:48.138Z"
   },
   {
    "first_seen": "2026-11-13T16:49:54.153Z",
@@ -270,73 +270,73 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Qsng1AY3q_g",
-     "url": "https://www.youtube.com/shorts/Qsng1AY3q_g",
-     "title": "OpenAI just introduced ChatGPT Wallet, allowing AI agents to shop #TechNews #explorepages #AI",
-     "channel": "",
-     "views": 242,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sx9_AuGtUEc",
-     "url": "https://www.youtube.com/shorts/sx9_AuGtUEc",
-     "title": "ChatGPT Wallet lets OpenAI's AI agents shop and check out with your card",
-     "channel": "",
-     "views": 117,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eMfmGWwH7UA",
-     "url": "https://www.youtube.com/watch?v=eMfmGWwH7UA",
-     "title": "ChatGPT Wallet: Should You Let AI Pay?",
-     "channel": "AI Tools Optimizer",
-     "views": 14,
-     "age_hours": 8,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
      "id": "youtube:5VqladPSLdM",
      "url": "https://www.youtube.com/shorts/5VqladPSLdM",
      "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
      "channel": "",
-     "views": 49,
+     "views": 53,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dZJI_5pQXSI",
-     "url": "https://www.youtube.com/watch?v=dZJI_5pQXSI",
-     "title": "ChatGPT Wallet: How AI Agents Pay Without Your Card Number (and Why Stores May Block Them)",
-     "channel": "Daily AI News By Ali",
-     "views": 7,
-     "age_hours": 11,
+     "kind": "shorts",
+     "id": "youtube:ozM2Gh6eqLQ",
+     "url": "https://www.youtube.com/shorts/ozM2Gh6eqLQ",
+     "title": "OpenAI Launches ChatGPT Wallet",
+     "channel": "",
+     "views": 32,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 1
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Gc5yL7nW8RQ",
-     "url": "https://www.youtube.com/shorts/Gc5yL7nW8RQ",
-     "title": "OpenAI launches ChatGPT Wallet to let AI agents buy for you",
+     "id": "youtube:ctmxkCP_aQU",
+     "url": "https://www.youtube.com/shorts/ctmxkCP_aQU",
+     "title": "ChatGPT Wallet Is Here: Your AI Can Now Shop for You",
      "channel": "",
-     "views": 31,
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rMUYXALR9no",
+     "url": "https://www.youtube.com/shorts/rMUYXALR9no",
+     "title": "OpenAI launches ChatGPT Wallet for AI agents to make secure purchases",
+     "channel": "",
+     "views": 18,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3pcSDtqFKuE",
+     "url": "https://www.youtube.com/shorts/3pcSDtqFKuE",
+     "title": "ChatGPT Wallet: Your AI Agent Can Now Pay For You",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Tmo5EiWoCEE",
+     "url": "https://www.youtube.com/shorts/Tmo5EiWoCEE",
+     "title": "ChatGPT Wallet Explained: How AI Agents Pay for You",
+     "channel": "",
+     "views": 14,
+     "age_hours": null,
+     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -344,7 +344,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-14T05:20:45.235Z"
+   "searched_at": "2026-11-14T11:35:51.685Z"
   },
   {
    "first_seen": "2026-11-14T10:20:14.224Z",
@@ -437,7 +437,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-14 02:04:56",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
