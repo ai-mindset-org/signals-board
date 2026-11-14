@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:20:02.907Z",
+ "generated_at": "2026-11-14T18:22:48.280Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: AINews The No",
+   "ok": true
+  },
+  {
+   "source": "tiktok: AINews The No",
+   "ok": true
+  },
+  {
+   "source": "youtube: no slop manifesto ainews",
+   "ok": true
+  },
+  {
+   "source": "tiktok: no slop manifesto ainews",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -219,6 +236,98 @@
    "searched_at": "2026-11-14T14:35:35.729Z"
   },
   {
+   "first_seen": "2026-11-14T12:14:13.694Z",
+   "id": "39820507",
+   "ids": [
+    "39820507",
+    "39809084"
+   ],
+   "title": "[AINews] The No AI Slop Manifesto",
+   "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+   "source_id": "latent-space",
+   "published_ts": "2026-11-14 08:31:02",
+   "story_sources": 2,
+   "score_norm": 94,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "No AI Slop: A Manifesto",
+     "url": "https://www.slopmanifesto.com/"
+    }
+   ],
+   "queries": [
+    "AINews The No",
+    "no slop manifesto ainews"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qpCq9485N6o",
+     "url": "https://www.youtube.com/shorts/qpCq9485N6o",
+     "title": "Fixing AI Slop",
+     "channel": "",
+     "views": 229,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CNclQCN-FSw",
+     "url": "https://www.youtube.com/shorts/CNclQCN-FSw",
+     "title": "How to Stand Out From the AI Slop",
+     "channel": "",
+     "views": 87,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Y5lqAV5C--E",
+     "url": "https://www.youtube.com/shorts/Y5lqAV5C--E",
+     "title": "AI Slop Isn’t AI’s Fault",
+     "channel": "",
+     "views": 25,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:SRj815Ot-zU",
+     "url": "https://www.youtube.com/shorts/SRj815Ot-zU",
+     "title": "Clearing Ai slop from your feed",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5ghPkLIDTes",
+     "url": "https://www.youtube.com/shorts/5ghPkLIDTes",
+     "title": "120 Patterns of AI Slop",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-14T18:22:55.982Z"
+  },
+  {
    "first_seen": "2026-11-13T17:10:10.722Z",
    "id": "39805547",
    "ids": [
@@ -425,37 +534,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T11:35:51.685Z"
-  },
-  {
-   "first_seen": "2026-11-14T12:14:13.694Z",
-   "id": "39820507",
-   "ids": [
-    "39820507",
-    "39809084"
-   ],
-   "title": "[AINews] The No AI Slop Manifesto",
-   "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-   "source_id": "latent-space",
-   "published_ts": "2026-11-14 08:31:02",
-   "story_sources": 2,
-   "score_norm": 89,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "No AI Slop: A Manifesto",
-     "url": "https://www.slopmanifesto.com/"
-    }
-   ],
-   "queries": [
-    "AINews The No",
-    "no slop manifesto ainews"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-14T12:14:21.198Z"
   },
   {
    "first_seen": "2026-11-14T10:20:14.224Z",
