@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:49:44.940Z",
+ "generated_at": "2026-11-14T09:20:59.152Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -333,7 +333,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-14 02:04:56",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
@@ -1491,36 +1491,6 @@
    "searched_at": "2026-11-13T22:20:32.788Z"
   },
   {
-   "first_seen": "2026-11-11T11:20:23.205Z",
-   "id": "39752321",
-   "ids": [
-    "39752321",
-    "39742367"
-   ],
-   "title": "Mercor raises $750m to expand AI evaluation tools for enterprises",
-   "url": "https://www.techmonitor.ai/news/mercor-raises-750m-to-expand-ai-evaluation-tools-for-enterprises",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-11 09:18:15",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises",
-     "url": "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/"
-    }
-   ],
-   "queries": [
-    "mercor 750m raises expand"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-11T17:20:57.400Z"
-  },
-  {
    "first_seen": "2026-11-13T17:10:10.722Z",
    "id": "39805339",
    "ids": [
@@ -1532,7 +1502,7 @@
    "source_id": "in-marktechpost",
    "published_ts": "2026-11-13 16:10:02",
    "story_sources": 2,
-   "score_norm": 53,
+   "score_norm": 52,
    "related_news": [
     {
      "source_id": "reddit-localllama",
