@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T13:49:49.159Z",
+ "generated_at": "2026-11-14T14:09:38.472Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -261,7 +261,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-13 16:00:12",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -787,37 +787,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-12T11:10:46.156Z"
-  },
-  {
-   "first_seen": "2026-11-11T14:11:55.934Z",
-   "id": "39755394",
-   "ids": [
-    "39755394",
-    "39750218"
-   ],
-   "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-   "url": "https://www.heise.de/news/KI-Stimmen-mit-Emotionen-DeepL-stellt-neues-Modell-Aure-vor-11521062.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-11 13:52:00",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "KI-Stimmen mit Emotionen: DeepL stellt neues Modell Aure vor",
-     "url": "https://t3n.de/news/ki-stimmen-mit-emotionen-deepl-stellt-neues-modell-aure-vor-1772684/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Modell Aure",
-    "ki-stimmen emotionen deepl modell"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T03:14:14.392Z"
   },
   {
    "first_seen": "2026-11-11T19:49:38.331Z",
