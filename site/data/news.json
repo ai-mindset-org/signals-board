@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T16:49:35.986Z",
+ "generated_at": "2026-11-14T17:20:02.907Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -469,7 +469,7 @@
    "source_id": "arstechnica",
    "published_ts": "2026-11-13 17:25:45",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "x-arstechnica",
@@ -694,36 +694,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-12T03:37:40.924Z"
-  },
-  {
-   "first_seen": "2026-11-11T19:49:38.331Z",
-   "id": "39762509",
-   "ids": [
-    "39762509",
-    "39761255"
-   ],
-   "title": "llm 0.37.2",
-   "url": "https://simonwillison.net/2026/Nov/11/llm/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-11 17:19:52",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "37% on ARC-AGI 2 without an LLM",
-     "url": "https://mvakde.github.io/blog/looped-mdlarc/#vs-trm"
-    }
-   ],
-   "queries": [
-    "0.37.2 llm"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T14:24:23.812Z"
   },
   {
    "first_seen": "2026-11-12T13:21:45.102Z",
