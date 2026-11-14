@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:20:10.127Z",
+ "generated_at": "2026-11-14T16:20:56.483Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,39 +7,33 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
- "stories": [
+ "search_report": [
   {
-   "first_seen": "2026-11-14T12:14:13.694Z",
-   "id": "39820507",
-   "ids": [
-    "39820507",
-    "39809084"
-   ],
-   "title": "[AINews] The No AI Slop Manifesto",
-   "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-   "source_id": "latent-space",
-   "published_ts": "2026-11-14 08:31:02",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "No AI Slop: A Manifesto",
-     "url": "https://www.slopmanifesto.com/"
-    }
-   ],
-   "queries": [
-    "AINews The No",
-    "no slop manifesto ainews"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-14T12:14:21.198Z"
+   "source": "youtube: openai board member worries",
+   "ok": true
   },
+  {
+   "source": "tiktok: openai board member worries",
+   "ok": true
+  },
+  {
+   "source": "youtube: ChatGPT Wallet",
+   "ok": true
+  },
+  {
+   "source": "tiktok: ChatGPT Wallet",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai chatgpt wallet unveils",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai chatgpt wallet unveils",
+   "ok": true
+  }
+ ],
+ "stories": [
   {
    "first_seen": "2026-11-13T19:49:40.462Z",
    "id": "39808694",
@@ -143,6 +137,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T14:35:35.729Z"
+  },
+  {
+   "first_seen": "2026-11-14T12:14:13.694Z",
+   "id": "39820507",
+   "ids": [
+    "39820507",
+    "39809084"
+   ],
+   "title": "[AINews] The No AI Slop Manifesto",
+   "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+   "source_id": "latent-space",
+   "published_ts": "2026-11-14 08:31:02",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "No AI Slop: A Manifesto",
+     "url": "https://www.slopmanifesto.com/"
+    }
+   ],
+   "queries": [
+    "AINews The No",
+    "no slop manifesto ainews"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-14T12:14:21.198Z"
   },
   {
    "first_seen": "2026-11-13T17:10:10.722Z",
@@ -364,7 +389,7 @@
    "source_id": "arstechnica",
    "published_ts": "2026-11-13 17:25:45",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "x-arstechnica",
@@ -376,6 +401,18 @@
     "openai board member worries"
    ],
    "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:70iM0n9g5H4",
+     "url": "https://www.youtube.com/shorts/70iM0n9g5H4",
+     "title": "BREAKING: OpenAI board member worries an AI 'takeover' of society | #Shorts",
+     "channel": "",
+     "views": 28,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    },
     {
      "platform": "youtube",
      "kind": "shorts",
@@ -408,19 +445,19 @@
      "title": "INSANE: OpenAI board member worries an AI 'takeover' of society could be months awa | FutureTech Pul",
      "channel": "FUTURETECH AI PULSE",
      "views": 0,
-     "age_hours": 0.9333333333333333,
+     "age_hours": 6,
      "relevance": 0.9,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:70iM0n9g5H4",
-     "url": "https://www.youtube.com/shorts/70iM0n9g5H4",
-     "title": "BREAKING: OpenAI board member worries an AI 'takeover' of society | #Shorts",
-     "channel": "",
+     "kind": "видео",
+     "id": "youtube:9p2SGEVy1N4",
+     "url": "https://www.youtube.com/watch?v=9p2SGEVy1N4",
+     "title": "RERIGHT · OpenAI board member worries an AI \"takeover\" of society coul",
+     "channel": "reright",
      "views": 0,
-     "age_hours": null,
+     "age_hours": 4,
      "relevance": 0.78,
      "velocity": null
     }
@@ -429,7 +466,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-14T10:20:18.498Z"
+   "searched_at": "2026-11-14T16:21:00.945Z"
   },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -443,7 +480,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-14 02:04:56",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
@@ -463,22 +500,10 @@
      "url": "https://www.youtube.com/shorts/Qsng1AY3q_g",
      "title": "OpenAI just introduced ChatGPT Wallet, allowing AI agents to shop #TechNews #explorepages #AI",
      "channel": "",
-     "views": 386,
+     "views": 537,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:EJyDl4-I4XE",
-     "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
-     "title": "Introducing ChatGPT Wallet",
-     "channel": "Chris Messina",
-     "views": 138,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 9
     },
     {
      "platform": "youtube",
@@ -487,22 +512,22 @@
      "url": "https://www.youtube.com/watch?v=SzaxoDh5Aqk",
      "title": "OpenAI Launches ChatGPT Wallet and More AI News",
      "channel": "Jaeden Schafer",
-     "views": 62,
-     "age_hours": 11,
+     "views": 124,
+     "age_hours": 17,
      "relevance": 0.67,
-     "velocity": 6
+     "velocity": 7
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sx9_AuGtUEc",
-     "url": "https://www.youtube.com/shorts/sx9_AuGtUEc",
-     "title": "ChatGPT Wallet lets OpenAI's AI agents shop and check out with your card",
-     "channel": "",
-     "views": 153,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:z9gNrI8HHeM",
+     "url": "https://www.youtube.com/watch?v=z9gNrI8HHeM",
+     "title": "OpenAI Launches ChatGPT Wallet: Pro Only for Now",
+     "channel": "Shadow Lab Digital",
+     "views": 69,
+     "age_hours": 18,
+     "relevance": 0.5,
+     "velocity": 4
     },
     {
      "platform": "youtube",
@@ -511,8 +536,8 @@
      "url": "https://www.youtube.com/watch?v=mvB3QONU7gU",
      "title": "How to Access and Use OpenAI ChatGPT AI Dots Wallet",
      "channel": "Reality PC",
-     "views": 38,
-     "age_hours": 15,
+     "views": 56,
+     "age_hours": 21,
      "relevance": 0.57,
      "velocity": 3
     },
@@ -523,9 +548,21 @@
      "url": "https://www.youtube.com/shorts/iNxT6dwLPqc",
      "title": "OpenAI launches ChatGPT wallet #ai #chatgpt",
      "channel": "",
-     "views": 96,
+     "views": 103,
      "age_hours": null,
      "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5VqladPSLdM",
+     "url": "https://www.youtube.com/shorts/5VqladPSLdM",
+     "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
+     "channel": "",
+     "views": 60,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -533,7 +570,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-14T10:20:25.655Z"
+   "searched_at": "2026-11-14T16:21:12.843Z"
   },
   {
    "first_seen": "2026-11-12T17:10:35.081Z",
