@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T12:14:13.694Z",
+ "generated_at": "2026-11-14T13:49:49.159Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: AINews The No",
-   "ok": true
-  },
-  {
-   "source": "tiktok: AINews The No",
-   "ok": true
-  },
-  {
-   "source": "youtube: no slop manifesto ainews",
-   "ok": true
-  },
-  {
-   "source": "tiktok: no slop manifesto ainews",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-13T19:49:40.462Z",
@@ -142,7 +125,7 @@
    "source_id": "latent-space",
    "published_ts": "2026-11-14 08:31:02",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "hn",
@@ -174,7 +157,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-13 20:45:10",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -449,6 +432,50 @@
    "searched_at": "2026-11-14T10:20:18.498Z"
   },
   {
+   "first_seen": "2026-11-12T17:10:35.081Z",
+   "id": "39781956",
+   "ids": [
+    "39781956",
+    "39767696"
+   ],
+   "title": "OpenAI Fooled by Russian Pranksters Into Thinking They Were Speaking to Ukrainian Official",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xuhuu3/openai_fooled_by_russian_pranksters_into_thinking/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-12 16:49:51",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI Fooled by Russian Pranksters into Thinking They Were Talking to Ukrainian",
+     "url": "https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/"
+    }
+   ],
+   "queries": [
+    "Russian Pranksters Into Thinking They Were Speaking",
+    "openai fooled russian pranksters"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:EisCDuIoOYw",
+     "url": "https://www.youtube.com/shorts/EisCDuIoOYw",
+     "title": "Russian Pranksters Fooled OpenAI's Security Team #shorts",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-12T23:20:50.998Z"
+  },
+  {
    "first_seen": "2026-11-14T04:12:35.337Z",
    "id": "39815650",
    "ids": [
@@ -460,7 +487,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-14 02:04:56",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "hn",
@@ -551,50 +578,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T10:20:25.655Z"
-  },
-  {
-   "first_seen": "2026-11-12T17:10:35.081Z",
-   "id": "39781956",
-   "ids": [
-    "39781956",
-    "39767696"
-   ],
-   "title": "OpenAI Fooled by Russian Pranksters Into Thinking They Were Speaking to Ukrainian Official",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xuhuu3/openai_fooled_by_russian_pranksters_into_thinking/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-12 16:49:51",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI Fooled by Russian Pranksters into Thinking They Were Talking to Ukrainian",
-     "url": "https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/"
-    }
-   ],
-   "queries": [
-    "Russian Pranksters Into Thinking They Were Speaking",
-    "openai fooled russian pranksters"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:EisCDuIoOYw",
-     "url": "https://www.youtube.com/shorts/EisCDuIoOYw",
-     "title": "Russian Pranksters Fooled OpenAI's Security Team #shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-12T23:20:50.998Z"
   },
   {
    "first_seen": "2026-11-11T21:36:02.545Z",
@@ -865,36 +848,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-12T14:24:23.812Z"
-  },
-  {
-   "first_seen": "2026-11-11T17:36:27.454Z",
-   "id": "39755841",
-   "ids": [
-    "39755841",
-    "39759615"
-   ],
-   "title": "Meta and TikTok join Google to fight Indonesia’s AI copyright bill",
-   "url": "https://thenextweb.com/news/indonesia-ai-copyright-bill-meta-tiktok-google",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-11 13:49:03",
-   "story_sources": 2,
-   "score_norm": 65,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Meta, TikTok join Google to push back on Indonesia's AI copyright law revisions",
-     "url": "https://www.reuters.com/legal/litigation/meta-tiktok-join-google-push-back-indonesias-planned-ai-copyright-law-revisions-2026-11-11/"
-    }
-   ],
-   "queries": [
-    "meta tiktok google indonesia"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-12T05:49:40.866Z"
   },
   {
    "first_seen": "2026-11-12T13:21:45.102Z",
