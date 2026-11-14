@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:14:37.256Z",
+ "generated_at": "2026-11-14T03:12:15.414Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Introducing ChatGPT Wallet",
+   "source": "youtube: v1.0 llama.cpp here",
    "ok": true
   },
   {
-   "source": "tiktok: Introducing ChatGPT Wallet",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing chatgpt wallet",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing chatgpt wallet",
+   "source": "tiktok: v1.0 llama.cpp here",
    "ok": true
   }
  ],
@@ -143,7 +135,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-13 20:45:10",
    "story_sources": 2,
-   "score_norm": 96,
+   "score_norm": 95,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -1648,11 +1640,35 @@
     {
      "platform": "youtube",
      "kind": "shorts",
+     "id": "youtube:ED6MbX_LfDI",
+     "url": "https://www.youtube.com/shorts/ED6MbX_LfDI",
+     "title": "llama.cpp Just Hit v1.0 and Removed 35 Functions",
+     "channel": "",
+     "views": 60,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
      "id": "youtube:Nr7w7yhRJP4",
      "url": "https://www.youtube.com/shorts/Nr7w7yhRJP4",
      "title": "llama.cpp v1.0: 3 Upgrades & 3 Migration Traps",
      "channel": "",
-     "views": 1,
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iyCiqtuD6GE",
+     "url": "https://www.youtube.com/shorts/iyCiqtuD6GE",
+     "title": "ChatGPT Wallet, llama.cpp v1.0 & Anthropic's 6x IPO book #Shorts",
+     "channel": "",
+     "views": 6,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1662,7 +1678,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-13T21:09:09.751Z"
+   "searched_at": "2026-11-14T03:12:19.693Z"
   },
   {
    "first_seen": "2026-11-12T20:49:14.534Z",
