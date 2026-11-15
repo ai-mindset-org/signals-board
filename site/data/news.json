@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T12:27:13.447Z",
+ "generated_at": "2026-11-15T14:20:28.361Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -951,110 +951,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-13T21:36:14.698Z"
-  },
-  {
-   "first_seen": "2026-11-12T15:11:46.853Z",
-   "id": "39778803",
-   "ids": [
-    "39778803",
-    "39779691"
-   ],
-   "title": "Nvidia CEO Jensen Huang resigns in big blow to AI boom",
-   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom/article71694311.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-12 14:12:00",
-   "story_sources": 2,
-   "score_norm": 55,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Jensen Huang Resigns as Nvidia CEO: What Happens Next for AI Chips?",
-     "url": "https://oplexa.com/blogs/jensen-huang-resigns-nvidia-ceo-november-2026/"
-    }
-   ],
-   "queries": [
-    "Nvidia CEO Jensen Huang",
-    "nvidia ceo jensen huang"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gCwpCPZeIGQ",
-     "url": "https://www.youtube.com/watch?v=gCwpCPZeIGQ",
-     "title": "Nvidia CEO Jensen Huang resigns, Nvidia stock plunges",
-     "channel": "CNN",
-     "views": 1177719,
-     "age_hours": 6,
-     "relevance": 0.71,
-     "velocity": 196287
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8580Uu0lxFM",
-     "url": "https://www.youtube.com/watch?v=8580Uu0lxFM",
-     "title": "Nvidia's CEO Jensen Huang resigns after second affair allegations | BBC News",
-     "channel": "BBC News",
-     "views": 251476,
-     "age_hours": 3,
-     "relevance": 0.56,
-     "velocity": 83825
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hF1Zyc3P52w",
-     "url": "https://www.youtube.com/watch?v=hF1Zyc3P52w",
-     "title": "BREAKING: Jensen Huang RESIGNS as CEO of Nvidia",
-     "channel": "Fox Business",
-     "views": 288143,
-     "age_hours": 7,
-     "relevance": 0.83,
-     "velocity": 41163
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WihU1JzbRU4",
-     "url": "https://www.youtube.com/watch?v=WihU1JzbRU4",
-     "title": "Nvidia CEO Jensen Huang Resigned | Dharmendra Sir",
-     "channel": "GYRUS SULCUS",
-     "views": 87763,
-     "age_hours": 3,
-     "relevance": 0.57,
-     "velocity": 29254
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nS-yvvNQnsA",
-     "url": "https://www.youtube.com/watch?v=nS-yvvNQnsA",
-     "title": "Rise and fall of Nvidia CEO Jensen Huang",
-     "channel": "CNN",
-     "views": 165757,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 27626
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:h7Xq6wvIDWE",
-     "url": "https://www.youtube.com/watch?v=h7Xq6wvIDWE",
-     "title": "Nvidia Preparing to Oust CEO Jensen Huang: WSJ",
-     "channel": "Bloomberg Television",
-     "views": 541235,
-     "age_hours": 22,
-     "relevance": 0.57,
-     "velocity": 24602
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-12T21:21:01.079Z"
   },
   {
    "first_seen": "2026-11-13T10:11:40.574Z",
