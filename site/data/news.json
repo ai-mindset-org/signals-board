@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T17:08:52.422Z",
+ "generated_at": "2026-11-15T17:35:37.039Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: measure oracle ai results",
+   "ok": true
+  },
+  {
+   "source": "tiktok: measure oracle ai results",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-15T11:20:22.920Z",
@@ -37,7 +46,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-15T11:20:27.008Z"
+   "searched_at": "2026-11-15T17:35:45.929Z"
   },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
