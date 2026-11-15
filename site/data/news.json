@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T22:49:50.683Z",
+ "generated_at": "2026-11-15T07:11:22.048Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -756,86 +756,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-12T19:35:47.271Z"
-  },
-  {
-   "first_seen": "2026-11-12T11:36:05.764Z",
-   "id": "39775966",
-   "ids": [
-    "39775966",
-    "39769061"
-   ],
-   "title": "ByteDance reportedly plans AI assistant similar to Meta’s Muse",
-   "url": "https://technode.com/2026/11/12/bytedance-reportedly-plans-ai-assistant-similar-to-metas-muse/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-12 07:11:14",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "ByteDance plans Meta Muse-like AI assistant to chase OpenAI",
-     "url": "https://www.techinasia.com/news/bytedance-plans-meta-muselike-ai-assistant-chase-openai"
-    }
-   ],
-   "queries": [
-    "Meta’s Muse",
-    "bytedance meta muse reportedly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eyKgE8swaOE",
-     "url": "https://www.youtube.com/watch?v=eyKgE8swaOE",
-     "title": "First impressions on Meta's new Muse AI",
-     "channel": "João Nina Matos",
-     "views": 120,
-     "age_hours": 6,
-     "relevance": 0.6,
-     "velocity": 20
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:X2ffXbQY2r0",
-     "url": "https://www.youtube.com/shorts/X2ffXbQY2r0",
-     "title": "Meta Just Introduced Muse AI - Your New Personal AI Agent?",
-     "channel": "",
-     "views": 160,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:z_E6wirUFMI",
-     "url": "https://www.youtube.com/shorts/z_E6wirUFMI",
-     "title": "Meta's Muse Now Answers Your Email",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:E4Qh9oHkQpY",
-     "url": "https://www.youtube.com/watch?v=E4Qh9oHkQpY",
-     "title": "RERIGHT · ByteDance reportedly plans a Muse-like AI agent within weeks",
-     "channel": "reright",
-     "views": 0,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-12T17:50:07.984Z"
   },
   {
    "first_seen": "2026-11-13T13:49:58.454Z",
