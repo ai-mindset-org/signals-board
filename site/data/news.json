@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T17:35:37.039Z",
+ "generated_at": "2026-11-15T18:12:06.268Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,47 +7,8 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: measure oracle ai results",
-   "ok": true
-  },
-  {
-   "source": "tiktok: measure oracle ai results",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
-  {
-   "first_seen": "2026-11-15T11:20:22.920Z",
-   "id": "39834925",
-   "ids": [
-    "39834925",
-    "39833848"
-   ],
-   "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
-   "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-15 09:31:47",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson",
-     "url": "https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece"
-    }
-   ],
-   "queries": [
-    "measure oracle ai results"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-15T17:35:45.929Z"
-  },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
    "id": "39815650",
@@ -649,6 +610,36 @@
    "searched_at": "2026-11-14T16:21:00.945Z"
   },
   {
+   "first_seen": "2026-11-15T11:20:22.920Z",
+   "id": "39834925",
+   "ids": [
+    "39834925",
+    "39833848"
+   ],
+   "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
+   "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-15 09:31:47",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson",
+     "url": "https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece"
+    }
+   ],
+   "queries": [
+    "measure oracle ai results"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-15T17:35:45.929Z"
+  },
+  {
    "first_seen": "2026-11-13T13:49:58.454Z",
    "id": "39786505",
    "ids": [
@@ -1142,115 +1133,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T03:12:19.693Z"
-  },
-  {
-   "first_seen": "2026-11-12T20:49:14.534Z",
-   "id": "39786912",
-   "ids": [
-    "39786912",
-    "39784806",
-    "39783910",
-    "39783775",
-    "39783776",
-    "39783777",
-    "39803589"
-   ],
-   "title": "Introducing Gemini 4 Hydrogen",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "source_id": "deepmind",
-   "published_ts": "2026-11-12 18:00:50",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Hydrogen and Orchestrator",
-     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
-    }
-   ],
-   "queries": [
-    "Introducing Gemini 4 Hydrogen",
-    "introducing gemini hydrogen"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1KtXDpSYedo",
-     "url": "https://www.youtube.com/watch?v=1KtXDpSYedo",
-     "title": "Anthropic SLOWING DOWN!?, Gemini 4 HYDROGEN IS INSANE, OpenAI's NEW Model, & NVIDIA FIRES Jensen!",
-     "channel": "WorldofAI",
-     "views": 31390,
-     "age_hours": 7,
-     "relevance": 0.67,
-     "velocity": 4484
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2imEgVWkeoA",
-     "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
-     "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
-     "channel": "",
-     "views": 157000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:oh8AyMFU5S8",
-     "url": "https://www.youtube.com/watch?v=oh8AyMFU5S8",
-     "title": "Build Interactive 3D Visualizers with Gemini 4 Hydrogen",
-     "channel": "Google Gemini",
-     "views": 75361,
-     "age_hours": 21,
-     "relevance": 0.67,
-     "velocity": 3589
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GI1Ahvmqyd4",
-     "url": "https://www.youtube.com/watch?v=GI1Ahvmqyd4",
-     "title": "NOVO Gemini 4 Hydrogen Surpreende em Velocidade e Preço Baixo e Coloca Google na Corrida de Novo",
-     "channel": "Inteligência Mil Grau",
-     "views": 10674,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 1779
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OFkDCJ9Yjzo",
-     "url": "https://www.youtube.com/watch?v=OFkDCJ9Yjzo",
-     "title": "Gemini 4 Hydrogen, Jensen Huang RESIGNS, OpenAI's resets!",
-     "channel": "Universe of AI",
-     "views": 27422,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 1714
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yvq3lEyWdE8",
-     "url": "https://www.youtube.com/watch?v=yvq3lEyWdE8",
-     "title": "Gemini 4 Hydrogen Is Here: 2.5x Faster, Tested",
-     "channel": "AI with Surya",
-     "views": 12543,
-     "age_hours": 14,
-     "relevance": 0.67,
-     "velocity": 896
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-13T15:20:37.336Z"
   },
   {
    "first_seen": "2026-11-13T06:41:03.533Z",
