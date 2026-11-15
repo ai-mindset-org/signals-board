@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T14:20:28.361Z",
+ "generated_at": "2026-11-15T17:08:52.422Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -640,50 +640,6 @@
    "searched_at": "2026-11-14T16:21:00.945Z"
   },
   {
-   "first_seen": "2026-11-12T17:10:35.081Z",
-   "id": "39781956",
-   "ids": [
-    "39781956",
-    "39767696"
-   ],
-   "title": "OpenAI Fooled by Russian Pranksters Into Thinking They Were Speaking to Ukrainian Official",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xuhuu3/openai_fooled_by_russian_pranksters_into_thinking/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-12 16:49:51",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI Fooled by Russian Pranksters into Thinking They Were Talking to Ukrainian",
-     "url": "https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/"
-    }
-   ],
-   "queries": [
-    "Russian Pranksters Into Thinking They Were Speaking",
-    "openai fooled russian pranksters"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:EisCDuIoOYw",
-     "url": "https://www.youtube.com/shorts/EisCDuIoOYw",
-     "title": "Russian Pranksters Fooled OpenAI's Security Team #shorts",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-12T23:20:50.998Z"
-  },
-  {
    "first_seen": "2026-11-13T13:49:58.454Z",
    "id": "39786505",
    "ids": [
@@ -1104,36 +1060,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T05:20:56.373Z"
-  },
-  {
-   "first_seen": "2026-11-12T20:11:34.998Z",
-   "id": "39784023",
-   "ids": [
-    "39784023",
-    "39785852"
-   ],
-   "title": "AI chatbots are recommending fake retail websites, study finds",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-   "source_id": "theverge",
-   "published_ts": "2026-11-12 17:00:00",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "AI search is recommending fake retail websites",
-     "url": "https://podqi.com/research/ai-search-brand-risk"
-    }
-   ],
-   "queries": [
-    "ai chatbots recommending fake"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-13T14:22:40.745Z"
   },
   {
    "first_seen": "2026-11-13T14:49:51.295Z",
