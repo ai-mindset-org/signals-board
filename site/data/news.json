@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T07:11:22.048Z",
+ "generated_at": "2026-11-15T09:49:39.583Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1494,109 +1494,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-13T15:20:37.336Z"
-  },
-  {
-   "first_seen": "2026-11-12T15:11:46.853Z",
-   "id": "39779077",
-   "ids": [
-    "39779077",
-    "39779834"
-   ],
-   "title": "UK AI chip start-up Fractile raises $720m at $7bn valuation",
-   "url": "https://www.techmonitor.ai/news/uk-ai-chip-start-up-fractile-raises-720m-at-7bn-valuation",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-12 09:40:55",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "eu-siliconrepublic",
-     "title": "UK AI chips start-up Fractile raises $720m at $7bn valuation",
-     "url": "https://www.siliconrepublic.com/start-ups/uk-ai-chips-start-up-fractile-raises-720m-at-7bn-valuation"
-    }
-   ],
-   "queries": [
-    "uk fractile 720m 7bn"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0vkwBNz8KEg",
-     "url": "https://www.youtube.com/shorts/0vkwBNz8KEg",
-     "title": "Britain's Fractile Raises $720M to Take On Nvidia in the AI Chip Race",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CcZ5TpSkD0k",
-     "url": "https://www.youtube.com/shorts/CcZ5TpSkD0k",
-     "title": "Fractile Raises $720M at a $7B Valuation, With No Production Chip Yet #Shorts",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aD8X2w3JlTg",
-     "url": "https://www.youtube.com/shorts/aD8X2w3JlTg",
-     "title": "Fractile Raises $720M at $7B Valuation for AI Chips",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dN25ZxDGzNg",
-     "url": "https://www.youtube.com/shorts/dN25ZxDGzNg",
-     "title": "Fractile AI chip startup valued at $7 billion",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:LSNUzj-E_iM",
-     "url": "https://www.youtube.com/shorts/LSNUzj-E_iM",
-     "title": "Fractile raises $720M to build new AI chips",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Kem6E1dwXN0",
-     "url": "https://www.youtube.com/shorts/Kem6E1dwXN0",
-     "title": "Fractile Raises $720M at a $7B Valuation 🚀 #AI #StartupFunding #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-12T15:11:58.190Z"
   },
   {
    "first_seen": "2026-11-13T06:41:03.533Z",
