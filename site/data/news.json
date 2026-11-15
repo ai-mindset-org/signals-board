@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T09:49:39.583Z",
+ "generated_at": "2026-11-15T11:20:22.920Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,47 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: measure oracle ai results",
+   "ok": true
+  },
+  {
+   "source": "tiktok: measure oracle ai results",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-11-15T11:20:22.920Z",
+   "id": "39834925",
+   "ids": [
+    "39834925",
+    "39833848"
+   ],
+   "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
+   "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-15 09:31:47",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson",
+     "url": "https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece"
+    }
+   ],
+   "queries": [
+    "measure oracle ai results"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-15T11:20:27.008Z"
+  },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
    "id": "39815650",
