@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:12:06.268Z",
+ "generated_at": "2026-11-15T20:35:38.824Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -621,7 +621,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-15 09:31:47",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -638,109 +638,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-15T17:35:45.929Z"
-  },
-  {
-   "first_seen": "2026-11-13T13:49:58.454Z",
-   "id": "39786505",
-   "ids": [
-    "39786505",
-    "39801258"
-   ],
-   "title": "What actually happens when you press Enter on ChatGPT?",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xunplp/what_actually_happens_when_you_press_enter_on/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-12 20:26:08",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "What happens when you press Enter on ChatGPT [video]",
-     "url": "https://www.youtube.com/watch?v=GWjA5eHIXXk"
-    }
-   ],
-   "queries": [
-    "enter chatgpt actually happens"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iKPZo9kZbDQ",
-     "url": "https://www.youtube.com/shorts/iKPZo9kZbDQ",
-     "title": "What Actually Happens When You Hit Enter on ChatGPT? #Shorts #ChatGPT #AI #Prompts",
-     "channel": "",
-     "views": 1300,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IRIxheDtUS0",
-     "url": "https://www.youtube.com/shorts/IRIxheDtUS0",
-     "title": "What Happens When You Hit Enter on ChatGPT? ⏎ #Shorts",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VwPbSWVwf_o",
-     "url": "https://www.youtube.com/shorts/VwPbSWVwf_o",
-     "title": "How ChatGPT Actually Writes (It Guesses) 🤖",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7beak8I8__o",
-     "url": "https://www.youtube.com/shorts/7beak8I8__o",
-     "title": "What happens in the 1 second after you press Enter on ChatGPT",
-     "channel": "",
-     "views": 193,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oEB2RwFcuZA",
-     "url": "https://www.youtube.com/shorts/oEB2RwFcuZA",
-     "title": "What actually happens inside ChatGPT when you hit enter",
-     "channel": "",
-     "views": 91,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:DpsTpdQL0zk",
-     "url": "https://www.youtube.com/shorts/DpsTpdQL0zk",
-     "title": "What Actually Happens When You Press Send on ChatGPT",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-13T13:50:05.563Z"
   },
   {
    "first_seen": "2026-11-13T15:49:18.421Z",
