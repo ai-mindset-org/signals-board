@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T17:10:37.749Z",
+ "generated_at": "2026-11-16T17:36:48.826Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -349,97 +349,6 @@
    "searched_at": "2026-11-14T11:35:48.138Z"
   },
   {
-   "first_seen": "2026-11-14T10:20:14.224Z",
-   "id": "39809563",
-   "ids": [
-    "39809563",
-    "39819419"
-   ],
-   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-   "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-   "source_id": "arstechnica",
-   "published_ts": "2026-11-13 17:25:45",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "x-arstechnica",
-     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-     "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
-    }
-   ],
-   "queries": [
-    "openai board member worries"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:70iM0n9g5H4",
-     "url": "https://www.youtube.com/shorts/70iM0n9g5H4",
-     "title": "BREAKING: OpenAI board member worries an AI 'takeover' of society | #Shorts",
-     "channel": "",
-     "views": 28,
-     "age_hours": null,
-     "relevance": 0.78,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:j3_O7lUpz8M",
-     "url": "https://www.youtube.com/shorts/j3_O7lUpz8M",
-     "title": "OpenAI director warns of AI takeover in 3 years",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:x8_VO0ov7y4",
-     "url": "https://www.youtube.com/shorts/x8_VO0ov7y4",
-     "title": "OpenAI board member: AI could kill you #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TiPfIW9ZhVQ",
-     "url": "https://www.youtube.com/watch?v=TiPfIW9ZhVQ",
-     "title": "INSANE: OpenAI board member worries an AI 'takeover' of society could be months awa | FutureTech Pul",
-     "channel": "FUTURETECH AI PULSE",
-     "views": 0,
-     "age_hours": 6,
-     "relevance": 0.9,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:9p2SGEVy1N4",
-     "url": "https://www.youtube.com/watch?v=9p2SGEVy1N4",
-     "title": "RERIGHT · OpenAI board member worries an AI \"takeover\" of society coul",
-     "channel": "reright",
-     "views": 0,
-     "age_hours": 4,
-     "relevance": 0.78,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-14T16:21:00.945Z"
-  },
-  {
    "first_seen": "2026-11-16T14:26:02.073Z",
    "id": "39853697",
    "ids": [
@@ -451,7 +360,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-16 14:02:22",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
