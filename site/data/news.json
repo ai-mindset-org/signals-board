@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T09:55:09.059Z",
+ "generated_at": "2026-11-16T13:26:41.899Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: gifs chatgpt engadget can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gifs chatgpt engadget can",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -311,109 +320,6 @@
    "searched_at": "2026-11-14T18:22:55.982Z"
   },
   {
-   "first_seen": "2026-11-16T03:15:19.837Z",
-   "id": "39845225",
-   "ids": [
-    "39845225",
-    "39844471"
-   ],
-   "title": "Apple launches new app to study how people use AI for health",
-   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-11-16 01:30:00",
-   "story_sources": 2,
-   "score_norm": 91,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apple launches research study to explore the use of AI for health",
-     "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
-    }
-   ],
-   "queries": [
-    "apple launches app study"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ybBoMjmSijo",
-     "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
-     "title": "Apple Launches an AI Health Study: What to Know #shorts",
-     "channel": "",
-     "views": 141,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oErMJg-6BRg",
-     "url": "https://www.youtube.com/shorts/oErMJg-6BRg",
-     "title": "Apple launches new app to study how people use AI for health #Shorts",
-     "channel": "",
-     "views": 21,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Vhy3lptKbdA",
-     "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
-     "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mGor-7P_0UI",
-     "url": "https://www.youtube.com/shorts/mGor-7P_0UI",
-     "title": "Apple Launches AI Health Study App 📱",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:d-WTWMxcuHw",
-     "url": "https://www.youtube.com/shorts/d-WTWMxcuHw",
-     "title": "Apple Begins US Study Of AI Health Tools | Tech News Today English",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Bel86AmKoPQ",
-     "url": "https://www.youtube.com/shorts/Bel86AmKoPQ",
-     "title": "Apple Launches A Health AI Research Study",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-16T09:17:30.399Z"
-  },
-  {
    "first_seen": "2026-11-13T17:10:10.722Z",
    "id": "39805547",
    "ids": [
@@ -622,61 +528,85 @@
    "searched_at": "2026-11-14T11:35:51.685Z"
   },
   {
-   "first_seen": "2026-11-16T06:58:04.021Z",
-   "id": "39847363",
+   "first_seen": "2026-11-16T03:15:19.837Z",
+   "id": "39845225",
    "ids": [
-    "39847363",
-    "39841929"
+    "39845225",
+    "39844471"
    ],
-   "title": "You can now generate and edit GIFs with ChatGPT - here's how - Engadget",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xxc9hj/you_can_now_generate_and_edit_gifs_with_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-16 01:11:40",
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-11-16 01:30:00",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 77,
    "related_news": [
     {
-     "source_id": "engadget",
-     "title": "You can now generate and edit GIFs with ChatGPT - here's how",
-     "url": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/"
+     "source_id": "hn",
+     "title": "Apple launches research study to explore the use of AI for health",
+     "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
     }
    ],
    "queries": [
-    "gifs chatgpt engadget can"
+    "apple launches app study"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:rW0AyJAN1Ao",
-     "url": "https://www.youtube.com/shorts/rW0AyJAN1Ao",
-     "title": "ChatGPT can make GIFs??",
+     "id": "youtube:ybBoMjmSijo",
+     "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
+     "title": "Apple Launches an AI Health Study: What to Know #shorts",
      "channel": "",
-     "views": 1200,
+     "views": 141,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:YbzZlxaw3wg",
-     "url": "https://www.youtube.com/shorts/YbzZlxaw3wg",
-     "title": "ChatGPT Can Now Create Animated GIFs",
+     "id": "youtube:oErMJg-6BRg",
+     "url": "https://www.youtube.com/shorts/oErMJg-6BRg",
+     "title": "Apple launches new app to study how people use AI for health #Shorts",
      "channel": "",
-     "views": 676,
+     "views": 21,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 1,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:W1kmu-YFOyQ",
-     "url": "https://www.youtube.com/shorts/W1kmu-YFOyQ",
-     "title": "ChatGPT Just Added GIFs - Try This Now!",
+     "id": "youtube:Vhy3lptKbdA",
+     "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
+     "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
      "channel": "",
-     "views": 338,
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mGor-7P_0UI",
+     "url": "https://www.youtube.com/shorts/mGor-7P_0UI",
+     "title": "Apple Launches AI Health Study App 📱",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:d-WTWMxcuHw",
+     "url": "https://www.youtube.com/shorts/d-WTWMxcuHw",
+     "title": "Apple Begins US Study Of AI Health Tools | Tech News Today English",
+     "channel": "",
+     "views": 6,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -684,37 +614,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:r8TkOlpCIsY",
-     "url": "https://www.youtube.com/shorts/r8TkOlpCIsY",
-     "title": "Create Gifs with ChatGPT",
+     "id": "youtube:Bel86AmKoPQ",
+     "url": "https://www.youtube.com/shorts/Bel86AmKoPQ",
+     "title": "Apple Launches A Health AI Research Study",
      "channel": "",
-     "views": 222,
+     "views": 5,
      "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_VTpB0Z2hL8",
-     "url": "https://www.youtube.com/shorts/_VTpB0Z2hL8",
-     "title": "ChatGPT Images 2.6 Can Now Make GIFs for You",
-     "channel": "",
-     "views": 198,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Euq8Q5c1hcY",
-     "url": "https://www.youtube.com/shorts/Euq8Q5c1hcY",
-     "title": "Make Your Own GIFs with ChatGPT!",
-     "channel": "",
-     "views": 132,
-     "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.83,
      "velocity": null
     }
    ],
@@ -722,7 +628,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-16T06:58:07.999Z"
+   "searched_at": "2026-11-16T09:17:30.399Z"
   },
   {
    "first_seen": "2026-11-14T10:20:14.224Z",
@@ -814,6 +720,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T16:21:00.945Z"
+  },
+  {
+   "first_seen": "2026-11-16T06:58:04.021Z",
+   "id": "39847363",
+   "ids": [
+    "39847363",
+    "39841929"
+   ],
+   "title": "You can now generate and edit GIFs with ChatGPT - here's how - Engadget",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xxc9hj/you_can_now_generate_and_edit_gifs_with_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-16 01:11:40",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "You can now generate and edit GIFs with ChatGPT - here's how",
+     "url": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/"
+    }
+   ],
+   "queries": [
+    "gifs chatgpt engadget can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YbzZlxaw3wg",
+     "url": "https://www.youtube.com/shorts/YbzZlxaw3wg",
+     "title": "ChatGPT Can Now Create Animated GIFs",
+     "channel": "",
+     "views": 733,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:r8TkOlpCIsY",
+     "url": "https://www.youtube.com/shorts/r8TkOlpCIsY",
+     "title": "Create Gifs with ChatGPT",
+     "channel": "",
+     "views": 433,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:W1kmu-YFOyQ",
+     "url": "https://www.youtube.com/shorts/W1kmu-YFOyQ",
+     "title": "ChatGPT Just Added GIFs - Try This Now!",
+     "channel": "",
+     "views": 347,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_VTpB0Z2hL8",
+     "url": "https://www.youtube.com/shorts/_VTpB0Z2hL8",
+     "title": "ChatGPT Images 2.6 Can Now Make GIFs for You",
+     "channel": "",
+     "views": 206,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Euq8Q5c1hcY",
+     "url": "https://www.youtube.com/shorts/Euq8Q5c1hcY",
+     "title": "Make Your Own GIFs with ChatGPT!",
+     "channel": "",
+     "views": 142,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gYsVYRuljWU",
+     "url": "https://www.youtube.com/shorts/gYsVYRuljWU",
+     "title": "GPT Images 2.6   ChatGPT Can Now Generate Animated GIFs",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-16T13:26:46.139Z"
   },
   {
    "first_seen": "2026-11-13T15:49:18.421Z",
