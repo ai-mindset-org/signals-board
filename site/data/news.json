@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T17:36:48.826Z",
+ "generated_at": "2026-11-16T18:14:26.964Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: our first phase embedded",
+   "ok": true
+  },
+  {
+   "source": "tiktok: our first phase embedded",
+   "ok": true
+  },
+  {
+   "source": "youtube: african small lab sounding",
+   "ok": true
+  },
+  {
+   "source": "tiktok: african small lab sounding",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-16T16:25:37.029Z",
@@ -349,6 +366,36 @@
    "searched_at": "2026-11-14T11:35:48.138Z"
   },
   {
+   "first_seen": "2026-11-16T18:14:26.964Z",
+   "id": "39859233",
+   "ids": [
+    "39859233",
+    "39856271"
+   ],
+   "title": "Our first phase of embedded assessments",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-16 08:00:00",
+   "story_sources": 2,
+   "score_norm": 87,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "First phase of embedded assessments at OpenAI",
+     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    }
+   ],
+   "queries": [
+    "our first phase embedded"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-16T18:14:31.402Z"
+  },
+  {
    "first_seen": "2026-11-16T14:26:02.073Z",
    "id": "39853697",
    "ids": [
@@ -548,6 +595,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-15T23:49:29.382Z"
+  },
+  {
+   "first_seen": "2026-11-16T18:14:26.964Z",
+   "id": "39858926",
+   "ids": [
+    "39858926",
+    "39851047"
+   ],
+   "title": "The small African lab sounding the alarm on AI bioweapons",
+   "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "source_id": "gl-restofworld",
+   "published_ts": "2026-11-16 11:00:23",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "The small African lab sounding the alarm on AI bioweapons",
+     "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/"
+    }
+   ],
+   "queries": [
+    "african small lab sounding"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-16T18:14:35.027Z"
   },
   {
    "first_seen": "2026-11-16T03:15:19.837Z",
