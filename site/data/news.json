@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:14:26.964Z",
+ "generated_at": "2026-11-16T18:27:03.865Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,59 +9,44 @@
  },
  "search_report": [
   {
-   "source": "youtube: our first phase embedded",
+   "source": "youtube: strengthening fight against online",
    "ok": true
   },
   {
-   "source": "tiktok: our first phase embedded",
-   "ok": true
-  },
-  {
-   "source": "youtube: african small lab sounding",
-   "ok": true
-  },
-  {
-   "source": "tiktok: african small lab sounding",
+   "source": "tiktok: strengthening fight against online",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-16T16:25:37.029Z",
-   "id": "39855843",
+   "first_seen": "2026-11-16T18:27:03.865Z",
+   "id": "39859230",
    "ids": [
-    "39855843",
-    "39856412",
-    "39857717"
+    "39859230",
+    "39859486"
    ],
-   "title": "OpenAI adds computer-use agents and plugins to ChatGPT for Healthcare",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xxujs0/openai_adds_computeruse_agents_and_plugins_to/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-16 16:55:40",
-   "story_sources": 3,
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-16 17:00:00",
+   "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "x-thedefiant-io",
-     "title": "OpenAI Expands Computer-Use Agents for Healthcare Teams",
-     "url": "https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams"
-    },
-    {
      "source_id": "hn",
-     "title": "Advancing computer-use agents for healthcare teams (OpenAI)",
-     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/"
+     "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+     "url": "https://openai.com/index/strengthening-online-child-safety/"
     }
    ],
    "queries": [
-    "OpenAI Expands Computer-Use",
-    "openai expands computer-use healthcare"
+    "strengthening fight against online"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-16T16:25:45.123Z"
+   "searched_at": "2026-11-16T18:27:08.251Z"
   },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -366,6 +351,43 @@
    "searched_at": "2026-11-14T11:35:48.138Z"
   },
   {
+   "first_seen": "2026-11-16T16:25:37.029Z",
+   "id": "39855843",
+   "ids": [
+    "39855843",
+    "39856412",
+    "39857717"
+   ],
+   "title": "OpenAI adds computer-use agents and plugins to ChatGPT for Healthcare",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xxujs0/openai_adds_computeruse_agents_and_plugins_to/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-16 16:55:40",
+   "story_sources": 3,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "OpenAI Expands Computer-Use Agents for Healthcare Teams",
+     "url": "https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams"
+    },
+    {
+     "source_id": "hn",
+     "title": "Advancing computer-use agents for healthcare teams (OpenAI)",
+     "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/"
+    }
+   ],
+   "queries": [
+    "OpenAI Expands Computer-Use",
+    "openai expands computer-use healthcare"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-16T16:25:45.123Z"
+  },
+  {
    "first_seen": "2026-11-16T18:14:26.964Z",
    "id": "39859233",
    "ids": [
@@ -377,7 +399,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-16 08:00:00",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "hn",
@@ -394,74 +416,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-16T18:14:31.402Z"
-  },
-  {
-   "first_seen": "2026-11-16T14:26:02.073Z",
-   "id": "39853697",
-   "ids": [
-    "39853697",
-    "39853294"
-   ],
-   "title": "US Targets China’s Remote Access to Advanced AI Chips",
-   "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-16 14:02:22",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
-    }
-   ],
-   "queries": [
-    "US Targets China’s Remote Access",
-    "us targets china remote"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:44h-U1icCZ4",
-     "url": "https://www.youtube.com/watch?v=44h-U1icCZ4",
-     "title": "US Lawmakers Rush to Block China From Advanced AI Chips After Nvidia Scandal",
-     "channel": "Anish Kumar",
-     "views": 947,
-     "age_hours": 23,
-     "relevance": 0.63,
-     "velocity": 41
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JRmOb5RWIjs",
-     "url": "https://www.youtube.com/shorts/JRmOb5RWIjs",
-     "title": "How Nvidia Chips Reach China",
-     "channel": "",
-     "views": 887,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WyHz9ihsup4",
-     "url": "https://www.youtube.com/watch?v=WyHz9ihsup4",
-     "title": "Alibaba Stock Drops 6.8% as a US Rule Targets Offshore AI Chips",
-     "channel": "FAR TAPE: China and FAR TAPE: Korea",
-     "views": 130,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-16T14:26:09.972Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
@@ -597,34 +551,72 @@
    "searched_at": "2026-11-15T23:49:29.382Z"
   },
   {
-   "first_seen": "2026-11-16T18:14:26.964Z",
-   "id": "39858926",
+   "first_seen": "2026-11-16T14:26:02.073Z",
+   "id": "39853697",
    "ids": [
-    "39858926",
-    "39851047"
+    "39853697",
+    "39853294"
    ],
-   "title": "The small African lab sounding the alarm on AI bioweapons",
-   "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "source_id": "gl-restofworld",
-   "published_ts": "2026-11-16 11:00:23",
+   "title": "US Targets China’s Remote Access to Advanced AI Chips",
+   "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-16 14:02:22",
    "story_sources": 2,
-   "score_norm": 48,
+   "score_norm": 47,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "The small African lab sounding the alarm on AI bioweapons",
-     "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/"
+     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
     }
    ],
    "queries": [
-    "african small lab sounding"
+    "US Targets China’s Remote Access",
+    "us targets china remote"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:44h-U1icCZ4",
+     "url": "https://www.youtube.com/watch?v=44h-U1icCZ4",
+     "title": "US Lawmakers Rush to Block China From Advanced AI Chips After Nvidia Scandal",
+     "channel": "Anish Kumar",
+     "views": 947,
+     "age_hours": 23,
+     "relevance": 0.63,
+     "velocity": 41
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JRmOb5RWIjs",
+     "url": "https://www.youtube.com/shorts/JRmOb5RWIjs",
+     "title": "How Nvidia Chips Reach China",
+     "channel": "",
+     "views": 887,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WyHz9ihsup4",
+     "url": "https://www.youtube.com/watch?v=WyHz9ihsup4",
+     "title": "Alibaba Stock Drops 6.8% as a US Rule Targets Offshore AI Chips",
+     "channel": "FAR TAPE: China and FAR TAPE: Korea",
+     "views": 130,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 2
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-16T18:14:35.027Z"
+   "searched_at": "2026-11-16T14:26:09.972Z"
   },
   {
    "first_seen": "2026-11-16T03:15:19.837Z",
@@ -734,6 +726,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-16T15:19:27.680Z"
+  },
+  {
+   "first_seen": "2026-11-16T18:14:26.964Z",
+   "id": "39858926",
+   "ids": [
+    "39858926",
+    "39851047"
+   ],
+   "title": "The small African lab sounding the alarm on AI bioweapons",
+   "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+   "source_id": "gl-restofworld",
+   "published_ts": "2026-11-16 11:00:23",
+   "story_sources": 2,
+   "score_norm": 34,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "The small African lab sounding the alarm on AI bioweapons",
+     "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/"
+    }
+   ],
+   "queries": [
+    "african small lab sounding"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-16T18:14:35.027Z"
   }
  ]
 }
