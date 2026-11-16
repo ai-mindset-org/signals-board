@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:22:17.040Z",
+ "generated_at": "2026-11-16T20:35:57.678Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: us china moves cut",
+   "ok": true
+  },
+  {
+   "source": "tiktok: us china moves cut",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-16T18:27:03.865Z",
@@ -368,52 +377,27 @@
     }
    ],
    "queries": [
-    "US Targets China’s Remote Access",
-    "us targets china remote"
+    "us china moves cut"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:44h-U1icCZ4",
-     "url": "https://www.youtube.com/watch?v=44h-U1icCZ4",
-     "title": "US Lawmakers Rush to Block China From Advanced AI Chips After Nvidia Scandal",
-     "channel": "Anish Kumar",
-     "views": 947,
-     "age_hours": 23,
-     "relevance": 0.63,
-     "velocity": 41
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JRmOb5RWIjs",
-     "url": "https://www.youtube.com/shorts/JRmOb5RWIjs",
-     "title": "How Nvidia Chips Reach China",
-     "channel": "",
-     "views": 887,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WyHz9ihsup4",
-     "url": "https://www.youtube.com/watch?v=WyHz9ihsup4",
-     "title": "Alibaba Stock Drops 6.8% as a US Rule Targets Offshore AI Chips",
-     "channel": "FAR TAPE: China and FAR TAPE: Korea",
-     "views": 130,
+     "id": "youtube:YQpXnPqh5Qo",
+     "url": "https://www.youtube.com/watch?v=YQpXnPqh5Qo",
+     "title": "Nvidia Under US Investigation Over Alleged Diversion of Restricted AI Chips to China",
+     "channel": "India Today Global",
+     "views": 2018,
      "age_hours": 72,
      "relevance": 0.5,
-     "velocity": 2
+     "velocity": 28
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-16T14:26:09.972Z"
+   "searched_at": "2026-11-16T20:36:01.699Z"
   },
   {
    "first_seen": "2026-11-16T16:25:37.029Z",
@@ -429,7 +413,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-16 06:00:00",
    "story_sources": 3,
-   "score_norm": 69,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -465,7 +449,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-16 08:00:00",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "hn",
