@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:27:03.865Z",
+ "generated_at": "2026-11-16T20:12:12.399Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: strengthening fight against online",
-   "ok": true
-  },
-  {
-   "source": "tiktok: strengthening fight against online",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-16T18:27:03.865Z",
@@ -351,6 +342,80 @@
    "searched_at": "2026-11-14T11:35:48.138Z"
   },
   {
+   "first_seen": "2026-11-16T14:26:02.073Z",
+   "id": "39853697",
+   "ids": [
+    "39853697",
+    "39853294",
+    "39861566"
+   ],
+   "title": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "source_id": "x-arstechnica",
+   "published_ts": "2026-11-16 19:10:09",
+   "story_sources": 3,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "US Targets China’s Remote Access to Advanced AI Chips",
+     "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips"
+    },
+    {
+     "source_id": "hn",
+     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+    }
+   ],
+   "queries": [
+    "US Targets China’s Remote Access",
+    "us targets china remote"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:44h-U1icCZ4",
+     "url": "https://www.youtube.com/watch?v=44h-U1icCZ4",
+     "title": "US Lawmakers Rush to Block China From Advanced AI Chips After Nvidia Scandal",
+     "channel": "Anish Kumar",
+     "views": 947,
+     "age_hours": 23,
+     "relevance": 0.63,
+     "velocity": 41
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JRmOb5RWIjs",
+     "url": "https://www.youtube.com/shorts/JRmOb5RWIjs",
+     "title": "How Nvidia Chips Reach China",
+     "channel": "",
+     "views": 887,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WyHz9ihsup4",
+     "url": "https://www.youtube.com/watch?v=WyHz9ihsup4",
+     "title": "Alibaba Stock Drops 6.8% as a US Rule Targets Offshore AI Chips",
+     "channel": "FAR TAPE: China and FAR TAPE: Korea",
+     "views": 130,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-16T14:26:09.972Z"
+  },
+  {
    "first_seen": "2026-11-16T16:25:37.029Z",
    "id": "39855843",
    "ids": [
@@ -399,7 +464,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-16 08:00:00",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
@@ -549,74 +614,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-15T23:49:29.382Z"
-  },
-  {
-   "first_seen": "2026-11-16T14:26:02.073Z",
-   "id": "39853697",
-   "ids": [
-    "39853697",
-    "39853294"
-   ],
-   "title": "US Targets China’s Remote Access to Advanced AI Chips",
-   "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-16 14:02:22",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
-    }
-   ],
-   "queries": [
-    "US Targets China’s Remote Access",
-    "us targets china remote"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:44h-U1icCZ4",
-     "url": "https://www.youtube.com/watch?v=44h-U1icCZ4",
-     "title": "US Lawmakers Rush to Block China From Advanced AI Chips After Nvidia Scandal",
-     "channel": "Anish Kumar",
-     "views": 947,
-     "age_hours": 23,
-     "relevance": 0.63,
-     "velocity": 41
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JRmOb5RWIjs",
-     "url": "https://www.youtube.com/shorts/JRmOb5RWIjs",
-     "title": "How Nvidia Chips Reach China",
-     "channel": "",
-     "views": 887,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WyHz9ihsup4",
-     "url": "https://www.youtube.com/watch?v=WyHz9ihsup4",
-     "title": "Alibaba Stock Drops 6.8% as a US Rule Targets Offshore AI Chips",
-     "channel": "FAR TAPE: China and FAR TAPE: Korea",
-     "views": 130,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-16T14:26:09.972Z"
   },
   {
    "first_seen": "2026-11-16T03:15:19.837Z",
