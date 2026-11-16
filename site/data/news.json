@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T16:25:37.029Z",
+ "generated_at": "2026-11-16T17:10:37.749Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,39 +7,28 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: OpenAI Expands Computer-Use",
-   "ok": true
-  },
-  {
-   "source": "tiktok: OpenAI Expands Computer-Use",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai expands computer-use healthcare",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai expands computer-use healthcare",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-16T16:25:37.029Z",
    "id": "39855843",
    "ids": [
     "39855843",
-    "39856412"
+    "39856412",
+    "39857717"
    ],
-   "title": "OpenAI Expands Computer-Use Agents for Healthcare Teams",
-   "url": "https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-16 15:07:07",
-   "story_sources": 2,
+   "title": "OpenAI adds computer-use agents and plugins to ChatGPT for Healthcare",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xxujs0/openai_adds_computeruse_agents_and_plugins_to/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-16 16:55:40",
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "OpenAI Expands Computer-Use Agents for Healthcare Teams",
+     "url": "https://thedefiant.io/frontier/ai/openai-expands-computer-use-agents-for-healthcare-teams"
+    },
     {
      "source_id": "hn",
      "title": "Advancing computer-use agents for healthcare teams (OpenAI)",
@@ -161,74 +150,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T16:21:12.843Z"
-  },
-  {
-   "first_seen": "2026-11-16T14:26:02.073Z",
-   "id": "39853697",
-   "ids": [
-    "39853697",
-    "39853294"
-   ],
-   "title": "US Targets China’s Remote Access to Advanced AI Chips",
-   "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-16 14:02:22",
-   "story_sources": 2,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
-    }
-   ],
-   "queries": [
-    "US Targets China’s Remote Access",
-    "us targets china remote"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:44h-U1icCZ4",
-     "url": "https://www.youtube.com/watch?v=44h-U1icCZ4",
-     "title": "US Lawmakers Rush to Block China From Advanced AI Chips After Nvidia Scandal",
-     "channel": "Anish Kumar",
-     "views": 947,
-     "age_hours": 23,
-     "relevance": 0.63,
-     "velocity": 41
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JRmOb5RWIjs",
-     "url": "https://www.youtube.com/shorts/JRmOb5RWIjs",
-     "title": "How Nvidia Chips Reach China",
-     "channel": "",
-     "views": 887,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WyHz9ihsup4",
-     "url": "https://www.youtube.com/watch?v=WyHz9ihsup4",
-     "title": "Alibaba Stock Drops 6.8% as a US Rule Targets Offshore AI Chips",
-     "channel": "FAR TAPE: China and FAR TAPE: Korea",
-     "views": 130,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-16T14:26:09.972Z"
   },
   {
    "first_seen": "2026-11-14T12:14:13.694Z",
@@ -519,113 +440,72 @@
    "searched_at": "2026-11-14T16:21:00.945Z"
   },
   {
-   "first_seen": "2026-11-16T03:15:19.837Z",
-   "id": "39845225",
+   "first_seen": "2026-11-16T14:26:02.073Z",
+   "id": "39853697",
    "ids": [
-    "39845225",
-    "39844471",
-    "39853405"
+    "39853697",
+    "39853294"
    ],
-   "title": "Apple launches new app to study how people use AI for health",
-   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-11-16 01:30:00",
+   "title": "US Targets China’s Remote Access to Advanced AI Chips",
+   "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-16 14:02:22",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Apple Seeks 200k People for AI Health Study",
-     "url": "https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Apple launches research study to explore the use of AI for health",
-     "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
     }
    ],
    "queries": [
-    "apple launches app study"
+    "US Targets China’s Remote Access",
+    "us targets china remote"
    ],
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:44h-U1icCZ4",
+     "url": "https://www.youtube.com/watch?v=44h-U1icCZ4",
+     "title": "US Lawmakers Rush to Block China From Advanced AI Chips After Nvidia Scandal",
+     "channel": "Anish Kumar",
+     "views": 947,
+     "age_hours": 23,
+     "relevance": 0.63,
+     "velocity": 41
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:ybBoMjmSijo",
-     "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
-     "title": "Apple Launches an AI Health Study: What to Know #shorts",
+     "id": "youtube:JRmOb5RWIjs",
+     "url": "https://www.youtube.com/shorts/JRmOb5RWIjs",
+     "title": "How Nvidia Chips Reach China",
      "channel": "",
-     "views": 225,
+     "views": 887,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:YXNTDdamMeQ",
-     "url": "https://www.youtube.com/watch?v=YXNTDdamMeQ",
-     "title": "Apple Health AI Study App Explained: Free iPhone App That Answers Health Questions",
-     "channel": "In Theory Only",
-     "views": 1,
-     "age_hours": 0.3833333333333333,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Vhy3lptKbdA",
-     "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
-     "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QKon_qwzQuk",
-     "url": "https://www.youtube.com/shorts/QKon_qwzQuk",
-     "title": "Apple launches new health AI study app",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZG3md0Ck858",
-     "url": "https://www.youtube.com/shorts/ZG3md0Ck858",
-     "title": "Apple Launches Clinical Health AI Study for 200,000 Users #Shorts",
-     "channel": "",
-     "views": 25,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kYt7mDQxUc8",
-     "url": "https://www.youtube.com/shorts/kYt7mDQxUc8",
-     "title": "Would You Share Sleep Data With Apple’s Health AI Study?",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
+     "id": "youtube:WyHz9ihsup4",
+     "url": "https://www.youtube.com/watch?v=WyHz9ihsup4",
+     "title": "Alibaba Stock Drops 6.8% as a US Rule Targets Offshore AI Chips",
+     "channel": "FAR TAPE: China and FAR TAPE: Korea",
+     "views": 130,
+     "age_hours": 72,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 2
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-16T15:19:27.680Z"
+   "searched_at": "2026-11-16T14:26:09.972Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
@@ -759,6 +639,115 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-15T23:49:29.382Z"
+  },
+  {
+   "first_seen": "2026-11-16T03:15:19.837Z",
+   "id": "39845225",
+   "ids": [
+    "39845225",
+    "39844471",
+    "39853405"
+   ],
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-11-16 01:30:00",
+   "story_sources": 2,
+   "score_norm": 45,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apple Seeks 200k People for AI Health Study",
+     "url": "https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Apple launches research study to explore the use of AI for health",
+     "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+    }
+   ],
+   "queries": [
+    "apple launches app study"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ybBoMjmSijo",
+     "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
+     "title": "Apple Launches an AI Health Study: What to Know #shorts",
+     "channel": "",
+     "views": 225,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YXNTDdamMeQ",
+     "url": "https://www.youtube.com/watch?v=YXNTDdamMeQ",
+     "title": "Apple Health AI Study App Explained: Free iPhone App That Answers Health Questions",
+     "channel": "In Theory Only",
+     "views": 1,
+     "age_hours": 0.3833333333333333,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Vhy3lptKbdA",
+     "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
+     "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
+     "channel": "",
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QKon_qwzQuk",
+     "url": "https://www.youtube.com/shorts/QKon_qwzQuk",
+     "title": "Apple launches new health AI study app",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZG3md0Ck858",
+     "url": "https://www.youtube.com/shorts/ZG3md0Ck858",
+     "title": "Apple Launches Clinical Health AI Study for 200,000 Users #Shorts",
+     "channel": "",
+     "views": 25,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kYt7mDQxUc8",
+     "url": "https://www.youtube.com/shorts/kYt7mDQxUc8",
+     "title": "Would You Share Sleep Data With Apple’s Health AI Study?",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-16T15:19:27.680Z"
   }
  ]
 }
