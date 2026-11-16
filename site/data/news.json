@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:29:30.142Z",
+ "generated_at": "2026-11-16T06:58:04.021Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: gifs chatgpt engadget can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gifs chatgpt engadget can",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -584,6 +593,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T11:35:51.685Z"
+  },
+  {
+   "first_seen": "2026-11-16T06:58:04.021Z",
+   "id": "39847363",
+   "ids": [
+    "39847363",
+    "39841929"
+   ],
+   "title": "You can now generate and edit GIFs with ChatGPT - here's how - Engadget",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xxc9hj/you_can_now_generate_and_edit_gifs_with_chatgpt/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-16 01:11:40",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "You can now generate and edit GIFs with ChatGPT - here's how",
+     "url": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/"
+    }
+   ],
+   "queries": [
+    "gifs chatgpt engadget can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rW0AyJAN1Ao",
+     "url": "https://www.youtube.com/shorts/rW0AyJAN1Ao",
+     "title": "ChatGPT can make GIFs??",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YbzZlxaw3wg",
+     "url": "https://www.youtube.com/shorts/YbzZlxaw3wg",
+     "title": "ChatGPT Can Now Create Animated GIFs",
+     "channel": "",
+     "views": 676,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:W1kmu-YFOyQ",
+     "url": "https://www.youtube.com/shorts/W1kmu-YFOyQ",
+     "title": "ChatGPT Just Added GIFs - Try This Now!",
+     "channel": "",
+     "views": 338,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:r8TkOlpCIsY",
+     "url": "https://www.youtube.com/shorts/r8TkOlpCIsY",
+     "title": "Create Gifs with ChatGPT",
+     "channel": "",
+     "views": 222,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_VTpB0Z2hL8",
+     "url": "https://www.youtube.com/shorts/_VTpB0Z2hL8",
+     "title": "ChatGPT Images 2.6 Can Now Make GIFs for You",
+     "channel": "",
+     "views": 198,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Euq8Q5c1hcY",
+     "url": "https://www.youtube.com/shorts/Euq8Q5c1hcY",
+     "title": "Make Your Own GIFs with ChatGPT!",
+     "channel": "",
+     "views": 132,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-16T06:58:07.999Z"
   },
   {
    "first_seen": "2026-11-14T10:20:14.224Z",
