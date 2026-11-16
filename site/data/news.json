@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T13:26:41.899Z",
+ "generated_at": "2026-11-16T14:26:02.073Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,15 +9,91 @@
  },
  "search_report": [
   {
-   "source": "youtube: gifs chatgpt engadget can",
+   "source": "youtube: US Targets China’s Remote Access",
    "ok": true
   },
   {
-   "source": "tiktok: gifs chatgpt engadget can",
+   "source": "tiktok: US Targets China’s Remote Access",
+   "ok": true
+  },
+  {
+   "source": "youtube: us targets china remote",
+   "ok": true
+  },
+  {
+   "source": "tiktok: us targets china remote",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-16T14:26:02.073Z",
+   "id": "39853697",
+   "ids": [
+    "39853697",
+    "39853294"
+   ],
+   "title": "US Targets China’s Remote Access to Advanced AI Chips",
+   "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-16 14:02:22",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+    }
+   ],
+   "queries": [
+    "US Targets China’s Remote Access",
+    "us targets china remote"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:44h-U1icCZ4",
+     "url": "https://www.youtube.com/watch?v=44h-U1icCZ4",
+     "title": "US Lawmakers Rush to Block China From Advanced AI Chips After Nvidia Scandal",
+     "channel": "Anish Kumar",
+     "views": 947,
+     "age_hours": 23,
+     "relevance": 0.63,
+     "velocity": 41
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JRmOb5RWIjs",
+     "url": "https://www.youtube.com/shorts/JRmOb5RWIjs",
+     "title": "How Nvidia Chips Reach China",
+     "channel": "",
+     "views": 887,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WyHz9ihsup4",
+     "url": "https://www.youtube.com/watch?v=WyHz9ihsup4",
+     "title": "Alibaba Stock Drops 6.8% as a US Rule Targets Offshore AI Chips",
+     "channel": "FAR TAPE: China and FAR TAPE: Korea",
+     "views": 130,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-16T14:26:09.972Z"
+  },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
    "id": "39815650",
@@ -528,109 +604,6 @@
    "searched_at": "2026-11-14T11:35:51.685Z"
   },
   {
-   "first_seen": "2026-11-16T03:15:19.837Z",
-   "id": "39845225",
-   "ids": [
-    "39845225",
-    "39844471"
-   ],
-   "title": "Apple launches new app to study how people use AI for health",
-   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-11-16 01:30:00",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apple launches research study to explore the use of AI for health",
-     "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
-    }
-   ],
-   "queries": [
-    "apple launches app study"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ybBoMjmSijo",
-     "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
-     "title": "Apple Launches an AI Health Study: What to Know #shorts",
-     "channel": "",
-     "views": 141,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oErMJg-6BRg",
-     "url": "https://www.youtube.com/shorts/oErMJg-6BRg",
-     "title": "Apple launches new app to study how people use AI for health #Shorts",
-     "channel": "",
-     "views": 21,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Vhy3lptKbdA",
-     "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
-     "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mGor-7P_0UI",
-     "url": "https://www.youtube.com/shorts/mGor-7P_0UI",
-     "title": "Apple Launches AI Health Study App 📱",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:d-WTWMxcuHw",
-     "url": "https://www.youtube.com/shorts/d-WTWMxcuHw",
-     "title": "Apple Begins US Study Of AI Health Tools | Tech News Today English",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Bel86AmKoPQ",
-     "url": "https://www.youtube.com/shorts/Bel86AmKoPQ",
-     "title": "Apple Launches A Health AI Research Study",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-16T09:17:30.399Z"
-  },
-  {
    "first_seen": "2026-11-14T10:20:14.224Z",
    "id": "39809563",
    "ids": [
@@ -722,6 +695,115 @@
    "searched_at": "2026-11-14T16:21:00.945Z"
   },
   {
+   "first_seen": "2026-11-16T03:15:19.837Z",
+   "id": "39845225",
+   "ids": [
+    "39845225",
+    "39844471",
+    "39853405"
+   ],
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-11-16 01:30:00",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apple Seeks 200k People for AI Health Study",
+     "url": "https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Apple launches research study to explore the use of AI for health",
+     "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+    }
+   ],
+   "queries": [
+    "apple launches app study"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ybBoMjmSijo",
+     "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
+     "title": "Apple Launches an AI Health Study: What to Know #shorts",
+     "channel": "",
+     "views": 141,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:oErMJg-6BRg",
+     "url": "https://www.youtube.com/shorts/oErMJg-6BRg",
+     "title": "Apple launches new app to study how people use AI for health #Shorts",
+     "channel": "",
+     "views": 21,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Vhy3lptKbdA",
+     "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
+     "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mGor-7P_0UI",
+     "url": "https://www.youtube.com/shorts/mGor-7P_0UI",
+     "title": "Apple Launches AI Health Study App 📱",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:d-WTWMxcuHw",
+     "url": "https://www.youtube.com/shorts/d-WTWMxcuHw",
+     "title": "Apple Begins US Study Of AI Health Tools | Tech News Today English",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bel86AmKoPQ",
+     "url": "https://www.youtube.com/shorts/Bel86AmKoPQ",
+     "title": "Apple Launches A Health AI Research Study",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-16T09:17:30.399Z"
+  },
+  {
    "first_seen": "2026-11-16T06:58:04.021Z",
    "id": "39847363",
    "ids": [
@@ -733,7 +815,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-16 01:11:40",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "engadget",
@@ -959,79 +1041,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T05:20:56.373Z"
-  },
-  {
-   "first_seen": "2026-11-13T14:49:51.295Z",
-   "id": "39802700",
-   "ids": [
-    "39802700",
-    "39801784",
-    "39798606"
-   ],
-   "title": "llama.cpp v1.0 is here 🦙",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-13 14:07:33",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Llama.cpp v1 Is Out",
-     "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
-    },
-    {
-     "source_id": "hn",
-     "title": "llama.cpp v1.0",
-     "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0"
-    }
-   ],
-   "queries": [
-    "v1.0 llama.cpp here"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ED6MbX_LfDI",
-     "url": "https://www.youtube.com/shorts/ED6MbX_LfDI",
-     "title": "llama.cpp Just Hit v1.0 and Removed 35 Functions",
-     "channel": "",
-     "views": 60,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Nr7w7yhRJP4",
-     "url": "https://www.youtube.com/shorts/Nr7w7yhRJP4",
-     "title": "llama.cpp v1.0: 3 Upgrades & 3 Migration Traps",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iyCiqtuD6GE",
-     "url": "https://www.youtube.com/shorts/iyCiqtuD6GE",
-     "title": "ChatGPT Wallet, llama.cpp v1.0 & Anthropic's 6x IPO book #Shorts",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-14T03:12:19.693Z"
   }
  ]
 }
