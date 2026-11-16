@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T09:17:25.893Z",
+ "generated_at": "2026-11-16T09:55:09.059Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: apple launches app study",
-   "ok": true
-  },
-  {
-   "source": "tiktok: apple launches app study",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -885,115 +876,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-13T21:36:14.698Z"
-  },
-  {
-   "first_seen": "2026-11-13T10:11:40.574Z",
-   "id": "39797675",
-   "ids": [
-    "39797675",
-    "39797545",
-    "39792053"
-   ],
-   "title": "Microsoft outage: Outlook, Teams & Copilot hit by major disruption",
-   "url": "https://www.thehindubusinessline.com/multimedia/video/microsoft-outage-outlook-teams-amp-copilot-hit-by-major-disruption/article71697424.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-13 09:48:26",
-   "story_sources": 3,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "in-techgenyz",
-     "title": "Microsoft Outlook Outage Hits Teams, Copilot Worldwide",
-     "url": "https://techgenyz.com/outlook-down-microsoft-365-outage-india/"
-    },
-    {
-     "source_id": "sea-soyacincau",
-     "title": "Microsoft 365 suffers major outage affecting Teams, Outlook, SharePoint and Copilot",
-     "url": "https://soyacincau.com/2026/11/13/microsoft-365-business-enterprise-outage-teams-outlook-sharepoint-copilot-xrs/"
-    }
-   ],
-   "queries": [
-    "microsoft outlook teams copilot"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_xMwKDtUpLM",
-     "url": "https://www.youtube.com/watch?v=_xMwKDtUpLM",
-     "title": "Microsoft Outage: Outlook, Teams & Copilot Down For Millions",
-     "channel": "CNBC-TV18",
-     "views": 267320,
-     "age_hours": 9,
-     "relevance": 0.71,
-     "velocity": 29702
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:EGXXrvwiX-A",
-     "url": "https://www.youtube.com/watch?v=EGXXrvwiX-A",
-     "title": "Microsoft investigates widespread Outlook and Teams outage",
-     "channel": "FOX 5 Washington DC",
-     "views": 192006,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 8000
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:9IgyhooRy4A",
-     "url": "https://www.youtube.com/watch?v=9IgyhooRy4A",
-     "title": "Microsoft Outage: Outlook, Teams, Copilot Hit as Over 1.3 Lakh Users Report Problems | N18S",
-     "channel": "CNBC-TV18",
-     "views": 39082,
-     "age_hours": 14,
-     "relevance": 0.75,
-     "velocity": 2792
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3cRg3JECSa4",
-     "url": "https://www.youtube.com/watch?v=3cRg3JECSa4",
-     "title": "Microsoft Outage Hits Outlook, Teams & Copilot; 130,000 Users Report Problems",
-     "channel": "NDTV Profit",
-     "views": 52148,
-     "age_hours": 19,
-     "relevance": 0.63,
-     "velocity": 2745
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:UReWU_7SX28",
-     "url": "https://www.youtube.com/watch?v=UReWU_7SX28",
-     "title": "Microsoft Outage: Outlook, Teams And Copilot Services Disrupted Worldwide",
-     "channel": "NDTV",
-     "views": 40074,
-     "age_hours": 19,
-     "relevance": 0.63,
-     "velocity": 2109
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7jtgFzruvVM",
-     "url": "https://www.youtube.com/watch?v=7jtgFzruvVM",
-     "title": "Microsoft OUTAGE CHAOS! Outlook, Teams, Copilot Down For 14+ Hours As 140,000 Reports Flood In",
-     "channel": "MIRROR NOW",
-     "views": 22951,
-     "age_hours": 12,
-     "relevance": 0.63,
-     "velocity": 1913
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-13T22:20:32.788Z"
   },
   {
    "first_seen": "2026-11-15T11:20:22.920Z",
