@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T14:48:38.872Z",
+ "generated_at": "2026-11-16T15:19:23.446Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: apple launches app study",
+   "ok": true
+  },
+  {
+   "source": "tiktok: apple launches app study",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
@@ -181,110 +190,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T16:21:12.843Z"
-  },
-  {
-   "first_seen": "2026-11-13T19:49:40.462Z",
-   "id": "39808694",
-   "ids": [
-    "39808694",
-    "39803063"
-   ],
-   "title": "Introducing ChatGPT Wallet",
-   "url": "https://openai.com/index/introducing-chatgpt-wallet",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-13 15:00:00",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "ChatGPT Wallet",
-     "url": "https://openai.com/index/introducing-chatgpt-wallet/"
-    }
-   ],
-   "queries": [
-    "Introducing ChatGPT Wallet",
-    "introducing chatgpt wallet"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Qsng1AY3q_g",
-     "url": "https://www.youtube.com/shorts/Qsng1AY3q_g",
-     "title": "OpenAI just introduced ChatGPT Wallet, allowing AI agents to shop #TechNews #explorepages #AI",
-     "channel": "",
-     "views": 492,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:EJyDl4-I4XE",
-     "url": "https://www.youtube.com/watch?v=EJyDl4-I4XE",
-     "title": "Introducing ChatGPT Wallet",
-     "channel": "Chris Messina",
-     "views": 185,
-     "age_hours": 20,
-     "relevance": 1,
-     "velocity": 9
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sx9_AuGtUEc",
-     "url": "https://www.youtube.com/shorts/sx9_AuGtUEc",
-     "title": "ChatGPT Wallet lets OpenAI's AI agents shop and check out with your card",
-     "channel": "",
-     "views": 162,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:z9gNrI8HHeM",
-     "url": "https://www.youtube.com/watch?v=z9gNrI8HHeM",
-     "title": "OpenAI Launches ChatGPT Wallet: Pro Only for Now",
-     "channel": "Shadow Lab Digital",
-     "views": 69,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iNxT6dwLPqc",
-     "url": "https://www.youtube.com/shorts/iNxT6dwLPqc",
-     "title": "OpenAI launches ChatGPT wallet #ai #chatgpt",
-     "channel": "",
-     "views": 103,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5VqladPSLdM",
-     "url": "https://www.youtube.com/shorts/5VqladPSLdM",
-     "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
-     "channel": "",
-     "views": 62,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-14T14:35:35.729Z"
   },
   {
    "first_seen": "2026-11-14T12:14:13.694Z",
@@ -690,7 +595,7 @@
    "source_id": "x-techcrunch",
    "published_ts": "2026-11-16 01:30:00",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
@@ -714,22 +619,22 @@
      "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
      "title": "Apple Launches an AI Health Study: What to Know #shorts",
      "channel": "",
-     "views": 141,
+     "views": 225,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oErMJg-6BRg",
-     "url": "https://www.youtube.com/shorts/oErMJg-6BRg",
-     "title": "Apple launches new app to study how people use AI for health #Shorts",
-     "channel": "",
-     "views": 21,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:YXNTDdamMeQ",
+     "url": "https://www.youtube.com/watch?v=YXNTDdamMeQ",
+     "title": "Apple Health AI Study App Explained: Free iPhone App That Answers Health Questions",
+     "channel": "In Theory Only",
+     "views": 1,
+     "age_hours": 0.3833333333333333,
+     "relevance": 0.63,
+     "velocity": 1
     },
     {
      "platform": "youtube",
@@ -738,7 +643,7 @@
      "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
      "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
      "channel": "",
-     "views": 11,
+     "views": 33,
      "age_hours": null,
      "relevance": 0.88,
      "velocity": null
@@ -746,11 +651,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:mGor-7P_0UI",
-     "url": "https://www.youtube.com/shorts/mGor-7P_0UI",
-     "title": "Apple Launches AI Health Study App 📱",
+     "id": "youtube:QKon_qwzQuk",
+     "url": "https://www.youtube.com/shorts/QKon_qwzQuk",
+     "title": "Apple launches new health AI study app",
      "channel": "",
-     "views": 6,
+     "views": 30,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -758,25 +663,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:d-WTWMxcuHw",
-     "url": "https://www.youtube.com/shorts/d-WTWMxcuHw",
-     "title": "Apple Begins US Study Of AI Health Tools | Tech News Today English",
+     "id": "youtube:ZG3md0Ck858",
+     "url": "https://www.youtube.com/shorts/ZG3md0Ck858",
+     "title": "Apple Launches Clinical Health AI Study for 200,000 Users #Shorts",
      "channel": "",
-     "views": 6,
+     "views": 25,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.63,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Bel86AmKoPQ",
-     "url": "https://www.youtube.com/shorts/Bel86AmKoPQ",
-     "title": "Apple Launches A Health AI Research Study",
+     "id": "youtube:kYt7mDQxUc8",
+     "url": "https://www.youtube.com/shorts/kYt7mDQxUc8",
+     "title": "Would You Share Sleep Data With Apple’s Health AI Study?",
      "channel": "",
-     "views": 5,
+     "views": 19,
      "age_hours": null,
-     "relevance": 0.83,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -784,7 +689,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-16T09:17:30.399Z"
+   "searched_at": "2026-11-16T15:19:27.680Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
