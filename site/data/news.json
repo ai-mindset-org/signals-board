@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:49:31.928Z",
+ "generated_at": "2026-11-16T22:36:05.094Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: advancing computer-use agents healthcare",
+   "ok": true
+  },
+  {
+   "source": "tiktok: advancing computer-use agents healthcare",
+   "ok": true
+  },
+  {
+   "source": "youtube: Nine Other Nations Sign Joint Declaration To Safeguard",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Nine Other Nations Sign Joint Declaration To Safeguard",
+   "ok": true
+  },
+  {
+   "source": "youtube: india nine other nations",
+   "ok": true
+  },
+  {
+   "source": "tiktok: india nine other nations",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-16T18:27:03.865Z",
@@ -299,7 +324,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-16 06:00:00",
    "story_sources": 3,
-   "score_norm": 70,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -313,15 +338,27 @@
     }
    ],
    "queries": [
-    "OpenAI Expands Computer-Use",
-    "openai expands computer-use healthcare"
+    "advancing computer-use agents healthcare"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gAIryYTYy74",
+     "url": "https://www.youtube.com/shorts/gAIryYTYy74",
+     "title": "Advancing computer-use agents for healthcare teams? before you ship #shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-16T16:25:45.123Z"
+   "searched_at": "2026-11-16T22:36:09.301Z"
   },
   {
    "first_seen": "2026-11-16T18:14:26.964Z",
@@ -335,7 +372,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-16 08:00:00",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "hn",
@@ -455,6 +492,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-16T13:26:46.139Z"
+  },
+  {
+   "first_seen": "2026-11-16T22:36:05.094Z",
+   "id": "39864052",
+   "ids": [
+    "39864052",
+    "39847683"
+   ],
+   "title": "India & Nine Other Nations Sign Joint Declaration To Safeguard AI Supply Chains",
+   "url": "https://inc42.com/buzz/india-nine-other-nations-sign-declaration-to-secure-ai-supply-chains/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-11-16 21:44:01",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "India, US, eight other nations sign declaration to safeguard AI supply chains",
+     "url": "https://www.thehindubusinessline.com/info-tech/india-us-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains/article71707048.ece"
+    }
+   ],
+   "queries": [
+    "Nine Other Nations Sign Joint Declaration To Safeguard",
+    "india nine other nations"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:EeW4VXhaC3A",
+     "url": "https://www.youtube.com/shorts/EeW4VXhaC3A",
+     "title": "U.S. and Nine Partners Agree to Protect AI Supply Chains",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-16T22:36:16.976Z"
   },
   {
    "first_seen": "2026-11-15T11:20:22.920Z",
