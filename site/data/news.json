@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T14:26:02.073Z",
+ "generated_at": "2026-11-16T14:48:38.872Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: US Targets China’s Remote Access",
-   "ok": true
-  },
-  {
-   "source": "tiktok: US Targets China’s Remote Access",
-   "ok": true
-  },
-  {
-   "source": "youtube: us targets china remote",
-   "ok": true
-  },
-  {
-   "source": "tiktok: us targets china remote",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
@@ -815,7 +798,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-16 01:11:40",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "engadget",
@@ -936,37 +919,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-13T21:49:50.054Z"
-  },
-  {
-   "first_seen": "2026-11-13T15:35:57.728Z",
-   "id": "39803331",
-   "ids": [
-    "39803331",
-    "39788065"
-   ],
-   "title": "Investigators have discovered that the top 4 Chinese AI labs all built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China.",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xv9pff/investigators_have_discovered_that_the_top_4/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-13 14:44:27",
-   "story_sources": 2,
-   "score_norm": 55,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
-     "url": "https://twitter.com/willdepue/status/2120992457630326841"
-    }
-   ],
-   "queries": [
-    "4 Chinese",
-    "investigators chinese nvidia blackwell"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-13T21:36:14.698Z"
   },
   {
    "first_seen": "2026-11-15T11:20:22.920Z",
