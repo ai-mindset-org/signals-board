@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T15:43:11.864Z",
+ "generated_at": "2026-11-16T16:12:51.101Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -380,109 +380,6 @@
    "searched_at": "2026-11-14T11:35:48.138Z"
   },
   {
-   "first_seen": "2026-11-13T16:49:54.153Z",
-   "id": "39805195",
-   "ids": [
-    "39805195",
-    "39804860"
-   ],
-   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-13 16:00:12",
-   "story_sources": 2,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "OpenAI’s ChatGPT Wallet lets its AI agents shop without seeing your card",
-     "url": "https://thenextweb.com/news/chatgpt-wallet-openai-dots-agents-payments"
-    }
-   ],
-   "queries": [
-    "chatgpt wallet lets ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5VqladPSLdM",
-     "url": "https://www.youtube.com/shorts/5VqladPSLdM",
-     "title": "OpenAI Launches ChatGPT Wallet: AI Agents Can Now Pay at Checkout #Shorts",
-     "channel": "",
-     "views": 53,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ozM2Gh6eqLQ",
-     "url": "https://www.youtube.com/shorts/ozM2Gh6eqLQ",
-     "title": "OpenAI Launches ChatGPT Wallet",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ctmxkCP_aQU",
-     "url": "https://www.youtube.com/shorts/ctmxkCP_aQU",
-     "title": "ChatGPT Wallet Is Here: Your AI Can Now Shop for You",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rMUYXALR9no",
-     "url": "https://www.youtube.com/shorts/rMUYXALR9no",
-     "title": "OpenAI launches ChatGPT Wallet for AI agents to make secure purchases",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3pcSDtqFKuE",
-     "url": "https://www.youtube.com/shorts/3pcSDtqFKuE",
-     "title": "ChatGPT Wallet: Your AI Agent Can Now Pay For You",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Tmo5EiWoCEE",
-     "url": "https://www.youtube.com/shorts/Tmo5EiWoCEE",
-     "title": "ChatGPT Wallet Explained: How AI Agents Pay for You",
-     "channel": "",
-     "views": 14,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-14T11:35:51.685Z"
-  },
-  {
    "first_seen": "2026-11-14T10:20:14.224Z",
    "id": "39809563",
    "ids": [
@@ -814,50 +711,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-15T23:49:29.382Z"
-  },
-  {
-   "first_seen": "2026-11-13T17:10:10.722Z",
-   "id": "39805339",
-   "ids": [
-    "39805339",
-    "39801125"
-   ],
-   "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
-   "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
-   "source_id": "in-marktechpost",
-   "published_ts": "2026-11-13 16:10:02",
-   "story_sources": 2,
-   "score_norm": 52,
-   "related_news": [
-    {
-     "source_id": "reddit-localllama",
-     "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
-     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/"
-    }
-   ],
-   "queries": [
-    "Perplexity Releases Decider",
-    "perplexity releases decider v1.3"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:h5s3mVDbiJ0",
-     "url": "https://www.youtube.com/shorts/h5s3mVDbiJ0",
-     "title": "Perplexity ships Decider v1.3 and Decider Flash v1.3 #shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-14T05:20:56.373Z"
   }
  ]
 }
