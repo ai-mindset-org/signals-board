@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:36:05.094Z",
+ "generated_at": "2026-11-16T23:20:14.683Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: advancing computer-use agents healthcare",
+   "source": "youtube: broadening access ai scientists",
    "ok": true
   },
   {
-   "source": "tiktok: advancing computer-use agents healthcare",
-   "ok": true
-  },
-  {
-   "source": "youtube: Nine Other Nations Sign Joint Declaration To Safeguard",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Nine Other Nations Sign Joint Declaration To Safeguard",
-   "ok": true
-  },
-  {
-   "source": "youtube: india nine other nations",
-   "ok": true
-  },
-  {
-   "source": "tiktok: india nine other nations",
+   "source": "tiktok: broadening access ai scientists",
    "ok": true
   }
  ],
@@ -260,6 +244,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T18:22:55.982Z"
+  },
+  {
+   "first_seen": "2026-11-16T23:20:14.683Z",
+   "id": "39864605",
+   "ids": [
+    "39864605",
+    "39858181"
+   ],
+   "title": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-16 17:00:00",
+   "story_sources": 2,
+   "score_norm": 90,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Broadening Access to AI for Scientists",
+     "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/"
+    }
+   ],
+   "queries": [
+    "broadening access ai scientists"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RBM3HjHXKnk",
+     "url": "https://www.youtube.com/shorts/RBM3HjHXKnk",
+     "title": "OpenAI: Broadening access to AI for scientists",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-16T23:20:18.918Z"
   },
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
