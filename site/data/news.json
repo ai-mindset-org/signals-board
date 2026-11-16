@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T23:49:25.248Z",
+ "generated_at": "2026-11-16T00:35:28.555Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: measure oracle ai results",
-   "ok": true
-  },
-  {
-   "source": "tiktok: measure oracle ai results",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -648,110 +639,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-13T21:49:50.054Z"
-  },
-  {
-   "first_seen": "2026-11-13T00:30:00.198Z",
-   "id": "39790391",
-   "ids": [
-    "39790391",
-    "39784006"
-   ],
-   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
-   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
-   "source_id": "reddit-localllama",
-   "published_ts": "2026-11-13 00:11:18",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
-    }
-   ],
-   "queries": [
-    "Hugging Face CEO",
-    "hugging face ceo jensen"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nS-yvvNQnsA",
-     "url": "https://www.youtube.com/shorts/nS-yvvNQnsA",
-     "title": "Rise and fall of Nvidia CEO Jensen Huang",
-     "channel": "",
-     "views": 348000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hEV8b5jNbYg",
-     "url": "https://www.youtube.com/watch?v=hEV8b5jNbYg",
-     "title": "What happens to Nvidia without Jensen Huang?",
-     "channel": "Machine Gods and 2 more",
-     "views": 352,
-     "age_hours": 0.8166666666666667,
-     "relevance": 0.5,
-     "velocity": 352
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LDPLVz73dgg",
-     "url": "https://www.youtube.com/watch?v=LDPLVz73dgg",
-     "title": "Jensen Huang Is Gone. What Happens to Your AI Now?",
-     "channel": "Devsplainers",
-     "views": 3621,
-     "age_hours": 14,
-     "relevance": 0.6,
-     "velocity": 259
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RMmBx_cioNo",
-     "url": "https://www.youtube.com/shorts/RMmBx_cioNo",
-     "title": "Why AI Agents Really Hacked Hugging Face",
-     "channel": "",
-     "views": 199,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PHb8t3Ia-mA",
-     "url": "https://www.youtube.com/shorts/PHb8t3Ia-mA",
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Fea0vj6vYng",
-     "url": "https://www.youtube.com/shorts/Fea0vj6vYng",
-     "title": "Hugging Face CEO Defends Open Source AI After Jensen Huang Exit #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.82,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-13T12:50:07.529Z"
   },
   {
    "first_seen": "2026-11-13T15:35:57.728Z",
