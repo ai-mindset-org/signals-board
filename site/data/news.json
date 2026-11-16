@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:58:04.021Z",
+ "generated_at": "2026-11-16T09:17:25.893Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: gifs chatgpt engadget can",
+   "source": "youtube: apple launches app study",
    "ok": true
   },
   {
-   "source": "tiktok: gifs chatgpt engadget can",
+   "source": "tiktok: apple launches app study",
    "ok": true
   }
  ],
@@ -331,7 +331,7 @@
    "source_id": "x-techcrunch",
    "published_ts": "2026-11-16 01:30:00",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "hn",
@@ -346,25 +346,49 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:RMbJj3aCP74",
-     "url": "https://www.youtube.com/shorts/RMbJj3aCP74",
-     "title": "New Apple CEO More AI",
+     "id": "youtube:ybBoMjmSijo",
+     "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
+     "title": "Apple Launches an AI Health Study: What to Know #shorts",
      "channel": "",
-     "views": 81000,
+     "views": 141,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:W7oWVITgFMc",
-     "url": "https://www.youtube.com/shorts/W7oWVITgFMc",
-     "title": "Apple Local AI FINALLY",
+     "id": "youtube:oErMJg-6BRg",
+     "url": "https://www.youtube.com/shorts/oErMJg-6BRg",
+     "title": "Apple launches new app to study how people use AI for health #Shorts",
      "channel": "",
-     "views": 3900,
+     "views": 21,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Vhy3lptKbdA",
+     "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
+     "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.88,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mGor-7P_0UI",
+     "url": "https://www.youtube.com/shorts/mGor-7P_0UI",
+     "title": "Apple Launches AI Health Study App 📱",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 1,
      "velocity": null
     },
     {
@@ -374,17 +398,29 @@
      "url": "https://www.youtube.com/shorts/d-WTWMxcuHw",
      "title": "Apple Begins US Study Of AI Health Tools | Tech News Today English",
      "channel": "",
-     "views": 4,
+     "views": 6,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bel86AmKoPQ",
+     "url": "https://www.youtube.com/shorts/Bel86AmKoPQ",
+     "title": "Apple Launches A Health AI Research Study",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.83,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-16T03:15:23.792Z"
+   "searched_at": "2026-11-16T09:17:30.399Z"
   },
   {
    "first_seen": "2026-11-13T17:10:10.722Z",
@@ -606,7 +642,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-16 01:11:40",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "engadget",
