@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:12:12.399Z",
+ "generated_at": "2026-11-16T20:22:17.040Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -421,12 +421,13 @@
    "ids": [
     "39855843",
     "39856412",
-    "39857717"
+    "39857717",
+    "39861786"
    ],
-   "title": "OpenAI adds computer-use agents and plugins to ChatGPT for Healthcare",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xxujs0/openai_adds_computeruse_agents_and_plugins_to/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-16 16:55:40",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-16 06:00:00",
    "story_sources": 3,
    "score_norm": 69,
    "related_news": [
