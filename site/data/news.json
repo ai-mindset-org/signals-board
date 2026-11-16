@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T00:35:28.555Z",
+ "generated_at": "2026-11-16T03:15:19.837Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: apple launches app study",
+   "ok": true
+  },
+  {
+   "source": "tiktok: apple launches app study",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -309,6 +318,73 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T18:22:55.982Z"
+  },
+  {
+   "first_seen": "2026-11-16T03:15:19.837Z",
+   "id": "39845225",
+   "ids": [
+    "39845225",
+    "39844471"
+   ],
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-11-16 01:30:00",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Apple launches research study to explore the use of AI for health",
+     "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+    }
+   ],
+   "queries": [
+    "apple launches app study"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RMbJj3aCP74",
+     "url": "https://www.youtube.com/shorts/RMbJj3aCP74",
+     "title": "New Apple CEO More AI",
+     "channel": "",
+     "views": 81000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:W7oWVITgFMc",
+     "url": "https://www.youtube.com/shorts/W7oWVITgFMc",
+     "title": "Apple Local AI FINALLY",
+     "channel": "",
+     "views": 3900,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:d-WTWMxcuHw",
+     "url": "https://www.youtube.com/shorts/d-WTWMxcuHw",
+     "title": "Apple Begins US Study Of AI Health Tools | Tech News Today English",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-16T03:15:23.792Z"
   },
   {
    "first_seen": "2026-11-13T17:10:10.722Z",
@@ -781,6 +857,36 @@
    "searched_at": "2026-11-13T22:20:32.788Z"
   },
   {
+   "first_seen": "2026-11-15T11:20:22.920Z",
+   "id": "39834925",
+   "ids": [
+    "39834925",
+    "39833848"
+   ],
+   "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
+   "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-15 09:31:47",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson",
+     "url": "https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece"
+    }
+   ],
+   "queries": [
+    "measure oracle ai results"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-15T23:49:29.382Z"
+  },
+  {
    "first_seen": "2026-11-13T17:10:10.722Z",
    "id": "39805339",
    "ids": [
@@ -823,36 +929,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-14T05:20:56.373Z"
-  },
-  {
-   "first_seen": "2026-11-15T11:20:22.920Z",
-   "id": "39834925",
-   "ids": [
-    "39834925",
-    "39833848"
-   ],
-   "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
-   "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-15 09:31:47",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson",
-     "url": "https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece"
-    }
-   ],
-   "queries": [
-    "measure oracle ai results"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-15T23:49:29.382Z"
   },
   {
    "first_seen": "2026-11-13T14:49:51.295Z",
