@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:37:07.741Z",
+ "generated_at": "2026-11-17T13:49:49.945Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Isomorphic Labs Raises 5 Billion",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Isomorphic Labs Raises 5 Billion",
-   "ok": true
-  },
-  {
-   "source": "youtube: isomorphic labs raises billion",
-   "ok": true
-  },
-  {
-   "source": "tiktok: isomorphic labs raises billion",
-   "ok": true
-  },
-  {
-   "source": "youtube: Gemini Notebooks",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini Notebooks",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini notebooks so notizen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini notebooks so notizen",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-16T18:27:03.865Z",
@@ -445,7 +412,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-17 08:46:20",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -519,11 +486,6 @@
      "source_id": "hn",
      "title": "US to curb China's access to AI chips",
      "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
-    },
-    {
-     "source_id": "hn",
-     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
     }
    ],
    "queries": [
