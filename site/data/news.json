@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:09:55.618Z",
+ "generated_at": "2026-11-17T19:49:41.808Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: Introducing GPT-6.2 Astra",
+   "source": "youtube: Isomorphic Labs Raises 5 Billion",
    "ok": true
   },
   {
-   "source": "tiktok: Introducing GPT-6.2 Astra",
+   "source": "tiktok: Isomorphic Labs Raises 5 Billion",
    "ok": true
   },
   {
-   "source": "youtube: introducing gpt-6.2 astra sol",
+   "source": "youtube: isomorphic labs raises billion",
    "ok": true
   },
   {
-   "source": "tiktok: introducing gpt-6.2 astra sol",
+   "source": "tiktok: isomorphic labs raises billion",
+   "ok": true
+  },
+  {
+   "source": "youtube: Gemini Notebooks",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Gemini Notebooks",
+   "ok": true
+  },
+  {
+   "source": "youtube: gemini notebooks so notizen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gemini notebooks so notizen",
    "ok": true
   }
  ],
@@ -1251,12 +1267,85 @@
     "Isomorphic Labs Raises 5 Billion",
     "isomorphic labs raises billion"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:12xT60UYJcM",
+     "url": "https://www.youtube.com/shorts/12xT60UYJcM",
+     "title": "Isomorphic Labs just raised $5 billion to design new medicines with AI (Series C, announced November",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uNlPAQR86YY",
+     "url": "https://www.youtube.com/shorts/uNlPAQR86YY",
+     "title": "Demis Hassabis's Isomorphic Labs raises $5B to design drugs with AI",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gh_fHpEoGbg",
+     "url": "https://www.youtube.com/shorts/gh_fHpEoGbg",
+     "title": "Alphabet AI drug firm Isomorphic Labs raises 5 billion dollars",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2051VH1jLIM",
+     "url": "https://www.youtube.com/shorts/2051VH1jLIM",
+     "title": "Isomorphic Labs raises $5B for AI drug trials | codemago.dev/news",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:J8h308IPQNU",
+     "url": "https://www.youtube.com/shorts/J8h308IPQNU",
+     "title": "Isomorphic Labs Just Raised $5B to Design Drugs With AI",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f4SYmRrF1Y4",
+     "url": "https://www.youtube.com/shorts/f4SYmRrF1Y4",
+     "title": "Isomorphic Labs Raises $5 Billion to Move AI-Designed Drugs Toward Clinical Trials #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-17T13:37:16.063Z"
+   "searched_at": "2026-11-17T19:50:10.527Z"
   },
   {
    "first_seen": "2026-11-17T17:35:56.783Z",
@@ -1501,7 +1590,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-17T13:37:23.181Z"
+   "searched_at": "2026-11-17T19:50:17.653Z"
   },
   {
    "first_seen": "2026-11-17T09:36:50.612Z",
