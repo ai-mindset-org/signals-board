@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T09:36:50.612Z",
+ "generated_at": "2026-11-17T10:49:44.093Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Pragya Misra",
+   "source": "youtube: openai chatgpt healthcare adds",
    "ok": true
   },
   {
-   "source": "tiktok: Pragya Misra",
-   "ok": true
-  },
-  {
-   "source": "youtube: pragya misra openai india",
-   "ok": true
-  },
-  {
-   "source": "tiktok: pragya misra openai india",
-   "ok": true
-  },
-  {
-   "source": "youtube: singapore us semafor presses",
-   "ok": true
-  },
-  {
-   "source": "tiktok: singapore us semafor presses",
-   "ok": true
-  },
-  {
-   "source": "youtube: california openai sues misleading",
-   "ok": true
-  },
-  {
-   "source": "tiktok: california openai sues misleading",
+   "source": "tiktok: openai chatgpt healthcare adds",
    "ok": true
   }
  ],
@@ -232,7 +208,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-17 08:44:46",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -263,7 +239,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-17 08:46:20",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -295,7 +271,7 @@
    "source_id": "x-arstechnica",
    "published_ts": "2026-11-16 19:10:09",
    "story_sources": 3,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -400,19 +376,79 @@
     }
    ],
    "queries": [
-    "advancing computer-use agents healthcare"
+    "openai chatgpt healthcare adds"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:gAIryYTYy74",
-     "url": "https://www.youtube.com/shorts/gAIryYTYy74",
-     "title": "Advancing computer-use agents for healthcare teams? before you ship #shorts",
+     "id": "youtube:5jDwyy9anVA",
+     "url": "https://www.youtube.com/shorts/5jDwyy9anVA",
+     "title": "OpenAI's AI Agents Enter Healthcare #Shorts",
      "channel": "",
-     "views": 1,
+     "views": 11,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:k7zroM2DO1U",
+     "url": "https://www.youtube.com/shorts/k7zroM2DO1U",
+     "title": "OpenAI healthcare agents: 20+ plugins, clinician access and privacy limits #Shorts",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8fEwTmbGV2Y",
+     "url": "https://www.youtube.com/shorts/8fEwTmbGV2Y",
+     "title": "OpenAI Agents Now Click Through Healthcare Software",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wPoybc9OPY0",
+     "url": "https://www.youtube.com/shorts/wPoybc9OPY0",
+     "title": "OpenAI Launches Healthcare AI Agents #Shorts",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5yThnvb-_44",
+     "url": "https://www.youtube.com/shorts/5yThnvb-_44",
+     "title": "OpenAI Unveils ChatGPT for Healthcare Solutions",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IZFMqfJYfCc",
+     "url": "https://www.youtube.com/shorts/IZFMqfJYfCc",
+     "title": "ChatGPT for Healthcare Adds 20-Plus Plugins and Computer-Use Agents",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.86,
      "velocity": null
     }
    ],
@@ -420,7 +456,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-17T04:36:50.733Z"
+   "searched_at": "2026-11-17T10:49:48.642Z"
   },
   {
    "first_seen": "2026-11-16T18:14:26.964Z",
