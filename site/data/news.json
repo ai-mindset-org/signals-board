@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T23:35:48.308Z",
+ "generated_at": "2026-11-17T00:30:13.064Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: california openai sues dangerous",
+   "source": "youtube: strengthening fight against online",
    "ok": true
   },
   {
-   "source": "tiktok: california openai sues dangerous",
+   "source": "tiktok: strengthening fight against online",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai news our first",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai news our first",
    "ok": true
   }
  ],
@@ -46,7 +54,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-16T18:27:08.251Z"
+   "searched_at": "2026-11-17T00:30:17.362Z"
   },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -289,6 +297,42 @@
    "searched_at": "2026-11-16T23:20:18.918Z"
   },
   {
+   "first_seen": "2026-11-16T18:14:26.964Z",
+   "id": "39859233",
+   "ids": [
+    "39859233",
+    "39856271",
+    "39865804"
+   ],
+   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-17 00:03:21",
+   "story_sources": 3,
+   "score_norm": 90,
+   "related_news": [
+    {
+     "source_id": "openai-blog",
+     "title": "Our first phase of embedded assessments",
+     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+    },
+    {
+     "source_id": "hn",
+     "title": "First phase of embedded assessments at OpenAI",
+     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    }
+   ],
+   "queries": [
+    "openai news our first"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T00:30:21.029Z"
+  },
+  {
    "first_seen": "2026-11-16T14:26:02.073Z",
    "id": "39853697",
    "ids": [
@@ -399,7 +443,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-16 23:16:48",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
@@ -489,36 +533,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-16T23:35:52.729Z"
-  },
-  {
-   "first_seen": "2026-11-16T18:14:26.964Z",
-   "id": "39859233",
-   "ids": [
-    "39859233",
-    "39856271"
-   ],
-   "title": "Our first phase of embedded assessments",
-   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-16 08:00:00",
-   "story_sources": 2,
-   "score_norm": 63,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "First phase of embedded assessments at OpenAI",
-     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    }
-   ],
-   "queries": [
-    "our first phase embedded"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-16T18:14:31.402Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
