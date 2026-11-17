@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T09:13:08.872Z",
+ "generated_at": "2026-11-17T09:36:50.612Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: NVIDIA CUDA-X Libraries Give",
+   "source": "youtube: Pragya Misra",
    "ok": true
   },
   {
-   "source": "tiktok: NVIDIA CUDA-X Libraries Give",
+   "source": "tiktok: Pragya Misra",
    "ok": true
   },
   {
-   "source": "youtube: nvidia cuda-x libraries give",
+   "source": "youtube: pragya misra openai india",
    "ok": true
   },
   {
-   "source": "tiktok: nvidia cuda-x libraries give",
+   "source": "tiktok: pragya misra openai india",
+   "ok": true
+  },
+  {
+   "source": "youtube: singapore us semafor presses",
+   "ok": true
+  },
+  {
+   "source": "tiktok: singapore us semafor presses",
+   "ok": true
+  },
+  {
+   "source": "youtube: california openai sues misleading",
+   "ok": true
+  },
+  {
+   "source": "tiktok: california openai sues misleading",
    "ok": true
   }
  ],
@@ -205,6 +221,67 @@
    "searched_at": "2026-11-17T05:22:07.195Z"
   },
   {
+   "first_seen": "2026-11-17T09:36:50.612Z",
+   "id": "39872302",
+   "ids": [
+    "39872302",
+    "39872834"
+   ],
+   "title": "Pragya Misra to lead OpenAI's business development in India and South Asia",
+   "url": "https://yourstory.com/2026/11/pragya-misra-lead-openais-business-development-india-and-south-asia",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-17 08:44:46",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "OpenAI names Pragya Mishra head of business development for India, South Asia",
+     "url": "https://www.thehindubusinessline.com/info-tech/openai-names-pragya-mishra-head-of-business-development-for-india-south-asia/article71711092.ece"
+    }
+   ],
+   "queries": [
+    "Pragya Misra",
+    "pragya misra openai india"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T09:36:57.885Z"
+  },
+  {
+   "first_seen": "2026-11-17T09:36:50.612Z",
+   "id": "39872740",
+   "ids": [
+    "39872740",
+    "39868139"
+   ],
+   "title": "Singapore presses US on new AI chip export rules, minister tells Semafor",
+   "url": "https://thenextweb.com/news/singapore-presses-us-on-new-ai-chip-export-rules-minister-tells-semafor",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-17 08:46:20",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "US tightens AI chip export rules for Singapore, Malaysia",
+     "url": "https://www.techinasia.com/news/tightens-ai-chip-export-rules-singapore-malaysia"
+    }
+   ],
+   "queries": [
+    "singapore us semafor presses"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T09:37:01.378Z"
+  },
+  {
    "first_seen": "2026-11-16T14:26:02.073Z",
    "id": "39853697",
    "ids": [
@@ -358,7 +435,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-17 00:03:21",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "hn",
@@ -594,7 +671,7 @@
    "source_id": "theregister",
    "published_ts": "2026-11-16 23:43:17",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "hn",
@@ -609,49 +686,25 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:OL-nPrT8Hek",
-     "url": "https://www.youtube.com/watch?v=OL-nPrT8Hek",
-     "title": "California Sues OpenAI For Allegedly Endangering The Public With High Profile Hacking Incidents",
-     "channel": "Forbes Breaking News",
-     "views": 9457,
-     "age_hours": 3,
+     "id": "youtube:WYFbG93a64E",
+     "url": "https://www.youtube.com/watch?v=WYFbG93a64E",
+     "title": "California Sues OpenAI Over Runaway AI Agents #Shorts",
+     "channel": "AI Coalition Network",
+     "views": 12,
+     "age_hours": 0.6,
      "relevance": 0.57,
-     "velocity": 3152
+     "velocity": 12
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:O41gZB5IicU",
-     "url": "https://www.youtube.com/watch?v=O41gZB5IicU",
-     "title": "California Sues OpenAI Over AI Agents It Says Escaped Testing #Shorts",
-     "channel": "Artificial Intelligence (AI News)",
-     "views": 36,
-     "age_hours": 7,
+     "id": "youtube:tnsW021VoVk",
+     "url": "https://www.youtube.com/watch?v=tnsW021VoVk",
+     "title": "California Takes OpenAI To Court Over AI Safety | Artificial Intelligence News",
+     "channel": "IBI Artificial Intelligence News",
+     "views": 1,
+     "age_hours": 2,
      "relevance": 0.57,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eZHXrlyuVIk",
-     "url": "https://www.youtube.com/watch?v=eZHXrlyuVIk",
-     "title": "California sues OpenAI after its AI models escaped a test and hacked Hugging Face.",
-     "channel": "EODHD Financial APIs ",
-     "views": 8,
-     "age_hours": 5,
-     "relevance": 0.57,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CVR963I5FCI",
-     "url": "https://www.youtube.com/watch?v=CVR963I5FCI",
-     "title": "California sues OpenAI: what we know",
-     "channel": "iME ( iMadeitEZ )",
-     "views": 5,
-     "age_hours": 6,
-     "relevance": 0.6,
      "velocity": 1
     },
     {
@@ -661,29 +714,29 @@
      "url": "https://www.youtube.com/watch?v=wlGMtIZf3lA",
      "title": "AI News: California Sues OpenAI, AI Cyberattacks and Healthcare Agents",
      "channel": "BriefReplay AI",
-     "views": 1,
-     "age_hours": 2,
+     "views": 8,
+     "age_hours": 8,
      "relevance": 0.57,
      "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:AvemXiH0cSw",
-     "url": "https://www.youtube.com/watch?v=AvemXiH0cSw",
-     "title": "California sues OpenAI: its AI agents hacked Hugging Face #openai",
-     "channel": "TiziriTech",
-     "views": 8,
-     "age_hours": 7,
-     "relevance": 0.57,
-     "velocity": 1
+     "id": "youtube:un80por4Wj0",
+     "url": "https://www.youtube.com/watch?v=un80por4Wj0",
+     "title": "California Sues OpenAI for Misleading the Public on AI Safety",
+     "channel": "BreakingNewsAI",
+     "views": 0,
+     "age_hours": 0.75,
+     "relevance": 1,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-17T03:26:20.273Z"
+   "searched_at": "2026-11-17T09:37:04.889Z"
   },
   {
    "first_seen": "2026-11-16T22:36:05.094Z",
