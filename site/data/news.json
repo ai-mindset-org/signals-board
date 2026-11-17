@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T04:36:46.464Z",
+ "generated_at": "2026-11-17T05:11:37.486Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: advancing computer-use agents healthcare",
-   "ok": true
-  },
-  {
-   "source": "tiktok: advancing computer-use agents healthcare",
-   "ok": true
-  },
-  {
-   "source": "youtube: Nine Other Nations Sign Joint Declaration To Safeguard",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Nine Other Nations Sign Joint Declaration To Safeguard",
-   "ok": true
-  },
-  {
-   "source": "youtube: india nine other nations",
-   "ok": true
-  },
-  {
-   "source": "tiktok: india nine other nations",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-16T18:27:03.865Z",
@@ -312,17 +287,17 @@
     "39856271",
     "39865804"
    ],
-   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-17 00:03:21",
+   "title": "Our first phase of embedded assessments",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-16 08:00:00",
    "story_sources": 3,
    "score_norm": 87,
    "related_news": [
     {
-     "source_id": "openai-blog",
-     "title": "Our first phase of embedded assessments",
-     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+     "source_id": "x-reddit",
+     "title": "OpenAI News: \"Our first phase of embedded assessments\"",
+     "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/"
     },
     {
      "source_id": "hn",
@@ -354,7 +329,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-16 06:00:00",
    "story_sources": 3,
-   "score_norm": 74,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
