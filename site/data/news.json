@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:19:19.647Z",
+ "generated_at": "2026-11-17T06:42:06.526Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: strengthening fight against online",
+   "ok": true
+  },
+  {
+   "source": "tiktok: strengthening fight against online",
+   "ok": true
+  },
+  {
+   "source": "youtube: our first phase embedded",
+   "ok": true
+  },
+  {
+   "source": "tiktok: our first phase embedded",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-16T18:27:03.865Z",
@@ -37,7 +54,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-17T00:30:17.362Z"
+   "searched_at": "2026-11-17T06:42:10.768Z"
   },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -306,14 +323,14 @@
     }
    ],
    "queries": [
-    "openai news our first"
+    "our first phase embedded"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-17T00:30:21.029Z"
+   "searched_at": "2026-11-17T06:42:14.466Z"
   },
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
@@ -536,109 +553,6 @@
    "searched_at": "2026-11-17T05:36:27.369Z"
   },
   {
-   "first_seen": "2026-11-17T03:26:16.056Z",
-   "id": "39868161",
-   "ids": [
-    "39868161",
-    "39864339"
-   ],
-   "title": "California sues OpenAI for misleading public about AI safety",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
-   "source_id": "theregister",
-   "published_ts": "2026-11-16 23:43:17",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "California Sues OpenAI over A.I. Safety Issues",
-     "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html"
-    }
-   ],
-   "queries": [
-    "california openai sues misleading"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OL-nPrT8Hek",
-     "url": "https://www.youtube.com/watch?v=OL-nPrT8Hek",
-     "title": "California Sues OpenAI For Allegedly Endangering The Public With High Profile Hacking Incidents",
-     "channel": "Forbes Breaking News",
-     "views": 9457,
-     "age_hours": 3,
-     "relevance": 0.57,
-     "velocity": 3152
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:O41gZB5IicU",
-     "url": "https://www.youtube.com/watch?v=O41gZB5IicU",
-     "title": "California Sues OpenAI Over AI Agents It Says Escaped Testing #Shorts",
-     "channel": "Artificial Intelligence (AI News)",
-     "views": 36,
-     "age_hours": 7,
-     "relevance": 0.57,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eZHXrlyuVIk",
-     "url": "https://www.youtube.com/watch?v=eZHXrlyuVIk",
-     "title": "California sues OpenAI after its AI models escaped a test and hacked Hugging Face.",
-     "channel": "EODHD Financial APIs ",
-     "views": 8,
-     "age_hours": 5,
-     "relevance": 0.57,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CVR963I5FCI",
-     "url": "https://www.youtube.com/watch?v=CVR963I5FCI",
-     "title": "California sues OpenAI: what we know",
-     "channel": "iME ( iMadeitEZ )",
-     "views": 5,
-     "age_hours": 6,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wlGMtIZf3lA",
-     "url": "https://www.youtube.com/watch?v=wlGMtIZf3lA",
-     "title": "AI News: California Sues OpenAI, AI Cyberattacks and Healthcare Agents",
-     "channel": "BriefReplay AI",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:AvemXiH0cSw",
-     "url": "https://www.youtube.com/watch?v=AvemXiH0cSw",
-     "title": "California sues OpenAI: its AI agents hacked Hugging Face #openai",
-     "channel": "TiziriTech",
-     "views": 8,
-     "age_hours": 7,
-     "relevance": 0.57,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T03:26:20.273Z"
-  },
-  {
    "first_seen": "2026-11-16T06:58:04.021Z",
    "id": "39847363",
    "ids": [
@@ -740,6 +654,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-16T13:26:46.139Z"
+  },
+  {
+   "first_seen": "2026-11-17T03:26:16.056Z",
+   "id": "39868161",
+   "ids": [
+    "39868161",
+    "39864339"
+   ],
+   "title": "California sues OpenAI for misleading public about AI safety",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
+   "source_id": "theregister",
+   "published_ts": "2026-11-16 23:43:17",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "California Sues OpenAI over A.I. Safety Issues",
+     "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html"
+    }
+   ],
+   "queries": [
+    "california openai sues misleading"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OL-nPrT8Hek",
+     "url": "https://www.youtube.com/watch?v=OL-nPrT8Hek",
+     "title": "California Sues OpenAI For Allegedly Endangering The Public With High Profile Hacking Incidents",
+     "channel": "Forbes Breaking News",
+     "views": 9457,
+     "age_hours": 3,
+     "relevance": 0.57,
+     "velocity": 3152
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:O41gZB5IicU",
+     "url": "https://www.youtube.com/watch?v=O41gZB5IicU",
+     "title": "California Sues OpenAI Over AI Agents It Says Escaped Testing #Shorts",
+     "channel": "Artificial Intelligence (AI News)",
+     "views": 36,
+     "age_hours": 7,
+     "relevance": 0.57,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:eZHXrlyuVIk",
+     "url": "https://www.youtube.com/watch?v=eZHXrlyuVIk",
+     "title": "California sues OpenAI after its AI models escaped a test and hacked Hugging Face.",
+     "channel": "EODHD Financial APIs ",
+     "views": 8,
+     "age_hours": 5,
+     "relevance": 0.57,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CVR963I5FCI",
+     "url": "https://www.youtube.com/watch?v=CVR963I5FCI",
+     "title": "California sues OpenAI: what we know",
+     "channel": "iME ( iMadeitEZ )",
+     "views": 5,
+     "age_hours": 6,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wlGMtIZf3lA",
+     "url": "https://www.youtube.com/watch?v=wlGMtIZf3lA",
+     "title": "AI News: California Sues OpenAI, AI Cyberattacks and Healthcare Agents",
+     "channel": "BriefReplay AI",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:AvemXiH0cSw",
+     "url": "https://www.youtube.com/watch?v=AvemXiH0cSw",
+     "title": "California sues OpenAI: its AI agents hacked Hugging Face #openai",
+     "channel": "TiziriTech",
+     "views": 8,
+     "age_hours": 7,
+     "relevance": 0.57,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T03:26:20.273Z"
   },
   {
    "first_seen": "2026-11-16T22:36:05.094Z",
