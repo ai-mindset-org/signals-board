@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T10:49:44.093Z",
+ "generated_at": "2026-11-17T11:10:28.641Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai chatgpt healthcare adds",
+   "source": "youtube: every agent database user",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt healthcare adds",
+   "source": "tiktok: every agent database user",
    "ok": true
   }
  ],
@@ -208,7 +208,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-17 08:44:46",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -459,6 +459,109 @@
    "searched_at": "2026-11-17T10:49:48.642Z"
   },
   {
+   "first_seen": "2026-11-17T11:10:28.641Z",
+   "id": "39873994",
+   "ids": [
+    "39873994",
+    "39854122"
+   ],
+   "title": "Every agent is a database user",
+   "url": "https://www.itweb.co.za/article/every-agent-is-a-database-user/rxP3jqBEJrxMA2ye",
+   "source_id": "africa-itweb",
+   "published_ts": "2026-11-17 09:01:00",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "za-techcentral",
+     "title": "Every agent is a database user",
+     "url": "https://techcentral.co.za/every-agent-database-user-ai-agent-governance/288467/"
+    }
+   ],
+   "queries": [
+    "every agent database user"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fhMANHTYxaM",
+     "url": "https://www.youtube.com/watch?v=fhMANHTYxaM",
+     "title": "I Predicted Where Every MLB Free Agent Will Sign!",
+     "channel": "Jolly Olive",
+     "views": 95416,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 1988
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RIV94SJhuYI",
+     "url": "https://www.youtube.com/shorts/RIV94SJhuYI",
+     "title": "How every agent enters the site in 2026🤔I Valorant l  #gaming #valorantclutchmoments #valorant",
+     "channel": "",
+     "views": 1900,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9V8UdaGtgHk",
+     "url": "https://www.youtube.com/shorts/9V8UdaGtgHk",
+     "title": "Plannotator Puts Every Agent Plan, Diff, and Question in One Inbox",
+     "channel": "",
+     "views": 485,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:oNz1Uw1usMo",
+     "url": "https://www.youtube.com/shorts/oNz1Uw1usMo",
+     "title": "576 - A whole company just gave every employee an agent",
+     "channel": "",
+     "views": 146,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JfNGjZHiZIU",
+     "url": "https://www.youtube.com/shorts/JfNGjZHiZIU",
+     "title": "6.5K ⭐ One Dashboard for Every AI Agent You Run",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XDVS6AyfI60",
+     "url": "https://www.youtube.com/shorts/XDVS6AyfI60",
+     "title": "Every agent on your team has a name.",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-17T11:10:32.761Z"
+  },
+  {
    "first_seen": "2026-11-16T18:14:26.964Z",
    "id": "39859233",
    "ids": [
@@ -501,7 +604,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-16 23:16:48",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
