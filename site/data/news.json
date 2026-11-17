@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:49:36.719Z",
+ "generated_at": "2026-11-17T12:16:54.816Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: AA Decision Index",
+   "source": "youtube: kann idee chatgpt man",
    "ok": true
   },
   {
-   "source": "tiktok: AA Decision Index",
-   "ok": true
-  },
-  {
-   "source": "youtube: liquid releases d1.2 d1.2-ultra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: liquid releases d1.2 d1.2-ultra",
-   "ok": true
-  },
-  {
-   "source": "youtube: california openai sues dangerous",
-   "ok": true
-  },
-  {
-   "source": "tiktok: california openai sues dangerous",
+   "source": "tiktok: kann idee chatgpt man",
    "ok": true
   }
  ],
@@ -200,6 +184,36 @@
    "searched_at": "2026-11-17T11:35:33.717Z"
   },
   {
+   "first_seen": "2026-11-17T12:16:54.816Z",
+   "id": "39875066",
+   "ids": [
+    "39875066",
+    "39854156"
+   ],
+   "title": "Kann man erkennen, ob eine Idee von ChatGPT stammt?",
+   "url": "https://www.heise.de/news/Anders-als-Pangram-Kann-man-erkennen-ob-eine-Idee-von-ChatGPT-stammt-11527621.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-17 10:55:00",
+   "story_sources": 2,
+   "score_norm": 80,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Anders als Pangram und weitere KI-Dektoren: Kann man erkennen, ob eine Idee von ChatGPT stammt?",
+     "url": "https://t3n.de/news/anders-als-pangram-und-weitere-ki-dektoren-kann-man-erkennen-ob-eine-idee-von-chatgpt-stammt-1773809/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "kann idee chatgpt man"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T12:16:59.196Z"
+  },
+  {
    "first_seen": "2026-11-17T09:36:50.612Z",
    "id": "39872302",
    "ids": [
@@ -211,7 +225,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-17 08:44:46",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "in-businessline",
