@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T00:30:13.064Z",
+ "generated_at": "2026-11-17T02:49:12.434Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: strengthening fight against online",
+   "source": "youtube: us china moves cut",
    "ok": true
   },
   {
-   "source": "tiktok: strengthening fight against online",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai news our first",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai news our first",
+   "source": "tiktok: us china moves cut",
    "ok": true
   }
  ],
@@ -309,7 +301,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-17 00:03:21",
    "story_sources": 3,
-   "score_norm": 90,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "openai-blog",
@@ -333,55 +325,6 @@
    "searched_at": "2026-11-17T00:30:21.029Z"
   },
   {
-   "first_seen": "2026-11-16T14:26:02.073Z",
-   "id": "39853697",
-   "ids": [
-    "39853697",
-    "39853294",
-    "39861566"
-   ],
-   "title": "US moves to cut China’s remote access to AI chips",
-   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-   "source_id": "x-arstechnica",
-   "published_ts": "2026-11-16 19:10:09",
-   "story_sources": 3,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "US Targets China’s Remote Access to Advanced AI Chips",
-     "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips"
-    },
-    {
-     "source_id": "hn",
-     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
-    }
-   ],
-   "queries": [
-    "us china moves cut"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YQpXnPqh5Qo",
-     "url": "https://www.youtube.com/watch?v=YQpXnPqh5Qo",
-     "title": "Nvidia Under US Investigation Over Alleged Diversion of Restricted AI Chips to China",
-     "channel": "India Today Global",
-     "views": 2018,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 28
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-16T20:36:01.699Z"
-  },
-  {
    "first_seen": "2026-11-16T16:25:37.029Z",
    "id": "39855843",
    "ids": [
@@ -395,7 +338,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-16 06:00:00",
    "story_sources": 3,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -432,6 +375,67 @@
    "searched_at": "2026-11-16T22:36:09.301Z"
   },
   {
+   "first_seen": "2026-11-16T14:26:02.073Z",
+   "id": "39853697",
+   "ids": [
+    "39853697",
+    "39853294",
+    "39861566"
+   ],
+   "title": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "source_id": "x-arstechnica",
+   "published_ts": "2026-11-16 19:10:09",
+   "story_sources": 3,
+   "score_norm": 73,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "US Targets China’s Remote Access to Advanced AI Chips",
+     "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips"
+    },
+    {
+     "source_id": "hn",
+     "title": "US Moves to Limit Remote Access to Advanced AI Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+    }
+   ],
+   "queries": [
+    "us china moves cut"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tw7DKvHT2Bo",
+     "url": "https://www.youtube.com/watch?v=tw7DKvHT2Bo",
+     "title": "US Moves to Curb China’s Chip Access",
+     "channel": "Bloomberg Podcasts",
+     "views": 1853,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 371
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YQpXnPqh5Qo",
+     "url": "https://www.youtube.com/watch?v=YQpXnPqh5Qo",
+     "title": "Nvidia Under US Investigation Over Alleged Diversion of Restricted AI Chips to China",
+     "channel": "India Today Global",
+     "views": 2019,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 28
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T02:49:16.882Z"
+  },
+  {
    "first_seen": "2026-11-16T23:35:48.308Z",
    "id": "39864950",
    "ids": [
@@ -443,7 +447,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-16 23:16:48",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "hn",
@@ -649,7 +653,7 @@
    "source_id": "in-inc42",
    "published_ts": "2026-11-16 21:44:01",
    "story_sources": 2,
-   "score_norm": 56,
+   "score_norm": 55,
    "related_news": [
     {
      "source_id": "in-businessline",
