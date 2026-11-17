@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:20:18.501Z",
+ "generated_at": "2026-11-17T22:10:46.039Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: genesis 500 ai raises",
-   "ok": true
-  },
-  {
-   "source": "tiktok: genesis 500 ai raises",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-17T19:09:55.618Z",
@@ -644,7 +635,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-17 14:00:00",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -791,6 +782,116 @@
    "searched_at": "2026-11-16T13:26:46.139Z"
   },
   {
+   "first_seen": "2026-11-17T13:37:07.741Z",
+   "id": "39875288",
+   "ids": [
+    "39875288",
+    "39876695",
+    "39887362"
+   ],
+   "title": "Isomorphic Labs Raises $5 Billion for AI Drug Design",
+   "url": "https://thedefiant.io/frontier/ai/isomorphic-labs-raises-5-billion-for-ai-drug-design",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-17 12:11:21",
+   "story_sources": 3,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design",
+     "url": "https://thenextweb.com/news/isomorphic-labs-5bn-series-c-sequoia-greenoaks"
+    },
+    {
+     "source_id": "eu-eu-startups",
+     "title": "AI drug discovery giant Isomorphic Labs raises €4.5 billion in blockbuster funding round",
+     "url": "https://www.eu-startups.com/2026/11/ai-drug-discovery-giant-isomorphic-labs-raises-e4-5-billion-in-blockbuster-funding-round/"
+    }
+   ],
+   "queries": [
+    "Isomorphic Labs Raises 5 Billion",
+    "isomorphic labs raises billion"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:12xT60UYJcM",
+     "url": "https://www.youtube.com/shorts/12xT60UYJcM",
+     "title": "Isomorphic Labs just raised $5 billion to design new medicines with AI (Series C, announced November",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uNlPAQR86YY",
+     "url": "https://www.youtube.com/shorts/uNlPAQR86YY",
+     "title": "Demis Hassabis's Isomorphic Labs raises $5B to design drugs with AI",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gh_fHpEoGbg",
+     "url": "https://www.youtube.com/shorts/gh_fHpEoGbg",
+     "title": "Alphabet AI drug firm Isomorphic Labs raises 5 billion dollars",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2051VH1jLIM",
+     "url": "https://www.youtube.com/shorts/2051VH1jLIM",
+     "title": "Isomorphic Labs raises $5B for AI drug trials | codemago.dev/news",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:J8h308IPQNU",
+     "url": "https://www.youtube.com/shorts/J8h308IPQNU",
+     "title": "Isomorphic Labs Just Raised $5B to Design Drugs With AI",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f4SYmRrF1Y4",
+     "url": "https://www.youtube.com/shorts/f4SYmRrF1Y4",
+     "title": "Isomorphic Labs Raises $5 Billion to Move AI-Designed Drugs Toward Clinical Trials #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T19:50:10.527Z"
+  },
+  {
    "first_seen": "2026-11-17T03:26:16.056Z",
    "id": "39868161",
    "ids": [
@@ -868,110 +969,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T09:37:04.889Z"
-  },
-  {
-   "first_seen": "2026-11-17T20:36:37.117Z",
-   "id": "39885750",
-   "ids": [
-    "39885750",
-    "39884701"
-   ],
-   "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-   "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-17 20:30:50",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
-     "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "openai gpt-6.2 astra sol"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6Sz_8EhZWAc",
-     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
-     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
-     "channel": "Every",
-     "views": 4404,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 4404
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JePtqPwfD6M",
-     "url": "https://www.youtube.com/watch?v=JePtqPwfD6M",
-     "title": "GPT-6.2 Astra: Mixed Emotions",
-     "channel": "Nick Saraev",
-     "views": 2699,
-     "age_hours": 0.4166666666666667,
-     "relevance": 0.5,
-     "velocity": 2699
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QEKUj4snI6U",
-     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
-     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
-     "channel": "AI Tomorrow Desk",
-     "views": 1686,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 1686
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ddRTZOai7NU",
-     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
-     "title": "GPT-6.2 Astra is HEREEEEE",
-     "channel": "",
-     "views": 4100,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dl0Ldq7rmqw",
-     "url": "https://www.youtube.com/shorts/dl0Ldq7rmqw",
-     "title": "GPT-6.2 Astra vs Sol: OpenAI's New AI Models Explained!",
-     "channel": "",
-     "views": 305,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:OImN_zFk600",
-     "url": "https://www.youtube.com/shorts/OImN_zFk600",
-     "title": "OpenAI released GPT-6.2 Astra and Sol",
-     "channel": "",
-     "views": 229,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T20:36:45.926Z"
   },
   {
    "first_seen": "2026-11-17T11:49:36.719Z",
@@ -1096,6 +1093,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T04:36:58.103Z"
+  },
+  {
+   "first_seen": "2026-11-17T20:36:37.117Z",
+   "id": "39885750",
+   "ids": [
+    "39885750",
+    "39884701"
+   ],
+   "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+   "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-17 20:30:50",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+     "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    }
+   ],
+   "queries": [
+    "GPT-6.2 Astra",
+    "openai gpt-6.2 astra sol"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6Sz_8EhZWAc",
+     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
+     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
+     "channel": "Every",
+     "views": 4404,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 4404
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JePtqPwfD6M",
+     "url": "https://www.youtube.com/watch?v=JePtqPwfD6M",
+     "title": "GPT-6.2 Astra: Mixed Emotions",
+     "channel": "Nick Saraev",
+     "views": 2699,
+     "age_hours": 0.4166666666666667,
+     "relevance": 0.5,
+     "velocity": 2699
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QEKUj4snI6U",
+     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
+     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
+     "channel": "AI Tomorrow Desk",
+     "views": 1686,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 1686
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ddRTZOai7NU",
+     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
+     "title": "GPT-6.2 Astra is HEREEEEE",
+     "channel": "",
+     "views": 4100,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dl0Ldq7rmqw",
+     "url": "https://www.youtube.com/shorts/dl0Ldq7rmqw",
+     "title": "GPT-6.2 Astra vs Sol: OpenAI's New AI Models Explained!",
+     "channel": "",
+     "views": 305,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:OImN_zFk600",
+     "url": "https://www.youtube.com/shorts/OImN_zFk600",
+     "title": "OpenAI released GPT-6.2 Astra and Sol",
+     "channel": "",
+     "views": 229,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T20:36:45.926Z"
   },
   {
    "first_seen": "2026-11-15T11:20:22.920Z",
@@ -1336,110 +1437,6 @@
    "searched_at": "2026-11-16T15:19:27.680Z"
   },
   {
-   "first_seen": "2026-11-17T13:37:07.741Z",
-   "id": "39875288",
-   "ids": [
-    "39875288",
-    "39876695"
-   ],
-   "title": "Isomorphic Labs Raises $5 Billion for AI Drug Design",
-   "url": "https://thedefiant.io/frontier/ai/isomorphic-labs-raises-5-billion-for-ai-drug-design",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-17 12:11:21",
-   "story_sources": 2,
-   "score_norm": 44,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design",
-     "url": "https://thenextweb.com/news/isomorphic-labs-5bn-series-c-sequoia-greenoaks"
-    }
-   ],
-   "queries": [
-    "Isomorphic Labs Raises 5 Billion",
-    "isomorphic labs raises billion"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:12xT60UYJcM",
-     "url": "https://www.youtube.com/shorts/12xT60UYJcM",
-     "title": "Isomorphic Labs just raised $5 billion to design new medicines with AI (Series C, announced November",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uNlPAQR86YY",
-     "url": "https://www.youtube.com/shorts/uNlPAQR86YY",
-     "title": "Demis Hassabis's Isomorphic Labs raises $5B to design drugs with AI",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gh_fHpEoGbg",
-     "url": "https://www.youtube.com/shorts/gh_fHpEoGbg",
-     "title": "Alphabet AI drug firm Isomorphic Labs raises 5 billion dollars",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2051VH1jLIM",
-     "url": "https://www.youtube.com/shorts/2051VH1jLIM",
-     "title": "Isomorphic Labs raises $5B for AI drug trials | codemago.dev/news",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:J8h308IPQNU",
-     "url": "https://www.youtube.com/shorts/J8h308IPQNU",
-     "title": "Isomorphic Labs Just Raised $5B to Design Drugs With AI",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f4SYmRrF1Y4",
-     "url": "https://www.youtube.com/shorts/f4SYmRrF1Y4",
-     "title": "Isomorphic Labs Raises $5 Billion to Move AI-Designed Drugs Toward Clinical Trials #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T19:50:10.527Z"
-  },
-  {
    "first_seen": "2026-11-17T17:35:56.783Z",
    "id": "39882196",
    "ids": [
@@ -1505,6 +1502,109 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-17T17:36:01.044Z"
+  },
+  {
+   "first_seen": "2026-11-17T12:38:02.562Z",
+   "id": "39872138",
+   "ids": [
+    "39872138",
+    "39875713"
+   ],
+   "title": "California sues OpenAI, saying it lost control of its AI agents more than 80 times",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xyeqq1/california_sues_openai_saying_it_lost_control_of/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-17 08:02:32",
+   "story_sources": 2,
+   "score_norm": 39,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "California Sues OpenAI for Losing Control of AI Agents 80 Times",
+     "url": "https://dailyai.com/2026/11/california-sues-openai-over-80-agent-loss-of-control-incidents/"
+    }
+   ],
+   "queries": [
+    "california openai 80 sues"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1_vE5IvC6BU",
+     "url": "https://www.youtube.com/watch?v=1_vE5IvC6BU",
+     "title": "California Sues OpenAI, Saying Its AI Agents Broke Out of Testing and Hacked Real Computers",
+     "channel": "Carly AI",
+     "views": 715,
+     "age_hours": 3,
+     "relevance": 0.6,
+     "velocity": 238
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WzULx22qEDc",
+     "url": "https://www.youtube.com/watch?v=WzULx22qEDc",
+     "title": "California SUES OPENAI After Rogue AI Agents ESCAPED THE LAB And Went On A HACKING SPREE",
+     "channel": "Democratic Reporter",
+     "views": 1419,
+     "age_hours": 18,
+     "relevance": 0.5,
+     "velocity": 79
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XkPJ65a0Bio",
+     "url": "https://www.youtube.com/watch?v=XkPJ65a0Bio",
+     "title": "California suing OpenAI over safeguards",
+     "channel": "CBS 8 San Diego",
+     "views": 115,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 23
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5t-DK8IZ1zI",
+     "url": "https://www.youtube.com/watch?v=5t-DK8IZ1zI",
+     "title": "California Sues OpenAI: AI Agents Escaped Testing 80 Times",
+     "channel": "TwinDesk News",
+     "views": 32,
+     "age_hours": 3,
+     "relevance": 0.78,
+     "velocity": 11
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:J90cBO-e5mY",
+     "url": "https://www.youtube.com/watch?v=J90cBO-e5mY",
+     "title": "California Says OpenAI Lost Control of AI 80 Times",
+     "channel": "Undertow AI",
+     "views": 42,
+     "age_hours": 6,
+     "relevance": 1,
+     "velocity": 7
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:siGMBfCBHSY",
+     "url": "https://www.youtube.com/watch?v=siGMBfCBHSY",
+     "title": "Why California is suing OpenAI over its AI agent tests",
+     "channel": "The Century Report",
+     "views": 6,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T18:49:23.875Z"
   },
   {
    "first_seen": "2026-11-16T23:35:48.308Z",
@@ -1610,109 +1710,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T20:36:53.220Z"
-  },
-  {
-   "first_seen": "2026-11-17T12:38:02.562Z",
-   "id": "39872138",
-   "ids": [
-    "39872138",
-    "39875713"
-   ],
-   "title": "California sues OpenAI, saying it lost control of its AI agents more than 80 times",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xyeqq1/california_sues_openai_saying_it_lost_control_of/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-17 08:02:32",
-   "story_sources": 2,
-   "score_norm": 38,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "California Sues OpenAI for Losing Control of AI Agents 80 Times",
-     "url": "https://dailyai.com/2026/11/california-sues-openai-over-80-agent-loss-of-control-incidents/"
-    }
-   ],
-   "queries": [
-    "california openai 80 sues"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1_vE5IvC6BU",
-     "url": "https://www.youtube.com/watch?v=1_vE5IvC6BU",
-     "title": "California Sues OpenAI, Saying Its AI Agents Broke Out of Testing and Hacked Real Computers",
-     "channel": "Carly AI",
-     "views": 715,
-     "age_hours": 3,
-     "relevance": 0.6,
-     "velocity": 238
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WzULx22qEDc",
-     "url": "https://www.youtube.com/watch?v=WzULx22qEDc",
-     "title": "California SUES OPENAI After Rogue AI Agents ESCAPED THE LAB And Went On A HACKING SPREE",
-     "channel": "Democratic Reporter",
-     "views": 1419,
-     "age_hours": 18,
-     "relevance": 0.5,
-     "velocity": 79
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XkPJ65a0Bio",
-     "url": "https://www.youtube.com/watch?v=XkPJ65a0Bio",
-     "title": "California suing OpenAI over safeguards",
-     "channel": "CBS 8 San Diego",
-     "views": 115,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 23
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5t-DK8IZ1zI",
-     "url": "https://www.youtube.com/watch?v=5t-DK8IZ1zI",
-     "title": "California Sues OpenAI: AI Agents Escaped Testing 80 Times",
-     "channel": "TwinDesk News",
-     "views": 32,
-     "age_hours": 3,
-     "relevance": 0.78,
-     "velocity": 11
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:J90cBO-e5mY",
-     "url": "https://www.youtube.com/watch?v=J90cBO-e5mY",
-     "title": "California Says OpenAI Lost Control of AI 80 Times",
-     "channel": "Undertow AI",
-     "views": 42,
-     "age_hours": 6,
-     "relevance": 1,
-     "velocity": 7
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:siGMBfCBHSY",
-     "url": "https://www.youtube.com/watch?v=siGMBfCBHSY",
-     "title": "Why California is suing OpenAI over its AI agent tests",
-     "channel": "The Century Report",
-     "views": 6,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T18:49:23.875Z"
   },
   {
    "first_seen": "2026-11-17T18:14:12.123Z",
