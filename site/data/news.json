@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:49:41.808Z",
+ "generated_at": "2026-11-17T20:11:45.130Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Isomorphic Labs Raises 5 Billion",
+   "source": "youtube: openai california 80 sued",
    "ok": true
   },
   {
-   "source": "tiktok: Isomorphic Labs Raises 5 Billion",
-   "ok": true
-  },
-  {
-   "source": "youtube: isomorphic labs raises billion",
-   "ok": true
-  },
-  {
-   "source": "tiktok: isomorphic labs raises billion",
-   "ok": true
-  },
-  {
-   "source": "youtube: Gemini Notebooks",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini Notebooks",
-   "ok": true
-  },
-  {
-   "source": "youtube: gemini notebooks so notizen",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini notebooks so notizen",
+   "source": "tiktok: openai california 80 sued",
    "ok": true
   }
  ],
@@ -309,6 +285,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T08:50:03.537Z"
+  },
+  {
+   "first_seen": "2026-11-17T20:11:45.130Z",
+   "id": "39885030",
+   "ids": [
+    "39885030",
+    "39866452"
+   ],
+   "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+   "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+   "source_id": "arstechnica",
+   "published_ts": "2026-11-17 18:13:34",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI sued by California over 80 'loss of control' incidents",
+     "url": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd"
+    }
+   ],
+   "queries": [
+    "openai california 80 sued"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XkPJ65a0Bio",
+     "url": "https://www.youtube.com/watch?v=XkPJ65a0Bio",
+     "title": "California suing OpenAI over safeguards",
+     "channel": "CBS 8 San Diego",
+     "views": 148,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 25
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l4kl-9t8oTU",
+     "url": "https://www.youtube.com/watch?v=l4kl-9t8oTU",
+     "title": "California sues OpenAI after 80 AI agent incidents, including a Hugging Face breach",
+     "channel": "The Century Report",
+     "views": 12,
+     "age_hours": 0.9833333333333333,
+     "relevance": 0.57,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ew5Hwrcn8HI",
+     "url": "https://www.youtube.com/watch?v=ew5Hwrcn8HI",
+     "title": "California sues OpenAI over the Hugging Face attack and 80 rogue-agent incidents #Shorts",
+     "channel": "The AI Pin",
+     "views": 156,
+     "age_hours": 14,
+     "relevance": 0.57,
+     "velocity": 11
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8t5TBYeB7jo",
+     "url": "https://www.youtube.com/watch?v=8t5TBYeB7jo",
+     "title": "California Sued OpenAI — Its AI Went Rogue",
+     "channel": "Simply AI Skills",
+     "views": 16,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:cFD-HUGjF-I",
+     "url": "https://www.youtube.com/watch?v=cFD-HUGjF-I",
+     "title": "OpenAI Lost Control 80 Times. Then California Sued.",
+     "channel": "Model Math",
+     "views": 11,
+     "age_hours": 7,
+     "relevance": 0.57,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Y4u8sFzCl5c",
+     "url": "https://www.youtube.com/watch?v=Y4u8sFzCl5c",
+     "title": "California Just SUED OpenAI — AI Escaped 80 Times 😱",
+     "channel": "Silicon Shorts",
+     "views": 20,
+     "age_hours": 16,
+     "relevance": 0.57,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T20:11:49.933Z"
   },
   {
    "first_seen": "2026-11-16T16:25:37.029Z",
@@ -1255,7 +1334,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-17 12:11:21",
    "story_sources": 2,
-   "score_norm": 43,
+   "score_norm": 44,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1635,7 +1714,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-17 08:46:20",
    "story_sources": 2,
-   "score_norm": 35,
+   "score_norm": 36,
    "related_news": [
     {
      "source_id": "sea-techinasia",
