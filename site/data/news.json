@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:10:46.039Z",
+ "generated_at": "2026-11-17T22:49:35.271Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -17,7 +17,8 @@
     "39882767",
     "39882760",
     "39882764",
-    "39879788"
+    "39879788",
+    "39887892"
    ],
    "title": "Introducing GPT-6.2 Astra and Sol",
    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -26,6 +27,11 @@
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-6.2 Astra and GPT-6.2 Sol",
+     "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+    },
     {
      "source_id": "hn",
      "title": "GPT‑6.2 Astra and Sol",
@@ -40,11 +46,6 @@
      "source_id": "hn",
      "title": "GPT 6.2 Astra and Sol are now live",
      "url": "https://twitter.com/cheatyyyy/status/2122748218320785567"
-    },
-    {
-     "source_id": "hn",
-     "title": "GPT-6.2 Astra",
-     "url": "https://openai.com/index/introducing-gpt-6-2-astra/"
     }
    ],
    "queries": [
@@ -1712,6 +1713,37 @@
    "searched_at": "2026-11-17T20:36:53.220Z"
   },
   {
+   "first_seen": "2026-11-17T13:37:07.741Z",
+   "id": "39876706",
+   "ids": [
+    "39876706",
+    "39872706"
+   ],
+   "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
+   "url": "https://www.heise.de/news/Gemini-Notebooks-So-werden-aus-deinen-Notizen-jetzt-interaktive-Webseiten-11527663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-17 11:10:00",
+   "story_sources": 2,
+   "score_norm": 38,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
+     "url": "https://t3n.de/news/gemini-notebooks-so-werden-aus-deinen-notizen-jetzt-interaktive-webseiten-1773890/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Gemini Notebooks",
+    "gemini notebooks so notizen"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T19:50:17.653Z"
+  },
+  {
    "first_seen": "2026-11-17T18:14:12.123Z",
    "id": "39883055",
    "ids": [
@@ -1754,37 +1786,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-17T18:14:21.305Z"
-  },
-  {
-   "first_seen": "2026-11-17T13:37:07.741Z",
-   "id": "39876706",
-   "ids": [
-    "39876706",
-    "39872706"
-   ],
-   "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
-   "url": "https://www.heise.de/news/Gemini-Notebooks-So-werden-aus-deinen-Notizen-jetzt-interaktive-Webseiten-11527663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-17 11:10:00",
-   "story_sources": 2,
-   "score_norm": 37,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
-     "url": "https://t3n.de/news/gemini-notebooks-so-werden-aus-deinen-notizen-jetzt-interaktive-webseiten-1773890/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Gemini Notebooks",
-    "gemini notebooks so notizen"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T19:50:17.653Z"
   },
   {
    "first_seen": "2026-11-17T09:36:50.612Z",
