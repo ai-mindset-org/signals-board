@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T08:36:04.975Z",
+ "generated_at": "2026-11-17T08:49:59.122Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: us china moves cut",
+   "ok": true
+  },
+  {
+   "source": "tiktok: us china moves cut",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-16T18:27:03.865Z",
@@ -226,33 +235,57 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:tw7DKvHT2Bo",
-     "url": "https://www.youtube.com/watch?v=tw7DKvHT2Bo",
-     "title": "US Moves to Curb China’s Chip Access",
-     "channel": "Bloomberg Podcasts",
-     "views": 1853,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 371
+     "id": "youtube:GIgfxEotFZA",
+     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+     "channel": "Bloomberg Television",
+     "views": 5451,
+     "age_hours": 4,
+     "relevance": 0.88,
+     "velocity": 1363
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:YQpXnPqh5Qo",
-     "url": "https://www.youtube.com/watch?v=YQpXnPqh5Qo",
-     "title": "Nvidia Under US Investigation Over Alleged Diversion of Restricted AI Chips to China",
-     "channel": "India Today Global",
-     "views": 2019,
+     "id": "youtube:Z2YVyd3tGG0",
+     "url": "https://www.youtube.com/watch?v=Z2YVyd3tGG0",
+     "title": "US Targets China's Remote Chip Access With New Curbs",
+     "channel": "Bloomberg Television",
+     "views": 1440,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 720
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tw7DKvHT2Bo",
+     "url": "https://www.youtube.com/watch?v=tw7DKvHT2Bo",
+     "title": "US Moves to Curb China’s Chip Access",
+     "channel": "Bloomberg Podcasts",
+     "views": 2948,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 268
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hoS-pUzQHQo",
+     "url": "https://www.youtube.com/watch?v=hoS-pUzQHQo",
+     "title": "Congress Moves to Cut Off China's Nvidia Chips",
+     "channel": "Caucus Daily",
+     "views": 35,
      "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 28
+     "relevance": 0.57,
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-17T02:49:16.882Z"
+   "searched_at": "2026-11-17T08:50:03.537Z"
   },
   {
    "first_seen": "2026-11-16T16:25:37.029Z",
