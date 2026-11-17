@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:49:19.735Z",
+ "generated_at": "2026-11-17T19:09:55.618Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,57 +9,144 @@
  },
  "search_report": [
   {
-   "source": "youtube: california openai 80 sues",
+   "source": "youtube: Introducing GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: california openai 80 sues",
+   "source": "tiktok: Introducing GPT-6.2 Astra",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing gpt-6.2 astra sol",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing gpt-6.2 astra sol",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-17T15:11:47.890Z",
-   "id": "39878678",
+   "first_seen": "2026-11-17T19:09:55.618Z",
+   "id": "39884260",
    "ids": [
-    "39878678",
-    "39878592"
+    "39884260",
+    "39882767",
+    "39882760",
+    "39882764",
+    "39879788"
    ],
-   "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
-   "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-17 14:00:00",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-17 17:45:00",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "x-thedefiant-io",
-     "title": "Genesis AI Raises $500 Million to Deploy Dexterous Robots",
-     "url": "https://thedefiant.io/frontier/technology/genesis-ai-raises-500-million-to-deploy-dexterous-robots"
+     "source_id": "hn",
+     "title": "GPT‑6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    },
+    {
+     "source_id": "hn",
+     "title": "GPT-6.2 Astra and Sol System Card",
+     "url": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol"
+    },
+    {
+     "source_id": "hn",
+     "title": "GPT 6.2 Astra and Sol are now live",
+     "url": "https://twitter.com/cheatyyyy/status/2122748218320785567"
+    },
+    {
+     "source_id": "hn",
+     "title": "GPT-6.2 Astra",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra/"
     }
    ],
    "queries": [
-    "genesis 500 ai raises"
+    "Introducing GPT-6.2 Astra",
+    "introducing gpt-6.2 astra sol"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:euqB3sRBPnQ",
-     "url": "https://www.youtube.com/shorts/euqB3sRBPnQ",
-     "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:C1zYX5jwqq4",
+     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+     "channel": "OpenAI",
+     "views": 4782,
+     "age_hours": 1,
+     "relevance": 0.75,
+     "velocity": 4782
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5toXOFBfilI",
+     "url": "https://www.youtube.com/watch?v=5toXOFBfilI",
+     "title": "[Breaking News] GPT-6.2 Astra & Sol Released: Highest-ever work benchmark scores, outperforms Fab...",
+     "channel": "AI時短ラボ",
+     "views": 792,
+     "age_hours": 0.8666666666666667,
+     "relevance": 0.75,
+     "velocity": 792
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TeWOrGfOxxY",
+     "url": "https://www.youtube.com/watch?v=TeWOrGfOxxY",
+     "title": "DeepSeek V5 Trains on Huawei! + Secret \"Silicon-2\" (Fable 5.5?), GPT-6.2 Astra & Gemini 4 Oxygen!",
+     "channel": "Shaown Ships AI",
+     "views": 8528,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 711
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:l9pv_bFi1zc",
+     "url": "https://www.youtube.com/watch?v=l9pv_bFi1zc",
+     "title": "GPT-6.2 Astra leaks, Gemini 4 Krypton in Arena, Gemini 4 Helix!",
+     "channel": "Universe of AI",
+     "views": 33033,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 688
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1HkGbHPQUzY",
+     "url": "https://www.youtube.com/watch?v=1HkGbHPQUzY",
+     "title": "GPT-6.2 Astra vs Claude Fable 5.2: who takes the belt, and who is still on top?",
+     "channel": "AI Curve Wars",
+     "views": 59,
+     "age_hours": 0.6833333333333333,
+     "relevance": 0.5,
+     "velocity": 59
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QEKUj4snI6U",
+     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
+     "title": "OpenAI Just Dropped GPT-6.2 Astra and Sol. Claude Has Competition.",
+     "channel": "AI Tomorrow Desk",
+     "views": 53,
+     "age_hours": 0.21666666666666667,
+     "relevance": 0.75,
+     "velocity": 53
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-17T15:11:52.547Z"
+   "searched_at": "2026-11-17T19:10:03.372Z"
   },
   {
    "first_seen": "2026-11-17T12:16:54.816Z",
@@ -318,37 +405,6 @@
    "searched_at": "2026-11-17T10:49:48.642Z"
   },
   {
-   "first_seen": "2026-11-17T13:37:07.741Z",
-   "id": "39875288",
-   "ids": [
-    "39875288",
-    "39876695"
-   ],
-   "title": "Isomorphic Labs Raises $5 Billion for AI Drug Design",
-   "url": "https://thedefiant.io/frontier/ai/isomorphic-labs-raises-5-billion-for-ai-drug-design",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-17 12:11:21",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design",
-     "url": "https://thenextweb.com/news/isomorphic-labs-5bn-series-c-sequoia-greenoaks"
-    }
-   ],
-   "queries": [
-    "Isomorphic Labs Raises 5 Billion",
-    "isomorphic labs raises billion"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T13:37:16.063Z"
-  },
-  {
    "first_seen": "2026-11-16T23:20:14.683Z",
    "id": "39864605",
    "ids": [
@@ -482,6 +538,49 @@
    "searched_at": "2026-11-17T11:10:32.761Z"
   },
   {
+   "first_seen": "2026-11-17T15:11:47.890Z",
+   "id": "39878678",
+   "ids": [
+    "39878678",
+    "39878592"
+   ],
+   "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+   "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-17 14:00:00",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Genesis AI Raises $500 Million to Deploy Dexterous Robots",
+     "url": "https://thedefiant.io/frontier/technology/genesis-ai-raises-500-million-to-deploy-dexterous-robots"
+    }
+   ],
+   "queries": [
+    "genesis 500 ai raises"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:euqB3sRBPnQ",
+     "url": "https://www.youtube.com/shorts/euqB3sRBPnQ",
+     "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T15:11:52.547Z"
+  },
+  {
    "first_seen": "2026-11-16T23:35:48.308Z",
    "id": "39864950",
    "ids": [
@@ -583,73 +682,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T11:49:47.898Z"
-  },
-  {
-   "first_seen": "2026-11-17T17:35:56.783Z",
-   "id": "39882196",
-   "ids": [
-    "39882196",
-    "39876043"
-   ],
-   "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
-   "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-17 13:31:09",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "US blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
-     "url": "https://www.thehindubusinessline.com/info-tech/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711909.ece"
-    }
-   ],
-   "queries": [
-    "u.s china nvidia blocks"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GIgfxEotFZA",
-     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
-     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-     "channel": "Bloomberg Television",
-     "views": 10217,
-     "age_hours": 13,
-     "relevance": 0.67,
-     "velocity": 786
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Xe9yDBB4XrI",
-     "url": "https://www.youtube.com/watch?v=Xe9yDBB4XrI",
-     "title": "US Blocks China’s Remote Access to AI Chips After Nvidia Scandal #shorts",
-     "channel": "Global Happenings",
-     "views": 1292,
-     "age_hours": 9,
-     "relevance": 0.8,
-     "velocity": 144
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:as-_Uz7GP7o",
-     "url": "https://www.youtube.com/shorts/as-_Uz7GP7o",
-     "title": "Why China Is Refusing Nvidia",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-17T17:36:01.044Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
@@ -755,184 +787,6 @@
    "searched_at": "2026-11-16T13:26:46.139Z"
   },
   {
-   "first_seen": "2026-11-17T12:38:02.562Z",
-   "id": "39872138",
-   "ids": [
-    "39872138",
-    "39875713"
-   ],
-   "title": "California sues OpenAI, saying it lost control of its AI agents more than 80 times",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xyeqq1/california_sues_openai_saying_it_lost_control_of/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-17 08:02:32",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "California Sues OpenAI for Losing Control of AI Agents 80 Times",
-     "url": "https://dailyai.com/2026/11/california-sues-openai-over-80-agent-loss-of-control-incidents/"
-    }
-   ],
-   "queries": [
-    "california openai 80 sues"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1_vE5IvC6BU",
-     "url": "https://www.youtube.com/watch?v=1_vE5IvC6BU",
-     "title": "California Sues OpenAI, Saying Its AI Agents Broke Out of Testing and Hacked Real Computers",
-     "channel": "Carly AI",
-     "views": 715,
-     "age_hours": 3,
-     "relevance": 0.6,
-     "velocity": 238
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WzULx22qEDc",
-     "url": "https://www.youtube.com/watch?v=WzULx22qEDc",
-     "title": "California SUES OPENAI After Rogue AI Agents ESCAPED THE LAB And Went On A HACKING SPREE",
-     "channel": "Democratic Reporter",
-     "views": 1419,
-     "age_hours": 18,
-     "relevance": 0.5,
-     "velocity": 79
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XkPJ65a0Bio",
-     "url": "https://www.youtube.com/watch?v=XkPJ65a0Bio",
-     "title": "California suing OpenAI over safeguards",
-     "channel": "CBS 8 San Diego",
-     "views": 115,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 23
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5t-DK8IZ1zI",
-     "url": "https://www.youtube.com/watch?v=5t-DK8IZ1zI",
-     "title": "California Sues OpenAI: AI Agents Escaped Testing 80 Times",
-     "channel": "TwinDesk News",
-     "views": 32,
-     "age_hours": 3,
-     "relevance": 0.78,
-     "velocity": 11
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:J90cBO-e5mY",
-     "url": "https://www.youtube.com/watch?v=J90cBO-e5mY",
-     "title": "California Says OpenAI Lost Control of AI 80 Times",
-     "channel": "Undertow AI",
-     "views": 42,
-     "age_hours": 6,
-     "relevance": 1,
-     "velocity": 7
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:siGMBfCBHSY",
-     "url": "https://www.youtube.com/watch?v=siGMBfCBHSY",
-     "title": "Why California is suing OpenAI over its AI agent tests",
-     "channel": "The Century Report",
-     "views": 6,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T18:49:23.875Z"
-  },
-  {
-   "first_seen": "2026-11-17T18:14:12.123Z",
-   "id": "39883055",
-   "ids": [
-    "39883055",
-    "39878354"
-   ],
-   "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
-   "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-17 14:50:58",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Jensen Huang Liked Selling China Advanced AI Chips",
-     "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling"
-    }
-   ],
-   "queries": [
-    "Jensen Huang Really Liked Selling China Advanced",
-    "jensen huang really liked"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7UX_h-DVUuc",
-     "url": "https://www.youtube.com/watch?v=7UX_h-DVUuc",
-     "title": "Who Took Down Jensen Huang, and Why?",
-     "channel": "The Marrow",
-     "views": 124118,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 2586
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-17T18:14:21.305Z"
-  },
-  {
-   "first_seen": "2026-11-17T13:37:07.741Z",
-   "id": "39876706",
-   "ids": [
-    "39876706",
-    "39872706"
-   ],
-   "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
-   "url": "https://www.heise.de/news/Gemini-Notebooks-So-werden-aus-deinen-Notizen-jetzt-interaktive-Webseiten-11527663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-17 11:10:00",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
-     "url": "https://t3n.de/news/gemini-notebooks-so-werden-aus-deinen-notizen-jetzt-interaktive-webseiten-1773890/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Gemini Notebooks",
-    "gemini notebooks so notizen"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T13:37:23.181Z"
-  },
-  {
    "first_seen": "2026-11-17T03:26:16.056Z",
    "id": "39868161",
    "ids": [
@@ -1010,80 +864,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T09:37:04.889Z"
-  },
-  {
-   "first_seen": "2026-11-17T09:36:50.612Z",
-   "id": "39872302",
-   "ids": [
-    "39872302",
-    "39872834"
-   ],
-   "title": "Pragya Misra to lead OpenAI's business development in India and South Asia",
-   "url": "https://yourstory.com/2026/11/pragya-misra-lead-openais-business-development-india-and-south-asia",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-17 08:44:46",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "OpenAI names Pragya Mishra head of business development for India, South Asia",
-     "url": "https://www.thehindubusinessline.com/info-tech/openai-names-pragya-mishra-head-of-business-development-for-india-south-asia/article71711092.ece"
-    }
-   ],
-   "queries": [
-    "Pragya Misra",
-    "pragya misra openai india"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T15:49:42.127Z"
-  },
-  {
-   "first_seen": "2026-11-17T09:36:50.612Z",
-   "id": "39872740",
-   "ids": [
-    "39872740",
-    "39868139"
-   ],
-   "title": "Singapore presses US on new AI chip export rules, minister tells Semafor",
-   "url": "https://thenextweb.com/news/singapore-presses-us-on-new-ai-chip-export-rules-minister-tells-semafor",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-17 08:46:20",
-   "story_sources": 2,
-   "score_norm": 55,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "US tightens AI chip export rules for Singapore, Malaysia",
-     "url": "https://www.techinasia.com/news/tightens-ai-chip-export-rules-singapore-malaysia"
-    }
-   ],
-   "queries": [
-    "singapore us semafor presses"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7JSP0VHiZHc",
-     "url": "https://www.youtube.com/watch?v=7JSP0VHiZHc",
-     "title": "The US Just Labelled Singapore and Malaysia an AI Chip Risk",
-     "channel": "Fifth Tiger",
-     "views": 3107,
-     "age_hours": 5,
-     "relevance": 0.57,
-     "velocity": 621
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T15:49:45.653Z"
   },
   {
    "first_seen": "2026-11-17T11:49:36.719Z",
@@ -1446,6 +1226,356 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-16T15:19:27.680Z"
+  },
+  {
+   "first_seen": "2026-11-17T13:37:07.741Z",
+   "id": "39875288",
+   "ids": [
+    "39875288",
+    "39876695"
+   ],
+   "title": "Isomorphic Labs Raises $5 Billion for AI Drug Design",
+   "url": "https://thedefiant.io/frontier/ai/isomorphic-labs-raises-5-billion-for-ai-drug-design",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-17 12:11:21",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design",
+     "url": "https://thenextweb.com/news/isomorphic-labs-5bn-series-c-sequoia-greenoaks"
+    }
+   ],
+   "queries": [
+    "Isomorphic Labs Raises 5 Billion",
+    "isomorphic labs raises billion"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T13:37:16.063Z"
+  },
+  {
+   "first_seen": "2026-11-17T17:35:56.783Z",
+   "id": "39882196",
+   "ids": [
+    "39882196",
+    "39876043"
+   ],
+   "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+   "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-17 13:31:09",
+   "story_sources": 2,
+   "score_norm": 38,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "US blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+     "url": "https://www.thehindubusinessline.com/info-tech/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711909.ece"
+    }
+   ],
+   "queries": [
+    "u.s china nvidia blocks"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GIgfxEotFZA",
+     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+     "channel": "Bloomberg Television",
+     "views": 10217,
+     "age_hours": 13,
+     "relevance": 0.67,
+     "velocity": 786
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Xe9yDBB4XrI",
+     "url": "https://www.youtube.com/watch?v=Xe9yDBB4XrI",
+     "title": "US Blocks China’s Remote Access to AI Chips After Nvidia Scandal #shorts",
+     "channel": "Global Happenings",
+     "views": 1292,
+     "age_hours": 9,
+     "relevance": 0.8,
+     "velocity": 144
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:as-_Uz7GP7o",
+     "url": "https://www.youtube.com/shorts/as-_Uz7GP7o",
+     "title": "Why China Is Refusing Nvidia",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-17T17:36:01.044Z"
+  },
+  {
+   "first_seen": "2026-11-17T12:38:02.562Z",
+   "id": "39872138",
+   "ids": [
+    "39872138",
+    "39875713"
+   ],
+   "title": "California sues OpenAI, saying it lost control of its AI agents more than 80 times",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xyeqq1/california_sues_openai_saying_it_lost_control_of/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-17 08:02:32",
+   "story_sources": 2,
+   "score_norm": 38,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "California Sues OpenAI for Losing Control of AI Agents 80 Times",
+     "url": "https://dailyai.com/2026/11/california-sues-openai-over-80-agent-loss-of-control-incidents/"
+    }
+   ],
+   "queries": [
+    "california openai 80 sues"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:1_vE5IvC6BU",
+     "url": "https://www.youtube.com/watch?v=1_vE5IvC6BU",
+     "title": "California Sues OpenAI, Saying Its AI Agents Broke Out of Testing and Hacked Real Computers",
+     "channel": "Carly AI",
+     "views": 715,
+     "age_hours": 3,
+     "relevance": 0.6,
+     "velocity": 238
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WzULx22qEDc",
+     "url": "https://www.youtube.com/watch?v=WzULx22qEDc",
+     "title": "California SUES OPENAI After Rogue AI Agents ESCAPED THE LAB And Went On A HACKING SPREE",
+     "channel": "Democratic Reporter",
+     "views": 1419,
+     "age_hours": 18,
+     "relevance": 0.5,
+     "velocity": 79
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XkPJ65a0Bio",
+     "url": "https://www.youtube.com/watch?v=XkPJ65a0Bio",
+     "title": "California suing OpenAI over safeguards",
+     "channel": "CBS 8 San Diego",
+     "views": 115,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 23
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5t-DK8IZ1zI",
+     "url": "https://www.youtube.com/watch?v=5t-DK8IZ1zI",
+     "title": "California Sues OpenAI: AI Agents Escaped Testing 80 Times",
+     "channel": "TwinDesk News",
+     "views": 32,
+     "age_hours": 3,
+     "relevance": 0.78,
+     "velocity": 11
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:J90cBO-e5mY",
+     "url": "https://www.youtube.com/watch?v=J90cBO-e5mY",
+     "title": "California Says OpenAI Lost Control of AI 80 Times",
+     "channel": "Undertow AI",
+     "views": 42,
+     "age_hours": 6,
+     "relevance": 1,
+     "velocity": 7
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:siGMBfCBHSY",
+     "url": "https://www.youtube.com/watch?v=siGMBfCBHSY",
+     "title": "Why California is suing OpenAI over its AI agent tests",
+     "channel": "The Century Report",
+     "views": 6,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T18:49:23.875Z"
+  },
+  {
+   "first_seen": "2026-11-17T18:14:12.123Z",
+   "id": "39883055",
+   "ids": [
+    "39883055",
+    "39878354"
+   ],
+   "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+   "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-17 14:50:58",
+   "story_sources": 2,
+   "score_norm": 37,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Jensen Huang Liked Selling China Advanced AI Chips",
+     "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling"
+    }
+   ],
+   "queries": [
+    "Jensen Huang Really Liked Selling China Advanced",
+    "jensen huang really liked"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7UX_h-DVUuc",
+     "url": "https://www.youtube.com/watch?v=7UX_h-DVUuc",
+     "title": "Who Took Down Jensen Huang, and Why?",
+     "channel": "The Marrow",
+     "views": 124118,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 2586
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-17T18:14:21.305Z"
+  },
+  {
+   "first_seen": "2026-11-17T13:37:07.741Z",
+   "id": "39876706",
+   "ids": [
+    "39876706",
+    "39872706"
+   ],
+   "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
+   "url": "https://www.heise.de/news/Gemini-Notebooks-So-werden-aus-deinen-Notizen-jetzt-interaktive-Webseiten-11527663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-17 11:10:00",
+   "story_sources": 2,
+   "score_norm": 37,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
+     "url": "https://t3n.de/news/gemini-notebooks-so-werden-aus-deinen-notizen-jetzt-interaktive-webseiten-1773890/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Gemini Notebooks",
+    "gemini notebooks so notizen"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T13:37:23.181Z"
+  },
+  {
+   "first_seen": "2026-11-17T09:36:50.612Z",
+   "id": "39872302",
+   "ids": [
+    "39872302",
+    "39872834"
+   ],
+   "title": "Pragya Misra to lead OpenAI's business development in India and South Asia",
+   "url": "https://yourstory.com/2026/11/pragya-misra-lead-openais-business-development-india-and-south-asia",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-17 08:44:46",
+   "story_sources": 2,
+   "score_norm": 36,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "OpenAI names Pragya Mishra head of business development for India, South Asia",
+     "url": "https://www.thehindubusinessline.com/info-tech/openai-names-pragya-mishra-head-of-business-development-for-india-south-asia/article71711092.ece"
+    }
+   ],
+   "queries": [
+    "Pragya Misra",
+    "pragya misra openai india"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T15:49:42.127Z"
+  },
+  {
+   "first_seen": "2026-11-17T09:36:50.612Z",
+   "id": "39872740",
+   "ids": [
+    "39872740",
+    "39868139"
+   ],
+   "title": "Singapore presses US on new AI chip export rules, minister tells Semafor",
+   "url": "https://thenextweb.com/news/singapore-presses-us-on-new-ai-chip-export-rules-minister-tells-semafor",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-17 08:46:20",
+   "story_sources": 2,
+   "score_norm": 35,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "US tightens AI chip export rules for Singapore, Malaysia",
+     "url": "https://www.techinasia.com/news/tightens-ai-chip-export-rules-singapore-malaysia"
+    }
+   ],
+   "queries": [
+    "singapore us semafor presses"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7JSP0VHiZHc",
+     "url": "https://www.youtube.com/watch?v=7JSP0VHiZHc",
+     "title": "The US Just Labelled Singapore and Malaysia an AI Chip Risk",
+     "channel": "Fifth Tiger",
+     "views": 3107,
+     "age_hours": 5,
+     "relevance": 0.57,
+     "velocity": 621
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T15:49:45.653Z"
   },
   {
    "first_seen": "2026-11-16T18:14:26.964Z",
