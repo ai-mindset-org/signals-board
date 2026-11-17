@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T05:22:03.028Z",
+ "generated_at": "2026-11-17T05:36:23.184Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: broadening access ai scientists",
+   "source": "youtube: california openai sues dangerous",
    "ok": true
   },
   {
-   "source": "tiktok: broadening access ai scientists",
+   "source": "tiktok: california openai sues dangerous",
    "ok": true
   }
  ],
@@ -468,26 +468,50 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:fp33evki83A",
-     "url": "https://www.youtube.com/watch?v=fp33evki83A",
-     "title": "California AG sues OpenAI over Hugging Face hack",
-     "channel": "KPIX | CBS NEWS BAY AREA",
-     "views": 807,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 269
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:CXBNxHqU4bk",
      "url": "https://www.youtube.com/watch?v=CXBNxHqU4bk",
      "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks • FRANCE 24 English",
      "channel": "FRANCE 24 English",
-     "views": 522,
-     "age_hours": 2,
+     "views": 2924,
+     "age_hours": 8,
      "relevance": 0.67,
-     "velocity": 261
+     "velocity": 366
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fp33evki83A",
+     "url": "https://www.youtube.com/watch?v=fp33evki83A",
+     "title": "California AG sues OpenAI over Hugging Face hack",
+     "channel": "KPIX | CBS NEWS BAY AREA",
+     "views": 2473,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 275
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WzULx22qEDc",
+     "url": "https://www.youtube.com/watch?v=WzULx22qEDc",
+     "title": "California SUES OPENAI After Rogue AI Agents ESCAPED THE LAB And Went On A HACKING SPREE",
+     "channel": "Democratic Reporter",
+     "views": 1141,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 228
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YCorT0n4WgQ",
+     "url": "https://www.youtube.com/watch?v=YCorT0n4WgQ",
+     "title": "Daily AI Brief — Nov 16: California sues OpenAI, chip loophole, Vera Rubin #dailyaibrief",
+     "channel": "AI Under Test",
+     "views": 40,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 8
     },
     {
      "platform": "youtube",
@@ -496,53 +520,29 @@
      "url": "https://www.youtube.com/watch?v=O41gZB5IicU",
      "title": "California Sues OpenAI Over AI Agents It Says Escaped Testing #Shorts",
      "channel": "Artificial Intelligence (AI News)",
-     "views": 12,
-     "age_hours": 3,
+     "views": 47,
+     "age_hours": 9,
      "relevance": 0.67,
-     "velocity": 4
+     "velocity": 5
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:CVR963I5FCI",
-     "url": "https://www.youtube.com/watch?v=CVR963I5FCI",
-     "title": "California sues OpenAI: what we know",
-     "channel": "iME ( iMadeitEZ )",
-     "views": 2,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YPX5JD6bVao",
-     "url": "https://www.youtube.com/watch?v=YPX5JD6bVao",
-     "title": "California just sued OpenAI",
-     "channel": "TEK1o1",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dKZM1ebWASA",
-     "url": "https://www.youtube.com/watch?v=dKZM1ebWASA",
-     "title": "California state AG sues OpenAI over rogue agent incidents #Shorts",
-     "channel": "Newsreel — AI & Security",
-     "views": 0,
+     "id": "youtube:n5mEKjTccsw",
+     "url": "https://www.youtube.com/watch?v=n5mEKjTccsw",
+     "title": "California sues OpenAI over rogue agents' Hugging Face hack #Shorts",
+     "channel": "SkarduTimes English",
+     "views": 3,
      "age_hours": 1,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 3
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-16T23:35:52.729Z"
+   "searched_at": "2026-11-17T05:36:27.369Z"
   },
   {
    "first_seen": "2026-11-17T03:26:16.056Z",
