@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:35:29.477Z",
+ "generated_at": "2026-11-17T11:49:36.719Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: broadening access ai scientists",
+   "source": "youtube: AA Decision Index",
    "ok": true
   },
   {
-   "source": "tiktok: broadening access ai scientists",
+   "source": "tiktok: AA Decision Index",
+   "ok": true
+  },
+  {
+   "source": "youtube: liquid releases d1.2 d1.2-ultra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: liquid releases d1.2 d1.2-ultra",
+   "ok": true
+  },
+  {
+   "source": "youtube: california openai sues dangerous",
+   "ok": true
+  },
+  {
+   "source": "tiktok: california openai sues dangerous",
    "ok": true
   }
  ],
@@ -245,6 +261,37 @@
    "searched_at": "2026-11-17T09:37:01.378Z"
   },
   {
+   "first_seen": "2026-11-17T11:49:36.719Z",
+   "id": "39874628",
+   "ids": [
+    "39874628",
+    "39859586"
+   ],
+   "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+   "url": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+   "source_id": "in-marktechpost",
+   "published_ts": "2026-11-17 09:20:57",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "New decision model from Liquid AI top of AA index",
+     "url": "https://www.liquid.ai/blog/d1-2"
+    }
+   ],
+   "queries": [
+    "AA Decision Index",
+    "liquid releases d1.2 d1.2-ultra"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T11:49:44.384Z"
+  },
+  {
    "first_seen": "2026-11-16T14:26:02.073Z",
    "id": "39853697",
    "ids": [
@@ -457,7 +504,7 @@
    "source_id": "africa-itweb",
    "published_ts": "2026-11-17 09:01:00",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "za-techcentral",
@@ -606,14 +653,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:zDFxnrdQKQg",
+     "url": "https://www.youtube.com/watch?v=zDFxnrdQKQg",
+     "title": "California sues OpenAI over Hugging Face cyberattack",
+     "channel": "TRT World",
+     "views": 1116,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 279
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:CXBNxHqU4bk",
      "url": "https://www.youtube.com/watch?v=CXBNxHqU4bk",
-     "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks • FRANCE 24 English",
+     "title": "Rogue AI: California sues OpenAI over Hugging Face and other cyberattacks • FRANCE 24 English",
      "channel": "FRANCE 24 English",
-     "views": 2924,
-     "age_hours": 8,
+     "views": 3542,
+     "age_hours": 14,
      "relevance": 0.67,
-     "velocity": 366
+     "velocity": 253
     },
     {
      "platform": "youtube",
@@ -622,10 +681,10 @@
      "url": "https://www.youtube.com/watch?v=fp33evki83A",
      "title": "California AG sues OpenAI over Hugging Face hack",
      "channel": "KPIX | CBS NEWS BAY AREA",
-     "views": 2473,
-     "age_hours": 9,
+     "views": 3089,
+     "age_hours": 15,
      "relevance": 0.5,
-     "velocity": 275
+     "velocity": 206
     },
     {
      "platform": "youtube",
@@ -634,10 +693,10 @@
      "url": "https://www.youtube.com/watch?v=WzULx22qEDc",
      "title": "California SUES OPENAI After Rogue AI Agents ESCAPED THE LAB And Went On A HACKING SPREE",
      "channel": "Democratic Reporter",
-     "views": 1141,
-     "age_hours": 5,
+     "views": 1237,
+     "age_hours": 11,
      "relevance": 0.67,
-     "velocity": 228
+     "velocity": 112
     },
     {
      "platform": "youtube",
@@ -646,10 +705,10 @@
      "url": "https://www.youtube.com/watch?v=YCorT0n4WgQ",
      "title": "Daily AI Brief — Nov 16: California sues OpenAI, chip loophole, Vera Rubin #dailyaibrief",
      "channel": "AI Under Test",
-     "views": 40,
-     "age_hours": 5,
+     "views": 61,
+     "age_hours": 11,
      "relevance": 0.67,
-     "velocity": 8
+     "velocity": 6
     },
     {
      "platform": "youtube",
@@ -658,21 +717,9 @@
      "url": "https://www.youtube.com/watch?v=O41gZB5IicU",
      "title": "California Sues OpenAI Over AI Agents It Says Escaped Testing #Shorts",
      "channel": "Artificial Intelligence (AI News)",
-     "views": 47,
-     "age_hours": 9,
+     "views": 49,
+     "age_hours": 15,
      "relevance": 0.67,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:n5mEKjTccsw",
-     "url": "https://www.youtube.com/watch?v=n5mEKjTccsw",
-     "title": "California sues OpenAI over rogue agents' Hugging Face hack #Shorts",
-     "channel": "SkarduTimes English",
-     "views": 3,
-     "age_hours": 1,
-     "relevance": 0.5,
      "velocity": 3
     }
    ],
@@ -680,7 +727,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-17T05:36:27.369Z"
+   "searched_at": "2026-11-17T11:49:47.898Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
