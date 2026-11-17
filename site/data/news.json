@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:38:02.562Z",
+ "generated_at": "2026-11-17T12:49:40.920Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: california openai 80 sues",
+   "source": "youtube: strengthening fight against online",
    "ok": true
   },
   {
-   "source": "tiktok: california openai 80 sues",
+   "source": "tiktok: strengthening fight against online",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai news our first",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai news our first",
    "ok": true
   }
  ],
@@ -46,7 +54,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-17T06:42:10.768Z"
+   "searched_at": "2026-11-17T12:49:45.278Z"
   },
   {
    "first_seen": "2026-11-14T04:12:35.337Z",
@@ -621,7 +629,7 @@
    "source_id": "africa-itweb",
    "published_ts": "2026-11-17 09:01:00",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "za-techcentral",
@@ -734,14 +742,14 @@
     }
    ],
    "queries": [
-    "our first phase embedded"
+    "openai news our first"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-17T06:42:14.466Z"
+   "searched_at": "2026-11-17T12:49:48.933Z"
   },
   {
    "first_seen": "2026-11-16T23:35:48.308Z",
