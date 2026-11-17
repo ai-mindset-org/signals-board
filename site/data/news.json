@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:35:56.783Z",
+ "generated_at": "2026-11-17T18:14:12.123Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: u.s china nvidia blocks",
+   "source": "youtube: Jensen Huang Really Liked Selling China Advanced",
    "ok": true
   },
   {
-   "source": "tiktok: u.s china nvidia blocks",
+   "source": "tiktok: Jensen Huang Really Liked Selling China Advanced",
+   "ok": true
+  },
+  {
+   "source": "youtube: jensen huang really liked",
+   "ok": true
+  },
+  {
+   "source": "tiktok: jensen huang really liked",
+   "ok": true
+  },
+  {
+   "source": "youtube: AA Decision Index",
+   "ok": true
+  },
+  {
+   "source": "tiktok: AA Decision Index",
+   "ok": true
+  },
+  {
+   "source": "youtube: liquid releases d1.2 d1.2-ultra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: liquid releases d1.2 d1.2-ultra",
    "ok": true
   }
  ],
@@ -858,6 +882,50 @@
    "searched_at": "2026-11-17T12:38:06.744Z"
   },
   {
+   "first_seen": "2026-11-17T18:14:12.123Z",
+   "id": "39883055",
+   "ids": [
+    "39883055",
+    "39878354"
+   ],
+   "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+   "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-17 14:50:58",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Jensen Huang Liked Selling China Advanced AI Chips",
+     "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling"
+    }
+   ],
+   "queries": [
+    "Jensen Huang Really Liked Selling China Advanced",
+    "jensen huang really liked"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7UX_h-DVUuc",
+     "url": "https://www.youtube.com/watch?v=7UX_h-DVUuc",
+     "title": "Who Took Down Jensen Huang, and Why?",
+     "channel": "The Marrow",
+     "views": 124118,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 2586
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-17T18:14:21.305Z"
+  },
+  {
    "first_seen": "2026-11-17T13:37:07.741Z",
    "id": "39876706",
    "ids": [
@@ -1065,12 +1133,49 @@
     "AA Decision Index",
     "liquid releases d1.2 d1.2-ultra"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:oRbuZOznch0",
+     "url": "https://www.youtube.com/watch?v=oRbuZOznch0",
+     "title": "ai morning #115 — liquid ai's d1.2-ultra tops decision models, and d1.2 costs under half as much",
+     "channel": "thehype.",
+     "views": 6,
+     "age_hours": 5,
+     "relevance": 0.55,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BRI550n9EDo",
+     "url": "https://www.youtube.com/watch?v=BRI550n9EDo",
+     "title": "Liquid AI d1.2-ultra tops AA Decision Index at 75",
+     "channel": "FreeLLMArena",
+     "views": 0,
+     "age_hours": 0.05,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5Z70J8VAF3w",
+     "url": "https://www.youtube.com/shorts/5Z70J8VAF3w",
+     "title": "Liquid's d1.2-ultra ranks first among decision models #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-17T11:49:44.384Z"
+   "searched_at": "2026-11-17T18:14:28.294Z"
   },
   {
    "first_seen": "2026-11-16T22:36:05.094Z",
