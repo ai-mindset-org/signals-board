@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:49:40.920Z",
+ "generated_at": "2026-11-17T13:37:07.741Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: strengthening fight against online",
+   "source": "youtube: Isomorphic Labs Raises 5 Billion",
    "ok": true
   },
   {
-   "source": "tiktok: strengthening fight against online",
+   "source": "tiktok: Isomorphic Labs Raises 5 Billion",
    "ok": true
   },
   {
-   "source": "youtube: openai news our first",
+   "source": "youtube: isomorphic labs raises billion",
    "ok": true
   },
   {
-   "source": "tiktok: openai news our first",
+   "source": "tiktok: isomorphic labs raises billion",
+   "ok": true
+  },
+  {
+   "source": "youtube: Gemini Notebooks",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Gemini Notebooks",
+   "ok": true
+  },
+  {
+   "source": "youtube: gemini notebooks so notizen",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gemini notebooks so notizen",
    "ok": true
   }
  ],
@@ -162,6 +178,37 @@
    "searched_at": "2026-11-14T16:21:12.843Z"
   },
   {
+   "first_seen": "2026-11-17T13:37:07.741Z",
+   "id": "39875288",
+   "ids": [
+    "39875288",
+    "39876695"
+   ],
+   "title": "Isomorphic Labs Raises $5 Billion for AI Drug Design",
+   "url": "https://thedefiant.io/frontier/ai/isomorphic-labs-raises-5-billion-for-ai-drug-design",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-17 12:11:21",
+   "story_sources": 2,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design",
+     "url": "https://thenextweb.com/news/isomorphic-labs-5bn-series-c-sequoia-greenoaks"
+    }
+   ],
+   "queries": [
+    "Isomorphic Labs Raises 5 Billion",
+    "isomorphic labs raises billion"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T13:37:16.063Z"
+  },
+  {
    "first_seen": "2026-11-16T23:20:14.683Z",
    "id": "39864605",
    "ids": [
@@ -233,7 +280,7 @@
    "source_id": "x-reddit",
    "published_ts": "2026-11-17 08:02:32",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -325,6 +372,37 @@
    "searched_at": "2026-11-17T12:38:06.744Z"
   },
   {
+   "first_seen": "2026-11-17T13:37:07.741Z",
+   "id": "39876706",
+   "ids": [
+    "39876706",
+    "39872706"
+   ],
+   "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
+   "url": "https://www.heise.de/news/Gemini-Notebooks-So-werden-aus-deinen-Notizen-jetzt-interaktive-Webseiten-11527663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-17 11:10:00",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
+     "url": "https://t3n.de/news/gemini-notebooks-so-werden-aus-deinen-notizen-jetzt-interaktive-webseiten-1773890/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Gemini Notebooks",
+    "gemini notebooks so notizen"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T13:37:23.181Z"
+  },
+  {
    "first_seen": "2026-11-17T09:36:50.612Z",
    "id": "39872302",
    "ids": [
@@ -336,7 +414,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-17 08:44:46",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -397,7 +475,7 @@
    "source_id": "in-marktechpost",
    "published_ts": "2026-11-17 09:20:57",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
@@ -969,7 +1047,7 @@
    "source_id": "theregister",
    "published_ts": "2026-11-16 23:43:17",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 57,
    "related_news": [
     {
      "source_id": "hn",
