@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:10:28.641Z",
+ "generated_at": "2026-11-17T11:35:29.477Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: every agent database user",
+   "source": "youtube: broadening access ai scientists",
    "ok": true
   },
   {
-   "source": "tiktok: every agent database user",
+   "source": "tiktok: broadening access ai scientists",
    "ok": true
   }
  ],
@@ -176,25 +176,12 @@
    "queries": [
     "broadening access ai scientists"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RBM3HjHXKnk",
-     "url": "https://www.youtube.com/shorts/RBM3HjHXKnk",
-     "title": "OpenAI: Broadening access to AI for scientists",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-17T05:22:07.195Z"
+   "searched_at": "2026-11-17T11:35:33.717Z"
   },
   {
    "first_seen": "2026-11-17T09:36:50.612Z",
@@ -239,7 +226,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-17 08:46:20",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "sea-techinasia",
