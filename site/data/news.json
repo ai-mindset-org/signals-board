@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:49:35.271Z",
+ "generated_at": "2026-11-17T23:36:08.627Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: u.s china nvidia blocks",
+   "ok": true
+  },
+  {
+   "source": "tiktok: u.s china nvidia blocks",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-17T19:09:55.618Z",
@@ -1463,15 +1472,39 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7D9BQro_xMQ",
+     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
+     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
+     "channel": "",
+     "views": 23000,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
      "kind": "видео",
      "id": "youtube:GIgfxEotFZA",
      "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
      "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
      "channel": "Bloomberg Television",
-     "views": 10217,
-     "age_hours": 13,
+     "views": 11587,
+     "age_hours": 19,
      "relevance": 0.67,
-     "velocity": 786
+     "velocity": 610
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HmSLa_nh6aI",
+     "url": "https://www.youtube.com/shorts/HmSLa_nh6aI",
+     "title": "How did Nvidia chips get to China? | 7.30",
+     "channel": "",
+     "views": 4800,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -1480,10 +1513,22 @@
      "url": "https://www.youtube.com/watch?v=Xe9yDBB4XrI",
      "title": "US Blocks China’s Remote Access to AI Chips After Nvidia Scandal #shorts",
      "channel": "Global Happenings",
-     "views": 1292,
-     "age_hours": 9,
+     "views": 1374,
+     "age_hours": 15,
      "relevance": 0.8,
-     "velocity": 144
+     "velocity": 92
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HMIh-n4wK2E",
+     "url": "https://www.youtube.com/shorts/HMIh-n4wK2E",
+     "title": "What the Nvidia Scandal Reveals About the U.S.-China AI Race",
+     "channel": "",
+     "views": 1700,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -1492,7 +1537,7 @@
      "url": "https://www.youtube.com/shorts/as-_Uz7GP7o",
      "title": "Why China Is Refusing Nvidia",
      "channel": "",
-     "views": 1100,
+     "views": 1200,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1502,7 +1547,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-17T17:36:01.044Z"
+   "searched_at": "2026-11-17T23:36:12.973Z"
   },
   {
    "first_seen": "2026-11-17T12:38:02.562Z",
