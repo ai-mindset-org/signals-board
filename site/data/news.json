@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:54:49.253Z",
+ "generated_at": "2026-11-18T01:12:15.470Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: california openai 80 sues",
+   "source": "youtube: Introducing GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: california openai 80 sues",
+   "source": "tiktok: Introducing GPT-6.2 Astra",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing gpt-6.2 astra sol",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing gpt-6.2 astra sol",
    "ok": true
   }
  ],
@@ -64,82 +72,82 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C1zYX5jwqq4",
-     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
-     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
-     "channel": "OpenAI",
-     "views": 4782,
-     "age_hours": 1,
+     "kind": "shorts",
+     "id": "youtube:ddRTZOai7NU",
+     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
+     "title": "GPT-6.2 Astra is HEREEEEE",
+     "channel": "",
+     "views": 15000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MY0g9w6ND2c",
+     "url": "https://www.youtube.com/shorts/MY0g9w6ND2c",
+     "title": "OpenAI Launches GPT-6.2 Astra & Sol Ahead of Anthropic’s IPO",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
      "relevance": 0.75,
-     "velocity": 4782
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5toXOFBfilI",
-     "url": "https://www.youtube.com/watch?v=5toXOFBfilI",
-     "title": "[Breaking News] GPT-6.2 Astra & Sol Released: Highest-ever work benchmark scores, outperforms Fab...",
-     "channel": "AI時短ラボ",
-     "views": 792,
-     "age_hours": 0.8666666666666667,
+     "kind": "shorts",
+     "id": "youtube:dl0Ldq7rmqw",
+     "url": "https://www.youtube.com/shorts/dl0Ldq7rmqw",
+     "title": "GPT-6.2 Astra vs Sol: OpenAI's New AI Models Explained!",
+     "channel": "",
+     "views": 1100,
+     "age_hours": null,
      "relevance": 0.75,
-     "velocity": 792
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TeWOrGfOxxY",
-     "url": "https://www.youtube.com/watch?v=TeWOrGfOxxY",
-     "title": "DeepSeek V5 Trains on Huawei! + Secret \"Silicon-2\" (Fable 5.5?), GPT-6.2 Astra & Gemini 4 Oxygen!",
-     "channel": "Shaown Ships AI",
-     "views": 8528,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 711
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:l9pv_bFi1zc",
-     "url": "https://www.youtube.com/watch?v=l9pv_bFi1zc",
-     "title": "GPT-6.2 Astra leaks, Gemini 4 Krypton in Arena, Gemini 4 Helix!",
-     "channel": "Universe of AI",
-     "views": 33033,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 688
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:1HkGbHPQUzY",
-     "url": "https://www.youtube.com/watch?v=1HkGbHPQUzY",
-     "title": "GPT-6.2 Astra vs Claude Fable 5.2: who takes the belt, and who is still on top?",
-     "channel": "AI Curve Wars",
-     "views": 59,
-     "age_hours": 0.6833333333333333,
-     "relevance": 0.5,
-     "velocity": 59
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QEKUj4snI6U",
-     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
-     "title": "OpenAI Just Dropped GPT-6.2 Astra and Sol. Claude Has Competition.",
-     "channel": "AI Tomorrow Desk",
-     "views": 53,
-     "age_hours": 0.21666666666666667,
+     "kind": "shorts",
+     "id": "youtube:Zb8n5psPmJw",
+     "url": "https://www.youtube.com/shorts/Zb8n5psPmJw",
+     "title": "OpenAI Finally Dropped GPT-6.2 Astra and Sol",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
      "relevance": 0.75,
-     "velocity": 53
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JZvuOplImTQ",
+     "url": "https://www.youtube.com/shorts/JZvuOplImTQ",
+     "title": "ChatGPT just released their newest model 6.2 Astra and Sol and it’s INSANE 🤯🔥 #chatgpt #openai #ai",
+     "channel": "",
+     "views": 906,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:OImN_zFk600",
+     "url": "https://www.youtube.com/shorts/OImN_zFk600",
+     "title": "OpenAI released GPT-6.2 Astra and Sol",
+     "channel": "",
+     "views": 778,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-17T19:10:03.372Z"
+   "searched_at": "2026-11-18T01:12:23.321Z"
   },
   {
    "first_seen": "2026-11-17T12:16:54.816Z",
