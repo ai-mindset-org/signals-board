@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:10:27.751Z",
+ "generated_at": "2026-11-18T12:38:36.132Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: A Chinese",
+   "source": "youtube: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: A Chinese",
+   "source": "tiktok: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "youtube: chinese bottle-cap manufacturer brilliantly",
+   "source": "youtube: openai gpt-6.2 astra sol",
    "ok": true
   },
   {
-   "source": "tiktok: chinese bottle-cap manufacturer brilliantly",
-   "ok": true
-  },
-  {
-   "source": "youtube: Launches Kling Image 4.0 With Native 8K",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Launches Kling Image 4.0 With Native 8K",
-   "ok": true
-  },
-  {
-   "source": "youtube: kling launches image 4.0",
-   "ok": true
-  },
-  {
-   "source": "tiktok: kling launches image 4.0",
+   "source": "tiktok: openai gpt-6.2 astra sol",
    "ok": true
   }
  ],
@@ -226,37 +210,6 @@
    "searched_at": "2026-11-18T01:39:49.916Z"
   },
   {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
-   "ids": [
-    "39893846",
-    "39897031"
-   ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
-    }
-   ],
-   "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T11:10:36.184Z"
-  },
-  {
    "first_seen": "2026-11-16T18:27:03.865Z",
    "id": "39859230",
    "ids": [
@@ -287,6 +240,227 @@
    "searched_at": "2026-11-17T12:49:45.278Z"
   },
   {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39893846",
+   "ids": [
+    "39893846",
+    "39897031"
+   ],
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+    }
+   ],
+   "queries": [
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T11:10:36.184Z"
+  },
+  {
+   "first_seen": "2026-11-16T14:26:02.073Z",
+   "id": "39853697",
+   "ids": [
+    "39853697",
+    "39853294",
+    "39861566",
+    "39868842"
+   ],
+   "title": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "source_id": "x-arstechnica",
+   "published_ts": "2026-11-16 19:10:09",
+   "story_sources": 3,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "US Targets China’s Remote Access to Advanced AI Chips",
+     "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips"
+    },
+    {
+     "source_id": "hn",
+     "title": "US to curb China's access to AI chips",
+     "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
+    }
+   ],
+   "queries": [
+    "us china moves cut"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GIgfxEotFZA",
+     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+     "channel": "Bloomberg Television",
+     "views": 5451,
+     "age_hours": 4,
+     "relevance": 0.88,
+     "velocity": 1363
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z2YVyd3tGG0",
+     "url": "https://www.youtube.com/watch?v=Z2YVyd3tGG0",
+     "title": "US Targets China's Remote Chip Access With New Curbs",
+     "channel": "Bloomberg Television",
+     "views": 1440,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 720
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tw7DKvHT2Bo",
+     "url": "https://www.youtube.com/watch?v=tw7DKvHT2Bo",
+     "title": "US Moves to Curb China’s Chip Access",
+     "channel": "Bloomberg Podcasts",
+     "views": 2948,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 268
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hoS-pUzQHQo",
+     "url": "https://www.youtube.com/watch?v=hoS-pUzQHQo",
+     "title": "Congress Moves to Cut Off China's Nvidia Chips",
+     "channel": "Caucus Daily",
+     "views": 35,
+     "age_hours": 72,
+     "relevance": 0.57,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T08:50:03.537Z"
+  },
+  {
+   "first_seen": "2026-11-18T12:38:36.132Z",
+   "id": "39898568",
+   "ids": [
+    "39898568",
+    "39888347"
+   ],
+   "title": "OpenAI rolls out GPT-6.2 Astra and Sol models",
+   "url": "https://www.techmonitor.ai/news/openai-rolls-out-gpt-6-2-astra-and-sol-models",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-18 09:23:06",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+     "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
+    }
+   ],
+   "queries": [
+    "GPT-6.2 Astra",
+    "openai gpt-6.2 astra sol"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:C1zYX5jwqq4",
+     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+     "channel": "OpenAI",
+     "views": 286084,
+     "age_hours": 18,
+     "relevance": 0.57,
+     "velocity": 15894
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JVHkb8PTMvc",
+     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
+     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+     "channel": "Matt Wolfe",
+     "views": 72176,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 7218
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wgWtx1wW6Gk",
+     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
+     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
+     "channel": "Universe of AI",
+     "views": 49909,
+     "age_hours": 12,
+     "relevance": 0.57,
+     "velocity": 4159
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6Sz_8EhZWAc",
+     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
+     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
+     "channel": "Every",
+     "views": 52501,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 3088
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gmTGfq0eXKo",
+     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
+     "title": "GPT-6.2 Astra is out and it's MEH...",
+     "channel": "Никита Ефимов | ИИ и автоматизация",
+     "views": 22162,
+     "age_hours": 10,
+     "relevance": 0.75,
+     "velocity": 2216
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QEKUj4snI6U",
+     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
+     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
+     "channel": "AI Tomorrow Desk",
+     "views": 18590,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 1094
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T12:38:43.852Z"
+  },
+  {
    "first_seen": "2026-11-18T07:49:34.295Z",
    "id": "39894404",
    "ids": [
@@ -298,7 +472,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-18 05:46:45",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "hn",
@@ -388,92 +562,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T07:49:38.752Z"
-  },
-  {
-   "first_seen": "2026-11-16T14:26:02.073Z",
-   "id": "39853697",
-   "ids": [
-    "39853697",
-    "39853294",
-    "39861566",
-    "39868842"
-   ],
-   "title": "US moves to cut China’s remote access to AI chips",
-   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-   "source_id": "x-arstechnica",
-   "published_ts": "2026-11-16 19:10:09",
-   "story_sources": 3,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "US Targets China’s Remote Access to Advanced AI Chips",
-     "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips"
-    },
-    {
-     "source_id": "hn",
-     "title": "US to curb China's access to AI chips",
-     "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
-    }
-   ],
-   "queries": [
-    "us china moves cut"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GIgfxEotFZA",
-     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
-     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-     "channel": "Bloomberg Television",
-     "views": 5451,
-     "age_hours": 4,
-     "relevance": 0.88,
-     "velocity": 1363
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z2YVyd3tGG0",
-     "url": "https://www.youtube.com/watch?v=Z2YVyd3tGG0",
-     "title": "US Targets China's Remote Chip Access With New Curbs",
-     "channel": "Bloomberg Television",
-     "views": 1440,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 720
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tw7DKvHT2Bo",
-     "url": "https://www.youtube.com/watch?v=tw7DKvHT2Bo",
-     "title": "US Moves to Curb China’s Chip Access",
-     "channel": "Bloomberg Podcasts",
-     "views": 2948,
-     "age_hours": 11,
-     "relevance": 0.67,
-     "velocity": 268
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hoS-pUzQHQo",
-     "url": "https://www.youtube.com/watch?v=hoS-pUzQHQo",
-     "title": "Congress Moves to Cut Off China's Nvidia Chips",
-     "channel": "Caucus Daily",
-     "views": 35,
-     "age_hours": 72,
-     "relevance": 0.57,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T08:50:03.537Z"
   },
   {
    "first_seen": "2026-11-17T20:11:45.130Z",
@@ -822,110 +910,6 @@
    "searched_at": "2026-11-18T09:36:27.223Z"
   },
   {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39897114",
-   "ids": [
-    "39897114",
-    "39892315"
-   ],
-   "title": "Kling AI Launches Kling Image 4.0 With Native 8K and Coordinated Image Sets",
-   "url": "https://pandaily.com/kling-image-4-native-8k-text-coordinated-image-sets",
-   "source_id": "cn-pandaily",
-   "published_ts": "2026-11-18 07:10:56",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "China’s Kling AI launches 8K image model",
-     "url": "https://www.techinasia.com/news/chinas-kling-ai-launches-8k-image-model"
-    }
-   ],
-   "queries": [
-    "Launches Kling Image 4.0 With Native 8K",
-    "kling launches image 4.0"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-M0baaTf4TI",
-     "url": "https://www.youtube.com/shorts/-M0baaTf4TI",
-     "title": "Kling 4.0 Is INSANE! 🤯 The Future of AI Video?",
-     "channel": "",
-     "views": 408,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0PLcLGRtKTY",
-     "url": "https://www.youtube.com/shorts/0PLcLGRtKTY",
-     "title": "Kling 4.0 Image now on invideo",
-     "channel": "",
-     "views": 92,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ph4FBys61qE",
-     "url": "https://www.youtube.com/shorts/Ph4FBys61qE",
-     "title": "Kling Image 4.0 API: 8K, 2,000-Character Text, Image Sets",
-     "channel": "",
-     "views": 35,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bkgtxX1dpDs",
-     "url": "https://www.youtube.com/shorts/bkgtxX1dpDs",
-     "title": "Kling 4.0: What's New in 45 Seconds",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lWmiiy2QOLQ",
-     "url": "https://www.youtube.com/shorts/lWmiiy2QOLQ",
-     "title": "Kling Image 4.0 Generation Model Announced",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TWythTUs2P8",
-     "url": "https://www.youtube.com/shorts/TWythTUs2P8",
-     "title": "Kling Image 4.0: Native 8K and 2,000 Characters in One Image",
-     "channel": "",
-     "views": 23,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-18T11:10:43.216Z"
-  },
-  {
    "first_seen": "2026-11-17T11:10:28.641Z",
    "id": "39873994",
    "ids": [
@@ -1029,6 +1013,110 @@
    "searched_at": "2026-11-17T11:10:32.761Z"
   },
   {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39897114",
+   "ids": [
+    "39897114",
+    "39892315"
+   ],
+   "title": "Kling AI Launches Kling Image 4.0 With Native 8K and Coordinated Image Sets",
+   "url": "https://pandaily.com/kling-image-4-native-8k-text-coordinated-image-sets",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-11-18 07:10:56",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "China’s Kling AI launches 8K image model",
+     "url": "https://www.techinasia.com/news/chinas-kling-ai-launches-8k-image-model"
+    }
+   ],
+   "queries": [
+    "Launches Kling Image 4.0 With Native 8K",
+    "kling launches image 4.0"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-M0baaTf4TI",
+     "url": "https://www.youtube.com/shorts/-M0baaTf4TI",
+     "title": "Kling 4.0 Is INSANE! 🤯 The Future of AI Video?",
+     "channel": "",
+     "views": 408,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0PLcLGRtKTY",
+     "url": "https://www.youtube.com/shorts/0PLcLGRtKTY",
+     "title": "Kling 4.0 Image now on invideo",
+     "channel": "",
+     "views": 92,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ph4FBys61qE",
+     "url": "https://www.youtube.com/shorts/Ph4FBys61qE",
+     "title": "Kling Image 4.0 API: 8K, 2,000-Character Text, Image Sets",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bkgtxX1dpDs",
+     "url": "https://www.youtube.com/shorts/bkgtxX1dpDs",
+     "title": "Kling 4.0: What's New in 45 Seconds",
+     "channel": "",
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lWmiiy2QOLQ",
+     "url": "https://www.youtube.com/shorts/lWmiiy2QOLQ",
+     "title": "Kling Image 4.0 Generation Model Announced",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TWythTUs2P8",
+     "url": "https://www.youtube.com/shorts/TWythTUs2P8",
+     "title": "Kling Image 4.0: Native 8K and 2,000 Characters in One Image",
+     "channel": "",
+     "views": 23,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-18T11:10:43.216Z"
+  },
+  {
    "first_seen": "2026-11-18T07:12:49.981Z",
    "id": "39894047",
    "ids": [
@@ -1040,7 +1128,7 @@
    "source_id": "africa-itweb",
    "published_ts": "2026-11-18 06:32:00",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "africa-cioafrica",
@@ -1085,7 +1173,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-18 02:06:34",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -1391,61 +1479,6 @@
    "searched_at": "2026-11-16T13:26:46.139Z"
   },
   {
-   "first_seen": "2026-11-18T09:49:29.625Z",
-   "id": "39891510",
-   "ids": [
-    "39891510",
-    "39895850"
-   ],
-   "title": "Nvidia stops selling AI chips to China despite US approval",
-   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-stops-selling-ai-chips-to-china-despite-us-approval/article71714394.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-18 03:18:48",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
-    }
-   ],
-   "queries": [
-    "nvidia china us stops"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7D9BQro_xMQ",
-     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
-     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
-     "channel": "",
-     "views": 28000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GIgfxEotFZA",
-     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
-     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-     "channel": "Bloomberg Television",
-     "views": 12825,
-     "age_hours": 24,
-     "relevance": 0.56,
-     "velocity": 534
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-18T09:49:34.056Z"
-  },
-  {
    "first_seen": "2026-11-17T03:26:16.056Z",
    "id": "39868161",
    "ids": [
@@ -1523,6 +1556,61 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T09:37:04.889Z"
+  },
+  {
+   "first_seen": "2026-11-18T09:49:29.625Z",
+   "id": "39891510",
+   "ids": [
+    "39891510",
+    "39895850"
+   ],
+   "title": "Nvidia stops selling AI chips to China despite US approval",
+   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-stops-selling-ai-chips-to-china-despite-us-approval/article71714394.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-18 03:18:48",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
+    }
+   ],
+   "queries": [
+    "nvidia china us stops"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7D9BQro_xMQ",
+     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
+     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
+     "channel": "",
+     "views": 28000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GIgfxEotFZA",
+     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+     "channel": "Bloomberg Television",
+     "views": 12825,
+     "age_hours": 24,
+     "relevance": 0.56,
+     "velocity": 534
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T09:49:34.056Z"
   },
   {
    "first_seen": "2026-11-17T11:49:36.719Z",
