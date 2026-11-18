@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:09:56.414Z",
+ "generated_at": "2026-11-18T23:20:44.009Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: A Chinese",
+   "ok": true
+  },
+  {
+   "source": "tiktok: A Chinese",
+   "ok": true
+  },
+  {
+   "source": "youtube: chinese bottle-cap manufacturer brilliantly",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chinese bottle-cap manufacturer brilliantly",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-18T22:20:32.233Z",
@@ -2262,7 +2279,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-18T17:20:35.404Z"
+   "searched_at": "2026-11-18T23:20:51.935Z"
   },
   {
    "first_seen": "2026-11-17T12:38:02.562Z",
