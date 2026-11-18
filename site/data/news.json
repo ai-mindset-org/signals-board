@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:50:05.934Z",
+ "generated_at": "2026-11-18T14:23:35.982Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: microsoft unveils ai models",
+   "source": "youtube: Mehr Datenschutz",
    "ok": true
   },
   {
-   "source": "tiktok: microsoft unveils ai models",
+   "source": "tiktok: Mehr Datenschutz",
+   "ok": true
+  },
+  {
+   "source": "youtube: mehr datenschutz gemini ki-training",
+   "ok": true
+  },
+  {
+   "source": "tiktok: mehr datenschutz gemini ki-training",
    "ok": true
   }
  ],
@@ -140,6 +148,37 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-18T13:21:50.654Z"
+  },
+  {
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
+   "ids": [
+    "39899877",
+    "39900377"
+   ],
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T14:23:43.835Z"
   },
   {
    "first_seen": "2026-11-17T12:16:54.816Z",
@@ -464,7 +503,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-18 05:46:45",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "hn",
