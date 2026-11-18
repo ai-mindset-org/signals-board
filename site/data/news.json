@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:16:33.467Z",
+ "generated_at": "2026-11-18T02:49:27.163Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Isomorphic Labs Raises 5 Billion",
+   "source": "youtube: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: Isomorphic Labs Raises 5 Billion",
+   "source": "tiktok: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "youtube: isomorphic labs raises billion",
+   "source": "youtube: openai gpt-6.2 astra sol",
    "ok": true
   },
   {
-   "source": "tiktok: isomorphic labs raises billion",
+   "source": "tiktok: openai gpt-6.2 astra sol",
    "ok": true
   }
  ],
@@ -1174,22 +1174,10 @@
      "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
      "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
      "channel": "Every",
-     "views": 4404,
-     "age_hours": 1,
+     "views": 37845,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": 4404
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JePtqPwfD6M",
-     "url": "https://www.youtube.com/watch?v=JePtqPwfD6M",
-     "title": "GPT-6.2 Astra: Mixed Emotions",
-     "channel": "Nick Saraev",
-     "views": 2699,
-     "age_hours": 0.4166666666666667,
-     "relevance": 0.5,
-     "velocity": 2699
+     "velocity": 4731
     },
     {
      "platform": "youtube",
@@ -1198,10 +1186,22 @@
      "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
      "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
      "channel": "AI Tomorrow Desk",
-     "views": 1686,
-     "age_hours": 1,
+     "views": 15116,
+     "age_hours": 7,
      "relevance": 0.5,
-     "velocity": 1686
+     "velocity": 2159
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:eMp3jxjERoQ",
+     "url": "https://www.youtube.com/watch?v=eMp3jxjERoQ",
+     "title": "OpenAI's GPT-6.2 Sol & Astra Is Out!",
+     "channel": "ByteForward",
+     "views": 2697,
+     "age_hours": 5,
+     "relevance": 0.8,
+     "velocity": 539
     },
     {
      "platform": "youtube",
@@ -1210,41 +1210,41 @@
      "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
      "title": "GPT-6.2 Astra is HEREEEEE",
      "channel": "",
-     "views": 4100,
+     "views": 18000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dl0Ldq7rmqw",
-     "url": "https://www.youtube.com/shorts/dl0Ldq7rmqw",
-     "title": "GPT-6.2 Astra vs Sol: OpenAI's New AI Models Explained!",
-     "channel": "",
-     "views": 305,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:RImuSZrM_ec",
+     "url": "https://www.youtube.com/watch?v=RImuSZrM_ec",
+     "title": "GPT-6.2 Astra and Sol: The NEW ChatGPT models explained",
+     "channel": "Grégory Beyrouti",
+     "views": 2418,
+     "age_hours": 6,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 403
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:OImN_zFk600",
-     "url": "https://www.youtube.com/shorts/OImN_zFk600",
-     "title": "OpenAI released GPT-6.2 Astra and Sol",
-     "channel": "",
-     "views": 229,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:ZEK0_ZhNEhI",
+     "url": "https://www.youtube.com/watch?v=ZEK0_ZhNEhI",
+     "title": "GPT-6.2 Astra & Sol Tested + Results",
+     "channel": "Mark Santos",
+     "views": 106,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 106
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-17T20:36:45.926Z"
+   "searched_at": "2026-11-18T02:49:35.154Z"
   },
   {
    "first_seen": "2026-11-15T11:20:22.920Z",
