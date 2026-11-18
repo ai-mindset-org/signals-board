@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:49:42.040Z",
+ "generated_at": "2026-11-18T20:35:42.963Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT-6.2 Astra",
+   "source": "youtube: Mehr Datenschutz",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-6.2 Astra",
+   "source": "tiktok: Mehr Datenschutz",
    "ok": true
   },
   {
-   "source": "youtube: openai gpt-6.2 astra sol",
+   "source": "youtube: mehr datenschutz gemini ki-training",
    "ok": true
   },
   {
-   "source": "tiktok: openai gpt-6.2 astra sol",
+   "source": "tiktok: mehr datenschutz gemini ki-training",
    "ok": true
   }
  ],
@@ -344,37 +344,6 @@
    "searched_at": "2026-11-17T12:49:45.278Z"
   },
   {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T14:23:43.835Z"
-  },
-  {
    "first_seen": "2026-11-16T14:26:02.073Z",
    "id": "39853697",
    "ids": [
@@ -674,6 +643,37 @@
    "searched_at": "2026-11-17T10:49:48.642Z"
   },
   {
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
+   "ids": [
+    "39899877",
+    "39900377"
+   ],
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T20:35:51.259Z"
+  },
+  {
    "first_seen": "2026-11-16T23:20:14.683Z",
    "id": "39864605",
    "ids": [
@@ -702,37 +702,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-17T11:35:33.717Z"
-  },
-  {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
-   "ids": [
-    "39893846",
-    "39897031"
-   ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
-    }
-   ],
-   "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T17:20:35.404Z"
   },
   {
    "first_seen": "2026-11-17T15:11:47.890Z",
@@ -939,110 +908,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-17T11:10:32.761Z"
-  },
-  {
-   "first_seen": "2026-11-18T12:38:36.132Z",
-   "id": "39898568",
-   "ids": [
-    "39898568",
-    "39888347"
-   ],
-   "title": "OpenAI rolls out GPT-6.2 Astra and Sol models",
-   "url": "https://www.techmonitor.ai/news/openai-rolls-out-gpt-6-2-astra-and-sol-models",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-18 09:23:06",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
-     "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "openai gpt-6.2 astra sol"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C1zYX5jwqq4",
-     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
-     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
-     "channel": "OpenAI",
-     "views": 307995,
-     "age_hours": 24,
-     "relevance": 0.57,
-     "velocity": 12833
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JVHkb8PTMvc",
-     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
-     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
-     "channel": "Matt Wolfe",
-     "views": 95546,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 5620
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wgWtx1wW6Gk",
-     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
-     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
-     "channel": "Universe of AI",
-     "views": 57556,
-     "age_hours": 19,
-     "relevance": 0.57,
-     "velocity": 3029
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6Sz_8EhZWAc",
-     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
-     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
-     "channel": "Every",
-     "views": 57030,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 2376
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QEKUj4snI6U",
-     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
-     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
-     "channel": "AI Tomorrow Desk",
-     "views": 19426,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 845
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ddRTZOai7NU",
-     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
-     "title": "GPT-6.2 Astra is HEREEEEE",
-     "channel": "",
-     "views": 25000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-18T18:49:50.231Z"
   },
   {
    "first_seen": "2026-11-18T07:49:34.295Z",
@@ -1302,6 +1167,37 @@
    "searched_at": "2026-11-18T08:27:35.274Z"
   },
   {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39893846",
+   "ids": [
+    "39893846",
+    "39897031"
+   ],
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+    }
+   ],
+   "queries": [
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T17:20:35.404Z"
+  },
+  {
    "first_seen": "2026-11-16T06:58:04.021Z",
    "id": "39847363",
    "ids": [
@@ -1507,6 +1403,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T17:20:42.304Z"
+  },
+  {
+   "first_seen": "2026-11-18T12:38:36.132Z",
+   "id": "39898568",
+   "ids": [
+    "39898568",
+    "39888347"
+   ],
+   "title": "OpenAI rolls out GPT-6.2 Astra and Sol models",
+   "url": "https://www.techmonitor.ai/news/openai-rolls-out-gpt-6-2-astra-and-sol-models",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-18 09:23:06",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+     "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
+    }
+   ],
+   "queries": [
+    "GPT-6.2 Astra",
+    "openai gpt-6.2 astra sol"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:C1zYX5jwqq4",
+     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+     "channel": "OpenAI",
+     "views": 307995,
+     "age_hours": 24,
+     "relevance": 0.57,
+     "velocity": 12833
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JVHkb8PTMvc",
+     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
+     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+     "channel": "Matt Wolfe",
+     "views": 95546,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 5620
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wgWtx1wW6Gk",
+     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
+     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
+     "channel": "Universe of AI",
+     "views": 57556,
+     "age_hours": 19,
+     "relevance": 0.57,
+     "velocity": 3029
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6Sz_8EhZWAc",
+     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
+     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
+     "channel": "Every",
+     "views": 57030,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 2376
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QEKUj4snI6U",
+     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
+     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
+     "channel": "AI Tomorrow Desk",
+     "views": 19426,
+     "age_hours": 23,
+     "relevance": 0.5,
+     "velocity": 845
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ddRTZOai7NU",
+     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
+     "title": "GPT-6.2 Astra is HEREEEEE",
+     "channel": "",
+     "views": 25000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T18:49:50.231Z"
   },
   {
    "first_seen": "2026-11-17T03:26:16.056Z",
