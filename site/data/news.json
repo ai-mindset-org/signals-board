@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:10:39.674Z",
+ "generated_at": "2026-11-18T17:20:26.666Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT-6.2 Astra",
+   "source": "youtube: A Chinese",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-6.2 Astra",
+   "source": "tiktok: A Chinese",
    "ok": true
   },
   {
-   "source": "youtube: openai gpt-6.2 astra sol",
+   "source": "youtube: chinese bottle-cap manufacturer brilliantly",
    "ok": true
   },
   {
-   "source": "tiktok: openai gpt-6.2 astra sol",
+   "source": "tiktok: chinese bottle-cap manufacturer brilliantly",
+   "ok": true
+  },
+  {
+   "source": "youtube: Launches Kling Image 4.0 With Native 8K",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Launches Kling Image 4.0 With Native 8K",
+   "ok": true
+  },
+  {
+   "source": "youtube: kling launches image 4.0",
+   "ok": true
+  },
+  {
+   "source": "tiktok: kling launches image 4.0",
    "ok": true
   }
  ],
@@ -42,7 +58,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-17 17:45:00",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "hn",
@@ -150,37 +166,6 @@
    "searched_at": "2026-11-18T13:21:50.654Z"
   },
   {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T14:23:43.835Z"
-  },
-  {
    "first_seen": "2026-11-17T12:16:54.816Z",
    "id": "39875066",
    "ids": [
@@ -271,35 +256,35 @@
    "searched_at": "2026-11-17T12:49:45.278Z"
   },
   {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
    "ids": [
-    "39893846",
-    "39897031"
+    "39899877",
+    "39900377"
    ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 75,
    "related_news": [
     {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
     }
    ],
    "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
    ],
    "videos": [],
    "verdict": {
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-18T11:10:36.184Z"
+   "searched_at": "2026-11-18T14:23:43.835Z"
   },
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
@@ -386,213 +371,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T08:50:03.537Z"
-  },
-  {
-   "first_seen": "2026-11-18T12:38:36.132Z",
-   "id": "39898568",
-   "ids": [
-    "39898568",
-    "39888347"
-   ],
-   "title": "OpenAI rolls out GPT-6.2 Astra and Sol models",
-   "url": "https://www.techmonitor.ai/news/openai-rolls-out-gpt-6-2-astra-and-sol-models",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-18 09:23:06",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
-     "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "openai gpt-6.2 astra sol"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C1zYX5jwqq4",
-     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
-     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
-     "channel": "OpenAI",
-     "views": 286084,
-     "age_hours": 18,
-     "relevance": 0.57,
-     "velocity": 15894
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JVHkb8PTMvc",
-     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
-     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
-     "channel": "Matt Wolfe",
-     "views": 72176,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 7218
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wgWtx1wW6Gk",
-     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
-     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
-     "channel": "Universe of AI",
-     "views": 49909,
-     "age_hours": 12,
-     "relevance": 0.57,
-     "velocity": 4159
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6Sz_8EhZWAc",
-     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
-     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
-     "channel": "Every",
-     "views": 52501,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 3088
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gmTGfq0eXKo",
-     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
-     "title": "GPT-6.2 Astra is out and it's MEH...",
-     "channel": "Никита Ефимов | ИИ и автоматизация",
-     "views": 22162,
-     "age_hours": 10,
-     "relevance": 0.75,
-     "velocity": 2216
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QEKUj4snI6U",
-     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
-     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
-     "channel": "AI Tomorrow Desk",
-     "views": 18590,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 1094
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-18T12:38:43.852Z"
-  },
-  {
-   "first_seen": "2026-11-18T07:49:34.295Z",
-   "id": "39894404",
-   "ids": [
-    "39894404",
-    "39883591"
-   ],
-   "title": "Microsoft unveils AI models for coding, cybersecurity",
-   "url": "https://www.techinasia.com/news/microsoft-unveils-ai-models-coding-cybersecurity",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-18 05:46:45",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Microsoft unveils AI models for coding, cybersecurity",
-     "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
-    }
-   ],
-   "queries": [
-    "microsoft unveils ai models"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ez0Pdj972c8",
-     "url": "https://www.youtube.com/watch?v=ez0Pdj972c8",
-     "title": "Microsoft Unveils New AI Models: Claims Rival-Level Performance At Lower Cost | WION",
-     "channel": "WION",
-     "views": 1676,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 279
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PjSkJ5eQA-M",
-     "url": "https://www.youtube.com/shorts/PjSkJ5eQA-M",
-     "title": "Microsoft takes on OpenAI and Anthropic with seven new AI models at Ignite 2026",
-     "channel": "",
-     "views": 195,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TEkBILOEXqE",
-     "url": "https://www.youtube.com/shorts/TEkBILOEXqE",
-     "title": "Microsoft Launches New AI Models to Challenge OpenAI and Anthropic",
-     "channel": "",
-     "views": 100,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NyhVW9DG1Lo",
-     "url": "https://www.youtube.com/shorts/NyhVW9DG1Lo",
-     "title": "Microsoft Unveils 6 Specialized AI Models at Ignite",
-     "channel": "",
-     "views": 64,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Rgpdvoxyta0",
-     "url": "https://www.youtube.com/shorts/Rgpdvoxyta0",
-     "title": "Microsoft Just Revealed 7 NEW AI Models! 🤯 | Ignite 2026 #Shorts",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s8nw2FsCy04",
-     "url": "https://www.youtube.com/shorts/s8nw2FsCy04",
-     "title": "Microsoft Just Dropped 7 AI Models | AI Facts #79",
-     "channel": "",
-     "views": 28,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-18T13:50:10.196Z"
   },
   {
    "first_seen": "2026-11-17T20:11:45.130Z",
@@ -1045,37 +823,79 @@
   },
   {
    "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39897114",
+   "id": "39893846",
    "ids": [
-    "39897114",
-    "39892315"
+    "39893846",
+    "39897031"
    ],
-   "title": "Kling AI Launches Kling Image 4.0 With Native 8K and Coordinated Image Sets",
-   "url": "https://pandaily.com/kling-image-4-native-8k-text-coordinated-image-sets",
-   "source_id": "cn-pandaily",
-   "published_ts": "2026-11-18 07:10:56",
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 65,
    "related_news": [
     {
-     "source_id": "sea-techinasia",
-     "title": "China’s Kling AI launches 8K image model",
-     "url": "https://www.techinasia.com/news/chinas-kling-ai-launches-8k-image-model"
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
     }
    ],
    "queries": [
-    "Launches Kling Image 4.0 With Native 8K",
-    "kling launches image 4.0"
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T17:20:35.404Z"
+  },
+  {
+   "first_seen": "2026-11-18T07:49:34.295Z",
+   "id": "39894404",
+   "ids": [
+    "39894404",
+    "39883591"
+   ],
+   "title": "Microsoft unveils AI models for coding, cybersecurity",
+   "url": "https://www.techinasia.com/news/microsoft-unveils-ai-models-coding-cybersecurity",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-18 05:46:45",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Microsoft unveils AI models for coding, cybersecurity",
+     "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
+    }
+   ],
+   "queries": [
+    "microsoft unveils ai models"
    ],
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ez0Pdj972c8",
+     "url": "https://www.youtube.com/watch?v=ez0Pdj972c8",
+     "title": "Microsoft Unveils New AI Models: Claims Rival-Level Performance At Lower Cost | WION",
+     "channel": "WION",
+     "views": 1676,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 279
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:-M0baaTf4TI",
-     "url": "https://www.youtube.com/shorts/-M0baaTf4TI",
-     "title": "Kling 4.0 Is INSANE! 🤯 The Future of AI Video?",
+     "id": "youtube:PjSkJ5eQA-M",
+     "url": "https://www.youtube.com/shorts/PjSkJ5eQA-M",
+     "title": "Microsoft takes on OpenAI and Anthropic with seven new AI models at Ignite 2026",
      "channel": "",
-     "views": 408,
+     "views": 195,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1083,35 +903,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:0PLcLGRtKTY",
-     "url": "https://www.youtube.com/shorts/0PLcLGRtKTY",
-     "title": "Kling 4.0 Image now on invideo",
+     "id": "youtube:TEkBILOEXqE",
+     "url": "https://www.youtube.com/shorts/TEkBILOEXqE",
+     "title": "Microsoft Launches New AI Models to Challenge OpenAI and Anthropic",
      "channel": "",
-     "views": 92,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ph4FBys61qE",
-     "url": "https://www.youtube.com/shorts/Ph4FBys61qE",
-     "title": "Kling Image 4.0 API: 8K, 2,000-Character Text, Image Sets",
-     "channel": "",
-     "views": 35,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:bkgtxX1dpDs",
-     "url": "https://www.youtube.com/shorts/bkgtxX1dpDs",
-     "title": "Kling 4.0: What's New in 45 Seconds",
-     "channel": "",
-     "views": 33,
+     "views": 100,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1119,11 +915,23 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:lWmiiy2QOLQ",
-     "url": "https://www.youtube.com/shorts/lWmiiy2QOLQ",
-     "title": "Kling Image 4.0 Generation Model Announced",
+     "id": "youtube:NyhVW9DG1Lo",
+     "url": "https://www.youtube.com/shorts/NyhVW9DG1Lo",
+     "title": "Microsoft Unveils 6 Specialized AI Models at Ignite",
      "channel": "",
-     "views": 24,
+     "views": 64,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Rgpdvoxyta0",
+     "url": "https://www.youtube.com/shorts/Rgpdvoxyta0",
+     "title": "Microsoft Just Revealed 7 NEW AI Models! 🤯 | Ignite 2026 #Shorts",
+     "channel": "",
+     "views": 63,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1131,13 +939,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:TWythTUs2P8",
-     "url": "https://www.youtube.com/shorts/TWythTUs2P8",
-     "title": "Kling Image 4.0: Native 8K and 2,000 Characters in One Image",
+     "id": "youtube:s8nw2FsCy04",
+     "url": "https://www.youtube.com/shorts/s8nw2FsCy04",
+     "title": "Microsoft Just Dropped 7 AI Models | AI Facts #79",
      "channel": "",
-     "views": 23,
+     "views": 28,
      "age_hours": null,
-     "relevance": 0.63,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -1145,7 +953,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-18T11:10:43.216Z"
+   "searched_at": "2026-11-18T13:50:10.196Z"
   },
   {
    "first_seen": "2026-11-18T07:12:49.981Z",
@@ -1302,24 +1110,23 @@
    "searched_at": "2026-11-18T08:27:35.274Z"
   },
   {
-   "first_seen": "2026-11-17T20:36:37.117Z",
-   "id": "39885750",
+   "first_seen": "2026-11-18T12:38:36.132Z",
+   "id": "39898568",
    "ids": [
-    "39885750",
-    "39884701",
-    "39892306"
+    "39898568",
+    "39888347"
    ],
-   "title": "OpenAI launches GPT-6.2 Astra, Sol with lower token use",
-   "url": "https://www.techinasia.com/news/openai-launches-gpt62-astra-sol-token",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-18 02:06:34",
+   "title": "OpenAI rolls out GPT-6.2 Astra and Sol models",
+   "url": "https://www.techmonitor.ai/news/openai-rolls-out-gpt-6-2-astra-and-sol-models",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-18 09:23:06",
    "story_sources": 2,
    "score_norm": 61,
    "related_news": [
     {
-     "source_id": "x-dailyai",
-     "title": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
-     "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+     "source_id": "siliconangle-ai",
+     "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+     "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
     }
    ],
    "queries": [
@@ -1330,26 +1137,38 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:JVHkb8PTMvc",
-     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
-     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
-     "channel": "Matt Wolfe",
-     "views": 82878,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 6375
+     "id": "youtube:C1zYX5jwqq4",
+     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+     "channel": "OpenAI",
+     "views": 286084,
+     "age_hours": 18,
+     "relevance": 0.57,
+     "velocity": 15894
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:PqY0SNF5s94",
-     "url": "https://www.youtube.com/watch?v=PqY0SNF5s94",
-     "title": "GPT-6.2 Astra y Sol: OpenAI responde a Anthropic… y FRACASA",
-     "channel": "Inteligencia Artificial",
-     "views": 6145,
-     "age_hours": 2,
+     "id": "youtube:JVHkb8PTMvc",
+     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
+     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+     "channel": "Matt Wolfe",
+     "views": 72176,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 7218
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wgWtx1wW6Gk",
+     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
+     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
+     "channel": "Universe of AI",
+     "views": 49909,
+     "age_hours": 12,
      "relevance": 0.57,
-     "velocity": 3073
+     "velocity": 4159
     },
     {
      "platform": "youtube",
@@ -1358,10 +1177,10 @@
      "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
      "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
      "channel": "Every",
-     "views": 54752,
-     "age_hours": 20,
+     "views": 52501,
+     "age_hours": 17,
      "relevance": 0.5,
-     "velocity": 2738
+     "velocity": 3088
     },
     {
      "platform": "youtube",
@@ -1370,10 +1189,10 @@
      "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
      "title": "GPT-6.2 Astra is out and it's MEH...",
      "channel": "Никита Ефимов | ИИ и автоматизация",
-     "views": 25108,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 2092
+     "views": 22162,
+     "age_hours": 10,
+     "relevance": 0.75,
+     "velocity": 2216
     },
     {
      "platform": "youtube",
@@ -1382,29 +1201,17 @@
      "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
      "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
      "channel": "AI Tomorrow Desk",
-     "views": 18987,
-     "age_hours": 20,
+     "views": 18590,
+     "age_hours": 17,
      "relevance": 0.5,
-     "velocity": 949
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ddRTZOai7NU",
-     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
-     "title": "GPT-6.2 Astra is HEREEEEE",
-     "channel": "",
-     "views": 24000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
+     "velocity": 1094
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-18T15:10:47.894Z"
+   "searched_at": "2026-11-18T12:38:43.852Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
@@ -1508,6 +1315,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-16T13:26:46.139Z"
+  },
+  {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39897114",
+   "ids": [
+    "39897114",
+    "39892315"
+   ],
+   "title": "Kling AI Launches Kling Image 4.0 With Native 8K and Coordinated Image Sets",
+   "url": "https://pandaily.com/kling-image-4-native-8k-text-coordinated-image-sets",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-11-18 07:10:56",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "China’s Kling AI launches 8K image model",
+     "url": "https://www.techinasia.com/news/chinas-kling-ai-launches-8k-image-model"
+    }
+   ],
+   "queries": [
+    "Launches Kling Image 4.0 With Native 8K",
+    "kling launches image 4.0"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WHeO4oYggD8",
+     "url": "https://www.youtube.com/shorts/WHeO4oYggD8",
+     "title": "Kling Image 4.0 is now available on Morphic",
+     "channel": "",
+     "views": 278,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0PLcLGRtKTY",
+     "url": "https://www.youtube.com/shorts/0PLcLGRtKTY",
+     "title": "Kling 4.0 Image now on invideo",
+     "channel": "",
+     "views": 118,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ph4FBys61qE",
+     "url": "https://www.youtube.com/shorts/Ph4FBys61qE",
+     "title": "Kling Image 4.0 API: 8K, 2,000-Character Text, Image Sets",
+     "channel": "",
+     "views": 56,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:lzhsGXsfSnM",
+     "url": "https://www.youtube.com/watch?v=lzhsGXsfSnM",
+     "title": "OpenAI Launches GPT-6.2 Astra and Sol + Kling Image 4.0 Goes 8K | AI News Nov 18",
+     "channel": "CreativeAINews",
+     "views": 2,
+     "age_hours": 3,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3CnLFvSe29M",
+     "url": "https://www.youtube.com/watch?v=3CnLFvSe29M",
+     "title": "Kling Image 4.0: Native 8K, HEX Colors & Consistent AI Image Sets",
+     "channel": "ABV — AI · Books · Validation",
+     "views": 2,
+     "age_hours": 3,
+     "relevance": 0.78,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TWythTUs2P8",
+     "url": "https://www.youtube.com/shorts/TWythTUs2P8",
+     "title": "Kling Image 4.0: Native 8K and 2,000 Characters in One Image",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-18T17:20:42.304Z"
   },
   {
    "first_seen": "2026-11-17T03:26:16.056Z",
@@ -1642,6 +1553,111 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-18T09:49:34.056Z"
+  },
+  {
+   "first_seen": "2026-11-17T20:36:37.117Z",
+   "id": "39885750",
+   "ids": [
+    "39885750",
+    "39884701",
+    "39892306"
+   ],
+   "title": "OpenAI launches GPT-6.2 Astra, Sol with lower token use",
+   "url": "https://www.techinasia.com/news/openai-launches-gpt62-astra-sol-token",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-18 02:06:34",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+     "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    }
+   ],
+   "queries": [
+    "GPT-6.2 Astra",
+    "openai gpt-6.2 astra sol"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JVHkb8PTMvc",
+     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
+     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+     "channel": "Matt Wolfe",
+     "views": 82878,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 6375
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:PqY0SNF5s94",
+     "url": "https://www.youtube.com/watch?v=PqY0SNF5s94",
+     "title": "GPT-6.2 Astra y Sol: OpenAI responde a Anthropic… y FRACASA",
+     "channel": "Inteligencia Artificial",
+     "views": 6145,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 3073
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6Sz_8EhZWAc",
+     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
+     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
+     "channel": "Every",
+     "views": 54752,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 2738
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gmTGfq0eXKo",
+     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
+     "title": "GPT-6.2 Astra is out and it's MEH...",
+     "channel": "Никита Ефимов | ИИ и автоматизация",
+     "views": 25108,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 2092
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QEKUj4snI6U",
+     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
+     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
+     "channel": "AI Tomorrow Desk",
+     "views": 18987,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 949
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ddRTZOai7NU",
+     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
+     "title": "GPT-6.2 Astra is HEREEEEE",
+     "channel": "",
+     "views": 24000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T15:10:47.894Z"
   },
   {
    "first_seen": "2026-11-17T11:49:36.719Z",
