@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:49:34.295Z",
+ "generated_at": "2026-11-18T08:27:27.469Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: microsoft unveils ai models",
+   "source": "youtube: Isomorphic Labs Raises 5 Billion",
    "ok": true
   },
   {
-   "source": "tiktok: microsoft unveils ai models",
+   "source": "tiktok: Isomorphic Labs Raises 5 Billion",
+   "ok": true
+  },
+  {
+   "source": "youtube: isomorphic labs raises billion",
+   "ok": true
+  },
+  {
+   "source": "tiktok: isomorphic labs raises billion",
    "ok": true
   }
  ],
@@ -1020,7 +1028,19 @@
      "url": "https://www.youtube.com/shorts/G_4wLrgwgvg",
      "title": "Isomorphic Labs Raised $5 Billion to Fund AI Drug Discovery",
      "channel": "",
-     "views": 39,
+     "views": 693,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:12xT60UYJcM",
+     "url": "https://www.youtube.com/shorts/12xT60UYJcM",
+     "title": "Isomorphic Labs just raised $5 billion to design new medicines with AI (Series C, announced November",
+     "channel": "",
+     "views": 40,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
@@ -1032,22 +1052,10 @@
      "url": "https://www.youtube.com/watch?v=kXGkkUp64H4",
      "title": "Isomorphic Labs Secures $5 Billion in Record AI Drug Discovery Funding",
      "channel": "AI is changing the world",
-     "views": 3,
-     "age_hours": 3,
+     "views": 5,
+     "age_hours": 9,
      "relevance": 0.71,
      "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:12xT60UYJcM",
-     "url": "https://www.youtube.com/shorts/12xT60UYJcM",
-     "title": "Isomorphic Labs just raised $5 billion to design new medicines with AI (Series C, announced November",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
     },
     {
      "platform": "youtube",
@@ -1056,9 +1064,21 @@
      "url": "https://www.youtube.com/shorts/uNlPAQR86YY",
      "title": "Demis Hassabis's Isomorphic Labs raises $5B to design drugs with AI",
      "channel": "",
-     "views": 12,
+     "views": 16,
      "age_hours": null,
      "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f4SYmRrF1Y4",
+     "url": "https://www.youtube.com/shorts/f4SYmRrF1Y4",
+     "title": "Isomorphic Labs Raises $5 Billion to Move AI-Designed Drugs Toward Clinical Trials #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -1068,21 +1088,9 @@
      "url": "https://www.youtube.com/shorts/2051VH1jLIM",
      "title": "Isomorphic Labs raises $5B for AI drug trials | codemago.dev/news",
      "channel": "",
-     "views": 8,
+     "views": 11,
      "age_hours": null,
      "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ADZWbkWvOu0",
-     "url": "https://www.youtube.com/shorts/ADZWbkWvOu0",
-     "title": "Isomorphic Labs raises $5 billion in a Series C led by Greenoaks and Sequoia",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -1090,7 +1098,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-18T02:16:42.413Z"
+   "searched_at": "2026-11-18T08:27:35.274Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
