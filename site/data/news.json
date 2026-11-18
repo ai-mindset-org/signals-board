@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:36:22.854Z",
+ "generated_at": "2026-11-18T09:49:29.625Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: genesis 500 ai raises",
+   "source": "youtube: nvidia china us stops",
    "ok": true
   },
   {
-   "source": "tiktok: genesis 500 ai raises",
+   "source": "tiktok: nvidia china us stops",
    "ok": true
   }
  ],
@@ -1230,6 +1230,61 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-16T13:26:46.139Z"
+  },
+  {
+   "first_seen": "2026-11-18T09:49:29.625Z",
+   "id": "39891510",
+   "ids": [
+    "39891510",
+    "39895850"
+   ],
+   "title": "Nvidia stops selling AI chips to China despite US approval",
+   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-stops-selling-ai-chips-to-china-despite-us-approval/article71714394.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-18 03:18:48",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
+    }
+   ],
+   "queries": [
+    "nvidia china us stops"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7D9BQro_xMQ",
+     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
+     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
+     "channel": "",
+     "views": 28000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GIgfxEotFZA",
+     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+     "channel": "Bloomberg Television",
+     "views": 12825,
+     "age_hours": 24,
+     "relevance": 0.56,
+     "velocity": 534
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T09:49:34.056Z"
   },
   {
    "first_seen": "2026-11-17T03:26:16.056Z",
