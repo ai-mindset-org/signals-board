@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T22:20:32.233Z",
+ "generated_at": "2026-11-18T23:09:56.414Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: anthropic ipo 83 reportedly",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo 83 reportedly",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-18T22:20:32.233Z",
@@ -24,7 +15,8 @@
    "ids": [
     "39909716",
     "39909306",
-    "39909154"
+    "39909154",
+    "39910490"
    ],
    "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
@@ -33,6 +25,11 @@
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
+     "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
+    },
     {
      "source_id": "hn",
      "title": "Anthropic Prices IPO at $83 a Share",
@@ -2077,7 +2074,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-11-18 13:31:00",
    "story_sources": 2,
-   "score_norm": 47,
+   "score_norm": 48,
    "related_news": [
     {
      "source_id": "eu-t3n",
