@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:20:26.666Z",
+ "generated_at": "2026-11-18T18:12:47.706Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,39 +9,127 @@
  },
  "search_report": [
   {
-   "source": "youtube: A Chinese",
+   "source": "youtube: Google’s Spark",
    "ok": true
   },
   {
-   "source": "tiktok: A Chinese",
+   "source": "tiktok: Google’s Spark",
    "ok": true
   },
   {
-   "source": "youtube: chinese bottle-cap manufacturer brilliantly",
+   "source": "youtube: google spark tasks can",
    "ok": true
   },
   {
-   "source": "tiktok: chinese bottle-cap manufacturer brilliantly",
-   "ok": true
-  },
-  {
-   "source": "youtube: Launches Kling Image 4.0 With Native 8K",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Launches Kling Image 4.0 With Native 8K",
-   "ok": true
-  },
-  {
-   "source": "youtube: kling launches image 4.0",
-   "ok": true
-  },
-  {
-   "source": "tiktok: kling launches image 4.0",
+   "source": "tiktok: google spark tasks can",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-18T18:12:47.706Z",
+   "id": "39905435",
+   "ids": [
+    "39905435",
+    "39886586"
+   ],
+   "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
+   "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-18 17:11:39",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "theverge",
+     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    }
+   ],
+   "queries": [
+    "Google’s Spark",
+    "google spark tasks can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:q7mEDMHZ74A",
+     "url": "https://www.youtube.com/shorts/q7mEDMHZ74A",
+     "title": "Gemini Tasks Is Free Now: How to Turn It On",
+     "channel": "",
+     "views": 132,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8BPYMLxGJ6o",
+     "url": "https://www.youtube.com/shorts/8BPYMLxGJ6o",
+     "title": "Google makes Gemini Tasks free: an AI that runs your errands",
+     "channel": "",
+     "views": 73,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RSbvIKbBX-c",
+     "url": "https://www.youtube.com/shorts/RSbvIKbBX-c",
+     "title": "Gemini Tasks: free AI agent, no AI Pro needed",
+     "channel": "",
+     "views": 48,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tOnHZZ0sMx0",
+     "url": "https://www.youtube.com/shorts/tOnHZZ0sMx0",
+     "title": "Google's AI Agent Is Now Free. Here's What It Can Do",
+     "channel": "",
+     "views": 45,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fABXtwHycf8",
+     "url": "https://www.youtube.com/shorts/fABXtwHycf8",
+     "title": "Gemini Tasks Is Now Free: Gemini Can Call Businesses and Shop for You (New AI Agent) #shorts",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YGmhF4A4Vo0",
+     "url": "https://www.youtube.com/shorts/YGmhF4A4Vo0",
+     "title": "Google Gemini Tasks Is NOW FREE! 🤯 AI Agent That Works for You! #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-18T18:13:00.349Z"
+  },
   {
    "first_seen": "2026-11-17T19:09:55.618Z",
    "id": "39884260",
@@ -719,6 +807,37 @@
    "searched_at": "2026-11-18T09:36:27.223Z"
   },
   {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39893846",
+   "ids": [
+    "39893846",
+    "39897031"
+   ],
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+    }
+   ],
+   "queries": [
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T17:20:35.404Z"
+  },
+  {
    "first_seen": "2026-11-17T11:10:28.641Z",
    "id": "39873994",
    "ids": [
@@ -822,35 +941,108 @@
    "searched_at": "2026-11-17T11:10:32.761Z"
   },
   {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
+   "first_seen": "2026-11-18T12:38:36.132Z",
+   "id": "39898568",
    "ids": [
-    "39893846",
-    "39897031"
+    "39898568",
+    "39888347"
    ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
+   "title": "OpenAI rolls out GPT-6.2 Astra and Sol models",
+   "url": "https://www.techmonitor.ai/news/openai-rolls-out-gpt-6-2-astra-and-sol-models",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-18 09:23:06",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 62,
    "related_news": [
     {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+     "source_id": "siliconangle-ai",
+     "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+     "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
     }
    ],
    "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
+    "GPT-6.2 Astra",
+    "openai gpt-6.2 astra sol"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:C1zYX5jwqq4",
+     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+     "channel": "OpenAI",
+     "views": 286084,
+     "age_hours": 18,
+     "relevance": 0.57,
+     "velocity": 15894
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JVHkb8PTMvc",
+     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
+     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+     "channel": "Matt Wolfe",
+     "views": 72176,
+     "age_hours": 10,
+     "relevance": 0.5,
+     "velocity": 7218
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wgWtx1wW6Gk",
+     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
+     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
+     "channel": "Universe of AI",
+     "views": 49909,
+     "age_hours": 12,
+     "relevance": 0.57,
+     "velocity": 4159
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6Sz_8EhZWAc",
+     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
+     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
+     "channel": "Every",
+     "views": 52501,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 3088
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gmTGfq0eXKo",
+     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
+     "title": "GPT-6.2 Astra is out and it's MEH...",
+     "channel": "Никита Ефимов | ИИ и автоматизация",
+     "views": 22162,
+     "age_hours": 10,
+     "relevance": 0.75,
+     "velocity": 2216
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QEKUj4snI6U",
+     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
+     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
+     "channel": "AI Tomorrow Desk",
+     "views": 18590,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 1094
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-18T17:20:35.404Z"
+   "searched_at": "2026-11-18T12:38:43.852Z"
   },
   {
    "first_seen": "2026-11-18T07:49:34.295Z",
@@ -1108,110 +1300,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T08:27:35.274Z"
-  },
-  {
-   "first_seen": "2026-11-18T12:38:36.132Z",
-   "id": "39898568",
-   "ids": [
-    "39898568",
-    "39888347"
-   ],
-   "title": "OpenAI rolls out GPT-6.2 Astra and Sol models",
-   "url": "https://www.techmonitor.ai/news/openai-rolls-out-gpt-6-2-astra-and-sol-models",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-18 09:23:06",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
-     "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "openai gpt-6.2 astra sol"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C1zYX5jwqq4",
-     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
-     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
-     "channel": "OpenAI",
-     "views": 286084,
-     "age_hours": 18,
-     "relevance": 0.57,
-     "velocity": 15894
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JVHkb8PTMvc",
-     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
-     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
-     "channel": "Matt Wolfe",
-     "views": 72176,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 7218
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wgWtx1wW6Gk",
-     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
-     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
-     "channel": "Universe of AI",
-     "views": 49909,
-     "age_hours": 12,
-     "relevance": 0.57,
-     "velocity": 4159
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6Sz_8EhZWAc",
-     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
-     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
-     "channel": "Every",
-     "views": 52501,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 3088
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gmTGfq0eXKo",
-     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
-     "title": "GPT-6.2 Astra is out and it's MEH...",
-     "channel": "Никита Ефимов | ИИ и автоматизация",
-     "views": 22162,
-     "age_hours": 10,
-     "relevance": 0.75,
-     "velocity": 2216
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QEKUj4snI6U",
-     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
-     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
-     "channel": "AI Tomorrow Desk",
-     "views": 18590,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 1094
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-18T12:38:43.852Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
