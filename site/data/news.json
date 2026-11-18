@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:38:36.132Z",
+ "generated_at": "2026-11-18T13:21:42.461Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT-6.2 Astra",
+   "source": "youtube: Introducing GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-6.2 Astra",
+   "source": "tiktok: Introducing GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "youtube: openai gpt-6.2 astra sol",
+   "source": "youtube: introducing gpt-6.2 astra sol",
    "ok": true
   },
   {
-   "source": "tiktok: openai gpt-6.2 astra sol",
+   "source": "tiktok: introducing gpt-6.2 astra sol",
+   "ok": true
+  },
+  {
+   "source": "youtube: Africa Tech Festival",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Africa Tech Festival",
+   "ok": true
+  },
+  {
+   "source": "youtube: vertiv ai-ready africa tech",
+   "ok": true
+  },
+  {
+   "source": "tiktok: vertiv ai-ready africa tech",
    "ok": true
   }
  ],
@@ -72,82 +88,82 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:C1zYX5jwqq4",
+     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
+     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+     "channel": "OpenAI",
+     "views": 289535,
+     "age_hours": 19,
+     "relevance": 0.75,
+     "velocity": 15239
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wgWtx1wW6Gk",
+     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
+     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
+     "channel": "Universe of AI",
+     "views": 51379,
+     "age_hours": 13,
+     "relevance": 0.75,
+     "velocity": 3952
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6Sz_8EhZWAc",
+     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
+     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
+     "channel": "Every",
+     "views": 53332,
+     "age_hours": 18,
+     "relevance": 0.5,
+     "velocity": 2963
+    },
+    {
+     "platform": "youtube",
      "kind": "с борда",
      "id": "youtube:JVHkb8PTMvc",
      "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
      "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
      "channel": "@mreflow",
      "views": 32000,
-     "age_hours": 4.657650833333333,
+     "age_hours": 10.805660833333333,
      "relevance": 0.5,
-     "velocity": 6870
+     "velocity": 2961
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ddRTZOai7NU",
-     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
-     "title": "GPT-6.2 Astra is HEREEEEE",
-     "channel": "",
-     "views": 21000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dl0Ldq7rmqw",
-     "url": "https://www.youtube.com/shorts/dl0Ldq7rmqw",
-     "title": "GPT-6.2 Astra vs Sol: OpenAI's New AI Models Explained!",
-     "channel": "",
-     "views": 1700,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:5toXOFBfilI",
+     "url": "https://www.youtube.com/watch?v=5toXOFBfilI",
+     "title": "[Breaking News] GPT-6.2 Astra & Sol Released: Highest-ever work benchmark scores, outperforms Fab...",
+     "channel": "AI時短ラボ",
+     "views": 48528,
+     "age_hours": 19,
      "relevance": 0.75,
-     "velocity": null
+     "velocity": 2554
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MY0g9w6ND2c",
-     "url": "https://www.youtube.com/shorts/MY0g9w6ND2c",
-     "title": "OpenAI Launches GPT-6.2 Astra & Sol Ahead of Anthropic’s IPO",
-     "channel": "",
-     "views": 1600,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:EYdXAzZ3YOA",
-     "url": "https://www.youtube.com/shorts/EYdXAzZ3YOA",
-     "title": "OpenAI just released GPT-6.2 Astra, and one of the most trusted developers in AI, Theo from T3…",
-     "channel": "",
-     "views": 1500,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:KuE5mMHsF9U",
+     "url": "https://www.youtube.com/watch?v=KuE5mMHsF9U",
+     "title": "GPT-6.2 Astra와 Sol 첫날 평가: 능력은 최고인데 왜 별로라고 할까? (사례 + 직접 실측)",
+     "channel": "단테",
+     "views": 9191,
+     "age_hours": 8,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Zb8n5psPmJw",
-     "url": "https://www.youtube.com/shorts/Zb8n5psPmJw",
-     "title": "OpenAI Finally Dropped GPT-6.2 Astra and Sol",
-     "channel": "",
-     "views": 1500,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
+     "velocity": 1149
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-18T07:12:57.817Z"
+   "searched_at": "2026-11-18T13:21:50.654Z"
   },
   {
    "first_seen": "2026-11-17T12:16:54.816Z",
@@ -251,7 +267,7 @@
    "source_id": "theregister",
    "published_ts": "2026-11-18 06:32:00",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "eu-theregister",
@@ -368,7 +384,7 @@
    "source_id": "eu-techmonitor",
    "published_ts": "2026-11-18 09:23:06",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -472,7 +488,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-18 05:46:45",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -1024,7 +1040,7 @@
    "source_id": "cn-pandaily",
    "published_ts": "2026-11-18 07:10:56",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -1148,7 +1164,7 @@
      "url": "https://www.youtube.com/shorts/NmvbIWLuExA",
      "title": "Africa Tech Festival #africatech",
      "channel": "",
-     "views": 14,
+     "views": 31,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -1158,7 +1174,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-18T07:13:04.779Z"
+   "searched_at": "2026-11-18T13:21:57.688Z"
   },
   {
    "first_seen": "2026-11-17T20:36:37.117Z",
