@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:49:29.625Z",
+ "generated_at": "2026-11-18T11:10:27.751Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: nvidia china us stops",
+   "source": "youtube: A Chinese",
    "ok": true
   },
   {
-   "source": "tiktok: nvidia china us stops",
+   "source": "tiktok: A Chinese",
+   "ok": true
+  },
+  {
+   "source": "youtube: chinese bottle-cap manufacturer brilliantly",
+   "ok": true
+  },
+  {
+   "source": "tiktok: chinese bottle-cap manufacturer brilliantly",
+   "ok": true
+  },
+  {
+   "source": "youtube: Launches Kling Image 4.0 With Native 8K",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Launches Kling Image 4.0 With Native 8K",
+   "ok": true
+  },
+  {
+   "source": "youtube: kling launches image 4.0",
+   "ok": true
+  },
+  {
+   "source": "tiktok: kling launches image 4.0",
    "ok": true
   }
  ],
@@ -202,6 +226,37 @@
    "searched_at": "2026-11-18T01:39:49.916Z"
   },
   {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39893846",
+   "ids": [
+    "39893846",
+    "39897031"
+   ],
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+    }
+   ],
+   "queries": [
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T11:10:36.184Z"
+  },
+  {
    "first_seen": "2026-11-16T18:27:03.865Z",
    "id": "39859230",
    "ids": [
@@ -243,7 +298,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-18 05:46:45",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
@@ -767,6 +822,110 @@
    "searched_at": "2026-11-18T09:36:27.223Z"
   },
   {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39897114",
+   "ids": [
+    "39897114",
+    "39892315"
+   ],
+   "title": "Kling AI Launches Kling Image 4.0 With Native 8K and Coordinated Image Sets",
+   "url": "https://pandaily.com/kling-image-4-native-8k-text-coordinated-image-sets",
+   "source_id": "cn-pandaily",
+   "published_ts": "2026-11-18 07:10:56",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "China’s Kling AI launches 8K image model",
+     "url": "https://www.techinasia.com/news/chinas-kling-ai-launches-8k-image-model"
+    }
+   ],
+   "queries": [
+    "Launches Kling Image 4.0 With Native 8K",
+    "kling launches image 4.0"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-M0baaTf4TI",
+     "url": "https://www.youtube.com/shorts/-M0baaTf4TI",
+     "title": "Kling 4.0 Is INSANE! 🤯 The Future of AI Video?",
+     "channel": "",
+     "views": 408,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0PLcLGRtKTY",
+     "url": "https://www.youtube.com/shorts/0PLcLGRtKTY",
+     "title": "Kling 4.0 Image now on invideo",
+     "channel": "",
+     "views": 92,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Ph4FBys61qE",
+     "url": "https://www.youtube.com/shorts/Ph4FBys61qE",
+     "title": "Kling Image 4.0 API: 8K, 2,000-Character Text, Image Sets",
+     "channel": "",
+     "views": 35,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bkgtxX1dpDs",
+     "url": "https://www.youtube.com/shorts/bkgtxX1dpDs",
+     "title": "Kling 4.0: What's New in 45 Seconds",
+     "channel": "",
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lWmiiy2QOLQ",
+     "url": "https://www.youtube.com/shorts/lWmiiy2QOLQ",
+     "title": "Kling Image 4.0 Generation Model Announced",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TWythTUs2P8",
+     "url": "https://www.youtube.com/shorts/TWythTUs2P8",
+     "title": "Kling Image 4.0: Native 8K and 2,000 Characters in One Image",
+     "channel": "",
+     "views": 23,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-18T11:10:43.216Z"
+  },
+  {
    "first_seen": "2026-11-17T11:10:28.641Z",
    "id": "39873994",
    "ids": [
@@ -881,7 +1040,7 @@
    "source_id": "africa-itweb",
    "published_ts": "2026-11-18 06:32:00",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "africa-cioafrica",
@@ -1031,7 +1190,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-17 12:11:21",
    "story_sources": 3,
-   "score_norm": 61,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1243,7 +1402,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-18 03:18:48",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 57,
    "related_news": [
     {
      "source_id": "hn",
