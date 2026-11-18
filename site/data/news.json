@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:35:42.963Z",
+ "generated_at": "2026-11-18T21:49:51.799Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,146 @@
  },
  "search_report": [
   {
-   "source": "youtube: Mehr Datenschutz",
+   "source": "youtube: Introducing Gemini 4 Neon",
    "ok": true
   },
   {
-   "source": "tiktok: Mehr Datenschutz",
+   "source": "tiktok: Introducing Gemini 4 Neon",
    "ok": true
   },
   {
-   "source": "youtube: mehr datenschutz gemini ki-training",
+   "source": "youtube: introducing gemini neon",
    "ok": true
   },
   {
-   "source": "tiktok: mehr datenschutz gemini ki-training",
+   "source": "tiktok: introducing gemini neon",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-18T21:49:51.799Z",
+   "id": "39909242",
+   "ids": [
+    "39909242",
+    "39909086",
+    "39909085",
+    "39908928",
+    "39908540",
+    "39908541"
+   ],
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "source_id": "deepmind",
+   "published_ts": "2026-11-18 21:35:43",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Neon",
+     "url": "https://twitter.com/sundarpichai/status/2123167780988125621"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Neon",
+     "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/guides/gemini-4-neon"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Neon",
+     "url": "https://aistudio.google.com/docs/models/gemini-4-neon"
+    }
+   ],
+   "queries": [
+    "Introducing Gemini 4 Neon",
+    "introducing gemini neon"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:q8iHsdzd94U",
+     "url": "https://www.youtube.com/watch?v=q8iHsdzd94U",
+     "title": "Claude Fable 5.5 or Opus 5.6?! GPT-6.2 Astra & Sol, Gemini 4 Neon TODAY! & Microsoft MAI! AI NEWS",
+     "channel": "WorldofAI",
+     "views": 75778,
+     "age_hours": 12,
+     "relevance": 0.67,
+     "velocity": 6315
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WRdgKyOTPXA",
+     "url": "https://www.youtube.com/watch?v=WRdgKyOTPXA",
+     "title": "GPT-6.2 Astra Is INSANE! Gemini 4 Neon, OpenAI AGI CONFIRMED?!, Claude Code UPGRADES & MORE! AI NEWS",
+     "channel": "WorldofAI",
+     "views": 116427,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 4851
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IZFjOq9H9FU",
+     "url": "https://www.youtube.com/watch?v=IZFjOq9H9FU",
+     "title": "[#AINews No.517] Generate Websites from Gemini Notebook Sources! Rumors of the New Gemini 4 Neon ...",
+     "channel": "AI整体師",
+     "views": 3621,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 151
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Q0ShBenKyqo",
+     "url": "https://www.youtube.com/watch?v=Q0ShBenKyqo",
+     "title": "Gemini 4 Neon",
+     "channel": "Prompt Engineering",
+     "views": 37,
+     "age_hours": 0.05,
+     "relevance": 1,
+     "velocity": 37
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_jsNG7VHZEA",
+     "url": "https://www.youtube.com/shorts/_jsNG7VHZEA",
+     "title": "Gemini 4 Neon Leaked! Google’s Next AI Model?",
+     "channel": "",
+     "views": 560,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:d_DeZLipHcE",
+     "url": "https://www.youtube.com/shorts/d_DeZLipHcE",
+     "title": "Gemini 4 Neon is insane🔥",
+     "channel": "",
+     "views": 401,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T21:49:59.596Z"
+  },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
    "id": "39905435",
@@ -643,37 +766,6 @@
    "searched_at": "2026-11-17T10:49:48.642Z"
   },
   {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T20:35:51.259Z"
-  },
-  {
    "first_seen": "2026-11-16T23:20:14.683Z",
    "id": "39864605",
    "ids": [
@@ -1165,37 +1257,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T08:27:35.274Z"
-  },
-  {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
-   "ids": [
-    "39893846",
-    "39897031"
-   ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
-    }
-   ],
-   "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T17:20:35.404Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
@@ -1872,6 +1933,37 @@
    "searched_at": "2026-11-17T04:36:58.103Z"
   },
   {
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
+   "ids": [
+    "39899877",
+    "39900377"
+   ],
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
+   "story_sources": 2,
+   "score_norm": 51,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T20:35:51.259Z"
+  },
+  {
    "first_seen": "2026-11-17T09:13:08.872Z",
    "id": "39872592",
    "ids": [
@@ -1969,6 +2061,37 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-17T12:49:48.933Z"
+  },
+  {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39893846",
+   "ids": [
+    "39893846",
+    "39897031"
+   ],
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+    }
+   ],
+   "queries": [
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T17:20:35.404Z"
   },
   {
    "first_seen": "2026-11-16T03:15:19.837Z",
