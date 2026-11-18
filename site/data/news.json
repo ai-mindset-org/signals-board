@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:23:35.982Z",
+ "generated_at": "2026-11-18T15:10:39.674Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Mehr Datenschutz",
+   "source": "youtube: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: Mehr Datenschutz",
+   "source": "tiktok: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "youtube: mehr datenschutz gemini ki-training",
+   "source": "youtube: openai gpt-6.2 astra sol",
    "ok": true
   },
   {
-   "source": "tiktok: mehr datenschutz gemini ki-training",
+   "source": "tiktok: openai gpt-6.2 astra sol",
    "ok": true
   }
  ],
@@ -161,7 +161,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-11-18 13:31:00",
    "story_sources": 2,
-   "score_norm": 86,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "eu-t3n",
@@ -282,7 +282,7 @@
    "source_id": "theregister",
    "published_ts": "2026-11-18 06:32:00",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "eu-theregister",
@@ -399,7 +399,7 @@
    "source_id": "eu-techmonitor",
    "published_ts": "2026-11-18 09:23:06",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "siliconangle-ai",
@@ -1055,7 +1055,7 @@
    "source_id": "cn-pandaily",
    "published_ts": "2026-11-18 07:10:56",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -1192,111 +1192,6 @@
    "searched_at": "2026-11-18T13:21:57.688Z"
   },
   {
-   "first_seen": "2026-11-17T20:36:37.117Z",
-   "id": "39885750",
-   "ids": [
-    "39885750",
-    "39884701",
-    "39892306"
-   ],
-   "title": "OpenAI launches GPT-6.2 Astra, Sol with lower token use",
-   "url": "https://www.techinasia.com/news/openai-launches-gpt62-astra-sol-token",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-18 02:06:34",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
-     "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "openai gpt-6.2 astra sol"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JVHkb8PTMvc",
-     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
-     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
-     "channel": "Matt Wolfe",
-     "views": 51487,
-     "age_hours": 7,
-     "relevance": 0.5,
-     "velocity": 7355
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6Sz_8EhZWAc",
-     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
-     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
-     "channel": "Every",
-     "views": 47904,
-     "age_hours": 14,
-     "relevance": 0.5,
-     "velocity": 3422
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gmTGfq0eXKo",
-     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
-     "title": "GPT-6.2 Astra is out and it's MEH...",
-     "channel": "Никита Ефимов | ИИ и автоматизация",
-     "views": 8259,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 1377
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QEKUj4snI6U",
-     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
-     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
-     "channel": "AI Tomorrow Desk",
-     "views": 17857,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 1374
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ddRTZOai7NU",
-     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
-     "title": "GPT-6.2 Astra is HEREEEEE",
-     "channel": "",
-     "views": 22000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eMp3jxjERoQ",
-     "url": "https://www.youtube.com/watch?v=eMp3jxjERoQ",
-     "title": "OpenAI's GPT-6.2 Sol & Astra Is Out!",
-     "channel": "ByteForward",
-     "views": 3909,
-     "age_hours": 11,
-     "relevance": 0.8,
-     "velocity": 355
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-18T08:50:09.541Z"
-  },
-  {
    "first_seen": "2026-11-17T13:37:07.741Z",
    "id": "39875288",
    "ids": [
@@ -1405,6 +1300,111 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T08:27:35.274Z"
+  },
+  {
+   "first_seen": "2026-11-17T20:36:37.117Z",
+   "id": "39885750",
+   "ids": [
+    "39885750",
+    "39884701",
+    "39892306"
+   ],
+   "title": "OpenAI launches GPT-6.2 Astra, Sol with lower token use",
+   "url": "https://www.techinasia.com/news/openai-launches-gpt62-astra-sol-token",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-18 02:06:34",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "OpenAI Launches GPT-6.2 Astra and Sol With Lower Astra Prices",
+     "url": "https://dailyai.com/2026/11/openai-launches-gpt-6-2-astra-sol-lower-astra-prices/"
+    }
+   ],
+   "queries": [
+    "GPT-6.2 Astra",
+    "openai gpt-6.2 astra sol"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JVHkb8PTMvc",
+     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
+     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+     "channel": "Matt Wolfe",
+     "views": 82878,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 6375
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:PqY0SNF5s94",
+     "url": "https://www.youtube.com/watch?v=PqY0SNF5s94",
+     "title": "GPT-6.2 Astra y Sol: OpenAI responde a Anthropic… y FRACASA",
+     "channel": "Inteligencia Artificial",
+     "views": 6145,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 3073
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6Sz_8EhZWAc",
+     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
+     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
+     "channel": "Every",
+     "views": 54752,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 2738
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gmTGfq0eXKo",
+     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
+     "title": "GPT-6.2 Astra is out and it's MEH...",
+     "channel": "Никита Ефимов | ИИ и автоматизация",
+     "views": 25108,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 2092
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QEKUj4snI6U",
+     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
+     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
+     "channel": "AI Tomorrow Desk",
+     "views": 18987,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 949
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ddRTZOai7NU",
+     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
+     "title": "GPT-6.2 Astra is HEREEEEE",
+     "channel": "",
+     "views": 24000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T15:10:47.894Z"
   },
   {
    "first_seen": "2026-11-16T06:58:04.021Z",
