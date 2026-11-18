@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:49:27.163Z",
+ "generated_at": "2026-11-18T03:26:17.187Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT-6.2 Astra",
+   "source": "youtube: genesis 500 ai raises",
    "ok": true
   },
   {
-   "source": "tiktok: GPT-6.2 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai gpt-6.2 astra sol",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai gpt-6.2 astra sol",
+   "source": "tiktok: genesis 500 ai raises",
    "ok": true
   }
  ],
@@ -191,7 +183,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-17 22:52:29",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "hn",
@@ -595,6 +587,18 @@
     {
      "platform": "youtube",
      "kind": "shorts",
+     "id": "youtube:JUJ3cHgdTXw",
+     "url": "https://www.youtube.com/shorts/JUJ3cHgdTXw",
+     "title": "Genesis AI Raises $500M for Robots With Human-Like Hands — What It Means for You",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
      "id": "youtube:euqB3sRBPnQ",
      "url": "https://www.youtube.com/shorts/euqB3sRBPnQ",
      "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
@@ -606,13 +610,13 @@
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JUJ3cHgdTXw",
-     "url": "https://www.youtube.com/shorts/JUJ3cHgdTXw",
-     "title": "Genesis AI Raises $500M for Robots With Human-Like Hands — What It Means for You",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:FJ1zU6M3K6w",
+     "url": "https://www.youtube.com/watch?v=FJ1zU6M3K6w",
+     "title": "Genesis AI raises $500M for general-purpose robots — and more news today",
+     "channel": "Robotics News Daily",
+     "views": 0,
+     "age_hours": 5,
      "relevance": 0.5,
      "velocity": null
     }
@@ -621,7 +625,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-17T21:20:22.586Z"
+   "searched_at": "2026-11-18T03:26:21.593Z"
   },
   {
    "first_seen": "2026-11-17T11:10:28.641Z",
