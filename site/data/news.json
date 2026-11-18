@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:49:51.799Z",
+ "generated_at": "2026-11-18T22:20:32.233Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,192 @@
  },
  "search_report": [
   {
-   "source": "youtube: Introducing Gemini 4 Neon",
+   "source": "youtube: anthropic ipo 83 reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: Introducing Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing gemini neon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing gemini neon",
+   "source": "tiktok: anthropic ipo 83 reportedly",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-18T22:20:32.233Z",
+   "id": "39909716",
+   "ids": [
+    "39909716",
+    "39909306",
+    "39909154"
+   ],
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-18 22:11:15",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic Prices IPO at $83 a Share",
+     "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic prices IPO at $83 per share",
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    }
+   ],
+   "queries": [
+    "anthropic ipo 83 reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GZR_3RkttrU",
+     "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
+     "title": "Should you invest in Anthropic's IPO?",
+     "channel": "",
+     "views": 19000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:bm8o8PKeIUM",
+     "url": "https://www.youtube.com/watch?v=bm8o8PKeIUM",
+     "title": "Anthropic IPO reportedly priced at $83, above its range | ANT stock",
+     "channel": "Two Bells",
+     "views": 0,
+     "age_hours": 0.5833333333333334,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Dt1E_4u8bUQ",
+     "url": "https://www.youtube.com/shorts/Dt1E_4u8bUQ",
+     "title": "Anthropic IPO: $83 a share, reports say",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T22:20:36.394Z"
+  },
+  {
+   "first_seen": "2026-11-18T18:12:47.706Z",
+   "id": "39905435",
+   "ids": [
+    "39905435",
+    "39886586"
+   ],
+   "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
+   "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-18 17:11:39",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "theverge",
+     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    }
+   ],
+   "queries": [
+    "Google’s Spark",
+    "google spark tasks can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:q7mEDMHZ74A",
+     "url": "https://www.youtube.com/shorts/q7mEDMHZ74A",
+     "title": "Gemini Tasks Is Free Now: How to Turn It On",
+     "channel": "",
+     "views": 132,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8BPYMLxGJ6o",
+     "url": "https://www.youtube.com/shorts/8BPYMLxGJ6o",
+     "title": "Google makes Gemini Tasks free: an AI that runs your errands",
+     "channel": "",
+     "views": 73,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RSbvIKbBX-c",
+     "url": "https://www.youtube.com/shorts/RSbvIKbBX-c",
+     "title": "Gemini Tasks: free AI agent, no AI Pro needed",
+     "channel": "",
+     "views": 48,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tOnHZZ0sMx0",
+     "url": "https://www.youtube.com/shorts/tOnHZZ0sMx0",
+     "title": "Google's AI Agent Is Now Free. Here's What It Can Do",
+     "channel": "",
+     "views": 45,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fABXtwHycf8",
+     "url": "https://www.youtube.com/shorts/fABXtwHycf8",
+     "title": "Gemini Tasks Is Now Free: Gemini Can Call Businesses and Shop for You (New AI Agent) #shorts",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YGmhF4A4Vo0",
+     "url": "https://www.youtube.com/shorts/YGmhF4A4Vo0",
+     "title": "Google Gemini Tasks Is NOW FREE! 🤯 AI Agent That Works for You! #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-18T18:13:00.349Z"
+  },
   {
    "first_seen": "2026-11-18T21:49:51.799Z",
    "id": "39909242",
@@ -42,7 +211,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-18 21:35:43",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "hn",
@@ -148,110 +317,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-18T21:49:59.596Z"
-  },
-  {
-   "first_seen": "2026-11-18T18:12:47.706Z",
-   "id": "39905435",
-   "ids": [
-    "39905435",
-    "39886586"
-   ],
-   "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
-   "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
-   "source_id": "zdnet-ai",
-   "published_ts": "2026-11-18 17:11:39",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "theverge",
-     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
-    }
-   ],
-   "queries": [
-    "Google’s Spark",
-    "google spark tasks can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:q7mEDMHZ74A",
-     "url": "https://www.youtube.com/shorts/q7mEDMHZ74A",
-     "title": "Gemini Tasks Is Free Now: How to Turn It On",
-     "channel": "",
-     "views": 132,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8BPYMLxGJ6o",
-     "url": "https://www.youtube.com/shorts/8BPYMLxGJ6o",
-     "title": "Google makes Gemini Tasks free: an AI that runs your errands",
-     "channel": "",
-     "views": 73,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RSbvIKbBX-c",
-     "url": "https://www.youtube.com/shorts/RSbvIKbBX-c",
-     "title": "Gemini Tasks: free AI agent, no AI Pro needed",
-     "channel": "",
-     "views": 48,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tOnHZZ0sMx0",
-     "url": "https://www.youtube.com/shorts/tOnHZZ0sMx0",
-     "title": "Google's AI Agent Is Now Free. Here's What It Can Do",
-     "channel": "",
-     "views": 45,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fABXtwHycf8",
-     "url": "https://www.youtube.com/shorts/fABXtwHycf8",
-     "title": "Gemini Tasks Is Now Free: Gemini Can Call Businesses and Shop for You (New AI Agent) #shorts",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YGmhF4A4Vo0",
-     "url": "https://www.youtube.com/shorts/YGmhF4A4Vo0",
-     "title": "Google Gemini Tasks Is NOW FREE! 🤯 AI Agent That Works for You! #Shorts",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-18T18:13:00.349Z"
   },
   {
    "first_seen": "2026-11-17T19:09:55.618Z",
@@ -1933,37 +1998,6 @@
    "searched_at": "2026-11-17T04:36:58.103Z"
   },
   {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T20:35:51.259Z"
-  },
-  {
    "first_seen": "2026-11-17T09:13:08.872Z",
    "id": "39872592",
    "ids": [
@@ -2032,6 +2066,37 @@
    "searched_at": "2026-11-17T09:13:16.619Z"
   },
   {
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
+   "ids": [
+    "39899877",
+    "39900377"
+   ],
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T20:35:51.259Z"
+  },
+  {
    "first_seen": "2026-11-16T18:14:26.964Z",
    "id": "39859233",
    "ids": [
@@ -2061,37 +2126,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-17T12:49:48.933Z"
-  },
-  {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
-   "ids": [
-    "39893846",
-    "39897031"
-   ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
-   "story_sources": 2,
-   "score_norm": 46,
-   "related_news": [
-    {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
-    }
-   ],
-   "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T17:20:35.404Z"
   },
   {
    "first_seen": "2026-11-16T03:15:19.837Z",
@@ -2201,6 +2235,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-16T15:19:27.680Z"
+  },
+  {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39893846",
+   "ids": [
+    "39893846",
+    "39897031"
+   ],
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+    }
+   ],
+   "queries": [
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T17:20:35.404Z"
   },
   {
    "first_seen": "2026-11-17T12:38:02.562Z",
