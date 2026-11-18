@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:27:27.469Z",
+ "generated_at": "2026-11-18T08:50:01.819Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Isomorphic Labs Raises 5 Billion",
+   "source": "youtube: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: Isomorphic Labs Raises 5 Billion",
+   "source": "tiktok: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "youtube: isomorphic labs raises billion",
+   "source": "youtube: openai gpt-6.2 astra sol",
    "ok": true
   },
   {
-   "source": "tiktok: isomorphic labs raises billion",
+   "source": "tiktok: openai gpt-6.2 astra sol",
    "ok": true
   }
  ],
@@ -251,7 +251,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-18 05:46:45",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
@@ -914,14 +914,38 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:JVHkb8PTMvc",
+     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
+     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
+     "channel": "Matt Wolfe",
+     "views": 51487,
+     "age_hours": 7,
+     "relevance": 0.5,
+     "velocity": 7355
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:6Sz_8EhZWAc",
      "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
      "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
      "channel": "Every",
-     "views": 37845,
-     "age_hours": 8,
+     "views": 47904,
+     "age_hours": 14,
      "relevance": 0.5,
-     "velocity": 4731
+     "velocity": 3422
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gmTGfq0eXKo",
+     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
+     "title": "GPT-6.2 Astra is out and it's MEH...",
+     "channel": "Никита Ефимов | ИИ и автоматизация",
+     "views": 8259,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 1377
     },
     {
      "platform": "youtube",
@@ -930,22 +954,10 @@
      "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
      "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
      "channel": "AI Tomorrow Desk",
-     "views": 15116,
-     "age_hours": 7,
+     "views": 17857,
+     "age_hours": 13,
      "relevance": 0.5,
-     "velocity": 2159
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eMp3jxjERoQ",
-     "url": "https://www.youtube.com/watch?v=eMp3jxjERoQ",
-     "title": "OpenAI's GPT-6.2 Sol & Astra Is Out!",
-     "channel": "ByteForward",
-     "views": 2697,
-     "age_hours": 5,
-     "relevance": 0.8,
-     "velocity": 539
+     "velocity": 1374
     },
     {
      "platform": "youtube",
@@ -954,7 +966,7 @@
      "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
      "title": "GPT-6.2 Astra is HEREEEEE",
      "channel": "",
-     "views": 18000,
+     "views": 22000,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -962,33 +974,21 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:RImuSZrM_ec",
-     "url": "https://www.youtube.com/watch?v=RImuSZrM_ec",
-     "title": "GPT-6.2 Astra and Sol: The NEW ChatGPT models explained",
-     "channel": "Grégory Beyrouti",
-     "views": 2418,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 403
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZEK0_ZhNEhI",
-     "url": "https://www.youtube.com/watch?v=ZEK0_ZhNEhI",
-     "title": "GPT-6.2 Astra & Sol Tested + Results",
-     "channel": "Mark Santos",
-     "views": 106,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 106
+     "id": "youtube:eMp3jxjERoQ",
+     "url": "https://www.youtube.com/watch?v=eMp3jxjERoQ",
+     "title": "OpenAI's GPT-6.2 Sol & Astra Is Out!",
+     "channel": "ByteForward",
+     "views": 3909,
+     "age_hours": 11,
+     "relevance": 0.8,
+     "velocity": 355
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-18T02:49:35.154Z"
+   "searched_at": "2026-11-18T08:50:09.541Z"
   },
   {
    "first_seen": "2026-11-17T13:37:07.741Z",
