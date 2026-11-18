@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:21:42.461Z",
+ "generated_at": "2026-11-18T13:50:05.934Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Introducing GPT-6.2 Astra",
+   "source": "youtube: microsoft unveils ai models",
    "ok": true
   },
   {
-   "source": "tiktok: Introducing GPT-6.2 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing gpt-6.2 astra sol",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing gpt-6.2 astra sol",
-   "ok": true
-  },
-  {
-   "source": "youtube: Africa Tech Festival",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Africa Tech Festival",
-   "ok": true
-  },
-  {
-   "source": "youtube: vertiv ai-ready africa tech",
-   "ok": true
-  },
-  {
-   "source": "tiktok: vertiv ai-ready africa tech",
+   "source": "tiktok: microsoft unveils ai models",
    "ok": true
   }
  ],
@@ -507,10 +483,10 @@
      "url": "https://www.youtube.com/watch?v=ez0Pdj972c8",
      "title": "Microsoft Unveils New AI Models: Claims Rival-Level Performance At Lower Cost | WION",
      "channel": "WION",
-     "views": 96,
-     "age_hours": 0.5666666666666667,
+     "views": 1676,
+     "age_hours": 6,
      "relevance": 0.67,
-     "velocity": 96
+     "velocity": 279
     },
     {
      "platform": "youtube",
@@ -519,7 +495,19 @@
      "url": "https://www.youtube.com/shorts/PjSkJ5eQA-M",
      "title": "Microsoft takes on OpenAI and Anthropic with seven new AI models at Ignite 2026",
      "channel": "",
-     "views": 156,
+     "views": 195,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TEkBILOEXqE",
+     "url": "https://www.youtube.com/shorts/TEkBILOEXqE",
+     "title": "Microsoft Launches New AI Models to Challenge OpenAI and Anthropic",
+     "channel": "",
+     "views": 100,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -531,22 +519,22 @@
      "url": "https://www.youtube.com/shorts/NyhVW9DG1Lo",
      "title": "Microsoft Unveils 6 Specialized AI Models at Ignite",
      "channel": "",
-     "views": 52,
+     "views": 64,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YJ4XQ6QKUIg",
-     "url": "https://www.youtube.com/watch?v=YJ4XQ6QKUIg",
-     "title": "Microsoft Drops 7 AI Models — 96% of Claude at 5% of the Cost",
-     "channel": "The AI Signal",
-     "views": 2,
-     "age_hours": 2,
+     "kind": "shorts",
+     "id": "youtube:Rgpdvoxyta0",
+     "url": "https://www.youtube.com/shorts/Rgpdvoxyta0",
+     "title": "Microsoft Just Revealed 7 NEW AI Models! 🤯 | Ignite 2026 #Shorts",
+     "channel": "",
+     "views": 63,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 1
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -555,19 +543,7 @@
      "url": "https://www.youtube.com/shorts/s8nw2FsCy04",
      "title": "Microsoft Just Dropped 7 AI Models | AI Facts #79",
      "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:O2roD1g_M2o",
-     "url": "https://www.youtube.com/shorts/O2roD1g_M2o",
-     "title": "Microsoft’s New AI Image Models: $35 vs. $10 per 1,000 Images",
-     "channel": "",
-     "views": 23,
+     "views": 28,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -577,7 +553,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-18T07:49:38.752Z"
+   "searched_at": "2026-11-18T13:50:10.196Z"
   },
   {
    "first_seen": "2026-11-17T20:11:45.130Z",
