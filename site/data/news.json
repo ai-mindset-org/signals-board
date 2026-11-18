@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:12:47.706Z",
+ "generated_at": "2026-11-18T18:49:42.040Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Google’s Spark",
+   "source": "youtube: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "tiktok: Google’s Spark",
+   "source": "tiktok: GPT-6.2 Astra",
    "ok": true
   },
   {
-   "source": "youtube: google spark tasks can",
+   "source": "youtube: openai gpt-6.2 astra sol",
    "ok": true
   },
   {
-   "source": "tiktok: google spark tasks can",
+   "source": "tiktok: openai gpt-6.2 astra sol",
    "ok": true
   }
  ],
@@ -704,6 +704,37 @@
    "searched_at": "2026-11-17T11:35:33.717Z"
   },
   {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39893846",
+   "ids": [
+    "39893846",
+    "39897031"
+   ],
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+    }
+   ],
+   "queries": [
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T17:20:35.404Z"
+  },
+  {
    "first_seen": "2026-11-17T15:11:47.890Z",
    "id": "39878678",
    "ids": [
@@ -805,37 +836,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T09:36:27.223Z"
-  },
-  {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
-   "ids": [
-    "39893846",
-    "39897031"
-   ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
-    }
-   ],
-   "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T17:20:35.404Z"
   },
   {
    "first_seen": "2026-11-17T11:10:28.641Z",
@@ -972,10 +972,10 @@
      "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
      "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
      "channel": "OpenAI",
-     "views": 286084,
-     "age_hours": 18,
+     "views": 307995,
+     "age_hours": 24,
      "relevance": 0.57,
-     "velocity": 15894
+     "velocity": 12833
     },
     {
      "platform": "youtube",
@@ -984,10 +984,10 @@
      "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
      "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
      "channel": "Matt Wolfe",
-     "views": 72176,
-     "age_hours": 10,
+     "views": 95546,
+     "age_hours": 17,
      "relevance": 0.5,
-     "velocity": 7218
+     "velocity": 5620
     },
     {
      "platform": "youtube",
@@ -996,10 +996,10 @@
      "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
      "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
      "channel": "Universe of AI",
-     "views": 49909,
-     "age_hours": 12,
+     "views": 57556,
+     "age_hours": 19,
      "relevance": 0.57,
-     "velocity": 4159
+     "velocity": 3029
     },
     {
      "platform": "youtube",
@@ -1008,22 +1008,10 @@
      "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
      "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
      "channel": "Every",
-     "views": 52501,
-     "age_hours": 17,
+     "views": 57030,
+     "age_hours": 24,
      "relevance": 0.5,
-     "velocity": 3088
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gmTGfq0eXKo",
-     "url": "https://www.youtube.com/watch?v=gmTGfq0eXKo",
-     "title": "GPT-6.2 Astra is out and it's MEH...",
-     "channel": "Никита Ефимов | ИИ и автоматизация",
-     "views": 22162,
-     "age_hours": 10,
-     "relevance": 0.75,
-     "velocity": 2216
+     "velocity": 2376
     },
     {
      "platform": "youtube",
@@ -1032,17 +1020,29 @@
      "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
      "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
      "channel": "AI Tomorrow Desk",
-     "views": 18590,
-     "age_hours": 17,
+     "views": 19426,
+     "age_hours": 23,
      "relevance": 0.5,
-     "velocity": 1094
+     "velocity": 845
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ddRTZOai7NU",
+     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
+     "title": "GPT-6.2 Astra is HEREEEEE",
+     "channel": "",
+     "views": 25000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-18T12:38:43.852Z"
+   "searched_at": "2026-11-18T18:49:50.231Z"
   },
   {
    "first_seen": "2026-11-18T07:49:34.295Z",
@@ -1416,7 +1416,7 @@
    "source_id": "cn-pandaily",
    "published_ts": "2026-11-18 07:10:56",
    "story_sources": 2,
-   "score_norm": 57,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "sea-techinasia",
