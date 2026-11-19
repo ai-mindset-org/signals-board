@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:20:20.334Z",
+ "generated_at": "2026-11-19T18:14:08.615Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,128 +7,117 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Wall Street",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Wall Street",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic wall street starts",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic wall street starts",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
-   "first_seen": "2026-11-19T17:20:20.334Z",
-   "id": "39927299",
+   "first_seen": "2026-11-19T17:10:04.506Z",
+   "id": "39923190",
    "ids": [
-    "39927299",
-    "39925422"
+    "39923190",
+    "39926864",
+    "39928399"
    ],
-   "title": "Anthropic starts trading on Wall Street",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+   "title": "Blue Origin will launch Google’s AI server satellites in 2029",
+   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
    "source_id": "theverge",
-   "published_ts": "2026-11-19 16:52:01",
-   "story_sources": 2,
+   "published_ts": "2026-11-19 13:53:38",
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "algorithmic-bridge",
-     "title": "Wall Street Is Wrong About Anthropic",
-     "url": "https://www.thealgorithmicbridge.com/p/wall-street-is-wrong-about-anthropic"
+     "source_id": "eu-tnw",
+     "title": "Google books Blue Origin’s New Glenn to launch its AI satellites in 2029",
+     "url": "https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029"
+    },
+    {
+     "source_id": "in-techgenyz",
+     "title": "Google Project Suncatcher: Blue Origin to Launch AI Satellites in 2029",
+     "url": "https://techgenyz.com/google-project-suncatcher-2029-launch/"
     }
    ],
    "queries": [
-    "Wall Street",
-    "anthropic wall street starts"
+    "Blue Origin",
+    "blue origin google 2029"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GQdcilMmFfM",
-     "url": "https://www.youtube.com/watch?v=GQdcilMmFfM",
-     "title": "Anthropic lost $100B+ in 9 months. How much does Wall Street care?",
-     "channel": "CNN",
-     "views": 26158,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 1090
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:KAHXPo87N28",
-     "url": "https://www.youtube.com/shorts/KAHXPo87N28",
-     "title": "Anthropic just signaled Wall Street is eager to bet on the AI boom",
+     "id": "youtube:yT8Py9fEBTc",
+     "url": "https://www.youtube.com/shorts/yT8Py9fEBTc",
+     "title": "Google Picks Blue Origin’s New Glenn Rocket to Launch Project Suncatcher AI Satellites",
      "channel": "",
-     "views": 8400,
+     "views": 8,
      "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:af5qDND5cuI",
-     "url": "https://www.youtube.com/watch?v=af5qDND5cuI",
-     "title": "Anthropic makes historic Wall Street debut—what it means for AI stocks",
-     "channel": "FOX 5 New York",
-     "views": 321,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 161
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:b_MhVunNd3g",
-     "url": "https://www.youtube.com/watch?v=b_MhVunNd3g",
-     "title": "Is Wall Street all-in on AI? Anthropic goes public",
-     "channel": "Arizona’s Family (3TV / CBS 5) ",
-     "views": 56,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 56
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lTEjtfycUOk",
-     "url": "https://www.youtube.com/shorts/lTEjtfycUOk",
-     "title": "China Just Found a Way Into Anthropic's IPO. Wall Street Didn't Want Them There",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.75,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:LKl41gHtW4U",
-     "url": "https://www.youtube.com/shorts/LKl41gHtW4U",
-     "title": "Anthropic LOST $104B and Wall Street Still Wants In",
+     "id": "youtube:zXS6kANz3q0",
+     "url": "https://www.youtube.com/shorts/zXS6kANz3q0",
+     "title": "Google AI Chips in Space by 2029? #Shorts",
      "channel": "",
-     "views": 739,
+     "views": 4,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:yP30Zc4zkEI",
+     "url": "https://www.youtube.com/shorts/yP30Zc4zkEI",
+     "title": "Google Suncatcher: Blue Origin Will Launch AI Into Orbit",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rVswSNPj2zk",
+     "url": "https://www.youtube.com/shorts/rVswSNPj2zk",
+     "title": "Google & Blue Origin Launch Big",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7Q1ryn0Tg48",
+     "url": "https://www.youtube.com/shorts/7Q1ryn0Tg48",
+     "title": "Google Books Blue Origin to Launch AI Servers Into Space",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sJOk8PorS9s",
+     "url": "https://www.youtube.com/shorts/sJOk8PorS9s",
+     "title": "Google’s AI Satellites Are Headed to Orbit in 2029 #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T17:20:30.252Z"
+   "searched_at": "2026-11-19T17:10:12.638Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -358,110 +347,6 @@
    "searched_at": "2026-11-18T13:21:50.654Z"
   },
   {
-   "first_seen": "2026-11-19T17:10:04.506Z",
-   "id": "39923190",
-   "ids": [
-    "39923190",
-    "39926864"
-   ],
-   "title": "Blue Origin will launch Google’s AI server satellites in 2029",
-   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-   "source_id": "theverge",
-   "published_ts": "2026-11-19 13:53:38",
-   "story_sources": 2,
-   "score_norm": 89,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google books Blue Origin’s New Glenn to launch its AI satellites in 2029",
-     "url": "https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029"
-    }
-   ],
-   "queries": [
-    "Blue Origin",
-    "blue origin google 2029"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yT8Py9fEBTc",
-     "url": "https://www.youtube.com/shorts/yT8Py9fEBTc",
-     "title": "Google Picks Blue Origin’s New Glenn Rocket to Launch Project Suncatcher AI Satellites",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zXS6kANz3q0",
-     "url": "https://www.youtube.com/shorts/zXS6kANz3q0",
-     "title": "Google AI Chips in Space by 2029? #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yP30Zc4zkEI",
-     "url": "https://www.youtube.com/shorts/yP30Zc4zkEI",
-     "title": "Google Suncatcher: Blue Origin Will Launch AI Into Orbit",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rVswSNPj2zk",
-     "url": "https://www.youtube.com/shorts/rVswSNPj2zk",
-     "title": "Google & Blue Origin Launch Big",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7Q1ryn0Tg48",
-     "url": "https://www.youtube.com/shorts/7Q1ryn0Tg48",
-     "title": "Google Books Blue Origin to Launch AI Servers Into Space",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sJOk8PorS9s",
-     "url": "https://www.youtube.com/shorts/sJOk8PorS9s",
-     "title": "Google’s AI Satellites Are Headed to Orbit in 2029 #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T17:10:12.638Z"
-  },
-  {
    "first_seen": "2026-11-19T08:15:11.746Z",
    "id": "39917017",
    "ids": [
@@ -516,6 +401,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T08:15:19.327Z"
+  },
+  {
+   "first_seen": "2026-11-19T17:20:20.334Z",
+   "id": "39927299",
+   "ids": [
+    "39927299",
+    "39925422"
+   ],
+   "title": "Anthropic starts trading on Wall Street",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+   "source_id": "theverge",
+   "published_ts": "2026-11-19 16:52:01",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "algorithmic-bridge",
+     "title": "Wall Street Is Wrong About Anthropic",
+     "url": "https://www.thealgorithmicbridge.com/p/wall-street-is-wrong-about-anthropic"
+    }
+   ],
+   "queries": [
+    "Wall Street",
+    "anthropic wall street starts"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GQdcilMmFfM",
+     "url": "https://www.youtube.com/watch?v=GQdcilMmFfM",
+     "title": "Anthropic lost $100B+ in 9 months. How much does Wall Street care?",
+     "channel": "CNN",
+     "views": 26158,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 1090
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KAHXPo87N28",
+     "url": "https://www.youtube.com/shorts/KAHXPo87N28",
+     "title": "Anthropic just signaled Wall Street is eager to bet on the AI boom",
+     "channel": "",
+     "views": 8400,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:af5qDND5cuI",
+     "url": "https://www.youtube.com/watch?v=af5qDND5cuI",
+     "title": "Anthropic makes historic Wall Street debut—what it means for AI stocks",
+     "channel": "FOX 5 New York",
+     "views": 321,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 161
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:b_MhVunNd3g",
+     "url": "https://www.youtube.com/watch?v=b_MhVunNd3g",
+     "title": "Is Wall Street all-in on AI? Anthropic goes public",
+     "channel": "Arizona’s Family (3TV / CBS 5) ",
+     "views": 56,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 56
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lTEjtfycUOk",
+     "url": "https://www.youtube.com/shorts/lTEjtfycUOk",
+     "title": "China Just Found a Way Into Anthropic's IPO. Wall Street Didn't Want Them There",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:LKl41gHtW4U",
+     "url": "https://www.youtube.com/shorts/LKl41gHtW4U",
+     "title": "Anthropic LOST $104B and Wall Street Still Wants In",
+     "channel": "",
+     "views": 739,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-19T17:20:30.252Z"
   },
   {
    "first_seen": "2026-11-19T05:49:40.748Z",
@@ -607,75 +596,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-18T01:39:49.916Z"
-  },
-  {
-   "first_seen": "2026-11-19T07:49:18.045Z",
-   "id": "39914098",
-   "ids": [
-    "39914098",
-    "39916873",
-    "39920242",
-    "39925330",
-    "39919713",
-    "39916036"
-   ],
-   "title": "Anthropic raises $81.3bn in biggest IPO on record",
-   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-19 11:00:48",
-   "story_sources": 4,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
-     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
-    },
-    {
-     "source_id": "eu-siliconrepublic",
-     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
-     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic raises $81B in record IPO",
-     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e"
-    }
-   ],
-   "queries": [
-    "anthropic 107.3bn ipo raises"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GZR_3RkttrU",
-     "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
-     "title": "Should you invest in Anthropic's IPO?",
-     "channel": "",
-     "views": 26000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jQiwSBs1qeY",
-     "url": "https://www.youtube.com/shorts/jQiwSBs1qeY",
-     "title": "Anthropic poised for record-setting IPO",
-     "channel": "",
-     "views": 1800,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-19T13:49:59.425Z"
   },
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
@@ -1176,6 +1096,75 @@
    "searched_at": "2026-11-17T11:10:32.761Z"
   },
   {
+   "first_seen": "2026-11-19T07:49:18.045Z",
+   "id": "39914098",
+   "ids": [
+    "39914098",
+    "39916873",
+    "39920242",
+    "39925330",
+    "39919713",
+    "39916036"
+   ],
+   "title": "Anthropic raises $81.3bn in biggest IPO on record",
+   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-19 11:00:48",
+   "story_sources": 4,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
+     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
+    },
+    {
+     "source_id": "eu-siliconrepublic",
+     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
+     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic raises $81B in record IPO",
+     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e"
+    }
+   ],
+   "queries": [
+    "anthropic 107.3bn ipo raises"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GZR_3RkttrU",
+     "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
+     "title": "Should you invest in Anthropic's IPO?",
+     "channel": "",
+     "views": 26000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jQiwSBs1qeY",
+     "url": "https://www.youtube.com/shorts/jQiwSBs1qeY",
+     "title": "Anthropic poised for record-setting IPO",
+     "channel": "",
+     "views": 1800,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-19T13:49:59.425Z"
+  },
+  {
    "first_seen": "2026-11-18T07:49:34.295Z",
    "id": "39894404",
    "ids": [
@@ -1537,85 +1526,6 @@
    "searched_at": "2026-11-18T17:20:42.304Z"
   },
   {
-   "first_seen": "2026-11-18T22:20:32.233Z",
-   "id": "39909716",
-   "ids": [
-    "39909716",
-    "39909306",
-    "39909154",
-    "39910490"
-   ],
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-18 22:11:15",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
-     "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Prices IPO at $83 a Share",
-     "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic prices IPO at $83 per share",
-     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
-    }
-   ],
-   "queries": [
-    "anthropic ipo 83 reportedly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KkWYGTSgpfA",
-     "url": "https://www.youtube.com/watch?v=KkWYGTSgpfA",
-     "title": "Anthropic IPO: $17B Revenue",
-     "channel": "Deep Value Investing",
-     "views": 223,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z4VVCDGiSw4",
-     "url": "https://www.youtube.com/watch?v=Z4VVCDGiSw4",
-     "title": "Anthropic Prices IPO at $83, Valued at $1.5 Trillion #Shorts",
-     "channel": "Dig Deep Tech",
-     "views": 21,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8hUidEg9RP8",
-     "url": "https://www.youtube.com/watch?v=8hUidEg9RP8",
-     "title": "Anthropic IPO Reportedly Priced at $83 a Share | Developing Update",
-     "channel": "Forever Desk",
-     "views": 0,
-     "age_hours": 17,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T16:49:21.015Z"
-  },
-  {
    "first_seen": "2026-11-18T12:38:36.132Z",
    "id": "39898568",
    "ids": [
@@ -1959,104 +1869,6 @@
    "searched_at": "2026-11-18T15:10:47.894Z"
   },
   {
-   "first_seen": "2026-11-19T15:11:26.905Z",
-   "id": "39924198",
-   "ids": [
-    "39924198",
-    "39913385"
-   ],
-   "title": "Anthropic is not living up to its ideals",
-   "url": "https://www.lesswrong.com/posts/Drj97tmuiWF3e9Xya/anthropic-is-not-living-up-to-its-ideals",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-19 14:33:52",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic is not living up to its ideals",
-     "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its"
-    }
-   ],
-   "queries": [
-    "anthropic not living up"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T15:11:31.876Z"
-  },
-  {
-   "first_seen": "2026-11-19T04:13:47.703Z",
-   "id": "39914202",
-   "ids": [
-    "39914202",
-    "39910280"
-   ],
-   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-   "source_id": "crypto-coindesk",
-   "published_ts": "2026-11-19 03:40:48",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day",
-     "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day"
-    }
-   ],
-   "queries": [
-    "BNB Chain",
-    "cz anthropic bnb chain"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9FJxtfzS9eQ",
-     "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
-     "title": "BUY INTO THE ANTHROPIC IPO",
-     "channel": "",
-     "views": 110,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rvd1pkwZTb8",
-     "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
-     "title": "j.tools is Now Live on BNB Chain! 🟡",
-     "channel": "J Tools | Multichain Token Platform",
-     "views": 48,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XS9nCT24hq0",
-     "url": "https://www.youtube.com/watch?v=XS9nCT24hq0",
-     "title": "Anthropic IPO tokens to trade from day one, Zhao says - BNB | Nov 19, 2026",
-     "channel": "Stocks News Daily",
-     "views": 0,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T16:24:29.708Z"
-  },
-  {
    "first_seen": "2026-11-17T11:49:36.719Z",
    "id": "39874628",
    "ids": [
@@ -2285,6 +2097,313 @@
    "searched_at": "2026-11-19T16:24:51.784Z"
   },
   {
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
+   "ids": [
+    "39899877",
+    "39900377"
+   ],
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T02:36:21.220Z"
+  },
+  {
+   "first_seen": "2026-11-18T22:20:32.233Z",
+   "id": "39909716",
+   "ids": [
+    "39909716",
+    "39909306",
+    "39909154",
+    "39910490"
+   ],
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-18 22:11:15",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
+     "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic Prices IPO at $83 a Share",
+     "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic prices IPO at $83 per share",
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    }
+   ],
+   "queries": [
+    "anthropic ipo 83 reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:KkWYGTSgpfA",
+     "url": "https://www.youtube.com/watch?v=KkWYGTSgpfA",
+     "title": "Anthropic IPO: $17B Revenue",
+     "channel": "Deep Value Investing",
+     "views": 223,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z4VVCDGiSw4",
+     "url": "https://www.youtube.com/watch?v=Z4VVCDGiSw4",
+     "title": "Anthropic Prices IPO at $83, Valued at $1.5 Trillion #Shorts",
+     "channel": "Dig Deep Tech",
+     "views": 21,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8hUidEg9RP8",
+     "url": "https://www.youtube.com/watch?v=8hUidEg9RP8",
+     "title": "Anthropic IPO Reportedly Priced at $83 a Share | Developing Update",
+     "channel": "Forever Desk",
+     "views": 0,
+     "age_hours": 17,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T16:49:21.015Z"
+  },
+  {
+   "first_seen": "2026-11-17T09:13:08.872Z",
+   "id": "39872592",
+   "ids": [
+    "39872592",
+    "39863189"
+   ],
+   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+   "url": "https://www.hpcwire.com/off-the-wire/nvidia-cuda-x-libraries-give-agents-the-tools-to-accelerate-scientific-discovery/",
+   "source_id": "hpcwire-ai",
+   "published_ts": "2026-11-17 04:13:41",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "x-blogs-nvidia",
+     "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+     "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/"
+    }
+   ],
+   "queries": [
+    "NVIDIA CUDA-X Libraries Give",
+    "nvidia cuda-x libraries give"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cS-gwQaYUY8",
+     "url": "https://www.youtube.com/shorts/cS-gwQaYUY8",
+     "title": "NVIDIA CUDA-X Libraries Now Target Scientific Discovery",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:z-6ERauRwTY",
+     "url": "https://www.youtube.com/shorts/z-6ERauRwTY",
+     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:koDnJaw2ULQ",
+     "url": "https://www.youtube.com/watch?v=koDnJaw2ULQ",
+     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
+     "channel": "StartupHub AI",
+     "views": 0,
+     "age_hours": 15,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T09:13:16.619Z"
+  },
+  {
+   "first_seen": "2026-11-16T18:14:26.964Z",
+   "id": "39859233",
+   "ids": [
+    "39859233",
+    "39856271",
+    "39865804"
+   ],
+   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-17 00:03:21",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "First phase of embedded assessments at OpenAI",
+     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    }
+   ],
+   "queries": [
+    "openai news our first"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T12:49:48.933Z"
+  },
+  {
+   "first_seen": "2026-11-19T04:13:47.703Z",
+   "id": "39914202",
+   "ids": [
+    "39914202",
+    "39910280"
+   ],
+   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+   "source_id": "crypto-coindesk",
+   "published_ts": "2026-11-19 03:40:48",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day"
+    }
+   ],
+   "queries": [
+    "BNB Chain",
+    "cz anthropic bnb chain"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9FJxtfzS9eQ",
+     "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
+     "title": "BUY INTO THE ANTHROPIC IPO",
+     "channel": "",
+     "views": 110,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rvd1pkwZTb8",
+     "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
+     "title": "j.tools is Now Live on BNB Chain! 🟡",
+     "channel": "J Tools | Multichain Token Platform",
+     "views": 48,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XS9nCT24hq0",
+     "url": "https://www.youtube.com/watch?v=XS9nCT24hq0",
+     "title": "Anthropic IPO tokens to trade from day one, Zhao says - BNB | Nov 19, 2026",
+     "channel": "Stocks News Daily",
+     "views": 0,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T16:24:29.708Z"
+  },
+  {
+   "first_seen": "2026-11-19T15:11:26.905Z",
+   "id": "39924198",
+   "ids": [
+    "39924198",
+    "39913385"
+   ],
+   "title": "Anthropic is not living up to its ideals",
+   "url": "https://www.lesswrong.com/posts/Drj97tmuiWF3e9Xya/anthropic-is-not-living-up-to-its-ideals",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-19 14:33:52",
+   "story_sources": 2,
+   "score_norm": 45,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic is not living up to its ideals",
+     "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its"
+    }
+   ],
+   "queries": [
+    "anthropic not living up"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T15:11:31.876Z"
+  },
+  {
    "first_seen": "2026-11-18T21:49:51.799Z",
    "id": "39909242",
    "ids": [
@@ -2300,7 +2419,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-18 21:35:43",
    "story_sources": 2,
-   "score_norm": 53,
+   "score_norm": 45,
    "related_news": [
     {
      "source_id": "hn",
@@ -2406,343 +2525,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T16:24:37.064Z"
-  },
-  {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T02:36:21.220Z"
-  },
-  {
-   "first_seen": "2026-11-17T09:13:08.872Z",
-   "id": "39872592",
-   "ids": [
-    "39872592",
-    "39863189"
-   ],
-   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-   "url": "https://www.hpcwire.com/off-the-wire/nvidia-cuda-x-libraries-give-agents-the-tools-to-accelerate-scientific-discovery/",
-   "source_id": "hpcwire-ai",
-   "published_ts": "2026-11-17 04:13:41",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "x-blogs-nvidia",
-     "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-     "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/"
-    }
-   ],
-   "queries": [
-    "NVIDIA CUDA-X Libraries Give",
-    "nvidia cuda-x libraries give"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cS-gwQaYUY8",
-     "url": "https://www.youtube.com/shorts/cS-gwQaYUY8",
-     "title": "NVIDIA CUDA-X Libraries Now Target Scientific Discovery",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:z-6ERauRwTY",
-     "url": "https://www.youtube.com/shorts/z-6ERauRwTY",
-     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:koDnJaw2ULQ",
-     "url": "https://www.youtube.com/watch?v=koDnJaw2ULQ",
-     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
-     "channel": "StartupHub AI",
-     "views": 0,
-     "age_hours": 15,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T09:13:16.619Z"
-  },
-  {
-   "first_seen": "2026-11-16T18:14:26.964Z",
-   "id": "39859233",
-   "ids": [
-    "39859233",
-    "39856271",
-    "39865804"
-   ],
-   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-17 00:03:21",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "First phase of embedded assessments at OpenAI",
-     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    }
-   ],
-   "queries": [
-    "openai news our first"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T12:49:48.933Z"
-  },
-  {
-   "first_seen": "2026-11-19T07:23:57.272Z",
-   "id": "39916370",
-   "ids": [
-    "39916370",
-    "39914897"
-   ],
-   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
-   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 06:58:16",
-   "story_sources": 2,
-   "score_norm": 46,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic IPO raises record $81.3B on strong AI demand",
-     "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
-    }
-   ],
-   "queries": [
-    "anthropic 81.3b ipo spacex"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lBHYaSYhtew",
-     "url": "https://www.youtube.com/shorts/lBHYaSYhtew",
-     "title": "Anthropic's $81.3B IPO Is the Biggest in History — It Beats SpaceX",
-     "channel": "",
-     "views": 165,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Xu4EcIrZujY",
-     "url": "https://www.youtube.com/shorts/Xu4EcIrZujY",
-     "title": "Anthropic's $81 Billion IPO! AI Giant Takes on SpaceX's Record",
-     "channel": "",
-     "views": 84,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nx5HNCtXvNg",
-     "url": "https://www.youtube.com/shorts/nx5HNCtXvNg",
-     "title": "Anthropic Prices $81.3B IPO — Larger Than SpaceX's Initial Raise #Shorts",
-     "channel": "",
-     "views": 55,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TlqrxWyBwYo",
-     "url": "https://www.youtube.com/shorts/TlqrxWyBwYo",
-     "title": "ANTHROPIC PRICES IPO AT $83, TOPS SPACEX RECORD $ANT",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Yf1F1bUPo0g",
-     "url": "https://www.youtube.com/shorts/Yf1F1bUPo0g",
-     "title": "Record-Breaking Anthropic IPO Raises Over $81 Billion, Surpasses SpaceX",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:SmUkp4JmJ1g",
-     "url": "https://www.youtube.com/shorts/SmUkp4JmJ1g",
-     "title": "$81.3bn: Anthropic's record IPO vs SpaceX and Aramco #shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T13:36:31.178Z"
-  },
-  {
-   "first_seen": "2026-11-19T13:36:26.927Z",
-   "id": "39922286",
-   "ids": [
-    "39922286",
-    "39916034"
-   ],
-   "title": "Palo Alto Networks acquires Applied Compute in hybrid AI push",
-   "url": "https://www.itpro.com/business/acquisition/palo-alto-networks-acquires-applied-compute-in-hybrid-ai-push",
-   "source_id": "eu-itpro",
-   "published_ts": "2026-11-19 12:30:00",
-   "story_sources": 2,
-   "score_norm": 44,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Palo Alto Networks to buy AI firm Applied Compute for $4.5b",
-     "url": "https://www.techinasia.com/news/palo-alto-networks-buy-ai-firm-applied-compute-45b"
-    }
-   ],
-   "queries": [
-    "Palo Alto Networks",
-    "palo alto networks applied"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:U267zsuu2xI",
-     "url": "https://www.youtube.com/shorts/U267zsuu2xI",
-     "title": "Palo Alto Earnings",
-     "channel": "",
-     "views": 87,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nIQYFhGbI8g",
-     "url": "https://www.youtube.com/watch?v=nIQYFhGbI8g",
-     "title": "Why Palo Alto Networks Wants This $4.5 Billion AI Startup",
-     "channel": "Tech Deal Files",
-     "views": 28,
-     "age_hours": 15,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zcEaHGMyFqs",
-     "url": "https://www.youtube.com/shorts/zcEaHGMyFqs",
-     "title": "Palo Alto Networks to buy Applied Compute for $4.5 billion",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:H6esbq-nhEA",
-     "url": "https://www.youtube.com/shorts/H6esbq-nhEA",
-     "title": "Palo Alto Networks is betting $4.5B on open-weight AI",
-     "channel": "",
-     "views": 36,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:DqVd7SH5X2o",
-     "url": "https://www.youtube.com/watch?v=DqVd7SH5X2o",
-     "title": "Palo Alto Networks to Buy Applied Compute for $4.5 Billion: Why a Security Firm Wants AI Tuning",
-     "channel": "Vaughan Ashe",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IXy11hhcyKQ",
-     "url": "https://www.youtube.com/shorts/IXy11hhcyKQ",
-     "title": "Palo Alto Buys Applied Compute for $4.5 BILLION! 🛡️",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T13:36:38.469Z"
   },
   {
    "first_seen": "2026-11-19T08:15:11.746Z",
@@ -3013,6 +2795,109 @@
    "searched_at": "2026-11-18T00:54:53.828Z"
   },
   {
+   "first_seen": "2026-11-19T07:23:57.272Z",
+   "id": "39916370",
+   "ids": [
+    "39916370",
+    "39914897"
+   ],
+   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
+   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-19 06:58:16",
+   "story_sources": 2,
+   "score_norm": 39,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic IPO raises record $81.3B on strong AI demand",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+    }
+   ],
+   "queries": [
+    "anthropic 81.3b ipo spacex"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lBHYaSYhtew",
+     "url": "https://www.youtube.com/shorts/lBHYaSYhtew",
+     "title": "Anthropic's $81.3B IPO Is the Biggest in History — It Beats SpaceX",
+     "channel": "",
+     "views": 165,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Xu4EcIrZujY",
+     "url": "https://www.youtube.com/shorts/Xu4EcIrZujY",
+     "title": "Anthropic's $81 Billion IPO! AI Giant Takes on SpaceX's Record",
+     "channel": "",
+     "views": 84,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nx5HNCtXvNg",
+     "url": "https://www.youtube.com/shorts/nx5HNCtXvNg",
+     "title": "Anthropic Prices $81.3B IPO — Larger Than SpaceX's Initial Raise #Shorts",
+     "channel": "",
+     "views": 55,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TlqrxWyBwYo",
+     "url": "https://www.youtube.com/shorts/TlqrxWyBwYo",
+     "title": "ANTHROPIC PRICES IPO AT $83, TOPS SPACEX RECORD $ANT",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Yf1F1bUPo0g",
+     "url": "https://www.youtube.com/shorts/Yf1F1bUPo0g",
+     "title": "Record-Breaking Anthropic IPO Raises Over $81 Billion, Surpasses SpaceX",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:SmUkp4JmJ1g",
+     "url": "https://www.youtube.com/shorts/SmUkp4JmJ1g",
+     "title": "$81.3bn: Anthropic's record IPO vs SpaceX and Aramco #shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T13:36:31.178Z"
+  },
+  {
    "first_seen": "2026-11-17T17:35:56.783Z",
    "id": "39882196",
    "ids": [
@@ -3250,6 +3135,110 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-17T19:50:17.653Z"
+  },
+  {
+   "first_seen": "2026-11-19T13:36:26.927Z",
+   "id": "39922286",
+   "ids": [
+    "39922286",
+    "39916034"
+   ],
+   "title": "Palo Alto Networks acquires Applied Compute in hybrid AI push",
+   "url": "https://www.itpro.com/business/acquisition/palo-alto-networks-acquires-applied-compute-in-hybrid-ai-push",
+   "source_id": "eu-itpro",
+   "published_ts": "2026-11-19 12:30:00",
+   "story_sources": 2,
+   "score_norm": 37,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Palo Alto Networks to buy AI firm Applied Compute for $4.5b",
+     "url": "https://www.techinasia.com/news/palo-alto-networks-buy-ai-firm-applied-compute-45b"
+    }
+   ],
+   "queries": [
+    "Palo Alto Networks",
+    "palo alto networks applied"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:U267zsuu2xI",
+     "url": "https://www.youtube.com/shorts/U267zsuu2xI",
+     "title": "Palo Alto Earnings",
+     "channel": "",
+     "views": 87,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nIQYFhGbI8g",
+     "url": "https://www.youtube.com/watch?v=nIQYFhGbI8g",
+     "title": "Why Palo Alto Networks Wants This $4.5 Billion AI Startup",
+     "channel": "Tech Deal Files",
+     "views": 28,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zcEaHGMyFqs",
+     "url": "https://www.youtube.com/shorts/zcEaHGMyFqs",
+     "title": "Palo Alto Networks to buy Applied Compute for $4.5 billion",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:H6esbq-nhEA",
+     "url": "https://www.youtube.com/shorts/H6esbq-nhEA",
+     "title": "Palo Alto Networks is betting $4.5B on open-weight AI",
+     "channel": "",
+     "views": 36,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DqVd7SH5X2o",
+     "url": "https://www.youtube.com/watch?v=DqVd7SH5X2o",
+     "title": "Palo Alto Networks to Buy Applied Compute for $4.5 Billion: Why a Security Firm Wants AI Tuning",
+     "channel": "Vaughan Ashe",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IXy11hhcyKQ",
+     "url": "https://www.youtube.com/shorts/IXy11hhcyKQ",
+     "title": "Palo Alto Buys Applied Compute for $4.5 BILLION! 🛡️",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T13:36:38.469Z"
   },
   {
    "first_seen": "2026-11-17T18:14:12.123Z",
