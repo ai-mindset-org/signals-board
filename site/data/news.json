@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:36:16.657Z",
+ "generated_at": "2026-11-19T12:16:15.559Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: nvidia china us stops",
+   "ok": true
+  },
+  {
+   "source": "tiktok: nvidia china us stops",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-18T22:20:32.233Z",
@@ -530,7 +539,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-19 07:32:27",
    "story_sources": 2,
-   "score_norm": 86,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -1140,6 +1149,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T10:22:33.121Z"
+  },
+  {
+   "first_seen": "2026-11-19T12:16:15.559Z",
+   "id": "39920984",
+   "ids": [
+    "39920984",
+    "39919053"
+   ],
+   "title": "Nvidia stops shipping AI chips to China as pressure mounts over US export controls",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-stops-ai-chips-china-us-export-controls-10969783/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-19 09:36:25",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Nvidia stops shipping US-approved AI chips to China",
+     "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
+    }
+   ],
+   "queries": [
+    "nvidia china us stops"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:2dO-xjuyEfc",
+     "url": "https://www.youtube.com/watch?v=2dO-xjuyEfc",
+     "title": "NVIDIA Stops Shipping AI GPU's to China - USA Fighting Chinese Tech",
+     "channel": "Eli the Computer Guy",
+     "views": 27045,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 1591
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7D9BQro_xMQ",
+     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
+     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
+     "channel": "",
+     "views": 35000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GIgfxEotFZA",
+     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+     "channel": "Bloomberg Television",
+     "views": 13709,
+     "age_hours": 48,
+     "relevance": 0.56,
+     "velocity": 286
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DsDiWf470Ok",
+     "url": "https://www.youtube.com/watch?v=DsDiWf470Ok",
+     "title": "Nvidia stops selling H200 AI chips in China",
+     "channel": "Chessthacho",
+     "views": 212,
+     "age_hours": 13,
+     "relevance": 0.71,
+     "velocity": 16
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gNB4YQvfDgo",
+     "url": "https://www.youtube.com/watch?v=gNB4YQvfDgo",
+     "title": "Nvidia Stops Shipping AI Chips to China: What Changed",
+     "channel": "Cold Facts",
+     "views": 80,
+     "age_hours": 24,
+     "relevance": 0.86,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WLMo4VqNSGA",
+     "url": "https://www.youtube.com/shorts/WLMo4VqNSGA",
+     "title": "Nvidia Just Walked Away From China",
+     "channel": "",
+     "views": 57,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-19T12:16:21.108Z"
   },
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
