@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T01:39:43.278Z",
+ "generated_at": "2026-11-19T02:36:12.429Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Mehr Datenschutz",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Mehr Datenschutz",
+   "ok": true
+  },
+  {
+   "source": "youtube: mehr datenschutz gemini ki-training",
+   "ok": true
+  },
+  {
+   "source": "tiktok: mehr datenschutz gemini ki-training",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-18T22:20:32.233Z",
@@ -1920,7 +1937,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-18T20:35:51.259Z"
+   "searched_at": "2026-11-19T02:36:21.220Z"
   },
   {
    "first_seen": "2026-11-17T09:13:08.872Z",
