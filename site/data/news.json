@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:36:00.820Z",
+ "generated_at": "2026-11-19T23:49:45.935Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Wall Street",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Wall Street",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic wall street starts",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic wall street starts",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -375,7 +358,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 18:21:13",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "hn",
@@ -1626,85 +1609,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-18T18:49:50.231Z"
-  },
-  {
-   "first_seen": "2026-11-17T03:26:16.056Z",
-   "id": "39868161",
-   "ids": [
-    "39868161",
-    "39864339"
-   ],
-   "title": "California sues OpenAI for misleading public about AI safety",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
-   "source_id": "theregister",
-   "published_ts": "2026-11-16 23:43:17",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "California Sues OpenAI over A.I. Safety Issues",
-     "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html"
-    }
-   ],
-   "queries": [
-    "california openai sues misleading"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WYFbG93a64E",
-     "url": "https://www.youtube.com/watch?v=WYFbG93a64E",
-     "title": "California Sues OpenAI Over Runaway AI Agents #Shorts",
-     "channel": "AI Coalition Network",
-     "views": 12,
-     "age_hours": 0.6,
-     "relevance": 0.57,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tnsW021VoVk",
-     "url": "https://www.youtube.com/watch?v=tnsW021VoVk",
-     "title": "California Takes OpenAI To Court Over AI Safety | Artificial Intelligence News",
-     "channel": "IBI Artificial Intelligence News",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wlGMtIZf3lA",
-     "url": "https://www.youtube.com/watch?v=wlGMtIZf3lA",
-     "title": "AI News: California Sues OpenAI, AI Cyberattacks and Healthcare Agents",
-     "channel": "BriefReplay AI",
-     "views": 8,
-     "age_hours": 8,
-     "relevance": 0.57,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:un80por4Wj0",
-     "url": "https://www.youtube.com/watch?v=un80por4Wj0",
-     "title": "California Sues OpenAI for Misleading the Public on AI Safety",
-     "channel": "BreakingNewsAI",
-     "views": 0,
-     "age_hours": 0.75,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T09:37:04.889Z"
   },
   {
    "first_seen": "2026-11-19T21:10:15.456Z",
