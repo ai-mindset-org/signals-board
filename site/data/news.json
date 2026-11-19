@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T04:25:44.277Z",
+ "generated_at": "2026-11-19T05:49:40.748Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,71 +9,23 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic ipo 83 reportedly",
+   "source": "youtube: Bajaj Finserv",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic ipo 83 reportedly",
+   "source": "tiktok: Bajaj Finserv",
+   "ok": true
+  },
+  {
+   "source": "youtube: bajaj finserv pennant indian",
+   "ok": true
+  },
+  {
+   "source": "tiktok: bajaj finserv pennant indian",
    "ok": true
   }
  ],
  "stories": [
-  {
-   "first_seen": "2026-11-19T04:13:47.703Z",
-   "id": "39914202",
-   "ids": [
-    "39914202",
-    "39910280"
-   ],
-   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-   "source_id": "crypto-coindesk",
-   "published_ts": "2026-11-19 03:40:48",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day",
-     "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day"
-    }
-   ],
-   "queries": [
-    "BNB Chain",
-    "cz anthropic bnb chain"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9FJxtfzS9eQ",
-     "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
-     "title": "BUY INTO THE ANTHROPIC IPO",
-     "channel": "",
-     "views": 108,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rvd1pkwZTb8",
-     "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
-     "title": "j.tools is Now Live on BNB Chain! 🟡",
-     "channel": "J Tools | Multichain Token Platform",
-     "views": 42,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T04:13:55.719Z"
-  },
   {
    "first_seen": "2026-11-18T22:20:32.233Z",
    "id": "39909716",
@@ -188,6 +140,62 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T04:25:48.680Z"
+  },
+  {
+   "first_seen": "2026-11-19T04:13:47.703Z",
+   "id": "39914202",
+   "ids": [
+    "39914202",
+    "39910280"
+   ],
+   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+   "source_id": "crypto-coindesk",
+   "published_ts": "2026-11-19 03:40:48",
+   "story_sources": 2,
+   "score_norm": 99,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day"
+    }
+   ],
+   "queries": [
+    "BNB Chain",
+    "cz anthropic bnb chain"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9FJxtfzS9eQ",
+     "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
+     "title": "BUY INTO THE ANTHROPIC IPO",
+     "channel": "",
+     "views": 108,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rvd1pkwZTb8",
+     "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
+     "title": "j.tools is Now Live on BNB Chain! 🟡",
+     "channel": "J Tools | Multichain Token Platform",
+     "views": 42,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T04:13:55.719Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -540,6 +548,37 @@
    "searched_at": "2026-11-18T13:21:50.654Z"
   },
   {
+   "first_seen": "2026-11-19T05:49:40.748Z",
+   "id": "39915206",
+   "ids": [
+    "39915206",
+    "39896134"
+   ],
+   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
+   "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-19 05:23:09",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Bajaj Finserv bets $4 million on Indian AI startup Soket AI",
+     "url": "https://www.thehindubusinessline.com/companies/bajaj-finserv-bets-4-million-on-indian-ai-startup-soket-ai/article71715248.ece"
+    }
+   ],
+   "queries": [
+    "Bajaj Finserv",
+    "bajaj finserv pennant indian"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T05:49:48.400Z"
+  },
+  {
    "first_seen": "2026-11-17T12:16:54.816Z",
    "id": "39875066",
    "ids": [
@@ -745,7 +784,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-19 01:21:02",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "eu-tnw",
