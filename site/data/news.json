@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T01:21:43.212Z",
+ "generated_at": "2026-11-19T01:39:43.278Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -2020,115 +2020,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-17T12:49:48.933Z"
-  },
-  {
-   "first_seen": "2026-11-16T03:15:19.837Z",
-   "id": "39845225",
-   "ids": [
-    "39845225",
-    "39844471",
-    "39853405"
-   ],
-   "title": "Apple launches new app to study how people use AI for health",
-   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-11-16 01:30:00",
-   "story_sources": 2,
-   "score_norm": 45,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Apple Seeks 200k People for AI Health Study",
-     "url": "https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Apple launches research study to explore the use of AI for health",
-     "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
-    }
-   ],
-   "queries": [
-    "apple launches app study"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ybBoMjmSijo",
-     "url": "https://www.youtube.com/shorts/ybBoMjmSijo",
-     "title": "Apple Launches an AI Health Study: What to Know #shorts",
-     "channel": "",
-     "views": 225,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YXNTDdamMeQ",
-     "url": "https://www.youtube.com/watch?v=YXNTDdamMeQ",
-     "title": "Apple Health AI Study App Explained: Free iPhone App That Answers Health Questions",
-     "channel": "In Theory Only",
-     "views": 1,
-     "age_hours": 0.3833333333333333,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Vhy3lptKbdA",
-     "url": "https://www.youtube.com/shorts/Vhy3lptKbdA",
-     "title": "Apple Launches a Health AI Study App for Up to 200,000 People",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QKon_qwzQuk",
-     "url": "https://www.youtube.com/shorts/QKon_qwzQuk",
-     "title": "Apple launches new health AI study app",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZG3md0Ck858",
-     "url": "https://www.youtube.com/shorts/ZG3md0Ck858",
-     "title": "Apple Launches Clinical Health AI Study for 200,000 Users #Shorts",
-     "channel": "",
-     "views": 25,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kYt7mDQxUc8",
-     "url": "https://www.youtube.com/shorts/kYt7mDQxUc8",
-     "title": "Would You Share Sleep Data With Apple’s Health AI Study?",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-16T15:19:27.680Z"
   },
   {
    "first_seen": "2026-11-18T11:10:27.751Z",
