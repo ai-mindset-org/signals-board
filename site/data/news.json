@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:49:54.988Z",
+ "generated_at": "2026-11-19T14:23:30.551Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic 107.3bn ipo raises",
+   "source": "youtube: deepseek drops separate fees",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 107.3bn ipo raises",
+   "source": "tiktok: deepseek drops separate fees",
    "ok": true
   }
  ],
@@ -32,7 +32,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-18 22:11:15",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "hn",
@@ -133,7 +133,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-11-19 03:40:48",
    "story_sources": 2,
-   "score_norm": 95,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -178,6 +178,110 @@
    "searched_at": "2026-11-19T10:22:11.327Z"
   },
   {
+   "first_seen": "2026-11-18T18:12:47.706Z",
+   "id": "39905435",
+   "ids": [
+    "39905435",
+    "39886586"
+   ],
+   "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
+   "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-18 17:11:39",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "theverge",
+     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    }
+   ],
+   "queries": [
+    "Google’s Spark",
+    "google spark tasks can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:q7mEDMHZ74A",
+     "url": "https://www.youtube.com/shorts/q7mEDMHZ74A",
+     "title": "Gemini Tasks Is Free Now: How to Turn It On",
+     "channel": "",
+     "views": 132,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8BPYMLxGJ6o",
+     "url": "https://www.youtube.com/shorts/8BPYMLxGJ6o",
+     "title": "Google makes Gemini Tasks free: an AI that runs your errands",
+     "channel": "",
+     "views": 73,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RSbvIKbBX-c",
+     "url": "https://www.youtube.com/shorts/RSbvIKbBX-c",
+     "title": "Gemini Tasks: free AI agent, no AI Pro needed",
+     "channel": "",
+     "views": 48,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tOnHZZ0sMx0",
+     "url": "https://www.youtube.com/shorts/tOnHZZ0sMx0",
+     "title": "Google's AI Agent Is Now Free. Here's What It Can Do",
+     "channel": "",
+     "views": 45,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fABXtwHycf8",
+     "url": "https://www.youtube.com/shorts/fABXtwHycf8",
+     "title": "Gemini Tasks Is Now Free: Gemini Can Call Businesses and Shop for You (New AI Agent) #shorts",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YGmhF4A4Vo0",
+     "url": "https://www.youtube.com/shorts/YGmhF4A4Vo0",
+     "title": "Google Gemini Tasks Is NOW FREE! 🤯 AI Agent That Works for You! #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-18T18:13:00.349Z"
+  },
+  {
    "first_seen": "2026-11-18T21:49:51.799Z",
    "id": "39909242",
    "ids": [
@@ -193,7 +297,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-18 21:35:43",
    "story_sources": 2,
-   "score_norm": 93,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "hn",
@@ -299,110 +403,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T10:22:18.589Z"
-  },
-  {
-   "first_seen": "2026-11-18T18:12:47.706Z",
-   "id": "39905435",
-   "ids": [
-    "39905435",
-    "39886586"
-   ],
-   "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
-   "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
-   "source_id": "zdnet-ai",
-   "published_ts": "2026-11-18 17:11:39",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "theverge",
-     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
-    }
-   ],
-   "queries": [
-    "Google’s Spark",
-    "google spark tasks can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:q7mEDMHZ74A",
-     "url": "https://www.youtube.com/shorts/q7mEDMHZ74A",
-     "title": "Gemini Tasks Is Free Now: How to Turn It On",
-     "channel": "",
-     "views": 132,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8BPYMLxGJ6o",
-     "url": "https://www.youtube.com/shorts/8BPYMLxGJ6o",
-     "title": "Google makes Gemini Tasks free: an AI that runs your errands",
-     "channel": "",
-     "views": 73,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RSbvIKbBX-c",
-     "url": "https://www.youtube.com/shorts/RSbvIKbBX-c",
-     "title": "Gemini Tasks: free AI agent, no AI Pro needed",
-     "channel": "",
-     "views": 48,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tOnHZZ0sMx0",
-     "url": "https://www.youtube.com/shorts/tOnHZZ0sMx0",
-     "title": "Google's AI Agent Is Now Free. Here's What It Can Do",
-     "channel": "",
-     "views": 45,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fABXtwHycf8",
-     "url": "https://www.youtube.com/shorts/fABXtwHycf8",
-     "title": "Gemini Tasks Is Now Free: Gemini Can Call Businesses and Shop for You (New AI Agent) #shorts",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YGmhF4A4Vo0",
-     "url": "https://www.youtube.com/shorts/YGmhF4A4Vo0",
-     "title": "Google Gemini Tasks Is NOW FREE! 🤯 AI Agent That Works for You! #Shorts",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-18T18:13:00.349Z"
   },
   {
    "first_seen": "2026-11-17T19:09:55.618Z",
@@ -596,7 +596,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-19 08:35:17",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "gizmodo-ai",
@@ -651,7 +651,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-19 06:58:16",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "hn",
@@ -743,6 +743,37 @@
    "searched_at": "2026-11-19T13:36:31.178Z"
   },
   {
+   "first_seen": "2026-11-19T05:49:40.748Z",
+   "id": "39915206",
+   "ids": [
+    "39915206",
+    "39896134"
+   ],
+   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
+   "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-19 05:23:09",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Bajaj Finserv bets $4 million on Indian AI startup Soket AI",
+     "url": "https://www.thehindubusinessline.com/companies/bajaj-finserv-bets-4-million-on-indian-ai-startup-soket-ai/article71715248.ece"
+    }
+   ],
+   "queries": [
+    "Bajaj Finserv",
+    "bajaj finserv pennant indian"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T05:49:48.400Z"
+  },
+  {
    "first_seen": "2026-11-19T13:36:26.927Z",
    "id": "39922286",
    "ids": [
@@ -754,7 +785,7 @@
    "source_id": "eu-itpro",
    "published_ts": "2026-11-19 12:30:00",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -847,37 +878,6 @@
    "searched_at": "2026-11-19T13:36:38.469Z"
   },
   {
-   "first_seen": "2026-11-19T05:49:40.748Z",
-   "id": "39915206",
-   "ids": [
-    "39915206",
-    "39896134"
-   ],
-   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
-   "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 05:23:09",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Bajaj Finserv bets $4 million on Indian AI startup Soket AI",
-     "url": "https://www.thehindubusinessline.com/companies/bajaj-finserv-bets-4-million-on-indian-ai-startup-soket-ai/article71715248.ece"
-    }
-   ],
-   "queries": [
-    "Bajaj Finserv",
-    "bajaj finserv pennant indian"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T05:49:48.400Z"
-  },
-  {
    "first_seen": "2026-11-17T12:16:54.816Z",
    "id": "39875066",
    "ids": [
@@ -938,36 +938,6 @@
    "searched_at": "2026-11-18T01:39:49.916Z"
   },
   {
-   "first_seen": "2026-11-19T08:15:11.746Z",
-   "id": "39917258",
-   "ids": [
-    "39917258",
-    "39912960"
-   ],
-   "title": "DeepSeek drops separate fees for model-triggered web searches",
-   "url": "https://technode.com/2026/11/19/deepseek-drops-separate-fees-for-model-triggered-web-searches/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-19 05:42:43",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "DeepSeek Removes Separate Fees for Model-Triggered Search and Web Fetch",
-     "url": "https://pandaily.com/deepseek-model-triggered-search-fetch-fee-change-client-api-pricing"
-    }
-   ],
-   "queries": [
-    "deepseek drops separate fees"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T08:15:22.791Z"
-  },
-  {
    "first_seen": "2026-11-16T18:27:03.865Z",
    "id": "39859230",
    "ids": [
@@ -998,6 +968,36 @@
    "searched_at": "2026-11-17T12:49:45.278Z"
   },
   {
+   "first_seen": "2026-11-19T08:15:11.746Z",
+   "id": "39917258",
+   "ids": [
+    "39917258",
+    "39912960"
+   ],
+   "title": "DeepSeek drops separate fees for model-triggered web searches",
+   "url": "https://technode.com/2026/11/19/deepseek-drops-separate-fees-for-model-triggered-web-searches/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-19 05:42:43",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "cn-pandaily",
+     "title": "DeepSeek Removes Separate Fees for Model-Triggered Search and Web Fetch",
+     "url": "https://pandaily.com/deepseek-model-triggered-search-fetch-fee-change-client-api-pricing"
+    }
+   ],
+   "queries": [
+    "deepseek drops separate fees"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T14:23:34.865Z"
+  },
+  {
    "first_seen": "2026-11-19T04:13:47.703Z",
    "id": "39914239",
    "ids": [
@@ -1009,7 +1009,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-19 01:55:07",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -1113,7 +1113,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-19 01:21:02",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "eu-tnw",
