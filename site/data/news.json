@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:10:04.506Z",
+ "generated_at": "2026-11-19T17:20:20.334Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,126 +9,126 @@
  },
  "search_report": [
   {
-   "source": "youtube: Blue Origin",
+   "source": "youtube: Wall Street",
    "ok": true
   },
   {
-   "source": "tiktok: Blue Origin",
+   "source": "tiktok: Wall Street",
    "ok": true
   },
   {
-   "source": "youtube: blue origin google 2029",
+   "source": "youtube: anthropic wall street starts",
    "ok": true
   },
   {
-   "source": "tiktok: blue origin google 2029",
+   "source": "tiktok: anthropic wall street starts",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-19T17:10:04.506Z",
-   "id": "39923190",
+   "first_seen": "2026-11-19T17:20:20.334Z",
+   "id": "39927299",
    "ids": [
-    "39923190",
-    "39926864"
+    "39927299",
+    "39925422"
    ],
-   "title": "Blue Origin will launch Google’s AI server satellites in 2029",
-   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+   "title": "Anthropic starts trading on Wall Street",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
    "source_id": "theverge",
-   "published_ts": "2026-11-19 13:53:38",
+   "published_ts": "2026-11-19 16:52:01",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "eu-tnw",
-     "title": "Google books Blue Origin’s New Glenn to launch its AI satellites in 2029",
-     "url": "https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029"
+     "source_id": "algorithmic-bridge",
+     "title": "Wall Street Is Wrong About Anthropic",
+     "url": "https://www.thealgorithmicbridge.com/p/wall-street-is-wrong-about-anthropic"
     }
    ],
    "queries": [
-    "Blue Origin",
-    "blue origin google 2029"
+    "Wall Street",
+    "anthropic wall street starts"
    ],
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GQdcilMmFfM",
+     "url": "https://www.youtube.com/watch?v=GQdcilMmFfM",
+     "title": "Anthropic lost $100B+ in 9 months. How much does Wall Street care?",
+     "channel": "CNN",
+     "views": 26158,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 1090
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:yT8Py9fEBTc",
-     "url": "https://www.youtube.com/shorts/yT8Py9fEBTc",
-     "title": "Google Picks Blue Origin’s New Glenn Rocket to Launch Project Suncatcher AI Satellites",
+     "id": "youtube:KAHXPo87N28",
+     "url": "https://www.youtube.com/shorts/KAHXPo87N28",
+     "title": "Anthropic just signaled Wall Street is eager to bet on the AI boom",
      "channel": "",
-     "views": 8,
+     "views": 8400,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:af5qDND5cuI",
+     "url": "https://www.youtube.com/watch?v=af5qDND5cuI",
+     "title": "Anthropic makes historic Wall Street debut—what it means for AI stocks",
+     "channel": "FOX 5 New York",
+     "views": 321,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 161
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:b_MhVunNd3g",
+     "url": "https://www.youtube.com/watch?v=b_MhVunNd3g",
+     "title": "Is Wall Street all-in on AI? Anthropic goes public",
+     "channel": "Arizona’s Family (3TV / CBS 5) ",
+     "views": 56,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 56
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lTEjtfycUOk",
+     "url": "https://www.youtube.com/shorts/lTEjtfycUOk",
+     "title": "China Just Found a Way Into Anthropic's IPO. Wall Street Didn't Want Them There",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.6,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:zXS6kANz3q0",
-     "url": "https://www.youtube.com/shorts/zXS6kANz3q0",
-     "title": "Google AI Chips in Space by 2029? #Shorts",
+     "id": "youtube:LKl41gHtW4U",
+     "url": "https://www.youtube.com/shorts/LKl41gHtW4U",
+     "title": "Anthropic LOST $104B and Wall Street Still Wants In",
      "channel": "",
-     "views": 4,
+     "views": 739,
      "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yP30Zc4zkEI",
-     "url": "https://www.youtube.com/shorts/yP30Zc4zkEI",
-     "title": "Google Suncatcher: Blue Origin Will Launch AI Into Orbit",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rVswSNPj2zk",
-     "url": "https://www.youtube.com/shorts/rVswSNPj2zk",
-     "title": "Google & Blue Origin Launch Big",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7Q1ryn0Tg48",
-     "url": "https://www.youtube.com/shorts/7Q1ryn0Tg48",
-     "title": "Google Books Blue Origin to Launch AI Servers Into Space",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:sJOk8PorS9s",
-     "url": "https://www.youtube.com/shorts/sJOk8PorS9s",
-     "title": "Google’s AI Satellites Are Headed to Orbit in 2029 #Shorts",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.57,
+     "relevance": 0.6,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-19T17:10:12.638Z"
+   "searched_at": "2026-11-19T17:20:30.252Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -358,51 +358,50 @@
    "searched_at": "2026-11-18T13:21:50.654Z"
   },
   {
-   "first_seen": "2026-11-19T07:49:18.045Z",
-   "id": "39914098",
+   "first_seen": "2026-11-19T17:10:04.506Z",
+   "id": "39923190",
    "ids": [
-    "39914098",
-    "39916873",
-    "39920242",
-    "39925330",
-    "39919713",
-    "39916036"
+    "39923190",
+    "39926864"
    ],
-   "title": "Anthropic raises $81.3bn in biggest IPO on record",
-   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-19 11:00:48",
-   "story_sources": 4,
-   "score_norm": 87,
+   "title": "Blue Origin will launch Google’s AI server satellites in 2029",
+   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+   "source_id": "theverge",
+   "published_ts": "2026-11-19 13:53:38",
+   "story_sources": 2,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "eu-tnw",
-     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
-     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
-    },
-    {
-     "source_id": "eu-siliconrepublic",
-     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
-     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic raises $81B in record IPO",
-     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e"
+     "title": "Google books Blue Origin’s New Glenn to launch its AI satellites in 2029",
+     "url": "https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029"
     }
    ],
    "queries": [
-    "anthropic 107.3bn ipo raises"
+    "Blue Origin",
+    "blue origin google 2029"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:GZR_3RkttrU",
-     "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
-     "title": "Should you invest in Anthropic's IPO?",
+     "id": "youtube:yT8Py9fEBTc",
+     "url": "https://www.youtube.com/shorts/yT8Py9fEBTc",
+     "title": "Google Picks Blue Origin’s New Glenn Rocket to Launch Project Suncatcher AI Satellites",
      "channel": "",
-     "views": 26000,
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zXS6kANz3q0",
+     "url": "https://www.youtube.com/shorts/zXS6kANz3q0",
+     "title": "Google AI Chips in Space by 2029? #Shorts",
+     "channel": "",
+     "views": 4,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -410,21 +409,57 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:jQiwSBs1qeY",
-     "url": "https://www.youtube.com/shorts/jQiwSBs1qeY",
-     "title": "Anthropic poised for record-setting IPO",
+     "id": "youtube:yP30Zc4zkEI",
+     "url": "https://www.youtube.com/shorts/yP30Zc4zkEI",
+     "title": "Google Suncatcher: Blue Origin Will Launch AI Into Orbit",
      "channel": "",
-     "views": 1800,
+     "views": 2,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rVswSNPj2zk",
+     "url": "https://www.youtube.com/shorts/rVswSNPj2zk",
+     "title": "Google & Blue Origin Launch Big",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7Q1ryn0Tg48",
+     "url": "https://www.youtube.com/shorts/7Q1ryn0Tg48",
+     "title": "Google Books Blue Origin to Launch AI Servers Into Space",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sJOk8PorS9s",
+     "url": "https://www.youtube.com/shorts/sJOk8PorS9s",
+     "title": "Google’s AI Satellites Are Headed to Orbit in 2029 #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T13:49:59.425Z"
+   "searched_at": "2026-11-19T17:10:12.638Z"
   },
   {
    "first_seen": "2026-11-19T08:15:11.746Z",
@@ -572,6 +607,75 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-18T01:39:49.916Z"
+  },
+  {
+   "first_seen": "2026-11-19T07:49:18.045Z",
+   "id": "39914098",
+   "ids": [
+    "39914098",
+    "39916873",
+    "39920242",
+    "39925330",
+    "39919713",
+    "39916036"
+   ],
+   "title": "Anthropic raises $81.3bn in biggest IPO on record",
+   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-19 11:00:48",
+   "story_sources": 4,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
+     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
+    },
+    {
+     "source_id": "eu-siliconrepublic",
+     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
+     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic raises $81B in record IPO",
+     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e"
+    }
+   ],
+   "queries": [
+    "anthropic 107.3bn ipo raises"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GZR_3RkttrU",
+     "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
+     "title": "Should you invest in Anthropic's IPO?",
+     "channel": "",
+     "views": 26000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jQiwSBs1qeY",
+     "url": "https://www.youtube.com/shorts/jQiwSBs1qeY",
+     "title": "Anthropic poised for record-setting IPO",
+     "channel": "",
+     "views": 1800,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-19T13:49:59.425Z"
   },
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
@@ -1072,85 +1176,6 @@
    "searched_at": "2026-11-17T11:10:32.761Z"
   },
   {
-   "first_seen": "2026-11-18T22:20:32.233Z",
-   "id": "39909716",
-   "ids": [
-    "39909716",
-    "39909306",
-    "39909154",
-    "39910490"
-   ],
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-18 22:11:15",
-   "story_sources": 2,
-   "score_norm": 64,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
-     "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Prices IPO at $83 a Share",
-     "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic prices IPO at $83 per share",
-     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
-    }
-   ],
-   "queries": [
-    "anthropic ipo 83 reportedly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KkWYGTSgpfA",
-     "url": "https://www.youtube.com/watch?v=KkWYGTSgpfA",
-     "title": "Anthropic IPO: $17B Revenue",
-     "channel": "Deep Value Investing",
-     "views": 223,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z4VVCDGiSw4",
-     "url": "https://www.youtube.com/watch?v=Z4VVCDGiSw4",
-     "title": "Anthropic Prices IPO at $83, Valued at $1.5 Trillion #Shorts",
-     "channel": "Dig Deep Tech",
-     "views": 21,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8hUidEg9RP8",
-     "url": "https://www.youtube.com/watch?v=8hUidEg9RP8",
-     "title": "Anthropic IPO Reportedly Priced at $83 a Share | Developing Update",
-     "channel": "Forever Desk",
-     "views": 0,
-     "age_hours": 17,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T16:49:21.015Z"
-  },
-  {
    "first_seen": "2026-11-18T07:49:34.295Z",
    "id": "39894404",
    "ids": [
@@ -1408,227 +1433,6 @@
    "searched_at": "2026-11-18T08:27:35.274Z"
   },
   {
-   "first_seen": "2026-11-19T15:11:26.905Z",
-   "id": "39924198",
-   "ids": [
-    "39924198",
-    "39913385"
-   ],
-   "title": "Anthropic is not living up to its ideals",
-   "url": "https://www.lesswrong.com/posts/Drj97tmuiWF3e9Xya/anthropic-is-not-living-up-to-its-ideals",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-19 14:33:52",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic is not living up to its ideals",
-     "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its"
-    }
-   ],
-   "queries": [
-    "anthropic not living up"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T15:11:31.876Z"
-  },
-  {
-   "first_seen": "2026-11-19T04:13:47.703Z",
-   "id": "39914202",
-   "ids": [
-    "39914202",
-    "39910280"
-   ],
-   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-   "source_id": "crypto-coindesk",
-   "published_ts": "2026-11-19 03:40:48",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day",
-     "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day"
-    }
-   ],
-   "queries": [
-    "BNB Chain",
-    "cz anthropic bnb chain"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9FJxtfzS9eQ",
-     "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
-     "title": "BUY INTO THE ANTHROPIC IPO",
-     "channel": "",
-     "views": 110,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rvd1pkwZTb8",
-     "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
-     "title": "j.tools is Now Live on BNB Chain! 🟡",
-     "channel": "J Tools | Multichain Token Platform",
-     "views": 48,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XS9nCT24hq0",
-     "url": "https://www.youtube.com/watch?v=XS9nCT24hq0",
-     "title": "Anthropic IPO tokens to trade from day one, Zhao says - BNB | Nov 19, 2026",
-     "channel": "Stocks News Daily",
-     "views": 0,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T16:24:29.708Z"
-  },
-  {
-   "first_seen": "2026-11-18T21:49:51.799Z",
-   "id": "39909242",
-   "ids": [
-    "39909242",
-    "39909086",
-    "39909085",
-    "39908928",
-    "39908540",
-    "39908541"
-   ],
-   "title": "Introducing Gemini 4 Neon",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "source_id": "deepmind",
-   "published_ts": "2026-11-18 21:35:43",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Neon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Neon",
-     "url": "https://twitter.com/sundarpichai/status/2123167780988125621"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Neon",
-     "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/guides/gemini-4-neon"
-    },
-    {
-     "source_id": "hn",
-     "title": "Gemini 4 Neon",
-     "url": "https://aistudio.google.com/docs/models/gemini-4-neon"
-    }
-   ],
-   "queries": [
-    "Introducing Gemini 4 Neon",
-    "introducing gemini neon"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:R0rXSJmymTc",
-     "url": "https://www.youtube.com/watch?v=R0rXSJmymTc",
-     "title": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
-     "channel": "WorldofAI",
-     "views": 106082,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 6630
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Q0ShBenKyqo",
-     "url": "https://www.youtube.com/watch?v=Q0ShBenKyqo",
-     "title": "Gemini 4 Neon - Fully Tested",
-     "channel": "Prompt Engineering",
-     "views": 65160,
-     "age_hours": 18,
-     "relevance": 0.67,
-     "velocity": 3620
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Um1q5qJURlw",
-     "url": "https://www.youtube.com/watch?v=Um1q5qJURlw",
-     "title": "Google's Gemini 4 Neon Just BEAT Opus 5.5!",
-     "channel": "Universe of AI",
-     "views": 45505,
-     "age_hours": 16,
-     "relevance": 0.67,
-     "velocity": 2844
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6dnyCrO5IR0",
-     "url": "https://www.youtube.com/watch?v=6dnyCrO5IR0",
-     "title": "NEW Gemini 4 Neon Surprises with SWARM and Supercharges Google's Intelligence",
-     "channel": "Inteligência Mil Grau",
-     "views": 7329,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 1466
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:aFdeyQwNUis",
-     "url": "https://www.youtube.com/watch?v=aFdeyQwNUis",
-     "title": "Gemini 4 Neon Is Here!! Better Than Opus 5.5 for Half the Price?",
-     "channel": "Noetic | AI",
-     "views": 6835,
-     "age_hours": 13,
-     "relevance": 0.67,
-     "velocity": 526
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_nZmgZ_O2oY",
-     "url": "https://www.youtube.com/watch?v=_nZmgZ_O2oY",
-     "title": "Gemini 4 Neon: I Tested It on 4 Real Demos",
-     "channel": "AI with Surya",
-     "views": 1723,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 431
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-19T16:24:37.064Z"
-  },
-  {
    "first_seen": "2026-11-18T11:10:27.751Z",
    "id": "39897114",
    "ids": [
@@ -1731,6 +1535,85 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T17:20:42.304Z"
+  },
+  {
+   "first_seen": "2026-11-18T22:20:32.233Z",
+   "id": "39909716",
+   "ids": [
+    "39909716",
+    "39909306",
+    "39909154",
+    "39910490"
+   ],
+   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-18 22:11:15",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
+     "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic Prices IPO at $83 a Share",
+     "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic prices IPO at $83 per share",
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    }
+   ],
+   "queries": [
+    "anthropic ipo 83 reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:KkWYGTSgpfA",
+     "url": "https://www.youtube.com/watch?v=KkWYGTSgpfA",
+     "title": "Anthropic IPO: $17B Revenue",
+     "channel": "Deep Value Investing",
+     "views": 223,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z4VVCDGiSw4",
+     "url": "https://www.youtube.com/watch?v=Z4VVCDGiSw4",
+     "title": "Anthropic Prices IPO at $83, Valued at $1.5 Trillion #Shorts",
+     "channel": "Dig Deep Tech",
+     "views": 21,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8hUidEg9RP8",
+     "url": "https://www.youtube.com/watch?v=8hUidEg9RP8",
+     "title": "Anthropic IPO Reportedly Priced at $83 a Share | Developing Update",
+     "channel": "Forever Desk",
+     "views": 0,
+     "age_hours": 17,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T16:49:21.015Z"
   },
   {
    "first_seen": "2026-11-18T12:38:36.132Z",
@@ -2076,6 +1959,104 @@
    "searched_at": "2026-11-18T15:10:47.894Z"
   },
   {
+   "first_seen": "2026-11-19T15:11:26.905Z",
+   "id": "39924198",
+   "ids": [
+    "39924198",
+    "39913385"
+   ],
+   "title": "Anthropic is not living up to its ideals",
+   "url": "https://www.lesswrong.com/posts/Drj97tmuiWF3e9Xya/anthropic-is-not-living-up-to-its-ideals",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-19 14:33:52",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic is not living up to its ideals",
+     "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its"
+    }
+   ],
+   "queries": [
+    "anthropic not living up"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T15:11:31.876Z"
+  },
+  {
+   "first_seen": "2026-11-19T04:13:47.703Z",
+   "id": "39914202",
+   "ids": [
+    "39914202",
+    "39910280"
+   ],
+   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+   "source_id": "crypto-coindesk",
+   "published_ts": "2026-11-19 03:40:48",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day"
+    }
+   ],
+   "queries": [
+    "BNB Chain",
+    "cz anthropic bnb chain"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9FJxtfzS9eQ",
+     "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
+     "title": "BUY INTO THE ANTHROPIC IPO",
+     "channel": "",
+     "views": 110,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rvd1pkwZTb8",
+     "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
+     "title": "j.tools is Now Live on BNB Chain! 🟡",
+     "channel": "J Tools | Multichain Token Platform",
+     "views": 48,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XS9nCT24hq0",
+     "url": "https://www.youtube.com/watch?v=XS9nCT24hq0",
+     "title": "Anthropic IPO tokens to trade from day one, Zhao says - BNB | Nov 19, 2026",
+     "channel": "Stocks News Daily",
+     "views": 0,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T16:24:29.708Z"
+  },
+  {
    "first_seen": "2026-11-17T11:49:36.719Z",
    "id": "39874628",
    "ids": [
@@ -2304,6 +2285,259 @@
    "searched_at": "2026-11-19T16:24:51.784Z"
   },
   {
+   "first_seen": "2026-11-18T21:49:51.799Z",
+   "id": "39909242",
+   "ids": [
+    "39909242",
+    "39909086",
+    "39909085",
+    "39908928",
+    "39908540",
+    "39908541"
+   ],
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "source_id": "deepmind",
+   "published_ts": "2026-11-18 21:35:43",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Neon",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Neon",
+     "url": "https://twitter.com/sundarpichai/status/2123167780988125621"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Neon",
+     "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/guides/gemini-4-neon"
+    },
+    {
+     "source_id": "hn",
+     "title": "Gemini 4 Neon",
+     "url": "https://aistudio.google.com/docs/models/gemini-4-neon"
+    }
+   ],
+   "queries": [
+    "Introducing Gemini 4 Neon",
+    "introducing gemini neon"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:R0rXSJmymTc",
+     "url": "https://www.youtube.com/watch?v=R0rXSJmymTc",
+     "title": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
+     "channel": "WorldofAI",
+     "views": 106082,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 6630
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Q0ShBenKyqo",
+     "url": "https://www.youtube.com/watch?v=Q0ShBenKyqo",
+     "title": "Gemini 4 Neon - Fully Tested",
+     "channel": "Prompt Engineering",
+     "views": 65160,
+     "age_hours": 18,
+     "relevance": 0.67,
+     "velocity": 3620
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Um1q5qJURlw",
+     "url": "https://www.youtube.com/watch?v=Um1q5qJURlw",
+     "title": "Google's Gemini 4 Neon Just BEAT Opus 5.5!",
+     "channel": "Universe of AI",
+     "views": 45505,
+     "age_hours": 16,
+     "relevance": 0.67,
+     "velocity": 2844
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6dnyCrO5IR0",
+     "url": "https://www.youtube.com/watch?v=6dnyCrO5IR0",
+     "title": "NEW Gemini 4 Neon Surprises with SWARM and Supercharges Google's Intelligence",
+     "channel": "Inteligência Mil Grau",
+     "views": 7329,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 1466
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:aFdeyQwNUis",
+     "url": "https://www.youtube.com/watch?v=aFdeyQwNUis",
+     "title": "Gemini 4 Neon Is Here!! Better Than Opus 5.5 for Half the Price?",
+     "channel": "Noetic | AI",
+     "views": 6835,
+     "age_hours": 13,
+     "relevance": 0.67,
+     "velocity": 526
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_nZmgZ_O2oY",
+     "url": "https://www.youtube.com/watch?v=_nZmgZ_O2oY",
+     "title": "Gemini 4 Neon: I Tested It on 4 Real Demos",
+     "channel": "AI with Surya",
+     "views": 1723,
+     "age_hours": 4,
+     "relevance": 0.67,
+     "velocity": 431
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-19T16:24:37.064Z"
+  },
+  {
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
+   "ids": [
+    "39899877",
+    "39900377"
+   ],
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T02:36:21.220Z"
+  },
+  {
+   "first_seen": "2026-11-17T09:13:08.872Z",
+   "id": "39872592",
+   "ids": [
+    "39872592",
+    "39863189"
+   ],
+   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+   "url": "https://www.hpcwire.com/off-the-wire/nvidia-cuda-x-libraries-give-agents-the-tools-to-accelerate-scientific-discovery/",
+   "source_id": "hpcwire-ai",
+   "published_ts": "2026-11-17 04:13:41",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "x-blogs-nvidia",
+     "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+     "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/"
+    }
+   ],
+   "queries": [
+    "NVIDIA CUDA-X Libraries Give",
+    "nvidia cuda-x libraries give"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cS-gwQaYUY8",
+     "url": "https://www.youtube.com/shorts/cS-gwQaYUY8",
+     "title": "NVIDIA CUDA-X Libraries Now Target Scientific Discovery",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:z-6ERauRwTY",
+     "url": "https://www.youtube.com/shorts/z-6ERauRwTY",
+     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:koDnJaw2ULQ",
+     "url": "https://www.youtube.com/watch?v=koDnJaw2ULQ",
+     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
+     "channel": "StartupHub AI",
+     "views": 0,
+     "age_hours": 15,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T09:13:16.619Z"
+  },
+  {
+   "first_seen": "2026-11-16T18:14:26.964Z",
+   "id": "39859233",
+   "ids": [
+    "39859233",
+    "39856271",
+    "39865804"
+   ],
+   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-17 00:03:21",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "First phase of embedded assessments at OpenAI",
+     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    }
+   ],
+   "queries": [
+    "openai news our first"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T12:49:48.933Z"
+  },
+  {
    "first_seen": "2026-11-19T07:23:57.272Z",
    "id": "39916370",
    "ids": [
@@ -2315,7 +2549,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-19 06:58:16",
    "story_sources": 2,
-   "score_norm": 52,
+   "score_norm": 46,
    "related_news": [
     {
      "source_id": "hn",
@@ -2418,7 +2652,7 @@
    "source_id": "eu-itpro",
    "published_ts": "2026-11-19 12:30:00",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 44,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -2511,105 +2745,6 @@
    "searched_at": "2026-11-19T13:36:38.469Z"
   },
   {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T02:36:21.220Z"
-  },
-  {
-   "first_seen": "2026-11-17T09:13:08.872Z",
-   "id": "39872592",
-   "ids": [
-    "39872592",
-    "39863189"
-   ],
-   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-   "url": "https://www.hpcwire.com/off-the-wire/nvidia-cuda-x-libraries-give-agents-the-tools-to-accelerate-scientific-discovery/",
-   "source_id": "hpcwire-ai",
-   "published_ts": "2026-11-17 04:13:41",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "x-blogs-nvidia",
-     "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-     "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/"
-    }
-   ],
-   "queries": [
-    "NVIDIA CUDA-X Libraries Give",
-    "nvidia cuda-x libraries give"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cS-gwQaYUY8",
-     "url": "https://www.youtube.com/shorts/cS-gwQaYUY8",
-     "title": "NVIDIA CUDA-X Libraries Now Target Scientific Discovery",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:z-6ERauRwTY",
-     "url": "https://www.youtube.com/shorts/z-6ERauRwTY",
-     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:koDnJaw2ULQ",
-     "url": "https://www.youtube.com/watch?v=koDnJaw2ULQ",
-     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
-     "channel": "StartupHub AI",
-     "views": 0,
-     "age_hours": 15,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T09:13:16.619Z"
-  },
-  {
    "first_seen": "2026-11-19T08:15:11.746Z",
    "id": "39917258",
    "ids": [
@@ -2621,7 +2756,7 @@
    "source_id": "cn-technode",
    "published_ts": "2026-11-19 05:42:43",
    "story_sources": 2,
-   "score_norm": 48,
+   "score_norm": 43,
    "related_news": [
     {
      "source_id": "cn-pandaily",
@@ -2640,6 +2775,37 @@
    "searched_at": "2026-11-19T14:23:34.865Z"
   },
   {
+   "first_seen": "2026-11-18T11:10:27.751Z",
+   "id": "39893846",
+   "ids": [
+    "39893846",
+    "39897031"
+   ],
+   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "source_id": "theregister",
+   "published_ts": "2026-11-18 06:32:00",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "eu-theregister",
+     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
+     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
+    }
+   ],
+   "queries": [
+    "A Chinese",
+    "chinese bottle-cap manufacturer brilliantly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T23:20:51.935Z"
+  },
+  {
    "first_seen": "2026-11-19T04:13:47.703Z",
    "id": "39914239",
    "ids": [
@@ -2651,7 +2817,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-19 01:55:07",
    "story_sources": 2,
-   "score_norm": 47,
+   "score_norm": 42,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -2742,68 +2908,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T16:24:44.704Z"
-  },
-  {
-   "first_seen": "2026-11-16T18:14:26.964Z",
-   "id": "39859233",
-   "ids": [
-    "39859233",
-    "39856271",
-    "39865804"
-   ],
-   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-17 00:03:21",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "First phase of embedded assessments at OpenAI",
-     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    }
-   ],
-   "queries": [
-    "openai news our first"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T12:49:48.933Z"
-  },
-  {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
-   "ids": [
-    "39893846",
-    "39897031"
-   ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
-   "story_sources": 2,
-   "score_norm": 43,
-   "related_news": [
-    {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
-    }
-   ],
-   "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T23:20:51.935Z"
   },
   {
    "first_seen": "2026-11-17T12:38:02.562Z",
