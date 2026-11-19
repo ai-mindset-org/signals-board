@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T05:49:40.748Z",
+ "generated_at": "2026-11-19T07:23:57.272Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Bajaj Finserv",
+   "source": "youtube: anthropic 81.3b ipo spacex",
    "ok": true
   },
   {
-   "source": "tiktok: Bajaj Finserv",
-   "ok": true
-  },
-  {
-   "source": "youtube: bajaj finserv pennant indian",
-   "ok": true
-  },
-  {
-   "source": "tiktok: bajaj finserv pennant indian",
+   "source": "tiktok: anthropic 81.3b ipo spacex",
    "ok": true
   }
  ],
@@ -153,7 +145,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-11-19 03:40:48",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 98,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -548,6 +540,109 @@
    "searched_at": "2026-11-18T13:21:50.654Z"
   },
   {
+   "first_seen": "2026-11-19T07:23:57.272Z",
+   "id": "39916370",
+   "ids": [
+    "39916370",
+    "39914897"
+   ],
+   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
+   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-19 06:58:16",
+   "story_sources": 2,
+   "score_norm": 88,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic IPO raises record $81.3B on strong AI demand",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+    }
+   ],
+   "queries": [
+    "anthropic 81.3b ipo spacex"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lBHYaSYhtew",
+     "url": "https://www.youtube.com/shorts/lBHYaSYhtew",
+     "title": "Anthropic's $81.3B IPO Is the Biggest in History — It Beats SpaceX",
+     "channel": "",
+     "views": 100,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:UxZt3FOT3lg",
+     "url": "https://www.youtube.com/shorts/UxZt3FOT3lg",
+     "title": "Anthropic IPO Is Thursday. Look What Happened to SpaceX.",
+     "channel": "",
+     "views": 77,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MHp9qaT6eeY",
+     "url": "https://www.youtube.com/shorts/MHp9qaT6eeY",
+     "title": "Anthropic's record IPO and the lesson from Facebook",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TlqrxWyBwYo",
+     "url": "https://www.youtube.com/shorts/TlqrxWyBwYo",
+     "title": "ANTHROPIC PRICES IPO AT $83, TOPS SPACEX RECORD $ANT",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Yf1F1bUPo0g",
+     "url": "https://www.youtube.com/shorts/Yf1F1bUPo0g",
+     "title": "Record-Breaking Anthropic IPO Raises Over $81 Billion, Surpasses SpaceX",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MikMQ8l2SLc",
+     "url": "https://www.youtube.com/shorts/MikMQ8l2SLc",
+     "title": "Anthropic's IPO Could Beat SpaceX's Record ($1.4 Trillion AI Lab) 🤯",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T07:24:01.351Z"
+  },
+  {
    "first_seen": "2026-11-19T05:49:40.748Z",
    "id": "39915206",
    "ids": [
@@ -559,7 +654,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-19 05:23:09",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -650,7 +745,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-19 01:55:07",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
