@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:20:44.009Z",
+ "generated_at": "2026-11-19T01:21:43.212Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: A Chinese",
-   "ok": true
-  },
-  {
-   "source": "tiktok: A Chinese",
-   "ok": true
-  },
-  {
-   "source": "youtube: chinese bottle-cap manufacturer brilliantly",
-   "ok": true
-  },
-  {
-   "source": "tiktok: chinese bottle-cap manufacturer brilliantly",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-18T22:20:32.233Z",
@@ -1338,109 +1321,6 @@
    "searched_at": "2026-11-18T08:27:35.274Z"
   },
   {
-   "first_seen": "2026-11-16T06:58:04.021Z",
-   "id": "39847363",
-   "ids": [
-    "39847363",
-    "39841929"
-   ],
-   "title": "You can now generate and edit GIFs with ChatGPT - here's how - Engadget",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xxc9hj/you_can_now_generate_and_edit_gifs_with_chatgpt/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-16 01:11:40",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "You can now generate and edit GIFs with ChatGPT - here's how",
-     "url": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/"
-    }
-   ],
-   "queries": [
-    "gifs chatgpt engadget can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YbzZlxaw3wg",
-     "url": "https://www.youtube.com/shorts/YbzZlxaw3wg",
-     "title": "ChatGPT Can Now Create Animated GIFs",
-     "channel": "",
-     "views": 733,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:r8TkOlpCIsY",
-     "url": "https://www.youtube.com/shorts/r8TkOlpCIsY",
-     "title": "Create Gifs with ChatGPT",
-     "channel": "",
-     "views": 433,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:W1kmu-YFOyQ",
-     "url": "https://www.youtube.com/shorts/W1kmu-YFOyQ",
-     "title": "ChatGPT Just Added GIFs - Try This Now!",
-     "channel": "",
-     "views": 347,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_VTpB0Z2hL8",
-     "url": "https://www.youtube.com/shorts/_VTpB0Z2hL8",
-     "title": "ChatGPT Images 2.6 Can Now Make GIFs for You",
-     "channel": "",
-     "views": 206,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Euq8Q5c1hcY",
-     "url": "https://www.youtube.com/shorts/Euq8Q5c1hcY",
-     "title": "Make Your Own GIFs with ChatGPT!",
-     "channel": "",
-     "views": 142,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gYsVYRuljWU",
-     "url": "https://www.youtube.com/shorts/gYsVYRuljWU",
-     "title": "GPT Images 2.6   ChatGPT Can Now Generate Animated GIFs",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-16T13:26:46.139Z"
-  },
-  {
    "first_seen": "2026-11-18T11:10:27.751Z",
    "id": "39897114",
    "ids": [
@@ -2012,6 +1892,37 @@
    "searched_at": "2026-11-17T04:36:58.103Z"
   },
   {
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
+   "ids": [
+    "39899877",
+    "39900377"
+   ],
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-18T20:35:51.259Z"
+  },
+  {
    "first_seen": "2026-11-17T09:13:08.872Z",
    "id": "39872592",
    "ids": [
@@ -2078,37 +1989,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T09:13:16.619Z"
-  },
-  {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T20:35:51.259Z"
   },
   {
    "first_seen": "2026-11-16T18:14:26.964Z",
