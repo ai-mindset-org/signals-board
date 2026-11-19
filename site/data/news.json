@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:20:14.111Z",
+ "generated_at": "2026-11-19T21:48:58.334Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: anthropic not living up",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic not living up",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -367,7 +358,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 18:21:13",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "hn",
@@ -2031,62 +2022,6 @@
    "searched_at": "2026-11-17T18:14:28.294Z"
   },
   {
-   "first_seen": "2026-11-16T22:36:05.094Z",
-   "id": "39864052",
-   "ids": [
-    "39864052",
-    "39847683"
-   ],
-   "title": "India & Nine Other Nations Sign Joint Declaration To Safeguard AI Supply Chains",
-   "url": "https://inc42.com/buzz/india-nine-other-nations-sign-declaration-to-secure-ai-supply-chains/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-11-16 21:44:01",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "India, US, eight other nations sign declaration to safeguard AI supply chains",
-     "url": "https://www.thehindubusinessline.com/info-tech/india-us-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains/article71707048.ece"
-    }
-   ],
-   "queries": [
-    "Nine Other Nations Sign Joint Declaration To Safeguard",
-    "india nine other nations"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:c73KCbjf_zY",
-     "url": "https://www.youtube.com/watch?v=c73KCbjf_zY",
-     "title": "US and 9 Partners Sign San Francisco Declaration on AI Supply Chains",
-     "channel": "NTD News",
-     "views": 94,
-     "age_hours": 8,
-     "relevance": 0.56,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xviVQkbTtyk",
-     "url": "https://www.youtube.com/watch?v=xviVQkbTtyk",
-     "title": "India SIGNS a US-Led AI Supply Chain Declaration",
-     "channel": "Alignment Addict",
-     "views": 2,
-     "age_hours": 19,
-     "relevance": 0.57,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T04:36:58.103Z"
-  },
-  {
    "first_seen": "2026-11-19T04:13:47.703Z",
    "id": "39914243",
    "ids": [
@@ -2204,22 +2139,12 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-18 22:11:15",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "hn",
      "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
      "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Prices IPO at $83 a Share",
-     "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic prices IPO at $83 per share",
-     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
     }
    ],
    "queries": [
