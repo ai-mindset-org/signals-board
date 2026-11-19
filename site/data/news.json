@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:36:12.429Z",
+ "generated_at": "2026-11-19T04:13:47.703Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,127 @@
  },
  "search_report": [
   {
-   "source": "youtube: Mehr Datenschutz",
+   "source": "youtube: BNB Chain",
    "ok": true
   },
   {
-   "source": "tiktok: Mehr Datenschutz",
+   "source": "tiktok: BNB Chain",
    "ok": true
   },
   {
-   "source": "youtube: mehr datenschutz gemini ki-training",
+   "source": "youtube: cz anthropic bnb chain",
    "ok": true
   },
   {
-   "source": "tiktok: mehr datenschutz gemini ki-training",
+   "source": "tiktok: cz anthropic bnb chain",
+   "ok": true
+  },
+  {
+   "source": "youtube: Introducing Gemini 4 Neon",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Introducing Gemini 4 Neon",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing gemini neon",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing gemini neon",
+   "ok": true
+  },
+  {
+   "source": "youtube: Gemini 4 Neon",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Gemini 4 Neon",
+   "ok": true
+  },
+  {
+   "source": "youtube: google gemini neon rolls",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google gemini neon rolls",
+   "ok": true
+  },
+  {
+   "source": "youtube: Genie 4",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Genie 4",
+   "ok": true
+  },
+  {
+   "source": "youtube: google genie ultra rolls",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google genie ultra rolls",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-19T04:13:47.703Z",
+   "id": "39914202",
+   "ids": [
+    "39914202",
+    "39910280"
+   ],
+   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+   "source_id": "crypto-coindesk",
+   "published_ts": "2026-11-19 03:40:48",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day"
+    }
+   ],
+   "queries": [
+    "BNB Chain",
+    "cz anthropic bnb chain"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9FJxtfzS9eQ",
+     "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
+     "title": "BUY INTO THE ANTHROPIC IPO",
+     "channel": "",
+     "views": 108,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rvd1pkwZTb8",
+     "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
+     "title": "j.tools is Now Live on BNB Chain! 🟡",
+     "channel": "J Tools | Multichain Token Platform",
+     "views": 42,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T04:13:55.719Z"
+  },
   {
    "first_seen": "2026-11-18T22:20:32.233Z",
    "id": "39909716",
@@ -256,38 +360,14 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:q8iHsdzd94U",
-     "url": "https://www.youtube.com/watch?v=q8iHsdzd94U",
-     "title": "Claude Fable 5.5 or Opus 5.6?! GPT-6.2 Astra & Sol, Gemini 4 Neon TODAY! & Microsoft MAI! AI NEWS",
+     "id": "youtube:R0rXSJmymTc",
+     "url": "https://www.youtube.com/watch?v=R0rXSJmymTc",
+     "title": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
      "channel": "WorldofAI",
-     "views": 75778,
-     "age_hours": 12,
+     "views": 26284,
+     "age_hours": 4,
      "relevance": 0.67,
-     "velocity": 6315
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WRdgKyOTPXA",
-     "url": "https://www.youtube.com/watch?v=WRdgKyOTPXA",
-     "title": "GPT-6.2 Astra Is INSANE! Gemini 4 Neon, OpenAI AGI CONFIRMED?!, Claude Code UPGRADES & MORE! AI NEWS",
-     "channel": "WorldofAI",
-     "views": 116427,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 4851
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IZFjOq9H9FU",
-     "url": "https://www.youtube.com/watch?v=IZFjOq9H9FU",
-     "title": "[#AINews No.517] Generate Websites from Gemini Notebook Sources! Rumors of the New Gemini 4 Neon ...",
-     "channel": "AI整体師",
-     "views": 3621,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 151
+     "velocity": 6571
     },
     {
      "platform": "youtube",
@@ -296,41 +376,65 @@
      "url": "https://www.youtube.com/watch?v=Q0ShBenKyqo",
      "title": "Gemini 4 Neon",
      "channel": "Prompt Engineering",
-     "views": 37,
-     "age_hours": 0.05,
+     "views": 27698,
+     "age_hours": 6,
      "relevance": 1,
-     "velocity": 37
+     "velocity": 4616
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_jsNG7VHZEA",
-     "url": "https://www.youtube.com/shorts/_jsNG7VHZEA",
-     "title": "Gemini 4 Neon Leaked! Google’s Next AI Model?",
-     "channel": "",
-     "views": 560,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:Um1q5qJURlw",
+     "url": "https://www.youtube.com/watch?v=Um1q5qJURlw",
+     "title": "Google's Gemini 4 Neon Just BEAT Opus 5.5!",
+     "channel": "Universe of AI",
+     "views": 9506,
+     "age_hours": 4,
      "relevance": 0.67,
-     "velocity": null
+     "velocity": 2377
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:d_DeZLipHcE",
-     "url": "https://www.youtube.com/shorts/d_DeZLipHcE",
-     "title": "Gemini 4 Neon is insane🔥",
-     "channel": "",
-     "views": 401,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:iMl1UXFNX9g",
+     "url": "https://www.youtube.com/watch?v=iMl1UXFNX9g",
+     "title": "Gemini 4 Neon vs Claude Opus 5.5: can Google's mid-size model really beat Opus?",
+     "channel": "AI Curve Wars",
+     "views": 2792,
+     "age_hours": 6,
      "relevance": 0.67,
-     "velocity": null
+     "velocity": 465
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xERKfzMggqQ",
+     "url": "https://www.youtube.com/watch?v=xERKfzMggqQ",
+     "title": "Gemini 4 Neon Is Here (Real-World Tests)",
+     "channel": "ИИ МАСТОДОНТ",
+     "views": 833,
+     "age_hours": 3,
+     "relevance": 0.67,
+     "velocity": 278
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JFBOjnfFapU",
+     "url": "https://www.youtube.com/watch?v=JFBOjnfFapU",
+     "title": "Gemini 4 Neon: Google's Fast Model Isn't Fast Where It Counts",
+     "channel": "hinter",
+     "views": 793,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 159
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-18T21:49:59.596Z"
+   "searched_at": "2026-11-19T04:14:02.895Z"
   },
   {
    "first_seen": "2026-11-17T19:09:55.618Z",
@@ -516,6 +620,110 @@
    "searched_at": "2026-11-18T01:39:49.916Z"
   },
   {
+   "first_seen": "2026-11-19T04:13:47.703Z",
+   "id": "39914239",
+   "ids": [
+    "39914239",
+    "39909611"
+   ],
+   "title": "Google rolls out Gemini 4 Neon AI model for coding, science",
+   "url": "https://www.techinasia.com/news/google-rolls-gemini-4-neon-ai-model-coding-science",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-19 01:55:07",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Google Rolls Out Gemini 4 Neon for Complex AI Work",
+     "url": "https://thedefiant.io/frontier/ai/google-rolls-out-gemini-4-neon-for-complex-ai-work"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Neon",
+    "google gemini neon rolls"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:R0rXSJmymTc",
+     "url": "https://www.youtube.com/watch?v=R0rXSJmymTc",
+     "title": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
+     "channel": "WorldofAI",
+     "views": 26284,
+     "age_hours": 4,
+     "relevance": 0.56,
+     "velocity": 6571
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Q0ShBenKyqo",
+     "url": "https://www.youtube.com/watch?v=Q0ShBenKyqo",
+     "title": "Gemini 4 Neon",
+     "channel": "Prompt Engineering",
+     "views": 27698,
+     "age_hours": 6,
+     "relevance": 1,
+     "velocity": 4616
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Um1q5qJURlw",
+     "url": "https://www.youtube.com/watch?v=Um1q5qJURlw",
+     "title": "Google's Gemini 4 Neon Just BEAT Opus 5.5!",
+     "channel": "Universe of AI",
+     "views": 9506,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 2377
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:Sc6TriRAGnI",
+     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+     "title": "Gemini 4 Swarm is out of control...",
+     "channel": "@WesRoth",
+     "views": 181000,
+     "age_hours": 117.66373333333334,
+     "relevance": 0.5,
+     "velocity": 1538
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Wi91YASWGEU",
+     "url": "https://www.youtube.com/watch?v=Wi91YASWGEU",
+     "title": "Google Is Back: Gemini 4 Neon Explained",
+     "channel": "Superintelligence, Explored",
+     "views": 560,
+     "age_hours": 4,
+     "relevance": 0.6,
+     "velocity": 140
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_jsNG7VHZEA",
+     "url": "https://www.youtube.com/shorts/_jsNG7VHZEA",
+     "title": "Gemini 4 Neon Leaked! Google’s Next AI Model?",
+     "channel": "",
+     "views": 3500,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-19T04:14:10.045Z"
+  },
+  {
    "first_seen": "2026-11-16T18:27:03.865Z",
    "id": "39859230",
    "ids": [
@@ -544,6 +752,110 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-17T12:49:45.278Z"
+  },
+  {
+   "first_seen": "2026-11-19T04:13:47.703Z",
+   "id": "39914243",
+   "ids": [
+    "39914243",
+    "39908598"
+   ],
+   "title": "Google rolls out Genie 4 world model to AI Ultra users",
+   "url": "https://www.techinasia.com/news/google-rolls-genie-4-world-model-ai-ultra-users",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-19 01:21:02",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Google opens its Genie 4 world model to AI Ultra subscribers",
+     "url": "https://thenextweb.com/news/google-genie-4-project-genie-ai-ultra-world-model"
+    }
+   ],
+   "queries": [
+    "Genie 4",
+    "google genie ultra rolls"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:j6Zw7zMON1I",
+     "url": "https://www.youtube.com/shorts/j6Zw7zMON1I",
+     "title": "Genie 4: Interactive AI world demonstration",
+     "channel": "",
+     "views": 42,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8_LtSqZA6C0",
+     "url": "https://www.youtube.com/shorts/8_LtSqZA6C0",
+     "title": "Genie 4: Control and explore an AI world",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uBqcooG4Zak",
+     "url": "https://www.youtube.com/shorts/uBqcooG4Zak",
+     "title": "Google DeepMind launches Genie 4 for AI Ultra subscribers",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CBMIha480ZY",
+     "url": "https://www.youtube.com/shorts/CBMIha480ZY",
+     "title": "Google's Genie 4: Rewrite an AI World While You Walk Through It",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZYkp7mdHR9s",
+     "url": "https://www.youtube.com/shorts/ZYkp7mdHR9s",
+     "title": "Google Rolls Out Genie 4 Today #Shorts",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CgX-reShGj4",
+     "url": "https://www.youtube.com/shorts/CgX-reShGj4",
+     "title": "Genie 4 Is Now Live in Project Genie #AI #Google #DeepMind",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T04:14:17.077Z"
   },
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
@@ -1920,7 +2232,7 @@
    "source_id": "eu-heise",
    "published_ts": "2026-11-18 13:31:00",
    "story_sources": 2,
-   "score_norm": 49,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "eu-t3n",
