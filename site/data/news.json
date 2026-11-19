@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:14:08.615Z",
+ "generated_at": "2026-11-19T18:50:03.332Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: gemini mac can use",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gemini mac can use",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -345,6 +354,73 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-18T13:21:50.654Z"
+  },
+  {
+   "first_seen": "2026-11-19T18:50:03.332Z",
+   "id": "39929117",
+   "ids": [
+    "39929117",
+    "39927648"
+   ],
+   "title": "Gemini on Mac can now use your computer",
+   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "source_id": "theverge",
+   "published_ts": "2026-11-19 18:21:13",
+   "story_sources": 2,
+   "score_norm": 89,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Automate Mac tasks with Gemini computer use",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
+    }
+   ],
+   "queries": [
+    "gemini mac can use"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:dp9x8EMAE9I",
+     "url": "https://www.youtube.com/watch?v=dp9x8EMAE9I",
+     "title": "Turn a Sketch Into a Rigged 3D Model With Computer Use in the Gemini App for Mac",
+     "channel": "Google Gemini",
+     "views": 154,
+     "age_hours": 0.5,
+     "relevance": 0.8,
+     "velocity": 154
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8y26ERGuR_w",
+     "url": "https://www.youtube.com/shorts/8y26ERGuR_w",
+     "title": "Gemini 4 Hydrogen Is \"Free\"... But Can You Actually Use It?",
+     "channel": "",
+     "views": 295,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QEhWhis5i3c",
+     "url": "https://www.youtube.com/shorts/QEhWhis5i3c",
+     "title": "Gemini Computer Use 2026: It Got Hands",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T18:50:07.542Z"
   },
   {
    "first_seen": "2026-11-19T08:15:11.746Z",
