@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:12:15.640Z",
+ "generated_at": "2026-11-19T20:49:49.488Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic 81.3bn ipo raises",
+   "source": "youtube: Anthropic’s Biggest I.P.O Winners Feels",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 81.3bn ipo raises",
+   "source": "tiktok: Anthropic’s Biggest I.P.O Winners Feels",
+   "ok": true
+  },
+  {
+   "source": "youtube: one anthropic biggest i.p.o",
+   "ok": true
+  },
+  {
+   "source": "tiktok: one anthropic biggest i.p.o",
    "ok": true
   }
  ],
@@ -2265,37 +2273,6 @@
    "searched_at": "2026-11-17T09:13:16.619Z"
   },
   {
-   "first_seen": "2026-11-16T18:14:26.964Z",
-   "id": "39859233",
-   "ids": [
-    "39859233",
-    "39856271",
-    "39865804"
-   ],
-   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-17 00:03:21",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "First phase of embedded assessments at OpenAI",
-     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    }
-   ],
-   "queries": [
-    "openai news our first"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T12:49:48.933Z"
-  },
-  {
    "first_seen": "2026-11-19T04:13:47.703Z",
    "id": "39914202",
    "ids": [
@@ -2307,7 +2284,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-11-19 03:40:48",
    "story_sources": 2,
-   "score_norm": 46,
+   "score_norm": 47,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -2379,7 +2356,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-18 21:35:43",
    "story_sources": 2,
-   "score_norm": 46,
+   "score_norm": 47,
    "related_news": [
     {
      "source_id": "hn",
@@ -2485,6 +2462,68 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T16:24:37.064Z"
+  },
+  {
+   "first_seen": "2026-11-16T18:14:26.964Z",
+   "id": "39859233",
+   "ids": [
+    "39859233",
+    "39856271",
+    "39865804"
+   ],
+   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
+   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
+   "source_id": "x-reddit",
+   "published_ts": "2026-11-17 00:03:21",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "First phase of embedded assessments at OpenAI",
+     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    }
+   ],
+   "queries": [
+    "openai news our first"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T12:49:48.933Z"
+  },
+  {
+   "first_seen": "2026-11-19T20:49:49.488Z",
+   "id": "39924197",
+   "ids": [
+    "39924197",
+    "39931279"
+   ],
+   "title": "One of Anthropic’s Biggest I.P.O. Winners Feels a Bit Uneasy About the Whole Thing",
+   "url": "https://www.lesswrong.com/posts/wzgQ7gopzWMeaEoE9/one-of-anthropic-s-biggest-i-p-o-winners-feels-a-bit-uneasy",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-19 14:34:27",
+   "story_sources": 2,
+   "score_norm": 45,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "One of Anthropic's Biggest IPO Winners Feels a Bit Uneasy About the Whole Thing",
+     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Biggest I.P.O Winners Feels",
+    "one anthropic biggest i.p.o"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T20:49:57.544Z"
   },
   {
    "first_seen": "2026-11-19T15:11:26.905Z",
