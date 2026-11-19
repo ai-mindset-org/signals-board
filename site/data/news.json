@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:20:13.504Z",
+ "generated_at": "2026-11-19T23:36:00.820Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Blue Origin",
+   "source": "youtube: Wall Street",
    "ok": true
   },
   {
-   "source": "tiktok: Blue Origin",
+   "source": "tiktok: Wall Street",
    "ok": true
   },
   {
-   "source": "youtube: blue origin google 2029",
+   "source": "youtube: anthropic wall street starts",
    "ok": true
   },
   {
-   "source": "tiktok: blue origin google 2029",
+   "source": "tiktok: anthropic wall street starts",
    "ok": true
   }
  ],
@@ -514,14 +514,50 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:J6Ck8DIbp9c",
+     "url": "https://www.youtube.com/watch?v=J6Ck8DIbp9c",
+     "title": "WALL STREET: EL MERCADO SE HUNDE CON EL ESTRENO DE ANTHROPIC, AMD SE DESPLOMA Y EL BITCOIN CAE",
+     "channel": "Negocios TV",
+     "views": 46852,
+     "age_hours": 1,
+     "relevance": 0.6,
+     "velocity": 46852
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:iV73G7r_Yjc",
+     "url": "https://www.youtube.com/watch?v=iV73G7r_Yjc",
+     "title": "🔴 Anthropic IPO LIVE: Biggest IPO In History Starts Trading ($100 Today ??) + NVDA PUMP",
+     "channel": "Martyn Lucas INVESTOR",
+     "views": 33826,
+     "age_hours": 5,
+     "relevance": 0.6,
+     "velocity": 6765
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:UAAxOksRR9A",
+     "url": "https://www.youtube.com/watch?v=UAAxOksRR9A",
+     "title": "Anthropic Stock SURGES 34% After IPO! Wall Street Says BUY — More Upside Ahead?",
+     "channel": "Live Chart Analysis",
+     "views": 19008,
+     "age_hours": 5,
+     "relevance": 0.6,
+     "velocity": 3802
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:GQdcilMmFfM",
      "url": "https://www.youtube.com/watch?v=GQdcilMmFfM",
      "title": "Anthropic lost $100B+ in 9 months. How much does Wall Street care?",
      "channel": "CNN",
-     "views": 26158,
-     "age_hours": 24,
+     "views": 26549,
+     "age_hours": 48,
      "relevance": 0.6,
-     "velocity": 1090
+     "velocity": 553
     },
     {
      "platform": "youtube",
@@ -530,7 +566,7 @@
      "url": "https://www.youtube.com/shorts/KAHXPo87N28",
      "title": "Anthropic just signaled Wall Street is eager to bet on the AI boom",
      "channel": "",
-     "views": 8400,
+     "views": 10000,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -542,53 +578,17 @@
      "url": "https://www.youtube.com/watch?v=af5qDND5cuI",
      "title": "Anthropic makes historic Wall Street debut—what it means for AI stocks",
      "channel": "FOX 5 New York",
-     "views": 321,
-     "age_hours": 2,
+     "views": 1524,
+     "age_hours": 8,
      "relevance": 0.6,
-     "velocity": 161
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:b_MhVunNd3g",
-     "url": "https://www.youtube.com/watch?v=b_MhVunNd3g",
-     "title": "Is Wall Street all-in on AI? Anthropic goes public",
-     "channel": "Arizona’s Family (3TV / CBS 5) ",
-     "views": 56,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 56
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lTEjtfycUOk",
-     "url": "https://www.youtube.com/shorts/lTEjtfycUOk",
-     "title": "China Just Found a Way Into Anthropic's IPO. Wall Street Didn't Want Them There",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:LKl41gHtW4U",
-     "url": "https://www.youtube.com/shorts/LKl41gHtW4U",
-     "title": "Anthropic LOST $104B and Wall Street Still Wants In",
-     "channel": "",
-     "views": 739,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
+     "velocity": 191
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-19T17:20:30.252Z"
+   "searched_at": "2026-11-19T23:36:08.797Z"
   },
   {
    "first_seen": "2026-11-19T05:49:40.748Z",
