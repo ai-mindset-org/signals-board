@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:10:15.456Z",
+ "generated_at": "2026-11-19T21:20:14.111Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Google’s Gemini",
+   "source": "youtube: anthropic not living up",
    "ok": true
   },
   {
-   "source": "tiktok: Google’s Gemini",
-   "ok": true
-  },
-  {
-   "source": "youtube: google gemini mac can",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini mac can",
+   "source": "tiktok: anthropic not living up",
    "ok": true
   }
  ],
@@ -2647,12 +2639,37 @@
    "queries": [
     "anthropic not living up"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:xSGdsZl4ZI8",
+     "url": "https://www.youtube.com/shorts/xSGdsZl4ZI8",
+     "title": "I'm Not Buying Anthropic at the IPO.",
+     "channel": "",
+     "views": 1600,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c8nBybJRjd0",
+     "url": "https://www.youtube.com/shorts/c8nBybJRjd0",
+     "title": "I’m not buying Anthropic IPO",
+     "channel": "",
+     "views": 215,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T15:11:31.876Z"
+   "searched_at": "2026-11-19T21:20:18.598Z"
   },
   {
    "first_seen": "2026-11-19T19:36:15.455Z",
