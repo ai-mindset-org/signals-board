@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:48:58.334Z",
+ "generated_at": "2026-11-19T23:20:13.504Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Blue Origin",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Blue Origin",
+   "ok": true
+  },
+  {
+   "source": "youtube: blue origin google 2029",
+   "ok": true
+  },
+  {
+   "source": "tiktok: blue origin google 2029",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -43,35 +60,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:yT8Py9fEBTc",
-     "url": "https://www.youtube.com/shorts/yT8Py9fEBTc",
-     "title": "Google Picks Blue Origin’s New Glenn Rocket to Launch Project Suncatcher AI Satellites",
+     "id": "youtube:PXLAnOevLEg",
+     "url": "https://www.youtube.com/shorts/PXLAnOevLEg",
+     "title": "Google Picks Blue Origin for Space AI Launch",
      "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zXS6kANz3q0",
-     "url": "https://www.youtube.com/shorts/zXS6kANz3q0",
-     "title": "Google AI Chips in Space by 2029? #Shorts",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yP30Zc4zkEI",
-     "url": "https://www.youtube.com/shorts/yP30Zc4zkEI",
-     "title": "Google Suncatcher: Blue Origin Will Launch AI Into Orbit",
-     "channel": "",
-     "views": 2,
+     "views": 205,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
@@ -79,13 +72,37 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:rVswSNPj2zk",
-     "url": "https://www.youtube.com/shorts/rVswSNPj2zk",
-     "title": "Google & Blue Origin Launch Big",
+     "id": "youtube:yT8Py9fEBTc",
+     "url": "https://www.youtube.com/shorts/yT8Py9fEBTc",
+     "title": "Google Picks Blue Origin’s New Glenn Rocket to Launch Project Suncatcher AI Satellites",
      "channel": "",
-     "views": 1,
+     "views": 37,
      "age_hours": null,
-     "relevance": 0.8,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:4L9bgzzxCXY",
+     "url": "https://www.youtube.com/watch?v=4L9bgzzxCXY",
+     "title": "Google's for-real plan to launch AI into space...",
+     "channel": "速報ネコ",
+     "views": 1,
+     "age_hours": 0.3333333333333333,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fj2uzzvFbbY",
+     "url": "https://www.youtube.com/shorts/fj2uzzvFbbY",
+     "title": "Google & Blue Origin to Launch AI Servers to Space in 2029",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     },
     {
@@ -95,7 +112,7 @@
      "url": "https://www.youtube.com/shorts/7Q1ryn0Tg48",
      "title": "Google Books Blue Origin to Launch AI Servers Into Space",
      "channel": "",
-     "views": 0,
+     "views": 13,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
@@ -103,13 +120,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:sJOk8PorS9s",
-     "url": "https://www.youtube.com/shorts/sJOk8PorS9s",
-     "title": "Google’s AI Satellites Are Headed to Orbit in 2029 #Shorts",
+     "id": "youtube:t88hdOqZ3vw",
+     "url": "https://www.youtube.com/shorts/t88hdOqZ3vw",
+     "title": "Google Picks Blue Origin for 2029 AI Research Launch #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 10,
      "age_hours": null,
-     "relevance": 0.57,
+     "relevance": 0.75,
      "velocity": null
     }
    ],
@@ -117,7 +134,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T17:10:12.638Z"
+   "searched_at": "2026-11-19T23:20:21.488Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -481,7 +498,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 16:52:01",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "algorithmic-bridge",
