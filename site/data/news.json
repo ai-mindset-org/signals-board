@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:22:03.626Z",
+ "generated_at": "2026-11-19T10:36:39.707Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,67 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: BNB Chain",
+   "source": "youtube: anthropic ipo 83 reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: BNB Chain",
-   "ok": true
-  },
-  {
-   "source": "youtube: cz anthropic bnb chain",
-   "ok": true
-  },
-  {
-   "source": "tiktok: cz anthropic bnb chain",
-   "ok": true
-  },
-  {
-   "source": "youtube: Introducing Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Introducing Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing gemini neon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing gemini neon",
-   "ok": true
-  },
-  {
-   "source": "youtube: Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "youtube: google gemini neon rolls",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini neon rolls",
-   "ok": true
-  },
-  {
-   "source": "youtube: Genie 4",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Genie 4",
-   "ok": true
-  },
-  {
-   "source": "youtube: google genie ultra rolls",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google genie ultra rolls",
+   "source": "tiktok: anthropic ipo 83 reportedly",
    "ok": true
   }
  ],
@@ -113,50 +57,14 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:0_UXC0r1RjY",
-     "url": "https://www.youtube.com/watch?v=0_UXC0r1RjY",
-     "title": "Anthropic reportedly setting IPO at $83 per share",
-     "channel": "NBC News",
-     "views": 1750,
-     "age_hours": 4,
-     "relevance": 0.71,
-     "velocity": 438
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:Z4VVCDGiSw4",
      "url": "https://www.youtube.com/watch?v=Z4VVCDGiSw4",
      "title": "Anthropic Prices IPO at $83, Valued at $1.5 Trillion #Shorts",
      "channel": "Dig Deep Tech",
-     "views": 15,
-     "age_hours": 5,
+     "views": 20,
+     "age_hours": 11,
      "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:-uUOrIJQdNY",
-     "url": "https://www.youtube.com/watch?v=-uUOrIJQdNY",
-     "title": "Anthropic's IPO Just Got Bigger",
-     "channel": "Underlayer Tech",
-     "views": 11,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IgLIeoa_F-E",
-     "url": "https://www.youtube.com/watch?v=IgLIeoa_F-E",
-     "title": "Claude Reacts to Its Maker's $83 IPO, Reportedly",
-     "channel": "Cap Explained",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 1
+     "velocity": 2
     },
     {
      "platform": "youtube",
@@ -165,10 +73,10 @@
      "url": "https://www.youtube.com/watch?v=ASEHgKarpr4",
      "title": "Anthropic Prices IPO at $83 — $1.5 Trillion Valuation",
      "channel": "The Conflict Wire",
-     "views": 7,
-     "age_hours": 5,
+     "views": 19,
+     "age_hours": 11,
      "relevance": 0.57,
-     "velocity": 1
+     "velocity": 2
     },
     {
      "platform": "youtube",
@@ -178,8 +86,32 @@
      "title": "Anthropic IPO Reportedly Priced at $83 a Share | Developing Update",
      "channel": "Forever Desk",
      "views": 0,
-     "age_hours": 5,
+     "age_hours": 11,
      "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:QA57Rq_yj84",
+     "url": "https://www.youtube.com/watch?v=QA57Rq_yj84",
+     "title": "INSANE: Anthropic reportedly prices IPO at $83 a share, above projected range | FutureTech Pulse",
+     "channel": "FUTURETECH AI PULSE",
+     "views": 1,
+     "age_hours": 12,
+     "relevance": 1,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:F_mDV-VvhVk",
+     "url": "https://www.youtube.com/watch?v=F_mDV-VvhVk",
+     "title": "Anthropic IPO prices at $83 a share #Shorts",
+     "channel": "This AI Pulse ",
+     "views": 0,
+     "age_hours": 10,
+     "relevance": 0.83,
      "velocity": null
     }
    ],
@@ -187,7 +119,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T04:25:48.680Z"
+   "searched_at": "2026-11-19T10:36:43.918Z"
   },
   {
    "first_seen": "2026-11-19T04:13:47.703Z",
@@ -607,7 +539,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-19 07:32:27",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "sea-techinasia",
