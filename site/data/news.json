@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:36:39.707Z",
+ "generated_at": "2026-11-19T11:10:41.948Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: anthropic ipo 83 reportedly",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic ipo 83 reportedly",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-18T22:20:32.233Z",
@@ -133,7 +124,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-11-19 03:40:48",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 96,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -178,110 +169,6 @@
    "searched_at": "2026-11-19T10:22:11.327Z"
   },
   {
-   "first_seen": "2026-11-18T18:12:47.706Z",
-   "id": "39905435",
-   "ids": [
-    "39905435",
-    "39886586"
-   ],
-   "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
-   "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
-   "source_id": "zdnet-ai",
-   "published_ts": "2026-11-18 17:11:39",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "theverge",
-     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
-    }
-   ],
-   "queries": [
-    "Google’s Spark",
-    "google spark tasks can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:q7mEDMHZ74A",
-     "url": "https://www.youtube.com/shorts/q7mEDMHZ74A",
-     "title": "Gemini Tasks Is Free Now: How to Turn It On",
-     "channel": "",
-     "views": 132,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8BPYMLxGJ6o",
-     "url": "https://www.youtube.com/shorts/8BPYMLxGJ6o",
-     "title": "Google makes Gemini Tasks free: an AI that runs your errands",
-     "channel": "",
-     "views": 73,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RSbvIKbBX-c",
-     "url": "https://www.youtube.com/shorts/RSbvIKbBX-c",
-     "title": "Gemini Tasks: free AI agent, no AI Pro needed",
-     "channel": "",
-     "views": 48,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tOnHZZ0sMx0",
-     "url": "https://www.youtube.com/shorts/tOnHZZ0sMx0",
-     "title": "Google's AI Agent Is Now Free. Here's What It Can Do",
-     "channel": "",
-     "views": 45,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fABXtwHycf8",
-     "url": "https://www.youtube.com/shorts/fABXtwHycf8",
-     "title": "Gemini Tasks Is Now Free: Gemini Can Call Businesses and Shop for You (New AI Agent) #shorts",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YGmhF4A4Vo0",
-     "url": "https://www.youtube.com/shorts/YGmhF4A4Vo0",
-     "title": "Google Gemini Tasks Is NOW FREE! 🤯 AI Agent That Works for You! #Shorts",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-18T18:13:00.349Z"
-  },
-  {
    "first_seen": "2026-11-18T21:49:51.799Z",
    "id": "39909242",
    "ids": [
@@ -297,7 +184,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-18 21:35:43",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 93,
    "related_news": [
     {
      "source_id": "hn",
@@ -403,6 +290,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T10:22:18.589Z"
+  },
+  {
+   "first_seen": "2026-11-18T18:12:47.706Z",
+   "id": "39905435",
+   "ids": [
+    "39905435",
+    "39886586"
+   ],
+   "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
+   "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-18 17:11:39",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "theverge",
+     "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+     "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    }
+   ],
+   "queries": [
+    "Google’s Spark",
+    "google spark tasks can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:q7mEDMHZ74A",
+     "url": "https://www.youtube.com/shorts/q7mEDMHZ74A",
+     "title": "Gemini Tasks Is Free Now: How to Turn It On",
+     "channel": "",
+     "views": 132,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8BPYMLxGJ6o",
+     "url": "https://www.youtube.com/shorts/8BPYMLxGJ6o",
+     "title": "Google makes Gemini Tasks free: an AI that runs your errands",
+     "channel": "",
+     "views": 73,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RSbvIKbBX-c",
+     "url": "https://www.youtube.com/shorts/RSbvIKbBX-c",
+     "title": "Gemini Tasks: free AI agent, no AI Pro needed",
+     "channel": "",
+     "views": 48,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tOnHZZ0sMx0",
+     "url": "https://www.youtube.com/shorts/tOnHZZ0sMx0",
+     "title": "Google's AI Agent Is Now Free. Here's What It Can Do",
+     "channel": "",
+     "views": 45,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fABXtwHycf8",
+     "url": "https://www.youtube.com/shorts/fABXtwHycf8",
+     "title": "Gemini Tasks Is Now Free: Gemini Can Call Businesses and Shop for You (New AI Agent) #shorts",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YGmhF4A4Vo0",
+     "url": "https://www.youtube.com/shorts/YGmhF4A4Vo0",
+     "title": "Google Gemini Tasks Is NOW FREE! 🤯 AI Agent That Works for You! #Shorts",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-18T18:13:00.349Z"
   },
   {
    "first_seen": "2026-11-17T19:09:55.618Z",
@@ -595,7 +586,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-19 06:58:16",
    "story_sources": 2,
-   "score_norm": 85,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "hn",
@@ -748,36 +739,6 @@
    "searched_at": "2026-11-17T12:16:59.196Z"
   },
   {
-   "first_seen": "2026-11-19T08:15:11.746Z",
-   "id": "39917258",
-   "ids": [
-    "39917258",
-    "39912960"
-   ],
-   "title": "DeepSeek drops separate fees for model-triggered web searches",
-   "url": "https://technode.com/2026/11/19/deepseek-drops-separate-fees-for-model-triggered-web-searches/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-19 05:42:43",
-   "story_sources": 2,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "DeepSeek Removes Separate Fees for Model-Triggered Search and Web Fetch",
-     "url": "https://pandaily.com/deepseek-model-triggered-search-fetch-fee-change-client-api-pricing"
-    }
-   ],
-   "queries": [
-    "deepseek drops separate fees"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T08:15:22.791Z"
-  },
-  {
    "first_seen": "2026-11-18T01:39:45.507Z",
    "id": "39890195",
    "ids": [
@@ -808,6 +769,66 @@
    "searched_at": "2026-11-18T01:39:49.916Z"
   },
   {
+   "first_seen": "2026-11-19T08:15:11.746Z",
+   "id": "39917258",
+   "ids": [
+    "39917258",
+    "39912960"
+   ],
+   "title": "DeepSeek drops separate fees for model-triggered web searches",
+   "url": "https://technode.com/2026/11/19/deepseek-drops-separate-fees-for-model-triggered-web-searches/",
+   "source_id": "cn-technode",
+   "published_ts": "2026-11-19 05:42:43",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "cn-pandaily",
+     "title": "DeepSeek Removes Separate Fees for Model-Triggered Search and Web Fetch",
+     "url": "https://pandaily.com/deepseek-model-triggered-search-fetch-fee-change-client-api-pricing"
+    }
+   ],
+   "queries": [
+    "deepseek drops separate fees"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T08:15:22.791Z"
+  },
+  {
+   "first_seen": "2026-11-16T18:27:03.865Z",
+   "id": "39859230",
+   "ids": [
+    "39859230",
+    "39859486"
+   ],
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-16 17:00:00",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+     "url": "https://openai.com/index/strengthening-online-child-safety/"
+    }
+   ],
+   "queries": [
+    "strengthening fight against online"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T12:49:45.278Z"
+  },
+  {
    "first_seen": "2026-11-19T04:13:47.703Z",
    "id": "39914239",
    "ids": [
@@ -819,7 +840,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-19 01:55:07",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -910,36 +931,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T10:22:25.909Z"
-  },
-  {
-   "first_seen": "2026-11-16T18:27:03.865Z",
-   "id": "39859230",
-   "ids": [
-    "39859230",
-    "39859486"
-   ],
-   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "url": "https://openai.com/index/strengthening-online-child-safety",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-16 17:00:00",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI: Strengthening the fight against online child sexual abuse",
-     "url": "https://openai.com/index/strengthening-online-child-safety/"
-    }
-   ],
-   "queries": [
-    "strengthening fight against online"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T12:49:45.278Z"
   },
   {
    "first_seen": "2026-11-19T04:13:47.703Z",
@@ -3132,36 +3123,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T15:49:45.653Z"
-  },
-  {
-   "first_seen": "2026-11-16T18:14:26.964Z",
-   "id": "39858926",
-   "ids": [
-    "39858926",
-    "39851047"
-   ],
-   "title": "The small African lab sounding the alarm on AI bioweapons",
-   "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "source_id": "gl-restofworld",
-   "published_ts": "2026-11-16 11:00:23",
-   "story_sources": 2,
-   "score_norm": 34,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "The small African lab sounding the alarm on AI bioweapons",
-     "url": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/"
-    }
-   ],
-   "queries": [
-    "african small lab sounding"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-16T18:14:35.027Z"
   }
  ]
 }
