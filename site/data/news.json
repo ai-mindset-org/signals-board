@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:36:26.927Z",
+ "generated_at": "2026-11-19T13:49:54.988Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic 81.3b ipo spacex",
+   "source": "youtube: anthropic 107.3bn ipo raises",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 81.3b ipo spacex",
-   "ok": true
-  },
-  {
-   "source": "youtube: Palo Alto Networks",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Palo Alto Networks",
-   "ok": true
-  },
-  {
-   "source": "youtube: palo alto networks applied",
-   "ok": true
-  },
-  {
-   "source": "tiktok: palo alto networks applied",
+   "source": "tiktok: anthropic 107.3bn ipo raises",
    "ok": true
   }
  ],
@@ -621,70 +605,9 @@
     }
    ],
    "queries": [
-    "Anthropic IPO",
-    "anthropic ipo gains most"
+    "anthropic 107.3bn ipo raises"
    ],
    "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:m62VROx8k0M",
-     "url": "https://www.youtube.com/shorts/m62VROx8k0M",
-     "title": "The TRUTH about Anthropic’s IPO 👀",
-     "channel": "",
-     "views": 54000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:d4vHkl6ozSk",
-     "url": "https://www.youtube.com/watch?v=d4vHkl6ozSk",
-     "title": "Anthropic's IPO Has A MASSIVE Problem",
-     "channel": "The Young Turks",
-     "views": 35476,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 1478
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YRwU7N9psfM",
-     "url": "https://www.youtube.com/shorts/YRwU7N9psfM",
-     "title": "Is the Anthropic IPO a buy?",
-     "channel": "",
-     "views": 46000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:v4a8LPYa9sg",
-     "url": "https://www.youtube.com/shorts/v4a8LPYa9sg",
-     "title": "Is Anthropic's IPO rigged to pop?",
-     "channel": "",
-     "views": 40000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wpRf6pd37fc",
-     "url": "https://www.youtube.com/shorts/wpRf6pd37fc",
-     "title": "Anthropic IPO Breakdown: Most Valuable Company?",
-     "channel": "",
-     "views": 28000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
     {
      "platform": "youtube",
      "kind": "shorts",
@@ -692,7 +615,19 @@
      "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
      "title": "Should you invest in Anthropic's IPO?",
      "channel": "",
-     "views": 24000,
+     "views": 26000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jQiwSBs1qeY",
+     "url": "https://www.youtube.com/shorts/jQiwSBs1qeY",
+     "title": "Anthropic poised for record-setting IPO",
+     "channel": "",
+     "views": 1800,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -702,7 +637,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-19T07:49:26.229Z"
+   "searched_at": "2026-11-19T13:49:59.425Z"
   },
   {
    "first_seen": "2026-11-19T07:23:57.272Z",
@@ -819,7 +754,7 @@
    "source_id": "eu-itpro",
    "published_ts": "2026-11-19 12:30:00",
    "story_sources": 2,
-   "score_norm": 82,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -1368,7 +1303,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-19 09:36:25",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
