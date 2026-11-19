@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:49:46.087Z",
+ "generated_at": "2026-11-19T16:24:21.532Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,72 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: BNB Chain",
+   "ok": true
+  },
+  {
+   "source": "tiktok: BNB Chain",
+   "ok": true
+  },
+  {
+   "source": "youtube: cz anthropic bnb chain",
+   "ok": true
+  },
+  {
+   "source": "tiktok: cz anthropic bnb chain",
+   "ok": true
+  },
+  {
+   "source": "youtube: Introducing Gemini 4 Neon",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Introducing Gemini 4 Neon",
+   "ok": true
+  },
+  {
+   "source": "youtube: introducing gemini neon",
+   "ok": true
+  },
+  {
+   "source": "tiktok: introducing gemini neon",
+   "ok": true
+  },
+  {
+   "source": "youtube: Gemini 4 Neon",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Gemini 4 Neon",
+   "ok": true
+  },
+  {
+   "source": "youtube: google gemini neon rolls",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google gemini neon rolls",
+   "ok": true
+  },
+  {
+   "source": "youtube: Genie 4",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Genie 4",
+   "ok": true
+  },
+  {
+   "source": "youtube: google genie ultra rolls",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google genie ultra rolls",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-19T07:49:18.045Z",
@@ -836,7 +901,7 @@
      "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
      "title": "BUY INTO THE ANTHROPIC IPO",
      "channel": "",
-     "views": 108,
+     "views": 110,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -848,17 +913,29 @@
      "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
      "title": "j.tools is Now Live on BNB Chain! 🟡",
      "channel": "J Tools | Multichain Token Platform",
-     "views": 47,
-     "age_hours": 24,
+     "views": 48,
+     "age_hours": 48,
      "relevance": 0.5,
-     "velocity": 2
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XS9nCT24hq0",
+     "url": "https://www.youtube.com/watch?v=XS9nCT24hq0",
+     "title": "Anthropic IPO tokens to trade from day one, Zhao says - BNB | Nov 19, 2026",
+     "channel": "Stocks News Daily",
+     "views": 0,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T10:22:11.327Z"
+   "searched_at": "2026-11-19T16:24:29.708Z"
   },
   {
    "first_seen": "2026-11-17T20:11:45.130Z",
@@ -1074,36 +1151,6 @@
    "searched_at": "2026-11-17T10:49:48.642Z"
   },
   {
-   "first_seen": "2026-11-16T23:20:14.683Z",
-   "id": "39864605",
-   "ids": [
-    "39864605",
-    "39858181"
-   ],
-   "title": "Broadening access to AI for scientists",
-   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-16 17:00:00",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Broadening Access to AI for Scientists",
-     "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/"
-    }
-   ],
-   "queries": [
-    "broadening access ai scientists"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T11:35:33.717Z"
-  },
-  {
    "first_seen": "2026-11-18T21:49:51.799Z",
    "id": "39909242",
    "ids": [
@@ -1119,7 +1166,7 @@
    "source_id": "deepmind",
    "published_ts": "2026-11-18 21:35:43",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
@@ -1154,22 +1201,22 @@
      "url": "https://www.youtube.com/watch?v=R0rXSJmymTc",
      "title": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
      "channel": "WorldofAI",
-     "views": 78116,
-     "age_hours": 10,
+     "views": 106082,
+     "age_hours": 16,
      "relevance": 0.67,
-     "velocity": 7812
+     "velocity": 6630
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:Q0ShBenKyqo",
      "url": "https://www.youtube.com/watch?v=Q0ShBenKyqo",
-     "title": "Gemini 4 Neon Is Here, And It’s a Beast!",
+     "title": "Gemini 4 Neon - Fully Tested",
      "channel": "Prompt Engineering",
-     "views": 50806,
-     "age_hours": 12,
+     "views": 65160,
+     "age_hours": 18,
      "relevance": 0.67,
-     "velocity": 4234
+     "velocity": 3620
     },
     {
      "platform": "youtube",
@@ -1178,10 +1225,22 @@
      "url": "https://www.youtube.com/watch?v=Um1q5qJURlw",
      "title": "Google's Gemini 4 Neon Just BEAT Opus 5.5!",
      "channel": "Universe of AI",
-     "views": 34183,
-     "age_hours": 10,
+     "views": 45505,
+     "age_hours": 16,
      "relevance": 0.67,
-     "velocity": 3418
+     "velocity": 2844
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6dnyCrO5IR0",
+     "url": "https://www.youtube.com/watch?v=6dnyCrO5IR0",
+     "title": "NEW Gemini 4 Neon Surprises with SWARM and Supercharges Google's Intelligence",
+     "channel": "Inteligência Mil Grau",
+     "views": 7329,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 1466
     },
     {
      "platform": "youtube",
@@ -1190,41 +1249,59 @@
      "url": "https://www.youtube.com/watch?v=aFdeyQwNUis",
      "title": "Gemini 4 Neon Is Here!! Better Than Opus 5.5 for Half the Price?",
      "channel": "Noetic | AI",
-     "views": 1536,
-     "age_hours": 7,
+     "views": 6835,
+     "age_hours": 13,
      "relevance": 0.67,
-     "velocity": 219
+     "velocity": 526
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:NzF898cDifg",
-     "url": "https://www.youtube.com/watch?v=NzF898cDifg",
-     "title": "Google's Latest AI Model \"Gemini 4 Neon\": Overview, How-to, and Use Cases! — Performance Rivaling...",
-     "channel": "AI大学【AI&ChatGPT最新情報】",
-     "views": 212,
-     "age_hours": 1,
+     "id": "youtube:_nZmgZ_O2oY",
+     "url": "https://www.youtube.com/watch?v=_nZmgZ_O2oY",
+     "title": "Gemini 4 Neon: I Tested It on 4 Real Demos",
+     "channel": "AI with Surya",
+     "views": 1723,
+     "age_hours": 4,
      "relevance": 0.67,
-     "velocity": 212
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZjDycWzWQbU",
-     "url": "https://www.youtube.com/shorts/ZjDycWzWQbU",
-     "title": "Gemini 4 Neon: Between Hydrogen and Carbon",
-     "channel": "",
-     "views": 7200,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
+     "velocity": 431
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-19T10:22:18.589Z"
+   "searched_at": "2026-11-19T16:24:37.064Z"
+  },
+  {
+   "first_seen": "2026-11-16T23:20:14.683Z",
+   "id": "39864605",
+   "ids": [
+    "39864605",
+    "39858181"
+   ],
+   "title": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-16 17:00:00",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Broadening Access to AI for Scientists",
+     "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers/"
+    }
+   ],
+   "queries": [
+    "broadening access ai scientists"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-17T11:35:33.717Z"
   },
   {
    "first_seen": "2026-11-17T15:11:47.890Z",
@@ -1701,7 +1778,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-19 06:58:16",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "hn",
@@ -1791,110 +1868,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T13:36:31.178Z"
-  },
-  {
-   "first_seen": "2026-11-19T13:36:26.927Z",
-   "id": "39922286",
-   "ids": [
-    "39922286",
-    "39916034"
-   ],
-   "title": "Palo Alto Networks acquires Applied Compute in hybrid AI push",
-   "url": "https://www.itpro.com/business/acquisition/palo-alto-networks-acquires-applied-compute-in-hybrid-ai-push",
-   "source_id": "eu-itpro",
-   "published_ts": "2026-11-19 12:30:00",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Palo Alto Networks to buy AI firm Applied Compute for $4.5b",
-     "url": "https://www.techinasia.com/news/palo-alto-networks-buy-ai-firm-applied-compute-45b"
-    }
-   ],
-   "queries": [
-    "Palo Alto Networks",
-    "palo alto networks applied"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:U267zsuu2xI",
-     "url": "https://www.youtube.com/shorts/U267zsuu2xI",
-     "title": "Palo Alto Earnings",
-     "channel": "",
-     "views": 87,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nIQYFhGbI8g",
-     "url": "https://www.youtube.com/watch?v=nIQYFhGbI8g",
-     "title": "Why Palo Alto Networks Wants This $4.5 Billion AI Startup",
-     "channel": "Tech Deal Files",
-     "views": 28,
-     "age_hours": 15,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zcEaHGMyFqs",
-     "url": "https://www.youtube.com/shorts/zcEaHGMyFqs",
-     "title": "Palo Alto Networks to buy Applied Compute for $4.5 billion",
-     "channel": "",
-     "views": 41,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:H6esbq-nhEA",
-     "url": "https://www.youtube.com/shorts/H6esbq-nhEA",
-     "title": "Palo Alto Networks is betting $4.5B on open-weight AI",
-     "channel": "",
-     "views": 36,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:DqVd7SH5X2o",
-     "url": "https://www.youtube.com/watch?v=DqVd7SH5X2o",
-     "title": "Palo Alto Networks to Buy Applied Compute for $4.5 Billion: Why a Security Firm Wants AI Tuning",
-     "channel": "Vaughan Ashe",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IXy11hhcyKQ",
-     "url": "https://www.youtube.com/shorts/IXy11hhcyKQ",
-     "title": "Palo Alto Buys Applied Compute for $4.5 BILLION! 🛡️",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T13:36:38.469Z"
   },
   {
    "first_seen": "2026-11-18T11:10:27.751Z",
@@ -1999,6 +1972,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T17:20:42.304Z"
+  },
+  {
+   "first_seen": "2026-11-19T13:36:26.927Z",
+   "id": "39922286",
+   "ids": [
+    "39922286",
+    "39916034"
+   ],
+   "title": "Palo Alto Networks acquires Applied Compute in hybrid AI push",
+   "url": "https://www.itpro.com/business/acquisition/palo-alto-networks-acquires-applied-compute-in-hybrid-ai-push",
+   "source_id": "eu-itpro",
+   "published_ts": "2026-11-19 12:30:00",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Palo Alto Networks to buy AI firm Applied Compute for $4.5b",
+     "url": "https://www.techinasia.com/news/palo-alto-networks-buy-ai-firm-applied-compute-45b"
+    }
+   ],
+   "queries": [
+    "Palo Alto Networks",
+    "palo alto networks applied"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:U267zsuu2xI",
+     "url": "https://www.youtube.com/shorts/U267zsuu2xI",
+     "title": "Palo Alto Earnings",
+     "channel": "",
+     "views": 87,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nIQYFhGbI8g",
+     "url": "https://www.youtube.com/watch?v=nIQYFhGbI8g",
+     "title": "Why Palo Alto Networks Wants This $4.5 Billion AI Startup",
+     "channel": "Tech Deal Files",
+     "views": 28,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zcEaHGMyFqs",
+     "url": "https://www.youtube.com/shorts/zcEaHGMyFqs",
+     "title": "Palo Alto Networks to buy Applied Compute for $4.5 billion",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:H6esbq-nhEA",
+     "url": "https://www.youtube.com/shorts/H6esbq-nhEA",
+     "title": "Palo Alto Networks is betting $4.5B on open-weight AI",
+     "channel": "",
+     "views": 36,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DqVd7SH5X2o",
+     "url": "https://www.youtube.com/watch?v=DqVd7SH5X2o",
+     "title": "Palo Alto Networks to Buy Applied Compute for $4.5 Billion: Why a Security Firm Wants AI Tuning",
+     "channel": "Vaughan Ashe",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IXy11hhcyKQ",
+     "url": "https://www.youtube.com/shorts/IXy11hhcyKQ",
+     "title": "Palo Alto Buys Applied Compute for $4.5 BILLION! 🛡️",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T13:36:38.469Z"
   },
   {
    "first_seen": "2026-11-18T12:38:36.132Z",
@@ -2400,39 +2477,15 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:R0rXSJmymTc",
-     "url": "https://www.youtube.com/watch?v=R0rXSJmymTc",
-     "title": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
-     "channel": "WorldofAI",
-     "views": 78116,
-     "age_hours": 10,
-     "relevance": 0.56,
-     "velocity": 7812
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Um1q5qJURlw",
-     "url": "https://www.youtube.com/watch?v=Um1q5qJURlw",
-     "title": "Google's Gemini 4 Neon Just BEAT Opus 5.5!",
-     "channel": "Universe of AI",
-     "views": 34183,
-     "age_hours": 10,
-     "relevance": 0.5,
-     "velocity": 3418
-    },
-    {
-     "platform": "youtube",
      "kind": "с борда",
      "id": "youtube:Sc6TriRAGnI",
      "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
      "title": "Gemini 4 Swarm is out of control...",
      "channel": "@WesRoth",
      "views": 183000,
-     "age_hours": 123.78238666666667,
+     "age_hours": 129.82094083333334,
      "relevance": 0.5,
-     "velocity": 1478
+     "velocity": 1410
     },
     {
      "platform": "youtube",
@@ -2442,40 +2495,64 @@
      "title": "Google's Neon is wild...",
      "channel": "@WesRoth",
      "views": 5200,
-     "age_hours": 4.784401111111111,
+     "age_hours": 10.822955277777778,
      "relevance": 0.67,
-     "velocity": 1087
+     "velocity": 480
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SPbpyMxZCSQ",
-     "url": "https://www.youtube.com/watch?v=SPbpyMxZCSQ",
-     "title": "Gemini 4 Neon Has A Strange Skill",
-     "channel": "BetterWay",
-     "views": 6181,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 1030
+     "kind": "shorts",
+     "id": "youtube:_jsNG7VHZEA",
+     "url": "https://www.youtube.com/shorts/_jsNG7VHZEA",
+     "title": "Gemini 4 Neon Leaked! Google’s Next AI Model?",
+     "channel": "",
+     "views": 4200,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:o1vr-A4_uo0",
-     "url": "https://www.youtube.com/watch?v=o1vr-A4_uo0",
-     "title": "Gemini 4 Neon... is Google about to take the lead?",
-     "channel": "Mark Santos",
-     "views": 2989,
-     "age_hours": 5,
-     "relevance": 0.6,
-     "velocity": 598
+     "kind": "shorts",
+     "id": "youtube:NUi8u3QlaX0",
+     "url": "https://www.youtube.com/shorts/NUi8u3QlaX0",
+     "title": "Google just dropped Gemini 4 Neon, its fourth new Gemini model in about a month",
+     "channel": "",
+     "views": 3300,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9sDa4j6Ldkk",
+     "url": "https://www.youtube.com/shorts/9sDa4j6Ldkk",
+     "title": "Gemini 4 Neon Is Here: Google's New AI Built This in 3D",
+     "channel": "",
+     "views": 3200,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:54V5lr3kEd8",
+     "url": "https://www.youtube.com/shorts/54V5lr3kEd8",
+     "title": "Google's new Gemini model Neon is seriously good 🤯",
+     "channel": "",
+     "views": 1500,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-19T10:22:25.909Z"
+   "searched_at": "2026-11-19T16:24:44.704Z"
   },
   {
    "first_seen": "2026-11-17T11:49:36.719Z",
@@ -2633,21 +2710,9 @@
      "url": "https://www.youtube.com/shorts/9QqMzGXqtxg",
      "title": "Google Just Opened Genie 4 to the Public — Walk Inside an AI World",
      "channel": "",
-     "views": 770,
+     "views": 869,
      "age_hours": null,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uBqcooG4Zak",
-     "url": "https://www.youtube.com/shorts/uBqcooG4Zak",
-     "title": "Google DeepMind launches Genie 4 for AI Ultra subscribers",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -2657,31 +2722,31 @@
      "url": "https://www.youtube.com/shorts/CBMIha480ZY",
      "title": "Google's Genie 4: Rewrite an AI World While You Walk Through It",
      "channel": "",
-     "views": 17,
+     "views": 36,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8_LtSqZA6C0",
-     "url": "https://www.youtube.com/shorts/8_LtSqZA6C0",
-     "title": "Genie 4: Control and explore an AI world",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:SJk9s9GDMjY",
+     "url": "https://www.youtube.com/watch?v=SJk9s9GDMjY",
+     "title": "Google Rolls Out Genie 4 + Krea Launches Video Swap | AI News Nov 19",
+     "channel": "CreativeAINews",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.56,
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:ZYkp7mdHR9s",
-     "url": "https://www.youtube.com/shorts/ZYkp7mdHR9s",
-     "title": "Google Rolls Out Genie 4 Today #Shorts",
+     "id": "youtube:fs7kuyG0bh4",
+     "url": "https://www.youtube.com/shorts/fs7kuyG0bh4",
+     "title": "Google Genie 4 Explained!",
      "channel": "",
-     "views": 4,
+     "views": 26,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -2689,13 +2754,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:r5V1NMwAdWc",
-     "url": "https://www.youtube.com/shorts/r5V1NMwAdWc",
-     "title": "Google DeepMind: Genie 4 is now available",
+     "id": "youtube:uBqcooG4Zak",
+     "url": "https://www.youtube.com/shorts/uBqcooG4Zak",
+     "title": "Google DeepMind launches Genie 4 for AI Ultra subscribers",
      "channel": "",
-     "views": 0,
+     "views": 22,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3cPJLkV9jBc",
+     "url": "https://www.youtube.com/shorts/3cPJLkV9jBc",
+     "title": "Google's Genie 4 world model is now live for AI Ultra subscribers",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     }
    ],
@@ -2703,7 +2780,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T10:22:33.121Z"
+   "searched_at": "2026-11-19T16:24:51.784Z"
   },
   {
    "first_seen": "2026-11-18T14:23:35.982Z",
