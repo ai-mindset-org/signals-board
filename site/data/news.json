@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:36:15.455Z",
+ "generated_at": "2026-11-19T20:12:15.640Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Opening Bell",
+   "source": "youtube: anthropic 81.3bn ipo raises",
    "ok": true
   },
   {
-   "source": "tiktok: Opening Bell",
-   "ok": true
-  },
-  {
-   "source": "youtube: 195 opening bell ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: 195 opening bell ai",
+   "source": "tiktok: anthropic 81.3bn ipo raises",
    "ok": true
   }
  ],
@@ -1025,17 +1017,17 @@
     }
    ],
    "queries": [
-    "anthropic 107.3bn ipo raises"
+    "anthropic 81.3bn ipo raises"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:GZR_3RkttrU",
-     "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
-     "title": "Should you invest in Anthropic's IPO?",
+     "id": "youtube:CeNlNfTQvHc",
+     "url": "https://www.youtube.com/shorts/CeNlNfTQvHc",
+     "title": "Anthropic raises more than $81 billion in historic IPO",
      "channel": "",
-     "views": 26000,
+     "views": 4700,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1043,21 +1035,21 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:jQiwSBs1qeY",
-     "url": "https://www.youtube.com/shorts/jQiwSBs1qeY",
-     "title": "Anthropic poised for record-setting IPO",
+     "id": "youtube:s-ub1n4Xh98",
+     "url": "https://www.youtube.com/shorts/s-ub1n4Xh98",
+     "title": "Anthropic opens at $111.50 per share in record IPO",
      "channel": "",
-     "views": 1800,
+     "views": 752,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T13:49:59.425Z"
+   "searched_at": "2026-11-19T20:12:22.700Z"
   },
   {
    "first_seen": "2026-11-17T11:10:28.641Z",
@@ -2095,37 +2087,6 @@
    "searched_at": "2026-11-19T16:24:51.784Z"
   },
   {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T02:36:21.220Z"
-  },
-  {
    "first_seen": "2026-11-18T22:20:32.233Z",
    "id": "39909716",
    "ids": [
@@ -2139,7 +2100,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-18 22:11:15",
    "story_sources": 2,
-   "score_norm": 49,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "hn",
@@ -2203,6 +2164,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T16:49:21.015Z"
+  },
+  {
+   "first_seen": "2026-11-18T14:23:35.982Z",
+   "id": "39899877",
+   "ids": [
+    "39899877",
+    "39900377"
+   ],
+   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
+   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "source_id": "eu-heise",
+   "published_ts": "2026-11-18 13:31:00",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
+     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Mehr Datenschutz",
+    "mehr datenschutz gemini ki-training"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T02:36:21.220Z"
   },
   {
    "first_seen": "2026-11-17T09:13:08.872Z",
