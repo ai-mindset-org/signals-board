@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:16:15.559Z",
+ "generated_at": "2026-11-19T13:36:26.927Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: nvidia china us stops",
+   "source": "youtube: anthropic 81.3b ipo spacex",
    "ok": true
   },
   {
-   "source": "tiktok: nvidia china us stops",
+   "source": "tiktok: anthropic 81.3b ipo spacex",
+   "ok": true
+  },
+  {
+   "source": "youtube: Palo Alto Networks",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Palo Alto Networks",
+   "ok": true
+  },
+  {
+   "source": "youtube: palo alto networks applied",
+   "ok": true
+  },
+  {
+   "source": "tiktok: palo alto networks applied",
    "ok": true
   }
  ],
@@ -133,7 +149,7 @@
    "source_id": "crypto-coindesk",
    "published_ts": "2026-11-19 03:40:48",
    "story_sources": 2,
-   "score_norm": 96,
+   "score_norm": 95,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -596,7 +612,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-19 08:35:17",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "gizmodo-ai",
@@ -700,7 +716,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-19 06:58:16",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -719,7 +735,7 @@
      "url": "https://www.youtube.com/shorts/lBHYaSYhtew",
      "title": "Anthropic's $81.3B IPO Is the Biggest in History — It Beats SpaceX",
      "channel": "",
-     "views": 100,
+     "views": 165,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -727,11 +743,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:UxZt3FOT3lg",
-     "url": "https://www.youtube.com/shorts/UxZt3FOT3lg",
-     "title": "Anthropic IPO Is Thursday. Look What Happened to SpaceX.",
+     "id": "youtube:Xu4EcIrZujY",
+     "url": "https://www.youtube.com/shorts/Xu4EcIrZujY",
+     "title": "Anthropic's $81 Billion IPO! AI Giant Takes on SpaceX's Record",
      "channel": "",
-     "views": 77,
+     "views": 84,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -739,13 +755,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:MHp9qaT6eeY",
-     "url": "https://www.youtube.com/shorts/MHp9qaT6eeY",
-     "title": "Anthropic's record IPO and the lesson from Facebook",
+     "id": "youtube:nx5HNCtXvNg",
+     "url": "https://www.youtube.com/shorts/nx5HNCtXvNg",
+     "title": "Anthropic Prices $81.3B IPO — Larger Than SpaceX's Initial Raise #Shorts",
      "channel": "",
-     "views": 9,
+     "views": 55,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.5,
      "velocity": null
     },
     {
@@ -755,7 +771,7 @@
      "url": "https://www.youtube.com/shorts/TlqrxWyBwYo",
      "title": "ANTHROPIC PRICES IPO AT $83, TOPS SPACEX RECORD $ANT",
      "channel": "",
-     "views": 5,
+     "views": 11,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -767,7 +783,7 @@
      "url": "https://www.youtube.com/shorts/Yf1F1bUPo0g",
      "title": "Record-Breaking Anthropic IPO Raises Over $81 Billion, Surpasses SpaceX",
      "channel": "",
-     "views": 4,
+     "views": 6,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
@@ -775,11 +791,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:MikMQ8l2SLc",
-     "url": "https://www.youtube.com/shorts/MikMQ8l2SLc",
-     "title": "Anthropic's IPO Could Beat SpaceX's Record ($1.4 Trillion AI Lab) 🤯",
+     "id": "youtube:SmUkp4JmJ1g",
+     "url": "https://www.youtube.com/shorts/SmUkp4JmJ1g",
+     "title": "$81.3bn: Anthropic's record IPO vs SpaceX and Aramco #shorts",
      "channel": "",
-     "views": 3,
+     "views": 5,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -789,7 +805,111 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T07:24:01.351Z"
+   "searched_at": "2026-11-19T13:36:31.178Z"
+  },
+  {
+   "first_seen": "2026-11-19T13:36:26.927Z",
+   "id": "39922286",
+   "ids": [
+    "39922286",
+    "39916034"
+   ],
+   "title": "Palo Alto Networks acquires Applied Compute in hybrid AI push",
+   "url": "https://www.itpro.com/business/acquisition/palo-alto-networks-acquires-applied-compute-in-hybrid-ai-push",
+   "source_id": "eu-itpro",
+   "published_ts": "2026-11-19 12:30:00",
+   "story_sources": 2,
+   "score_norm": 82,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Palo Alto Networks to buy AI firm Applied Compute for $4.5b",
+     "url": "https://www.techinasia.com/news/palo-alto-networks-buy-ai-firm-applied-compute-45b"
+    }
+   ],
+   "queries": [
+    "Palo Alto Networks",
+    "palo alto networks applied"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:U267zsuu2xI",
+     "url": "https://www.youtube.com/shorts/U267zsuu2xI",
+     "title": "Palo Alto Earnings",
+     "channel": "",
+     "views": 87,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nIQYFhGbI8g",
+     "url": "https://www.youtube.com/watch?v=nIQYFhGbI8g",
+     "title": "Why Palo Alto Networks Wants This $4.5 Billion AI Startup",
+     "channel": "Tech Deal Files",
+     "views": 28,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zcEaHGMyFqs",
+     "url": "https://www.youtube.com/shorts/zcEaHGMyFqs",
+     "title": "Palo Alto Networks to buy Applied Compute for $4.5 billion",
+     "channel": "",
+     "views": 41,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:H6esbq-nhEA",
+     "url": "https://www.youtube.com/shorts/H6esbq-nhEA",
+     "title": "Palo Alto Networks is betting $4.5B on open-weight AI",
+     "channel": "",
+     "views": 36,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DqVd7SH5X2o",
+     "url": "https://www.youtube.com/watch?v=DqVd7SH5X2o",
+     "title": "Palo Alto Networks to Buy Applied Compute for $4.5 Billion: Why a Security Firm Wants AI Tuning",
+     "channel": "Vaughan Ashe",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IXy11hhcyKQ",
+     "url": "https://www.youtube.com/shorts/IXy11hhcyKQ",
+     "title": "Palo Alto Buys Applied Compute for $4.5 BILLION! 🛡️",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T13:36:38.469Z"
   },
   {
    "first_seen": "2026-11-19T05:49:40.748Z",
@@ -894,7 +1014,7 @@
    "source_id": "cn-technode",
    "published_ts": "2026-11-19 05:42:43",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "cn-pandaily",
@@ -1151,6 +1271,92 @@
    "searched_at": "2026-11-19T10:22:33.121Z"
   },
   {
+   "first_seen": "2026-11-16T14:26:02.073Z",
+   "id": "39853697",
+   "ids": [
+    "39853697",
+    "39853294",
+    "39861566",
+    "39868842"
+   ],
+   "title": "US moves to cut China’s remote access to AI chips",
+   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+   "source_id": "x-arstechnica",
+   "published_ts": "2026-11-16 19:10:09",
+   "story_sources": 3,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "US Targets China’s Remote Access to Advanced AI Chips",
+     "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips"
+    },
+    {
+     "source_id": "hn",
+     "title": "US to curb China's access to AI chips",
+     "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
+    }
+   ],
+   "queries": [
+    "us china moves cut"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GIgfxEotFZA",
+     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+     "channel": "Bloomberg Television",
+     "views": 5451,
+     "age_hours": 4,
+     "relevance": 0.88,
+     "velocity": 1363
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Z2YVyd3tGG0",
+     "url": "https://www.youtube.com/watch?v=Z2YVyd3tGG0",
+     "title": "US Targets China's Remote Chip Access With New Curbs",
+     "channel": "Bloomberg Television",
+     "views": 1440,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 720
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tw7DKvHT2Bo",
+     "url": "https://www.youtube.com/watch?v=tw7DKvHT2Bo",
+     "title": "US Moves to Curb China’s Chip Access",
+     "channel": "Bloomberg Podcasts",
+     "views": 2948,
+     "age_hours": 11,
+     "relevance": 0.67,
+     "velocity": 268
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hoS-pUzQHQo",
+     "url": "https://www.youtube.com/watch?v=hoS-pUzQHQo",
+     "title": "Congress Moves to Cut Off China's Nvidia Chips",
+     "channel": "Caucus Daily",
+     "views": 35,
+     "age_hours": 72,
+     "relevance": 0.57,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-17T08:50:03.537Z"
+  },
+  {
    "first_seen": "2026-11-19T12:16:15.559Z",
    "id": "39920984",
    "ids": [
@@ -1162,7 +1368,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-19 09:36:25",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "hn",
@@ -1252,92 +1458,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T12:16:21.108Z"
-  },
-  {
-   "first_seen": "2026-11-16T14:26:02.073Z",
-   "id": "39853697",
-   "ids": [
-    "39853697",
-    "39853294",
-    "39861566",
-    "39868842"
-   ],
-   "title": "US moves to cut China’s remote access to AI chips",
-   "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-   "source_id": "x-arstechnica",
-   "published_ts": "2026-11-16 19:10:09",
-   "story_sources": 3,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "US Targets China’s Remote Access to Advanced AI Chips",
-     "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips"
-    },
-    {
-     "source_id": "hn",
-     "title": "US to curb China's access to AI chips",
-     "url": "https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"
-    }
-   ],
-   "queries": [
-    "us china moves cut"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GIgfxEotFZA",
-     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
-     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-     "channel": "Bloomberg Television",
-     "views": 5451,
-     "age_hours": 4,
-     "relevance": 0.88,
-     "velocity": 1363
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z2YVyd3tGG0",
-     "url": "https://www.youtube.com/watch?v=Z2YVyd3tGG0",
-     "title": "US Targets China's Remote Chip Access With New Curbs",
-     "channel": "Bloomberg Television",
-     "views": 1440,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 720
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:tw7DKvHT2Bo",
-     "url": "https://www.youtube.com/watch?v=tw7DKvHT2Bo",
-     "title": "US Moves to Curb China’s Chip Access",
-     "channel": "Bloomberg Podcasts",
-     "views": 2948,
-     "age_hours": 11,
-     "relevance": 0.67,
-     "velocity": 268
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hoS-pUzQHQo",
-     "url": "https://www.youtube.com/watch?v=hoS-pUzQHQo",
-     "title": "Congress Moves to Cut Off China's Nvidia Chips",
-     "channel": "Caucus Daily",
-     "views": 35,
-     "age_hours": 72,
-     "relevance": 0.57,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T08:50:03.537Z"
   },
   {
    "first_seen": "2026-11-17T20:11:45.130Z",
