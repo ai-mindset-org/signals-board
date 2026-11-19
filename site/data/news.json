@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:24:21.532Z",
+ "generated_at": "2026-11-19T16:49:16.507Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,67 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: BNB Chain",
+   "source": "youtube: anthropic ipo 83 reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: BNB Chain",
-   "ok": true
-  },
-  {
-   "source": "youtube: cz anthropic bnb chain",
-   "ok": true
-  },
-  {
-   "source": "tiktok: cz anthropic bnb chain",
-   "ok": true
-  },
-  {
-   "source": "youtube: Introducing Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Introducing Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "youtube: introducing gemini neon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: introducing gemini neon",
-   "ok": true
-  },
-  {
-   "source": "youtube: Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Gemini 4 Neon",
-   "ok": true
-  },
-  {
-   "source": "youtube: google gemini neon rolls",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini neon rolls",
-   "ok": true
-  },
-  {
-   "source": "youtube: Genie 4",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Genie 4",
-   "ok": true
-  },
-  {
-   "source": "youtube: google genie ultra rolls",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google genie ultra rolls",
+   "source": "tiktok: anthropic ipo 83 reportedly",
    "ok": true
   }
  ],
@@ -586,26 +530,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:Z4VVCDGiSw4",
-     "url": "https://www.youtube.com/watch?v=Z4VVCDGiSw4",
-     "title": "Anthropic Prices IPO at $83, Valued at $1.5 Trillion #Shorts",
-     "channel": "Dig Deep Tech",
-     "views": 20,
-     "age_hours": 11,
+     "id": "youtube:KkWYGTSgpfA",
+     "url": "https://www.youtube.com/watch?v=KkWYGTSgpfA",
+     "title": "Anthropic IPO: $17B Revenue",
+     "channel": "Deep Value Investing",
+     "views": 223,
+     "age_hours": 72,
      "relevance": 0.5,
-     "velocity": 2
+     "velocity": 3
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:ASEHgKarpr4",
-     "url": "https://www.youtube.com/watch?v=ASEHgKarpr4",
-     "title": "Anthropic Prices IPO at $83 — $1.5 Trillion Valuation",
-     "channel": "The Conflict Wire",
-     "views": 19,
-     "age_hours": 11,
-     "relevance": 0.57,
-     "velocity": 2
+     "id": "youtube:Z4VVCDGiSw4",
+     "url": "https://www.youtube.com/watch?v=Z4VVCDGiSw4",
+     "title": "Anthropic Prices IPO at $83, Valued at $1.5 Trillion #Shorts",
+     "channel": "Dig Deep Tech",
+     "views": 21,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 1
     },
     {
      "platform": "youtube",
@@ -615,32 +559,8 @@
      "title": "Anthropic IPO Reportedly Priced at $83 a Share | Developing Update",
      "channel": "Forever Desk",
      "views": 0,
-     "age_hours": 11,
+     "age_hours": 17,
      "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QA57Rq_yj84",
-     "url": "https://www.youtube.com/watch?v=QA57Rq_yj84",
-     "title": "INSANE: Anthropic reportedly prices IPO at $83 a share, above projected range | FutureTech Pulse",
-     "channel": "FUTURETECH AI PULSE",
-     "views": 1,
-     "age_hours": 12,
-     "relevance": 1,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:F_mDV-VvhVk",
-     "url": "https://www.youtube.com/watch?v=F_mDV-VvhVk",
-     "title": "Anthropic IPO prices at $83 a share #Shorts",
-     "channel": "This AI Pulse ",
-     "views": 0,
-     "age_hours": 10,
-     "relevance": 0.83,
      "velocity": null
     }
    ],
@@ -648,7 +568,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T10:36:43.918Z"
+   "searched_at": "2026-11-19T16:49:21.015Z"
   },
   {
    "first_seen": "2026-11-16T14:26:02.073Z",
@@ -2346,6 +2266,110 @@
    "searched_at": "2026-11-19T14:23:34.865Z"
   },
   {
+   "first_seen": "2026-11-19T04:13:47.703Z",
+   "id": "39914239",
+   "ids": [
+    "39914239",
+    "39909611"
+   ],
+   "title": "Google rolls out Gemini 4 Neon AI model for coding, science",
+   "url": "https://www.techinasia.com/news/google-rolls-gemini-4-neon-ai-model-coding-science",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-19 01:55:07",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Google Rolls Out Gemini 4 Neon for Complex AI Work",
+     "url": "https://thedefiant.io/frontier/ai/google-rolls-out-gemini-4-neon-for-complex-ai-work"
+    }
+   ],
+   "queries": [
+    "Gemini 4 Neon",
+    "google gemini neon rolls"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:Sc6TriRAGnI",
+     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+     "title": "Gemini 4 Swarm is out of control...",
+     "channel": "@WesRoth",
+     "views": 183000,
+     "age_hours": 129.82094083333334,
+     "relevance": 0.5,
+     "velocity": 1410
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:-0uvPVwPFgM",
+     "url": "https://www.youtube.com/watch?v=-0uvPVwPFgM",
+     "title": "Google's Neon is wild...",
+     "channel": "@WesRoth",
+     "views": 5200,
+     "age_hours": 10.822955277777778,
+     "relevance": 0.67,
+     "velocity": 480
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_jsNG7VHZEA",
+     "url": "https://www.youtube.com/shorts/_jsNG7VHZEA",
+     "title": "Gemini 4 Neon Leaked! Google’s Next AI Model?",
+     "channel": "",
+     "views": 4200,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NUi8u3QlaX0",
+     "url": "https://www.youtube.com/shorts/NUi8u3QlaX0",
+     "title": "Google just dropped Gemini 4 Neon, its fourth new Gemini model in about a month",
+     "channel": "",
+     "views": 3300,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9sDa4j6Ldkk",
+     "url": "https://www.youtube.com/shorts/9sDa4j6Ldkk",
+     "title": "Gemini 4 Neon Is Here: Google's New AI Built This in 3D",
+     "channel": "",
+     "views": 3200,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:54V5lr3kEd8",
+     "url": "https://www.youtube.com/shorts/54V5lr3kEd8",
+     "title": "Google's new Gemini model Neon is seriously good 🤯",
+     "channel": "",
+     "views": 1500,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-19T16:24:44.704Z"
+  },
+  {
    "first_seen": "2026-11-17T20:36:37.117Z",
    "id": "39885750",
    "ids": [
@@ -2449,110 +2473,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-18T15:10:47.894Z"
-  },
-  {
-   "first_seen": "2026-11-19T04:13:47.703Z",
-   "id": "39914239",
-   "ids": [
-    "39914239",
-    "39909611"
-   ],
-   "title": "Google rolls out Gemini 4 Neon AI model for coding, science",
-   "url": "https://www.techinasia.com/news/google-rolls-gemini-4-neon-ai-model-coding-science",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-19 01:55:07",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Google Rolls Out Gemini 4 Neon for Complex AI Work",
-     "url": "https://thedefiant.io/frontier/ai/google-rolls-out-gemini-4-neon-for-complex-ai-work"
-    }
-   ],
-   "queries": [
-    "Gemini 4 Neon",
-    "google gemini neon rolls"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:Sc6TriRAGnI",
-     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
-     "title": "Gemini 4 Swarm is out of control...",
-     "channel": "@WesRoth",
-     "views": 183000,
-     "age_hours": 129.82094083333334,
-     "relevance": 0.5,
-     "velocity": 1410
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:-0uvPVwPFgM",
-     "url": "https://www.youtube.com/watch?v=-0uvPVwPFgM",
-     "title": "Google's Neon is wild...",
-     "channel": "@WesRoth",
-     "views": 5200,
-     "age_hours": 10.822955277777778,
-     "relevance": 0.67,
-     "velocity": 480
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_jsNG7VHZEA",
-     "url": "https://www.youtube.com/shorts/_jsNG7VHZEA",
-     "title": "Gemini 4 Neon Leaked! Google’s Next AI Model?",
-     "channel": "",
-     "views": 4200,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NUi8u3QlaX0",
-     "url": "https://www.youtube.com/shorts/NUi8u3QlaX0",
-     "title": "Google just dropped Gemini 4 Neon, its fourth new Gemini model in about a month",
-     "channel": "",
-     "views": 3300,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9sDa4j6Ldkk",
-     "url": "https://www.youtube.com/shorts/9sDa4j6Ldkk",
-     "title": "Gemini 4 Neon Is Here: Google's New AI Built This in 3D",
-     "channel": "",
-     "views": 3200,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:54V5lr3kEd8",
-     "url": "https://www.youtube.com/shorts/54V5lr3kEd8",
-     "title": "Google's new Gemini model Neon is seriously good 🤯",
-     "channel": "",
-     "views": 1500,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-19T16:24:44.704Z"
   },
   {
    "first_seen": "2026-11-17T11:49:36.719Z",
