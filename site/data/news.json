@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:10:41.948Z",
+ "generated_at": "2026-11-19T11:36:16.657Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -573,6 +573,111 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T08:15:19.327Z"
+  },
+  {
+   "first_seen": "2026-11-19T07:49:18.045Z",
+   "id": "39914098",
+   "ids": [
+    "39914098",
+    "39916873",
+    "39920242"
+   ],
+   "title": "Anthropic raises $107.3bn in the biggest IPO ever",
+   "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-19 08:35:17",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "gizmodo-ai",
+     "title": "Anthropic’s IPO Is the Biggest Ever",
+     "url": "https://gizmodo.com/anthropics-ipo-is-the-biggest-ever-2000842167"
+    }
+   ],
+   "queries": [
+    "Anthropic IPO",
+    "anthropic ipo gains most"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:m62VROx8k0M",
+     "url": "https://www.youtube.com/shorts/m62VROx8k0M",
+     "title": "The TRUTH about Anthropic’s IPO 👀",
+     "channel": "",
+     "views": 54000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:d4vHkl6ozSk",
+     "url": "https://www.youtube.com/watch?v=d4vHkl6ozSk",
+     "title": "Anthropic's IPO Has A MASSIVE Problem",
+     "channel": "The Young Turks",
+     "views": 35476,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 1478
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YRwU7N9psfM",
+     "url": "https://www.youtube.com/shorts/YRwU7N9psfM",
+     "title": "Is the Anthropic IPO a buy?",
+     "channel": "",
+     "views": 46000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:v4a8LPYa9sg",
+     "url": "https://www.youtube.com/shorts/v4a8LPYa9sg",
+     "title": "Is Anthropic's IPO rigged to pop?",
+     "channel": "",
+     "views": 40000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wpRf6pd37fc",
+     "url": "https://www.youtube.com/shorts/wpRf6pd37fc",
+     "title": "Anthropic IPO Breakdown: Most Valuable Company?",
+     "channel": "",
+     "views": 28000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GZR_3RkttrU",
+     "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
+     "title": "Should you invest in Anthropic's IPO?",
+     "channel": "",
+     "views": 24000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-19T07:49:26.229Z"
   },
   {
    "first_seen": "2026-11-19T07:23:57.272Z",
@@ -1467,110 +1572,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T09:36:27.223Z"
-  },
-  {
-   "first_seen": "2026-11-19T07:49:18.045Z",
-   "id": "39914098",
-   "ids": [
-    "39914098",
-    "39916873"
-   ],
-   "title": "Anthropic IPO: Who gains the most from the biggest offering ever?",
-   "url": "https://www.thehindubusinessline.com/markets/anthropic-ipo-who-will-gain-the-most-from-the-biggest-offering-ever/article71718510.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-19 02:41:46",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "gizmodo-ai",
-     "title": "Anthropic’s IPO Is the Biggest Ever",
-     "url": "https://gizmodo.com/anthropics-ipo-is-the-biggest-ever-2000842167"
-    }
-   ],
-   "queries": [
-    "Anthropic IPO",
-    "anthropic ipo gains most"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:m62VROx8k0M",
-     "url": "https://www.youtube.com/shorts/m62VROx8k0M",
-     "title": "The TRUTH about Anthropic’s IPO 👀",
-     "channel": "",
-     "views": 54000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:d4vHkl6ozSk",
-     "url": "https://www.youtube.com/watch?v=d4vHkl6ozSk",
-     "title": "Anthropic's IPO Has A MASSIVE Problem",
-     "channel": "The Young Turks",
-     "views": 35476,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 1478
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YRwU7N9psfM",
-     "url": "https://www.youtube.com/shorts/YRwU7N9psfM",
-     "title": "Is the Anthropic IPO a buy?",
-     "channel": "",
-     "views": 46000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:v4a8LPYa9sg",
-     "url": "https://www.youtube.com/shorts/v4a8LPYa9sg",
-     "title": "Is Anthropic's IPO rigged to pop?",
-     "channel": "",
-     "views": 40000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wpRf6pd37fc",
-     "url": "https://www.youtube.com/shorts/wpRf6pd37fc",
-     "title": "Anthropic IPO Breakdown: Most Valuable Company?",
-     "channel": "",
-     "views": 28000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GZR_3RkttrU",
-     "url": "https://www.youtube.com/shorts/GZR_3RkttrU",
-     "title": "Should you invest in Anthropic's IPO?",
-     "channel": "",
-     "views": 24000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-19T07:49:26.229Z"
   },
   {
    "first_seen": "2026-11-17T11:10:28.641Z",
