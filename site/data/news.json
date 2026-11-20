@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:49:45.935Z",
+ "generated_at": "2026-11-20T00:27:30.571Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -2399,37 +2399,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T16:24:37.064Z"
-  },
-  {
-   "first_seen": "2026-11-16T18:14:26.964Z",
-   "id": "39859233",
-   "ids": [
-    "39859233",
-    "39856271",
-    "39865804"
-   ],
-   "title": "OpenAI News: \"Our first phase of embedded assessments\"",
-   "url": "https://www.reddit.com/r/OpenAI/comments/1xy5ksc/openai_news_our_first_phase_of_embedded/",
-   "source_id": "x-reddit",
-   "published_ts": "2026-11-17 00:03:21",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "First phase of embedded assessments at OpenAI",
-     "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    }
-   ],
-   "queries": [
-    "openai news our first"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T12:49:48.933Z"
   },
   {
    "first_seen": "2026-11-19T20:49:49.488Z",
