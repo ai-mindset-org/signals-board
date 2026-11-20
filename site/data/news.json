@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T09:36:26.454Z",
+ "generated_at": "2026-11-20T11:10:20.329Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: dutch privacy watchdog asking",
-   "ok": true
-  },
-  {
-   "source": "tiktok: dutch privacy watchdog asking",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -528,7 +519,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 18:21:13",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "hn",
@@ -620,6 +611,37 @@
    "searched_at": "2026-11-20T07:12:38.529Z"
   },
   {
+   "first_seen": "2026-11-19T05:49:40.748Z",
+   "id": "39915206",
+   "ids": [
+    "39915206",
+    "39896134"
+   ],
+   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
+   "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-19 05:23:09",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Bajaj Finserv bets $4 million on Indian AI startup Soket AI",
+     "url": "https://www.thehindubusinessline.com/companies/bajaj-finserv-bets-4-million-on-indian-ai-startup-soket-ai/article71715248.ece"
+    }
+   ],
+   "queries": [
+    "Bajaj Finserv",
+    "bajaj finserv pennant indian"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T05:49:48.400Z"
+  },
+  {
    "first_seen": "2026-11-19T17:20:20.334Z",
    "id": "39927299",
    "ids": [
@@ -631,7 +653,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 16:52:01",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 80,
    "related_news": [
     {
      "source_id": "algorithmic-bridge",
@@ -724,67 +746,6 @@
    "searched_at": "2026-11-20T05:36:36.859Z"
   },
   {
-   "first_seen": "2026-11-19T05:49:40.748Z",
-   "id": "39915206",
-   "ids": [
-    "39915206",
-    "39896134"
-   ],
-   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
-   "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 05:23:09",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Bajaj Finserv bets $4 million on Indian AI startup Soket AI",
-     "url": "https://www.thehindubusinessline.com/companies/bajaj-finserv-bets-4-million-on-indian-ai-startup-soket-ai/article71715248.ece"
-    }
-   ],
-   "queries": [
-    "Bajaj Finserv",
-    "bajaj finserv pennant indian"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T05:49:48.400Z"
-  },
-  {
-   "first_seen": "2026-11-17T12:16:54.816Z",
-   "id": "39875066",
-   "ids": [
-    "39875066",
-    "39854156"
-   ],
-   "title": "Kann man erkennen, ob eine Idee von ChatGPT stammt?",
-   "url": "https://www.heise.de/news/Anders-als-Pangram-Kann-man-erkennen-ob-eine-Idee-von-ChatGPT-stammt-11527621.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-17 10:55:00",
-   "story_sources": 2,
-   "score_norm": 80,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Anders als Pangram und weitere KI-Dektoren: Kann man erkennen, ob eine Idee von ChatGPT stammt?",
-     "url": "https://t3n.de/news/anders-als-pangram-und-weitere-ki-dektoren-kann-man-erkennen-ob-eine-idee-von-chatgpt-stammt-1773809/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "kann idee chatgpt man"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T12:16:59.196Z"
-  },
-  {
    "first_seen": "2026-11-18T01:39:45.507Z",
    "id": "39890195",
    "ids": [
@@ -826,7 +787,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-20 08:58:20",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "hn",
@@ -1319,7 +1280,7 @@
    "source_id": "gizmodo-ai",
    "published_ts": "2026-11-20 03:06:47",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "engadget",
@@ -3094,37 +3055,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T20:36:53.220Z"
-  },
-  {
-   "first_seen": "2026-11-17T13:37:07.741Z",
-   "id": "39876706",
-   "ids": [
-    "39876706",
-    "39872706"
-   ],
-   "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
-   "url": "https://www.heise.de/news/Gemini-Notebooks-So-werden-aus-deinen-Notizen-jetzt-interaktive-Webseiten-11527663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-17 11:10:00",
-   "story_sources": 2,
-   "score_norm": 38,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
-     "url": "https://t3n.de/news/gemini-notebooks-so-werden-aus-deinen-notizen-jetzt-interaktive-webseiten-1773890/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Gemini Notebooks",
-    "gemini notebooks so notizen"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T19:50:17.653Z"
   },
   {
    "first_seen": "2026-11-19T13:36:26.927Z",
