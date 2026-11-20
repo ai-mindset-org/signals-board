@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:20:23.686Z",
+ "generated_at": "2026-11-20T23:09:58.186Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -830,36 +830,6 @@
    "searched_at": "2026-11-19T05:49:48.400Z"
   },
   {
-   "first_seen": "2026-11-18T01:39:45.507Z",
-   "id": "39890195",
-   "ids": [
-    "39890195",
-    "39868800"
-   ],
-   "title": "External sandboxes for coding agents",
-   "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-17 22:52:29",
-   "story_sources": 2,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "External Sandboxes for Coding Agents",
-     "url": "https://blog.primeradiant.com/external-sandboxes-for-coding-agents/"
-    }
-   ],
-   "queries": [
-    "external sandboxes coding agents"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T01:39:49.916Z"
-  },
-  {
    "first_seen": "2026-11-20T19:49:55.422Z",
    "id": "39945719",
    "ids": [
@@ -871,7 +841,7 @@
    "source_id": "in-analyticsvidhya",
    "published_ts": "2026-11-20 12:44:52",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "hn",
