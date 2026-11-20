@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:49:28.534Z",
+ "generated_at": "2026-11-20T09:12:12.395Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1010,109 +1010,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T09:36:27.223Z"
-  },
-  {
-   "first_seen": "2026-11-17T11:10:28.641Z",
-   "id": "39873994",
-   "ids": [
-    "39873994",
-    "39854122"
-   ],
-   "title": "Every agent is a database user",
-   "url": "https://www.itweb.co.za/article/every-agent-is-a-database-user/rxP3jqBEJrxMA2ye",
-   "source_id": "africa-itweb",
-   "published_ts": "2026-11-17 09:01:00",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "za-techcentral",
-     "title": "Every agent is a database user",
-     "url": "https://techcentral.co.za/every-agent-database-user-ai-agent-governance/288467/"
-    }
-   ],
-   "queries": [
-    "every agent database user"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fhMANHTYxaM",
-     "url": "https://www.youtube.com/watch?v=fhMANHTYxaM",
-     "title": "I Predicted Where Every MLB Free Agent Will Sign!",
-     "channel": "Jolly Olive",
-     "views": 95416,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 1988
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RIV94SJhuYI",
-     "url": "https://www.youtube.com/shorts/RIV94SJhuYI",
-     "title": "How every agent enters the site in 2026🤔I Valorant l  #gaming #valorantclutchmoments #valorant",
-     "channel": "",
-     "views": 1900,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9V8UdaGtgHk",
-     "url": "https://www.youtube.com/shorts/9V8UdaGtgHk",
-     "title": "Plannotator Puts Every Agent Plan, Diff, and Question in One Inbox",
-     "channel": "",
-     "views": 485,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oNz1Uw1usMo",
-     "url": "https://www.youtube.com/shorts/oNz1Uw1usMo",
-     "title": "576 - A whole company just gave every employee an agent",
-     "channel": "",
-     "views": 146,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JfNGjZHiZIU",
-     "url": "https://www.youtube.com/shorts/JfNGjZHiZIU",
-     "title": "6.5K ⭐ One Dashboard for Every AI Agent You Run",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XDVS6AyfI60",
-     "url": "https://www.youtube.com/shorts/XDVS6AyfI60",
-     "title": "Every agent on your team has a name.",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-17T11:10:32.761Z"
   },
   {
    "first_seen": "2026-11-18T07:49:34.295Z",
