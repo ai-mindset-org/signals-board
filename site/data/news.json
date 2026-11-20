@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:11:21.596Z",
+ "generated_at": "2026-11-20T15:49:26.211Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: dutch privacy watchdog asking",
+   "ok": true
+  },
+  {
+   "source": "tiktok: dutch privacy watchdog asking",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -1010,7 +1019,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-20T09:36:30.953Z"
+   "searched_at": "2026-11-20T15:49:31.655Z"
   },
   {
    "first_seen": "2026-11-18T07:49:34.295Z",
