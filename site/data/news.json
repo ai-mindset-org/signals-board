@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:36:28.992Z",
+ "generated_at": "2026-11-20T06:42:19.132Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Wall Street",
+   "source": "youtube: Let Schools Use Search Without",
    "ok": true
   },
   {
-   "source": "tiktok: Wall Street",
+   "source": "tiktok: Let Schools Use Search Without",
    "ok": true
   },
   {
-   "source": "youtube: anthropic wall street starts",
+   "source": "youtube: google employees petition let",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic wall street starts",
+   "source": "tiktok: google employees petition let",
    "ok": true
   }
  ],
@@ -364,6 +364,62 @@
    "searched_at": "2026-11-18T13:21:50.654Z"
   },
   {
+   "first_seen": "2026-11-19T08:15:11.746Z",
+   "id": "39917017",
+   "ids": [
+    "39917017",
+    "39899363"
+   ],
+   "title": "Physical AI startup Humyn Labs raises $47M in Series A",
+   "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-19 07:32:27",
+   "story_sources": 2,
+   "score_norm": 85,
+   "related_news": [
+    {
+     "source_id": "sea-techinasia",
+     "title": "Indian physical AI startup Humyn Labs raises $47m series A",
+     "url": "https://www.techinasia.com/news/indian-physical-ai-startup-humyn-labs-raises-47m-series"
+    }
+   ],
+   "queries": [
+    "Humyn Labs",
+    "physical humyn labs 47m"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tkP7mEeJ5OM",
+     "url": "https://www.youtube.com/shorts/tkP7mEeJ5OM",
+     "title": "Humyn Labs Raises $47M to Supply US Robotics Data #Shorts",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f7Ms3U1_8PY",
+     "url": "https://www.youtube.com/shorts/f7Ms3U1_8PY",
+     "title": "Humyn Labs Raises $47M to Supply US Robotics Companies Training Data #Shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T08:15:19.327Z"
+  },
+  {
    "first_seen": "2026-11-19T18:50:03.332Z",
    "id": "39929117",
    "ids": [
@@ -375,7 +431,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 18:21:13",
    "story_sources": 2,
-   "score_norm": 85,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "hn",
@@ -465,62 +521,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T01:11:50.972Z"
-  },
-  {
-   "first_seen": "2026-11-19T08:15:11.746Z",
-   "id": "39917017",
-   "ids": [
-    "39917017",
-    "39899363"
-   ],
-   "title": "Physical AI startup Humyn Labs raises $47M in Series A",
-   "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 07:32:27",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Indian physical AI startup Humyn Labs raises $47m series A",
-     "url": "https://www.techinasia.com/news/indian-physical-ai-startup-humyn-labs-raises-47m-series"
-    }
-   ],
-   "queries": [
-    "Humyn Labs",
-    "physical humyn labs 47m"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tkP7mEeJ5OM",
-     "url": "https://www.youtube.com/shorts/tkP7mEeJ5OM",
-     "title": "Humyn Labs Raises $47M to Supply US Robotics Data #Shorts",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f7Ms3U1_8PY",
-     "url": "https://www.youtube.com/shorts/f7Ms3U1_8PY",
-     "title": "Humyn Labs Raises $47M to Supply US Robotics Companies Training Data #Shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T08:15:19.327Z"
   },
   {
    "first_seen": "2026-11-19T17:20:20.334Z",
@@ -922,111 +922,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T20:11:49.933Z"
-  },
-  {
-   "first_seen": "2026-11-19T07:49:18.045Z",
-   "id": "39914098",
-   "ids": [
-    "39914098",
-    "39916873",
-    "39920242",
-    "39925330",
-    "39919713",
-    "39916036"
-   ],
-   "title": "Anthropic raises $81.3bn in biggest IPO on record",
-   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-19 11:00:48",
-   "story_sources": 4,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
-     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
-    },
-    {
-     "source_id": "eu-siliconrepublic",
-     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
-     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic raises $81B in record IPO",
-     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e"
-    }
-   ],
-   "queries": [
-    "anthropic 81.3bn ipo raises"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CeNlNfTQvHc",
-     "url": "https://www.youtube.com/shorts/CeNlNfTQvHc",
-     "title": "Anthropic raises more than $81 billion in historic IPO",
-     "channel": "",
-     "views": 8500,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Xtapw2EPYW8",
-     "url": "https://www.youtube.com/watch?v=Xtapw2EPYW8",
-     "title": "AI 'doomers' some of Anthropic IPO's biggest winners",
-     "channel": "CNBC Television",
-     "views": 12462,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 173
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s-ub1n4Xh98",
-     "url": "https://www.youtube.com/shorts/s-ub1n4Xh98",
-     "title": "Anthropic opens at $111.50 per share in record IPO",
-     "channel": "",
-     "views": 3000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ten3czAGBOU",
-     "url": "https://www.youtube.com/watch?v=ten3czAGBOU",
-     "title": "Is the Market Ready for Anthropic's IPO?",
-     "channel": "WSJ Podcasts",
-     "views": 845,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:655oymMOOM0",
-     "url": "https://www.youtube.com/shorts/655oymMOOM0",
-     "title": "Anthropic’s IPO breaks records",
-     "channel": "",
-     "views": 189,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-20T02:15:51.909Z"
   },
   {
    "first_seen": "2026-11-17T15:11:47.890Z",
@@ -1492,6 +1387,110 @@
    "searched_at": "2026-11-18T08:27:35.274Z"
   },
   {
+   "first_seen": "2026-11-20T06:42:19.132Z",
+   "id": "39938763",
+   "ids": [
+    "39938763",
+    "39930731"
+   ],
+   "title": "Google Employees Petition to Let Schools Use Search Without AI",
+   "url": "https://gizmodo.com/google-employees-petition-to-let-schools-use-search-without-ai-2000842549",
+   "source_id": "gizmodo-ai",
+   "published_ts": "2026-11-20 03:06:47",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Employees call out Google over AI Search in schools",
+     "url": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/"
+    }
+   ],
+   "queries": [
+    "Let Schools Use Search Without",
+    "google employees petition let"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:33RMC8Hz4NA",
+     "url": "https://www.youtube.com/shorts/33RMC8Hz4NA",
+     "title": "“It feels like a hostage situation.” Google threatens to block search in schools that disable AI",
+     "channel": "",
+     "views": 354000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OAEirB6PPdQ",
+     "url": "https://www.youtube.com/watch?v=OAEirB6PPdQ",
+     "title": "NYC schools may abandon google search over AI use",
+     "channel": "Eyewitness News ABC7NY",
+     "views": 4629,
+     "age_hours": 14,
+     "relevance": 0.63,
+     "velocity": 331
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QYnn31cXPcs",
+     "url": "https://www.youtube.com/shorts/QYnn31cXPcs",
+     "title": "Google Will Take Search Away From Schools That Say No To AI",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:H87Kcvo4Mts",
+     "url": "https://www.youtube.com/shorts/H87Kcvo4Mts",
+     "title": "Google Is Making Schools Use AI Search or No Search At All",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HN9WamGqFsk",
+     "url": "https://www.youtube.com/shorts/HN9WamGqFsk",
+     "title": "Google Search in schools is a leverage play #Shorts",
+     "channel": "",
+     "views": 54,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6VQ52SR_knM",
+     "url": "https://www.youtube.com/shorts/6VQ52SR_knM",
+     "title": "AI News: Schools Rethink Google Search After AI Concerns (Nov 19, 2026)",
+     "channel": "",
+     "views": 38,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-20T06:42:27.699Z"
+  },
+  {
    "first_seen": "2026-11-20T01:39:40.290Z",
    "id": "39935317",
    "ids": [
@@ -1811,38 +1810,46 @@
    "searched_at": "2026-11-18T09:49:34.056Z"
   },
   {
-   "first_seen": "2026-11-19T21:10:15.456Z",
-   "id": "39928229",
+   "first_seen": "2026-11-19T07:49:18.045Z",
+   "id": "39914098",
    "ids": [
-    "39928229",
-    "39931370"
+    "39914098",
+    "39916873",
+    "39920242",
+    "39925330",
+    "39919713",
+    "39916036"
    ],
-   "title": "Google’s Gemini can now take over tasks on your Mac",
-   "url": "https://thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-19 17:59:24",
-   "story_sources": 2,
+   "title": "Anthropic raises $81.3bn in biggest IPO on record",
+   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-19 11:00:48",
+   "story_sources": 3,
    "score_norm": 55,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Google's Gemini Can Now Control Apps on Your Mac",
-     "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/"
+     "source_id": "eu-tnw",
+     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
+     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
+    },
+    {
+     "source_id": "eu-siliconrepublic",
+     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
+     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
     }
    ],
    "queries": [
-    "Google’s Gemini",
-    "google gemini mac can"
+    "anthropic 81.3bn ipo raises"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:226Tb2wrK9w",
-     "url": "https://www.youtube.com/shorts/226Tb2wrK9w",
-     "title": "Google Just Dropped Gemini 4 Neon",
+     "id": "youtube:CeNlNfTQvHc",
+     "url": "https://www.youtube.com/shorts/CeNlNfTQvHc",
+     "title": "Anthropic raises more than $81 billion in historic IPO",
      "channel": "",
-     "views": 78,
+     "views": 8500,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1850,23 +1857,23 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:TSgH0U_C1D0",
-     "url": "https://www.youtube.com/watch?v=TSgH0U_C1D0",
-     "title": "How Google Gemini AI Can Perform Tasks For You on Apple Macintosh",
-     "channel": "Reality PC",
-     "views": 2,
-     "age_hours": 0.9333333333333333,
-     "relevance": 0.67,
-     "velocity": 2
+     "id": "youtube:Xtapw2EPYW8",
+     "url": "https://www.youtube.com/watch?v=Xtapw2EPYW8",
+     "title": "AI 'doomers' some of Anthropic IPO's biggest winners",
+     "channel": "CNBC Television",
+     "views": 12462,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 173
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:AWo0BV7dMFs",
-     "url": "https://www.youtube.com/shorts/AWo0BV7dMFs",
-     "title": "Google Just Gave Gemini Users a Free AI Agent. It Can Call and Buy Things for You.",
+     "id": "youtube:s-ub1n4Xh98",
+     "url": "https://www.youtube.com/shorts/s-ub1n4Xh98",
+     "title": "Anthropic opens at $111.50 per share in record IPO",
      "channel": "",
-     "views": 49,
+     "views": 3000,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1874,45 +1881,33 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:vgEYrGsicyA",
-     "url": "https://www.youtube.com/watch?v=vgEYrGsicyA",
-     "title": "Google's Gemini Can Now Run Tasks Across Your Mac Apps While You Keep Working",
-     "channel": "Cyber A.I. Pros",
-     "views": 3,
-     "age_hours": 4,
-     "relevance": 0.83,
-     "velocity": 1
+     "id": "youtube:ten3czAGBOU",
+     "url": "https://www.youtube.com/watch?v=ten3czAGBOU",
+     "title": "Is the Market Ready for Anthropic's IPO?",
+     "channel": "WSJ Podcasts",
+     "views": 845,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 12
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:hd_OBdP2X5k",
-     "url": "https://www.youtube.com/shorts/hd_OBdP2X5k",
-     "title": "Gemini Can Now Use Your Mac For You",
+     "id": "youtube:655oymMOOM0",
+     "url": "https://www.youtube.com/shorts/655oymMOOM0",
+     "title": "Anthropic’s IPO breaks records",
      "channel": "",
-     "views": 18,
+     "views": 189,
      "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:p401x5LNBtI",
-     "url": "https://www.youtube.com/shorts/p401x5LNBtI",
-     "title": "Gemini Can Now Use Your Mac For You",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-20T03:13:57.050Z"
+   "searched_at": "2026-11-20T02:15:51.909Z"
   },
   {
    "first_seen": "2026-11-17T20:36:37.117Z",
@@ -2018,6 +2013,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-18T15:10:47.894Z"
+  },
+  {
+   "first_seen": "2026-11-19T21:10:15.456Z",
+   "id": "39928229",
+   "ids": [
+    "39928229",
+    "39931370"
+   ],
+   "title": "Google’s Gemini can now take over tasks on your Mac",
+   "url": "https://thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-19 17:59:24",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Google's Gemini Can Now Control Apps on Your Mac",
+     "url": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/"
+    }
+   ],
+   "queries": [
+    "Google’s Gemini",
+    "google gemini mac can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:226Tb2wrK9w",
+     "url": "https://www.youtube.com/shorts/226Tb2wrK9w",
+     "title": "Google Just Dropped Gemini 4 Neon",
+     "channel": "",
+     "views": 78,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TSgH0U_C1D0",
+     "url": "https://www.youtube.com/watch?v=TSgH0U_C1D0",
+     "title": "How Google Gemini AI Can Perform Tasks For You on Apple Macintosh",
+     "channel": "Reality PC",
+     "views": 2,
+     "age_hours": 0.9333333333333333,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AWo0BV7dMFs",
+     "url": "https://www.youtube.com/shorts/AWo0BV7dMFs",
+     "title": "Google Just Gave Gemini Users a Free AI Agent. It Can Call and Buy Things for You.",
+     "channel": "",
+     "views": 49,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:vgEYrGsicyA",
+     "url": "https://www.youtube.com/watch?v=vgEYrGsicyA",
+     "title": "Google's Gemini Can Now Run Tasks Across Your Mac Apps While You Keep Working",
+     "channel": "Cyber A.I. Pros",
+     "views": 3,
+     "age_hours": 4,
+     "relevance": 0.83,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hd_OBdP2X5k",
+     "url": "https://www.youtube.com/shorts/hd_OBdP2X5k",
+     "title": "Gemini Can Now Use Your Mac For You",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:p401x5LNBtI",
+     "url": "https://www.youtube.com/shorts/p401x5LNBtI",
+     "title": "Gemini Can Now Use Your Mac For You",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-20T03:13:57.050Z"
   },
   {
    "first_seen": "2026-11-17T11:49:36.719Z",
