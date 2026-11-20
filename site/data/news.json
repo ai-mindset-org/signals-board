@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:12:33.799Z",
+ "generated_at": "2026-11-20T07:49:14.616Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: gemini mac can use",
+   "source": "youtube: 879,000 Nvidia",
    "ok": true
   },
   {
-   "source": "tiktok: gemini mac can use",
+   "source": "tiktok: 879,000 Nvidia",
+   "ok": true
+  },
+  {
+   "source": "youtube: us 879 000 nvidia",
+   "ok": true
+  },
+  {
+   "source": "tiktok: us 879 000 nvidia",
+   "ok": true
+  },
+  {
+   "source": "youtube: How OpenAI’s Performance Factory",
+   "ok": true
+  },
+  {
+   "source": "tiktok: How OpenAI’s Performance Factory",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai performance factory chatgpt",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai performance factory chatgpt",
    "ok": true
   }
  ],
@@ -127,6 +151,111 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T05:23:04.758Z"
+  },
+  {
+   "first_seen": "2026-11-19T12:16:15.559Z",
+   "id": "39920984",
+   "ids": [
+    "39920984",
+    "39919053",
+    "39939767"
+   ],
+   "title": "US approved 879,000 Nvidia, AMD AI chips for China",
+   "url": "https://www.techinasia.com/news/us-approved-879000-nvidia-amd-ai-chips-for-china",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-20 07:39:36",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Nvidia stops shipping US-approved AI chips to China",
+     "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
+    }
+   ],
+   "queries": [
+    "879,000 Nvidia",
+    "us 879 000 nvidia"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:C3IoSLjZaF8",
+     "url": "https://www.youtube.com/watch?v=C3IoSLjZaF8",
+     "title": "Exposed! \"US\" Sold 879,000 AI Chips to China in 6 Months | Millionaire Marketing 11-20-2026",
+     "channel": "TNN",
+     "views": 3041,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 608
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DerJAXN4TQY",
+     "url": "https://www.youtube.com/watch?v=DerJAXN4TQY",
+     "title": "Nvidia Chips China: Why 879,000 Were Approved",
+     "channel": "Infrastructure in Minutes",
+     "views": 3,
+     "age_hours": 1,
+     "relevance": 1,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YHH-GtCZpE4",
+     "url": "https://www.youtube.com/watch?v=YHH-GtCZpE4",
+     "title": "Nvidia DOWN 22% in 9 Days! US Approved 879,000 AI Chips to China?!",
+     "channel": "VexaForge",
+     "views": 3,
+     "age_hours": 2,
+     "relevance": 0.89,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HnLJjlXE3mw",
+     "url": "https://www.youtube.com/watch?v=HnLJjlXE3mw",
+     "title": "US Department of Commerce in hot water for approving 870,000 AI chips for China…",
+     "channel": "速報ネコ",
+     "views": 1,
+     "age_hours": 4,
+     "relevance": 0.56,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:2zT0Zugcwkk",
+     "url": "https://www.youtube.com/watch?v=2zT0Zugcwkk",
+     "title": "House panel: US approved 879,000 AI chips for China",
+     "channel": "The Tomorrow Desk",
+     "views": 3,
+     "age_hours": 8,
+     "relevance": 0.78,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Zb-F9Jis3FU",
+     "url": "https://www.youtube.com/watch?v=Zb-F9Jis3FU",
+     "title": "House panel says US approved 879,000 AI chips for China | Vocemundi AI News",
+     "channel": "Vocemundi",
+     "views": 0,
+     "age_hours": 1,
+     "relevance": 0.78,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-20T07:49:22.631Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -708,109 +837,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-18T01:39:49.916Z"
-  },
-  {
-   "first_seen": "2026-11-19T12:16:15.559Z",
-   "id": "39920984",
-   "ids": [
-    "39920984",
-    "39919053"
-   ],
-   "title": "Nvidia stops shipping AI chips to China as pressure mounts over US export controls",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-stops-ai-chips-china-us-export-controls-10969783/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-19 09:36:25",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Nvidia stops shipping US-approved AI chips to China",
-     "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
-    }
-   ],
-   "queries": [
-    "nvidia china us stops"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:2dO-xjuyEfc",
-     "url": "https://www.youtube.com/watch?v=2dO-xjuyEfc",
-     "title": "NVIDIA Stops Shipping AI GPU's to China - USA Fighting Chinese Tech",
-     "channel": "Eli the Computer Guy",
-     "views": 27045,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 1591
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7D9BQro_xMQ",
-     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
-     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
-     "channel": "",
-     "views": 35000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GIgfxEotFZA",
-     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
-     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-     "channel": "Bloomberg Television",
-     "views": 13709,
-     "age_hours": 48,
-     "relevance": 0.56,
-     "velocity": 286
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:DsDiWf470Ok",
-     "url": "https://www.youtube.com/watch?v=DsDiWf470Ok",
-     "title": "Nvidia stops selling H200 AI chips in China",
-     "channel": "Chessthacho",
-     "views": 212,
-     "age_hours": 13,
-     "relevance": 0.71,
-     "velocity": 16
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gNB4YQvfDgo",
-     "url": "https://www.youtube.com/watch?v=gNB4YQvfDgo",
-     "title": "Nvidia Stops Shipping AI Chips to China: What Changed",
-     "channel": "Cold Facts",
-     "views": 80,
-     "age_hours": 24,
-     "relevance": 0.86,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WLMo4VqNSGA",
-     "url": "https://www.youtube.com/shorts/WLMo4VqNSGA",
-     "title": "Nvidia Just Walked Away From China",
-     "channel": "",
-     "views": 57,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-19T12:16:21.108Z"
   },
   {
    "first_seen": "2026-11-17T20:11:45.130Z",
@@ -1509,12 +1535,48 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CGjfxCrufCE",
+     "url": "https://www.youtube.com/watch?v=CGjfxCrufCE",
+     "title": "OpenAI -- Performance Factory, the Codex System That Hunts ChatGPT Slowdowns",
+     "channel": "AI Papers Podcast Daily",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KgDNa4dAktk",
+     "url": "https://www.youtube.com/shorts/KgDNa4dAktk",
+     "title": "How OpenAI Keeps ChatGPT Fast with Automation",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jzmUBaPA1aM",
+     "url": "https://www.youtube.com/shorts/jzmUBaPA1aM",
+     "title": "OpenAI: How OpenAI’s Performance Factory keeps ChatGPT fast",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:Bmd6fgUJ-qQ",
      "url": "https://www.youtube.com/shorts/Bmd6fgUJ-qQ",
      "title": "OpenAI Unveils Performance Factory for ChatGPT Speed",
      "channel": "",
-     "views": 0,
+     "views": 1,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1527,7 +1589,7 @@
      "title": "How OpenAI's Performance Factory Maintains ChatGPT's Performance",
      "channel": "AI Radio",
      "views": 0,
-     "age_hours": 3,
+     "age_hours": 10,
      "relevance": 0.8,
      "velocity": null
     }
@@ -1536,7 +1598,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-20T01:39:48.438Z"
+   "searched_at": "2026-11-20T07:49:29.720Z"
   },
   {
    "first_seen": "2026-11-18T11:10:27.751Z",
