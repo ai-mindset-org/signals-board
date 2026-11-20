@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:39:40.290Z",
+ "generated_at": "2026-11-20T02:15:47.588Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: How OpenAI’s Performance Factory",
+   "source": "youtube: anthropic 81.3bn ipo raises",
    "ok": true
   },
   {
-   "source": "tiktok: How OpenAI’s Performance Factory",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai performance factory chatgpt",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai performance factory chatgpt",
+   "source": "tiktok: anthropic 81.3bn ipo raises",
    "ok": true
   }
  ],
@@ -968,10 +960,22 @@
      "url": "https://www.youtube.com/shorts/CeNlNfTQvHc",
      "title": "Anthropic raises more than $81 billion in historic IPO",
      "channel": "",
-     "views": 4700,
+     "views": 8500,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Xtapw2EPYW8",
+     "url": "https://www.youtube.com/watch?v=Xtapw2EPYW8",
+     "title": "AI 'doomers' some of Anthropic IPO's biggest winners",
+     "channel": "CNBC Television",
+     "views": 12462,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 173
     },
     {
      "platform": "youtube",
@@ -980,17 +984,41 @@
      "url": "https://www.youtube.com/shorts/s-ub1n4Xh98",
      "title": "Anthropic opens at $111.50 per share in record IPO",
      "channel": "",
-     "views": 752,
+     "views": 3000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ten3czAGBOU",
+     "url": "https://www.youtube.com/watch?v=ten3czAGBOU",
+     "title": "Is the Market Ready for Anthropic's IPO?",
+     "channel": "WSJ Podcasts",
+     "views": 845,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:655oymMOOM0",
+     "url": "https://www.youtube.com/shorts/655oymMOOM0",
+     "title": "Anthropic’s IPO breaks records",
+     "channel": "",
+     "views": 189,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-19T20:12:22.700Z"
+   "searched_at": "2026-11-20T02:15:51.909Z"
   },
   {
    "first_seen": "2026-11-17T15:11:47.890Z",
