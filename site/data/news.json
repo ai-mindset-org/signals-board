@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:09:45.006Z",
+ "generated_at": "2026-11-20T19:20:55.832Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Anthropic’s Alpoge",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Anthropic’s Alpoge",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic alpoge claude riemann",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic alpoge claude riemann",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -349,7 +332,8 @@
    "id": "39951247",
    "ids": [
     "39951247",
-    "39948781"
+    "39948781",
+    "39951415"
    ],
    "title": "Anthropic’s Alpoge claims Claude found Riemann proof",
    "url": "https://thecondia.com/anthropic-alpoge-claude-riemann-proof/",
@@ -358,6 +342,11 @@
    "story_sources": 2,
    "score_norm": 92,
    "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic mathematician claims proof of Riemann hypothesis with help of Claude",
+     "url": "https://www.the-independent.com/tech/riemann-hypothesis-solved-levent-alpoge-b3088927.html"
+    },
     {
      "source_id": "hn",
      "title": "Anthropic mathematician says he found a Riemann hypothesis proof with Claude",
