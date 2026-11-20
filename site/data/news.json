@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:22:56.998Z",
+ "generated_at": "2026-11-20T05:36:28.992Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Blue Origin",
+   "source": "youtube: Wall Street",
    "ok": true
   },
   {
-   "source": "tiktok: Blue Origin",
+   "source": "tiktok: Wall Street",
    "ok": true
   },
   {
-   "source": "youtube: blue origin google 2029",
+   "source": "youtube: anthropic wall street starts",
    "ok": true
   },
   {
-   "source": "tiktok: blue origin google 2029",
+   "source": "tiktok: anthropic wall street starts",
    "ok": true
   }
  ],
@@ -550,50 +550,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:J6Ck8DIbp9c",
-     "url": "https://www.youtube.com/watch?v=J6Ck8DIbp9c",
-     "title": "WALL STREET: EL MERCADO SE HUNDE CON EL ESTRENO DE ANTHROPIC, AMD SE DESPLOMA Y EL BITCOIN CAE",
-     "channel": "Negocios TV",
-     "views": 46852,
-     "age_hours": 1,
-     "relevance": 0.6,
-     "velocity": 46852
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:iV73G7r_Yjc",
      "url": "https://www.youtube.com/watch?v=iV73G7r_Yjc",
      "title": "🔴 Anthropic IPO LIVE: Biggest IPO In History Starts Trading ($100 Today ??) + NVDA PUMP",
      "channel": "Martyn Lucas INVESTOR",
-     "views": 33826,
-     "age_hours": 5,
+     "views": 34445,
+     "age_hours": 11,
      "relevance": 0.6,
-     "velocity": 6765
+     "velocity": 3131
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:UAAxOksRR9A",
-     "url": "https://www.youtube.com/watch?v=UAAxOksRR9A",
-     "title": "Anthropic Stock SURGES 34% After IPO! Wall Street Says BUY — More Upside Ahead?",
-     "channel": "Live Chart Analysis",
-     "views": 19008,
-     "age_hours": 5,
+     "id": "youtube:fI9Yp6Uk6sA",
+     "url": "https://www.youtube.com/watch?v=fI9Yp6Uk6sA",
+     "title": "Wall Street ends sharply lower after Anthropic's stock market debut",
+     "channel": "Reuters",
+     "views": 1647,
+     "age_hours": 3,
      "relevance": 0.6,
-     "velocity": 3802
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GQdcilMmFfM",
-     "url": "https://www.youtube.com/watch?v=GQdcilMmFfM",
-     "title": "Anthropic lost $100B+ in 9 months. How much does Wall Street care?",
-     "channel": "CNN",
-     "views": 26549,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 553
+     "velocity": 549
     },
     {
      "platform": "youtube",
@@ -602,7 +578,7 @@
      "url": "https://www.youtube.com/shorts/KAHXPo87N28",
      "title": "Anthropic just signaled Wall Street is eager to bet on the AI boom",
      "channel": "",
-     "views": 10000,
+     "views": 11000,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -614,17 +590,41 @@
      "url": "https://www.youtube.com/watch?v=af5qDND5cuI",
      "title": "Anthropic makes historic Wall Street debut—what it means for AI stocks",
      "channel": "FOX 5 New York",
-     "views": 1524,
-     "age_hours": 8,
+     "views": 2142,
+     "age_hours": 14,
      "relevance": 0.6,
-     "velocity": 191
+     "velocity": 153
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zyHAqwp-8oM",
+     "url": "https://www.youtube.com/shorts/zyHAqwp-8oM",
+     "title": "Anthropic makes historic Wall Street debut",
+     "channel": "",
+     "views": 3600,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9Pk8rnMN0R0",
+     "url": "https://www.youtube.com/shorts/9Pk8rnMN0R0",
+     "title": "Anthropic makes Wall Street history",
+     "channel": "",
+     "views": 51,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-19T23:36:08.797Z"
+   "searched_at": "2026-11-20T05:36:36.859Z"
   },
   {
    "first_seen": "2026-11-19T05:49:40.748Z",
