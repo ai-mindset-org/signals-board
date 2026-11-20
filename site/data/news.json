@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:27:32.116Z",
+ "generated_at": "2026-11-20T08:49:28.534Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: anthropic 81.3bn ipo raises",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic 81.3bn ipo raises",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -245,7 +236,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-20 07:39:36",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "hn",
@@ -3414,80 +3405,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-17T18:14:21.305Z"
-  },
-  {
-   "first_seen": "2026-11-17T09:36:50.612Z",
-   "id": "39872302",
-   "ids": [
-    "39872302",
-    "39872834"
-   ],
-   "title": "Pragya Misra to lead OpenAI's business development in India and South Asia",
-   "url": "https://yourstory.com/2026/11/pragya-misra-lead-openais-business-development-india-and-south-asia",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-17 08:44:46",
-   "story_sources": 2,
-   "score_norm": 36,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "OpenAI names Pragya Mishra head of business development for India, South Asia",
-     "url": "https://www.thehindubusinessline.com/info-tech/openai-names-pragya-mishra-head-of-business-development-for-india-south-asia/article71711092.ece"
-    }
-   ],
-   "queries": [
-    "Pragya Misra",
-    "pragya misra openai india"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-17T15:49:42.127Z"
-  },
-  {
-   "first_seen": "2026-11-17T09:36:50.612Z",
-   "id": "39872740",
-   "ids": [
-    "39872740",
-    "39868139"
-   ],
-   "title": "Singapore presses US on new AI chip export rules, minister tells Semafor",
-   "url": "https://thenextweb.com/news/singapore-presses-us-on-new-ai-chip-export-rules-minister-tells-semafor",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-17 08:46:20",
-   "story_sources": 2,
-   "score_norm": 36,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "US tightens AI chip export rules for Singapore, Malaysia",
-     "url": "https://www.techinasia.com/news/tightens-ai-chip-export-rules-singapore-malaysia"
-    }
-   ],
-   "queries": [
-    "singapore us semafor presses"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7JSP0VHiZHc",
-     "url": "https://www.youtube.com/watch?v=7JSP0VHiZHc",
-     "title": "The US Just Labelled Singapore and Malaysia an AI Chip Risk",
-     "channel": "Fifth Tiger",
-     "views": 3107,
-     "age_hours": 5,
-     "relevance": 0.57,
-     "velocity": 621
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T15:49:45.653Z"
   }
  ]
 }
