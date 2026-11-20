@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:12:03.182Z",
+ "generated_at": "2026-11-20T15:11:21.596Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -994,7 +994,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-20 08:58:20",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -2740,111 +2740,6 @@
    "searched_at": "2026-11-19T13:36:31.178Z"
   },
   {
-   "first_seen": "2026-11-16T23:35:48.308Z",
-   "id": "39864950",
-   "ids": [
-    "39864950",
-    "39863572",
-    "39885756"
-   ],
-   "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
-   "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-17 14:54:10",
-   "story_sources": 2,
-   "score_norm": 39,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "California sues OpenAI over AI models' cyberattacks on Hugging Face",
-     "url": "https://www.reuters.com/business/california-sues-openai-over-ai-models-cyberattacks-hugging-face-other-companies-2026-11-16/"
-    }
-   ],
-   "queries": [
-    "Hugging Face",
-    "california openai hugging face"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CXBNxHqU4bk",
-     "url": "https://www.youtube.com/watch?v=CXBNxHqU4bk",
-     "title": "Rogue AI: California sues OpenAI over Hugging Face and other cyberattacks • FRANCE 24 English",
-     "channel": "FRANCE 24 English",
-     "views": 4111,
-     "age_hours": 23,
-     "relevance": 0.64,
-     "velocity": 179
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fp33evki83A",
-     "url": "https://www.youtube.com/watch?v=fp33evki83A",
-     "title": "California AG sues OpenAI over Hugging Face hack",
-     "channel": "KPIX | CBS NEWS BAY AREA",
-     "views": 3413,
-     "age_hours": 24,
-     "relevance": 0.71,
-     "velocity": 142
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zDFxnrdQKQg",
-     "url": "https://www.youtube.com/watch?v=zDFxnrdQKQg",
-     "title": "California sues OpenAI over Hugging Face cyberattack",
-     "channel": "TRT World",
-     "views": 1709,
-     "age_hours": 13,
-     "relevance": 0.83,
-     "velocity": 131
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:bboSwXlnTDA",
-     "url": "https://www.youtube.com/watch?v=bboSwXlnTDA",
-     "title": "California Sues OpenAI Over HuggingFace Breach #openai #huggingface #aisecurity #cybersecurity #ai",
-     "channel": "Ultra: AI Tech, Tools & Experiments",
-     "views": 1225,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 77
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:DqqlYh0yUmE",
-     "url": "https://www.youtube.com/watch?v=DqqlYh0yUmE",
-     "title": "California sues OpenAI over Hugging Face cyberattack",
-     "channel": "TRT World Now",
-     "views": 551,
-     "age_hours": 16,
-     "relevance": 0.83,
-     "velocity": 34
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ew5Hwrcn8HI",
-     "url": "https://www.youtube.com/watch?v=ew5Hwrcn8HI",
-     "title": "California sues OpenAI over the Hugging Face attack and 80 rogue-agent incidents #Shorts",
-     "channel": "The AI Pin",
-     "views": 156,
-     "age_hours": 14,
-     "relevance": 0.5,
-     "velocity": 11
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T20:36:53.220Z"
-  },
-  {
    "first_seen": "2026-11-19T13:36:26.927Z",
    "id": "39922286",
    "ids": [
@@ -2947,50 +2842,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T13:36:38.469Z"
-  },
-  {
-   "first_seen": "2026-11-17T18:14:12.123Z",
-   "id": "39883055",
-   "ids": [
-    "39883055",
-    "39878354"
-   ],
-   "title": "Jensen Huang Really Liked Selling China Advanced AI Chips",
-   "url": "https://www.lesswrong.com/posts/T3oJfyHEy6uLEJ9FB/jensen-huang-really-liked-selling-china-advanced-ai-chips",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-17 14:50:58",
-   "story_sources": 2,
-   "score_norm": 37,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Jensen Huang Liked Selling China Advanced AI Chips",
-     "url": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling"
-    }
-   ],
-   "queries": [
-    "Jensen Huang Really Liked Selling China Advanced",
-    "jensen huang really liked"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7UX_h-DVUuc",
-     "url": "https://www.youtube.com/watch?v=7UX_h-DVUuc",
-     "title": "Who Took Down Jensen Huang, and Why?",
-     "channel": "The Marrow",
-     "views": 124118,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 2586
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-17T18:14:21.305Z"
   }
  ]
 }
