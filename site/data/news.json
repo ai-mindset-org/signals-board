@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:13:49.291Z",
+ "generated_at": "2026-11-20T04:26:08.004Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Google’s Gemini",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Google’s Gemini",
-   "ok": true
-  },
-  {
-   "source": "youtube: google gemini mac can",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google gemini mac can",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -534,7 +517,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 16:52:01",
    "story_sources": 2,
-   "score_norm": 82,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "algorithmic-bridge",
@@ -1503,7 +1486,7 @@
    "source_id": "openai-blog",
    "published_ts": "2026-11-19 08:00:00",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "hn",
@@ -2290,74 +2273,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-19T02:36:21.220Z"
-  },
-  {
-   "first_seen": "2026-11-17T09:13:08.872Z",
-   "id": "39872592",
-   "ids": [
-    "39872592",
-    "39863189"
-   ],
-   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-   "url": "https://www.hpcwire.com/off-the-wire/nvidia-cuda-x-libraries-give-agents-the-tools-to-accelerate-scientific-discovery/",
-   "source_id": "hpcwire-ai",
-   "published_ts": "2026-11-17 04:13:41",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "x-blogs-nvidia",
-     "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-     "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/"
-    }
-   ],
-   "queries": [
-    "NVIDIA CUDA-X Libraries Give",
-    "nvidia cuda-x libraries give"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cS-gwQaYUY8",
-     "url": "https://www.youtube.com/shorts/cS-gwQaYUY8",
-     "title": "NVIDIA CUDA-X Libraries Now Target Scientific Discovery",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:z-6ERauRwTY",
-     "url": "https://www.youtube.com/shorts/z-6ERauRwTY",
-     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:koDnJaw2ULQ",
-     "url": "https://www.youtube.com/watch?v=koDnJaw2ULQ",
-     "title": "NVIDIA CUDA-X libraries Give Agents Real Science Jobs",
-     "channel": "StartupHub AI",
-     "views": 0,
-     "age_hours": 15,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-17T09:13:16.619Z"
   },
   {
    "first_seen": "2026-11-19T04:13:47.703Z",
