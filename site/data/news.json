@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:36:21.839Z",
+ "generated_at": "2026-11-20T14:12:03.182Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,6 +9,110 @@
  },
  "search_report": [],
  "stories": [
+  {
+   "first_seen": "2026-11-20T11:49:07.887Z",
+   "id": "39930747",
+   "ids": [
+    "39930747",
+    "39943076"
+   ],
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "source_id": "google-ai",
+   "published_ts": "2026-11-19 18:00:00",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "in-techgenyz",
+     "title": "Gemini API Tool Retrieval: 5 Powerful Benefits for Agents",
+     "url": "https://techgenyz.com/gemini-api-tool-retrieval-agent-guide/"
+    }
+   ],
+   "queries": [
+    "Gemini API",
+    "introducing retrieval gemini api"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VumR4oTTSKk",
+     "url": "https://www.youtube.com/shorts/VumR4oTTSKk",
+     "title": "Gemini Now Has A Decisions API",
+     "channel": "",
+     "views": 1900,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mwUsj-ho9aI",
+     "url": "https://www.youtube.com/shorts/mwUsj-ho9aI",
+     "title": "Google's Tool Retrieval Could Change Gemini API Agent Building",
+     "channel": "",
+     "views": 212,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I-3QVm9fmrE",
+     "url": "https://www.youtube.com/shorts/I-3QVm9fmrE",
+     "title": "Gemini API Tool Retrieval: load schemas on demand, cut agent tokens",
+     "channel": "",
+     "views": 77,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hayDjOUkHJY",
+     "url": "https://www.youtube.com/watch?v=hayDjOUkHJY",
+     "title": "Genie 4 now on Gemini API!",
+     "channel": "thorwebdev",
+     "views": 27,
+     "age_hours": 18,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3GGQAPpJECQ",
+     "url": "https://www.youtube.com/watch?v=3GGQAPpJECQ",
+     "title": "Gemini APIのツール定義は後から読める。Tool Retrieval（preview）解説",
+     "channel": "きなこもっちーのテック深掘り",
+     "views": 9,
+     "age_hours": 14,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1PLYb-MA4do",
+     "url": "https://www.youtube.com/shorts/1PLYb-MA4do",
+     "title": "Genie 4 now on Gemini API!",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-20T11:49:15.674Z"
+  },
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
    "id": "39923190",
@@ -118,110 +222,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T11:36:34.323Z"
-  },
-  {
-   "first_seen": "2026-11-20T11:49:07.887Z",
-   "id": "39930747",
-   "ids": [
-    "39930747",
-    "39943076"
-   ],
-   "title": "Introducing Tool Retrieval in the Gemini API",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-   "source_id": "google-ai",
-   "published_ts": "2026-11-19 18:00:00",
-   "story_sources": 2,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "in-techgenyz",
-     "title": "Gemini API Tool Retrieval: 5 Powerful Benefits for Agents",
-     "url": "https://techgenyz.com/gemini-api-tool-retrieval-agent-guide/"
-    }
-   ],
-   "queries": [
-    "Gemini API",
-    "introducing retrieval gemini api"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VumR4oTTSKk",
-     "url": "https://www.youtube.com/shorts/VumR4oTTSKk",
-     "title": "Gemini Now Has A Decisions API",
-     "channel": "",
-     "views": 1900,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mwUsj-ho9aI",
-     "url": "https://www.youtube.com/shorts/mwUsj-ho9aI",
-     "title": "Google's Tool Retrieval Could Change Gemini API Agent Building",
-     "channel": "",
-     "views": 212,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:I-3QVm9fmrE",
-     "url": "https://www.youtube.com/shorts/I-3QVm9fmrE",
-     "title": "Gemini API Tool Retrieval: load schemas on demand, cut agent tokens",
-     "channel": "",
-     "views": 77,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hayDjOUkHJY",
-     "url": "https://www.youtube.com/watch?v=hayDjOUkHJY",
-     "title": "Genie 4 now on Gemini API!",
-     "channel": "thorwebdev",
-     "views": 27,
-     "age_hours": 18,
-     "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3GGQAPpJECQ",
-     "url": "https://www.youtube.com/watch?v=3GGQAPpJECQ",
-     "title": "Gemini APIのツール定義は後から読める。Tool Retrieval（preview）解説",
-     "channel": "きなこもっちーのテック深掘り",
-     "views": 9,
-     "age_hours": 14,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:1PLYb-MA4do",
-     "url": "https://www.youtube.com/shorts/1PLYb-MA4do",
-     "title": "Genie 4 now on Gemini API!",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-20T11:49:15.674Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -556,62 +556,6 @@
    "searched_at": "2026-11-20T07:49:22.631Z"
   },
   {
-   "first_seen": "2026-11-19T08:15:11.746Z",
-   "id": "39917017",
-   "ids": [
-    "39917017",
-    "39899363"
-   ],
-   "title": "Physical AI startup Humyn Labs raises $47M in Series A",
-   "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 07:32:27",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Indian physical AI startup Humyn Labs raises $47m series A",
-     "url": "https://www.techinasia.com/news/indian-physical-ai-startup-humyn-labs-raises-47m-series"
-    }
-   ],
-   "queries": [
-    "Humyn Labs",
-    "physical humyn labs 47m"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tkP7mEeJ5OM",
-     "url": "https://www.youtube.com/shorts/tkP7mEeJ5OM",
-     "title": "Humyn Labs Raises $47M to Supply US Robotics Data #Shorts",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f7Ms3U1_8PY",
-     "url": "https://www.youtube.com/shorts/f7Ms3U1_8PY",
-     "title": "Humyn Labs Raises $47M to Supply US Robotics Companies Training Data #Shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T08:15:19.327Z"
-  },
-  {
    "first_seen": "2026-11-19T18:50:03.332Z",
    "id": "39929117",
    "ids": [
@@ -623,7 +567,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 18:21:13",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "hn",
@@ -715,35 +659,60 @@
    "searched_at": "2026-11-20T13:21:50.182Z"
   },
   {
-   "first_seen": "2026-11-19T05:49:40.748Z",
-   "id": "39915206",
+   "first_seen": "2026-11-19T08:15:11.746Z",
+   "id": "39917017",
    "ids": [
-    "39915206",
-    "39896134"
+    "39917017",
+    "39899363"
    ],
-   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
-   "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
+   "title": "Physical AI startup Humyn Labs raises $47M in Series A",
+   "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a",
    "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 05:23:09",
+   "published_ts": "2026-11-19 07:32:27",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 85,
    "related_news": [
     {
-     "source_id": "in-businessline",
-     "title": "Bajaj Finserv bets $4 million on Indian AI startup Soket AI",
-     "url": "https://www.thehindubusinessline.com/companies/bajaj-finserv-bets-4-million-on-indian-ai-startup-soket-ai/article71715248.ece"
+     "source_id": "sea-techinasia",
+     "title": "Indian physical AI startup Humyn Labs raises $47m series A",
+     "url": "https://www.techinasia.com/news/indian-physical-ai-startup-humyn-labs-raises-47m-series"
     }
    ],
    "queries": [
-    "Bajaj Finserv",
-    "bajaj finserv pennant indian"
+    "Humyn Labs",
+    "physical humyn labs 47m"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tkP7mEeJ5OM",
+     "url": "https://www.youtube.com/shorts/tkP7mEeJ5OM",
+     "title": "Humyn Labs Raises $47M to Supply US Robotics Data #Shorts",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:f7Ms3U1_8PY",
+     "url": "https://www.youtube.com/shorts/f7Ms3U1_8PY",
+     "title": "Humyn Labs Raises $47M to Supply US Robotics Companies Training Data #Shorts",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T05:49:48.400Z"
+   "searched_at": "2026-11-19T08:15:19.327Z"
   },
   {
    "first_seen": "2026-11-19T17:20:20.334Z",
@@ -757,7 +726,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 16:52:01",
    "story_sources": 2,
-   "score_norm": 80,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "algorithmic-bridge",
@@ -848,6 +817,37 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-20T11:49:23.010Z"
+  },
+  {
+   "first_seen": "2026-11-19T05:49:40.748Z",
+   "id": "39915206",
+   "ids": [
+    "39915206",
+    "39896134"
+   ],
+   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
+   "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-19 05:23:09",
+   "story_sources": 2,
+   "score_norm": 81,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Bajaj Finserv bets $4 million on Indian AI startup Soket AI",
+     "url": "https://www.thehindubusinessline.com/companies/bajaj-finserv-bets-4-million-on-indian-ai-startup-soket-ai/article71715248.ece"
+    }
+   ],
+   "queries": [
+    "Bajaj Finserv",
+    "bajaj finserv pennant indian"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-19T05:49:48.400Z"
   },
   {
    "first_seen": "2026-11-18T01:39:45.507Z",
@@ -983,109 +983,6 @@
    "searched_at": "2026-11-17T20:11:49.933Z"
   },
   {
-   "first_seen": "2026-11-17T15:11:47.890Z",
-   "id": "39878678",
-   "ids": [
-    "39878678",
-    "39878592"
-   ],
-   "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
-   "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-17 14:00:00",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Genesis AI Raises $500 Million to Deploy Dexterous Robots",
-     "url": "https://thedefiant.io/frontier/technology/genesis-ai-raises-500-million-to-deploy-dexterous-robots"
-    }
-   ],
-   "queries": [
-    "genesis 500 ai raises"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:18nrxACCspM",
-     "url": "https://www.youtube.com/shorts/18nrxACCspM",
-     "title": "Genesis AI Just Raised $500 Million for This Robot",
-     "channel": "",
-     "views": 284,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NaIEebBc0mE",
-     "url": "https://www.youtube.com/shorts/NaIEebBc0mE",
-     "title": "Genesis AI Raised 500 Million For HUMAN Robots #Shorts",
-     "channel": "",
-     "views": 200,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JUJ3cHgdTXw",
-     "url": "https://www.youtube.com/shorts/JUJ3cHgdTXw",
-     "title": "Genesis AI Raises $500M for Robots With Human-Like Hands — What It Means for You",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:euqB3sRBPnQ",
-     "url": "https://www.youtube.com/shorts/euqB3sRBPnQ",
-     "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3zgy6oRCdXs",
-     "url": "https://www.youtube.com/shorts/3zgy6oRCdXs",
-     "title": "Genesis AI Raised $500 Million to Teach Robots to Use Their Hands",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9M6XhOgTneY",
-     "url": "https://www.youtube.com/shorts/9M6XhOgTneY",
-     "title": "Genesis AI secures 500 million dollars at 3.5 billion dollar valuation",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-18T09:36:27.223Z"
-  },
-  {
    "first_seen": "2026-11-20T09:36:26.454Z",
    "id": "39941333",
    "ids": [
@@ -1097,7 +994,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-20 08:58:20",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
@@ -1263,98 +1160,6 @@
    "searched_at": "2026-11-18T13:21:57.688Z"
   },
   {
-   "first_seen": "2026-11-20T01:39:40.290Z",
-   "id": "39935317",
-   "ids": [
-    "39935317",
-    "39928044"
-   ],
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-19 08:00:00",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "OpenAI's Performance Factory keeps ChatGPT fast",
-     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/"
-    }
-   ],
-   "queries": [
-    "How OpenAI’s Performance Factory",
-    "openai performance factory chatgpt"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CGjfxCrufCE",
-     "url": "https://www.youtube.com/watch?v=CGjfxCrufCE",
-     "title": "OpenAI -- Performance Factory, the Codex System That Hunts ChatGPT Slowdowns",
-     "channel": "AI Papers Podcast Daily",
-     "views": 2,
-     "age_hours": 1,
-     "relevance": 0.67,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KgDNa4dAktk",
-     "url": "https://www.youtube.com/shorts/KgDNa4dAktk",
-     "title": "How OpenAI Keeps ChatGPT Fast with Automation",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jzmUBaPA1aM",
-     "url": "https://www.youtube.com/shorts/jzmUBaPA1aM",
-     "title": "OpenAI: How OpenAI’s Performance Factory keeps ChatGPT fast",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Bmd6fgUJ-qQ",
-     "url": "https://www.youtube.com/shorts/Bmd6fgUJ-qQ",
-     "title": "OpenAI Unveils Performance Factory for ChatGPT Speed",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zXpgE72AjN0",
-     "url": "https://www.youtube.com/watch?v=zXpgE72AjN0",
-     "title": "How OpenAI's Performance Factory Maintains ChatGPT's Performance",
-     "channel": "AI Radio",
-     "views": 0,
-     "age_hours": 10,
-     "relevance": 0.8,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-20T07:49:29.720Z"
-  },
-  {
    "first_seen": "2026-11-20T06:42:19.132Z",
    "id": "39938763",
    "ids": [
@@ -1366,7 +1171,7 @@
    "source_id": "gizmodo-ai",
    "published_ts": "2026-11-20 03:06:47",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "engadget",
@@ -1457,6 +1262,98 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-20T12:49:56.427Z"
+  },
+  {
+   "first_seen": "2026-11-20T01:39:40.290Z",
+   "id": "39935317",
+   "ids": [
+    "39935317",
+    "39928044"
+   ],
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-19 08:00:00",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI's Performance Factory keeps ChatGPT fast",
+     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/"
+    }
+   ],
+   "queries": [
+    "How OpenAI’s Performance Factory",
+    "openai performance factory chatgpt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CGjfxCrufCE",
+     "url": "https://www.youtube.com/watch?v=CGjfxCrufCE",
+     "title": "OpenAI -- Performance Factory, the Codex System That Hunts ChatGPT Slowdowns",
+     "channel": "AI Papers Podcast Daily",
+     "views": 2,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KgDNa4dAktk",
+     "url": "https://www.youtube.com/shorts/KgDNa4dAktk",
+     "title": "How OpenAI Keeps ChatGPT Fast with Automation",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jzmUBaPA1aM",
+     "url": "https://www.youtube.com/shorts/jzmUBaPA1aM",
+     "title": "OpenAI: How OpenAI’s Performance Factory keeps ChatGPT fast",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bmd6fgUJ-qQ",
+     "url": "https://www.youtube.com/shorts/Bmd6fgUJ-qQ",
+     "title": "OpenAI Unveils Performance Factory for ChatGPT Speed",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zXpgE72AjN0",
+     "url": "https://www.youtube.com/watch?v=zXpgE72AjN0",
+     "title": "How OpenAI's Performance Factory Maintains ChatGPT's Performance",
+     "channel": "AI Radio",
+     "views": 0,
+     "age_hours": 10,
+     "relevance": 0.8,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-20T07:49:29.720Z"
   },
   {
    "first_seen": "2026-11-18T11:10:27.751Z",
