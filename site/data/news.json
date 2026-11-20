@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:14:07.446Z",
+ "generated_at": "2026-11-20T19:09:45.006Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Anthropic’s Alpoge",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Anthropic’s Alpoge",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic alpoge claude riemann",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic alpoge claude riemann",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -326,6 +343,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T18:13:00.349Z"
+  },
+  {
+   "first_seen": "2026-11-20T19:09:45.006Z",
+   "id": "39951247",
+   "ids": [
+    "39951247",
+    "39948781"
+   ],
+   "title": "Anthropic’s Alpoge claims Claude found Riemann proof",
+   "url": "https://thecondia.com/anthropic-alpoge-claude-riemann-proof/",
+   "source_id": "africa-benjamindada",
+   "published_ts": "2026-11-20 17:53:45",
+   "story_sources": 2,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic mathematician says he found a Riemann hypothesis proof with Claude",
+     "url": "https://mezha.net/eng/news/mezha-afa36a8ab7438c7b90a0d0c8_anthropic_mathematician_says/"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Alpoge",
+    "anthropic alpoge claude riemann"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8ykcf3h2OUM",
+     "url": "https://www.youtube.com/shorts/8ykcf3h2OUM",
+     "title": "The Riemann hypothesis solved with Claude?",
+     "channel": "",
+     "views": 718,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2BbNv2VwBl8",
+     "url": "https://www.youtube.com/shorts/2BbNv2VwBl8",
+     "title": "Claude Proves Riemann Hypothesis?",
+     "channel": "",
+     "views": 327,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:lYXwsMwxVds",
+     "url": "https://www.youtube.com/shorts/lYXwsMwxVds",
+     "title": "Riemann hypothesis: Anthropic mathematician Levent Alpöge claims he found a proof of the 167-year-ol",
+     "channel": "",
+     "views": 244,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RQm-Wdn7ow8",
+     "url": "https://www.youtube.com/shorts/RQm-Wdn7ow8",
+     "title": "Anthropic mathematician Levent Alpoge claims Claude helped prove the Riemann Hypothesis #Shorts",
+     "channel": "",
+     "views": 114,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CxF50saucno",
+     "url": "https://www.youtube.com/shorts/CxF50saucno",
+     "title": "proof of the Riemann Hypothesis #anthropic #claude #latestnews",
+     "channel": "",
+     "views": 64,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:B4A-Kw3ToT8",
+     "url": "https://www.youtube.com/shorts/B4A-Kw3ToT8",
+     "title": "Riemann Hypothesis Explained: Anthropic Mathematician Claims Proof With Claude AI #shorts",
+     "channel": "",
+     "views": 52,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-20T19:09:52.717Z"
   },
   {
    "first_seen": "2026-11-19T12:16:15.559Z",
@@ -768,7 +889,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-20 08:58:20",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "hn",
