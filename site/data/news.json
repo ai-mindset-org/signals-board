@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:36:25.865Z",
+ "generated_at": "2026-11-20T11:49:07.887Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: Blue Origin",
+   "source": "youtube: Gemini API",
    "ok": true
   },
   {
-   "source": "tiktok: Blue Origin",
+   "source": "tiktok: Gemini API",
    "ok": true
   },
   {
-   "source": "youtube: blue origin google 2029",
+   "source": "youtube: introducing retrieval gemini api",
    "ok": true
   },
   {
-   "source": "tiktok: blue origin google 2029",
+   "source": "tiktok: introducing retrieval gemini api",
+   "ok": true
+  },
+  {
+   "source": "youtube: Wall Street",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Wall Street",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic wall street starts",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic wall street starts",
    "ok": true
   }
  ],
@@ -135,6 +151,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T11:36:34.323Z"
+  },
+  {
+   "first_seen": "2026-11-20T11:49:07.887Z",
+   "id": "39930747",
+   "ids": [
+    "39930747",
+    "39943076"
+   ],
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "source_id": "google-ai",
+   "published_ts": "2026-11-19 18:00:00",
+   "story_sources": 2,
+   "score_norm": 97,
+   "related_news": [
+    {
+     "source_id": "in-techgenyz",
+     "title": "Gemini API Tool Retrieval: 5 Powerful Benefits for Agents",
+     "url": "https://techgenyz.com/gemini-api-tool-retrieval-agent-guide/"
+    }
+   ],
+   "queries": [
+    "Gemini API",
+    "introducing retrieval gemini api"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VumR4oTTSKk",
+     "url": "https://www.youtube.com/shorts/VumR4oTTSKk",
+     "title": "Gemini Now Has A Decisions API",
+     "channel": "",
+     "views": 1900,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mwUsj-ho9aI",
+     "url": "https://www.youtube.com/shorts/mwUsj-ho9aI",
+     "title": "Google's Tool Retrieval Could Change Gemini API Agent Building",
+     "channel": "",
+     "views": 212,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:I-3QVm9fmrE",
+     "url": "https://www.youtube.com/shorts/I-3QVm9fmrE",
+     "title": "Gemini API Tool Retrieval: load schemas on demand, cut agent tokens",
+     "channel": "",
+     "views": 77,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hayDjOUkHJY",
+     "url": "https://www.youtube.com/watch?v=hayDjOUkHJY",
+     "title": "Genie 4 now on Gemini API!",
+     "channel": "thorwebdev",
+     "views": 27,
+     "age_hours": 18,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3GGQAPpJECQ",
+     "url": "https://www.youtube.com/watch?v=3GGQAPpJECQ",
+     "title": "Gemini APIのツール定義は後から読める。Tool Retrieval（preview）解説",
+     "channel": "きなこもっちーのテック深掘り",
+     "views": 9,
+     "age_hours": 14,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:1PLYb-MA4do",
+     "url": "https://www.youtube.com/shorts/1PLYb-MA4do",
+     "title": "Genie 4 now on Gemini API!",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-20T11:49:15.674Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -686,26 +806,50 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:iV73G7r_Yjc",
-     "url": "https://www.youtube.com/watch?v=iV73G7r_Yjc",
-     "title": "🔴 Anthropic IPO LIVE: Biggest IPO In History Starts Trading ($100 Today ??) + NVDA PUMP",
-     "channel": "Martyn Lucas INVESTOR",
-     "views": 34445,
-     "age_hours": 11,
+     "id": "youtube:eFymOqiyaKs",
+     "url": "https://www.youtube.com/watch?v=eFymOqiyaKs",
+     "title": "Anthropic Wins. Wall Street Pays the Price.",
+     "channel": "Markus Koch Wall Street",
+     "views": 95550,
+     "age_hours": 14,
      "relevance": 0.6,
-     "velocity": 3131
+     "velocity": 6825
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:fI9Yp6Uk6sA",
-     "url": "https://www.youtube.com/watch?v=fI9Yp6Uk6sA",
-     "title": "Wall Street ends sharply lower after Anthropic's stock market debut",
-     "channel": "Reuters",
-     "views": 1647,
-     "age_hours": 3,
+     "id": "youtube:eOh0X2IkkXo",
+     "url": "https://www.youtube.com/watch?v=eOh0X2IkkXo",
+     "title": "Crypto beat Wall Street to the Anthropic IPO.",
+     "channel": "Yahoo Finance and The Wolf Of All Streets",
+     "views": 27445,
+     "age_hours": 24,
      "relevance": 0.6,
-     "velocity": 549
+     "velocity": 1144
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7zhguBJre74",
+     "url": "https://www.youtube.com/watch?v=7zhguBJre74",
+     "title": "How Wall Street BROKE the World",
+     "channel": "Finance Bureau",
+     "views": 14932,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 786
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HviyOu7r0Qk",
+     "url": "https://www.youtube.com/watch?v=HviyOu7r0Qk",
+     "title": "How Anthropic’s big day on Wall Street might impact rest of AI industry",
+     "channel": "ABC News",
+     "views": 2448,
+     "age_hours": 6,
+     "relevance": 0.6,
+     "velocity": 408
     },
     {
      "platform": "youtube",
@@ -714,22 +858,10 @@
      "url": "https://www.youtube.com/shorts/KAHXPo87N28",
      "title": "Anthropic just signaled Wall Street is eager to bet on the AI boom",
      "channel": "",
-     "views": 11000,
+     "views": 12000,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:af5qDND5cuI",
-     "url": "https://www.youtube.com/watch?v=af5qDND5cuI",
-     "title": "Anthropic makes historic Wall Street debut—what it means for AI stocks",
-     "channel": "FOX 5 New York",
-     "views": 2142,
-     "age_hours": 14,
-     "relevance": 0.6,
-     "velocity": 153
     },
     {
      "platform": "youtube",
@@ -738,19 +870,7 @@
      "url": "https://www.youtube.com/shorts/zyHAqwp-8oM",
      "title": "Anthropic makes historic Wall Street debut",
      "channel": "",
-     "views": 3600,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9Pk8rnMN0R0",
-     "url": "https://www.youtube.com/shorts/9Pk8rnMN0R0",
-     "title": "Anthropic makes Wall Street history",
-     "channel": "",
-     "views": 51,
+     "views": 6000,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -760,7 +880,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-20T05:36:36.859Z"
+   "searched_at": "2026-11-20T11:49:23.010Z"
   },
   {
    "first_seen": "2026-11-18T01:39:45.507Z",
