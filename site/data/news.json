@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:10:20.329Z",
+ "generated_at": "2026-11-20T11:36:25.865Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Blue Origin",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Blue Origin",
+   "ok": true
+  },
+  {
+   "source": "youtube: blue origin google 2029",
+   "ok": true
+  },
+  {
+   "source": "tiktok: blue origin google 2029",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -43,25 +60,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:PXLAnOevLEg",
-     "url": "https://www.youtube.com/shorts/PXLAnOevLEg",
-     "title": "Google Picks Blue Origin for Space AI Launch",
+     "id": "youtube:fuImFTtqxHs",
+     "url": "https://www.youtube.com/shorts/fuImFTtqxHs",
+     "title": "Why Is Google Putting AI in Space?",
      "channel": "",
-     "views": 311,
+     "views": 1100,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:fuImFTtqxHs",
-     "url": "https://www.youtube.com/shorts/fuImFTtqxHs",
-     "title": "Why Is Google Putting AI in Space?",
+     "id": "youtube:PXLAnOevLEg",
+     "url": "https://www.youtube.com/shorts/PXLAnOevLEg",
+     "title": "Google Picks Blue Origin for Space AI Launch",
      "channel": "",
-     "views": 168,
+     "views": 431,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -71,7 +88,7 @@
      "url": "https://www.youtube.com/shorts/yT8Py9fEBTc",
      "title": "Google Picks Blue Origin’s New Glenn Rocket to Launch Project Suncatcher AI Satellites",
      "channel": "",
-     "views": 66,
+     "views": 79,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -83,7 +100,7 @@
      "url": "https://www.youtube.com/shorts/t88hdOqZ3vw",
      "title": "Google Picks Blue Origin for 2029 AI Research Launch #Shorts",
      "channel": "",
-     "views": 57,
+     "views": 69,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -95,29 +112,29 @@
      "url": "https://www.youtube.com/shorts/fj2uzzvFbbY",
      "title": "Google & Blue Origin to Launch AI Servers to Space in 2029",
      "channel": "",
-     "views": 39,
+     "views": 44,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7Q1ryn0Tg48",
-     "url": "https://www.youtube.com/shorts/7Q1ryn0Tg48",
-     "title": "Google Books Blue Origin to Launch AI Servers Into Space",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:SBiIDU-AyaI",
+     "url": "https://www.youtube.com/watch?v=SBiIDU-AyaI",
+     "title": "Google Picks Blue Origin's New Glenn for Suncatcher Satellites | Orbital Pulse Daily",
+     "channel": "Orbital Pulse",
+     "views": 1,
+     "age_hours": 0.5833333333333334,
+     "relevance": 0.5,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-20T05:23:04.758Z"
+   "searched_at": "2026-11-20T11:36:34.323Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -776,36 +793,6 @@
    "searched_at": "2026-11-18T01:39:49.916Z"
   },
   {
-   "first_seen": "2026-11-20T09:36:26.454Z",
-   "id": "39941333",
-   "ids": [
-    "39941333",
-    "39936192"
-   ],
-   "title": "Why is this Dutch privacy watchdog asking people not to buy AI smart glasses?",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/dutch-privacy-watchdog-ai-smart-glasses-privacy-warning-10971251/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-20 08:58:20",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Dutch watchdog tells people not to buy AI smart glasses",
-     "url": "https://www.bbc.com/news/articles/ckq6eyrzrzy5o"
-    }
-   ],
-   "queries": [
-    "dutch privacy watchdog asking"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-20T09:36:30.953Z"
-  },
-  {
    "first_seen": "2026-11-17T20:11:45.130Z",
    "id": "39885030",
    "ids": [
@@ -907,6 +894,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-17T20:11:49.933Z"
+  },
+  {
+   "first_seen": "2026-11-20T09:36:26.454Z",
+   "id": "39941333",
+   "ids": [
+    "39941333",
+    "39936192"
+   ],
+   "title": "Why is this Dutch privacy watchdog asking people not to buy AI smart glasses?",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/dutch-privacy-watchdog-ai-smart-glasses-privacy-warning-10971251/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-20 08:58:20",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Dutch watchdog tells people not to buy AI smart glasses",
+     "url": "https://www.bbc.com/news/articles/ckq6eyrzrzy5o"
+    }
+   ],
+   "queries": [
+    "dutch privacy watchdog asking"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-20T09:36:30.953Z"
   },
   {
    "first_seen": "2026-11-17T15:11:47.890Z",
@@ -1269,110 +1286,6 @@
    "searched_at": "2026-11-18T08:27:35.274Z"
   },
   {
-   "first_seen": "2026-11-20T06:42:19.132Z",
-   "id": "39938763",
-   "ids": [
-    "39938763",
-    "39930731"
-   ],
-   "title": "Google Employees Petition to Let Schools Use Search Without AI",
-   "url": "https://gizmodo.com/google-employees-petition-to-let-schools-use-search-without-ai-2000842549",
-   "source_id": "gizmodo-ai",
-   "published_ts": "2026-11-20 03:06:47",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Employees call out Google over AI Search in schools",
-     "url": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/"
-    }
-   ],
-   "queries": [
-    "Let Schools Use Search Without",
-    "google employees petition let"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:33RMC8Hz4NA",
-     "url": "https://www.youtube.com/shorts/33RMC8Hz4NA",
-     "title": "“It feels like a hostage situation.” Google threatens to block search in schools that disable AI",
-     "channel": "",
-     "views": 354000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OAEirB6PPdQ",
-     "url": "https://www.youtube.com/watch?v=OAEirB6PPdQ",
-     "title": "NYC schools may abandon google search over AI use",
-     "channel": "Eyewitness News ABC7NY",
-     "views": 4629,
-     "age_hours": 14,
-     "relevance": 0.63,
-     "velocity": 331
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QYnn31cXPcs",
-     "url": "https://www.youtube.com/shorts/QYnn31cXPcs",
-     "title": "Google Will Take Search Away From Schools That Say No To AI",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:H87Kcvo4Mts",
-     "url": "https://www.youtube.com/shorts/H87Kcvo4Mts",
-     "title": "Google Is Making Schools Use AI Search or No Search At All",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:HN9WamGqFsk",
-     "url": "https://www.youtube.com/shorts/HN9WamGqFsk",
-     "title": "Google Search in schools is a leverage play #Shorts",
-     "channel": "",
-     "views": 54,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6VQ52SR_knM",
-     "url": "https://www.youtube.com/shorts/6VQ52SR_knM",
-     "title": "AI News: Schools Rethink Google Search After AI Concerns (Nov 19, 2026)",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-20T06:42:27.699Z"
-  },
-  {
    "first_seen": "2026-11-20T01:39:40.290Z",
    "id": "39935317",
    "ids": [
@@ -1463,6 +1376,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T07:49:29.720Z"
+  },
+  {
+   "first_seen": "2026-11-20T06:42:19.132Z",
+   "id": "39938763",
+   "ids": [
+    "39938763",
+    "39930731"
+   ],
+   "title": "Google Employees Petition to Let Schools Use Search Without AI",
+   "url": "https://gizmodo.com/google-employees-petition-to-let-schools-use-search-without-ai-2000842549",
+   "source_id": "gizmodo-ai",
+   "published_ts": "2026-11-20 03:06:47",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Employees call out Google over AI Search in schools",
+     "url": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/"
+    }
+   ],
+   "queries": [
+    "Let Schools Use Search Without",
+    "google employees petition let"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:33RMC8Hz4NA",
+     "url": "https://www.youtube.com/shorts/33RMC8Hz4NA",
+     "title": "“It feels like a hostage situation.” Google threatens to block search in schools that disable AI",
+     "channel": "",
+     "views": 354000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OAEirB6PPdQ",
+     "url": "https://www.youtube.com/watch?v=OAEirB6PPdQ",
+     "title": "NYC schools may abandon google search over AI use",
+     "channel": "Eyewitness News ABC7NY",
+     "views": 4629,
+     "age_hours": 14,
+     "relevance": 0.63,
+     "velocity": 331
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QYnn31cXPcs",
+     "url": "https://www.youtube.com/shorts/QYnn31cXPcs",
+     "title": "Google Will Take Search Away From Schools That Say No To AI",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:H87Kcvo4Mts",
+     "url": "https://www.youtube.com/shorts/H87Kcvo4Mts",
+     "title": "Google Is Making Schools Use AI Search or No Search At All",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HN9WamGqFsk",
+     "url": "https://www.youtube.com/shorts/HN9WamGqFsk",
+     "title": "Google Search in schools is a leverage play #Shorts",
+     "channel": "",
+     "views": 54,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6VQ52SR_knM",
+     "url": "https://www.youtube.com/shorts/6VQ52SR_knM",
+     "title": "AI News: Schools Rethink Google Search After AI Concerns (Nov 19, 2026)",
+     "channel": "",
+     "views": 38,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-20T06:42:27.699Z"
   },
   {
    "first_seen": "2026-11-18T11:10:27.751Z",
