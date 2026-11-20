@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:49:55.422Z",
+ "generated_at": "2026-11-20T20:21:34.823Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: A Hands-On Performance Review",
+   "source": "youtube: signal 27 android blocks",
    "ok": true
   },
   {
-   "source": "tiktok: A Hands-On Performance Review",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt-6.2 astra sol hands-on",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-6.2 astra sol hands-on",
+   "source": "tiktok: signal 27 android blocks",
    "ok": true
   }
  ],
@@ -670,6 +662,109 @@
    "searched_at": "2026-11-20T13:21:50.182Z"
   },
   {
+   "first_seen": "2026-11-20T20:21:34.823Z",
+   "id": "39952761",
+   "ids": [
+    "39952761",
+    "39950225"
+   ],
+   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+   "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-20 19:50:27",
+   "story_sources": 2,
+   "score_norm": 85,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Signal blocks screenshots to stop AI agents from reading private chats",
+     "url": "https://www.thehindubusinessline.com/info-tech/signal-blocks-screenshots-to-stop-ai-agents-from-reading-private-chats/article71725925.ece"
+    }
+   ],
+   "queries": [
+    "signal 27 android blocks"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HOMYR3KJWZ0",
+     "url": "https://www.youtube.com/watch?v=HOMYR3KJWZ0",
+     "title": "Signal now blocks screenshots by default… so your phone's AI can't read your chats",
+     "channel": "Sitcomexe",
+     "views": 1,
+     "age_hours": 1,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NQE0omCGJ_U",
+     "url": "https://www.youtube.com/shorts/NQE0omCGJ_U",
+     "title": "Signal Now Blocks AI From Reading Your Chats (Not on Mac)",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uBmlpLGgqiE",
+     "url": "https://www.youtube.com/shorts/uBmlpLGgqiE",
+     "title": "Signal Just Blocked Siri and Gemini AI From Reading Your Chats #Shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zcS3taqXCq4",
+     "url": "https://www.youtube.com/shorts/zcS3taqXCq4",
+     "title": "Signal Blocks Screenshots Against AI Agents | AI News Today",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CEpqZ-JT-Cs",
+     "url": "https://www.youtube.com/shorts/CEpqZ-JT-Cs",
+     "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jgcxYyJNYC8",
+     "url": "https://www.youtube.com/shorts/jgcxYyJNYC8",
+     "title": "Signal Blocks Screenshots to Keep AI Agents Out #shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-20T20:21:39.349Z"
+  },
+  {
    "first_seen": "2026-11-19T08:15:11.746Z",
    "id": "39917017",
    "ids": [
@@ -902,7 +997,7 @@
    "source_id": "in-analyticsvidhya",
    "published_ts": "2026-11-20 12:44:52",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "hn",
