@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:27:30.571Z",
+ "generated_at": "2026-11-20T01:11:46.877Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: gemini mac can use",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gemini mac can use",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -377,10 +386,10 @@
      "url": "https://www.youtube.com/watch?v=dp9x8EMAE9I",
      "title": "Turn a Sketch Into a Rigged 3D Model With Computer Use in the Gemini App for Mac",
      "channel": "Google Gemini",
-     "views": 154,
-     "age_hours": 0.5,
+     "views": 9617,
+     "age_hours": 6,
      "relevance": 0.8,
-     "velocity": 154
+     "velocity": 1603
     },
     {
      "platform": "youtube",
@@ -389,21 +398,57 @@
      "url": "https://www.youtube.com/shorts/8y26ERGuR_w",
      "title": "Gemini 4 Hydrogen Is \"Free\"... But Can You Actually Use It?",
      "channel": "",
-     "views": 295,
+     "views": 313,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QEhWhis5i3c",
-     "url": "https://www.youtube.com/shorts/QEhWhis5i3c",
-     "title": "Gemini Computer Use 2026: It Got Hands",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:vgEYrGsicyA",
+     "url": "https://www.youtube.com/watch?v=vgEYrGsicyA",
+     "title": "Google's Gemini Can Now Run Tasks Across Your Mac Apps While You Keep Working",
+     "channel": "Cyber A.I. Pros",
+     "views": 2,
+     "age_hours": 2,
      "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yk_kAd6q7vs",
+     "url": "https://www.youtube.com/watch?v=yk_kAd6q7vs",
+     "title": "Gemini Gets Computer Use on Mac: What Changes | Breaking News",
+     "channel": "Forever Desk",
+     "views": 3,
+     "age_hours": 6,
+     "relevance": 0.8,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:BVs_ZzZOkns",
+     "url": "https://www.youtube.com/shorts/BVs_ZzZOkns",
+     "title": "Gemini Mac app: computer use lets Gemini click, type, navigate menus and fill forms for you across l",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:p401x5LNBtI",
+     "url": "https://www.youtube.com/shorts/p401x5LNBtI",
+     "title": "Gemini Can Now Use Your Mac For You",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 1,
      "velocity": null
     }
    ],
@@ -411,7 +456,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T18:50:07.542Z"
+   "searched_at": "2026-11-20T01:11:50.972Z"
   },
   {
    "first_seen": "2026-11-19T08:15:11.746Z",
@@ -871,6 +916,75 @@
    "searched_at": "2026-11-17T20:11:49.933Z"
   },
   {
+   "first_seen": "2026-11-19T07:49:18.045Z",
+   "id": "39914098",
+   "ids": [
+    "39914098",
+    "39916873",
+    "39920242",
+    "39925330",
+    "39919713",
+    "39916036"
+   ],
+   "title": "Anthropic raises $81.3bn in biggest IPO on record",
+   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
+   "source_id": "eu-techmonitor",
+   "published_ts": "2026-11-19 11:00:48",
+   "story_sources": 4,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
+     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
+    },
+    {
+     "source_id": "eu-siliconrepublic",
+     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
+     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic raises $81B in record IPO",
+     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e"
+    }
+   ],
+   "queries": [
+    "anthropic 81.3bn ipo raises"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:CeNlNfTQvHc",
+     "url": "https://www.youtube.com/shorts/CeNlNfTQvHc",
+     "title": "Anthropic raises more than $81 billion in historic IPO",
+     "channel": "",
+     "views": 4700,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:s-ub1n4Xh98",
+     "url": "https://www.youtube.com/shorts/s-ub1n4Xh98",
+     "title": "Anthropic opens at $111.50 per share in record IPO",
+     "channel": "",
+     "views": 752,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-19T20:12:22.700Z"
+  },
+  {
    "first_seen": "2026-11-17T15:11:47.890Z",
    "id": "39878678",
    "ids": [
@@ -972,75 +1086,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T09:36:27.223Z"
-  },
-  {
-   "first_seen": "2026-11-19T07:49:18.045Z",
-   "id": "39914098",
-   "ids": [
-    "39914098",
-    "39916873",
-    "39920242",
-    "39925330",
-    "39919713",
-    "39916036"
-   ],
-   "title": "Anthropic raises $81.3bn in biggest IPO on record",
-   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-19 11:00:48",
-   "story_sources": 4,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
-     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
-    },
-    {
-     "source_id": "eu-siliconrepublic",
-     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
-     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic raises $81B in record IPO",
-     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e"
-    }
-   ],
-   "queries": [
-    "anthropic 81.3bn ipo raises"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CeNlNfTQvHc",
-     "url": "https://www.youtube.com/shorts/CeNlNfTQvHc",
-     "title": "Anthropic raises more than $81 billion in historic IPO",
-     "channel": "",
-     "views": 4700,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s-ub1n4Xh98",
-     "url": "https://www.youtube.com/shorts/s-ub1n4Xh98",
-     "title": "Anthropic opens at $111.50 per share in record IPO",
-     "channel": "",
-     "views": 752,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T20:12:22.700Z"
   },
   {
    "first_seen": "2026-11-17T11:10:28.641Z",
@@ -1611,6 +1656,61 @@
    "searched_at": "2026-11-18T18:49:50.231Z"
   },
   {
+   "first_seen": "2026-11-18T09:49:29.625Z",
+   "id": "39891510",
+   "ids": [
+    "39891510",
+    "39895850"
+   ],
+   "title": "Nvidia stops selling AI chips to China despite US approval",
+   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-stops-selling-ai-chips-to-china-despite-us-approval/article71714394.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-18 03:18:48",
+   "story_sources": 2,
+   "score_norm": 56,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
+    }
+   ],
+   "queries": [
+    "nvidia china us stops"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7D9BQro_xMQ",
+     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
+     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
+     "channel": "",
+     "views": 28000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GIgfxEotFZA",
+     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
+     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
+     "channel": "Bloomberg Television",
+     "views": 12825,
+     "age_hours": 24,
+     "relevance": 0.56,
+     "velocity": 534
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-18T09:49:34.056Z"
+  },
+  {
    "first_seen": "2026-11-19T21:10:15.456Z",
    "id": "39928229",
    "ids": [
@@ -1622,7 +1722,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-19 17:59:24",
    "story_sources": 2,
-   "score_norm": 56,
+   "score_norm": 55,
    "related_news": [
     {
      "source_id": "hn",
@@ -1713,61 +1813,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T21:10:23.472Z"
-  },
-  {
-   "first_seen": "2026-11-18T09:49:29.625Z",
-   "id": "39891510",
-   "ids": [
-    "39891510",
-    "39895850"
-   ],
-   "title": "Nvidia stops selling AI chips to China despite US approval",
-   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-stops-selling-ai-chips-to-china-despite-us-approval/article71714394.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-18 03:18:48",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china"
-    }
-   ],
-   "queries": [
-    "nvidia china us stops"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7D9BQro_xMQ",
-     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
-     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
-     "channel": "",
-     "views": 28000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GIgfxEotFZA",
-     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
-     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-     "channel": "Bloomberg Television",
-     "views": 12825,
-     "age_hours": 24,
-     "relevance": 0.56,
-     "velocity": 534
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-18T09:49:34.056Z"
   },
   {
    "first_seen": "2026-11-17T20:36:37.117Z",
