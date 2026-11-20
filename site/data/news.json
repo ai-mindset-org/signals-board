@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:16:12.962Z",
+ "generated_at": "2026-11-20T12:49:48.591Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Let Schools Use Search Without",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Let Schools Use Search Without",
+   "ok": true
+  },
+  {
+   "source": "youtube: google employees petition let",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google employees petition let",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -1386,22 +1403,10 @@
      "url": "https://www.youtube.com/shorts/33RMC8Hz4NA",
      "title": "“It feels like a hostage situation.” Google threatens to block search in schools that disable AI",
      "channel": "",
-     "views": 354000,
+     "views": 386000,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OAEirB6PPdQ",
-     "url": "https://www.youtube.com/watch?v=OAEirB6PPdQ",
-     "title": "NYC schools may abandon google search over AI use",
-     "channel": "Eyewitness News ABC7NY",
-     "views": 4629,
-     "age_hours": 14,
-     "relevance": 0.63,
-     "velocity": 331
     },
     {
      "platform": "youtube",
@@ -1410,7 +1415,7 @@
      "url": "https://www.youtube.com/shorts/QYnn31cXPcs",
      "title": "Google Will Take Search Away From Schools That Say No To AI",
      "channel": "",
-     "views": 1200,
+     "views": 1300,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -1434,19 +1439,31 @@
      "url": "https://www.youtube.com/shorts/HN9WamGqFsk",
      "title": "Google Search in schools is a leverage play #Shorts",
      "channel": "",
-     "views": 54,
+     "views": 58,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LNfxbd_9iwY",
+     "url": "https://www.youtube.com/watch?v=LNfxbd_9iwY",
+     "title": "Google Workers Revolt Over AI in Schools",
+     "channel": "The CSEians",
+     "views": 1,
+     "age_hours": 0.6833333333333333,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:6VQ52SR_knM",
-     "url": "https://www.youtube.com/shorts/6VQ52SR_knM",
-     "title": "AI News: Schools Rethink Google Search After AI Concerns (Nov 19, 2026)",
+     "id": "youtube:a_cDrmLkeLs",
+     "url": "https://www.youtube.com/shorts/a_cDrmLkeLs",
+     "title": "Google will cut off Search for schools that opt out of its AI features",
      "channel": "",
-     "views": 38,
+     "views": 33,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1456,7 +1473,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-20T06:42:27.699Z"
+   "searched_at": "2026-11-20T12:49:56.427Z"
   },
   {
    "first_seen": "2026-11-18T11:10:27.751Z",
