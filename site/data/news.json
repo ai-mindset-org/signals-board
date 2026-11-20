@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:21:45.615Z",
+ "generated_at": "2026-11-20T13:36:21.839Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: gemini mac can use",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gemini mac can use",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -2850,109 +2841,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T13:36:31.178Z"
-  },
-  {
-   "first_seen": "2026-11-17T17:35:56.783Z",
-   "id": "39882196",
-   "ids": [
-    "39882196",
-    "39876043"
-   ],
-   "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
-   "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-17 13:31:09",
-   "story_sources": 2,
-   "score_norm": 39,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "US blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
-     "url": "https://www.thehindubusinessline.com/info-tech/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711909.ece"
-    }
-   ],
-   "queries": [
-    "u.s china nvidia blocks"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7D9BQro_xMQ",
-     "url": "https://www.youtube.com/shorts/7D9BQro_xMQ",
-     "title": "US Moves to Curb China’s Remote Access to Nvidia’s Chips",
-     "channel": "",
-     "views": 23000,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GIgfxEotFZA",
-     "url": "https://www.youtube.com/watch?v=GIgfxEotFZA",
-     "title": "US Moves to Curb China's Remote Access to Nvidia's AI Chips",
-     "channel": "Bloomberg Television",
-     "views": 11587,
-     "age_hours": 19,
-     "relevance": 0.67,
-     "velocity": 610
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:HmSLa_nh6aI",
-     "url": "https://www.youtube.com/shorts/HmSLa_nh6aI",
-     "title": "How did Nvidia chips get to China? | 7.30",
-     "channel": "",
-     "views": 4800,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Xe9yDBB4XrI",
-     "url": "https://www.youtube.com/watch?v=Xe9yDBB4XrI",
-     "title": "US Blocks China’s Remote Access to AI Chips After Nvidia Scandal #shorts",
-     "channel": "Global Happenings",
-     "views": 1374,
-     "age_hours": 15,
-     "relevance": 0.8,
-     "velocity": 92
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:HMIh-n4wK2E",
-     "url": "https://www.youtube.com/shorts/HMIh-n4wK2E",
-     "title": "What the Nvidia Scandal Reveals About the U.S.-China AI Race",
-     "channel": "",
-     "views": 1700,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:as-_Uz7GP7o",
-     "url": "https://www.youtube.com/shorts/as-_Uz7GP7o",
-     "title": "Why China Is Refusing Nvidia",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-17T23:36:12.973Z"
   },
   {
    "first_seen": "2026-11-16T23:35:48.308Z",
