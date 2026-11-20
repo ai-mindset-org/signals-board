@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:14:42.780Z",
+ "generated_at": "2026-11-20T08:27:32.116Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: anthropic 81.3bn ipo raises",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic 81.3bn ipo raises",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-19T17:10:04.506Z",
@@ -1865,15 +1874,15 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CeNlNfTQvHc",
-     "url": "https://www.youtube.com/shorts/CeNlNfTQvHc",
-     "title": "Anthropic raises more than $81 billion in historic IPO",
-     "channel": "",
-     "views": 8500,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:qiVxp3XMMcc",
+     "url": "https://www.youtube.com/watch?v=qiVxp3XMMcc",
+     "title": "AI 'doomers' are set to be some of the biggest winners from Anthropic's IPO",
+     "channel": "CNBC Television",
+     "views": 17028,
+     "age_hours": 72,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 237
     },
     {
      "platform": "youtube",
@@ -1882,53 +1891,17 @@
      "url": "https://www.youtube.com/watch?v=Xtapw2EPYW8",
      "title": "AI 'doomers' some of Anthropic IPO's biggest winners",
      "channel": "CNBC Television",
-     "views": 12462,
+     "views": 12631,
      "age_hours": 72,
      "relevance": 0.5,
-     "velocity": 173
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s-ub1n4Xh98",
-     "url": "https://www.youtube.com/shorts/s-ub1n4Xh98",
-     "title": "Anthropic opens at $111.50 per share in record IPO",
-     "channel": "",
-     "views": 3000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ten3czAGBOU",
-     "url": "https://www.youtube.com/watch?v=ten3czAGBOU",
-     "title": "Is the Market Ready for Anthropic's IPO?",
-     "channel": "WSJ Podcasts",
-     "views": 845,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:655oymMOOM0",
-     "url": "https://www.youtube.com/shorts/655oymMOOM0",
-     "title": "Anthropic’s IPO breaks records",
-     "channel": "",
-     "views": 189,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "velocity": 175
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-20T02:15:51.909Z"
+   "searched_at": "2026-11-20T08:27:36.125Z"
   },
   {
    "first_seen": "2026-11-17T20:36:37.117Z",
