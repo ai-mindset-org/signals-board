@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:15:47.588Z",
+ "generated_at": "2026-11-20T03:13:49.291Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic 81.3bn ipo raises",
+   "source": "youtube: Google’s Gemini",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 81.3bn ipo raises",
+   "source": "tiktok: Google’s Gemini",
+   "ok": true
+  },
+  {
+   "source": "youtube: google gemini mac can",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google gemini mac can",
    "ok": true
   }
  ],
@@ -367,7 +375,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-19 18:21:13",
    "story_sources": 2,
-   "score_norm": 86,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "hn",
@@ -1830,11 +1838,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:3IL8YpiM89M",
-     "url": "https://www.youtube.com/shorts/3IL8YpiM89M",
-     "title": "Google launches Gemini 4 Neon",
+     "id": "youtube:226Tb2wrK9w",
+     "url": "https://www.youtube.com/shorts/226Tb2wrK9w",
+     "title": "Google Just Dropped Gemini 4 Neon",
      "channel": "",
-     "views": 112,
+     "views": 78,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1842,49 +1850,49 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:NQB6foVb4ac",
-     "url": "https://www.youtube.com/watch?v=NQB6foVb4ac",
-     "title": "Google’s Gemini 4 Neon Now Takes PDFs and Video at Once + a 32 GB Mac Runs a 180B Model",
-     "channel": "The Machine Economy",
-     "views": 50,
-     "age_hours": 18,
+     "id": "youtube:TSgH0U_C1D0",
+     "url": "https://www.youtube.com/watch?v=TSgH0U_C1D0",
+     "title": "How Google Gemini AI Can Perform Tasks For You on Apple Macintosh",
+     "channel": "Reality PC",
+     "views": 2,
+     "age_hours": 0.9333333333333333,
+     "relevance": 0.67,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AWo0BV7dMFs",
+     "url": "https://www.youtube.com/shorts/AWo0BV7dMFs",
+     "title": "Google Just Gave Gemini Users a Free AI Agent. It Can Call and Buy Things for You.",
+     "channel": "",
+     "views": 49,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:p9ttE21N-Y8",
-     "url": "https://www.youtube.com/shorts/p9ttE21N-Y8",
-     "title": "Gemini: Can It Now Use Your Mac for You? #Gemini #Google #AI",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZAthiiE_egQ",
-     "url": "https://www.youtube.com/shorts/ZAthiiE_egQ",
-     "title": "Google's AI can now use your Mac",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:U5m1xjVKCK8",
-     "url": "https://www.youtube.com/shorts/U5m1xjVKCK8",
-     "title": "Google's Gemini Can Now Control Your Mac! Would You Let AI Use Your Computer?",
-     "channel": "",
+     "kind": "видео",
+     "id": "youtube:vgEYrGsicyA",
+     "url": "https://www.youtube.com/watch?v=vgEYrGsicyA",
+     "title": "Google's Gemini Can Now Run Tasks Across Your Mac Apps While You Keep Working",
+     "channel": "Cyber A.I. Pros",
      "views": 3,
+     "age_hours": 4,
+     "relevance": 0.83,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hd_OBdP2X5k",
+     "url": "https://www.youtube.com/shorts/hd_OBdP2X5k",
+     "title": "Gemini Can Now Use Your Mac For You",
+     "channel": "",
+     "views": 18,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.75,
      "velocity": null
     },
     {
@@ -1894,7 +1902,7 @@
      "url": "https://www.youtube.com/shorts/p401x5LNBtI",
      "title": "Gemini Can Now Use Your Mac For You",
      "channel": "",
-     "views": 2,
+     "views": 15,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -1904,7 +1912,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-19T21:10:23.472Z"
+   "searched_at": "2026-11-20T03:13:57.050Z"
   },
   {
    "first_seen": "2026-11-17T20:36:37.117Z",
