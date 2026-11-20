@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:11:46.877Z",
+ "generated_at": "2026-11-20T01:39:40.290Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: gemini mac can use",
+   "source": "youtube: How OpenAI’s Performance Factory",
    "ok": true
   },
   {
-   "source": "tiktok: gemini mac can use",
+   "source": "tiktok: How OpenAI’s Performance Factory",
+   "ok": true
+  },
+  {
+   "source": "youtube: openai performance factory chatgpt",
+   "ok": true
+  },
+  {
+   "source": "tiktok: openai performance factory chatgpt",
    "ok": true
   }
  ],
@@ -1446,6 +1454,62 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T08:27:35.274Z"
+  },
+  {
+   "first_seen": "2026-11-20T01:39:40.290Z",
+   "id": "39935317",
+   "ids": [
+    "39935317",
+    "39928044"
+   ],
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-19 08:00:00",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "OpenAI's Performance Factory keeps ChatGPT fast",
+     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/"
+    }
+   ],
+   "queries": [
+    "How OpenAI’s Performance Factory",
+    "openai performance factory chatgpt"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Bmd6fgUJ-qQ",
+     "url": "https://www.youtube.com/shorts/Bmd6fgUJ-qQ",
+     "title": "OpenAI Unveils Performance Factory for ChatGPT Speed",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zXpgE72AjN0",
+     "url": "https://www.youtube.com/watch?v=zXpgE72AjN0",
+     "title": "How OpenAI's Performance Factory Maintains ChatGPT's Performance",
+     "channel": "AI Radio",
+     "views": 0,
+     "age_hours": 3,
+     "relevance": 0.8,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-20T01:39:48.438Z"
   },
   {
    "first_seen": "2026-11-18T11:10:27.751Z",
