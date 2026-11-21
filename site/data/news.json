@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:49:35.761Z",
+ "generated_at": "2026-11-21T17:09:18.253Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,121 +7,25 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
- "stories": [
+ "search_report": [
   {
-   "first_seen": "2026-11-20T19:09:45.006Z",
-   "id": "39951247",
-   "ids": [
-    "39951247",
-    "39948781",
-    "39951415",
-    "39951783",
-    "39947378",
-    "39954682",
-    "39964188"
-   ],
-   "title": "Anthropic mathematician says he and Claude proved the Riemann hypothesis",
-   "url": "https://thenextweb.com/news/anthropic-alpoge-claude-riemann-hypothesis-proof-lean",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-21 13:12:58",
-   "story_sources": 3,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "Anthropic Mathematician Claims He’s Solved the Riemann Hypothesis Using Claude",
-     "url": "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic mathematician claims proof of Riemann hypothesis with help of Claude",
-     "url": "https://www.the-independent.com/tech/riemann-hypothesis-solved-levent-alpoge-b3088927.html"
-    }
-   ],
-   "queries": [
-    "anthropic riemann claude researcher"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xjX3jESpZqs",
-     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
-     "title": "Claude JUST solved the Riemann Hypothesis...",
-     "channel": "Wes Roth",
-     "views": 107250,
-     "age_hours": 11,
-     "relevance": 0.75,
-     "velocity": 9750
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:OtZ7tFTVbQQ",
-     "url": "https://www.youtube.com/shorts/OtZ7tFTVbQQ",
-     "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis #Shorts",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:miFpMyWI_ug",
-     "url": "https://www.youtube.com/shorts/miFpMyWI_ug",
-     "title": "Anthropic mathematician says Claude helped prove the Riemann hypothesis. Not confirmed yet",
-     "channel": "",
-     "views": 365,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MyrXmXEauhE",
-     "url": "https://www.youtube.com/shorts/MyrXmXEauhE",
-     "title": "Anthropic employee claims Claude proved the Riemann hypothesis #Shorts",
-     "channel": "",
-     "views": 266,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Px6PXiMDoUw",
-     "url": "https://www.youtube.com/shorts/Px6PXiMDoUw",
-     "title": "Anthropic mathematician says Claude helped prove Riemann",
-     "channel": "",
-     "views": 225,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Gc5MDjwXTG0",
-     "url": "https://www.youtube.com/shorts/Gc5MDjwXTG0",
-     "title": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
-     "channel": "",
-     "views": 196,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T13:35:44.918Z"
+   "source": "youtube: IIT Kharagpur",
+   "ok": true
   },
+  {
+   "source": "tiktok: IIT Kharagpur",
+   "ok": true
+  },
+  {
+   "source": "youtube: google 5m iit kharagpur",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google 5m iit kharagpur",
+   "ok": true
+  }
+ ],
+ "stories": [
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
    "id": "39930747",
@@ -902,6 +806,115 @@
    "searched_at": "2026-11-19T05:49:48.400Z"
   },
   {
+   "first_seen": "2026-11-20T19:09:45.006Z",
+   "id": "39951247",
+   "ids": [
+    "39951247",
+    "39948781",
+    "39951415",
+    "39951783",
+    "39947378",
+    "39954682",
+    "39964188",
+    "39965523"
+   ],
+   "title": "Anthropic researcher claims to solve Riemann Problem with Claude",
+   "url": "https://www.thehindubusinessline.com/info-tech/anthropic-researcher-claims-to-solve-riemann-problem-with-claude/article71729153.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-21 16:08:28",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
+     "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/"
+    }
+   ],
+   "queries": [
+    "anthropic riemann claude researcher"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xjX3jESpZqs",
+     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+     "title": "Claude JUST solved the Riemann Hypothesis...",
+     "channel": "Wes Roth",
+     "views": 107250,
+     "age_hours": 11,
+     "relevance": 0.75,
+     "velocity": 9750
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:OtZ7tFTVbQQ",
+     "url": "https://www.youtube.com/shorts/OtZ7tFTVbQQ",
+     "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis #Shorts",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:miFpMyWI_ug",
+     "url": "https://www.youtube.com/shorts/miFpMyWI_ug",
+     "title": "Anthropic mathematician says Claude helped prove the Riemann hypothesis. Not confirmed yet",
+     "channel": "",
+     "views": 365,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MyrXmXEauhE",
+     "url": "https://www.youtube.com/shorts/MyrXmXEauhE",
+     "title": "Anthropic employee claims Claude proved the Riemann hypothesis #Shorts",
+     "channel": "",
+     "views": 266,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Px6PXiMDoUw",
+     "url": "https://www.youtube.com/shorts/Px6PXiMDoUw",
+     "title": "Anthropic mathematician says Claude helped prove Riemann",
+     "channel": "",
+     "views": 225,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Gc5MDjwXTG0",
+     "url": "https://www.youtube.com/shorts/Gc5MDjwXTG0",
+     "title": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
+     "channel": "",
+     "views": 196,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T13:35:44.918Z"
+  },
+  {
    "first_seen": "2026-11-21T10:49:41.857Z",
    "id": "39961570",
    "ids": [
@@ -933,9 +946,33 @@
      "url": "https://www.youtube.com/shorts/CC3r2dAikwE",
      "title": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
      "channel": "",
-     "views": 137,
+     "views": 274,
      "age_hours": null,
      "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-mixNC-PF6M",
+     "url": "https://www.youtube.com/shorts/-mixNC-PF6M",
+     "title": "Google gives IIT Kharagpur $5M for Al",
+     "channel": "",
+     "views": 88,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kDg5V4w3nI4",
+     "url": "https://www.youtube.com/shorts/kDg5V4w3nI4",
+     "title": "Google Invests $5 Million in IIT Kharagpur for AI Research! 🇮🇳",
+     "channel": "",
+     "views": 40,
+     "age_hours": null,
+     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -945,9 +982,21 @@
      "url": "https://www.youtube.com/shorts/O5d9PiUl_Sg",
      "title": "Google committed $5 million to IIT Kharagpur for advanced AI research. #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 20,
      "age_hours": null,
      "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:18zSm8IMUfU",
+     "url": "https://www.youtube.com/shorts/18zSm8IMUfU",
+     "title": "Google Commits $5 Million to IIT Kharagpur for Applied AI Research",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -955,7 +1004,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T10:49:51.168Z"
+   "searched_at": "2026-11-21T17:09:25.978Z"
   },
   {
    "first_seen": "2026-11-20T19:49:55.422Z",
