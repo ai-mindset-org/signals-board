@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:22:08.509Z",
+ "generated_at": "2026-11-21T09:36:00.039Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Locked Out My Cofounder",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Locked Out My Cofounder",
-   "ok": true
-  },
-  {
-   "source": "youtube: swarm locked out my",
-   "ok": true
-  },
-  {
-   "source": "tiktok: swarm locked out my",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-21T06:49:37.381Z",
@@ -1449,110 +1432,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T07:49:29.720Z"
-  },
-  {
-   "first_seen": "2026-11-18T12:38:36.132Z",
-   "id": "39898568",
-   "ids": [
-    "39898568",
-    "39888347"
-   ],
-   "title": "OpenAI rolls out GPT-6.2 Astra and Sol models",
-   "url": "https://www.techmonitor.ai/news/openai-rolls-out-gpt-6-2-astra-and-sol-models",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-18 09:23:06",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
-     "url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "openai gpt-6.2 astra sol"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C1zYX5jwqq4",
-     "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4",
-     "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
-     "channel": "OpenAI",
-     "views": 307995,
-     "age_hours": 24,
-     "relevance": 0.57,
-     "velocity": 12833
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JVHkb8PTMvc",
-     "url": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
-     "title": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
-     "channel": "Matt Wolfe",
-     "views": 95546,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 5620
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wgWtx1wW6Gk",
-     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
-     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
-     "channel": "Universe of AI",
-     "views": 57556,
-     "age_hours": 19,
-     "relevance": 0.57,
-     "velocity": 3029
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6Sz_8EhZWAc",
-     "url": "https://www.youtube.com/watch?v=6Sz_8EhZWAc",
-     "title": "We Tested OpenAI's GPT-6.2 Astra For 2 Weeks",
-     "channel": "Every",
-     "views": 57030,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 2376
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:QEKUj4snI6U",
-     "url": "https://www.youtube.com/watch?v=QEKUj4snI6U",
-     "title": "GPT-6.2 Astra and Sol Are Here. The Benchmarks Are Wild.",
-     "channel": "AI Tomorrow Desk",
-     "views": 19426,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 845
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ddRTZOai7NU",
-     "url": "https://www.youtube.com/shorts/ddRTZOai7NU",
-     "title": "GPT-6.2 Astra is HEREEEEE",
-     "channel": "",
-     "views": 25000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-18T18:49:50.231Z"
   },
   {
    "first_seen": "2026-11-19T07:49:18.045Z",
