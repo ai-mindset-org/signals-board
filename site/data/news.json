@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T21:49:35.202Z",
+ "generated_at": "2026-11-21T22:20:25.271Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1665,75 +1665,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T16:24:51.784Z"
-  },
-  {
-   "first_seen": "2026-11-18T22:20:32.233Z",
-   "id": "39909716",
-   "ids": [
-    "39909716",
-    "39909306",
-    "39909154",
-    "39910490"
-   ],
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-   "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-18 22:11:15",
-   "story_sources": 2,
-   "score_norm": 51,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
-     "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
-    }
-   ],
-   "queries": [
-    "anthropic ipo 83 reportedly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:KkWYGTSgpfA",
-     "url": "https://www.youtube.com/watch?v=KkWYGTSgpfA",
-     "title": "Anthropic IPO: $17B Revenue",
-     "channel": "Deep Value Investing",
-     "views": 223,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Z4VVCDGiSw4",
-     "url": "https://www.youtube.com/watch?v=Z4VVCDGiSw4",
-     "title": "Anthropic Prices IPO at $83, Valued at $1.5 Trillion #Shorts",
-     "channel": "Dig Deep Tech",
-     "views": 21,
-     "age_hours": 17,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8hUidEg9RP8",
-     "url": "https://www.youtube.com/watch?v=8hUidEg9RP8",
-     "title": "Anthropic IPO Reportedly Priced at $83 a Share | Developing Update",
-     "channel": "Forever Desk",
-     "views": 0,
-     "age_hours": 17,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T16:49:21.015Z"
   },
   {
    "first_seen": "2026-11-21T03:13:28.969Z",
