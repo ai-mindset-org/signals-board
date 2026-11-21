@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:11:28.363Z",
+ "generated_at": "2026-11-21T07:21:42.446Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: anthropic riemann claude researcher",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic riemann claude researcher",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-21T06:49:37.381Z",
@@ -953,39 +962,39 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xjX3jESpZqs",
+     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+     "title": "Claude JUST solved the Riemann Hypothesis...",
+     "channel": "Wes Roth",
+     "views": 54066,
+     "age_hours": 4,
+     "relevance": 0.75,
+     "velocity": 13517
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:4FYyxJpy9dI",
      "url": "https://www.youtube.com/shorts/4FYyxJpy9dI",
      "title": "Claude Just Solved the Riemann Hypothesis. Explained.",
      "channel": "",
-     "views": 5400,
+     "views": 10000,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8ykcf3h2OUM",
-     "url": "https://www.youtube.com/shorts/8ykcf3h2OUM",
-     "title": "The Riemann hypothesis solved with Claude?",
-     "channel": "",
-     "views": 2000,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:oSRY6lACKPw",
-     "url": "https://www.youtube.com/shorts/oSRY6lACKPw",
-     "title": "Claude Just Helped Crack the Riemann Hypothesis?",
-     "channel": "",
-     "views": 1400,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:7CKH4D9Eoms",
+     "url": "https://www.youtube.com/watch?v=7CKH4D9Eoms",
+     "title": "Anthropic's Claude Claimed the Riemann Hypothesis in 250,000 Pages of Code",
+     "channel": "SIMSUE",
+     "views": 505,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 39
     },
     {
      "platform": "youtube",
@@ -994,9 +1003,21 @@
      "url": "https://www.youtube.com/shorts/OtZ7tFTVbQQ",
      "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis #Shorts",
      "channel": "",
-     "views": 901,
+     "views": 992,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IhPZqK1f2nw",
+     "url": "https://www.youtube.com/shorts/IhPZqK1f2nw",
+     "title": "Claude Just Solved the Riemann Hypothesis",
+     "channel": "",
+     "views": 860,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     },
     {
@@ -1006,29 +1027,17 @@
      "url": "https://www.youtube.com/shorts/B4A-Kw3ToT8",
      "title": "Riemann Hypothesis Explained: Anthropic Mathematician Claims Proof With Claude AI #shorts",
      "channel": "",
-     "views": 406,
+     "views": 647,
      "age_hours": null,
      "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GRSxyWi9qow",
-     "url": "https://www.youtube.com/shorts/GRSxyWi9qow",
-     "title": "Did Claude just help prove the Riemann Hypothesis? #riemannhypothesis #claude #anthropic #ai",
-     "channel": "",
-     "views": 259,
-     "age_hours": null,
-     "relevance": 0.5,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-21T01:12:03.970Z"
+   "searched_at": "2026-11-21T07:21:46.508Z"
   },
   {
    "first_seen": "2026-11-20T20:21:34.823Z",
