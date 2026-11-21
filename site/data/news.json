@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:36:33.124Z",
+ "generated_at": "2026-11-21T09:22:08.509Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: signal 27 android blocks",
+   "source": "youtube: Locked Out My Cofounder",
    "ok": true
   },
   {
-   "source": "tiktok: signal 27 android blocks",
+   "source": "tiktok: Locked Out My Cofounder",
+   "ok": true
+  },
+  {
+   "source": "youtube: swarm locked out my",
+   "ok": true
+  },
+  {
+   "source": "tiktok: swarm locked out my",
    "ok": true
   }
  ],
@@ -348,7 +356,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-21 02:35:37",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 99,
    "related_news": [
     {
      "source_id": "hn",
@@ -900,7 +908,7 @@
    "source_id": "lesswrong-feed",
    "published_ts": "2026-11-21 00:33:24",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "hn",
@@ -920,17 +928,17 @@
      "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
      "title": "Gemini 4 Swarm is out of control...",
      "channel": "@WesRoth",
-     "views": 187000,
-     "age_hours": 164.57227305555554,
+     "views": 189000,
+     "age_hours": 170.82137833333334,
      "relevance": 0.5,
-     "velocity": 1136
+     "velocity": 1106
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-21T03:13:37.279Z"
+   "searched_at": "2026-11-21T09:22:18.300Z"
   },
   {
    "first_seen": "2026-11-20T19:09:45.006Z",
@@ -948,7 +956,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-20 21:28:11",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "futurism-ai",
@@ -1051,7 +1059,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-20 19:50:27",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "in-businessline",
