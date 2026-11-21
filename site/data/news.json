@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T03:25:44.754Z",
+ "generated_at": "2026-11-21T04:12:09.162Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,51 +7,74 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: SpaceX-owned Cursor",
+   "ok": true
+  },
+  {
+   "source": "tiktok: SpaceX-owned Cursor",
+   "ok": true
+  },
+  {
+   "source": "youtube: spacex-owned cursor chinese weighs",
+   "ok": true
+  },
+  {
+   "source": "tiktok: spacex-owned cursor chinese weighs",
+   "ok": true
+  }
+ ],
  "stories": [
   {
-   "first_seen": "2026-11-21T03:13:28.969Z",
-   "id": "39956523",
+   "first_seen": "2026-11-21T04:12:09.162Z",
+   "id": "39958332",
    "ids": [
-    "39956523",
-    "39957664"
+    "39958332",
+    "39945898",
+    "39945899"
    ],
-   "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
-   "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-21 00:33:24",
+   "title": "SpaceX-owned Cursor weighs phasing out Chinese AI models",
+   "url": "https://www.techinasia.com/news/spacexowned-cursor-weighs-phasing-chinese-ai-models",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-21 02:35:37",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
-     "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that"
+     "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
+     "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
+    },
+    {
+     "source_id": "hn",
+     "title": "Cursor considering phasing out Chinese AI models",
+     "url": "https://www.cnbc.com/2026/11/20/cursor-"
     }
    ],
    "queries": [
-    "Locked Out My Cofounder",
-    "swarm locked out my"
+    "SpaceX-owned Cursor",
+    "spacex-owned cursor chinese weighs"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:Sc6TriRAGnI",
-     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
-     "title": "Gemini 4 Swarm is out of control...",
-     "channel": "@WesRoth",
-     "views": 187000,
-     "age_hours": 164.57227305555554,
+     "kind": "shorts",
+     "id": "youtube:4FQvMG9XU2w",
+     "url": "https://www.youtube.com/shorts/4FQvMG9XU2w",
+     "title": "Cursor May Drop Chinese AI Models; Composer 2 Is Built on Kimi #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 1136
+     "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T03:13:37.279Z"
+   "searched_at": "2026-11-21T04:12:16.429Z"
   },
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -266,109 +289,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T11:36:34.323Z"
-  },
-  {
-   "first_seen": "2026-11-20T20:21:34.823Z",
-   "id": "39952761",
-   "ids": [
-    "39952761",
-    "39950225"
-   ],
-   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-   "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-20 19:50:27",
-   "story_sources": 2,
-   "score_norm": 94,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Signal blocks screenshots to stop AI agents from reading private chats",
-     "url": "https://www.thehindubusinessline.com/info-tech/signal-blocks-screenshots-to-stop-ai-agents-from-reading-private-chats/article71725925.ece"
-    }
-   ],
-   "queries": [
-    "signal 27 android blocks"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TsWDp1bcvbQ",
-     "url": "https://www.youtube.com/shorts/TsWDp1bcvbQ",
-     "title": "Signal blocks Siri AI: what changes on iOS 27",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NQE0omCGJ_U",
-     "url": "https://www.youtube.com/shorts/NQE0omCGJ_U",
-     "title": "Signal Now Blocks AI From Reading Your Chats (Not on Mac)",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uBmlpLGgqiE",
-     "url": "https://www.youtube.com/shorts/uBmlpLGgqiE",
-     "title": "Signal Just Blocked Siri and Gemini AI From Reading Your Chats #Shorts",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jgcxYyJNYC8",
-     "url": "https://www.youtube.com/shorts/jgcxYyJNYC8",
-     "title": "Signal Blocks Screenshots to Keep AI Agents Out #shorts",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cGyGhMta1CQ",
-     "url": "https://www.youtube.com/shorts/cGyGhMta1CQ",
-     "title": "Signal just blocked screenshots — so AI agents can't read your private chats 📵",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0KR73u3E2eo",
-     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
-     "title": "Signal's iOS 27 screenshot block stops AI agents",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-21T02:35:45.702Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -874,108 +794,48 @@
    "searched_at": "2026-11-19T05:49:48.400Z"
   },
   {
-   "first_seen": "2026-11-20T19:49:55.422Z",
-   "id": "39945719",
+   "first_seen": "2026-11-21T03:13:28.969Z",
+   "id": "39956523",
    "ids": [
-    "39945719",
-    "39952110"
+    "39956523",
+    "39957664"
    ],
-   "title": "GPT-6.2 Astra and Sol: A Hands-On Performance Review",
-   "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-6-2-astra-sol-review/",
-   "source_id": "in-analyticsvidhya",
-   "published_ts": "2026-11-20 12:44:52",
+   "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
+   "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-21 00:33:24",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "GPT-6.2 Sol and Astra review: should you switch?",
-     "url": "https://www.coderabbit.ai/blog/gpt-6-2-sol-and-astra-review"
+     "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
+     "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that"
     }
    ],
    "queries": [
-    "A Hands-On Performance Review",
-    "gpt-6.2 astra sol hands-on"
+    "Locked Out My Cofounder",
+    "swarm locked out my"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wgWtx1wW6Gk",
-     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
-     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
-     "channel": "Universe of AI",
-     "views": 66182,
-     "age_hours": 72,
+     "kind": "с борда",
+     "id": "youtube:Sc6TriRAGnI",
+     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+     "title": "Gemini 4 Swarm is out of control...",
+     "channel": "@WesRoth",
+     "views": 187000,
+     "age_hours": 164.57227305555554,
      "relevance": 0.5,
-     "velocity": 919
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0LAXaUgRKn0",
-     "url": "https://www.youtube.com/watch?v=0LAXaUgRKn0",
-     "title": "[ChatGPT God-Tier Update] GPT-6.2 Astra / Sol Are Finally Here! What’s Evolved? Hands-on Review &...",
-     "channel": "じゅりん│AIビジネス活用塾",
-     "views": 16554,
-     "age_hours": 48,
-     "relevance": 0.83,
-     "velocity": 345
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:2viKnCdnnPY",
-     "url": "https://www.youtube.com/watch?v=2viKnCdnnPY",
-     "title": "GPT-6.2 Astra vs Sol | First Impressions",
-     "channel": "Arena  ",
-     "views": 16276,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 339
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C2pTgjhYLII",
-     "url": "https://www.youtube.com/watch?v=C2pTgjhYLII",
-     "title": "GPT-6.2 Astra and Sol Explained So Simply That Anyone Can Understand",
-     "channel": "Make First Million - Badar Munir",
-     "views": 9504,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 198
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZEK0_ZhNEhI",
-     "url": "https://www.youtube.com/watch?v=ZEK0_ZhNEhI",
-     "title": "GPT-6.2 Astra & Sol... Why are people mad?",
-     "channel": "Mark Santos",
-     "views": 5949,
-     "age_hours": 72,
-     "relevance": 0.6,
-     "velocity": 83
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_dWDeEhFFFo",
-     "url": "https://www.youtube.com/watch?v=_dWDeEhFFFo",
-     "title": "OpenAI Just Dropped GPT-6.2 Astra & Sol?!",
-     "channel": "Julian Goldie SEO",
-     "views": 2745,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 57
+     "velocity": 1136
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-21T02:15:23.295Z"
+   "searched_at": "2026-11-21T03:13:37.279Z"
   },
   {
    "first_seen": "2026-11-20T19:09:45.006Z",
@@ -988,22 +848,17 @@
     "39947378",
     "39954682"
    ],
-   "title": "Anthropic’s Alpoge claims Claude found Riemann proof",
-   "url": "https://thecondia.com/anthropic-alpoge-claude-riemann-proof/",
-   "source_id": "africa-benjamindada",
-   "published_ts": "2026-11-20 17:53:45",
+   "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
+   "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-20 21:28:11",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 78,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Anthropic mathematician claims proof of Riemann hypothesis with help of Claude",
-     "url": "https://www.the-independent.com/tech/riemann-hypothesis-solved-levent-alpoge-b3088927.html"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic mathematician says he found a Riemann hypothesis proof with Claude",
-     "url": "https://mezha.net/eng/news/mezha-afa36a8ab7438c7b90a0d0c8_anthropic_mathematician_says/"
+     "source_id": "futurism-ai",
+     "title": "Anthropic Mathematician Claims He’s Solved the Riemann Hypothesis Using Claude",
+     "url": "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis"
     }
    ],
    "queries": [
@@ -1088,6 +943,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-21T01:12:03.970Z"
+  },
+  {
+   "first_seen": "2026-11-20T20:21:34.823Z",
+   "id": "39952761",
+   "ids": [
+    "39952761",
+    "39950225"
+   ],
+   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+   "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-20 19:50:27",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Signal blocks screenshots to stop AI agents from reading private chats",
+     "url": "https://www.thehindubusinessline.com/info-tech/signal-blocks-screenshots-to-stop-ai-agents-from-reading-private-chats/article71725925.ece"
+    }
+   ],
+   "queries": [
+    "signal 27 android blocks"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TsWDp1bcvbQ",
+     "url": "https://www.youtube.com/shorts/TsWDp1bcvbQ",
+     "title": "Signal blocks Siri AI: what changes on iOS 27",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NQE0omCGJ_U",
+     "url": "https://www.youtube.com/shorts/NQE0omCGJ_U",
+     "title": "Signal Now Blocks AI From Reading Your Chats (Not on Mac)",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uBmlpLGgqiE",
+     "url": "https://www.youtube.com/shorts/uBmlpLGgqiE",
+     "title": "Signal Just Blocked Siri and Gemini AI From Reading Your Chats #Shorts",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jgcxYyJNYC8",
+     "url": "https://www.youtube.com/shorts/jgcxYyJNYC8",
+     "title": "Signal Blocks Screenshots to Keep AI Agents Out #shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cGyGhMta1CQ",
+     "url": "https://www.youtube.com/shorts/cGyGhMta1CQ",
+     "title": "Signal just blocked screenshots — so AI agents can't read your private chats 📵",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0KR73u3E2eo",
+     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
+     "title": "Signal's iOS 27 screenshot block stops AI agents",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-21T02:35:45.702Z"
   },
   {
    "first_seen": "2026-11-18T07:49:34.295Z",
@@ -1235,6 +1193,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T13:21:57.688Z"
+  },
+  {
+   "first_seen": "2026-11-20T19:49:55.422Z",
+   "id": "39945719",
+   "ids": [
+    "39945719",
+    "39952110"
+   ],
+   "title": "GPT-6.2 Astra and Sol: A Hands-On Performance Review",
+   "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-6-2-astra-sol-review/",
+   "source_id": "in-analyticsvidhya",
+   "published_ts": "2026-11-20 12:44:52",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-6.2 Sol and Astra review: should you switch?",
+     "url": "https://www.coderabbit.ai/blog/gpt-6-2-sol-and-astra-review"
+    }
+   ],
+   "queries": [
+    "A Hands-On Performance Review",
+    "gpt-6.2 astra sol hands-on"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wgWtx1wW6Gk",
+     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
+     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
+     "channel": "Universe of AI",
+     "views": 66182,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 919
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0LAXaUgRKn0",
+     "url": "https://www.youtube.com/watch?v=0LAXaUgRKn0",
+     "title": "[ChatGPT God-Tier Update] GPT-6.2 Astra / Sol Are Finally Here! What’s Evolved? Hands-on Review &...",
+     "channel": "じゅりん│AIビジネス活用塾",
+     "views": 16554,
+     "age_hours": 48,
+     "relevance": 0.83,
+     "velocity": 345
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:2viKnCdnnPY",
+     "url": "https://www.youtube.com/watch?v=2viKnCdnnPY",
+     "title": "GPT-6.2 Astra vs Sol | First Impressions",
+     "channel": "Arena  ",
+     "views": 16276,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 339
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:C2pTgjhYLII",
+     "url": "https://www.youtube.com/watch?v=C2pTgjhYLII",
+     "title": "GPT-6.2 Astra and Sol Explained So Simply That Anyone Can Understand",
+     "channel": "Make First Million - Badar Munir",
+     "views": 9504,
+     "age_hours": 48,
+     "relevance": 0.5,
+     "velocity": 198
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ZEK0_ZhNEhI",
+     "url": "https://www.youtube.com/watch?v=ZEK0_ZhNEhI",
+     "title": "GPT-6.2 Astra & Sol... Why are people mad?",
+     "channel": "Mark Santos",
+     "views": 5949,
+     "age_hours": 72,
+     "relevance": 0.6,
+     "velocity": 83
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_dWDeEhFFFo",
+     "url": "https://www.youtube.com/watch?v=_dWDeEhFFFo",
+     "title": "OpenAI Just Dropped GPT-6.2 Astra & Sol?!",
+     "channel": "Julian Goldie SEO",
+     "views": 2745,
+     "age_hours": 48,
+     "relevance": 0.6,
+     "velocity": 57
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T02:15:23.295Z"
   },
   {
    "first_seen": "2026-11-20T06:42:19.132Z",
