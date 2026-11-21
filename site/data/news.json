@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:20:08.740Z",
+ "generated_at": "2026-11-21T17:49:46.527Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Inkling 2 Mini",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Inkling 2 Mini",
+   "ok": true
+  },
+  {
+   "source": "youtube: thinking machines inkling mini",
+   "ok": true
+  },
+  {
+   "source": "tiktok: thinking machines inkling mini",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -652,6 +669,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-20T11:49:23.010Z"
+  },
+  {
+   "first_seen": "2026-11-21T17:49:46.527Z",
+   "id": "39966094",
+   "ids": [
+    "39966094",
+    "39953139"
+   ],
+   "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
+   "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-21 15:49:30",
+   "story_sources": 2,
+   "score_norm": 82,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Thinking Machines Releases Inkling 2 Mini for Local AI",
+     "url": "https://thedefiant.io/frontier/ai/thinking-machines-releases-inkling-2-mini-for-local-ai"
+    }
+   ],
+   "queries": [
+    "Inkling 2 Mini",
+    "thinking machines inkling mini"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OdMpNiByntM",
+     "url": "https://www.youtube.com/watch?v=OdMpNiByntM",
+     "title": "Inkling 2 Mini Is INSANE – Is THIS the BEST Local AI Model?",
+     "channel": "Bijan Bowen",
+     "views": 12271,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 6136
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhFuI1rtRz8",
+     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
+     "title": "Why Everyone Is Talking About Inkling 2 Mini",
+     "channel": "Codedigipt",
+     "views": 5511,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 501
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mDB0hX_PLl0",
+     "url": "https://www.youtube.com/shorts/mDB0hX_PLl0",
+     "title": "Ollama now runs Inkling 2 Mini, a 26B AI model #shorts",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Yfvc27VmbtE",
+     "url": "https://www.youtube.com/shorts/Yfvc27VmbtE",
+     "title": "Inkling 2 Mini: A 26.4B AI Model That Runs Locally! 🤯 #Shorts",
+     "channel": "",
+     "views": 943,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fMZ8j3qrr3k",
+     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
+     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
+     "channel": "",
+     "views": 847,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sKJFZbuF9CA",
+     "url": "https://www.youtube.com/watch?v=sKJFZbuF9CA",
+     "title": "Inkling 2 Mini: The 20GB Local AI Model That Thinks Without Words",
+     "channel": "AutMa8",
+     "views": 135,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 12
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T17:49:54.382Z"
   },
   {
    "first_seen": "2026-11-19T05:49:40.748Z",
