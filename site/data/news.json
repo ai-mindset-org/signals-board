@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:36:00.039Z",
+ "generated_at": "2026-11-21T10:20:30.406Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: SpaceX-owned Cursor",
+   "ok": true
+  },
+  {
+   "source": "tiktok: SpaceX-owned Cursor",
+   "ok": true
+  },
+  {
+   "source": "youtube: spacex-owned cursor chinese weighs",
+   "ok": true
+  },
+  {
+   "source": "tiktok: spacex-owned cursor chinese weighs",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-21T06:49:37.381Z",
@@ -359,12 +376,24 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:riyq4EFW_s0",
+     "url": "https://www.youtube.com/watch?v=riyq4EFW_s0",
+     "title": "Cursor exploring phase-out of Chinese AI models, joint House report says #Shorts",
+     "channel": "That Was Yesterday",
+     "views": 11,
+     "age_hours": 0.9833333333333333,
+     "relevance": 0.5,
+     "velocity": 11
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:4FQvMG9XU2w",
      "url": "https://www.youtube.com/shorts/4FQvMG9XU2w",
      "title": "Cursor May Drop Chinese AI Models; Composer 2 Is Built on Kimi #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 15,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -374,7 +403,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T04:12:16.429Z"
+   "searched_at": "2026-11-21T10:20:38.091Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
