@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:35:40.649Z",
+ "generated_at": "2026-11-21T14:49:33.628Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,70 +9,132 @@
  },
  "search_report": [
   {
-   "source": "youtube: anthropic riemann claude researcher",
+   "source": "youtube: signal 27 android blocks",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic riemann claude researcher",
+   "source": "tiktok: signal 27 android blocks",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-21T10:49:41.857Z",
-   "id": "39961570",
+   "first_seen": "2026-11-20T19:09:45.006Z",
+   "id": "39951247",
    "ids": [
-    "39961570",
-    "39960305"
+    "39951247",
+    "39948781",
+    "39951415",
+    "39951783",
+    "39947378",
+    "39954682",
+    "39964188"
    ],
-   "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
-   "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-21 08:23:27",
-   "story_sources": 2,
+   "title": "Anthropic mathematician says he and Claude proved the Riemann hypothesis",
+   "url": "https://thenextweb.com/news/anthropic-alpoge-claude-riemann-hypothesis-proof-lean",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-21 13:12:58",
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "in-businessline",
-     "title": "Google to provide IIT Kharagpur $5 million for advanced AI research",
-     "url": "https://www.thehindubusinessline.com/news/education/google-to-provide-iit-kharagpur-5-million-for-advanced-ai-research/article71727711.ece"
+     "source_id": "futurism-ai",
+     "title": "Anthropic Mathematician Claims He’s Solved the Riemann Hypothesis Using Claude",
+     "url": "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic mathematician claims proof of Riemann hypothesis with help of Claude",
+     "url": "https://www.the-independent.com/tech/riemann-hypothesis-solved-levent-alpoge-b3088927.html"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic mathematician says he found a Riemann hypothesis proof with Claude",
+     "url": "https://mezha.net/eng/news/mezha-afa36a8ab7438c7b90a0d0c8_anthropic_mathematician_says/"
     }
    ],
    "queries": [
-    "IIT Kharagpur",
-    "google 5m iit kharagpur"
+    "anthropic riemann claude researcher"
    ],
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xjX3jESpZqs",
+     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+     "title": "Claude JUST solved the Riemann Hypothesis...",
+     "channel": "Wes Roth",
+     "views": 107250,
+     "age_hours": 11,
+     "relevance": 0.75,
+     "velocity": 9750
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:CC3r2dAikwE",
-     "url": "https://www.youtube.com/shorts/CC3r2dAikwE",
-     "title": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
+     "id": "youtube:OtZ7tFTVbQQ",
+     "url": "https://www.youtube.com/shorts/OtZ7tFTVbQQ",
+     "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis #Shorts",
      "channel": "",
-     "views": 137,
+     "views": 1000,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:O5d9PiUl_Sg",
-     "url": "https://www.youtube.com/shorts/O5d9PiUl_Sg",
-     "title": "Google committed $5 million to IIT Kharagpur for advanced AI research. #Shorts",
+     "id": "youtube:miFpMyWI_ug",
+     "url": "https://www.youtube.com/shorts/miFpMyWI_ug",
+     "title": "Anthropic mathematician says Claude helped prove the Riemann hypothesis. Not confirmed yet",
      "channel": "",
-     "views": 0,
+     "views": 365,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MyrXmXEauhE",
+     "url": "https://www.youtube.com/shorts/MyrXmXEauhE",
+     "title": "Anthropic employee claims Claude proved the Riemann hypothesis #Shorts",
+     "channel": "",
+     "views": 266,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Px6PXiMDoUw",
+     "url": "https://www.youtube.com/shorts/Px6PXiMDoUw",
+     "title": "Anthropic mathematician says Claude helped prove Riemann",
+     "channel": "",
+     "views": 225,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Gc5MDjwXTG0",
+     "url": "https://www.youtube.com/shorts/Gc5MDjwXTG0",
+     "title": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
+     "channel": "",
+     "views": 196,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-21T10:49:51.168Z"
+   "searched_at": "2026-11-21T13:35:44.918Z"
   },
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -287,109 +349,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T11:36:34.323Z"
-  },
-  {
-   "first_seen": "2026-11-21T06:49:37.381Z",
-   "id": "39959420",
-   "ids": [
-    "39959420",
-    "39947260"
-   ],
-   "title": "Signal restricts screenshots to block AI agents from reading messages",
-   "url": "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-21 05:24:56",
-   "story_sources": 2,
-   "score_norm": 93,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Signal restricts screenshots to block AI from reading messages",
-     "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/"
-    }
-   ],
-   "queries": [
-    "signal restricts screenshots block"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zdVeuLzQQTA",
-     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
-     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
-     "channel": "",
-     "views": 69,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2_4JWuHLXTs",
-     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
-     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5PjqrgDJ9Hc",
-     "url": "https://www.youtube.com/shorts/5PjqrgDJ9Hc",
-     "title": "Signal Restricts Mobile Screenshots to Limit AI Access to Messages",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:k1Syd5N6B6k",
-     "url": "https://www.youtube.com/shorts/k1Syd5N6B6k",
-     "title": "Why Signal Just Blocked Your iPhone Screenshots",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZqrbPQ3f3NA",
-     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
-     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1hEyF44dHQ",
-     "url": "https://www.youtube.com/shorts/D1hEyF44dHQ",
-     "title": "Signal restricts screenshots to limit AI assistants' access to private chats #Shorts",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-21T13:09:50.343Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
@@ -957,236 +916,38 @@
    "searched_at": "2026-11-19T05:49:48.400Z"
   },
   {
-   "first_seen": "2026-11-20T19:09:45.006Z",
-   "id": "39951247",
+   "first_seen": "2026-11-21T10:49:41.857Z",
+   "id": "39961570",
    "ids": [
-    "39951247",
-    "39948781",
-    "39951415",
-    "39951783",
-    "39947378",
-    "39954682"
+    "39961570",
+    "39960305"
    ],
-   "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
-   "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-20 21:28:11",
+   "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
+   "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-21 08:23:27",
    "story_sources": 2,
-   "score_norm": 75,
-   "related_news": [
-    {
-     "source_id": "futurism-ai",
-     "title": "Anthropic Mathematician Claims He’s Solved the Riemann Hypothesis Using Claude",
-     "url": "https://futurism.com/artificial-intelligence/anthropic-riemann-hypothesis"
-    }
-   ],
-   "queries": [
-    "anthropic riemann claude researcher"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xjX3jESpZqs",
-     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
-     "title": "Claude JUST solved the Riemann Hypothesis...",
-     "channel": "Wes Roth",
-     "views": 107250,
-     "age_hours": 11,
-     "relevance": 0.75,
-     "velocity": 9750
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:OtZ7tFTVbQQ",
-     "url": "https://www.youtube.com/shorts/OtZ7tFTVbQQ",
-     "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis #Shorts",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:miFpMyWI_ug",
-     "url": "https://www.youtube.com/shorts/miFpMyWI_ug",
-     "title": "Anthropic mathematician says Claude helped prove the Riemann hypothesis. Not confirmed yet",
-     "channel": "",
-     "views": 365,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MyrXmXEauhE",
-     "url": "https://www.youtube.com/shorts/MyrXmXEauhE",
-     "title": "Anthropic employee claims Claude proved the Riemann hypothesis #Shorts",
-     "channel": "",
-     "views": 266,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Px6PXiMDoUw",
-     "url": "https://www.youtube.com/shorts/Px6PXiMDoUw",
-     "title": "Anthropic mathematician says Claude helped prove Riemann",
-     "channel": "",
-     "views": 225,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Gc5MDjwXTG0",
-     "url": "https://www.youtube.com/shorts/Gc5MDjwXTG0",
-     "title": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
-     "channel": "",
-     "views": 196,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T13:35:44.918Z"
-  },
-  {
-   "first_seen": "2026-11-21T03:13:28.969Z",
-   "id": "39956523",
-   "ids": [
-    "39956523",
-    "39957664"
-   ],
-   "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
-   "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-21 00:33:24",
-   "story_sources": 2,
-   "score_norm": 74,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
-     "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that"
-    }
-   ],
-   "queries": [
-    "Locked Out My Cofounder",
-    "swarm locked out my"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:Sc6TriRAGnI",
-     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
-     "title": "Gemini 4 Swarm is out of control...",
-     "channel": "@WesRoth",
-     "views": 189000,
-     "age_hours": 170.82137833333334,
-     "relevance": 0.5,
-     "velocity": 1106
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T09:22:18.300Z"
-  },
-  {
-   "first_seen": "2026-11-20T20:21:34.823Z",
-   "id": "39952761",
-   "ids": [
-    "39952761",
-    "39950225"
-   ],
-   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-   "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-20 19:50:27",
-   "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "in-businessline",
-     "title": "Signal blocks screenshots to stop AI agents from reading private chats",
-     "url": "https://www.thehindubusinessline.com/info-tech/signal-blocks-screenshots-to-stop-ai-agents-from-reading-private-chats/article71725925.ece"
+     "title": "Google to provide IIT Kharagpur $5 million for advanced AI research",
+     "url": "https://www.thehindubusinessline.com/news/education/google-to-provide-iit-kharagpur-5-million-for-advanced-ai-research/article71727711.ece"
     }
    ],
    "queries": [
-    "signal 27 android blocks"
+    "IIT Kharagpur",
+    "google 5m iit kharagpur"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:0KR73u3E2eo",
-     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
-     "title": "Signal's iOS 27 screenshot block stops AI agents",
+     "id": "youtube:CC3r2dAikwE",
+     "url": "https://www.youtube.com/shorts/CC3r2dAikwE",
+     "title": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
      "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TsWDp1bcvbQ",
-     "url": "https://www.youtube.com/shorts/TsWDp1bcvbQ",
-     "title": "Signal blocks Siri AI: what changes on iOS 27",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZqrbPQ3f3NA",
-     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
-     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.73,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NQE0omCGJ_U",
-     "url": "https://www.youtube.com/shorts/NQE0omCGJ_U",
-     "title": "Signal Now Blocks AI From Reading Your Chats (Not on Mac)",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ra2u5gQSDlk",
-     "url": "https://www.youtube.com/shorts/ra2u5gQSDlk",
-     "title": "Signal blocks screenshots so AI agents can't read chats",
-     "channel": "",
-     "views": 6,
+     "views": 137,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1194,13 +955,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:CEpqZ-JT-Cs",
-     "url": "https://www.youtube.com/shorts/CEpqZ-JT-Cs",
-     "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+     "id": "youtube:O5d9PiUl_Sg",
+     "url": "https://www.youtube.com/shorts/O5d9PiUl_Sg",
+     "title": "Google committed $5 million to IIT Kharagpur for advanced AI research. #Shorts",
      "channel": "",
      "views": 0,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -1208,7 +969,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T08:36:37.247Z"
+   "searched_at": "2026-11-21T10:49:51.168Z"
   },
   {
    "first_seen": "2026-11-20T19:49:55.422Z",
@@ -1509,6 +1270,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T07:49:29.720Z"
+  },
+  {
+   "first_seen": "2026-11-21T06:49:37.381Z",
+   "id": "39959420",
+   "ids": [
+    "39959420",
+    "39947260"
+   ],
+   "title": "Signal restricts screenshots to block AI agents from reading messages",
+   "url": "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-21 05:24:56",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Signal restricts screenshots to block AI from reading messages",
+     "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/"
+    }
+   ],
+   "queries": [
+    "signal restricts screenshots block"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zdVeuLzQQTA",
+     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
+     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
+     "channel": "",
+     "views": 69,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2_4JWuHLXTs",
+     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
+     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
+     "channel": "",
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5PjqrgDJ9Hc",
+     "url": "https://www.youtube.com/shorts/5PjqrgDJ9Hc",
+     "title": "Signal Restricts Mobile Screenshots to Limit AI Access to Messages",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:k1Syd5N6B6k",
+     "url": "https://www.youtube.com/shorts/k1Syd5N6B6k",
+     "title": "Why Signal Just Blocked Your iPhone Screenshots",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZqrbPQ3f3NA",
+     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
+     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1hEyF44dHQ",
+     "url": "https://www.youtube.com/shorts/D1hEyF44dHQ",
+     "title": "Signal restricts screenshots to limit AI assistants' access to private chats #Shorts",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-21T13:09:50.343Z"
   },
   {
    "first_seen": "2026-11-19T07:49:18.045Z",
@@ -1882,6 +1746,50 @@
    "searched_at": "2026-11-20T15:49:31.655Z"
   },
   {
+   "first_seen": "2026-11-21T03:13:28.969Z",
+   "id": "39956523",
+   "ids": [
+    "39956523",
+    "39957664"
+   ],
+   "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
+   "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-21 00:33:24",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
+     "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that"
+    }
+   ],
+   "queries": [
+    "Locked Out My Cofounder",
+    "swarm locked out my"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:Sc6TriRAGnI",
+     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+     "title": "Gemini 4 Swarm is out of control...",
+     "channel": "@WesRoth",
+     "views": 189000,
+     "age_hours": 170.82137833333334,
+     "relevance": 0.5,
+     "velocity": 1106
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T09:22:18.300Z"
+  },
+  {
    "first_seen": "2026-11-19T04:13:47.703Z",
    "id": "39914202",
    "ids": [
@@ -2066,6 +1974,109 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T16:24:37.064Z"
+  },
+  {
+   "first_seen": "2026-11-20T20:21:34.823Z",
+   "id": "39952761",
+   "ids": [
+    "39952761",
+    "39950225"
+   ],
+   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+   "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-20 19:50:27",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Signal blocks screenshots to stop AI agents from reading private chats",
+     "url": "https://www.thehindubusinessline.com/info-tech/signal-blocks-screenshots-to-stop-ai-agents-from-reading-private-chats/article71725925.ece"
+    }
+   ],
+   "queries": [
+    "signal 27 android blocks"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TsWDp1bcvbQ",
+     "url": "https://www.youtube.com/shorts/TsWDp1bcvbQ",
+     "title": "Signal blocks Siri AI: what changes on iOS 27",
+     "channel": "",
+     "views": 21,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0KR73u3E2eo",
+     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
+     "title": "Signal's iOS 27 screenshot block stops AI agents",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZqrbPQ3f3NA",
+     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
+     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.73,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NQE0omCGJ_U",
+     "url": "https://www.youtube.com/shorts/NQE0omCGJ_U",
+     "title": "Signal Now Blocks AI From Reading Your Chats (Not on Mac)",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ra2u5gQSDlk",
+     "url": "https://www.youtube.com/shorts/ra2u5gQSDlk",
+     "title": "Signal blocks screenshots so AI agents can't read chats",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:no-3MiGf-yI",
+     "url": "https://www.youtube.com/shorts/no-3MiGf-yI",
+     "title": "Signal now blocks Gemini and Siri from reading your chats",
+     "channel": "",
+     "views": 3,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-21T14:49:37.663Z"
   },
   {
    "first_seen": "2026-11-19T20:49:49.488Z",
