@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:12:09.162Z",
+ "generated_at": "2026-11-21T05:49:23.180Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: SpaceX-owned Cursor",
-   "ok": true
-  },
-  {
-   "source": "tiktok: SpaceX-owned Cursor",
-   "ok": true
-  },
-  {
-   "source": "youtube: spacex-owned cursor chinese weighs",
-   "ok": true
-  },
-  {
-   "source": "tiktok: spacex-owned cursor chinese weighs",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-21T04:12:09.162Z",
@@ -956,7 +939,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-20 19:50:27",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1048,109 +1031,6 @@
    "searched_at": "2026-11-21T02:35:45.702Z"
   },
   {
-   "first_seen": "2026-11-18T07:49:34.295Z",
-   "id": "39894404",
-   "ids": [
-    "39894404",
-    "39883591"
-   ],
-   "title": "Microsoft unveils AI models for coding, cybersecurity",
-   "url": "https://www.techinasia.com/news/microsoft-unveils-ai-models-coding-cybersecurity",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-18 05:46:45",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Microsoft unveils AI models for coding, cybersecurity",
-     "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
-    }
-   ],
-   "queries": [
-    "microsoft unveils ai models"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ez0Pdj972c8",
-     "url": "https://www.youtube.com/watch?v=ez0Pdj972c8",
-     "title": "Microsoft Unveils New AI Models: Claims Rival-Level Performance At Lower Cost | WION",
-     "channel": "WION",
-     "views": 1676,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 279
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PjSkJ5eQA-M",
-     "url": "https://www.youtube.com/shorts/PjSkJ5eQA-M",
-     "title": "Microsoft takes on OpenAI and Anthropic with seven new AI models at Ignite 2026",
-     "channel": "",
-     "views": 195,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TEkBILOEXqE",
-     "url": "https://www.youtube.com/shorts/TEkBILOEXqE",
-     "title": "Microsoft Launches New AI Models to Challenge OpenAI and Anthropic",
-     "channel": "",
-     "views": 100,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NyhVW9DG1Lo",
-     "url": "https://www.youtube.com/shorts/NyhVW9DG1Lo",
-     "title": "Microsoft Unveils 6 Specialized AI Models at Ignite",
-     "channel": "",
-     "views": 64,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Rgpdvoxyta0",
-     "url": "https://www.youtube.com/shorts/Rgpdvoxyta0",
-     "title": "Microsoft Just Revealed 7 NEW AI Models! 🤯 | Ignite 2026 #Shorts",
-     "channel": "",
-     "views": 63,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:s8nw2FsCy04",
-     "url": "https://www.youtube.com/shorts/s8nw2FsCy04",
-     "title": "Microsoft Just Dropped 7 AI Models | AI Facts #79",
-     "channel": "",
-     "views": 28,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-18T13:50:10.196Z"
-  },
-  {
    "first_seen": "2026-11-18T07:12:49.981Z",
    "id": "39894047",
    "ids": [
@@ -1206,7 +1086,7 @@
    "source_id": "in-analyticsvidhya",
    "published_ts": "2026-11-20 12:44:52",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "hn",
