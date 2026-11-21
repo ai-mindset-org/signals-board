@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:20:25.271Z",
+ "generated_at": "2026-11-21T23:09:42.501Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,113 +7,25 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
- "stories": [
+ "search_report": [
   {
-   "first_seen": "2026-11-21T17:49:46.527Z",
-   "id": "39966094",
-   "ids": [
-    "39966094",
-    "39953139",
-    "39968326"
-   ],
-   "title": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
-   "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
-   "source_id": "x-feeds-feedburner",
-   "published_ts": "2026-11-21 18:29:36",
-   "story_sources": 2,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
-     "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop"
-    }
-   ],
-   "queries": [
-    "Inkling 2 Mini",
-    "thinking machines inkling mini"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OdMpNiByntM",
-     "url": "https://www.youtube.com/watch?v=OdMpNiByntM",
-     "title": "Inkling 2 Mini Is INSANE – Is THIS the BEST Local AI Model?",
-     "channel": "Bijan Bowen",
-     "views": 12271,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 6136
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zhFuI1rtRz8",
-     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
-     "title": "Why Everyone Is Talking About Inkling 2 Mini",
-     "channel": "Codedigipt",
-     "views": 5511,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 501
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mDB0hX_PLl0",
-     "url": "https://www.youtube.com/shorts/mDB0hX_PLl0",
-     "title": "Ollama now runs Inkling 2 Mini, a 26B AI model #shorts",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Yfvc27VmbtE",
-     "url": "https://www.youtube.com/shorts/Yfvc27VmbtE",
-     "title": "Inkling 2 Mini: A 26.4B AI Model That Runs Locally! 🤯 #Shorts",
-     "channel": "",
-     "views": 943,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fMZ8j3qrr3k",
-     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
-     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
-     "channel": "",
-     "views": 847,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sKJFZbuF9CA",
-     "url": "https://www.youtube.com/watch?v=sKJFZbuF9CA",
-     "title": "Inkling 2 Mini: The 20GB Local AI Model That Thinks Without Words",
-     "channel": "AutMa8",
-     "views": 135,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 12
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T17:49:54.382Z"
+   "source": "youtube: IIT Kharagpur",
+   "ok": true
   },
+  {
+   "source": "tiktok: IIT Kharagpur",
+   "ok": true
+  },
+  {
+   "source": "youtube: google 5m iit kharagpur",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google 5m iit kharagpur",
+   "ok": true
+  }
+ ],
+ "stories": [
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
    "id": "39930747",
@@ -327,6 +239,111 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T11:36:34.323Z"
+  },
+  {
+   "first_seen": "2026-11-21T17:49:46.527Z",
+   "id": "39966094",
+   "ids": [
+    "39966094",
+    "39953139",
+    "39968326"
+   ],
+   "title": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+   "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+   "source_id": "x-feeds-feedburner",
+   "published_ts": "2026-11-21 18:29:36",
+   "story_sources": 2,
+   "score_norm": 99,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
+     "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop"
+    }
+   ],
+   "queries": [
+    "Inkling 2 Mini",
+    "thinking machines inkling mini"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OdMpNiByntM",
+     "url": "https://www.youtube.com/watch?v=OdMpNiByntM",
+     "title": "Inkling 2 Mini Is INSANE – Is THIS the BEST Local AI Model?",
+     "channel": "Bijan Bowen",
+     "views": 12271,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 6136
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhFuI1rtRz8",
+     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
+     "title": "Why Everyone Is Talking About Inkling 2 Mini",
+     "channel": "Codedigipt",
+     "views": 5511,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 501
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mDB0hX_PLl0",
+     "url": "https://www.youtube.com/shorts/mDB0hX_PLl0",
+     "title": "Ollama now runs Inkling 2 Mini, a 26B AI model #shorts",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Yfvc27VmbtE",
+     "url": "https://www.youtube.com/shorts/Yfvc27VmbtE",
+     "title": "Inkling 2 Mini: A 26.4B AI Model That Runs Locally! 🤯 #Shorts",
+     "channel": "",
+     "views": 943,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fMZ8j3qrr3k",
+     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
+     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
+     "channel": "",
+     "views": 847,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sKJFZbuF9CA",
+     "url": "https://www.youtube.com/watch?v=sKJFZbuF9CA",
+     "title": "Inkling 2 Mini: The 20GB Local AI Model That Thinks Without Words",
+     "channel": "AutMa8",
+     "views": 135,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 12
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T17:49:54.382Z"
   },
   {
    "first_seen": "2026-11-20T19:09:45.006Z",
@@ -931,7 +948,7 @@
      "url": "https://www.youtube.com/shorts/CC3r2dAikwE",
      "title": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
      "channel": "",
-     "views": 274,
+     "views": 400,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -943,7 +960,7 @@
      "url": "https://www.youtube.com/shorts/-mixNC-PF6M",
      "title": "Google gives IIT Kharagpur $5M for Al",
      "channel": "",
-     "views": 88,
+     "views": 105,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -955,9 +972,21 @@
      "url": "https://www.youtube.com/shorts/kDg5V4w3nI4",
      "title": "Google Invests $5 Million in IIT Kharagpur for AI Research! 🇮🇳",
      "channel": "",
-     "views": 40,
+     "views": 65,
      "age_hours": null,
      "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:qRg-WE0E8Q8",
+     "url": "https://www.youtube.com/shorts/qRg-WE0E8Q8",
+     "title": "Google Just Put $5 Million Into This Indian IIT for AI Research #Shorts",
+     "channel": "",
+     "views": 60,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     },
     {
@@ -967,7 +996,7 @@
      "url": "https://www.youtube.com/shorts/O5d9PiUl_Sg",
      "title": "Google committed $5 million to IIT Kharagpur for advanced AI research. #Shorts",
      "channel": "",
-     "views": 20,
+     "views": 35,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -979,7 +1008,7 @@
      "url": "https://www.youtube.com/shorts/18zSm8IMUfU",
      "title": "Google Commits $5 Million to IIT Kharagpur for Applied AI Research",
      "channel": "",
-     "views": 0,
+     "views": 1,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
@@ -989,7 +1018,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T17:09:25.978Z"
+   "searched_at": "2026-11-21T23:09:50.220Z"
   },
   {
    "first_seen": "2026-11-20T19:49:55.422Z",
