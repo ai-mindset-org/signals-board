@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:49:41.857Z",
+ "generated_at": "2026-11-21T13:09:46.330Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: IIT Kharagpur",
+   "source": "youtube: signal restricts screenshots block",
    "ok": true
   },
   {
-   "source": "tiktok: IIT Kharagpur",
-   "ok": true
-  },
-  {
-   "source": "youtube: google 5m iit kharagpur",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google 5m iit kharagpur",
+   "source": "tiktok: signal restricts screenshots block",
    "ok": true
   }
  ],
@@ -427,11 +419,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:2_4JWuHLXTs",
-     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
-     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
+     "id": "youtube:zdVeuLzQQTA",
+     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
+     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
      "channel": "",
-     "views": 22,
+     "views": 69,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -439,11 +431,47 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:zdVeuLzQQTA",
-     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
-     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
+     "id": "youtube:2_4JWuHLXTs",
+     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
+     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
      "channel": "",
-     "views": 20,
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5PjqrgDJ9Hc",
+     "url": "https://www.youtube.com/shorts/5PjqrgDJ9Hc",
+     "title": "Signal Restricts Mobile Screenshots to Limit AI Access to Messages",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:k1Syd5N6B6k",
+     "url": "https://www.youtube.com/shorts/k1Syd5N6B6k",
+     "title": "Why Signal Just Blocked Your iPhone Screenshots",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZqrbPQ3f3NA",
+     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
+     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
+     "channel": "",
+     "views": 18,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -459,49 +487,13 @@
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0KR73u3E2eo",
-     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
-     "title": "Signal's iOS 27 screenshot block stops AI agents",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jgcxYyJNYC8",
-     "url": "https://www.youtube.com/shorts/jgcxYyJNYC8",
-     "title": "Signal Blocks Screenshots to Keep AI Agents Out #shorts",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:StVbELYmcp4",
-     "url": "https://www.youtube.com/shorts/StVbELYmcp4",
-     "title": "Signal blocks screenshots by default to stop AI agents reading private chats #Shorts",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T06:49:41.634Z"
+   "searched_at": "2026-11-21T13:09:50.343Z"
   },
   {
    "first_seen": "2026-11-21T04:12:09.162Z",
@@ -516,7 +508,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-21 02:35:37",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "hn",
@@ -965,50 +957,6 @@
    "searched_at": "2026-11-19T05:49:48.400Z"
   },
   {
-   "first_seen": "2026-11-21T03:13:28.969Z",
-   "id": "39956523",
-   "ids": [
-    "39956523",
-    "39957664"
-   ],
-   "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
-   "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-21 00:33:24",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
-     "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that"
-    }
-   ],
-   "queries": [
-    "Locked Out My Cofounder",
-    "swarm locked out my"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:Sc6TriRAGnI",
-     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
-     "title": "Gemini 4 Swarm is out of control...",
-     "channel": "@WesRoth",
-     "views": 189000,
-     "age_hours": 170.82137833333334,
-     "relevance": 0.5,
-     "velocity": 1106
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T09:22:18.300Z"
-  },
-  {
    "first_seen": "2026-11-20T19:09:45.006Z",
    "id": "39951247",
    "ids": [
@@ -1024,7 +972,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-20 21:28:11",
    "story_sources": 2,
-   "score_norm": 73,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "futurism-ai",
@@ -1116,6 +1064,50 @@
    "searched_at": "2026-11-21T07:21:46.508Z"
   },
   {
+   "first_seen": "2026-11-21T03:13:28.969Z",
+   "id": "39956523",
+   "ids": [
+    "39956523",
+    "39957664"
+   ],
+   "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
+   "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-21 00:33:24",
+   "story_sources": 2,
+   "score_norm": 74,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
+     "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that"
+    }
+   ],
+   "queries": [
+    "Locked Out My Cofounder",
+    "swarm locked out my"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:Sc6TriRAGnI",
+     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+     "title": "Gemini 4 Swarm is out of control...",
+     "channel": "@WesRoth",
+     "views": 189000,
+     "age_hours": 170.82137833333334,
+     "relevance": 0.5,
+     "velocity": 1106
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T09:22:18.300Z"
+  },
+  {
    "first_seen": "2026-11-20T20:21:34.823Z",
    "id": "39952761",
    "ids": [
@@ -1127,7 +1119,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-20 19:50:27",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "in-businessline",
