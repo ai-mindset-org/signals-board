@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:10:10.790Z",
+ "generated_at": "2026-11-21T21:35:33.093Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,43 +7,27 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Riemann Problem",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Riemann Problem",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic riemann problem claude",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic riemann problem claude",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
    "id": "39966094",
    "ids": [
     "39966094",
-    "39953139"
+    "39953139",
+    "39968326"
    ],
-   "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
-   "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-21 15:49:30",
+   "title": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+   "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+   "source_id": "x-feeds-feedburner",
+   "published_ts": "2026-11-21 18:29:36",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "x-thedefiant-io",
-     "title": "Thinking Machines Releases Inkling 2 Mini for Local AI",
-     "url": "https://thedefiant.io/frontier/ai/thinking-machines-releases-inkling-2-mini-for-local-ai"
+     "source_id": "eu-tnw",
+     "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
+     "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop"
     }
    ],
    "queries": [
@@ -927,7 +911,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-21 08:23:27",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "in-businessline",
