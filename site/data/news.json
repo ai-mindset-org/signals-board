@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:15:10.737Z",
+ "generated_at": "2026-11-21T02:35:41.853Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: A Hands-On Performance Review",
+   "source": "youtube: signal 27 android blocks",
    "ok": true
   },
   {
-   "source": "tiktok: A Hands-On Performance Review",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt-6.2 astra sol hands-on",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-6.2 astra sol hands-on",
+   "source": "tiktok: signal 27 android blocks",
    "ok": true
   }
  ],
@@ -266,15 +258,15 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HOMYR3KJWZ0",
-     "url": "https://www.youtube.com/watch?v=HOMYR3KJWZ0",
-     "title": "Signal now blocks screenshots by default… so your phone's AI can't read your chats",
-     "channel": "Sitcomexe",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 0.5,
-     "velocity": 1
+     "kind": "shorts",
+     "id": "youtube:TsWDp1bcvbQ",
+     "url": "https://www.youtube.com/shorts/TsWDp1bcvbQ",
+     "title": "Signal blocks Siri AI: what changes on iOS 27",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -283,7 +275,7 @@
      "url": "https://www.youtube.com/shorts/NQE0omCGJ_U",
      "title": "Signal Now Blocks AI From Reading Your Chats (Not on Mac)",
      "channel": "",
-     "views": 6,
+     "views": 10,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
@@ -295,33 +287,9 @@
      "url": "https://www.youtube.com/shorts/uBmlpLGgqiE",
      "title": "Signal Just Blocked Siri and Gemini AI From Reading Your Chats #Shorts",
      "channel": "",
-     "views": 5,
+     "views": 10,
      "age_hours": null,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zcS3taqXCq4",
-     "url": "https://www.youtube.com/shorts/zcS3taqXCq4",
-     "title": "Signal Blocks Screenshots Against AI Agents | AI News Today",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CEpqZ-JT-Cs",
-     "url": "https://www.youtube.com/shorts/CEpqZ-JT-Cs",
-     "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
      "velocity": null
     },
     {
@@ -331,7 +299,31 @@
      "url": "https://www.youtube.com/shorts/jgcxYyJNYC8",
      "title": "Signal Blocks Screenshots to Keep AI Agents Out #shorts",
      "channel": "",
-     "views": 0,
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:cGyGhMta1CQ",
+     "url": "https://www.youtube.com/shorts/cGyGhMta1CQ",
+     "title": "Signal just blocked screenshots — so AI agents can't read your private chats 📵",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0KR73u3E2eo",
+     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
+     "title": "Signal's iOS 27 screenshot block stops AI agents",
+     "channel": "",
+     "views": 4,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
@@ -341,7 +333,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-20T20:21:39.349Z"
+   "searched_at": "2026-11-21T02:35:45.702Z"
   },
   {
    "first_seen": "2026-11-18T18:12:47.706Z",
