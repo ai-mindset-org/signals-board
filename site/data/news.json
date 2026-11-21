@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:09:58.186Z",
+ "generated_at": "2026-11-21T01:11:59.929Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: anthropic riemann claude researcher",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic riemann claude researcher",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -841,7 +850,7 @@
    "source_id": "in-analyticsvidhya",
    "published_ts": "2026-11-20 12:44:52",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "hn",
@@ -949,7 +958,7 @@
    "source_id": "africa-benjamindada",
    "published_ts": "2026-11-20 17:53:45",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
@@ -963,10 +972,21 @@
     }
    ],
    "queries": [
-    "Anthropic’s Alpoge",
-    "anthropic alpoge claude riemann"
+    "anthropic riemann claude researcher"
    ],
    "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4FYyxJpy9dI",
+     "url": "https://www.youtube.com/shorts/4FYyxJpy9dI",
+     "title": "Claude Just Solved the Riemann Hypothesis. Explained.",
+     "channel": "",
+     "views": 5400,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
     {
      "platform": "youtube",
      "kind": "shorts",
@@ -974,57 +994,33 @@
      "url": "https://www.youtube.com/shorts/8ykcf3h2OUM",
      "title": "The Riemann hypothesis solved with Claude?",
      "channel": "",
-     "views": 718,
+     "views": 2000,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:oSRY6lACKPw",
+     "url": "https://www.youtube.com/shorts/oSRY6lACKPw",
+     "title": "Claude Just Helped Crack the Riemann Hypothesis?",
+     "channel": "",
+     "views": 1400,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:OtZ7tFTVbQQ",
+     "url": "https://www.youtube.com/shorts/OtZ7tFTVbQQ",
+     "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis #Shorts",
+     "channel": "",
+     "views": 901,
      "age_hours": null,
      "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2BbNv2VwBl8",
-     "url": "https://www.youtube.com/shorts/2BbNv2VwBl8",
-     "title": "Claude Proves Riemann Hypothesis?",
-     "channel": "",
-     "views": 327,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lYXwsMwxVds",
-     "url": "https://www.youtube.com/shorts/lYXwsMwxVds",
-     "title": "Riemann hypothesis: Anthropic mathematician Levent Alpöge claims he found a proof of the 167-year-ol",
-     "channel": "",
-     "views": 244,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RQm-Wdn7ow8",
-     "url": "https://www.youtube.com/shorts/RQm-Wdn7ow8",
-     "title": "Anthropic mathematician Levent Alpoge claims Claude helped prove the Riemann Hypothesis #Shorts",
-     "channel": "",
-     "views": 114,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CxF50saucno",
-     "url": "https://www.youtube.com/shorts/CxF50saucno",
-     "title": "proof of the Riemann Hypothesis #anthropic #claude #latestnews",
-     "channel": "",
-     "views": 64,
-     "age_hours": null,
-     "relevance": 0.67,
      "velocity": null
     },
     {
@@ -1034,9 +1030,21 @@
      "url": "https://www.youtube.com/shorts/B4A-Kw3ToT8",
      "title": "Riemann Hypothesis Explained: Anthropic Mathematician Claims Proof With Claude AI #shorts",
      "channel": "",
-     "views": 52,
+     "views": 406,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GRSxyWi9qow",
+     "url": "https://www.youtube.com/shorts/GRSxyWi9qow",
+     "title": "Did Claude just help prove the Riemann Hypothesis? #riemannhypothesis #claude #anthropic #ai",
+     "channel": "",
+     "views": 259,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -1044,7 +1052,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-20T19:09:52.717Z"
+   "searched_at": "2026-11-21T01:12:03.970Z"
   },
   {
    "first_seen": "2026-11-18T07:49:34.295Z",
