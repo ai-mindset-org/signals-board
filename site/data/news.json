@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:35:41.853Z",
+ "generated_at": "2026-11-21T03:13:28.969Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,15 +9,67 @@
  },
  "search_report": [
   {
-   "source": "youtube: signal 27 android blocks",
+   "source": "youtube: Locked Out My Cofounder",
    "ok": true
   },
   {
-   "source": "tiktok: signal 27 android blocks",
+   "source": "tiktok: Locked Out My Cofounder",
+   "ok": true
+  },
+  {
+   "source": "youtube: swarm locked out my",
+   "ok": true
+  },
+  {
+   "source": "tiktok: swarm locked out my",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-21T03:13:28.969Z",
+   "id": "39956523",
+   "ids": [
+    "39956523",
+    "39957664"
+   ],
+   "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
+   "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-21 00:33:24",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
+     "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that"
+    }
+   ],
+   "queries": [
+    "Locked Out My Cofounder",
+    "swarm locked out my"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:Sc6TriRAGnI",
+     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+     "title": "Gemini 4 Swarm is out of control...",
+     "channel": "@WesRoth",
+     "views": 187000,
+     "age_hours": 164.57227305555554,
+     "relevance": 0.5,
+     "velocity": 1136
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T03:13:37.279Z"
+  },
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
    "id": "39930747",
@@ -244,7 +296,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-20 19:50:27",
    "story_sources": 2,
-   "score_norm": 95,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -850,7 +902,7 @@
    "source_id": "in-analyticsvidhya",
    "published_ts": "2026-11-20 12:44:52",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "hn",
@@ -958,7 +1010,7 @@
    "source_id": "africa-benjamindada",
    "published_ts": "2026-11-20 17:53:45",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "hn",
