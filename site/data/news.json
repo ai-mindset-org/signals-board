@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:49:46.527Z",
+ "generated_at": "2026-11-21T20:10:10.790Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,23 +9,127 @@
  },
  "search_report": [
   {
-   "source": "youtube: Inkling 2 Mini",
+   "source": "youtube: Riemann Problem",
    "ok": true
   },
   {
-   "source": "tiktok: Inkling 2 Mini",
+   "source": "tiktok: Riemann Problem",
    "ok": true
   },
   {
-   "source": "youtube: thinking machines inkling mini",
+   "source": "youtube: anthropic riemann problem claude",
    "ok": true
   },
   {
-   "source": "tiktok: thinking machines inkling mini",
+   "source": "tiktok: anthropic riemann problem claude",
    "ok": true
   }
  ],
  "stories": [
+  {
+   "first_seen": "2026-11-21T17:49:46.527Z",
+   "id": "39966094",
+   "ids": [
+    "39966094",
+    "39953139"
+   ],
+   "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
+   "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-21 15:49:30",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Thinking Machines Releases Inkling 2 Mini for Local AI",
+     "url": "https://thedefiant.io/frontier/ai/thinking-machines-releases-inkling-2-mini-for-local-ai"
+    }
+   ],
+   "queries": [
+    "Inkling 2 Mini",
+    "thinking machines inkling mini"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:OdMpNiByntM",
+     "url": "https://www.youtube.com/watch?v=OdMpNiByntM",
+     "title": "Inkling 2 Mini Is INSANE – Is THIS the BEST Local AI Model?",
+     "channel": "Bijan Bowen",
+     "views": 12271,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 6136
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhFuI1rtRz8",
+     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
+     "title": "Why Everyone Is Talking About Inkling 2 Mini",
+     "channel": "Codedigipt",
+     "views": 5511,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 501
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mDB0hX_PLl0",
+     "url": "https://www.youtube.com/shorts/mDB0hX_PLl0",
+     "title": "Ollama now runs Inkling 2 Mini, a 26B AI model #shorts",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Yfvc27VmbtE",
+     "url": "https://www.youtube.com/shorts/Yfvc27VmbtE",
+     "title": "Inkling 2 Mini: A 26.4B AI Model That Runs Locally! 🤯 #Shorts",
+     "channel": "",
+     "views": 943,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fMZ8j3qrr3k",
+     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
+     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
+     "channel": "",
+     "views": 847,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sKJFZbuF9CA",
+     "url": "https://www.youtube.com/watch?v=sKJFZbuF9CA",
+     "title": "Inkling 2 Mini: The 20GB Local AI Model That Thinks Without Words",
+     "channel": "AutMa8",
+     "views": 135,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 12
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T17:49:54.382Z"
+  },
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
    "id": "39930747",
@@ -239,6 +343,116 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T11:36:34.323Z"
+  },
+  {
+   "first_seen": "2026-11-20T19:09:45.006Z",
+   "id": "39951247",
+   "ids": [
+    "39951247",
+    "39948781",
+    "39951415",
+    "39951783",
+    "39947378",
+    "39954682",
+    "39964188",
+    "39965523"
+   ],
+   "title": "Anthropic researcher claims to solve Riemann Problem with Claude",
+   "url": "https://www.thehindubusinessline.com/info-tech/anthropic-researcher-claims-to-solve-riemann-problem-with-claude/article71729153.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-21 16:08:28",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "siliconangle-ai",
+     "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
+     "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/"
+    }
+   ],
+   "queries": [
+    "Riemann Problem",
+    "anthropic riemann problem claude"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xjX3jESpZqs",
+     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+     "title": "Claude JUST solved the Riemann Hypothesis...",
+     "channel": "Wes Roth",
+     "views": 138362,
+     "age_hours": 17,
+     "relevance": 0.5,
+     "velocity": 8139
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2BbNv2VwBl8",
+     "url": "https://www.youtube.com/shorts/2BbNv2VwBl8",
+     "title": "Claude Proves Riemann Hypothesis?",
+     "channel": "",
+     "views": 135000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:9_9XAvlOaFI",
+     "url": "https://www.youtube.com/watch?v=9_9XAvlOaFI",
+     "title": "Anthropic Just Did WHAT?! (Claude vs a 167-Year-Old Problem)",
+     "channel": "Universe of AI",
+     "views": 20797,
+     "age_hours": 20,
+     "relevance": 0.5,
+     "velocity": 1040
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IhPZqK1f2nw",
+     "url": "https://www.youtube.com/shorts/IhPZqK1f2nw",
+     "title": "Claude Just Solved the Riemann Hypothesis",
+     "channel": "",
+     "views": 4400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9cTqyKJEONw",
+     "url": "https://www.youtube.com/shorts/9cTqyKJEONw",
+     "title": "Can AI Solve the Riemann Hypothesis? Claude Takes On Math's Hardest Unsolved Problem",
+     "channel": "",
+     "views": 3000,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-7FlLeYDYxQ",
+     "url": "https://www.youtube.com/shorts/-7FlLeYDYxQ",
+     "title": "Anthropic's mathematician claims Claude solved the Riemann Hypothesis | BREAKING",
+     "channel": "",
+     "views": 3000,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-21T20:10:18.885Z"
   },
   {
    "first_seen": "2026-11-21T04:12:09.162Z",
@@ -671,110 +885,6 @@
    "searched_at": "2026-11-20T11:49:23.010Z"
   },
   {
-   "first_seen": "2026-11-21T17:49:46.527Z",
-   "id": "39966094",
-   "ids": [
-    "39966094",
-    "39953139"
-   ],
-   "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
-   "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-21 15:49:30",
-   "story_sources": 2,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Thinking Machines Releases Inkling 2 Mini for Local AI",
-     "url": "https://thedefiant.io/frontier/ai/thinking-machines-releases-inkling-2-mini-for-local-ai"
-    }
-   ],
-   "queries": [
-    "Inkling 2 Mini",
-    "thinking machines inkling mini"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:OdMpNiByntM",
-     "url": "https://www.youtube.com/watch?v=OdMpNiByntM",
-     "title": "Inkling 2 Mini Is INSANE – Is THIS the BEST Local AI Model?",
-     "channel": "Bijan Bowen",
-     "views": 12271,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 6136
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zhFuI1rtRz8",
-     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
-     "title": "Why Everyone Is Talking About Inkling 2 Mini",
-     "channel": "Codedigipt",
-     "views": 5511,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 501
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mDB0hX_PLl0",
-     "url": "https://www.youtube.com/shorts/mDB0hX_PLl0",
-     "title": "Ollama now runs Inkling 2 Mini, a 26B AI model #shorts",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Yfvc27VmbtE",
-     "url": "https://www.youtube.com/shorts/Yfvc27VmbtE",
-     "title": "Inkling 2 Mini: A 26.4B AI Model That Runs Locally! 🤯 #Shorts",
-     "channel": "",
-     "views": 943,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fMZ8j3qrr3k",
-     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
-     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
-     "channel": "",
-     "views": 847,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sKJFZbuF9CA",
-     "url": "https://www.youtube.com/watch?v=sKJFZbuF9CA",
-     "title": "Inkling 2 Mini: The 20GB Local AI Model That Thinks Without Words",
-     "channel": "AutMa8",
-     "views": 135,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 12
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T17:49:54.382Z"
-  },
-  {
    "first_seen": "2026-11-19T05:49:40.748Z",
    "id": "39915206",
    "ids": [
@@ -806,115 +916,6 @@
    "searched_at": "2026-11-19T05:49:48.400Z"
   },
   {
-   "first_seen": "2026-11-20T19:09:45.006Z",
-   "id": "39951247",
-   "ids": [
-    "39951247",
-    "39948781",
-    "39951415",
-    "39951783",
-    "39947378",
-    "39954682",
-    "39964188",
-    "39965523"
-   ],
-   "title": "Anthropic researcher claims to solve Riemann Problem with Claude",
-   "url": "https://www.thehindubusinessline.com/info-tech/anthropic-researcher-claims-to-solve-riemann-problem-with-claude/article71729153.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-21 16:08:28",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "siliconangle-ai",
-     "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
-     "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/"
-    }
-   ],
-   "queries": [
-    "anthropic riemann claude researcher"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xjX3jESpZqs",
-     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
-     "title": "Claude JUST solved the Riemann Hypothesis...",
-     "channel": "Wes Roth",
-     "views": 107250,
-     "age_hours": 11,
-     "relevance": 0.75,
-     "velocity": 9750
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:OtZ7tFTVbQQ",
-     "url": "https://www.youtube.com/shorts/OtZ7tFTVbQQ",
-     "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis #Shorts",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:miFpMyWI_ug",
-     "url": "https://www.youtube.com/shorts/miFpMyWI_ug",
-     "title": "Anthropic mathematician says Claude helped prove the Riemann hypothesis. Not confirmed yet",
-     "channel": "",
-     "views": 365,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MyrXmXEauhE",
-     "url": "https://www.youtube.com/shorts/MyrXmXEauhE",
-     "title": "Anthropic employee claims Claude proved the Riemann hypothesis #Shorts",
-     "channel": "",
-     "views": 266,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Px6PXiMDoUw",
-     "url": "https://www.youtube.com/shorts/Px6PXiMDoUw",
-     "title": "Anthropic mathematician says Claude helped prove Riemann",
-     "channel": "",
-     "views": 225,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Gc5MDjwXTG0",
-     "url": "https://www.youtube.com/shorts/Gc5MDjwXTG0",
-     "title": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
-     "channel": "",
-     "views": 196,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T13:35:44.918Z"
-  },
-  {
    "first_seen": "2026-11-21T10:49:41.857Z",
    "id": "39961570",
    "ids": [
@@ -926,7 +927,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-21 08:23:27",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "in-businessline",
