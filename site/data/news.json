@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:20:30.406Z",
+ "generated_at": "2026-11-21T10:49:41.857Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,117 +9,70 @@
  },
  "search_report": [
   {
-   "source": "youtube: SpaceX-owned Cursor",
+   "source": "youtube: IIT Kharagpur",
    "ok": true
   },
   {
-   "source": "tiktok: SpaceX-owned Cursor",
+   "source": "tiktok: IIT Kharagpur",
    "ok": true
   },
   {
-   "source": "youtube: spacex-owned cursor chinese weighs",
+   "source": "youtube: google 5m iit kharagpur",
    "ok": true
   },
   {
-   "source": "tiktok: spacex-owned cursor chinese weighs",
+   "source": "tiktok: google 5m iit kharagpur",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-21T06:49:37.381Z",
-   "id": "39959420",
+   "first_seen": "2026-11-21T10:49:41.857Z",
+   "id": "39961570",
    "ids": [
-    "39959420",
-    "39947260"
+    "39961570",
+    "39960305"
    ],
-   "title": "Signal restricts screenshots to block AI agents from reading messages",
-   "url": "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-21 05:24:56",
+   "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
+   "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-21 08:23:27",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Signal restricts screenshots to block AI from reading messages",
-     "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/"
+     "source_id": "in-businessline",
+     "title": "Google to provide IIT Kharagpur $5 million for advanced AI research",
+     "url": "https://www.thehindubusinessline.com/news/education/google-to-provide-iit-kharagpur-5-million-for-advanced-ai-research/article71727711.ece"
     }
    ],
    "queries": [
-    "signal restricts screenshots block"
+    "IIT Kharagpur",
+    "google 5m iit kharagpur"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:2_4JWuHLXTs",
-     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
-     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
+     "id": "youtube:CC3r2dAikwE",
+     "url": "https://www.youtube.com/shorts/CC3r2dAikwE",
+     "title": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
      "channel": "",
-     "views": 22,
+     "views": 137,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:zdVeuLzQQTA",
-     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
-     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
+     "id": "youtube:O5d9PiUl_Sg",
+     "url": "https://www.youtube.com/shorts/O5d9PiUl_Sg",
+     "title": "Google committed $5 million to IIT Kharagpur for advanced AI research. #Shorts",
      "channel": "",
-     "views": 20,
+     "views": 0,
      "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1hEyF44dHQ",
-     "url": "https://www.youtube.com/shorts/D1hEyF44dHQ",
-     "title": "Signal restricts screenshots to limit AI assistants' access to private chats #Shorts",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0KR73u3E2eo",
-     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
-     "title": "Signal's iOS 27 screenshot block stops AI agents",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jgcxYyJNYC8",
-     "url": "https://www.youtube.com/shorts/jgcxYyJNYC8",
-     "title": "Signal Blocks Screenshots to Keep AI Agents Out #shorts",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:StVbELYmcp4",
-     "url": "https://www.youtube.com/shorts/StVbELYmcp4",
-     "title": "Signal blocks screenshots by default to stop AI agents reading private chats #Shorts",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.63,
+     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -127,7 +80,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T06:49:41.634Z"
+   "searched_at": "2026-11-21T10:49:51.168Z"
   },
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -344,68 +297,6 @@
    "searched_at": "2026-11-20T11:36:34.323Z"
   },
   {
-   "first_seen": "2026-11-21T04:12:09.162Z",
-   "id": "39958332",
-   "ids": [
-    "39958332",
-    "39945898",
-    "39945899"
-   ],
-   "title": "SpaceX-owned Cursor weighs phasing out Chinese AI models",
-   "url": "https://www.techinasia.com/news/spacexowned-cursor-weighs-phasing-chinese-ai-models",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-21 02:35:37",
-   "story_sources": 2,
-   "score_norm": 99,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
-     "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
-    },
-    {
-     "source_id": "hn",
-     "title": "Cursor considering phasing out Chinese AI models",
-     "url": "https://www.cnbc.com/2026/11/20/cursor-"
-    }
-   ],
-   "queries": [
-    "SpaceX-owned Cursor",
-    "spacex-owned cursor chinese weighs"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:riyq4EFW_s0",
-     "url": "https://www.youtube.com/watch?v=riyq4EFW_s0",
-     "title": "Cursor exploring phase-out of Chinese AI models, joint House report says #Shorts",
-     "channel": "That Was Yesterday",
-     "views": 11,
-     "age_hours": 0.9833333333333333,
-     "relevance": 0.5,
-     "velocity": 11
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4FQvMG9XU2w",
-     "url": "https://www.youtube.com/shorts/4FQvMG9XU2w",
-     "title": "Cursor May Drop Chinese AI Models; Composer 2 Is Built on Kimi #Shorts",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-21T10:20:38.091Z"
-  },
-  {
    "first_seen": "2026-11-18T18:12:47.706Z",
    "id": "39905435",
    "ids": [
@@ -508,6 +399,171 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T18:13:00.349Z"
+  },
+  {
+   "first_seen": "2026-11-21T06:49:37.381Z",
+   "id": "39959420",
+   "ids": [
+    "39959420",
+    "39947260"
+   ],
+   "title": "Signal restricts screenshots to block AI agents from reading messages",
+   "url": "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-21 05:24:56",
+   "story_sources": 2,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Signal restricts screenshots to block AI from reading messages",
+     "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/"
+    }
+   ],
+   "queries": [
+    "signal restricts screenshots block"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2_4JWuHLXTs",
+     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
+     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zdVeuLzQQTA",
+     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
+     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1hEyF44dHQ",
+     "url": "https://www.youtube.com/shorts/D1hEyF44dHQ",
+     "title": "Signal restricts screenshots to limit AI assistants' access to private chats #Shorts",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:0KR73u3E2eo",
+     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
+     "title": "Signal's iOS 27 screenshot block stops AI agents",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jgcxYyJNYC8",
+     "url": "https://www.youtube.com/shorts/jgcxYyJNYC8",
+     "title": "Signal Blocks Screenshots to Keep AI Agents Out #shorts",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:StVbELYmcp4",
+     "url": "https://www.youtube.com/shorts/StVbELYmcp4",
+     "title": "Signal blocks screenshots by default to stop AI agents reading private chats #Shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-21T06:49:41.634Z"
+  },
+  {
+   "first_seen": "2026-11-21T04:12:09.162Z",
+   "id": "39958332",
+   "ids": [
+    "39958332",
+    "39945898",
+    "39945899"
+   ],
+   "title": "SpaceX-owned Cursor weighs phasing out Chinese AI models",
+   "url": "https://www.techinasia.com/news/spacexowned-cursor-weighs-phasing-chinese-ai-models",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-21 02:35:37",
+   "story_sources": 2,
+   "score_norm": 91,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
+     "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
+    },
+    {
+     "source_id": "hn",
+     "title": "Cursor considering phasing out Chinese AI models",
+     "url": "https://www.cnbc.com/2026/11/20/cursor-"
+    }
+   ],
+   "queries": [
+    "SpaceX-owned Cursor",
+    "spacex-owned cursor chinese weighs"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:riyq4EFW_s0",
+     "url": "https://www.youtube.com/watch?v=riyq4EFW_s0",
+     "title": "Cursor exploring phase-out of Chinese AI models, joint House report says #Shorts",
+     "channel": "That Was Yesterday",
+     "views": 11,
+     "age_hours": 0.9833333333333333,
+     "relevance": 0.5,
+     "velocity": 11
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:4FQvMG9XU2w",
+     "url": "https://www.youtube.com/shorts/4FQvMG9XU2w",
+     "title": "Cursor May Drop Chinese AI Models; Composer 2 Is Built on Kimi #Shorts",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-21T10:20:38.091Z"
   },
   {
    "first_seen": "2026-11-19T12:16:15.559Z",
@@ -920,7 +976,7 @@
    "source_id": "lesswrong-feed",
    "published_ts": "2026-11-21 00:33:24",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
@@ -968,7 +1024,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-20 21:28:11",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "futurism-ai",
@@ -1071,7 +1127,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-20 19:50:27",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "in-businessline",
