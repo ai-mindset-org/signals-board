@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:09:46.330Z",
+ "generated_at": "2026-11-21T13:35:40.649Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: signal restricts screenshots block",
+   "source": "youtube: anthropic riemann claude researcher",
    "ok": true
   },
   {
-   "source": "tiktok: signal restricts screenshots block",
+   "source": "tiktok: anthropic riemann claude researcher",
    "ok": true
   }
  ],
@@ -289,6 +289,109 @@
    "searched_at": "2026-11-20T11:36:34.323Z"
   },
   {
+   "first_seen": "2026-11-21T06:49:37.381Z",
+   "id": "39959420",
+   "ids": [
+    "39959420",
+    "39947260"
+   ],
+   "title": "Signal restricts screenshots to block AI agents from reading messages",
+   "url": "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-21 05:24:56",
+   "story_sources": 2,
+   "score_norm": 93,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Signal restricts screenshots to block AI from reading messages",
+     "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/"
+    }
+   ],
+   "queries": [
+    "signal restricts screenshots block"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:zdVeuLzQQTA",
+     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
+     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
+     "channel": "",
+     "views": 69,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2_4JWuHLXTs",
+     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
+     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
+     "channel": "",
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5PjqrgDJ9Hc",
+     "url": "https://www.youtube.com/shorts/5PjqrgDJ9Hc",
+     "title": "Signal Restricts Mobile Screenshots to Limit AI Access to Messages",
+     "channel": "",
+     "views": 22,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:k1Syd5N6B6k",
+     "url": "https://www.youtube.com/shorts/k1Syd5N6B6k",
+     "title": "Why Signal Just Blocked Your iPhone Screenshots",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZqrbPQ3f3NA",
+     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
+     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D1hEyF44dHQ",
+     "url": "https://www.youtube.com/shorts/D1hEyF44dHQ",
+     "title": "Signal restricts screenshots to limit AI assistants' access to private chats #Shorts",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-21T13:09:50.343Z"
+  },
+  {
    "first_seen": "2026-11-18T18:12:47.706Z",
    "id": "39905435",
    "ids": [
@@ -391,109 +494,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-18T18:13:00.349Z"
-  },
-  {
-   "first_seen": "2026-11-21T06:49:37.381Z",
-   "id": "39959420",
-   "ids": [
-    "39959420",
-    "39947260"
-   ],
-   "title": "Signal restricts screenshots to block AI agents from reading messages",
-   "url": "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-21 05:24:56",
-   "story_sources": 2,
-   "score_norm": 92,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Signal restricts screenshots to block AI from reading messages",
-     "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/"
-    }
-   ],
-   "queries": [
-    "signal restricts screenshots block"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zdVeuLzQQTA",
-     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
-     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
-     "channel": "",
-     "views": 69,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2_4JWuHLXTs",
-     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
-     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5PjqrgDJ9Hc",
-     "url": "https://www.youtube.com/shorts/5PjqrgDJ9Hc",
-     "title": "Signal Restricts Mobile Screenshots to Limit AI Access to Messages",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:k1Syd5N6B6k",
-     "url": "https://www.youtube.com/shorts/k1Syd5N6B6k",
-     "title": "Why Signal Just Blocked Your iPhone Screenshots",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZqrbPQ3f3NA",
-     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
-     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1hEyF44dHQ",
-     "url": "https://www.youtube.com/shorts/D1hEyF44dHQ",
-     "title": "Signal restricts screenshots to limit AI assistants' access to private chats #Shorts",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-21T13:09:50.343Z"
   },
   {
    "first_seen": "2026-11-21T04:12:09.162Z",
@@ -991,34 +991,10 @@
      "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
      "title": "Claude JUST solved the Riemann Hypothesis...",
      "channel": "Wes Roth",
-     "views": 54066,
-     "age_hours": 4,
+     "views": 107250,
+     "age_hours": 11,
      "relevance": 0.75,
-     "velocity": 13517
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4FYyxJpy9dI",
-     "url": "https://www.youtube.com/shorts/4FYyxJpy9dI",
-     "title": "Claude Just Solved the Riemann Hypothesis. Explained.",
-     "channel": "",
-     "views": 10000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7CKH4D9Eoms",
-     "url": "https://www.youtube.com/watch?v=7CKH4D9Eoms",
-     "title": "Anthropic's Claude Claimed the Riemann Hypothesis in 250,000 Pages of Code",
-     "channel": "SIMSUE",
-     "views": 505,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 39
+     "velocity": 9750
     },
     {
      "platform": "youtube",
@@ -1027,7 +1003,7 @@
      "url": "https://www.youtube.com/shorts/OtZ7tFTVbQQ",
      "title": "Anthropic Mathematician Says Claude Helped Him Prove the Riemann Hypothesis #Shorts",
      "channel": "",
-     "views": 992,
+     "views": 1000,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1035,25 +1011,49 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:IhPZqK1f2nw",
-     "url": "https://www.youtube.com/shorts/IhPZqK1f2nw",
-     "title": "Claude Just Solved the Riemann Hypothesis",
+     "id": "youtube:miFpMyWI_ug",
+     "url": "https://www.youtube.com/shorts/miFpMyWI_ug",
+     "title": "Anthropic mathematician says Claude helped prove the Riemann hypothesis. Not confirmed yet",
      "channel": "",
-     "views": 860,
+     "views": 365,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:B4A-Kw3ToT8",
-     "url": "https://www.youtube.com/shorts/B4A-Kw3ToT8",
-     "title": "Riemann Hypothesis Explained: Anthropic Mathematician Claims Proof With Claude AI #shorts",
+     "id": "youtube:MyrXmXEauhE",
+     "url": "https://www.youtube.com/shorts/MyrXmXEauhE",
+     "title": "Anthropic employee claims Claude proved the Riemann hypothesis #Shorts",
      "channel": "",
-     "views": 647,
+     "views": 266,
      "age_hours": null,
      "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Px6PXiMDoUw",
+     "url": "https://www.youtube.com/shorts/Px6PXiMDoUw",
+     "title": "Anthropic mathematician says Claude helped prove Riemann",
+     "channel": "",
+     "views": 225,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Gc5MDjwXTG0",
+     "url": "https://www.youtube.com/shorts/Gc5MDjwXTG0",
+     "title": "Anthropic Researcher Claims Claude Helped Prove the Riemann Hypothesis",
+     "channel": "",
+     "views": 196,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     }
    ],
@@ -1061,7 +1061,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-21T07:21:46.508Z"
+   "searched_at": "2026-11-21T13:35:44.918Z"
   },
   {
    "first_seen": "2026-11-21T03:13:28.969Z",
@@ -1119,7 +1119,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-20 19:50:27",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1850,37 +1850,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T16:49:21.015Z"
-  },
-  {
-   "first_seen": "2026-11-18T14:23:35.982Z",
-   "id": "39899877",
-   "ids": [
-    "39899877",
-    "39900377"
-   ],
-   "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
-   "url": "https://www.heise.de/news/Mehr-Datenschutz-bei-Gemini-KI-Training-untersagen-und-Verlauf-behalten-11529670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "source_id": "eu-heise",
-   "published_ts": "2026-11-18 13:31:00",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Mehr Datenschutz bei Gemini: Nutzer können jetzt KI-Training untersagen, aber Verlauf behalten",
-     "url": "https://t3n.de/news/datenschutz-gemini-ki-training-1774108/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Mehr Datenschutz",
-    "mehr datenschutz gemini ki-training"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T02:36:21.220Z"
   },
   {
    "first_seen": "2026-11-20T09:36:26.454Z",
