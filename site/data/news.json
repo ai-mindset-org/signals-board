@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T05:49:23.180Z",
+ "generated_at": "2026-11-21T06:40:00.900Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -836,7 +836,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-20 21:28:11",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "futurism-ai",
@@ -939,7 +939,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-20 19:50:27",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 76,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1031,50 +1031,6 @@
    "searched_at": "2026-11-21T02:35:45.702Z"
   },
   {
-   "first_seen": "2026-11-18T07:12:49.981Z",
-   "id": "39894047",
-   "ids": [
-    "39894047",
-    "39876885"
-   ],
-   "title": "Vertiv to showcase AI-ready infrastructure, explore Africa’s AI factory opportunity at Africa Tech Festival",
-   "url": "https://www.itweb.co.za/article/vertiv-to-showcase-ai-ready-infrastructure-explore-africas-ai-factory-opportunity-at-africa-tech-festival/xA9POvNEn5eqo4J8",
-   "source_id": "africa-itweb",
-   "published_ts": "2026-11-18 06:32:00",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "africa-cioafrica",
-     "title": "Vertiv To Showcase AI Data Centre Infrastructure At Africa Tech Festival 2026",
-     "url": "https://cioafrica.co/vertiv-to-showcase-ai-data-centre-infrastructure-at-africa-tech-festival-2026/"
-    }
-   ],
-   "queries": [
-    "Africa Tech Festival",
-    "vertiv ai-ready africa tech"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NmvbIWLuExA",
-     "url": "https://www.youtube.com/shorts/NmvbIWLuExA",
-     "title": "Africa Tech Festival #africatech",
-     "channel": "",
-     "views": 31,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-18T13:21:57.688Z"
-  },
-  {
    "first_seen": "2026-11-20T19:49:55.422Z",
    "id": "39945719",
    "ids": [
@@ -1086,7 +1042,7 @@
    "source_id": "in-analyticsvidhya",
    "published_ts": "2026-11-20 12:44:52",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "hn",
@@ -2389,37 +2345,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-19T14:23:34.865Z"
-  },
-  {
-   "first_seen": "2026-11-18T11:10:27.751Z",
-   "id": "39893846",
-   "ids": [
-    "39893846",
-    "39897031"
-   ],
-   "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "url": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
-   "source_id": "theregister",
-   "published_ts": "2026-11-18 06:32:00",
-   "story_sources": 2,
-   "score_norm": 43,
-   "related_news": [
-    {
-     "source_id": "eu-theregister",
-     "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-     "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
-    }
-   ],
-   "queries": [
-    "A Chinese",
-    "chinese bottle-cap manufacturer brilliantly"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-18T23:20:51.935Z"
   },
   {
    "first_seen": "2026-11-19T04:13:47.703Z",
