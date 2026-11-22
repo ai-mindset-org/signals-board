@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T14:35:51.133Z",
+ "generated_at": "2026-11-22T17:09:08.892Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -700,110 +700,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-22T12:49:48.478Z"
-  },
-  {
-   "first_seen": "2026-11-19T17:20:20.334Z",
-   "id": "39927299",
-   "ids": [
-    "39927299",
-    "39925422"
-   ],
-   "title": "Anthropic starts trading on Wall Street",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-   "source_id": "theverge",
-   "published_ts": "2026-11-19 16:52:01",
-   "story_sources": 2,
-   "score_norm": 83,
-   "related_news": [
-    {
-     "source_id": "algorithmic-bridge",
-     "title": "Wall Street Is Wrong About Anthropic",
-     "url": "https://www.thealgorithmicbridge.com/p/wall-street-is-wrong-about-anthropic"
-    }
-   ],
-   "queries": [
-    "Wall Street",
-    "anthropic wall street starts"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eFymOqiyaKs",
-     "url": "https://www.youtube.com/watch?v=eFymOqiyaKs",
-     "title": "Anthropic Wins. Wall Street Pays the Price.",
-     "channel": "Markus Koch Wall Street",
-     "views": 95550,
-     "age_hours": 14,
-     "relevance": 0.6,
-     "velocity": 6825
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:eOh0X2IkkXo",
-     "url": "https://www.youtube.com/watch?v=eOh0X2IkkXo",
-     "title": "Crypto beat Wall Street to the Anthropic IPO.",
-     "channel": "Yahoo Finance and The Wolf Of All Streets",
-     "views": 27445,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 1144
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7zhguBJre74",
-     "url": "https://www.youtube.com/watch?v=7zhguBJre74",
-     "title": "How Wall Street BROKE the World",
-     "channel": "Finance Bureau",
-     "views": 14932,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 786
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HviyOu7r0Qk",
-     "url": "https://www.youtube.com/watch?v=HviyOu7r0Qk",
-     "title": "How Anthropic’s big day on Wall Street might impact rest of AI industry",
-     "channel": "ABC News",
-     "views": 2448,
-     "age_hours": 6,
-     "relevance": 0.6,
-     "velocity": 408
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KAHXPo87N28",
-     "url": "https://www.youtube.com/shorts/KAHXPo87N28",
-     "title": "Anthropic just signaled Wall Street is eager to bet on the AI boom",
-     "channel": "",
-     "views": 12000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zyHAqwp-8oM",
-     "url": "https://www.youtube.com/shorts/zyHAqwp-8oM",
-     "title": "Anthropic makes historic Wall Street debut",
-     "channel": "",
-     "views": 6000,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-20T11:49:23.010Z"
   },
   {
    "first_seen": "2026-11-21T10:49:41.857Z",
