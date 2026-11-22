@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:35:44.984Z",
+ "generated_at": "2026-11-22T11:09:16.075Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: signal blocks in-app screenshots",
-   "ok": true
-  },
-  {
-   "source": "tiktok: signal blocks in-app screenshots",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -1040,7 +1031,7 @@
    "source_id": "lesswrong-feed",
    "published_ts": "2026-11-21 15:20:52",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "x-thezvi-substack",
@@ -1442,70 +1433,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-21T13:09:50.343Z"
-  },
-  {
-   "first_seen": "2026-11-19T07:49:18.045Z",
-   "id": "39914098",
-   "ids": [
-    "39914098",
-    "39916873",
-    "39920242",
-    "39925330",
-    "39919713",
-    "39916036"
-   ],
-   "title": "Anthropic raises $81.3bn in biggest IPO on record",
-   "url": "https://www.techmonitor.ai/news/anthropic-raises-81-3bn-in-biggest-ipo-on-record",
-   "source_id": "eu-techmonitor",
-   "published_ts": "2026-11-19 11:00:48",
-   "story_sources": 3,
-   "score_norm": 55,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic raises $107.3bn in the biggest IPO ever",
-     "url": "https://thenextweb.com/news/anthropic-raises-107-3bn-in-the-biggest-ipo-ever"
-    },
-    {
-     "source_id": "eu-siliconrepublic",
-     "title": "Anthropic breaks SpaceX IPO record with $81.3bn raise",
-     "url": "https://www.siliconrepublic.com/business/anthropic-breaks-spacex-ipo-record-with-81-3bn-raise"
-    }
-   ],
-   "queries": [
-    "anthropic 81.3bn ipo raises"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:qiVxp3XMMcc",
-     "url": "https://www.youtube.com/watch?v=qiVxp3XMMcc",
-     "title": "AI 'doomers' are set to be some of the biggest winners from Anthropic's IPO",
-     "channel": "CNBC Television",
-     "views": 17028,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 237
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Xtapw2EPYW8",
-     "url": "https://www.youtube.com/watch?v=Xtapw2EPYW8",
-     "title": "AI 'doomers' some of Anthropic IPO's biggest winners",
-     "channel": "CNBC Television",
-     "views": 12631,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 175
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-20T08:27:36.125Z"
   },
   {
    "first_seen": "2026-11-19T21:10:15.456Z",
