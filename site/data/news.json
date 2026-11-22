@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:39:43.204Z",
+ "generated_at": "2026-11-22T07:11:53.648Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Inkling 2 Mini",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Inkling 2 Mini",
-   "ok": true
-  },
-  {
-   "source": "youtube: thinking machines inkling mini",
-   "ok": true
-  },
-  {
-   "source": "tiktok: thinking machines inkling mini",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
@@ -1926,109 +1909,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T19:36:26.225Z"
-  },
-  {
-   "first_seen": "2026-11-19T07:23:57.272Z",
-   "id": "39916370",
-   "ids": [
-    "39916370",
-    "39914897"
-   ],
-   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
-   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 06:58:16",
-   "story_sources": 2,
-   "score_norm": 39,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic IPO raises record $81.3B on strong AI demand",
-     "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
-    }
-   ],
-   "queries": [
-    "anthropic 81.3b ipo spacex"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:lBHYaSYhtew",
-     "url": "https://www.youtube.com/shorts/lBHYaSYhtew",
-     "title": "Anthropic's $81.3B IPO Is the Biggest in History — It Beats SpaceX",
-     "channel": "",
-     "views": 165,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Xu4EcIrZujY",
-     "url": "https://www.youtube.com/shorts/Xu4EcIrZujY",
-     "title": "Anthropic's $81 Billion IPO! AI Giant Takes on SpaceX's Record",
-     "channel": "",
-     "views": 84,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nx5HNCtXvNg",
-     "url": "https://www.youtube.com/shorts/nx5HNCtXvNg",
-     "title": "Anthropic Prices $81.3B IPO — Larger Than SpaceX's Initial Raise #Shorts",
-     "channel": "",
-     "views": 55,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TlqrxWyBwYo",
-     "url": "https://www.youtube.com/shorts/TlqrxWyBwYo",
-     "title": "ANTHROPIC PRICES IPO AT $83, TOPS SPACEX RECORD $ANT",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Yf1F1bUPo0g",
-     "url": "https://www.youtube.com/shorts/Yf1F1bUPo0g",
-     "title": "Record-Breaking Anthropic IPO Raises Over $81 Billion, Surpasses SpaceX",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:SmUkp4JmJ1g",
-     "url": "https://www.youtube.com/shorts/SmUkp4JmJ1g",
-     "title": "$81.3bn: Anthropic's record IPO vs SpaceX and Aramco #shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T13:36:31.178Z"
   },
   {
    "first_seen": "2026-11-19T13:36:26.927Z",
