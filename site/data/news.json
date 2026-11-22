@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:11:33.165Z",
+ "generated_at": "2026-11-22T05:36:22.984Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: IIT Kharagpur",
-   "ok": true
-  },
-  {
-   "source": "tiktok: IIT Kharagpur",
-   "ok": true
-  },
-  {
-   "source": "youtube: google 5m iit kharagpur",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google 5m iit kharagpur",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
@@ -884,37 +867,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-20T11:49:23.010Z"
-  },
-  {
-   "first_seen": "2026-11-19T05:49:40.748Z",
-   "id": "39915206",
-   "ids": [
-    "39915206",
-    "39896134"
-   ],
-   "title": "Bajaj Finserv and Pennant invest $4 million in Indian AI startup Soket AI",
-   "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 05:23:09",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Bajaj Finserv bets $4 million on Indian AI startup Soket AI",
-     "url": "https://www.thehindubusinessline.com/companies/bajaj-finserv-bets-4-million-on-indian-ai-startup-soket-ai/article71715248.ece"
-    }
-   ],
-   "queries": [
-    "Bajaj Finserv",
-    "bajaj finserv pennant indian"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T05:49:48.400Z"
   },
   {
    "first_seen": "2026-11-21T10:49:41.857Z",
