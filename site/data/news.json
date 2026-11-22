@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T12:49:34.803Z",
+ "generated_at": "2026-11-22T14:09:57.098Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Inkling 2 Mini",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Inkling 2 Mini",
-   "ok": true
-  },
-  {
-   "source": "youtube: thinking machines inkling mini",
-   "ok": true
-  },
-  {
-   "source": "tiktok: thinking machines inkling mini",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -232,116 +215,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T17:49:45.967Z"
-  },
-  {
-   "first_seen": "2026-11-19T17:10:04.506Z",
-   "id": "39923190",
-   "ids": [
-    "39923190",
-    "39926864",
-    "39928399"
-   ],
-   "title": "Blue Origin will launch Google’s AI server satellites in 2029",
-   "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-   "source_id": "theverge",
-   "published_ts": "2026-11-19 13:53:38",
-   "story_sources": 3,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google books Blue Origin’s New Glenn to launch its AI satellites in 2029",
-     "url": "https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029"
-    },
-    {
-     "source_id": "in-techgenyz",
-     "title": "Google Project Suncatcher: Blue Origin to Launch AI Satellites in 2029",
-     "url": "https://techgenyz.com/google-project-suncatcher-2029-launch/"
-    }
-   ],
-   "queries": [
-    "Blue Origin",
-    "blue origin google 2029"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fuImFTtqxHs",
-     "url": "https://www.youtube.com/shorts/fuImFTtqxHs",
-     "title": "Why Is Google Putting AI in Space?",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PXLAnOevLEg",
-     "url": "https://www.youtube.com/shorts/PXLAnOevLEg",
-     "title": "Google Picks Blue Origin for Space AI Launch",
-     "channel": "",
-     "views": 431,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:yT8Py9fEBTc",
-     "url": "https://www.youtube.com/shorts/yT8Py9fEBTc",
-     "title": "Google Picks Blue Origin’s New Glenn Rocket to Launch Project Suncatcher AI Satellites",
-     "channel": "",
-     "views": 79,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:t88hdOqZ3vw",
-     "url": "https://www.youtube.com/shorts/t88hdOqZ3vw",
-     "title": "Google Picks Blue Origin for 2029 AI Research Launch #Shorts",
-     "channel": "",
-     "views": 69,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fj2uzzvFbbY",
-     "url": "https://www.youtube.com/shorts/fj2uzzvFbbY",
-     "title": "Google & Blue Origin to Launch AI Servers to Space in 2029",
-     "channel": "",
-     "views": 44,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SBiIDU-AyaI",
-     "url": "https://www.youtube.com/watch?v=SBiIDU-AyaI",
-     "title": "Google Picks Blue Origin's New Glenn for Suncatcher Satellites | Orbital Pulse Daily",
-     "channel": "Orbital Pulse",
-     "views": 1,
-     "age_hours": 0.5833333333333334,
-     "relevance": 0.5,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-20T11:36:34.323Z"
   },
   {
    "first_seen": "2026-11-20T19:09:45.006Z",
@@ -736,7 +609,7 @@
    "source_id": "x-feeds-feedburner",
    "published_ts": "2026-11-21 18:29:36",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 85,
    "related_news": [
     {
      "source_id": "eu-tnw",
