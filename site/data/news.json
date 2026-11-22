@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:09:42.501Z",
+ "generated_at": "2026-11-22T00:31:26.650Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: IIT Kharagpur",
+   "source": "youtube: Inkling 2 Mini",
    "ok": true
   },
   {
-   "source": "tiktok: IIT Kharagpur",
+   "source": "tiktok: Inkling 2 Mini",
    "ok": true
   },
   {
-   "source": "youtube: google 5m iit kharagpur",
+   "source": "youtube: thinking machines inkling mini",
    "ok": true
   },
   {
-   "source": "tiktok: google 5m iit kharagpur",
+   "source": "tiktok: thinking machines inkling mini",
    "ok": true
   }
  ],
@@ -269,26 +269,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:OdMpNiByntM",
-     "url": "https://www.youtube.com/watch?v=OdMpNiByntM",
-     "title": "Inkling 2 Mini Is INSANE – Is THIS the BEST Local AI Model?",
-     "channel": "Bijan Bowen",
-     "views": 12271,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 6136
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:zhFuI1rtRz8",
      "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
      "title": "Why Everyone Is Talking About Inkling 2 Mini",
      "channel": "Codedigipt",
-     "views": 5511,
-     "age_hours": 11,
+     "views": 7530,
+     "age_hours": 17,
      "relevance": 0.5,
-     "velocity": 501
+     "velocity": 443
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TmsF-1t_ej8",
+     "url": "https://www.youtube.com/watch?v=TmsF-1t_ej8",
+     "title": "Inkling 2 Mini : #1 on Hugging Face! This LOOPED TRANSFORMER Tested  Locally!",
+     "channel": "AI WITH Rithesh",
+     "views": 2860,
+     "age_hours": 19,
+     "relevance": 0.63,
+     "velocity": 151
     },
     {
      "platform": "youtube",
@@ -297,19 +297,7 @@
      "url": "https://www.youtube.com/shorts/mDB0hX_PLl0",
      "title": "Ollama now runs Inkling 2 Mini, a 26B AI model #shorts",
      "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Yfvc27VmbtE",
-     "url": "https://www.youtube.com/shorts/Yfvc27VmbtE",
-     "title": "Inkling 2 Mini: A 26.4B AI Model That Runs Locally! 🤯 #Shorts",
-     "channel": "",
-     "views": 943,
+     "views": 1200,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -321,29 +309,41 @@
      "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
      "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
      "channel": "",
-     "views": 847,
+     "views": 1100,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sKJFZbuF9CA",
-     "url": "https://www.youtube.com/watch?v=sKJFZbuF9CA",
-     "title": "Inkling 2 Mini: The 20GB Local AI Model That Thinks Without Words",
-     "channel": "AutMa8",
-     "views": 135,
-     "age_hours": 11,
+     "kind": "shorts",
+     "id": "youtube:rt_l6H-ii4Q",
+     "url": "https://www.youtube.com/shorts/rt_l6H-ii4Q",
+     "title": "Inkling 2 Mini: Powerful AI That Runs Offline! 🤯",
+     "channel": "",
+     "views": 435,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 12
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ymbV8dvTO4A",
+     "url": "https://www.youtube.com/watch?v=ymbV8dvTO4A",
+     "title": "How To Use Inkling 2 Mini In Thinking Machines Playground (Easy Guide)",
+     "channel": "Kevin's How To's",
+     "views": 145,
+     "age_hours": 16,
+     "relevance": 0.5,
+     "velocity": 9
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T17:49:54.382Z"
+   "searched_at": "2026-11-22T00:31:34.431Z"
   },
   {
    "first_seen": "2026-11-20T19:09:45.006Z",
@@ -928,7 +928,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-21 08:23:27",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "in-businessline",
