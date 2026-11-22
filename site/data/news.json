@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:11:53.648Z",
+ "generated_at": "2026-11-22T07:35:54.260Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -707,62 +707,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-20T13:21:50.182Z"
-  },
-  {
-   "first_seen": "2026-11-19T08:15:11.746Z",
-   "id": "39917017",
-   "ids": [
-    "39917017",
-    "39899363"
-   ],
-   "title": "Physical AI startup Humyn Labs raises $47M in Series A",
-   "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-19 07:32:27",
-   "story_sources": 2,
-   "score_norm": 85,
-   "related_news": [
-    {
-     "source_id": "sea-techinasia",
-     "title": "Indian physical AI startup Humyn Labs raises $47m series A",
-     "url": "https://www.techinasia.com/news/indian-physical-ai-startup-humyn-labs-raises-47m-series"
-    }
-   ],
-   "queries": [
-    "Humyn Labs",
-    "physical humyn labs 47m"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tkP7mEeJ5OM",
-     "url": "https://www.youtube.com/shorts/tkP7mEeJ5OM",
-     "title": "Humyn Labs Raises $47M to Supply US Robotics Data #Shorts",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:f7Ms3U1_8PY",
-     "url": "https://www.youtube.com/shorts/f7Ms3U1_8PY",
-     "title": "Humyn Labs Raises $47M to Supply US Robotics Companies Training Data #Shorts",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T08:15:19.327Z"
   },
   {
    "first_seen": "2026-11-19T17:20:20.334Z",
