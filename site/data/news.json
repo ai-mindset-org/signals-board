@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T12:37:18.053Z",
+ "generated_at": "2026-11-22T12:49:34.803Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Inkling 2 Mini",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Inkling 2 Mini",
+   "ok": true
+  },
+  {
+   "source": "youtube: thinking machines inkling mini",
+   "ok": true
+  },
+  {
+   "source": "tiktok: thinking machines inkling mini",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -735,26 +752,14 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:zhFuI1rtRz8",
-     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
-     "title": "Why Everyone Is Talking About Inkling 2 Mini",
-     "channel": "Codedigipt",
-     "views": 8473,
-     "age_hours": 23,
+     "id": "youtube:JFoMJ17MOOA",
+     "url": "https://www.youtube.com/watch?v=JFoMJ17MOOA",
+     "title": "Inkling 2 Mini is \"Local Opus\"?",
+     "channel": "AICodeKing",
+     "views": 495,
+     "age_hours": 1,
      "relevance": 0.5,
-     "velocity": 368
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TmsF-1t_ej8",
-     "url": "https://www.youtube.com/watch?v=TmsF-1t_ej8",
-     "title": "Inkling 2 Mini : #1 on Hugging Face! This LOOPED TRANSFORMER Tested  Locally!",
-     "channel": "AI WITH Rithesh",
-     "views": 3031,
-     "age_hours": 24,
-     "relevance": 0.63,
-     "velocity": 126
+     "velocity": 495
     },
     {
      "platform": "youtube",
@@ -763,10 +768,10 @@
      "url": "https://www.youtube.com/watch?v=L6BHCfu-qlg",
      "title": "Inkling 2 Mini: The Best Small Model You Can Run Locally?",
      "channel": "Luke Byrne | AI & Tech",
-     "views": 599,
-     "age_hours": 6,
+     "views": 3424,
+     "age_hours": 12,
      "relevance": 0.5,
-     "velocity": 100
+     "velocity": 285
     },
     {
      "platform": "youtube",
@@ -775,7 +780,7 @@
      "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
      "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
      "channel": "",
-     "views": 1200,
+     "views": 1300,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -787,7 +792,7 @@
      "url": "https://www.youtube.com/shorts/rt_l6H-ii4Q",
      "title": "Inkling 2 Mini: Powerful AI That Runs Offline! 🤯",
      "channel": "",
-     "views": 585,
+     "views": 764,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -799,9 +804,21 @@
      "url": "https://www.youtube.com/shorts/Snp80PS_Oa8",
      "title": "Inkling 2 Mini Runs Locally. Check the Memory First.",
      "channel": "",
-     "views": 414,
+     "views": 446,
      "age_hours": null,
      "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:abHYLxnLvT8",
+     "url": "https://www.youtube.com/shorts/abHYLxnLvT8",
+     "title": "Thinking Machines' Inkling 2 Mini runs offline on a Mac",
+     "channel": "",
+     "views": 335,
+     "age_hours": null,
+     "relevance": 0.71,
      "velocity": null
     }
    ],
@@ -809,7 +826,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-22T06:39:51.020Z"
+   "searched_at": "2026-11-22T12:49:48.478Z"
   },
   {
    "first_seen": "2026-11-19T17:20:20.334Z",
