@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:36:22.984Z",
+ "generated_at": "2026-11-22T05:49:18.125Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1909,36 +1909,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-19T19:36:26.225Z"
-  },
-  {
-   "first_seen": "2026-11-19T08:15:11.746Z",
-   "id": "39917258",
-   "ids": [
-    "39917258",
-    "39912960"
-   ],
-   "title": "DeepSeek drops separate fees for model-triggered web searches",
-   "url": "https://technode.com/2026/11/19/deepseek-drops-separate-fees-for-model-triggered-web-searches/",
-   "source_id": "cn-technode",
-   "published_ts": "2026-11-19 05:42:43",
-   "story_sources": 2,
-   "score_norm": 43,
-   "related_news": [
-    {
-     "source_id": "cn-pandaily",
-     "title": "DeepSeek Removes Separate Fees for Model-Triggered Search and Web Fetch",
-     "url": "https://pandaily.com/deepseek-model-triggered-search-fetch-fee-change-client-api-pricing"
-    }
-   ],
-   "queries": [
-    "deepseek drops separate fees"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T14:23:34.865Z"
   },
   {
    "first_seen": "2026-11-19T07:23:57.272Z",
