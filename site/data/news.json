@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T03:49:49.094Z",
+ "generated_at": "2026-11-22T05:11:33.165Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: IIT Kharagpur",
+   "ok": true
+  },
+  {
+   "source": "tiktok: IIT Kharagpur",
+   "ok": true
+  },
+  {
+   "source": "youtube: google 5m iit kharagpur",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google 5m iit kharagpur",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
@@ -911,7 +928,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-21 08:23:27",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -931,7 +948,7 @@
      "url": "https://www.youtube.com/shorts/CC3r2dAikwE",
      "title": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
      "channel": "",
-     "views": 400,
+     "views": 413,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -951,25 +968,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:kDg5V4w3nI4",
-     "url": "https://www.youtube.com/shorts/kDg5V4w3nI4",
-     "title": "Google Invests $5 Million in IIT Kharagpur for AI Research! 🇮🇳",
+     "id": "youtube:qRg-WE0E8Q8",
+     "url": "https://www.youtube.com/shorts/qRg-WE0E8Q8",
+     "title": "Google Just Put $5 Million Into This Indian IIT for AI Research #Shorts",
      "channel": "",
-     "views": 65,
+     "views": 73,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:qRg-WE0E8Q8",
-     "url": "https://www.youtube.com/shorts/qRg-WE0E8Q8",
-     "title": "Google Just Put $5 Million Into This Indian IIT for AI Research #Shorts",
+     "id": "youtube:kDg5V4w3nI4",
+     "url": "https://www.youtube.com/shorts/kDg5V4w3nI4",
+     "title": "Google Invests $5 Million in IIT Kharagpur for AI Research! 🇮🇳",
      "channel": "",
-     "views": 60,
+     "views": 69,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.71,
      "velocity": null
     },
     {
@@ -979,7 +996,7 @@
      "url": "https://www.youtube.com/shorts/O5d9PiUl_Sg",
      "title": "Google committed $5 million to IIT Kharagpur for advanced AI research. #Shorts",
      "channel": "",
-     "views": 35,
+     "views": 38,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -987,13 +1004,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:18zSm8IMUfU",
-     "url": "https://www.youtube.com/shorts/18zSm8IMUfU",
-     "title": "Google Commits $5 Million to IIT Kharagpur for Applied AI Research",
+     "id": "youtube:ql_cuHK4_4s",
+     "url": "https://www.youtube.com/shorts/ql_cuHK4_4s",
+     "title": "Google to give IIT Kharagpur $5 million for AI | NewsEdition",
      "channel": "",
-     "views": 1,
+     "views": 11,
      "age_hours": null,
-     "relevance": 0.63,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -1001,7 +1018,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T23:09:50.220Z"
+   "searched_at": "2026-11-22T05:11:40.630Z"
   },
   {
    "first_seen": "2026-11-20T19:49:55.422Z",
