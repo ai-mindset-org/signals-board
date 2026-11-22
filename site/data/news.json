@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:16:06.170Z",
+ "generated_at": "2026-11-22T03:49:49.094Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1750,74 +1750,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-20T15:49:31.655Z"
-  },
-  {
-   "first_seen": "2026-11-19T04:13:47.703Z",
-   "id": "39914202",
-   "ids": [
-    "39914202",
-    "39910280"
-   ],
-   "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-   "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-   "source_id": "crypto-coindesk",
-   "published_ts": "2026-11-19 03:40:48",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "CZ Says Anthropic Stock Tokens Will Reach BNB Chain on IPO Day",
-     "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day"
-    }
-   ],
-   "queries": [
-    "BNB Chain",
-    "cz anthropic bnb chain"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9FJxtfzS9eQ",
-     "url": "https://www.youtube.com/shorts/9FJxtfzS9eQ",
-     "title": "BUY INTO THE ANTHROPIC IPO",
-     "channel": "",
-     "views": 110,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rvd1pkwZTb8",
-     "url": "https://www.youtube.com/watch?v=rvd1pkwZTb8",
-     "title": "j.tools is Now Live on BNB Chain! 🟡",
-     "channel": "J Tools | Multichain Token Platform",
-     "views": 48,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XS9nCT24hq0",
-     "url": "https://www.youtube.com/watch?v=XS9nCT24hq0",
-     "title": "Anthropic IPO tokens to trade from day one, Zhao says - BNB | Nov 19, 2026",
-     "channel": "Stocks News Daily",
-     "views": 0,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T16:24:29.708Z"
   },
   {
    "first_seen": "2026-11-19T20:49:49.488Z",
