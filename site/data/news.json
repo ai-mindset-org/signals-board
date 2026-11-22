@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T14:09:57.098Z",
+ "generated_at": "2026-11-22T14:35:51.133Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -1604,92 +1604,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-20T15:49:31.655Z"
-  },
-  {
-   "first_seen": "2026-11-19T20:49:49.488Z",
-   "id": "39924197",
-   "ids": [
-    "39924197",
-    "39931279"
-   ],
-   "title": "One of Anthropic’s Biggest I.P.O. Winners Feels a Bit Uneasy About the Whole Thing",
-   "url": "https://www.lesswrong.com/posts/wzgQ7gopzWMeaEoE9/one-of-anthropic-s-biggest-i-p-o-winners-feels-a-bit-uneasy",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-19 14:34:27",
-   "story_sources": 2,
-   "score_norm": 45,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "One of Anthropic's Biggest IPO Winners Feels a Bit Uneasy About the Whole Thing",
-     "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
-    }
-   ],
-   "queries": [
-    "Anthropic’s Biggest I.P.O Winners Feels",
-    "one anthropic biggest i.p.o"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-19T20:49:57.544Z"
-  },
-  {
-   "first_seen": "2026-11-19T15:11:26.905Z",
-   "id": "39924198",
-   "ids": [
-    "39924198",
-    "39913385"
-   ],
-   "title": "Anthropic is not living up to its ideals",
-   "url": "https://www.lesswrong.com/posts/Drj97tmuiWF3e9Xya/anthropic-is-not-living-up-to-its-ideals",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-19 14:33:52",
-   "story_sources": 2,
-   "score_norm": 45,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic is not living up to its ideals",
-     "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its"
-    }
-   ],
-   "queries": [
-    "anthropic not living up"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xSGdsZl4ZI8",
-     "url": "https://www.youtube.com/shorts/xSGdsZl4ZI8",
-     "title": "I'm Not Buying Anthropic at the IPO.",
-     "channel": "",
-     "views": 1600,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c8nBybJRjd0",
-     "url": "https://www.youtube.com/shorts/c8nBybJRjd0",
-     "title": "I’m not buying Anthropic IPO",
-     "channel": "",
-     "views": 215,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-19T21:20:18.598Z"
   }
  ]
 }
