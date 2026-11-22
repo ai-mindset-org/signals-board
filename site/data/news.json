@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:09:16.075Z",
+ "generated_at": "2026-11-22T12:14:35.777Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -707,6 +707,111 @@
    "searched_at": "2026-11-20T13:21:50.182Z"
   },
   {
+   "first_seen": "2026-11-21T17:49:46.527Z",
+   "id": "39966094",
+   "ids": [
+    "39966094",
+    "39953139",
+    "39968326"
+   ],
+   "title": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+   "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+   "source_id": "x-feeds-feedburner",
+   "published_ts": "2026-11-21 18:29:36",
+   "story_sources": 2,
+   "score_norm": 83,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
+     "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop"
+    }
+   ],
+   "queries": [
+    "Inkling 2 Mini",
+    "thinking machines inkling mini"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zhFuI1rtRz8",
+     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
+     "title": "Why Everyone Is Talking About Inkling 2 Mini",
+     "channel": "Codedigipt",
+     "views": 8473,
+     "age_hours": 23,
+     "relevance": 0.5,
+     "velocity": 368
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TmsF-1t_ej8",
+     "url": "https://www.youtube.com/watch?v=TmsF-1t_ej8",
+     "title": "Inkling 2 Mini : #1 on Hugging Face! This LOOPED TRANSFORMER Tested  Locally!",
+     "channel": "AI WITH Rithesh",
+     "views": 3031,
+     "age_hours": 24,
+     "relevance": 0.63,
+     "velocity": 126
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:L6BHCfu-qlg",
+     "url": "https://www.youtube.com/watch?v=L6BHCfu-qlg",
+     "title": "Inkling 2 Mini: The Best Small Model You Can Run Locally?",
+     "channel": "Luke Byrne | AI & Tech",
+     "views": 599,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 100
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fMZ8j3qrr3k",
+     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
+     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:rt_l6H-ii4Q",
+     "url": "https://www.youtube.com/shorts/rt_l6H-ii4Q",
+     "title": "Inkling 2 Mini: Powerful AI That Runs Offline! 🤯",
+     "channel": "",
+     "views": 585,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Snp80PS_Oa8",
+     "url": "https://www.youtube.com/shorts/Snp80PS_Oa8",
+     "title": "Inkling 2 Mini Runs Locally. Check the Memory First.",
+     "channel": "",
+     "views": 414,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-22T06:39:51.020Z"
+  },
+  {
    "first_seen": "2026-11-19T17:20:20.334Z",
    "id": "39927299",
    "ids": [
@@ -809,111 +914,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-20T11:49:23.010Z"
-  },
-  {
-   "first_seen": "2026-11-21T17:49:46.527Z",
-   "id": "39966094",
-   "ids": [
-    "39966094",
-    "39953139",
-    "39968326"
-   ],
-   "title": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
-   "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
-   "source_id": "x-feeds-feedburner",
-   "published_ts": "2026-11-21 18:29:36",
-   "story_sources": 2,
-   "score_norm": 81,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
-     "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop"
-    }
-   ],
-   "queries": [
-    "Inkling 2 Mini",
-    "thinking machines inkling mini"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zhFuI1rtRz8",
-     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
-     "title": "Why Everyone Is Talking About Inkling 2 Mini",
-     "channel": "Codedigipt",
-     "views": 8473,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 368
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TmsF-1t_ej8",
-     "url": "https://www.youtube.com/watch?v=TmsF-1t_ej8",
-     "title": "Inkling 2 Mini : #1 on Hugging Face! This LOOPED TRANSFORMER Tested  Locally!",
-     "channel": "AI WITH Rithesh",
-     "views": 3031,
-     "age_hours": 24,
-     "relevance": 0.63,
-     "velocity": 126
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:L6BHCfu-qlg",
-     "url": "https://www.youtube.com/watch?v=L6BHCfu-qlg",
-     "title": "Inkling 2 Mini: The Best Small Model You Can Run Locally?",
-     "channel": "Luke Byrne | AI & Tech",
-     "views": 599,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 100
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fMZ8j3qrr3k",
-     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
-     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rt_l6H-ii4Q",
-     "url": "https://www.youtube.com/shorts/rt_l6H-ii4Q",
-     "title": "Inkling 2 Mini: Powerful AI That Runs Offline! 🤯",
-     "channel": "",
-     "views": 585,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Snp80PS_Oa8",
-     "url": "https://www.youtube.com/shorts/Snp80PS_Oa8",
-     "title": "Inkling 2 Mini Runs Locally. Check the Memory First.",
-     "channel": "",
-     "views": 414,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-22T06:39:51.020Z"
   },
   {
    "first_seen": "2026-11-21T10:49:41.857Z",
@@ -1031,7 +1031,7 @@
    "source_id": "lesswrong-feed",
    "published_ts": "2026-11-21 15:20:52",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "x-thezvi-substack",
@@ -1800,110 +1800,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-19T21:20:18.598Z"
-  },
-  {
-   "first_seen": "2026-11-19T19:36:15.455Z",
-   "id": "39929919",
-   "ids": [
-    "39929919",
-    "39922090"
-   ],
-   "title": "AI #195: Opening Bell",
-   "url": "https://thezvi.substack.com/p/ai-195-opening-bell",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-11-19 11:56:26",
-   "story_sources": 2,
-   "score_norm": 43,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "AI #195: Opening Bell",
-     "url": "https://www.lesswrong.com/posts/De5LBagrSCKd3Q9cs/ai-195-opening-bell"
-    }
-   ],
-   "queries": [
-    "Opening Bell",
-    "195 opening bell ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:uFme3XHcTSo",
-     "url": "https://www.youtube.com/watch?v=uFme3XHcTSo",
-     "title": "Anthropic IPO LIVE: AI Giant's Historic Nasdaq Debut | Wall Street Opening Bell Ceremony | N18G",
-     "channel": "CNN-News18",
-     "views": 11190,
-     "age_hours": 0.2833333333333333,
-     "relevance": 0.75,
-     "velocity": 11190
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:w17TDtFqv1Q",
-     "url": "https://www.youtube.com/watch?v=w17TDtFqv1Q",
-     "title": "Opening Bell: Infineon, SAP, Anthropic, SanDisk, Walmart, Palo Alto, Alibaba",
-     "channel": "DER AKTIONÄR TV",
-     "views": 12435,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 2487
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NDHwVpeau1Y",
-     "url": "https://www.youtube.com/watch?v=NDHwVpeau1Y",
-     "title": "Today on NYSE Live | F&M Bank Rings Opening Bell as Shares Begin Trading on NYSE American",
-     "channel": "New York Stock Exchange",
-     "views": 2313,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 578
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Ou2Fb4K18fo",
-     "url": "https://www.youtube.com/shorts/Ou2Fb4K18fo",
-     "title": "Anthropic rings Nasdaq opening bell ahead of stock-market debut",
-     "channel": "",
-     "views": 17000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Exqwjx4p7gg",
-     "url": "https://www.youtube.com/watch?v=Exqwjx4p7gg",
-     "title": "Opening Bell: SMA Solar, Nvidia, SanDisk, Johnson & Johnson, United Airlines, Strategy, Take-Two",
-     "channel": "DER AKTIONÄR TV",
-     "views": 21558,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 299
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:otLlfgNQh0E",
-     "url": "https://www.youtube.com/watch?v=otLlfgNQh0E",
-     "title": "Anthropic founders ring the Nasdaq opening bell | AFP",
-     "channel": "AFP News Agency",
-     "views": 491,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 123
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-19T19:36:26.225Z"
   },
   {
    "first_seen": "2026-11-19T13:36:26.927Z",
