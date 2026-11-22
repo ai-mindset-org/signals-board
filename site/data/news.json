@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:14:21.591Z",
+ "generated_at": "2026-11-22T10:35:44.984Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,105 +9,95 @@
  },
  "search_report": [
   {
-   "source": "youtube: The System Card",
+   "source": "youtube: signal blocks in-app screenshots",
    "ok": true
   },
   {
-   "source": "tiktok: The System Card",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt-6.2 astra sol system",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-6.2 astra sol system",
+   "source": "tiktok: signal blocks in-app screenshots",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-21T17:49:46.527Z",
-   "id": "39966094",
+   "first_seen": "2026-11-22T10:35:44.984Z",
+   "id": "39975237",
    "ids": [
-    "39966094",
-    "39953139",
-    "39968326"
+    "39975237",
+    "39966665"
    ],
-   "title": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
-   "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
-   "source_id": "x-feeds-feedburner",
-   "published_ts": "2026-11-21 18:29:36",
+   "title": "Signal blocks in-app screenshots, calls AI agents ‘existential threat’ to privacy mission",
+   "url": "https://indianexpress.com/article/technology/tech-news-technology/signal-blocks-screenshots-ai-agents-privacy-threat-10973703/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-22 09:18:28",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "eu-tnw",
-     "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
-     "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop"
+     "source_id": "crypto-decrypt",
+     "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+     "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots"
     }
    ],
    "queries": [
-    "Inkling 2 Mini",
-    "thinking machines inkling mini"
+    "signal blocks in-app screenshots"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zhFuI1rtRz8",
-     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
-     "title": "Why Everyone Is Talking About Inkling 2 Mini",
-     "channel": "Codedigipt",
-     "views": 8473,
-     "age_hours": 23,
-     "relevance": 0.5,
-     "velocity": 368
+     "kind": "shorts",
+     "id": "youtube:7Xr85d0pLXs",
+     "url": "https://www.youtube.com/shorts/7Xr85d0pLXs",
+     "title": "Signal Blocks Screenshots Over AI Threat 📱",
+     "channel": "",
+     "views": 167,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TmsF-1t_ej8",
-     "url": "https://www.youtube.com/watch?v=TmsF-1t_ej8",
-     "title": "Inkling 2 Mini : #1 on Hugging Face! This LOOPED TRANSFORMER Tested  Locally!",
-     "channel": "AI WITH Rithesh",
-     "views": 3031,
-     "age_hours": 24,
+     "kind": "shorts",
+     "id": "youtube:zdVeuLzQQTA",
+     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
+     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
+     "channel": "",
+     "views": 115,
+     "age_hours": null,
      "relevance": 0.63,
-     "velocity": 126
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IrnlD4xIDHE",
+     "url": "https://www.youtube.com/shorts/IrnlD4xIDHE",
+     "title": "Signal now blocks screenshots to keep your phone's AI out of your chats",
+     "channel": "",
+     "views": 44,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:L6BHCfu-qlg",
-     "url": "https://www.youtube.com/watch?v=L6BHCfu-qlg",
-     "title": "Inkling 2 Mini: The Best Small Model You Can Run Locally?",
-     "channel": "Luke Byrne | AI & Tech",
-     "views": 599,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 100
+     "id": "youtube:Y1GXfuJLzp0",
+     "url": "https://www.youtube.com/watch?v=Y1GXfuJLzp0",
+     "title": "Signal Now Blocks Screenshots to Keep Siri AI Out. \"Privacy. That's iPhone\"?",
+     "channel": "Evoltnews",
+     "views": 17,
+     "age_hours": 24,
+     "relevance": 0.56,
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:fMZ8j3qrr3k",
-     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
-     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
+     "id": "youtube:4oGc2OVVQaM",
+     "url": "https://www.youtube.com/shorts/4oGc2OVVQaM",
+     "title": "Why Signal just blocked screenshots on your iPhone",
      "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:rt_l6H-ii4Q",
-     "url": "https://www.youtube.com/shorts/rt_l6H-ii4Q",
-     "title": "Inkling 2 Mini: Powerful AI That Runs Offline! 🤯",
-     "channel": "",
-     "views": 585,
+     "views": 28,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -115,13 +105,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Snp80PS_Oa8",
-     "url": "https://www.youtube.com/shorts/Snp80PS_Oa8",
-     "title": "Inkling 2 Mini Runs Locally. Check the Memory First.",
+     "id": "youtube:k1Syd5N6B6k",
+     "url": "https://www.youtube.com/shorts/k1Syd5N6B6k",
+     "title": "Why Signal Just Blocked Your iPhone Screenshots",
      "channel": "",
-     "views": 414,
+     "views": 27,
      "age_hours": null,
-     "relevance": 0.57,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -129,7 +119,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-22T06:39:51.020Z"
+   "searched_at": "2026-11-22T10:35:49.214Z"
   },
   {
    "first_seen": "2026-11-20T11:49:07.887Z",
@@ -830,108 +820,109 @@
    "searched_at": "2026-11-20T11:49:23.010Z"
   },
   {
-   "first_seen": "2026-11-22T08:14:21.591Z",
-   "id": "39965626",
+   "first_seen": "2026-11-21T17:49:46.527Z",
+   "id": "39966094",
    "ids": [
-    "39965626",
-    "39973616"
+    "39966094",
+    "39953139",
+    "39968326"
    ],
-   "title": "GPT-6.2 Astra and Sol: The System Card",
-   "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-21 15:20:52",
+   "title": "Thinking Machines wows with Inkling 2 Mini looped transformer model that runs locally on laptops",
+   "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+   "source_id": "x-feeds-feedburner",
+   "published_ts": "2026-11-21 18:29:36",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 81,
    "related_news": [
     {
-     "source_id": "x-thezvi-substack",
-     "title": "GPT-6.2 Astra and Sol: The System Card",
-     "url": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card"
+     "source_id": "eu-tnw",
+     "title": "Thinking Machines releases Inkling 2 Mini, a looped AI model for laptops",
+     "url": "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop"
     }
    ],
    "queries": [
-    "The System Card",
-    "gpt-6.2 astra sol system"
+    "Inkling 2 Mini",
+    "thinking machines inkling mini"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:MrAORqX2wZ4",
-     "url": "https://www.youtube.com/watch?v=MrAORqX2wZ4",
-     "title": "New GPT-6.2 Astra + Sol AI Gamechangers, Google Genie 4 Worlds, Boston Dynamics MCP",
-     "channel": "AI News",
-     "views": 1627,
+     "id": "youtube:zhFuI1rtRz8",
+     "url": "https://www.youtube.com/watch?v=zhFuI1rtRz8",
+     "title": "Why Everyone Is Talking About Inkling 2 Mini",
+     "channel": "Codedigipt",
+     "views": 8473,
+     "age_hours": 23,
+     "relevance": 0.5,
+     "velocity": 368
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TmsF-1t_ej8",
+     "url": "https://www.youtube.com/watch?v=TmsF-1t_ej8",
+     "title": "Inkling 2 Mini : #1 on Hugging Face! This LOOPED TRANSFORMER Tested  Locally!",
+     "channel": "AI WITH Rithesh",
+     "views": 3031,
      "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 68
+     "relevance": 0.63,
+     "velocity": 126
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:_dWDeEhFFFo",
-     "url": "https://www.youtube.com/watch?v=_dWDeEhFFFo",
-     "title": "OpenAI Just Dropped GPT-6.2 Astra & Sol?!",
-     "channel": "Julian Goldie SEO",
-     "views": 2798,
-     "age_hours": 72,
-     "relevance": 0.6,
-     "velocity": 39
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3ybpPedm4u8",
-     "url": "https://www.youtube.com/watch?v=3ybpPedm4u8",
-     "title": "NEW GPT-6.2 Astra + Sol are HERE! 🤯",
-     "channel": "Julian Goldie SEO",
-     "views": 2830,
-     "age_hours": 72,
-     "relevance": 0.75,
-     "velocity": 39
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_DmQO0dzEv0",
-     "url": "https://www.youtube.com/watch?v=_DmQO0dzEv0",
-     "title": "GPT-6.2 Astra vs Sol: Which One Should You Actually Use?",
-     "channel": "SECourses",
-     "views": 1842,
-     "age_hours": 72,
-     "relevance": 0.6,
-     "velocity": 26
+     "id": "youtube:L6BHCfu-qlg",
+     "url": "https://www.youtube.com/watch?v=L6BHCfu-qlg",
+     "title": "Inkling 2 Mini: The Best Small Model You Can Run Locally?",
+     "channel": "Luke Byrne | AI & Tech",
+     "views": 599,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 100
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:c8h4R1h4Ox4",
-     "url": "https://www.youtube.com/shorts/c8h4R1h4Ox4",
-     "title": "GPT-6.2 Astra vs GPT-6.2 Sol vs Fable 5.2 vs Opus 5.5 🛩️",
+     "id": "youtube:fMZ8j3qrr3k",
+     "url": "https://www.youtube.com/shorts/fMZ8j3qrr3k",
+     "title": "Thinking Machines Just Released Inkling 2 Mini #ThinkingMachines #OpenWeights",
      "channel": "",
-     "views": 395,
+     "views": 1200,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:auio_b7oj7A",
-     "url": "https://www.youtube.com/watch?v=auio_b7oj7A",
-     "title": "GPT-6.2 Astra vs. Sol: Which Should You Actually Use?",
-     "channel": "proflead",
-     "views": 480,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 10
+     "kind": "shorts",
+     "id": "youtube:rt_l6H-ii4Q",
+     "url": "https://www.youtube.com/shorts/rt_l6H-ii4Q",
+     "title": "Inkling 2 Mini: Powerful AI That Runs Offline! 🤯",
+     "channel": "",
+     "views": 585,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Snp80PS_Oa8",
+     "url": "https://www.youtube.com/shorts/Snp80PS_Oa8",
+     "title": "Inkling 2 Mini Runs Locally. Check the Memory First.",
+     "channel": "",
+     "views": 414,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-22T08:14:29.370Z"
+   "searched_at": "2026-11-22T06:39:51.020Z"
   },
   {
    "first_seen": "2026-11-21T10:49:41.857Z",
@@ -1036,6 +1027,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-22T05:11:40.630Z"
+  },
+  {
+   "first_seen": "2026-11-22T08:14:21.591Z",
+   "id": "39965626",
+   "ids": [
+    "39965626",
+    "39973616"
+   ],
+   "title": "GPT-6.2 Astra and Sol: The System Card",
+   "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-21 15:20:52",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "x-thezvi-substack",
+     "title": "GPT-6.2 Astra and Sol: The System Card",
+     "url": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card"
+    }
+   ],
+   "queries": [
+    "The System Card",
+    "gpt-6.2 astra sol system"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:MrAORqX2wZ4",
+     "url": "https://www.youtube.com/watch?v=MrAORqX2wZ4",
+     "title": "New GPT-6.2 Astra + Sol AI Gamechangers, Google Genie 4 Worlds, Boston Dynamics MCP",
+     "channel": "AI News",
+     "views": 1627,
+     "age_hours": 24,
+     "relevance": 0.6,
+     "velocity": 68
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_dWDeEhFFFo",
+     "url": "https://www.youtube.com/watch?v=_dWDeEhFFFo",
+     "title": "OpenAI Just Dropped GPT-6.2 Astra & Sol?!",
+     "channel": "Julian Goldie SEO",
+     "views": 2798,
+     "age_hours": 72,
+     "relevance": 0.6,
+     "velocity": 39
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3ybpPedm4u8",
+     "url": "https://www.youtube.com/watch?v=3ybpPedm4u8",
+     "title": "NEW GPT-6.2 Astra + Sol are HERE! 🤯",
+     "channel": "Julian Goldie SEO",
+     "views": 2830,
+     "age_hours": 72,
+     "relevance": 0.75,
+     "velocity": 39
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_DmQO0dzEv0",
+     "url": "https://www.youtube.com/watch?v=_DmQO0dzEv0",
+     "title": "GPT-6.2 Astra vs Sol: Which One Should You Actually Use?",
+     "channel": "SECourses",
+     "views": 1842,
+     "age_hours": 72,
+     "relevance": 0.6,
+     "velocity": 26
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:c8h4R1h4Ox4",
+     "url": "https://www.youtube.com/shorts/c8h4R1h4Ox4",
+     "title": "GPT-6.2 Astra vs GPT-6.2 Sol vs Fable 5.2 vs Opus 5.5 🛩️",
+     "channel": "",
+     "views": 395,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:auio_b7oj7A",
+     "url": "https://www.youtube.com/watch?v=auio_b7oj7A",
+     "title": "GPT-6.2 Astra vs. Sol: Which Should You Actually Use?",
+     "channel": "proflead",
+     "views": 480,
+     "age_hours": 48,
+     "relevance": 0.6,
+     "velocity": 10
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-22T08:14:29.370Z"
   },
   {
    "first_seen": "2026-11-20T19:49:55.422Z",
