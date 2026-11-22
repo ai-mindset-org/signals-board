@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:12:22.608Z",
+ "generated_at": "2026-11-22T18:24:05.779Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -388,109 +388,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-20T07:49:22.631Z"
-  },
-  {
-   "first_seen": "2026-11-19T18:50:03.332Z",
-   "id": "39929117",
-   "ids": [
-    "39929117",
-    "39927648"
-   ],
-   "title": "Gemini on Mac can now use your computer",
-   "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-   "source_id": "theverge",
-   "published_ts": "2026-11-19 18:21:13",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Automate Mac tasks with Gemini computer use",
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
-    }
-   ],
-   "queries": [
-    "gemini mac can use"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dp9x8EMAE9I",
-     "url": "https://www.youtube.com/watch?v=dp9x8EMAE9I",
-     "title": "Turn a Sketch Into a Rigged 3D Model With Computer Use in the Gemini App for Mac",
-     "channel": "Google Gemini",
-     "views": 20271,
-     "age_hours": 19,
-     "relevance": 0.8,
-     "velocity": 1067
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:cnU-oLj7ikc",
-     "url": "https://www.youtube.com/shorts/cnU-oLj7ikc",
-     "title": "Gemini Can Now Use Your Mac For You (Computer Use)",
-     "channel": "",
-     "views": 585,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:mjGJP13VmEE",
-     "url": "https://www.youtube.com/watch?v=mjGJP13VmEE",
-     "title": "Gemini Can Now Use Your Mac. But Who Approves the Clicks?",
-     "channel": "AI Mathias | AI Automation",
-     "views": 29,
-     "age_hours": 3,
-     "relevance": 0.8,
-     "velocity": 10
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:BVs_ZzZOkns",
-     "url": "https://www.youtube.com/shorts/BVs_ZzZOkns",
-     "title": "Gemini Mac app: computer use lets Gemini click, type, navigate menus and fill forms for you across l",
-     "channel": "",
-     "views": 94,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:vgEYrGsicyA",
-     "url": "https://www.youtube.com/watch?v=vgEYrGsicyA",
-     "title": "Google's Gemini Can Now Run Tasks Across Your Mac Apps While You Keep Working",
-     "channel": "Cyber A.I. Pros",
-     "views": 21,
-     "age_hours": 14,
-     "relevance": 0.6,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uyd99DIGFPE",
-     "url": "https://www.youtube.com/shorts/uyd99DIGFPE",
-     "title": "Google Gemini Can Now Use Your Mac for You? Here's the Catch #Shorts",
-     "channel": "",
-     "views": 66,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-20T13:21:50.182Z"
   },
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
