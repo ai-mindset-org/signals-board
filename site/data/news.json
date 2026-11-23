@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:10:39.877Z",
+ "generated_at": "2026-11-23T20:36:05.639Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,137 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Google Search’s",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Google Search’s",
+   "ok": true
+  },
+  {
+   "source": "youtube: google search mode drive",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google search mode drive",
+   "ok": true
+  },
+  {
+   "source": "youtube: meta ai chief superintelligence",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta ai chief superintelligence",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-11-23T20:36:05.639Z",
+   "id": "40000186",
+   "ids": [
+    "40000186",
+    "39997838"
+   ],
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-23 19:14:46",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Google Search’s AI Mode can now read your Wallet, with Drive next",
+     "url": "https://thenextweb.com/news/google-ai-mode-personal-intelligence-wallet-drive-gemini"
+    }
+   ],
+   "queries": [
+    "Google Search’s",
+    "google search mode drive"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:u-0YIU0N4sg",
+     "url": "https://www.youtube.com/shorts/u-0YIU0N4sg",
+     "title": "Claude Can Search Your Gmail and Drive. Turn This On",
+     "channel": "",
+     "views": 167,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Z3mAjn6e9kM",
+     "url": "https://www.youtube.com/shorts/Z3mAjn6e9kM",
+     "title": "Google just removed the Google Search button",
+     "channel": "",
+     "views": 157,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:U561U-JtRMM",
+     "url": "https://www.youtube.com/shorts/U561U-JtRMM",
+     "title": "Google AI Mode Now Has Its Own Incognito Mode 🕵️",
+     "channel": "",
+     "views": 145,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MjmenNKoZe8",
+     "url": "https://www.youtube.com/shorts/MjmenNKoZe8",
+     "title": "Google Killed the Search Button — AI Takes Over",
+     "channel": "",
+     "views": 33,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8hXhrItej6Q",
+     "url": "https://www.youtube.com/shorts/8hXhrItej6Q",
+     "title": "How Google Search AI Mode Changes SEO",
+     "channel": "",
+     "views": 15,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tECq7FDVTpM",
+     "url": "https://www.youtube.com/shorts/tECq7FDVTpM",
+     "title": "Google Search Homepage AI Redesign",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-23T20:36:13.542Z"
+  },
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
    "id": "39975237",
@@ -111,109 +240,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-22T10:35:49.214Z"
-  },
-  {
-   "first_seen": "2026-11-23T19:36:31.978Z",
-   "id": "39999187",
-   "ids": [
-    "39999187",
-    "39996077"
-   ],
-   "title": "AI server makers are raising prices by up to 45% — even on signed contracts",
-   "url": "https://dailyai.com/2026/11/ai-server-makers-are-raising-prices-by-up-to-45-even-on-signed-contracts/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-23 17:50:25",
-   "story_sources": 2,
-   "score_norm": 95,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "AI server makers raise prices up to 45% after deals are signed, FT reports",
-     "url": "https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft"
-    }
-   ],
-   "queries": [
-    "45 ai server makers"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QLRKMqxYLxo",
-     "url": "https://www.youtube.com/shorts/QLRKMqxYLxo",
-     "title": "AI SERVER PRICES UP TO 45% MORE",
-     "channel": "",
-     "views": 44,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ccQNKeqESTw",
-     "url": "https://www.youtube.com/shorts/ccQNKeqESTw",
-     "title": "AI servers just got up to 45% pricier after deals were signed",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dqeyA5l9Y68",
-     "url": "https://www.youtube.com/shorts/dqeyA5l9Y68",
-     "title": "Report: AI server suppliers asking more after deals are signed; one person cites up to 45%",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IJozB322-p8",
-     "url": "https://www.youtube.com/shorts/IJozB322-p8",
-     "title": "AI Server Makers Reportedly Raise Prices on Signed Deals, Up to 45%",
-     "channel": "",
-     "views": 9,
-     "age_hours": null,
-     "relevance": 0.7,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VHux4cxMe1A",
-     "url": "https://www.youtube.com/shorts/VHux4cxMe1A",
-     "title": "AI Server Prices Up to 45%: What It Could Mean for AI Capex | Global Daily",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D8fFUktX7pI",
-     "url": "https://www.youtube.com/shorts/D8fFUktX7pI",
-     "title": "Server makers want up to 45% more #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-23T19:36:36.484Z"
   },
   {
    "first_seen": "2026-11-20T19:09:45.006Z",
@@ -493,37 +519,6 @@
    "searched_at": "2026-11-22T12:49:48.478Z"
   },
   {
-   "first_seen": "2026-11-23T15:36:43.569Z",
-   "id": "39992171",
-   "ids": [
-    "39992171",
-    "39994484"
-   ],
-   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
-   "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-23 13:16:44",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "India AI funding nearly doubles to $1.6 billion in 9M 2026: Tracxn",
-     "url": "https://www.thehindubusinessline.com/info-tech/india-ai-funding-nearly-doubles-to-16-billion-in-9m-2026-tracxn/article71734283.ece"
-    }
-   ],
-   "queries": [
-    "Jan-Sept 2026",
-    "india 1.6b jan-sept 2026"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-23T15:36:51.438Z"
-  },
-  {
    "first_seen": "2026-11-21T10:49:41.857Z",
    "id": "39961570",
    "ids": [
@@ -628,99 +623,99 @@
    "searched_at": "2026-11-22T05:11:40.630Z"
   },
   {
-   "first_seen": "2026-11-23T14:24:51.338Z",
-   "id": "39988800",
+   "first_seen": "2026-11-23T19:36:31.978Z",
+   "id": "39999187",
    "ids": [
-    "39988800",
-    "39992753"
+    "39999187",
+    "39996077"
    ],
-   "title": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
-   "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/",
+   "title": "AI server makers are raising prices by up to 45% — even on signed contracts",
+   "url": "https://dailyai.com/2026/11/ai-server-makers-are-raising-prices-by-up-to-45-even-on-signed-contracts/",
    "source_id": "x-dailyai",
-   "published_ts": "2026-11-23 08:51:58",
+   "published_ts": "2026-11-23 17:50:25",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "eu-tnw",
-     "title": "Meta’s AI chief says superintelligence is arriving and control is at risk",
-     "url": "https://thenextweb.com/news/metas-ai-chief-says-superintelligence-is-arriving-and-control-is-at-risk"
+     "title": "AI server makers raise prices up to 45% after deals are signed, FT reports",
+     "url": "https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft"
     }
    ],
    "queries": [
-    "meta ai chief superintelligence"
+    "45 ai server makers"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:XQKqQFIpMyc",
-     "url": "https://www.youtube.com/shorts/XQKqQFIpMyc",
-     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
+     "id": "youtube:QLRKMqxYLxo",
+     "url": "https://www.youtube.com/shorts/QLRKMqxYLxo",
+     "title": "AI SERVER PRICES UP TO 45% MORE",
      "channel": "",
-     "views": 1200,
+     "views": 44,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:L1xU2VhSMxQ",
-     "url": "https://www.youtube.com/watch?v=L1xU2VhSMxQ",
-     "title": "Riemann Hypothesis Proved with AI? Meta's AI Chief: Superintelligence Is Arriving #AI #Math",
-     "channel": "硅谷工具箱",
-     "views": 16,
-     "age_hours": 11,
-     "relevance": 0.63,
-     "velocity": 1
+     "kind": "shorts",
+     "id": "youtube:ccQNKeqESTw",
+     "url": "https://www.youtube.com/shorts/ccQNKeqESTw",
+     "title": "AI servers just got up to 45% pricier after deals were signed",
+     "channel": "",
+     "views": 18,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:cFxXgM4Mn0k",
-     "url": "https://www.youtube.com/watch?v=cFxXgM4Mn0k",
-     "title": "Meta's AI Chief: \"Superintelligence Is Arriving\" + GLM-5.4 Explained & Gemini 4 Helium! AI NEWS",
-     "channel": "Frontier Daily",
+     "kind": "shorts",
+     "id": "youtube:dqeyA5l9Y68",
+     "url": "https://www.youtube.com/shorts/dqeyA5l9Y68",
+     "title": "Report: AI server suppliers asking more after deals are signed; one person cites up to 45%",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IJozB322-p8",
+     "url": "https://www.youtube.com/shorts/IJozB322-p8",
+     "title": "AI Server Makers Reportedly Raise Prices on Signed Deals, Up to 45%",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.7,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VHux4cxMe1A",
+     "url": "https://www.youtube.com/shorts/VHux4cxMe1A",
+     "title": "AI Server Prices Up to 45%: What It Could Mean for AI Capex | Global Daily",
+     "channel": "",
      "views": 1,
-     "age_hours": 1,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:J_IvZs_nbDI",
-     "url": "https://www.youtube.com/shorts/J_IvZs_nbDI",
-     "title": "Meta's Alexandr Wang: \"Superintelligence Is Arriving\"",
-     "channel": "",
-     "views": 10,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:87sgDx6-tV8",
-     "url": "https://www.youtube.com/shorts/87sgDx6-tV8",
-     "title": "Meta's AI Chief Says 'Superintelligence Is Arriving' — and Warns About AI 1,000x Smarter Than Us",
+     "id": "youtube:D8fFUktX7pI",
+     "url": "https://www.youtube.com/shorts/D8fFUktX7pI",
+     "title": "Server makers want up to 45% more #Shorts",
      "channel": "",
-     "views": 10,
+     "views": 1,
      "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nc6Ay6Ue5lA",
-     "url": "https://www.youtube.com/shorts/nc6Ay6Ue5lA",
-     "title": "Meta AI Chief: \"Superintelligence Is Arriving\" + Anthropic's Record $81B IPO | AI News in 30s",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.63,
+     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -728,7 +723,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-23T14:24:55.500Z"
+   "searched_at": "2026-11-23T19:36:36.484Z"
   },
   {
    "first_seen": "2026-11-22T08:14:21.591Z",
@@ -936,6 +931,140 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-21T13:09:50.343Z"
+  },
+  {
+   "first_seen": "2026-11-23T15:36:43.569Z",
+   "id": "39992171",
+   "ids": [
+    "39992171",
+    "39994484"
+   ],
+   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+   "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-23 13:16:44",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "India AI funding nearly doubles to $1.6 billion in 9M 2026: Tracxn",
+     "url": "https://www.thehindubusinessline.com/info-tech/india-ai-funding-nearly-doubles-to-16-billion-in-9m-2026-tracxn/article71734283.ece"
+    }
+   ],
+   "queries": [
+    "Jan-Sept 2026",
+    "india 1.6b jan-sept 2026"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-23T15:36:51.438Z"
+  },
+  {
+   "first_seen": "2026-11-23T14:24:51.338Z",
+   "id": "39988800",
+   "ids": [
+    "39988800",
+    "39992753"
+   ],
+   "title": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
+   "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-23 08:51:58",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Meta’s AI chief says superintelligence is arriving and control is at risk",
+     "url": "https://thenextweb.com/news/metas-ai-chief-says-superintelligence-is-arriving-and-control-is-at-risk"
+    }
+   ],
+   "queries": [
+    "meta ai chief superintelligence"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_OUo4xvQyMQ",
+     "url": "https://www.youtube.com/watch?v=_OUo4xvQyMQ",
+     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
+     "channel": "The Good Takeoff",
+     "views": 2066,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 689
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XQKqQFIpMyc",
+     "url": "https://www.youtube.com/shorts/XQKqQFIpMyc",
+     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
+     "channel": "",
+     "views": 1400,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6VsZGXQK4TY",
+     "url": "https://www.youtube.com/shorts/6VsZGXQK4TY",
+     "title": "META’S CHIEF AI OFFICER WARNS THAT AI IS APPROACHING A POINT WHERE HUMANITY CANNOT CONTROL IT",
+     "channel": "",
+     "views": 370,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:L1xU2VhSMxQ",
+     "url": "https://www.youtube.com/watch?v=L1xU2VhSMxQ",
+     "title": "Riemann Hypothesis Proved with AI? Meta's AI Chief: Superintelligence Is Arriving #AI #Math",
+     "channel": "硅谷工具箱",
+     "views": 64,
+     "age_hours": 18,
+     "relevance": 0.63,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tD88krQtjG4",
+     "url": "https://www.youtube.com/shorts/tD88krQtjG4",
+     "title": "Meta's AI Chief says Superintelligence Is Arriving!",
+     "channel": "",
+     "views": 128,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:cFxXgM4Mn0k",
+     "url": "https://www.youtube.com/watch?v=cFxXgM4Mn0k",
+     "title": "Meta's AI Chief: \"Superintelligence Is Arriving\" + GLM-5.4 Explained & Gemini 4 Helium! AI NEWS",
+     "channel": "Frontier Daily",
+     "views": 12,
+     "age_hours": 7,
+     "relevance": 0.63,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-23T20:36:17.059Z"
   },
   {
    "first_seen": "2026-11-21T03:13:28.969Z",
