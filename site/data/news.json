@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:49:49.193Z",
+ "generated_at": "2026-11-23T21:49:50.789Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: import 482 huawei ai",
+   "source": "youtube: Jan-Sept 2026",
    "ok": true
   },
   {
-   "source": "tiktok: import 482 huawei ai",
+   "source": "tiktok: Jan-Sept 2026",
+   "ok": true
+  },
+  {
+   "source": "youtube: india 1.6b jan-sept 2026",
+   "ok": true
+  },
+  {
+   "source": "tiktok: india 1.6b jan-sept 2026",
    "ok": true
   }
  ],
@@ -958,7 +966,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-23 13:16:44",
    "story_sources": 2,
-   "score_norm": 53,
+   "score_norm": 54,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -975,7 +983,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-23T15:36:51.438Z"
+   "searched_at": "2026-11-23T21:49:58.203Z"
   },
   {
    "first_seen": "2026-11-23T14:24:51.338Z",
@@ -989,7 +997,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-23 08:51:58",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "eu-tnw",
