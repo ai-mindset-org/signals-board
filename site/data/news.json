@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:24:05.779Z",
+ "generated_at": "2026-11-23T03:15:29.293Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -805,110 +805,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-21T02:15:23.295Z"
-  },
-  {
-   "first_seen": "2026-11-20T06:42:19.132Z",
-   "id": "39938763",
-   "ids": [
-    "39938763",
-    "39930731"
-   ],
-   "title": "Google Employees Petition to Let Schools Use Search Without AI",
-   "url": "https://gizmodo.com/google-employees-petition-to-let-schools-use-search-without-ai-2000842549",
-   "source_id": "gizmodo-ai",
-   "published_ts": "2026-11-20 03:06:47",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Employees call out Google over AI Search in schools",
-     "url": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/"
-    }
-   ],
-   "queries": [
-    "Let Schools Use Search Without",
-    "google employees petition let"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:33RMC8Hz4NA",
-     "url": "https://www.youtube.com/shorts/33RMC8Hz4NA",
-     "title": "“It feels like a hostage situation.” Google threatens to block search in schools that disable AI",
-     "channel": "",
-     "views": 386000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QYnn31cXPcs",
-     "url": "https://www.youtube.com/shorts/QYnn31cXPcs",
-     "title": "Google Will Take Search Away From Schools That Say No To AI",
-     "channel": "",
-     "views": 1300,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:H87Kcvo4Mts",
-     "url": "https://www.youtube.com/shorts/H87Kcvo4Mts",
-     "title": "Google Is Making Schools Use AI Search or No Search At All",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:HN9WamGqFsk",
-     "url": "https://www.youtube.com/shorts/HN9WamGqFsk",
-     "title": "Google Search in schools is a leverage play #Shorts",
-     "channel": "",
-     "views": 58,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LNfxbd_9iwY",
-     "url": "https://www.youtube.com/watch?v=LNfxbd_9iwY",
-     "title": "Google Workers Revolt Over AI in Schools",
-     "channel": "The CSEians",
-     "views": 1,
-     "age_hours": 0.6833333333333333,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:a_cDrmLkeLs",
-     "url": "https://www.youtube.com/shorts/a_cDrmLkeLs",
-     "title": "Google will cut off Search for schools that opt out of its AI features",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-20T12:49:56.427Z"
   },
   {
    "first_seen": "2026-11-21T06:49:37.381Z",
