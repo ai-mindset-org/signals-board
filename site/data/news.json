@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:24:51.338Z",
+ "generated_at": "2026-11-23T15:36:43.569Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,117 +9,53 @@
  },
  "search_report": [
   {
-   "source": "youtube: meta ai chief superintelligence",
+   "source": "youtube: Jan-Sept 2026",
    "ok": true
   },
   {
-   "source": "tiktok: meta ai chief superintelligence",
+   "source": "tiktok: Jan-Sept 2026",
+   "ok": true
+  },
+  {
+   "source": "youtube: india 1.6b jan-sept 2026",
+   "ok": true
+  },
+  {
+   "source": "tiktok: india 1.6b jan-sept 2026",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-23T14:24:51.338Z",
-   "id": "39988800",
+   "first_seen": "2026-11-23T15:36:43.569Z",
+   "id": "39992171",
    "ids": [
-    "39988800",
-    "39992753"
+    "39992171",
+    "39994484"
    ],
-   "title": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
-   "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-23 08:51:58",
+   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+   "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-23 13:16:44",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "eu-tnw",
-     "title": "Meta’s AI chief says superintelligence is arriving and control is at risk",
-     "url": "https://thenextweb.com/news/metas-ai-chief-says-superintelligence-is-arriving-and-control-is-at-risk"
+     "source_id": "in-businessline",
+     "title": "India AI funding nearly doubles to $1.6 billion in 9M 2026: Tracxn",
+     "url": "https://www.thehindubusinessline.com/info-tech/india-ai-funding-nearly-doubles-to-16-billion-in-9m-2026-tracxn/article71734283.ece"
     }
    ],
    "queries": [
-    "meta ai chief superintelligence"
+    "Jan-Sept 2026",
+    "india 1.6b jan-sept 2026"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XQKqQFIpMyc",
-     "url": "https://www.youtube.com/shorts/XQKqQFIpMyc",
-     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:L1xU2VhSMxQ",
-     "url": "https://www.youtube.com/watch?v=L1xU2VhSMxQ",
-     "title": "Riemann Hypothesis Proved with AI? Meta's AI Chief: Superintelligence Is Arriving #AI #Math",
-     "channel": "硅谷工具箱",
-     "views": 16,
-     "age_hours": 11,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:cFxXgM4Mn0k",
-     "url": "https://www.youtube.com/watch?v=cFxXgM4Mn0k",
-     "title": "Meta's AI Chief: \"Superintelligence Is Arriving\" + GLM-5.4 Explained & Gemini 4 Helium! AI NEWS",
-     "channel": "Frontier Daily",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:J_IvZs_nbDI",
-     "url": "https://www.youtube.com/shorts/J_IvZs_nbDI",
-     "title": "Meta's Alexandr Wang: \"Superintelligence Is Arriving\"",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:87sgDx6-tV8",
-     "url": "https://www.youtube.com/shorts/87sgDx6-tV8",
-     "title": "Meta's AI Chief Says 'Superintelligence Is Arriving' — and Warns About AI 1,000x Smarter Than Us",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:nc6Ay6Ue5lA",
-     "url": "https://www.youtube.com/shorts/nc6Ay6Ue5lA",
-     "title": "Meta AI Chief: \"Superintelligence Is Arriving\" + Anthropic's Record $81B IPO | AI News in 30s",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-23T14:24:55.500Z"
+   "searched_at": "2026-11-23T15:36:51.438Z"
   },
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -333,6 +269,109 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-21T20:10:18.885Z"
+  },
+  {
+   "first_seen": "2026-11-23T14:24:51.338Z",
+   "id": "39988800",
+   "ids": [
+    "39988800",
+    "39992753"
+   ],
+   "title": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
+   "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-23 08:51:58",
+   "story_sources": 2,
+   "score_norm": 92,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Meta’s AI chief says superintelligence is arriving and control is at risk",
+     "url": "https://thenextweb.com/news/metas-ai-chief-says-superintelligence-is-arriving-and-control-is-at-risk"
+    }
+   ],
+   "queries": [
+    "meta ai chief superintelligence"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XQKqQFIpMyc",
+     "url": "https://www.youtube.com/shorts/XQKqQFIpMyc",
+     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:L1xU2VhSMxQ",
+     "url": "https://www.youtube.com/watch?v=L1xU2VhSMxQ",
+     "title": "Riemann Hypothesis Proved with AI? Meta's AI Chief: Superintelligence Is Arriving #AI #Math",
+     "channel": "硅谷工具箱",
+     "views": 16,
+     "age_hours": 11,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:cFxXgM4Mn0k",
+     "url": "https://www.youtube.com/watch?v=cFxXgM4Mn0k",
+     "title": "Meta's AI Chief: \"Superintelligence Is Arriving\" + GLM-5.4 Explained & Gemini 4 Helium! AI NEWS",
+     "channel": "Frontier Daily",
+     "views": 1,
+     "age_hours": 1,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:J_IvZs_nbDI",
+     "url": "https://www.youtube.com/shorts/J_IvZs_nbDI",
+     "title": "Meta's Alexandr Wang: \"Superintelligence Is Arriving\"",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:87sgDx6-tV8",
+     "url": "https://www.youtube.com/shorts/87sgDx6-tV8",
+     "title": "Meta's AI Chief Says 'Superintelligence Is Arriving' — and Warns About AI 1,000x Smarter Than Us",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:nc6Ay6Ue5lA",
+     "url": "https://www.youtube.com/shorts/nc6Ay6Ue5lA",
+     "title": "Meta AI Chief: \"Superintelligence Is Arriving\" + Anthropic's Record $81B IPO | AI News in 30s",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-23T14:24:55.500Z"
   },
   {
    "first_seen": "2026-11-21T04:12:09.162Z",
