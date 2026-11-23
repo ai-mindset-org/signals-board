@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:16:36.426Z",
+ "generated_at": "2026-11-23T12:50:03.176Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -596,110 +596,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-22T08:14:29.370Z"
-  },
-  {
-   "first_seen": "2026-11-20T19:49:55.422Z",
-   "id": "39945719",
-   "ids": [
-    "39945719",
-    "39952110"
-   ],
-   "title": "GPT-6.2 Astra and Sol: A Hands-On Performance Review",
-   "url": "https://www.analyticsvidhya.com/blog/2026/11/gpt-6-2-astra-sol-review/",
-   "source_id": "in-analyticsvidhya",
-   "published_ts": "2026-11-20 12:44:52",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT-6.2 Sol and Astra review: should you switch?",
-     "url": "https://www.coderabbit.ai/blog/gpt-6-2-sol-and-astra-review"
-    }
-   ],
-   "queries": [
-    "A Hands-On Performance Review",
-    "gpt-6.2 astra sol hands-on"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wgWtx1wW6Gk",
-     "url": "https://www.youtube.com/watch?v=wgWtx1wW6Gk",
-     "title": "GPT-6.2 Astra & Sol Are OUT! (So Why Is Everyone Upset?)",
-     "channel": "Universe of AI",
-     "views": 66182,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 919
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0LAXaUgRKn0",
-     "url": "https://www.youtube.com/watch?v=0LAXaUgRKn0",
-     "title": "[ChatGPT God-Tier Update] GPT-6.2 Astra / Sol Are Finally Here! What’s Evolved? Hands-on Review &...",
-     "channel": "じゅりん│AIビジネス活用塾",
-     "views": 16554,
-     "age_hours": 48,
-     "relevance": 0.83,
-     "velocity": 345
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:2viKnCdnnPY",
-     "url": "https://www.youtube.com/watch?v=2viKnCdnnPY",
-     "title": "GPT-6.2 Astra vs Sol | First Impressions",
-     "channel": "Arena  ",
-     "views": 16276,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 339
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C2pTgjhYLII",
-     "url": "https://www.youtube.com/watch?v=C2pTgjhYLII",
-     "title": "GPT-6.2 Astra and Sol Explained So Simply That Anyone Can Understand",
-     "channel": "Make First Million - Badar Munir",
-     "views": 9504,
-     "age_hours": 48,
-     "relevance": 0.5,
-     "velocity": 198
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ZEK0_ZhNEhI",
-     "url": "https://www.youtube.com/watch?v=ZEK0_ZhNEhI",
-     "title": "GPT-6.2 Astra & Sol... Why are people mad?",
-     "channel": "Mark Santos",
-     "views": 5949,
-     "age_hours": 72,
-     "relevance": 0.6,
-     "velocity": 83
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_dWDeEhFFFo",
-     "url": "https://www.youtube.com/watch?v=_dWDeEhFFFo",
-     "title": "OpenAI Just Dropped GPT-6.2 Astra & Sol?!",
-     "channel": "Julian Goldie SEO",
-     "views": 2745,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 57
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T02:15:23.295Z"
   },
   {
    "first_seen": "2026-11-21T06:49:37.381Z",
