@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:36:05.639Z",
+ "generated_at": "2026-11-23T20:49:49.193Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Google Search’s",
+   "source": "youtube: import 482 huawei ai",
    "ok": true
   },
   {
-   "source": "tiktok: Google Search’s",
-   "ok": true
-  },
-  {
-   "source": "youtube: google search mode drive",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google search mode drive",
-   "ok": true
-  },
-  {
-   "source": "youtube: meta ai chief superintelligence",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta ai chief superintelligence",
+   "source": "tiktok: import 482 huawei ai",
    "ok": true
   }
  ],
@@ -828,6 +812,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-22T08:14:29.370Z"
+  },
+  {
+   "first_seen": "2026-11-23T20:49:49.193Z",
+   "id": "40000811",
+   "ids": [
+    "40000811",
+    "39993384"
+   ],
+   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-23 14:11:17",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+   ],
+   "queries": [
+    "import 482 huawei ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-23T20:49:53.083Z"
   },
   {
    "first_seen": "2026-11-21T06:49:37.381Z",
