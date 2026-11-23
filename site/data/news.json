@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:36:31.978Z",
+ "generated_at": "2026-11-23T20:10:39.877Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: 45 ai server makers",
-   "ok": true
-  },
-  {
-   "source": "tiktok: 45 ai server makers",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -648,7 +639,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-23 08:51:58",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -989,109 +980,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-21T15:35:43.043Z"
-  },
-  {
-   "first_seen": "2026-11-20T20:21:34.823Z",
-   "id": "39952761",
-   "ids": [
-    "39952761",
-    "39950225"
-   ],
-   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-   "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-20 19:50:27",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Signal blocks screenshots to stop AI agents from reading private chats",
-     "url": "https://www.thehindubusinessline.com/info-tech/signal-blocks-screenshots-to-stop-ai-agents-from-reading-private-chats/article71725925.ece"
-    }
-   ],
-   "queries": [
-    "signal 27 android blocks"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TsWDp1bcvbQ",
-     "url": "https://www.youtube.com/shorts/TsWDp1bcvbQ",
-     "title": "Signal blocks Siri AI: what changes on iOS 27",
-     "channel": "",
-     "views": 21,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:0KR73u3E2eo",
-     "url": "https://www.youtube.com/shorts/0KR73u3E2eo",
-     "title": "Signal's iOS 27 screenshot block stops AI agents",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZqrbPQ3f3NA",
-     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
-     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.73,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NQE0omCGJ_U",
-     "url": "https://www.youtube.com/shorts/NQE0omCGJ_U",
-     "title": "Signal Now Blocks AI From Reading Your Chats (Not on Mac)",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ra2u5gQSDlk",
-     "url": "https://www.youtube.com/shorts/ra2u5gQSDlk",
-     "title": "Signal blocks screenshots so AI agents can't read chats",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:no-3MiGf-yI",
-     "url": "https://www.youtube.com/shorts/no-3MiGf-yI",
-     "title": "Signal now blocks Gemini and Siri from reading your chats",
-     "channel": "",
-     "views": 3,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-21T14:49:37.663Z"
   }
  ]
 }
