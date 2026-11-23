@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:15:29.293Z",
+ "generated_at": "2026-11-23T07:49:36.977Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -283,111 +283,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-21T10:20:38.091Z"
-  },
-  {
-   "first_seen": "2026-11-19T12:16:15.559Z",
-   "id": "39920984",
-   "ids": [
-    "39920984",
-    "39919053",
-    "39939767"
-   ],
-   "title": "US approved 879,000 Nvidia, AMD AI chips for China",
-   "url": "https://www.techinasia.com/news/us-approved-879000-nvidia-amd-ai-chips-for-china",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-20 07:39:36",
-   "story_sources": 2,
-   "score_norm": 90,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Nvidia stops shipping US-approved AI chips to China",
-     "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
-    }
-   ],
-   "queries": [
-    "879,000 Nvidia",
-    "us 879 000 nvidia"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:C3IoSLjZaF8",
-     "url": "https://www.youtube.com/watch?v=C3IoSLjZaF8",
-     "title": "Exposed! \"US\" Sold 879,000 AI Chips to China in 6 Months | Millionaire Marketing 11-20-2026",
-     "channel": "TNN",
-     "views": 3041,
-     "age_hours": 5,
-     "relevance": 0.67,
-     "velocity": 608
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:DerJAXN4TQY",
-     "url": "https://www.youtube.com/watch?v=DerJAXN4TQY",
-     "title": "Nvidia Chips China: Why 879,000 Were Approved",
-     "channel": "Infrastructure in Minutes",
-     "views": 3,
-     "age_hours": 1,
-     "relevance": 1,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YHH-GtCZpE4",
-     "url": "https://www.youtube.com/watch?v=YHH-GtCZpE4",
-     "title": "Nvidia DOWN 22% in 9 Days! US Approved 879,000 AI Chips to China?!",
-     "channel": "VexaForge",
-     "views": 3,
-     "age_hours": 2,
-     "relevance": 0.89,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HnLJjlXE3mw",
-     "url": "https://www.youtube.com/watch?v=HnLJjlXE3mw",
-     "title": "US Department of Commerce in hot water for approving 870,000 AI chips for China…",
-     "channel": "速報ネコ",
-     "views": 1,
-     "age_hours": 4,
-     "relevance": 0.56,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:2zT0Zugcwkk",
-     "url": "https://www.youtube.com/watch?v=2zT0Zugcwkk",
-     "title": "House panel: US approved 879,000 AI chips for China",
-     "channel": "The Tomorrow Desk",
-     "views": 3,
-     "age_hours": 8,
-     "relevance": 0.78,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Zb-F9Jis3FU",
-     "url": "https://www.youtube.com/watch?v=Zb-F9Jis3FU",
-     "title": "House panel says US approved 879,000 AI chips for China | Vocemundi AI News",
-     "channel": "Vocemundi",
-     "views": 0,
-     "age_hours": 1,
-     "relevance": 0.78,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-20T07:49:22.631Z"
   },
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
