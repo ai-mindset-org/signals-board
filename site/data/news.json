@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:24:01.868Z",
+ "generated_at": "2026-11-24T14:49:55.226Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Launches Dictation API For English",
+   "source": "youtube: Google Search’s",
    "ok": true
   },
   {
-   "source": "tiktok: Launches Dictation API For English",
+   "source": "tiktok: Google Search’s",
    "ok": true
   },
   {
-   "source": "youtube: sarvam launches dictation api",
+   "source": "youtube: google search mode drive",
    "ok": true
   },
   {
-   "source": "tiktok: sarvam launches dictation api",
+   "source": "tiktok: google search mode drive",
    "ok": true
   }
  ],
@@ -563,15 +563,21 @@
    "id": "40011747",
    "ids": [
     "40011747",
-    "40013064"
+    "40013064",
+    "40014365"
    ],
    "title": "Anthropic Slips Below $83 IPO Price in Premarket Trade",
    "url": "https://thedefiant.io/frontier/markets/anthropic-slips-below-83-ipo-price-in-premarket-trade",
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 11:30:46",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 78,
    "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic is below its IPO price",
+     "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa"
+    },
     {
      "source_id": "hn",
      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
@@ -682,7 +688,7 @@
      "url": "https://www.youtube.com/shorts/umdvsx0qYLo",
      "title": "Google Doesn't Search the Internet",
      "channel": "",
-     "views": 1000,
+     "views": 1100,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -694,7 +700,7 @@
      "url": "https://www.youtube.com/shorts/T7Q9JE1iTnE",
      "title": "Google Removes the Search Button: AI Mode Takes Over #shorts",
      "channel": "",
-     "views": 121,
+     "views": 127,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -702,11 +708,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:8hXhrItej6Q",
-     "url": "https://www.youtube.com/shorts/8hXhrItej6Q",
-     "title": "How Google Search AI Mode Changes SEO",
+     "id": "youtube:ZF0GIQ-eVY8",
+     "url": "https://www.youtube.com/shorts/ZF0GIQ-eVY8",
+     "title": "Google AI Mode Can Read Your Drive and Wallet: Check This #Shorts",
      "channel": "",
-     "views": 16,
+     "views": 68,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -714,37 +720,37 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:7nIIZgcbTtU",
-     "url": "https://www.youtube.com/shorts/7nIIZgcbTtU",
-     "title": "No AI, no Google Search at school? #parenting #AI",
+     "id": "youtube:EL8Qrin9XIs",
+     "url": "https://www.youtube.com/shorts/EL8Qrin9XIs",
+     "title": "Google AI Mode Can Now Tap Into Your Drive and Wallet #shorts",
      "channel": "",
-     "views": 13,
+     "views": 18,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.88,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:vRGG3Jo7dXQ",
-     "url": "https://www.youtube.com/shorts/vRGG3Jo7dXQ",
-     "title": "Google AI Mode Now Has an Incognito Mode",
+     "id": "youtube:Zv9MThtQkWM",
+     "url": "https://www.youtube.com/shorts/Zv9MThtQkWM",
+     "title": "Google's AI Search Just Got an Incognito Mode",
      "channel": "",
-     "views": 8,
+     "views": 15,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:wD6cB4lr070",
-     "url": "https://www.youtube.com/shorts/wD6cB4lr070",
-     "title": "Google Search Now Connects Your Wallet and Drive | Nova Explains",
+     "id": "youtube:zxdMRIrhvKw",
+     "url": "https://www.youtube.com/shorts/zxdMRIrhvKw",
+     "title": "Drive and Gemini Are Coming to Google Search AI Mode",
      "channel": "",
-     "views": 7,
+     "views": 12,
      "age_hours": null,
-     "relevance": 0.57,
+     "relevance": 0.71,
      "velocity": null
     }
    ],
@@ -752,7 +758,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T08:38:51.068Z"
+   "searched_at": "2026-11-24T14:50:03.076Z"
   },
   {
    "first_seen": "2026-11-22T08:14:21.591Z",
