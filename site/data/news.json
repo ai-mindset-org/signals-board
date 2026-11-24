@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:49:50.077Z",
+ "generated_at": "2026-11-24T21:10:26.379Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic Slips Below 83 IPO Price",
+   "source": "youtube: Solved Math’s Most Famous Problem Now Humans Are Struggling",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic Slips Below 83 IPO Price",
+   "source": "tiktok: Solved Math’s Most Famous Problem Now Humans Are Struggling",
    "ok": true
   },
   {
-   "source": "youtube: anthropic slips below 83",
+   "source": "youtube: solved math most famous",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic slips below 83",
-   "ok": true
-  },
-  {
-   "source": "youtube: meta muse uk ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta muse uk ai",
+   "source": "tiktok: solved math most famous",
    "ok": true
   }
  ],
@@ -467,7 +459,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-24 15:07:11",
    "story_sources": 3,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -577,7 +569,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 22:05:50",
    "story_sources": 3,
-   "score_norm": 59,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -1169,7 +1161,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 11:30:46",
    "story_sources": 2,
-   "score_norm": 44,
+   "score_norm": 45,
    "related_news": [
     {
      "source_id": "hn",
@@ -1358,6 +1350,110 @@
    "searched_at": "2026-11-24T19:50:01.251Z"
   },
   {
+   "first_seen": "2026-11-24T21:10:26.379Z",
+   "id": "40012313",
+   "ids": [
+    "40012313",
+    "40021124"
+   ],
+   "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+   "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+   "source_id": "wired-ai",
+   "published_ts": "2026-11-24 10:15:00",
+   "story_sources": 2,
+   "score_norm": 41,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "The Most Famous Problem in Math Was Just Solved by AI–and This Human",
+     "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb"
+    }
+   ],
+   "queries": [
+    "Solved Math’s Most Famous Problem Now Humans Are Struggling",
+    "solved math most famous"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GXTC-G_oOtQ",
+     "url": "https://www.youtube.com/watch?v=GXTC-G_oOtQ",
+     "title": "Has AI Solved Math's Pinnacle Problem? | World Science Festival",
+     "channel": "World Science Festival",
+     "views": 404248,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 5615
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:C07_okYdkK8",
+     "url": "https://www.youtube.com/shorts/C07_okYdkK8",
+     "title": "AI May Have Just Solved a 167-Year-Old Math Problem",
+     "channel": "",
+     "views": 16000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:4fLVq6HJsKc",
+     "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+     "title": "DeepSeek Solved AI’s Memory Problem",
+     "channel": "@TwoMinutePapers",
+     "views": 324000,
+     "age_hours": 1046.171261111111,
+     "relevance": 0.6,
+     "velocity": 310
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WvyKrUzhe_M",
+     "url": "https://www.youtube.com/shorts/WvyKrUzhe_M",
+     "title": "Did Claude just prove the most famous unsolved problem in math problem?",
+     "channel": "",
+     "views": 6400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kQ3FSDIWJKg",
+     "url": "https://www.youtube.com/shorts/kQ3FSDIWJKg",
+     "title": "Did a mathematician and an AI just solve math's most famous problem?",
+     "channel": "",
+     "views": 5500,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:80FPXUBOnA4",
+     "url": "https://www.youtube.com/watch?v=80FPXUBOnA4",
+     "title": "Did AI Just Solve Math's Most Famous Problem?",
+     "channel": "Versors",
+     "views": 10069,
+     "age_hours": 72,
+     "relevance": 0.71,
+     "velocity": 140
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-24T21:10:34.306Z"
+  },
+  {
    "first_seen": "2026-11-24T15:11:53.228Z",
    "id": "40014748",
    "ids": [
@@ -1473,7 +1569,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-24 06:53:53",
    "story_sources": 2,
-   "score_norm": 36,
+   "score_norm": 37,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -1576,7 +1672,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 03:50:34",
    "story_sources": 2,
-   "score_norm": 36,
+   "score_norm": 37,
    "related_news": [
     {
      "source_id": "eu-siliconrepublic",
