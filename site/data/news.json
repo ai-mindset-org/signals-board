@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T01:39:46.293Z",
+ "generated_at": "2026-11-24T02:36:49.118Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: 45 ai server makers",
+   "source": "youtube: Google Search’s",
    "ok": true
   },
   {
-   "source": "tiktok: 45 ai server makers",
+   "source": "tiktok: Google Search’s",
+   "ok": true
+  },
+  {
+   "source": "youtube: google search mode drive",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google search mode drive",
+   "ok": true
+  },
+  {
+   "source": "youtube: meta ai chief superintelligence",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta ai chief superintelligence",
    "ok": true
   }
  ],
@@ -336,68 +352,6 @@
    "searched_at": "2026-11-21T20:10:18.885Z"
   },
   {
-   "first_seen": "2026-11-21T04:12:09.162Z",
-   "id": "39958332",
-   "ids": [
-    "39958332",
-    "39945898",
-    "39945899"
-   ],
-   "title": "SpaceX-owned Cursor weighs phasing out Chinese AI models",
-   "url": "https://www.techinasia.com/news/spacexowned-cursor-weighs-phasing-chinese-ai-models",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-21 02:35:37",
-   "story_sources": 2,
-   "score_norm": 92,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Cursor tells lawmakers it's considering phasing out Chinese AI models",
-     "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
-    },
-    {
-     "source_id": "hn",
-     "title": "Cursor considering phasing out Chinese AI models",
-     "url": "https://www.cnbc.com/2026/11/20/cursor-"
-    }
-   ],
-   "queries": [
-    "SpaceX-owned Cursor",
-    "spacex-owned cursor chinese weighs"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:riyq4EFW_s0",
-     "url": "https://www.youtube.com/watch?v=riyq4EFW_s0",
-     "title": "Cursor exploring phase-out of Chinese AI models, joint House report says #Shorts",
-     "channel": "That Was Yesterday",
-     "views": 11,
-     "age_hours": 0.9833333333333333,
-     "relevance": 0.5,
-     "velocity": 11
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4FQvMG9XU2w",
-     "url": "https://www.youtube.com/shorts/4FQvMG9XU2w",
-     "title": "Cursor May Drop Chinese AI Models; Composer 2 Is Built on Kimi #Shorts",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-21T10:20:38.091Z"
-  },
-  {
    "first_seen": "2026-11-23T20:36:05.639Z",
    "id": "40000186",
    "ids": [
@@ -409,7 +363,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 19:14:46",
    "story_sources": 2,
-   "score_norm": 91,
+   "score_norm": 92,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -429,7 +383,7 @@
      "url": "https://www.youtube.com/shorts/u-0YIU0N4sg",
      "title": "Claude Can Search Your Gmail and Drive. Turn This On",
      "channel": "",
-     "views": 167,
+     "views": 175,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -453,7 +407,7 @@
      "url": "https://www.youtube.com/shorts/U561U-JtRMM",
      "title": "Google AI Mode Now Has Its Own Incognito Mode 🕵️",
      "channel": "",
-     "views": 145,
+     "views": 147,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -473,25 +427,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:8hXhrItej6Q",
-     "url": "https://www.youtube.com/shorts/8hXhrItej6Q",
-     "title": "How Google Search AI Mode Changes SEO",
+     "id": "youtube:slgFdtJ7Kqs",
+     "url": "https://www.youtube.com/shorts/slgFdtJ7Kqs",
+     "title": "Google Just Removed the Search Button",
      "channel": "",
-     "views": 15,
+     "views": 30,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:tECq7FDVTpM",
-     "url": "https://www.youtube.com/shorts/tECq7FDVTpM",
-     "title": "Google Search Homepage AI Redesign",
+     "id": "youtube:8hXhrItej6Q",
+     "url": "https://www.youtube.com/shorts/8hXhrItej6Q",
+     "title": "How Google Search AI Mode Changes SEO",
      "channel": "",
-     "views": 7,
+     "views": 16,
      "age_hours": null,
-     "relevance": 0.6,
+     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -499,7 +453,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-23T20:36:13.542Z"
+   "searched_at": "2026-11-24T02:36:57.624Z"
   },
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
@@ -997,6 +951,36 @@
    "searched_at": "2026-11-24T01:39:50.663Z"
   },
   {
+   "first_seen": "2026-11-23T20:49:49.193Z",
+   "id": "40000811",
+   "ids": [
+    "40000811",
+    "39993384"
+   ],
+   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-23 14:11:17",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+   ],
+   "queries": [
+    "import 482 huawei ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-23T20:49:53.083Z"
+  },
+  {
    "first_seen": "2026-11-21T06:49:37.381Z",
    "id": "39959420",
    "ids": [
@@ -1100,36 +1084,6 @@
    "searched_at": "2026-11-21T13:09:50.343Z"
   },
   {
-   "first_seen": "2026-11-23T20:49:49.193Z",
-   "id": "40000811",
-   "ids": [
-    "40000811",
-    "39993384"
-   ],
-   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
-   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-23 14:11:17",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
-    }
-   ],
-   "queries": [
-    "import 482 huawei ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-23T20:49:53.083Z"
-  },
-  {
    "first_seen": "2026-11-23T15:36:43.569Z",
    "id": "39992171",
    "ids": [
@@ -1141,7 +1095,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-23 13:16:44",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1172,7 +1126,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-23 08:51:58",
    "story_sources": 2,
-   "score_norm": 48,
+   "score_norm": 49,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1187,26 +1141,26 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:pLuURt1EyUM",
+     "url": "https://www.youtube.com/watch?v=pLuURt1EyUM",
+     "title": "META AI CHIEF FEARS LOSS OF HUMAN CONTROL, RESEARCHERS QUESTION PROBE SUFFERING – w/ Cameron Berg",
+     "channel": "Mario Nawfal",
+     "views": 3060,
+     "age_hours": 0.55,
+     "relevance": 0.5,
+     "velocity": 3060
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:_OUo4xvQyMQ",
      "url": "https://www.youtube.com/watch?v=_OUo4xvQyMQ",
      "title": "Meta's AI Chief Says Superintelligence Is Arriving",
      "channel": "The Good Takeoff",
-     "views": 2066,
-     "age_hours": 3,
+     "views": 14885,
+     "age_hours": 9,
      "relevance": 1,
-     "velocity": 689
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XQKqQFIpMyc",
-     "url": "https://www.youtube.com/shorts/XQKqQFIpMyc",
-     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
-     "channel": "",
-     "views": 1400,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
+     "velocity": 1654
     },
     {
      "platform": "youtube",
@@ -1215,9 +1169,33 @@
      "url": "https://www.youtube.com/shorts/6VsZGXQK4TY",
      "title": "META’S CHIEF AI OFFICER WARNS THAT AI IS APPROACHING A POINT WHERE HUMANITY CANNOT CONTROL IT",
      "channel": "",
-     "views": 370,
+     "views": 5500,
      "age_hours": null,
      "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XQKqQFIpMyc",
+     "url": "https://www.youtube.com/shorts/XQKqQFIpMyc",
+     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
+     "channel": "",
+     "views": 1700,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tD88krQtjG4",
+     "url": "https://www.youtube.com/shorts/tD88krQtjG4",
+     "title": "Meta's AI Chief says Superintelligence Is Arriving!",
+     "channel": "",
+     "views": 216,
+     "age_hours": null,
+     "relevance": 1,
      "velocity": null
     },
     {
@@ -1227,41 +1205,17 @@
      "url": "https://www.youtube.com/watch?v=L1xU2VhSMxQ",
      "title": "Riemann Hypothesis Proved with AI? Meta's AI Chief: Superintelligence Is Arriving #AI #Math",
      "channel": "硅谷工具箱",
-     "views": 64,
-     "age_hours": 18,
+     "views": 140,
+     "age_hours": 24,
      "relevance": 0.63,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tD88krQtjG4",
-     "url": "https://www.youtube.com/shorts/tD88krQtjG4",
-     "title": "Meta's AI Chief says Superintelligence Is Arriving!",
-     "channel": "",
-     "views": 128,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:cFxXgM4Mn0k",
-     "url": "https://www.youtube.com/watch?v=cFxXgM4Mn0k",
-     "title": "Meta's AI Chief: \"Superintelligence Is Arriving\" + GLM-5.4 Explained & Gemini 4 Helium! AI NEWS",
-     "channel": "Frontier Daily",
-     "views": 12,
-     "age_hours": 7,
-     "relevance": 0.63,
-     "velocity": 2
+     "velocity": 6
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-23T20:36:17.059Z"
+   "searched_at": "2026-11-24T02:37:01.174Z"
   }
  ]
 }
