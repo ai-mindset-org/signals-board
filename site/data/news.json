@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:12:39.961Z",
+ "generated_at": "2026-11-24T07:50:05.937Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Our First Loop Transformer",
+   "source": "youtube: 45 ai server makers",
    "ok": true
   },
   {
-   "source": "tiktok: Our First Loop Transformer",
-   "ok": true
-  },
-  {
-   "source": "youtube: glm-5.4 toward generalized coding",
-   "ok": true
-  },
-  {
-   "source": "tiktok: glm-5.4 toward generalized coding",
+   "source": "tiktok: 45 ai server makers",
    "ok": true
   }
  ],
@@ -1000,25 +992,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:QLRKMqxYLxo",
-     "url": "https://www.youtube.com/shorts/QLRKMqxYLxo",
-     "title": "AI SERVER PRICES UP TO 45% MORE",
+     "id": "youtube:ccQNKeqESTw",
+     "url": "https://www.youtube.com/shorts/ccQNKeqESTw",
+     "title": "AI servers just got up to 45% pricier after deals were signed",
      "channel": "",
-     "views": 60,
+     "views": 117,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:ccQNKeqESTw",
-     "url": "https://www.youtube.com/shorts/ccQNKeqESTw",
-     "title": "AI servers just got up to 45% pricier after deals were signed",
+     "id": "youtube:QLRKMqxYLxo",
+     "url": "https://www.youtube.com/shorts/QLRKMqxYLxo",
+     "title": "AI SERVER PRICES UP TO 45% MORE",
      "channel": "",
-     "views": 21,
+     "views": 65,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 1,
      "velocity": null
     },
     {
@@ -1028,7 +1020,7 @@
      "url": "https://www.youtube.com/shorts/D8fFUktX7pI",
      "title": "Server makers want up to 45% more #Shorts",
      "channel": "",
-     "views": 14,
+     "views": 16,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1040,7 +1032,7 @@
      "url": "https://www.youtube.com/shorts/dqeyA5l9Y68",
      "title": "Report: AI server suppliers asking more after deals are signed; one person cites up to 45%",
      "channel": "",
-     "views": 12,
+     "views": 14,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1064,7 +1056,7 @@
      "url": "https://www.youtube.com/shorts/VHux4cxMe1A",
      "title": "AI Server Prices Up to 45%: What It Could Mean for AI Capex | Global Daily",
      "channel": "",
-     "views": 4,
+     "views": 5,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1074,7 +1066,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T01:39:50.663Z"
+   "searched_at": "2026-11-24T07:50:10.048Z"
   },
   {
    "first_seen": "2026-11-23T20:49:49.193Z",
