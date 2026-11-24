@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:23:00.236Z",
+ "generated_at": "2026-11-24T16:12:57.767Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,98 +9,74 @@
  },
  "search_report": [
   {
-   "source": "youtube: Hire Its Team",
+   "source": "youtube: 83 IPO",
    "ok": true
   },
   {
-   "source": "tiktok: Hire Its Team",
+   "source": "tiktok: 83 IPO",
    "ok": true
   },
   {
-   "source": "youtube: amazon agrees buy decart",
+   "source": "youtube: anthropic 83 ipo falls",
    "ok": true
   },
   {
-   "source": "tiktok: amazon agrees buy decart",
+   "source": "tiktok: anthropic 83 ipo falls",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-24T04:14:02.188Z",
-   "id": "40002209",
+   "first_seen": "2026-11-24T16:12:57.767Z",
+   "id": "40015474",
    "ids": [
-    "40002209",
-    "40006286",
-    "40011957"
+    "40015474",
+    "40011684",
+    "40014963"
    ],
-   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-23 22:05:50",
+   "title": "Anthropic falls below its $83 IPO price five days after its record debut",
+   "url": "https://thenextweb.com/news/anthropic-shares-below-83-ipo-price-first-time-amodei-sales-analysts",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-24 15:07:11",
    "story_sources": 3,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "x-thedefiant-io",
-     "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
-     "url": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code"
+     "source_id": "in-businessline",
+     "title": "Anthropic shares fall below $83 IPO price days after record-breaking Nasdaq debut",
+     "url": "https://www.thehindubusinessline.com/markets/stock-markets/anthropic-shares-fall-below-83-ipo-price-days-after-record-breaking-nasdaq-debut/article71738365.ece"
     },
     {
-     "source_id": "eu-itpro",
-     "title": "Anthropic's new Claude Ship service hands the reins to agents to fix and review code changes",
-     "url": "https://www.itpro.com/software-engineering/anthropics-new-claude-ship-service-hands-the-reins-to-agents-to-fix-and-review-code-changes-but-the-company-warns-it-may-miss-bugs-security-vulnerabilities-or-other-issues"
+     "source_id": "hn",
+     "title": "Anthropic falls below $83 IPO price in Swift reversal after record listing",
+     "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
     }
    ],
    "queries": [
-    "Claude Ship",
-    "anthropic claude ship launches"
+    "83 IPO",
+    "anthropic 83 ipo falls"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:pZyB8vGhz-o",
-     "url": "https://www.youtube.com/watch?v=pZyB8vGhz-o",
-     "title": "Introducing Claude Ship (beta)",
-     "channel": "Chris Messina",
-     "views": 1115,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 86
+     "id": "youtube:-Z1VqzCNUs8",
+     "url": "https://www.youtube.com/watch?v=-Z1VqzCNUs8",
+     "title": "Anthropic Shares Fall Below IPO Price of $83",
+     "channel": "Bloomberg Television",
+     "views": 586,
+     "age_hours": 0.26666666666666666,
+     "relevance": 0.71,
+     "velocity": 586
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:llJcWcF17nY",
-     "url": "https://www.youtube.com/shorts/llJcWcF17nY",
-     "title": "Claude Ship: AI Approves Your PRs",
+     "id": "youtube:kNKox4FUaBo",
+     "url": "https://www.youtube.com/shorts/kNKox4FUaBo",
+     "title": "Anthropic prices IPO at $83 per share",
      "channel": "",
-     "views": 227,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:x8spi3us0y4",
-     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
-     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
-     "channel": "",
-     "views": 196,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:F8zrCsB9JOY",
-     "url": "https://www.youtube.com/shorts/F8zrCsB9JOY",
-     "title": "Claude Ship: Claude can now fix and approve pull requests (beta)",
-     "channel": "",
-     "views": 120,
+     "views": 7400,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -108,33 +84,57 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:5974DvDaeeM",
-     "url": "https://www.youtube.com/watch?v=5974DvDaeeM",
-     "title": "Anthropic Launches Claude Ship — AI Agents That Review, Fix, and Approve Your Code",
-     "channel": "AI Automation and Agentic Blueprint",
-     "views": 24,
-     "age_hours": 9,
-     "relevance": 1,
-     "velocity": 3
+     "id": "youtube:6Rhv6w2-ziA",
+     "url": "https://www.youtube.com/watch?v=6Rhv6w2-ziA",
+     "title": "Anthropic Fell Below Its $83 IPO Price. Why December 15 Matters",
+     "channel": "Chris Haroun",
+     "views": 76,
+     "age_hours": 0.2833333333333333,
+     "relevance": 0.56,
+     "velocity": 76
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:XB7mxyAUB_Q",
-     "url": "https://www.youtube.com/watch?v=XB7mxyAUB_Q",
-     "title": "Claude Ship launched by Anthropic for code reviews",
-     "channel": "GloblePulseAi",
-     "views": 30,
-     "age_hours": 10,
+     "id": "youtube:yVqTMpVO0SI",
+     "url": "https://www.youtube.com/watch?v=yVqTMpVO0SI",
+     "title": "Anthropic Stock Falls Below $83 IPO Price: What the Founders Sold",
+     "channel": "Ticker Clips",
+     "views": 25,
+     "age_hours": 0.6166666666666667,
      "relevance": 0.67,
-     "velocity": 3
+     "velocity": 25
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:hjWJA-3hAek",
+     "url": "https://www.youtube.com/shorts/hjWJA-3hAek",
+     "title": "Anthropic IPO Price: Why Couldn't You Buy at $83? #anthropic #IPO #stocks #finance",
+     "channel": "",
+     "views": 380,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HlS0LCgAPz8",
+     "url": "https://www.youtube.com/shorts/HlS0LCgAPz8",
+     "title": "Anthropic's IPO Millionaire Machine",
+     "channel": "",
+     "views": 101,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T10:21:18.485Z"
+   "searched_at": "2026-11-24T16:13:05.972Z"
   },
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -344,56 +344,80 @@
    "searched_at": "2026-11-24T07:12:47.404Z"
   },
   {
-   "first_seen": "2026-11-20T19:09:45.006Z",
-   "id": "39951247",
+   "first_seen": "2026-11-24T04:14:02.188Z",
+   "id": "40002209",
    "ids": [
-    "39951247",
-    "39948781",
-    "39951415",
-    "39951783",
-    "39947378",
-    "39954682",
-    "39964188",
-    "39965523"
+    "40002209",
+    "40006286",
+    "40011957"
    ],
-   "title": "Anthropic researcher claims to solve Riemann Problem with Claude",
-   "url": "https://www.thehindubusinessline.com/info-tech/anthropic-researcher-claims-to-solve-riemann-problem-with-claude/article71729153.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-21 16:08:28",
-   "story_sources": 2,
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-23 22:05:50",
+   "story_sources": 3,
    "score_norm": 93,
    "related_news": [
     {
-     "source_id": "siliconangle-ai",
-     "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
-     "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/"
+     "source_id": "x-thedefiant-io",
+     "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
+     "url": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code"
+    },
+    {
+     "source_id": "eu-itpro",
+     "title": "Anthropic's new Claude Ship service hands the reins to agents to fix and review code changes",
+     "url": "https://www.itpro.com/software-engineering/anthropics-new-claude-ship-service-hands-the-reins-to-agents-to-fix-and-review-code-changes-but-the-company-warns-it-may-miss-bugs-security-vulnerabilities-or-other-issues"
     }
    ],
    "queries": [
-    "Riemann Problem",
-    "anthropic riemann problem claude"
+    "Claude Ship",
+    "anthropic claude ship launches"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:xjX3jESpZqs",
-     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
-     "title": "Claude JUST solved the Riemann Hypothesis...",
-     "channel": "Wes Roth",
-     "views": 138362,
-     "age_hours": 17,
+     "id": "youtube:pZyB8vGhz-o",
+     "url": "https://www.youtube.com/watch?v=pZyB8vGhz-o",
+     "title": "Introducing Claude Ship (beta)",
+     "channel": "Chris Messina",
+     "views": 1115,
+     "age_hours": 13,
      "relevance": 0.5,
-     "velocity": 8139
+     "velocity": 86
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:2BbNv2VwBl8",
-     "url": "https://www.youtube.com/shorts/2BbNv2VwBl8",
-     "title": "Claude Proves Riemann Hypothesis?",
+     "id": "youtube:llJcWcF17nY",
+     "url": "https://www.youtube.com/shorts/llJcWcF17nY",
+     "title": "Claude Ship: AI Approves Your PRs",
      "channel": "",
-     "views": 135000,
+     "views": 227,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:x8spi3us0y4",
+     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
+     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
+     "channel": "",
+     "views": 196,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:F8zrCsB9JOY",
+     "url": "https://www.youtube.com/shorts/F8zrCsB9JOY",
+     "title": "Claude Ship: Claude can now fix and approve pull requests (beta)",
+     "channel": "",
+     "views": 120,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -401,57 +425,33 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:9_9XAvlOaFI",
-     "url": "https://www.youtube.com/watch?v=9_9XAvlOaFI",
-     "title": "Anthropic Just Did WHAT?! (Claude vs a 167-Year-Old Problem)",
-     "channel": "Universe of AI",
-     "views": 20797,
-     "age_hours": 20,
-     "relevance": 0.5,
-     "velocity": 1040
+     "id": "youtube:5974DvDaeeM",
+     "url": "https://www.youtube.com/watch?v=5974DvDaeeM",
+     "title": "Anthropic Launches Claude Ship — AI Agents That Review, Fix, and Approve Your Code",
+     "channel": "AI Automation and Agentic Blueprint",
+     "views": 24,
+     "age_hours": 9,
+     "relevance": 1,
+     "velocity": 3
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IhPZqK1f2nw",
-     "url": "https://www.youtube.com/shorts/IhPZqK1f2nw",
-     "title": "Claude Just Solved the Riemann Hypothesis",
-     "channel": "",
-     "views": 4400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9cTqyKJEONw",
-     "url": "https://www.youtube.com/shorts/9cTqyKJEONw",
-     "title": "Can AI Solve the Riemann Hypothesis? Claude Takes On Math's Hardest Unsolved Problem",
-     "channel": "",
-     "views": 3000,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-7FlLeYDYxQ",
-     "url": "https://www.youtube.com/shorts/-7FlLeYDYxQ",
-     "title": "Anthropic's mathematician claims Claude solved the Riemann Hypothesis | BREAKING",
-     "channel": "",
-     "views": 3000,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:XB7mxyAUB_Q",
+     "url": "https://www.youtube.com/watch?v=XB7mxyAUB_Q",
+     "title": "Claude Ship launched by Anthropic for code reviews",
+     "channel": "GloblePulseAi",
+     "views": 30,
+     "age_hours": 10,
+     "relevance": 0.67,
+     "velocity": 3
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-21T20:10:18.885Z"
+   "searched_at": "2026-11-24T10:21:18.485Z"
   },
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
@@ -571,7 +571,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 11:30:46",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
@@ -668,7 +668,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 19:14:46",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -772,7 +772,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-24 11:26:23",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "thenewstack",
@@ -865,6 +865,36 @@
    "searched_at": "2026-11-24T15:12:00.963Z"
   },
   {
+   "first_seen": "2026-11-23T20:49:49.193Z",
+   "id": "40000811",
+   "ids": [
+    "40000811",
+    "39993384"
+   ],
+   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-23 14:11:17",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+   ],
+   "queries": [
+    "import 482 huawei ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T09:25:25.879Z"
+  },
+  {
    "first_seen": "2026-11-24T10:36:33.127Z",
    "id": "40010564",
    "ids": [
@@ -876,7 +906,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-24 06:53:53",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -979,7 +1009,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 03:50:34",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 57,
    "related_news": [
     {
      "source_id": "eu-siliconrepublic",
@@ -1071,7 +1101,7 @@
    "source_id": "in-inc42",
    "published_ts": "2026-11-24 06:46:40",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1102,36 +1132,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T14:24:09.938Z"
-  },
-  {
-   "first_seen": "2026-11-23T20:49:49.193Z",
-   "id": "40000811",
-   "ids": [
-    "40000811",
-    "39993384"
-   ],
-   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
-   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-23 14:11:17",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
-    }
-   ],
-   "queries": [
-    "import 482 huawei ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T09:25:25.879Z"
   },
   {
    "first_seen": "2026-11-24T03:27:31.401Z",
