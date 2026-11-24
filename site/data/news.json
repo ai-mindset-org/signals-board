@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:28:30.276Z",
+ "generated_at": "2026-11-24T08:38:43.331Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Google Search’s",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Google Search’s",
+   "ok": true
+  },
+  {
+   "source": "youtube: google search mode drive",
+   "ok": true
+  },
+  {
+   "source": "tiktok: google search mode drive",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
@@ -458,11 +475,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:u-0YIU0N4sg",
-     "url": "https://www.youtube.com/shorts/u-0YIU0N4sg",
-     "title": "Claude Can Search Your Gmail and Drive. Turn This On",
+     "id": "youtube:umdvsx0qYLo",
+     "url": "https://www.youtube.com/shorts/umdvsx0qYLo",
+     "title": "Google Doesn't Search the Internet",
      "channel": "",
-     "views": 175,
+     "views": 1000,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -470,47 +487,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:Z3mAjn6e9kM",
-     "url": "https://www.youtube.com/shorts/Z3mAjn6e9kM",
-     "title": "Google just removed the Google Search button",
+     "id": "youtube:T7Q9JE1iTnE",
+     "url": "https://www.youtube.com/shorts/T7Q9JE1iTnE",
+     "title": "Google Removes the Search Button: AI Mode Takes Over #shorts",
      "channel": "",
-     "views": 157,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:U561U-JtRMM",
-     "url": "https://www.youtube.com/shorts/U561U-JtRMM",
-     "title": "Google AI Mode Now Has Its Own Incognito Mode 🕵️",
-     "channel": "",
-     "views": 147,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MjmenNKoZe8",
-     "url": "https://www.youtube.com/shorts/MjmenNKoZe8",
-     "title": "Google Killed the Search Button — AI Takes Over",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:slgFdtJ7Kqs",
-     "url": "https://www.youtube.com/shorts/slgFdtJ7Kqs",
-     "title": "Google Just Removed the Search Button",
-     "channel": "",
-     "views": 30,
+     "views": 121,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -526,13 +507,49 @@
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7nIIZgcbTtU",
+     "url": "https://www.youtube.com/shorts/7nIIZgcbTtU",
+     "title": "No AI, no Google Search at school? #parenting #AI",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vRGG3Jo7dXQ",
+     "url": "https://www.youtube.com/shorts/vRGG3Jo7dXQ",
+     "title": "Google AI Mode Now Has an Incognito Mode",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wD6cB4lr070",
+     "url": "https://www.youtube.com/shorts/wD6cB4lr070",
+     "title": "Google Search Now Connects Your Wallet and Drive | Nova Explains",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T02:36:57.624Z"
+   "searched_at": "2026-11-24T08:38:51.068Z"
   },
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
