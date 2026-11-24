@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:49:55.226Z",
+ "generated_at": "2026-11-24T15:11:53.228Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Google Search’s",
+   "source": "youtube: Anthropic's Claude Ship",
    "ok": true
   },
   {
-   "source": "tiktok: Google Search’s",
+   "source": "tiktok: Anthropic's Claude Ship",
    "ok": true
   },
   {
-   "source": "youtube: google search mode drive",
+   "source": "youtube: anthropic claude ship lets",
    "ok": true
   },
   {
-   "source": "tiktok: google search mode drive",
+   "source": "tiktok: anthropic claude ship lets",
    "ok": true
   }
  ],
@@ -759,6 +759,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T14:50:03.076Z"
+  },
+  {
+   "first_seen": "2026-11-24T15:11:53.228Z",
+   "id": "40014748",
+   "ids": [
+    "40014748",
+    "40001190"
+   ],
+   "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+   "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-24 11:26:23",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "thenewstack",
+     "title": "Anthropic’s Claude Ship lets Claude approve routine pull requests",
+     "url": "https://thenewstack.io/anthropic-claude-ship-approvals/"
+    }
+   ],
+   "queries": [
+    "Anthropic's Claude Ship",
+    "anthropic claude ship lets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pSt3TfnaDdU",
+     "url": "https://www.youtube.com/watch?v=pSt3TfnaDdU",
+     "title": "Claude Ship: AI That Reviews, Fixes and Approves Your Pull Requests",
+     "channel": "Kinvecta",
+     "views": 351,
+     "age_hours": 12,
+     "relevance": 0.63,
+     "velocity": 29
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:WlzAPfHwR64",
+     "url": "https://www.youtube.com/watch?v=WlzAPfHwR64",
+     "title": " Anthropic's Claude Ship Explained: AI Agents for Automated PR Review, Fixes & Approvals",
+     "channel": "Jengo",
+     "views": 32,
+     "age_hours": 4,
+     "relevance": 0.55,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:J5ab82sKdr4",
+     "url": "https://www.youtube.com/watch?v=J5ab82sKdr4",
+     "title": "Claude Ship Explained: AI Now Approves Your Code",
+     "channel": "AI Tool Lab",
+     "views": 8,
+     "age_hours": 0.8333333333333334,
+     "relevance": 0.5,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:x8spi3us0y4",
+     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
+     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
+     "channel": "",
+     "views": 254,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:LU6aZ-ZVr8U",
+     "url": "https://www.youtube.com/shorts/LU6aZ-ZVr8U",
+     "title": "Anthropic launches Claude Ship, AI agents that approve code changes",
+     "channel": "",
+     "views": 164,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5974DvDaeeM",
+     "url": "https://www.youtube.com/watch?v=5974DvDaeeM",
+     "title": "Anthropic Launches Claude Ship — AI Agents That Review, Fix, and Approve Your Code",
+     "channel": "AI Automation and Agentic Blueprint",
+     "views": 47,
+     "age_hours": 14,
+     "relevance": 0.8,
+     "velocity": 3
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T15:12:00.963Z"
   },
   {
    "first_seen": "2026-11-22T08:14:21.591Z",
