@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T03:27:31.401Z",
+ "generated_at": "2026-11-24T04:14:02.188Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,118 +9,142 @@
  },
  "search_report": [
   {
-   "source": "youtube: amazon israeli decart 7.5b",
+   "source": "youtube: Claude Ship",
    "ok": true
   },
   {
-   "source": "tiktok: amazon israeli decart 7.5b",
+   "source": "tiktok: Claude Ship",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude ship launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude ship launches",
+   "ok": true
+  },
+  {
+   "source": "youtube: Jan-Sept 2026",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Jan-Sept 2026",
+   "ok": true
+  },
+  {
+   "source": "youtube: india 1.6b jan-sept 2026",
+   "ok": true
+  },
+  {
+   "source": "tiktok: india 1.6b jan-sept 2026",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-24T01:12:05.503Z",
-   "id": "40004429",
+   "first_seen": "2026-11-24T04:14:02.188Z",
+   "id": "40002209",
    "ids": [
-    "40004429",
-    "39988956"
+    "40002209",
+    "40006286"
    ],
-   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-   "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-23 23:40:49",
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-23 22:05:50",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-     "url": "https://z.ai/blog/glm-5.4"
+     "source_id": "x-thedefiant-io",
+     "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
+     "url": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code"
     }
    ],
    "queries": [
-    "Our First Loop Transformer",
-    "glm-5.4 toward generalized coding"
+    "Claude Ship",
+    "anthropic claude ship launches"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:ErVbAfqMblY",
-     "url": "https://www.youtube.com/watch?v=ErVbAfqMblY",
-     "title": "Meet GLM-5.4, Z.ai’s First Loop Transformer for Generalized Coding",
-     "channel": "AI Tomorrow Desk",
-     "views": 731,
-     "age_hours": 11,
-     "relevance": 0.75,
-     "velocity": 66
+     "id": "youtube:pZyB8vGhz-o",
+     "url": "https://www.youtube.com/watch?v=pZyB8vGhz-o",
+     "title": "Introducing Claude Ship (beta)",
+     "channel": "Chris Messina",
+     "views": 436,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 73
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:TUe-f0yf7dQ",
-     "url": "https://www.youtube.com/watch?v=TUe-f0yf7dQ",
-     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer (Nov 2026)",
-     "channel": "AI Paper Slop",
-     "views": 108,
+     "id": "youtube:XB7mxyAUB_Q",
+     "url": "https://www.youtube.com/watch?v=XB7mxyAUB_Q",
+     "title": "Claude Ship launched by Anthropic for code reviews",
+     "channel": "GloblePulseAi",
+     "views": 20,
      "age_hours": 4,
-     "relevance": 1,
-     "velocity": 27
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HVey00YZ5Xk",
-     "url": "https://www.youtube.com/watch?v=HVey00YZ5Xk",
-     "title": "GLM-5.4 Is Here: The First Loop Transformer, and What Early Users Say",
-     "channel": "hinter",
-     "views": 175,
-     "age_hours": 11,
-     "relevance": 0.57,
-     "velocity": 16
+     "relevance": 0.67,
+     "velocity": 5
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:72dpz9eQ3B8",
-     "url": "https://www.youtube.com/shorts/72dpz9eQ3B8",
-     "title": "GLM-5.4: Z.ai's first Loop Transformer flagship runs 28 layers twice",
+     "id": "youtube:F8zrCsB9JOY",
+     "url": "https://www.youtube.com/shorts/F8zrCsB9JOY",
+     "title": "Claude Ship: Claude can now fix and approve pull requests (beta)",
      "channel": "",
-     "views": 269,
+     "views": 80,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wCQy-z6IQ9U",
-     "url": "https://www.youtube.com/watch?v=wCQy-z6IQ9U",
-     "title": "GLM-5.4, 같은 층을 두 번 쓰는 Loop Transformer",
-     "channel": "Ki-jung Kim (akaslany)",
-     "views": 47,
-     "age_hours": 12,
+     "kind": "shorts",
+     "id": "youtube:Y2rC5LiSdPQ",
+     "url": "https://www.youtube.com/shorts/Y2rC5LiSdPQ",
+     "title": "Anthropic launches Claude Ship for faster coding | codemago.dev/news",
+     "channel": "",
+     "views": 68,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 4
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VUGr-ayFcuA",
-     "url": "https://www.youtube.com/watch?v=VUGr-ayFcuA",
-     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Trans | A Power Provider for Meta Urged Regul",
-     "channel": "AI and Technology",
-     "views": 17,
-     "age_hours": 10,
-     "relevance": 0.88,
-     "velocity": 2
+     "kind": "shorts",
+     "id": "youtube:4_Tir6HLGp8",
+     "url": "https://www.youtube.com/shorts/4_Tir6HLGp8",
+     "title": "Anthropic launches new Claude Ship feature for builders",
+     "channel": "",
+     "views": 58,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wsifWlTdJb4",
+     "url": "https://www.youtube.com/shorts/wsifWlTdJb4",
+     "title": "Claude Ship: AI Reviews, Fixes, Approves Code",
+     "channel": "",
+     "views": 56,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T01:12:12.935Z"
+   "searched_at": "2026-11-24T04:14:09.899Z"
   },
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -224,6 +248,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-22T10:35:49.214Z"
+  },
+  {
+   "first_seen": "2026-11-24T01:12:05.503Z",
+   "id": "40004429",
+   "ids": [
+    "40004429",
+    "39988956"
+   ],
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-23 23:40:49",
+   "story_sources": 2,
+   "score_norm": 97,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+     "url": "https://z.ai/blog/glm-5.4"
+    }
+   ],
+   "queries": [
+    "Our First Loop Transformer",
+    "glm-5.4 toward generalized coding"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ErVbAfqMblY",
+     "url": "https://www.youtube.com/watch?v=ErVbAfqMblY",
+     "title": "Meet GLM-5.4, Z.ai’s First Loop Transformer for Generalized Coding",
+     "channel": "AI Tomorrow Desk",
+     "views": 731,
+     "age_hours": 11,
+     "relevance": 0.75,
+     "velocity": 66
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:TUe-f0yf7dQ",
+     "url": "https://www.youtube.com/watch?v=TUe-f0yf7dQ",
+     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer (Nov 2026)",
+     "channel": "AI Paper Slop",
+     "views": 108,
+     "age_hours": 4,
+     "relevance": 1,
+     "velocity": 27
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HVey00YZ5Xk",
+     "url": "https://www.youtube.com/watch?v=HVey00YZ5Xk",
+     "title": "GLM-5.4 Is Here: The First Loop Transformer, and What Early Users Say",
+     "channel": "hinter",
+     "views": 175,
+     "age_hours": 11,
+     "relevance": 0.57,
+     "velocity": 16
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:72dpz9eQ3B8",
+     "url": "https://www.youtube.com/shorts/72dpz9eQ3B8",
+     "title": "GLM-5.4: Z.ai's first Loop Transformer flagship runs 28 layers twice",
+     "channel": "",
+     "views": 269,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wCQy-z6IQ9U",
+     "url": "https://www.youtube.com/watch?v=wCQy-z6IQ9U",
+     "title": "GLM-5.4, 같은 층을 두 번 쓰는 Loop Transformer",
+     "channel": "Ki-jung Kim (akaslany)",
+     "views": 47,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VUGr-ayFcuA",
+     "url": "https://www.youtube.com/watch?v=VUGr-ayFcuA",
+     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Trans | A Power Provider for Meta Urged Regul",
+     "channel": "AI and Technology",
+     "views": 17,
+     "age_hours": 10,
+     "relevance": 0.88,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T01:12:12.935Z"
   },
   {
    "first_seen": "2026-11-20T19:09:45.006Z",
@@ -347,7 +475,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 19:14:46",
    "story_sources": 2,
-   "score_norm": 92,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -545,36 +673,6 @@
    "searched_at": "2026-11-22T12:49:48.478Z"
   },
   {
-   "first_seen": "2026-11-24T03:27:31.401Z",
-   "id": "40005844",
-   "ids": [
-    "40005844",
-    "39994135"
-   ],
-   "title": "Amazon to buy Israeli AI startup Decart’s tech in $7.5b deal",
-   "url": "https://www.techinasia.com/news/amazon-buy-israeli-ai-startup-decarts-tech-75b-deal",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-24 00:08:31",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Amazon signs $7.5B deal for Israeli AI startup Decart",
-     "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi"
-    }
-   ],
-   "queries": [
-    "amazon israeli decart 7.5b"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T03:27:35.905Z"
-  },
-  {
    "first_seen": "2026-11-21T10:49:41.857Z",
    "id": "39961570",
    "ids": [
@@ -677,6 +775,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-22T05:11:40.630Z"
+  },
+  {
+   "first_seen": "2026-11-24T03:27:31.401Z",
+   "id": "40005844",
+   "ids": [
+    "40005844",
+    "39994135"
+   ],
+   "title": "Amazon to buy Israeli AI startup Decart’s tech in $7.5b deal",
+   "url": "https://www.techinasia.com/news/amazon-buy-israeli-ai-startup-decarts-tech-75b-deal",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-24 00:08:31",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Amazon signs $7.5B deal for Israeli AI startup Decart",
+     "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi"
+    }
+   ],
+   "queries": [
+    "amazon israeli decart 7.5b"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T03:27:35.905Z"
   },
   {
    "first_seen": "2026-11-22T08:14:21.591Z",
@@ -794,7 +922,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-23 19:50:36",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -873,7 +1001,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-23 17:50:25",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -963,36 +1091,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T01:39:50.663Z"
-  },
-  {
-   "first_seen": "2026-11-23T20:49:49.193Z",
-   "id": "40000811",
-   "ids": [
-    "40000811",
-    "39993384"
-   ],
-   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
-   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-23 14:11:17",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
-    }
-   ],
-   "queries": [
-    "import 482 huawei ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T03:14:33.821Z"
   },
   {
    "first_seen": "2026-11-21T06:49:37.381Z",
@@ -1098,6 +1196,36 @@
    "searched_at": "2026-11-21T13:09:50.343Z"
   },
   {
+   "first_seen": "2026-11-23T20:49:49.193Z",
+   "id": "40000811",
+   "ids": [
+    "40000811",
+    "39993384"
+   ],
+   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-23 14:11:17",
+   "story_sources": 2,
+   "score_norm": 57,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+   ],
+   "queries": [
+    "import 482 huawei ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T03:14:33.821Z"
+  },
+  {
    "first_seen": "2026-11-23T15:36:43.569Z",
    "id": "39992171",
    "ids": [
@@ -1109,7 +1237,7 @@
    "source_id": "in-yourstory",
    "published_ts": "2026-11-23 13:16:44",
    "story_sources": 2,
-   "score_norm": 51,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1126,7 +1254,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-23T21:49:58.203Z"
+   "searched_at": "2026-11-24T04:14:16.937Z"
   },
   {
    "first_seen": "2026-11-23T14:24:51.338Z",
