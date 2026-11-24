@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:12:13.559Z",
+ "generated_at": "2026-11-24T14:24:01.868Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: 45 ai server makers",
+   "source": "youtube: Launches Dictation API For English",
    "ok": true
   },
   {
-   "source": "tiktok: 45 ai server makers",
+   "source": "tiktok: Launches Dictation API For English",
+   "ok": true
+  },
+  {
+   "source": "youtube: sarvam launches dictation api",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sarvam launches dictation api",
    "ok": true
   }
  ],
@@ -1068,7 +1076,7 @@
    "source_id": "in-inc42",
    "published_ts": "2026-11-24 06:46:40",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 60,
    "related_news": [
     {
      "source_id": "in-businessline",
@@ -1088,7 +1096,7 @@
      "url": "https://www.youtube.com/shorts/JyTLTJAxtI8",
      "title": "Sarvam Dictate API: AI Speech to Text for 22 Indian Languages 🇮🇳",
      "channel": "",
-     "views": 4,
+     "views": 65,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1098,7 +1106,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T08:15:15.283Z"
+   "searched_at": "2026-11-24T14:24:09.938Z"
   },
   {
    "first_seen": "2026-11-23T20:49:49.193Z",
