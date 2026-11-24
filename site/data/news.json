@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T10:21:10.708Z",
+ "generated_at": "2026-11-24T10:36:33.127Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Claude Ship",
+   "source": "youtube: openai cisco shirudo launch",
    "ok": true
   },
   {
-   "source": "tiktok: Claude Ship",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic claude ship launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic claude ship launches",
+   "source": "tiktok: openai cisco shirudo launch",
    "ok": true
   }
  ],
@@ -550,6 +542,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T08:38:51.068Z"
+  },
+  {
+   "first_seen": "2026-11-24T10:36:33.127Z",
+   "id": "40010564",
+   "ids": [
+    "40010564",
+    "40001811"
+   ],
+   "title": "OpenAI and Cisco launch Shirudo to shield live systems while patches catch up",
+   "url": "https://dailyai.com/2026/11/openai-and-cisco-launch-shirudo-to-shield-live-systems-while-patches-catch-up/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-24 06:53:53",
+   "story_sources": 2,
+   "score_norm": 86,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Cisco and OpenAI Launch Shirudo to Shield Linux Systems",
+     "url": "https://thedefiant.io/frontier/ai/cisco-and-openai-launch-shirudo-to-shield-linux-systems"
+    }
+   ],
+   "queries": [
+    "openai cisco shirudo launch"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:qL4OxO-gL3Y",
+     "url": "https://www.youtube.com/watch?v=qL4OxO-gL3Y",
+     "title": "Shirudo: The Shield That Patches Linux Without a Restart Explained",
+     "channel": "SecureTechIn",
+     "views": 6,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ELLXzhqWIgY",
+     "url": "https://www.youtube.com/shorts/ELLXzhqWIgY",
+     "title": "Shirudo: OpenAI and Cisco open-source eBPF Linux shield",
+     "channel": "",
+     "views": 45,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XlX0DXJLttI",
+     "url": "https://www.youtube.com/shorts/XlX0DXJLttI",
+     "title": "OpenAI and Cisco open-source Shirudo, a Linux shield",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ekLDGKWh-4w",
+     "url": "https://www.youtube.com/shorts/ekLDGKWh-4w",
+     "title": "Hackers Strike Before Patches Exist (OpenAI Shirudo) 🛡️",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mX-r1mT2zQ8",
+     "url": "https://www.youtube.com/shorts/mX-r1mT2zQ8",
+     "title": "Cisco + OpenAI Shirudo: AI Linux Shield #Shorts",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kXGgiPgXf0U",
+     "url": "https://www.youtube.com/shorts/kXGgiPgXf0U",
+     "title": "Cisco and OpenAI launch Shirudo to shield Linux systems while patches catch up #Shorts",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.91,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T10:36:37.399Z"
   },
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
