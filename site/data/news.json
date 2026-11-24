@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:35:59.405Z",
+ "generated_at": "2026-11-24T22:10:19.869Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Hire Its Team",
+   "source": "youtube: Anthropic’s Claude Ship Lets",
    "ok": true
   },
   {
-   "source": "tiktok: Hire Its Team",
+   "source": "tiktok: Anthropic’s Claude Ship Lets",
    "ok": true
   },
   {
-   "source": "youtube: amazon agrees buy decart",
+   "source": "youtube: anthropic claude ship lets",
    "ok": true
   },
   {
-   "source": "tiktok: amazon agrees buy decart",
+   "source": "tiktok: anthropic claude ship lets",
    "ok": true
   }
  ],
@@ -445,6 +445,111 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T14:50:03.076Z"
+  },
+  {
+   "first_seen": "2026-11-24T15:11:53.228Z",
+   "id": "40014748",
+   "ids": [
+    "40014748",
+    "40001190",
+    "40022127"
+   ],
+   "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+   "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
+   "source_id": "crypto-decrypt",
+   "published_ts": "2026-11-24 21:46:02",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "eu-the-decoder",
+     "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+     "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Claude Ship Lets",
+    "anthropic claude ship lets"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:9InrjFwtApI",
+     "url": "https://www.youtube.com/watch?v=9InrjFwtApI",
+     "title": "NEW! Anthropic launches CLAUDE SHIP",
+     "channel": "Graven - Développement",
+     "views": 2223,
+     "age_hours": 3,
+     "relevance": 0.75,
+     "velocity": 741
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:AZfEcXAMV7c",
+     "url": "https://www.youtube.com/watch?v=AZfEcXAMV7c",
+     "title": "Claude Ship Just Dropped: AI Now Approves Its Own Code (End of Developers?)",
+     "channel": "Lavin",
+     "views": 2902,
+     "age_hours": 8,
+     "relevance": 0.56,
+     "velocity": 363
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:J5ab82sKdr4",
+     "url": "https://www.youtube.com/watch?v=J5ab82sKdr4",
+     "title": "Claude Ship Explained: AI Now Approves Your Code",
+     "channel": "AI Tool Lab",
+     "views": 168,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 24
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:w5INPp3hkck",
+     "url": "https://www.youtube.com/watch?v=w5INPp3hkck",
+     "title": "Claude Ship: Claude Now Approves Your Code (You Set the Rules)",
+     "channel": "Ronald Postelmans | AI for businesses",
+     "views": 105,
+     "age_hours": 9,
+     "relevance": 0.5,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:x8spi3us0y4",
+     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
+     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
+     "channel": "",
+     "views": 400,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:EV3btGWYBrk",
+     "url": "https://www.youtube.com/shorts/EV3btGWYBrk",
+     "title": "Did Claude Ship Just Put AI Code Review Startups on Notice?",
+     "channel": "",
+     "views": 315,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T22:10:27.994Z"
   },
   {
    "first_seen": "2026-11-24T16:12:57.767Z",
@@ -1052,6 +1157,36 @@
    "searched_at": "2026-11-24T14:12:19.162Z"
   },
   {
+   "first_seen": "2026-11-24T18:13:58.347Z",
+   "id": "40015475",
+   "ids": [
+    "40015475",
+    "40017801"
+   ],
+   "title": "AI lab staff reportedly fear unreleased models are too powerful to release",
+   "url": "https://thenextweb.com/news/anthropic-openai-staff-fear-unreleased-models-unsafe-axios",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-24 15:02:48",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Unreleased AI models are too powerful to release fear many employees",
+     "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
+    }
+   ],
+   "queries": [
+    "ai lab staff reportedly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T18:14:06.159Z"
+  },
+  {
    "first_seen": "2026-11-24T00:27:31.288Z",
    "id": "40003732",
    "ids": [
@@ -1117,36 +1252,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-24T12:49:58.643Z"
-  },
-  {
-   "first_seen": "2026-11-24T18:13:58.347Z",
-   "id": "40015475",
-   "ids": [
-    "40015475",
-    "40017801"
-   ],
-   "title": "AI lab staff reportedly fear unreleased models are too powerful to release",
-   "url": "https://thenextweb.com/news/anthropic-openai-staff-fear-unreleased-models-unsafe-axios",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-24 15:02:48",
-   "story_sources": 2,
-   "score_norm": 45,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Unreleased AI models are too powerful to release fear many employees",
-     "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
-    }
-   ],
-   "queries": [
-    "ai lab staff reportedly"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T18:14:06.159Z"
   },
   {
    "first_seen": "2026-11-24T13:36:41.048Z",
@@ -1258,7 +1363,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-24 14:03:45",
    "story_sources": 2,
-   "score_norm": 43,
+   "score_norm": 44,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1361,7 +1466,7 @@
    "source_id": "wired-ai",
    "published_ts": "2026-11-24 10:15:00",
    "story_sources": 2,
-   "score_norm": 41,
+   "score_norm": 42,
    "related_news": [
     {
      "source_id": "hn",
@@ -1452,110 +1557,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-24T21:10:34.306Z"
-  },
-  {
-   "first_seen": "2026-11-24T15:11:53.228Z",
-   "id": "40014748",
-   "ids": [
-    "40014748",
-    "40001190"
-   ],
-   "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
-   "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-24 11:26:23",
-   "story_sources": 2,
-   "score_norm": 38,
-   "related_news": [
-    {
-     "source_id": "thenewstack",
-     "title": "Anthropic’s Claude Ship lets Claude approve routine pull requests",
-     "url": "https://thenewstack.io/anthropic-claude-ship-approvals/"
-    }
-   ],
-   "queries": [
-    "Anthropic's Claude Ship",
-    "anthropic claude ship lets"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pSt3TfnaDdU",
-     "url": "https://www.youtube.com/watch?v=pSt3TfnaDdU",
-     "title": "Claude Ship: AI That Reviews, Fixes and Approves Your Pull Requests",
-     "channel": "Kinvecta",
-     "views": 351,
-     "age_hours": 12,
-     "relevance": 0.63,
-     "velocity": 29
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WlzAPfHwR64",
-     "url": "https://www.youtube.com/watch?v=WlzAPfHwR64",
-     "title": " Anthropic's Claude Ship Explained: AI Agents for Automated PR Review, Fixes & Approvals",
-     "channel": "Jengo",
-     "views": 32,
-     "age_hours": 4,
-     "relevance": 0.55,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:J5ab82sKdr4",
-     "url": "https://www.youtube.com/watch?v=J5ab82sKdr4",
-     "title": "Claude Ship Explained: AI Now Approves Your Code",
-     "channel": "AI Tool Lab",
-     "views": 8,
-     "age_hours": 0.8333333333333334,
-     "relevance": 0.5,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:x8spi3us0y4",
-     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
-     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
-     "channel": "",
-     "views": 254,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:LU6aZ-ZVr8U",
-     "url": "https://www.youtube.com/shorts/LU6aZ-ZVr8U",
-     "title": "Anthropic launches Claude Ship, AI agents that approve code changes",
-     "channel": "",
-     "views": 164,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5974DvDaeeM",
-     "url": "https://www.youtube.com/watch?v=5974DvDaeeM",
-     "title": "Anthropic Launches Claude Ship — AI Agents That Review, Fix, and Approve Your Code",
-     "channel": "AI Automation and Agentic Blueprint",
-     "views": 47,
-     "age_hours": 14,
-     "relevance": 0.8,
-     "velocity": 3
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T15:12:00.963Z"
   },
   {
    "first_seen": "2026-11-24T10:36:33.127Z",
