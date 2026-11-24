@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:49:32.159Z",
+ "generated_at": "2026-11-24T23:20:02.739Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,35 @@
  },
  "search_report": [
   {
-   "source": "youtube: york bans ai chatbot",
+   "source": "youtube: Anthropic’s Siren",
    "ok": true
   },
   {
-   "source": "tiktok: york bans ai chatbot",
+   "source": "tiktok: Anthropic’s Siren",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic siren claude tests",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic siren claude tests",
+   "ok": true
+  },
+  {
+   "source": "youtube: Ban Fully AI-Generated Music From December 9",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Ban Fully AI-Generated Music From December 9",
+   "ok": true
+  },
+  {
+   "source": "youtube: tidal ban fully ai-generated",
+   "ok": true
+  },
+  {
+   "source": "tiktok: tidal ban fully ai-generated",
    "ok": true
   }
  ],
@@ -544,6 +568,62 @@
    "searched_at": "2026-11-24T22:10:27.994Z"
   },
   {
+   "first_seen": "2026-11-24T23:20:02.739Z",
+   "id": "40023015",
+   "ids": [
+    "40023015",
+    "40017660"
+   ],
+   "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
+   "url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-24 22:56:59",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Anthropic’s new Siren test tempts Claude to break out of its sandbox",
+     "url": "https://thenextweb.com/news/anthropic-siren-claude-sandbox-escape-test"
+    }
+   ],
+   "queries": [
+    "Anthropic’s Siren",
+    "anthropic siren claude tests"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:I0Fasi1-teQ",
+     "url": "https://www.youtube.com/watch?v=I0Fasi1-teQ",
+     "title": "I’m Crashing Out About Anthropic",
+     "channel": "@matthew_berman",
+     "views": 150000,
+     "age_hours": 64.7533538888889,
+     "relevance": 0.67,
+     "velocity": 2316
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZyvU83bnh54",
+     "url": "https://www.youtube.com/shorts/ZyvU83bnh54",
+     "title": "Anthropic released Siren, a benchmark that tests whether AI agents",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-24T23:20:10.624Z"
+  },
+  {
    "first_seen": "2026-11-24T16:12:57.767Z",
    "id": "40015474",
    "ids": [
@@ -806,7 +886,7 @@
    "source_id": "understanding-ai",
    "published_ts": "2026-11-24 21:43:33",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 57,
    "related_news": [
     {
      "source_id": "hn",
@@ -1065,7 +1145,7 @@
      "url": "https://www.youtube.com/shorts/_upJzzrCv7s",
      "title": "Tidal Is Banning 100% AI-Generated Music — Starting December 9th",
      "channel": "",
-     "views": 10,
+     "views": 715,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1073,21 +1153,69 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:UZafZcDDIdE",
-     "url": "https://www.youtube.com/shorts/UZafZcDDIdE",
-     "title": "Tidal Bans AI-Generated Music",
+     "id": "youtube:RrZTpxdu9Pw",
+     "url": "https://www.youtube.com/shorts/RrZTpxdu9Pw",
+     "title": "AI Music Ban: Tidal Will Delete Millions of AI-Generated Songs",
      "channel": "",
-     "views": 0,
+     "views": 86,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.67,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7Ou6WW79JyE",
+     "url": "https://www.youtube.com/shorts/7Ou6WW79JyE",
+     "title": "Tidal Bans Fully AI-Generated Music Starting Dec. 9 #Shorts",
+     "channel": "",
+     "views": 54,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZdePf6l6g4E",
+     "url": "https://www.youtube.com/shorts/ZdePf6l6g4E",
+     "title": "Tidal Bans Fully AI-Generated Music #Shorts",
+     "channel": "",
+     "views": 50,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5eubcIW9up0",
+     "url": "https://www.youtube.com/shorts/5eubcIW9up0",
+     "title": "Tidal Will Remove Fully AI-Generated Music Starting Dec. 9 #Shorts",
+     "channel": "",
+     "views": 48,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FG6-ZxTybmU",
+     "url": "https://www.youtube.com/watch?v=FG6-ZxTybmU",
+     "title": "Tidal to Ban AI-Generated Music Entirely Starting December 9",
+     "channel": "Undeniable Progress Super Intelligence ",
+     "views": 3,
+     "age_hours": 4,
+     "relevance": 0.83,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T17:10:43.202Z"
+   "searched_at": "2026-11-24T23:20:17.789Z"
   },
   {
    "first_seen": "2026-11-24T03:27:31.401Z",
