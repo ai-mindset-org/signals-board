@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:27:31.288Z",
+ "generated_at": "2026-11-24T00:45:57.288Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: deepmind ai agents found",
-   "ok": true
-  },
-  {
-   "source": "tiktok: deepmind ai agents found",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-23T20:36:05.639Z",
@@ -1158,50 +1149,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-23T20:36:17.059Z"
-  },
-  {
-   "first_seen": "2026-11-21T03:13:28.969Z",
-   "id": "39956523",
-   "ids": [
-    "39956523",
-    "39957664"
-   ],
-   "title": "On the Agent Swarm that Locked Out My Cofounder, Multi-Agent Dynamics, and Shaping Cooperative Minds",
-   "url": "https://www.lesswrong.com/posts/J5KDhFcmZGuS2gQLX/on-the-agent-swarm-that-locked-out-my-cofounder-multi-agent",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-21 00:33:24",
-   "story_sources": 2,
-   "score_norm": 48,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
-     "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that"
-    }
-   ],
-   "queries": [
-    "Locked Out My Cofounder",
-    "swarm locked out my"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:Sc6TriRAGnI",
-     "url": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
-     "title": "Gemini 4 Swarm is out of control...",
-     "channel": "@WesRoth",
-     "views": 189000,
-     "age_hours": 177.04491805555554,
-     "relevance": 0.5,
-     "velocity": 1068
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-21T15:35:43.043Z"
   }
  ]
 }
