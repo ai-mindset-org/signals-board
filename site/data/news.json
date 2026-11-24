@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:13:00.497Z",
+ "generated_at": "2026-11-24T09:25:21.507Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: amazon decart acquires ai",
+   "source": "youtube: import 482 huawei ai",
    "ok": true
   },
   {
-   "source": "tiktok: amazon decart acquires ai",
+   "source": "tiktok: import 482 huawei ai",
    "ok": true
   }
  ],
@@ -451,7 +451,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 19:14:46",
    "story_sources": 2,
-   "score_norm": 90,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1139,7 +1139,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-24T03:14:33.821Z"
+   "searched_at": "2026-11-24T09:25:25.879Z"
   },
   {
    "first_seen": "2026-11-23T15:36:43.569Z",
