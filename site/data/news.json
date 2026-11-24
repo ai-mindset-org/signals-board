@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:10:26.379Z",
+ "generated_at": "2026-11-24T21:35:59.405Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Solved Math’s Most Famous Problem Now Humans Are Struggling",
+   "source": "youtube: Hire Its Team",
    "ok": true
   },
   {
-   "source": "tiktok: Solved Math’s Most Famous Problem Now Humans Are Struggling",
+   "source": "tiktok: Hire Its Team",
    "ok": true
   },
   {
-   "source": "youtube: solved math most famous",
+   "source": "youtube: amazon agrees buy decart",
    "ok": true
   },
   {
-   "source": "tiktok: solved math most famous",
+   "source": "tiktok: amazon agrees buy decart",
    "ok": true
   }
  ],
@@ -1692,22 +1692,10 @@
      "url": "https://www.youtube.com/watch?v=NWJhXsnphZU",
      "title": "Amazon agrees to buy Decart technology. It already knows what the software can do.",
      "channel": "EODHD Financial APIs ",
-     "views": 104,
-     "age_hours": 22,
+     "views": 128,
+     "age_hours": 24,
      "relevance": 0.5,
      "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:oVqZArzFyn0",
-     "url": "https://www.youtube.com/watch?v=oVqZArzFyn0",
-     "title": "Amazon Buys Decart's AI Tech, Hires Its Team to Take On Nvidia #Shorts",
-     "channel": "Artificial Intelligence (AI News)",
-     "views": 17,
-     "age_hours": 19,
-     "relevance": 0.63,
-     "velocity": 1
     },
     {
      "platform": "youtube",
@@ -1717,9 +1705,33 @@
      "title": "Amazon Signs Deal for Decart AI Technology and Plans to Hire Its Team",
      "channel": "Forever Desk",
      "views": 8,
-     "age_hours": 22,
+     "age_hours": 24,
      "relevance": 0.63,
      "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:KDM3WSL99mE",
+     "url": "https://www.youtube.com/watch?v=KDM3WSL99mE",
+     "title": "Amazon Agrees to Buy Decart AI Technology: What Must Happen Next",
+     "channel": "Angel Finance",
+     "views": 1,
+     "age_hours": 3,
+     "relevance": 0.63,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:v4C6pAw0pME",
+     "url": "https://www.youtube.com/watch?v=v4C6pAw0pME",
+     "title": "Amazon Signs Deal for Decart's AI Chip Tech and Founders",
+     "channel": "AI Daily News",
+     "views": 0,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -1741,7 +1753,7 @@
      "title": "Amazon's Reported $7.5B Decart Deal: Tech + Team Only #shorts",
      "channel": "Boardroom Blitz",
      "views": 4,
-     "age_hours": 19,
+     "age_hours": 24,
      "relevance": 0.5,
      "velocity": 0
     }
@@ -1750,7 +1762,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T15:23:08.056Z"
+   "searched_at": "2026-11-24T21:36:07.107Z"
   }
  ]
 }
