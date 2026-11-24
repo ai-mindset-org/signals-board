@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:36:45.894Z",
+ "generated_at": "2026-11-24T09:49:44.385Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: amazon israeli decart 7.5b",
-   "ok": true
-  },
-  {
-   "source": "tiktok: amazon israeli decart 7.5b",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
@@ -655,17 +646,17 @@
     "40009404",
     "40006283"
    ],
-   "title": "Amazon acquires Decart AI tech and team",
-   "url": "https://www.siliconrepublic.com/business/amazon-acquires-decart-ai-tech-and-team",
-   "source_id": "eu-siliconrepublic",
-   "published_ts": "2026-11-24 08:50:52",
+   "title": "Amazon Agrees to Buy Decart AI Tech and Hire Its Team",
+   "url": "https://thedefiant.io/frontier/ai/amazon-agrees-to-buy-decart-ai-tech-and-hire-its-team",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-24 03:50:34",
    "story_sources": 2,
    "score_norm": 84,
    "related_news": [
     {
-     "source_id": "x-thedefiant-io",
-     "title": "Amazon Agrees to Buy Decart AI Tech and Hire Its Team",
-     "url": "https://thedefiant.io/frontier/ai/amazon-agrees-to-buy-decart-ai-tech-and-hire-its-team"
+     "source_id": "eu-siliconrepublic",
+     "title": "Amazon acquires Decart AI tech and team",
+     "url": "https://www.siliconrepublic.com/business/amazon-acquires-decart-ai-tech-and-team"
     }
    ],
    "queries": [
@@ -1123,7 +1114,7 @@
    "source_id": "import-ai",
    "published_ts": "2026-11-23 14:11:17",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "x-importai-substack",
