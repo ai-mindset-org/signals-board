@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:38:43.331Z",
+ "generated_at": "2026-11-24T09:13:00.497Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Google Search’s",
+   "source": "youtube: amazon decart acquires ai",
    "ok": true
   },
   {
-   "source": "tiktok: Google Search’s",
-   "ok": true
-  },
-  {
-   "source": "youtube: google search mode drive",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google search mode drive",
+   "source": "tiktok: amazon decart acquires ai",
    "ok": true
   }
  ],
@@ -550,6 +542,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T08:38:51.068Z"
+  },
+  {
+   "first_seen": "2026-11-24T09:13:00.497Z",
+   "id": "40009404",
+   "ids": [
+    "40009404",
+    "40006283"
+   ],
+   "title": "Amazon acquires Decart AI tech and team",
+   "url": "https://www.siliconrepublic.com/business/amazon-acquires-decart-ai-tech-and-team",
+   "source_id": "eu-siliconrepublic",
+   "published_ts": "2026-11-24 08:50:52",
+   "story_sources": 2,
+   "score_norm": 85,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Amazon Agrees to Buy Decart AI Tech and Hire Its Team",
+     "url": "https://thedefiant.io/frontier/ai/amazon-agrees-to-buy-decart-ai-tech-and-hire-its-team"
+    }
+   ],
+   "queries": [
+    "amazon decart acquires ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:cGNDrh93bFA",
+     "url": "https://www.youtube.com/watch?v=cGNDrh93bFA",
+     "title": "Why Amazon Wants Decart's AI Tech",
+     "channel": "TheTechTweaks",
+     "views": 308,
+     "age_hours": 24,
+     "relevance": 0.8,
+     "velocity": 13
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Yp00EyCFN38",
+     "url": "https://www.youtube.com/watch?v=Yp00EyCFN38",
+     "title": "Amazon Buys Decart AI Tech for Reported $7.5B to Take On Nvidia",
+     "channel": "NomicSignal",
+     "views": 73,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VI6o-g-rXgU",
+     "url": "https://www.youtube.com/watch?v=VI6o-g-rXgU",
+     "title": "Amazon acquires Decart for $7.5B, but why?",
+     "channel": "Agyata Business",
+     "views": 30,
+     "age_hours": 9,
+     "relevance": 0.75,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BMAkoaM3YzU",
+     "url": "https://www.youtube.com/watch?v=BMAkoaM3YzU",
+     "title": "Amazon's $7.5 Billion AI Deal? Decart Acquisition Talks Explained",
+     "channel": "Financial Crashes",
+     "views": 39,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HXMKSLPuAVo",
+     "url": "https://www.youtube.com/watch?v=HXMKSLPuAVo",
+     "title": "Amazon is reportedly about to close a $7.5B deal for AI startup Decart",
+     "channel": "ArponNews",
+     "views": 12,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:O1ZutIZWjhc",
+     "url": "https://www.youtube.com/watch?v=O1ZutIZWjhc",
+     "title": "Amazon Reportedly Buying AI Startup Decart for $7.5B 🤯 #Shorts",
+     "channel": "AI & Tech News",
+     "views": 27,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T09:13:04.518Z"
   },
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
