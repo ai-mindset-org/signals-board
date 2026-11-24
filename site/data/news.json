@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:20:35.452Z",
+ "generated_at": "2026-11-24T22:49:32.159Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: 83 IPO",
+   "source": "youtube: york bans ai chatbot",
    "ok": true
   },
   {
-   "source": "tiktok: 83 IPO",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic 83 ipo falls",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic 83 ipo falls",
+   "source": "tiktok: york bans ai chatbot",
    "ok": true
   }
  ],
@@ -802,6 +794,111 @@
    "searched_at": "2026-11-24T09:25:25.879Z"
   },
   {
+   "first_seen": "2026-11-24T21:10:26.379Z",
+   "id": "40012313",
+   "ids": [
+    "40012313",
+    "40021124",
+    "40022745"
+   ],
+   "title": "An Anthropic mathematician just solved math’s most famous problem",
+   "url": "https://www.understandingai.org/p/an-anthropic-mathematician-just-solved",
+   "source_id": "understanding-ai",
+   "published_ts": "2026-11-24 21:43:33",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "The Most Famous Problem in Math Was Just Solved by AI–and This Human",
+     "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb"
+    }
+   ],
+   "queries": [
+    "Solved Math’s Most Famous Problem Now Humans Are Struggling",
+    "solved math most famous"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GXTC-G_oOtQ",
+     "url": "https://www.youtube.com/watch?v=GXTC-G_oOtQ",
+     "title": "Has AI Solved Math's Pinnacle Problem? | World Science Festival",
+     "channel": "World Science Festival",
+     "views": 404248,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 5615
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:C07_okYdkK8",
+     "url": "https://www.youtube.com/shorts/C07_okYdkK8",
+     "title": "AI May Have Just Solved a 167-Year-Old Math Problem",
+     "channel": "",
+     "views": 16000,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:4fLVq6HJsKc",
+     "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+     "title": "DeepSeek Solved AI’s Memory Problem",
+     "channel": "@TwoMinutePapers",
+     "views": 324000,
+     "age_hours": 1046.171261111111,
+     "relevance": 0.6,
+     "velocity": 310
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WvyKrUzhe_M",
+     "url": "https://www.youtube.com/shorts/WvyKrUzhe_M",
+     "title": "Did Claude just prove the most famous unsolved problem in math problem?",
+     "channel": "",
+     "views": 6400,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:kQ3FSDIWJKg",
+     "url": "https://www.youtube.com/shorts/kQ3FSDIWJKg",
+     "title": "Did a mathematician and an AI just solve math's most famous problem?",
+     "channel": "",
+     "views": 5500,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:80FPXUBOnA4",
+     "url": "https://www.youtube.com/watch?v=80FPXUBOnA4",
+     "title": "Did AI Just Solve Math's Most Famous Problem?",
+     "channel": "Versors",
+     "views": 10069,
+     "age_hours": 72,
+     "relevance": 0.71,
+     "velocity": 140
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-24T21:10:34.306Z"
+  },
+  {
    "first_seen": "2026-11-24T08:15:07.564Z",
    "id": "40008783",
    "ids": [
@@ -844,6 +941,97 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T14:24:09.938Z"
+  },
+  {
+   "first_seen": "2026-11-24T22:49:32.159Z",
+   "id": "40022658",
+   "ids": [
+    "40022658",
+    "40021780"
+   ],
+   "title": "New York bans AI chatbot toys for five years",
+   "url": "https://dailyai.com/2026/11/new-york-bans-ai-chatbot-toys-for-five-years/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-24 19:09:27",
+   "story_sources": 2,
+   "score_norm": 54,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "New York Ban AI Toys for 5 Years",
+     "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
+    }
+   ],
+   "queries": [
+    "york bans ai chatbot"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:9_SxMWFQ29M",
+     "url": "https://www.youtube.com/watch?v=9_SxMWFQ29M",
+     "title": "JUST IN: Gov. Kathy Hochul Signs Bill Banning AI Chatbot Toys In New York",
+     "channel": "Forbes Breaking News",
+     "views": 2296,
+     "age_hours": 5,
+     "relevance": 0.57,
+     "velocity": 459
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BHJmXiYr7w4",
+     "url": "https://www.youtube.com/watch?v=BHJmXiYr7w4",
+     "title": "New York bans AI chatbot toys for five years",
+     "channel": "WGRZ-TV",
+     "views": 6,
+     "age_hours": 1,
+     "relevance": 1,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NcxqFvzoP4Y",
+     "url": "https://www.youtube.com/watch?v=NcxqFvzoP4Y",
+     "title": "Why New York Is Banning AI Toys for Kids",
+     "channel": "Signal AI",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rbFXkhVUoU4",
+     "url": "https://www.youtube.com/watch?v=rbFXkhVUoU4",
+     "title": "New York Passes Five AI Bills Including Unanimous Kids Chatbot Ban",
+     "channel": "Unscarcity",
+     "views": 0,
+     "age_hours": 19,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xHvecY9fwyI",
+     "url": "https://www.youtube.com/watch?v=xHvecY9fwyI",
+     "title": "New York Bans AI Chatbot Toys for Five Years Over Child Safety Concerns | VERTEX",
+     "channel": "VERTEX",
+     "views": 1,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T22:49:36.245Z"
   },
   {
    "first_seen": "2026-11-24T17:10:34.699Z",
@@ -1453,110 +1641,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T19:50:01.251Z"
-  },
-  {
-   "first_seen": "2026-11-24T21:10:26.379Z",
-   "id": "40012313",
-   "ids": [
-    "40012313",
-    "40021124"
-   ],
-   "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-   "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-   "source_id": "wired-ai",
-   "published_ts": "2026-11-24 10:15:00",
-   "story_sources": 2,
-   "score_norm": 42,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "The Most Famous Problem in Math Was Just Solved by AI–and This Human",
-     "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb"
-    }
-   ],
-   "queries": [
-    "Solved Math’s Most Famous Problem Now Humans Are Struggling",
-    "solved math most famous"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GXTC-G_oOtQ",
-     "url": "https://www.youtube.com/watch?v=GXTC-G_oOtQ",
-     "title": "Has AI Solved Math's Pinnacle Problem? | World Science Festival",
-     "channel": "World Science Festival",
-     "views": 404248,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 5615
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:C07_okYdkK8",
-     "url": "https://www.youtube.com/shorts/C07_okYdkK8",
-     "title": "AI May Have Just Solved a 167-Year-Old Math Problem",
-     "channel": "",
-     "views": 16000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:4fLVq6HJsKc",
-     "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-     "title": "DeepSeek Solved AI’s Memory Problem",
-     "channel": "@TwoMinutePapers",
-     "views": 324000,
-     "age_hours": 1046.171261111111,
-     "relevance": 0.6,
-     "velocity": 310
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WvyKrUzhe_M",
-     "url": "https://www.youtube.com/shorts/WvyKrUzhe_M",
-     "title": "Did Claude just prove the most famous unsolved problem in math problem?",
-     "channel": "",
-     "views": 6400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kQ3FSDIWJKg",
-     "url": "https://www.youtube.com/shorts/kQ3FSDIWJKg",
-     "title": "Did a mathematician and an AI just solve math's most famous problem?",
-     "channel": "",
-     "views": 5500,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:80FPXUBOnA4",
-     "url": "https://www.youtube.com/watch?v=80FPXUBOnA4",
-     "title": "Did AI Just Solve Math's Most Famous Problem?",
-     "channel": "Versors",
-     "views": 10069,
-     "age_hours": 72,
-     "relevance": 0.71,
-     "velocity": 140
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-24T21:10:34.306Z"
   },
   {
    "first_seen": "2026-11-24T10:36:33.127Z",
