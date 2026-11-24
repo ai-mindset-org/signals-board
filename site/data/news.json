@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T12:39:29.252Z",
+ "generated_at": "2026-11-24T12:49:54.571Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: deepmind ai agents found",
+   "ok": true
+  },
+  {
+   "source": "tiktok: deepmind ai agents found",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
@@ -1225,21 +1234,9 @@
      "title": "DeepMind’s AI Just Did The Impossible",
      "channel": "@TwoMinutePapers",
      "views": 317000,
-     "age_hours": 264.1369516666667,
+     "age_hours": 270.2526316666667,
      "relevance": 0.5,
-     "velocity": 1200
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jf9hepNqtpc",
-     "url": "https://www.youtube.com/watch?v=jf9hepNqtpc",
-     "title": "DeepMind’s New AI Is A Gift To Humanity",
-     "channel": "Tech Unfiltered",
-     "views": 2401,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 100
+     "velocity": 1173
     },
     {
      "platform": "youtube",
@@ -1248,7 +1245,7 @@
      "url": "https://www.youtube.com/shorts/tZHiYmE54H4",
      "title": "Google DeepMind's AI agents discover faster quantum algorithms",
      "channel": "",
-     "views": 6,
+     "views": 38,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -1270,7 +1267,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-24T06:43:02.194Z"
+   "searched_at": "2026-11-24T12:49:58.643Z"
   },
   {
    "first_seen": "2026-11-23T19:36:31.978Z",
