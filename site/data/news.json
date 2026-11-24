@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:11:53.228Z",
+ "generated_at": "2026-11-24T15:23:00.236Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic's Claude Ship",
+   "source": "youtube: Hire Its Team",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic's Claude Ship",
+   "source": "tiktok: Hire Its Team",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude ship lets",
+   "source": "youtube: amazon agrees buy decart",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude ship lets",
+   "source": "tiktok: amazon agrees buy decart",
    "ok": true
   }
  ],
@@ -865,110 +865,6 @@
    "searched_at": "2026-11-24T15:12:00.963Z"
   },
   {
-   "first_seen": "2026-11-22T08:14:21.591Z",
-   "id": "39965626",
-   "ids": [
-    "39965626",
-    "39973616"
-   ],
-   "title": "GPT-6.2 Astra and Sol: The System Card",
-   "url": "https://www.lesswrong.com/posts/7Skw6caJxPrBDetCC/gpt-6-2-astra-and-sol-the-system-card",
-   "source_id": "lesswrong-feed",
-   "published_ts": "2026-11-21 15:20:52",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "x-thezvi-substack",
-     "title": "GPT-6.2 Astra and Sol: The System Card",
-     "url": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card"
-    }
-   ],
-   "queries": [
-    "The System Card",
-    "gpt-6.2 astra sol system"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:MrAORqX2wZ4",
-     "url": "https://www.youtube.com/watch?v=MrAORqX2wZ4",
-     "title": "New GPT-6.2 Astra + Sol AI Gamechangers, Google Genie 4 Worlds, Boston Dynamics MCP",
-     "channel": "AI News",
-     "views": 1627,
-     "age_hours": 24,
-     "relevance": 0.6,
-     "velocity": 68
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_dWDeEhFFFo",
-     "url": "https://www.youtube.com/watch?v=_dWDeEhFFFo",
-     "title": "OpenAI Just Dropped GPT-6.2 Astra & Sol?!",
-     "channel": "Julian Goldie SEO",
-     "views": 2798,
-     "age_hours": 72,
-     "relevance": 0.6,
-     "velocity": 39
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3ybpPedm4u8",
-     "url": "https://www.youtube.com/watch?v=3ybpPedm4u8",
-     "title": "NEW GPT-6.2 Astra + Sol are HERE! 🤯",
-     "channel": "Julian Goldie SEO",
-     "views": 2830,
-     "age_hours": 72,
-     "relevance": 0.75,
-     "velocity": 39
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_DmQO0dzEv0",
-     "url": "https://www.youtube.com/watch?v=_DmQO0dzEv0",
-     "title": "GPT-6.2 Astra vs Sol: Which One Should You Actually Use?",
-     "channel": "SECourses",
-     "views": 1842,
-     "age_hours": 72,
-     "relevance": 0.6,
-     "velocity": 26
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:c8h4R1h4Ox4",
-     "url": "https://www.youtube.com/shorts/c8h4R1h4Ox4",
-     "title": "GPT-6.2 Astra vs GPT-6.2 Sol vs Fable 5.2 vs Opus 5.5 🛩️",
-     "channel": "",
-     "views": 395,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:auio_b7oj7A",
-     "url": "https://www.youtube.com/watch?v=auio_b7oj7A",
-     "title": "GPT-6.2 Astra vs. Sol: Which Should You Actually Use?",
-     "channel": "proflead",
-     "views": 480,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 10
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-22T08:14:29.370Z"
-  },
-  {
    "first_seen": "2026-11-24T10:36:33.127Z",
    "id": "40010564",
    "ids": [
@@ -1092,87 +988,76 @@
     }
    ],
    "queries": [
-    "amazon decart acquires ai"
+    "Hire Its Team",
+    "amazon agrees buy decart"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:cGNDrh93bFA",
-     "url": "https://www.youtube.com/watch?v=cGNDrh93bFA",
-     "title": "Why Amazon Wants Decart's AI Tech",
-     "channel": "TheTechTweaks",
-     "views": 308,
-     "age_hours": 24,
-     "relevance": 0.8,
-     "velocity": 13
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Yp00EyCFN38",
-     "url": "https://www.youtube.com/watch?v=Yp00EyCFN38",
-     "title": "Amazon Buys Decart AI Tech for Reported $7.5B to Take On Nvidia",
-     "channel": "NomicSignal",
-     "views": 73,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VI6o-g-rXgU",
-     "url": "https://www.youtube.com/watch?v=VI6o-g-rXgU",
-     "title": "Amazon acquires Decart for $7.5B, but why?",
-     "channel": "Agyata Business",
-     "views": 30,
-     "age_hours": 9,
-     "relevance": 0.75,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:BMAkoaM3YzU",
-     "url": "https://www.youtube.com/watch?v=BMAkoaM3YzU",
-     "title": "Amazon's $7.5 Billion AI Deal? Decart Acquisition Talks Explained",
-     "channel": "Financial Crashes",
-     "views": 39,
-     "age_hours": 24,
+     "id": "youtube:NWJhXsnphZU",
+     "url": "https://www.youtube.com/watch?v=NWJhXsnphZU",
+     "title": "Amazon agrees to buy Decart technology. It already knows what the software can do.",
+     "channel": "EODHD Financial APIs ",
+     "views": 104,
+     "age_hours": 22,
      "relevance": 0.5,
-     "velocity": 2
+     "velocity": 5
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:HXMKSLPuAVo",
-     "url": "https://www.youtube.com/watch?v=HXMKSLPuAVo",
-     "title": "Amazon is reportedly about to close a $7.5B deal for AI startup Decart",
-     "channel": "ArponNews",
-     "views": 12,
-     "age_hours": 24,
-     "relevance": 0.5,
+     "id": "youtube:oVqZArzFyn0",
+     "url": "https://www.youtube.com/watch?v=oVqZArzFyn0",
+     "title": "Amazon Buys Decart's AI Tech, Hires Its Team to Take On Nvidia #Shorts",
+     "channel": "Artificial Intelligence (AI News)",
+     "views": 17,
+     "age_hours": 19,
+     "relevance": 0.63,
      "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:O1ZutIZWjhc",
-     "url": "https://www.youtube.com/watch?v=O1ZutIZWjhc",
-     "title": "Amazon Reportedly Buying AI Startup Decart for $7.5B 🤯 #Shorts",
-     "channel": "AI & Tech News",
-     "views": 27,
+     "id": "youtube:eaM1EYuOLGs",
+     "url": "https://www.youtube.com/watch?v=eaM1EYuOLGs",
+     "title": "Amazon Signs Deal for Decart AI Technology and Plans to Hire Its Team",
+     "channel": "Forever Desk",
+     "views": 8,
+     "age_hours": 22,
+     "relevance": 0.63,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:FW9dGm54fac",
+     "url": "https://www.youtube.com/watch?v=FW9dGm54fac",
+     "title": "Amazon To Buy Decart's AI Optimization Tech",
+     "channel": "Inboxsmith",
+     "views": 4,
      "age_hours": 24,
+     "relevance": 0.83,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rgifXGG7gWo",
+     "url": "https://www.youtube.com/watch?v=rgifXGG7gWo",
+     "title": "Amazon's Reported $7.5B Decart Deal: Tech + Team Only #shorts",
+     "channel": "Boardroom Blitz",
+     "views": 4,
+     "age_hours": 19,
      "relevance": 0.5,
-     "velocity": 1
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T09:13:04.518Z"
+   "searched_at": "2026-11-24T15:23:08.056Z"
   },
   {
    "first_seen": "2026-11-24T08:15:07.564Z",
