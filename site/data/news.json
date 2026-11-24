@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:50:05.937Z",
+ "generated_at": "2026-11-24T08:15:07.564Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: 45 ai server makers",
+   "source": "youtube: Launches Dictation API For English",
    "ok": true
   },
   {
-   "source": "tiktok: 45 ai server makers",
+   "source": "tiktok: Launches Dictation API For English",
+   "ok": true
+  },
+  {
+   "source": "youtube: sarvam launches dictation api",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sarvam launches dictation api",
    "ok": true
   }
  ],
@@ -647,6 +655,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-22T12:49:48.478Z"
+  },
+  {
+   "first_seen": "2026-11-24T08:15:07.564Z",
+   "id": "40008783",
+   "ids": [
+    "40008783",
+    "39995817"
+   ],
+   "title": "Sarvam AI Launches Dictation API For English, 22 Indian Languages",
+   "url": "https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-11-24 06:46:40",
+   "story_sources": 2,
+   "score_norm": 84,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Sarvam launches AI-powered dictation API for English, 22 Indian languages",
+     "url": "https://www.thehindubusinessline.com/info-tech/sarvam-launches-ai-powered-dictation-api-for-english-22-indian-languages/article71735921.ece"
+    }
+   ],
+   "queries": [
+    "Launches Dictation API For English",
+    "sarvam launches dictation api"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JyTLTJAxtI8",
+     "url": "https://www.youtube.com/shorts/JyTLTJAxtI8",
+     "title": "Sarvam Dictate API: AI Speech to Text for 22 Indian Languages 🇮🇳",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T08:15:15.283Z"
   },
   {
    "first_seen": "2026-11-21T10:49:41.857Z",
