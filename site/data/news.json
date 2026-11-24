@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:36:11.951Z",
+ "generated_at": "2026-11-24T19:49:50.077Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Anthropic Slips Below 83 IPO Price",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Anthropic Slips Below 83 IPO Price",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic slips below 83",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic slips below 83",
+   "ok": true
+  },
+  {
+   "source": "youtube: meta muse uk ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta muse uk ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
@@ -540,36 +565,6 @@
    "searched_at": "2026-11-24T16:13:05.972Z"
   },
   {
-   "first_seen": "2026-11-23T20:49:49.193Z",
-   "id": "40000811",
-   "ids": [
-    "40000811",
-    "39993384"
-   ],
-   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
-   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-23 14:11:17",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
-    }
-   ],
-   "queries": [
-    "import 482 huawei ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T09:25:25.879Z"
-  },
-  {
    "first_seen": "2026-11-24T04:14:02.188Z",
    "id": "40002209",
    "ids": [
@@ -582,7 +577,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 22:05:50",
    "story_sources": 3,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -678,6 +673,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T16:25:37.789Z"
+  },
+  {
+   "first_seen": "2026-11-23T20:49:49.193Z",
+   "id": "40000811",
+   "ids": [
+    "40000811",
+    "39993384"
+   ],
+   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-23 14:11:17",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+   ],
+   "queries": [
+    "import 482 huawei ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T09:25:25.879Z"
   },
   {
    "first_seen": "2026-11-24T08:15:07.564Z",
@@ -1164,12 +1189,103 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:I2XAug-Uz6M",
+     "url": "https://www.youtube.com/watch?v=I2XAug-Uz6M",
+     "title": "The Anthropic IPO Didn't Help",
+     "channel": "Big A",
+     "views": 863664,
+     "age_hours": 72,
+     "relevance": 0.5,
+     "velocity": 11995
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:AIkLDMR1T3g",
+     "url": "https://www.youtube.com/watch?v=AIkLDMR1T3g",
+     "title": "Anthropic CRASHES Below IPO Price! CEO Sold $280M in Shares!",
+     "channel": "VexaPulse",
+     "views": 20,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:B0L9el_pB_4",
+     "url": "https://www.youtube.com/watch?v=B0L9el_pB_4",
+     "title": "Anthropic Shares Slide Below $83 IPO Price, AI Boom Faces Investor Reality Check | NewsX World",
+     "channel": "NewsX World",
+     "views": 13,
+     "age_hours": 6,
+     "relevance": 0.63,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_dDRTgmCMGc",
+     "url": "https://www.youtube.com/watch?v=_dDRTgmCMGc",
+     "title": "Anthropic Sinks Below Its IPO Price - TMTL News - Evening TL;DR - 2026-11-24 #Shorts",
+     "channel": "TMTL",
+     "views": 0,
+     "age_hours": 0.31666666666666665,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:o4chCvlkRYo",
+     "url": "https://www.youtube.com/watch?v=o4chCvlkRYo",
+     "title": "Anthropic Stock Briefly Slips Below Its IPO Price #Shorts",
+     "channel": "Innoworkspro",
+     "views": 0,
+     "age_hours": 5,
+     "relevance": 0.63,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-24T19:49:57.737Z"
+  },
+  {
+   "first_seen": "2026-11-24T19:49:50.077Z",
+   "id": "40019643",
+   "ids": [
+    "40019643",
+    "40014046"
+   ],
+   "title": "Meta’s AI shopping agent Muse goes live in the UK",
+   "url": "https://dailyai.com/2026/11/metas-ai-shopping-agent-muse-goes-live-in-the-uk/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-24 14:03:45",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Meta’s AI agent Muse lands in the UK in time for Christmas shopping",
+     "url": "https://thenextweb.com/news/meta-muse-uk-launch"
+    }
+   ],
+   "queries": [
+    "meta muse uk ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:uvJuqV1CDQ4",
-     "url": "https://www.youtube.com/shorts/uvJuqV1CDQ4",
-     "title": "ANTHROPIC’S IPO: GREAT AI. TERRIBLE TRADE?",
+     "id": "youtube:KGd0X-K7i7k",
+     "url": "https://www.youtube.com/shorts/KGd0X-K7i7k",
+     "title": "Meta Muse AI Agent Showed Users Other People's Bank Balances, Meta Says It Hallucinated",
      "channel": "",
-     "views": 111,
+     "views": 1000,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1177,11 +1293,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:HlS0LCgAPz8",
-     "url": "https://www.youtube.com/shorts/HlS0LCgAPz8",
-     "title": "Anthropic's IPO Millionaire Machine",
+     "id": "youtube:3NalxhMSSQA",
+     "url": "https://www.youtube.com/shorts/3NalxhMSSQA",
+     "title": "Meta's AI agent Muse accessed a staffer's Signal message. She \"had never connected\" it. Via Reuters",
      "channel": "",
-     "views": 97,
+     "views": 289,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1189,23 +1305,23 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:L7kDZAaQwIM",
-     "url": "https://www.youtube.com/shorts/L7kDZAaQwIM",
-     "title": "Anthropic Slides Toward $83 IPO Price as AI Stocks Sell Off",
+     "id": "youtube:C2-c6wf1KN8",
+     "url": "https://www.youtube.com/shorts/C2-c6wf1KN8",
+     "title": "Meta's AI Agent Muse Is Now in the UK: What It Does, Explained Like You're 5 🚨 #shorts",
      "channel": "",
-     "views": 54,
+     "views": 203,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.63,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:McS4GZrtHA8",
-     "url": "https://www.youtube.com/shorts/McS4GZrtHA8",
-     "title": "Anthropic Just Fell Below Its $83 IPO Price #shorts",
+     "id": "youtube:iIiHEAC_ua4",
+     "url": "https://www.youtube.com/shorts/iIiHEAC_ua4",
+     "title": "Meta's New AI Agent Muse Launches in the UK #shorts",
      "channel": "",
-     "views": 1,
+     "views": 200,
      "age_hours": null,
      "relevance": 0.71,
      "velocity": null
@@ -1213,13 +1329,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:AIkLDMR1T3g",
-     "url": "https://www.youtube.com/shorts/AIkLDMR1T3g",
-     "title": "Anthropic CRASHES Below IPO Price! CEO Sold $280M in Shares!",
+     "id": "youtube:xQratUeA-PM",
+     "url": "https://www.youtube.com/shorts/xQratUeA-PM",
+     "title": "Meta's AI agent Muse is now live in the UK #shorts",
      "channel": "",
-     "views": 1,
+     "views": 99,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WN4K4Ms1w9Q",
+     "url": "https://www.youtube.com/shorts/WN4K4Ms1w9Q",
+     "title": "Meta launches Muse AI agent to run errands in the UK",
+     "channel": "",
+     "views": 94,
+     "age_hours": null,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -1227,7 +1355,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T13:36:48.637Z"
+   "searched_at": "2026-11-24T19:50:01.251Z"
   },
   {
    "first_seen": "2026-11-24T15:11:53.228Z",
