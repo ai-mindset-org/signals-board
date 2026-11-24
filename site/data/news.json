@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:10:19.869Z",
+ "generated_at": "2026-11-24T22:20:35.452Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic’s Claude Ship Lets",
+   "source": "youtube: 83 IPO",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic’s Claude Ship Lets",
+   "source": "tiktok: 83 IPO",
    "ok": true
   },
   {
-   "source": "youtube: anthropic claude ship lets",
+   "source": "youtube: anthropic 83 ipo falls",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic claude ship lets",
+   "source": "tiktok: anthropic 83 ipo falls",
    "ok": true
   }
  ],
@@ -589,22 +589,34 @@
      "url": "https://www.youtube.com/watch?v=-Z1VqzCNUs8",
      "title": "Anthropic Shares Fall Below IPO Price of $83",
      "channel": "Bloomberg Television",
-     "views": 586,
-     "age_hours": 0.26666666666666666,
+     "views": 25431,
+     "age_hours": 6,
      "relevance": 0.71,
-     "velocity": 586
+     "velocity": 4239
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kNKox4FUaBo",
-     "url": "https://www.youtube.com/shorts/kNKox4FUaBo",
-     "title": "Anthropic prices IPO at $83 per share",
-     "channel": "",
-     "views": 7400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:AJuGAzA3ong",
+     "url": "https://www.youtube.com/watch?v=AJuGAzA3ong",
+     "title": "Anthropic falls below $83 IPO price in swift reversal after record listing",
+     "channel": "Reuters",
+     "views": 1235,
+     "age_hours": 1,
+     "relevance": 0.7,
+     "velocity": 1235
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DV86LvwueWw",
+     "url": "https://www.youtube.com/watch?v=DV86LvwueWw",
+     "title": "Anthropic Stock Falls Below $83 Per Share IPO Price",
+     "channel": "Forbes Breaking News",
+     "views": 3988,
+     "age_hours": 5,
+     "relevance": 0.67,
+     "velocity": 798
     },
     {
      "platform": "youtube",
@@ -613,22 +625,10 @@
      "url": "https://www.youtube.com/watch?v=6Rhv6w2-ziA",
      "title": "Anthropic Fell Below Its $83 IPO Price. Why December 15 Matters",
      "channel": "Chris Haroun",
-     "views": 76,
-     "age_hours": 0.2833333333333333,
+     "views": 3057,
+     "age_hours": 6,
      "relevance": 0.56,
-     "velocity": 76
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yVqTMpVO0SI",
-     "url": "https://www.youtube.com/watch?v=yVqTMpVO0SI",
-     "title": "Anthropic Stock Falls Below $83 IPO Price: What the Founders Sold",
-     "channel": "Ticker Clips",
-     "views": 25,
-     "age_hours": 0.6166666666666667,
-     "relevance": 0.67,
-     "velocity": 25
+     "velocity": 510
     },
     {
      "platform": "youtube",
@@ -637,7 +637,7 @@
      "url": "https://www.youtube.com/shorts/hjWJA-3hAek",
      "title": "Anthropic IPO Price: Why Couldn't You Buy at $83? #anthropic #IPO #stocks #finance",
      "channel": "",
-     "views": 380,
+     "views": 1400,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -649,17 +649,17 @@
      "url": "https://www.youtube.com/shorts/HlS0LCgAPz8",
      "title": "Anthropic's IPO Millionaire Machine",
      "channel": "",
-     "views": 101,
+     "views": 119,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-24T16:13:05.972Z"
+   "searched_at": "2026-11-24T22:20:43.832Z"
   },
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
