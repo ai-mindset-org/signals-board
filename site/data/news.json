@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:12:57.767Z",
+ "generated_at": "2026-11-24T16:25:29.994Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: 83 IPO",
+   "source": "youtube: Claude Ship",
    "ok": true
   },
   {
-   "source": "tiktok: 83 IPO",
+   "source": "tiktok: Claude Ship",
    "ok": true
   },
   {
-   "source": "youtube: anthropic 83 ipo falls",
+   "source": "youtube: anthropic claude ship launches",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 83 ipo falls",
+   "source": "tiktok: anthropic claude ship launches",
    "ok": true
   }
  ],
@@ -356,7 +356,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 22:05:50",
    "story_sources": 3,
-   "score_norm": 93,
+   "score_norm": 94,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -381,10 +381,34 @@
      "url": "https://www.youtube.com/watch?v=pZyB8vGhz-o",
      "title": "Introducing Claude Ship (beta)",
      "channel": "Chris Messina",
-     "views": 1115,
-     "age_hours": 13,
+     "views": 1845,
+     "age_hours": 19,
      "relevance": 0.5,
-     "velocity": 86
+     "velocity": 97
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5GyV1tHPXZU",
+     "url": "https://www.youtube.com/watch?v=5GyV1tHPXZU",
+     "title": "Claude Ship : Claude Code Just Got a Powerful New Superpower",
+     "channel": "Codedigipt",
+     "views": 153,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 77
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fblXxq9FgC0",
+     "url": "https://www.youtube.com/shorts/fblXxq9FgC0",
+     "title": "Claude Ship: Claude Can Now Approve Your Pull Requests",
+     "channel": "",
+     "views": 517,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -393,7 +417,7 @@
      "url": "https://www.youtube.com/shorts/llJcWcF17nY",
      "title": "Claude Ship: AI Approves Your PRs",
      "channel": "",
-     "views": 227,
+     "views": 378,
      "age_hours": null,
      "relevance": 0.6,
      "velocity": null
@@ -405,7 +429,7 @@
      "url": "https://www.youtube.com/shorts/x8spi3us0y4",
      "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
      "channel": "",
-     "views": 196,
+     "views": 339,
      "age_hours": null,
      "relevance": 0.83,
      "velocity": null
@@ -413,45 +437,21 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:F8zrCsB9JOY",
-     "url": "https://www.youtube.com/shorts/F8zrCsB9JOY",
-     "title": "Claude Ship: Claude can now fix and approve pull requests (beta)",
+     "id": "youtube:EV3btGWYBrk",
+     "url": "https://www.youtube.com/shorts/EV3btGWYBrk",
+     "title": "Did Claude Ship Just Put AI Code Review Startups on Notice?",
      "channel": "",
-     "views": 120,
+     "views": 232,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.56,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5974DvDaeeM",
-     "url": "https://www.youtube.com/watch?v=5974DvDaeeM",
-     "title": "Anthropic Launches Claude Ship — AI Agents That Review, Fix, and Approve Your Code",
-     "channel": "AI Automation and Agentic Blueprint",
-     "views": 24,
-     "age_hours": 9,
-     "relevance": 1,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XB7mxyAUB_Q",
-     "url": "https://www.youtube.com/watch?v=XB7mxyAUB_Q",
-     "title": "Claude Ship launched by Anthropic for code reviews",
-     "channel": "GloblePulseAi",
-     "views": 30,
-     "age_hours": 10,
-     "relevance": 0.67,
-     "velocity": 3
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T10:21:18.485Z"
+   "searched_at": "2026-11-24T16:25:37.789Z"
   },
   {
    "first_seen": "2026-11-21T17:49:46.527Z",
@@ -668,7 +668,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 19:14:46",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 65,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1009,7 +1009,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 03:50:34",
    "story_sources": 2,
-   "score_norm": 57,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "eu-siliconrepublic",
