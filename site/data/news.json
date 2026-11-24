@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:15:07.564Z",
+ "generated_at": "2026-11-24T08:28:30.276Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Launches Dictation API For English",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Launches Dictation API For English",
-   "ok": true
-  },
-  {
-   "source": "youtube: sarvam launches dictation api",
-   "ok": true
-  },
-  {
-   "source": "tiktok: sarvam launches dictation api",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
@@ -699,110 +682,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T08:15:15.283Z"
-  },
-  {
-   "first_seen": "2026-11-21T10:49:41.857Z",
-   "id": "39961570",
-   "ids": [
-    "39961570",
-    "39960305"
-   ],
-   "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
-   "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-21 08:23:27",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Google to provide IIT Kharagpur $5 million for advanced AI research",
-     "url": "https://www.thehindubusinessline.com/news/education/google-to-provide-iit-kharagpur-5-million-for-advanced-ai-research/article71727711.ece"
-    }
-   ],
-   "queries": [
-    "IIT Kharagpur",
-    "google 5m iit kharagpur"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:CC3r2dAikwE",
-     "url": "https://www.youtube.com/shorts/CC3r2dAikwE",
-     "title": "Google commits $5 million to IIT Kharagpur to accelerate advanced AI research",
-     "channel": "",
-     "views": 413,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-mixNC-PF6M",
-     "url": "https://www.youtube.com/shorts/-mixNC-PF6M",
-     "title": "Google gives IIT Kharagpur $5M for Al",
-     "channel": "",
-     "views": 105,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:qRg-WE0E8Q8",
-     "url": "https://www.youtube.com/shorts/qRg-WE0E8Q8",
-     "title": "Google Just Put $5 Million Into This Indian IIT for AI Research #Shorts",
-     "channel": "",
-     "views": 73,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kDg5V4w3nI4",
-     "url": "https://www.youtube.com/shorts/kDg5V4w3nI4",
-     "title": "Google Invests $5 Million in IIT Kharagpur for AI Research! 🇮🇳",
-     "channel": "",
-     "views": 69,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:O5d9PiUl_Sg",
-     "url": "https://www.youtube.com/shorts/O5d9PiUl_Sg",
-     "title": "Google committed $5 million to IIT Kharagpur for advanced AI research. #Shorts",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ql_cuHK4_4s",
-     "url": "https://www.youtube.com/shorts/ql_cuHK4_4s",
-     "title": "Google to give IIT Kharagpur $5 million for AI | NewsEdition",
-     "channel": "",
-     "views": 11,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-22T05:11:40.630Z"
   },
   {
    "first_seen": "2026-11-24T03:27:31.401Z",
