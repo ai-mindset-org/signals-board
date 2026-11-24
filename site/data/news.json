@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:36:41.048Z",
+ "generated_at": "2026-11-24T14:12:13.559Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic Slips Below 83 IPO Price",
+   "source": "youtube: 45 ai server makers",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic Slips Below 83 IPO Price",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic slips below 83",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic slips below 83",
+   "source": "tiktok: 45 ai server makers",
    "ok": true
   }
  ],
@@ -570,7 +562,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 11:30:46",
    "story_sources": 2,
-   "score_norm": 80,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "hn",
@@ -1333,7 +1325,7 @@
      "url": "https://www.youtube.com/shorts/ccQNKeqESTw",
      "title": "AI servers just got up to 45% pricier after deals were signed",
      "channel": "",
-     "views": 117,
+     "views": 143,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1345,7 +1337,7 @@
      "url": "https://www.youtube.com/shorts/QLRKMqxYLxo",
      "title": "AI SERVER PRICES UP TO 45% MORE",
      "channel": "",
-     "views": 65,
+     "views": 75,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -1357,33 +1349,9 @@
      "url": "https://www.youtube.com/shorts/D8fFUktX7pI",
      "title": "Server makers want up to 45% more #Shorts",
      "channel": "",
-     "views": 16,
+     "views": 17,
      "age_hours": null,
      "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:dqeyA5l9Y68",
-     "url": "https://www.youtube.com/shorts/dqeyA5l9Y68",
-     "title": "Report: AI server suppliers asking more after deals are signed; one person cites up to 45%",
-     "channel": "",
-     "views": 14,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:IJozB322-p8",
-     "url": "https://www.youtube.com/shorts/IJozB322-p8",
-     "title": "AI Server Makers Reportedly Raise Prices on Signed Deals, Up to 45%",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.7,
      "velocity": null
     },
     {
@@ -1397,13 +1365,25 @@
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pANrxZh7WDc",
+     "url": "https://www.youtube.com/watch?v=pANrxZh7WDc",
+     "title": "AI Server Makers Reprice Signed Contracts by Up to 45 Percent | Nov 22, 2026",
+     "channel": "Enjeratv",
+     "views": 2,
+     "age_hours": 24,
+     "relevance": 0.7,
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T07:50:10.048Z"
+   "searched_at": "2026-11-24T14:12:19.162Z"
   },
   {
    "first_seen": "2026-11-24T00:27:31.288Z",
