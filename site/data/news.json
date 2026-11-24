@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:49:44.385Z",
+ "generated_at": "2026-11-24T10:21:10.708Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Claude Ship",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Claude Ship",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic claude ship launches",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic claude ship launches",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
@@ -41,22 +58,34 @@
      "url": "https://www.youtube.com/watch?v=pZyB8vGhz-o",
      "title": "Introducing Claude Ship (beta)",
      "channel": "Chris Messina",
-     "views": 436,
-     "age_hours": 6,
+     "views": 1115,
+     "age_hours": 13,
      "relevance": 0.5,
-     "velocity": 73
+     "velocity": 86
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XB7mxyAUB_Q",
-     "url": "https://www.youtube.com/watch?v=XB7mxyAUB_Q",
-     "title": "Claude Ship launched by Anthropic for code reviews",
-     "channel": "GloblePulseAi",
-     "views": 20,
-     "age_hours": 4,
-     "relevance": 0.67,
-     "velocity": 5
+     "kind": "shorts",
+     "id": "youtube:llJcWcF17nY",
+     "url": "https://www.youtube.com/shorts/llJcWcF17nY",
+     "title": "Claude Ship: AI Approves Your PRs",
+     "channel": "",
+     "views": 227,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:x8spi3us0y4",
+     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
+     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
+     "channel": "",
+     "views": 196,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -65,53 +94,41 @@
      "url": "https://www.youtube.com/shorts/F8zrCsB9JOY",
      "title": "Claude Ship: Claude can now fix and approve pull requests (beta)",
      "channel": "",
-     "views": 80,
+     "views": 120,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Y2rC5LiSdPQ",
-     "url": "https://www.youtube.com/shorts/Y2rC5LiSdPQ",
-     "title": "Anthropic launches Claude Ship for faster coding | codemago.dev/news",
-     "channel": "",
-     "views": 68,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:5974DvDaeeM",
+     "url": "https://www.youtube.com/watch?v=5974DvDaeeM",
+     "title": "Anthropic Launches Claude Ship — AI Agents That Review, Fix, and Approve Your Code",
+     "channel": "AI Automation and Agentic Blueprint",
+     "views": 24,
+     "age_hours": 9,
+     "relevance": 1,
+     "velocity": 3
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:4_Tir6HLGp8",
-     "url": "https://www.youtube.com/shorts/4_Tir6HLGp8",
-     "title": "Anthropic launches new Claude Ship feature for builders",
-     "channel": "",
-     "views": 58,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:XB7mxyAUB_Q",
+     "url": "https://www.youtube.com/watch?v=XB7mxyAUB_Q",
+     "title": "Claude Ship launched by Anthropic for code reviews",
+     "channel": "GloblePulseAi",
+     "views": 30,
+     "age_hours": 10,
      "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wsifWlTdJb4",
-     "url": "https://www.youtube.com/shorts/wsifWlTdJb4",
-     "title": "Claude Ship: AI Reviews, Fixes, Approves Code",
-     "channel": "",
-     "views": 56,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
+     "velocity": 3
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T04:14:09.899Z"
+   "searched_at": "2026-11-24T10:21:18.485Z"
   },
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
