@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:10:34.699Z",
+ "generated_at": "2026-11-24T18:13:58.347Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Ban Fully AI-Generated Music From December 9",
+   "source": "youtube: tidal ai-generated banning music",
    "ok": true
   },
   {
-   "source": "tiktok: Ban Fully AI-Generated Music From December 9",
+   "source": "tiktok: tidal ai-generated banning music",
    "ok": true
   },
   {
-   "source": "youtube: tidal ban fully ai-generated",
+   "source": "youtube: ai lab staff reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: tidal ban fully ai-generated",
+   "source": "tiktok: ai lab staff reportedly",
    "ok": true
   }
  ],
@@ -240,6 +240,116 @@
    "searched_at": "2026-11-22T10:35:49.214Z"
   },
   {
+   "first_seen": "2026-11-24T04:14:02.188Z",
+   "id": "40002209",
+   "ids": [
+    "40002209",
+    "40006286",
+    "40011957"
+   ],
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-23 22:05:50",
+   "story_sources": 3,
+   "score_norm": 96,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
+     "url": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code"
+    },
+    {
+     "source_id": "eu-itpro",
+     "title": "Anthropic's new Claude Ship service hands the reins to agents to fix and review code changes",
+     "url": "https://www.itpro.com/software-engineering/anthropics-new-claude-ship-service-hands-the-reins-to-agents-to-fix-and-review-code-changes-but-the-company-warns-it-may-miss-bugs-security-vulnerabilities-or-other-issues"
+    }
+   ],
+   "queries": [
+    "Claude Ship",
+    "anthropic claude ship launches"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:pZyB8vGhz-o",
+     "url": "https://www.youtube.com/watch?v=pZyB8vGhz-o",
+     "title": "Introducing Claude Ship (beta)",
+     "channel": "Chris Messina",
+     "views": 1845,
+     "age_hours": 19,
+     "relevance": 0.5,
+     "velocity": 97
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5GyV1tHPXZU",
+     "url": "https://www.youtube.com/watch?v=5GyV1tHPXZU",
+     "title": "Claude Ship : Claude Code Just Got a Powerful New Superpower",
+     "channel": "Codedigipt",
+     "views": 153,
+     "age_hours": 2,
+     "relevance": 0.5,
+     "velocity": 77
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:fblXxq9FgC0",
+     "url": "https://www.youtube.com/shorts/fblXxq9FgC0",
+     "title": "Claude Ship: Claude Can Now Approve Your Pull Requests",
+     "channel": "",
+     "views": 517,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:llJcWcF17nY",
+     "url": "https://www.youtube.com/shorts/llJcWcF17nY",
+     "title": "Claude Ship: AI Approves Your PRs",
+     "channel": "",
+     "views": 378,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:x8spi3us0y4",
+     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
+     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
+     "channel": "",
+     "views": 339,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:EV3btGWYBrk",
+     "url": "https://www.youtube.com/shorts/EV3btGWYBrk",
+     "title": "Did Claude Ship Just Put AI Code Review Startups on Notice?",
+     "channel": "",
+     "views": 232,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T16:25:37.789Z"
+  },
+  {
    "first_seen": "2026-11-24T01:12:05.503Z",
    "id": "40004429",
    "ids": [
@@ -342,116 +452,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T07:12:47.404Z"
-  },
-  {
-   "first_seen": "2026-11-24T04:14:02.188Z",
-   "id": "40002209",
-   "ids": [
-    "40002209",
-    "40006286",
-    "40011957"
-   ],
-   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-23 22:05:50",
-   "story_sources": 3,
-   "score_norm": 95,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
-     "url": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code"
-    },
-    {
-     "source_id": "eu-itpro",
-     "title": "Anthropic's new Claude Ship service hands the reins to agents to fix and review code changes",
-     "url": "https://www.itpro.com/software-engineering/anthropics-new-claude-ship-service-hands-the-reins-to-agents-to-fix-and-review-code-changes-but-the-company-warns-it-may-miss-bugs-security-vulnerabilities-or-other-issues"
-    }
-   ],
-   "queries": [
-    "Claude Ship",
-    "anthropic claude ship launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pZyB8vGhz-o",
-     "url": "https://www.youtube.com/watch?v=pZyB8vGhz-o",
-     "title": "Introducing Claude Ship (beta)",
-     "channel": "Chris Messina",
-     "views": 1845,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 97
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5GyV1tHPXZU",
-     "url": "https://www.youtube.com/watch?v=5GyV1tHPXZU",
-     "title": "Claude Ship : Claude Code Just Got a Powerful New Superpower",
-     "channel": "Codedigipt",
-     "views": 153,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 77
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fblXxq9FgC0",
-     "url": "https://www.youtube.com/shorts/fblXxq9FgC0",
-     "title": "Claude Ship: Claude Can Now Approve Your Pull Requests",
-     "channel": "",
-     "views": 517,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:llJcWcF17nY",
-     "url": "https://www.youtube.com/shorts/llJcWcF17nY",
-     "title": "Claude Ship: AI Approves Your PRs",
-     "channel": "",
-     "views": 378,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:x8spi3us0y4",
-     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
-     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
-     "channel": "",
-     "views": 339,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:EV3btGWYBrk",
-     "url": "https://www.youtube.com/shorts/EV3btGWYBrk",
-     "title": "Did Claude Ship Just Put AI Code Review Startups on Notice?",
-     "channel": "",
-     "views": 232,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T16:25:37.789Z"
   },
   {
    "first_seen": "2026-11-24T17:10:34.699Z",
@@ -615,6 +615,139 @@
    "searched_at": "2026-11-22T12:49:48.478Z"
   },
   {
+   "first_seen": "2026-11-24T18:13:58.347Z",
+   "id": "40017962",
+   "ids": [
+    "40017962",
+    "40014797"
+   ],
+   "title": "Tidal is banning AI-generated music entirely",
+   "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/",
+   "source_id": "engadget",
+   "published_ts": "2026-11-24 17:58:04",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Tidal Is Deleting, Rejecting, and Banning AI-Generated Music",
+     "url": "https://twitter.com/TIDAL/status/2125233598714487170"
+    }
+   ],
+   "queries": [
+    "tidal ai-generated banning music"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_upJzzrCv7s",
+     "url": "https://www.youtube.com/shorts/_upJzzrCv7s",
+     "title": "Tidal Is Banning 100% AI-Generated Music — Starting December 9th",
+     "channel": "",
+     "views": 48,
+     "age_hours": null,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:E9Uy3UwE9kw",
+     "url": "https://www.youtube.com/shorts/E9Uy3UwE9kw",
+     "title": "Why is Tidal Banning AI Music? #shorts #independentartist #musicnews",
+     "channel": "",
+     "views": 26,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:60Zaj-b8zEA",
+     "url": "https://www.youtube.com/shorts/60Zaj-b8zEA",
+     "title": "TIDAL is banning AI music starting December 9 #shorts",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:RrZTpxdu9Pw",
+     "url": "https://www.youtube.com/shorts/RrZTpxdu9Pw",
+     "title": "AI Music Ban: Tidal Will Delete Millions of AI-Generated Songs",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:UZafZcDDIdE",
+     "url": "https://www.youtube.com/shorts/UZafZcDDIdE",
+     "title": "Tidal Bans AI-Generated Music",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ZdePf6l6g4E",
+     "url": "https://www.youtube.com/shorts/ZdePf6l6g4E",
+     "title": "Tidal Bans Fully AI-Generated Music #Shorts",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T18:14:02.579Z"
+  },
+  {
+   "first_seen": "2026-11-24T18:13:58.347Z",
+   "id": "40015475",
+   "ids": [
+    "40015475",
+    "40017801"
+   ],
+   "title": "AI lab staff reportedly fear unreleased models are too powerful to release",
+   "url": "https://thenextweb.com/news/anthropic-openai-staff-fear-unreleased-models-unsafe-axios",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-24 15:02:48",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Unreleased AI models are too powerful to release fear many employees",
+     "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html"
+    }
+   ],
+   "queries": [
+    "ai lab staff reportedly"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T18:14:06.159Z"
+  },
+  {
    "first_seen": "2026-11-24T13:36:41.048Z",
    "id": "40011747",
    "ids": [
@@ -627,7 +760,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 11:30:46",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 73,
    "related_news": [
     {
      "source_id": "hn",
@@ -1024,36 +1157,6 @@
    "searched_at": "2026-11-24T16:36:50.342Z"
   },
   {
-   "first_seen": "2026-11-23T20:49:49.193Z",
-   "id": "40000811",
-   "ids": [
-    "40000811",
-    "39993384"
-   ],
-   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
-   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-23 14:11:17",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
-    }
-   ],
-   "queries": [
-    "import 482 huawei ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T09:25:25.879Z"
-  },
-  {
    "first_seen": "2026-11-24T09:13:00.497Z",
    "id": "40009404",
    "ids": [
@@ -1065,7 +1168,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-24 03:50:34",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "eu-siliconrepublic",
@@ -1144,6 +1247,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T15:23:08.056Z"
+  },
+  {
+   "first_seen": "2026-11-23T20:49:49.193Z",
+   "id": "40000811",
+   "ids": [
+    "40000811",
+    "39993384"
+   ],
+   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-23 14:11:17",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+   ],
+   "queries": [
+    "import 482 huawei ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T09:25:25.879Z"
   },
   {
    "first_seen": "2026-11-24T08:15:07.564Z",
