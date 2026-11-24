@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:42:58.105Z",
+ "generated_at": "2026-11-24T07:12:39.961Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: deepmind ai agents found",
+   "source": "youtube: Our First Loop Transformer",
    "ok": true
   },
   {
-   "source": "tiktok: deepmind ai agents found",
+   "source": "tiktok: Our First Loop Transformer",
+   "ok": true
+  },
+  {
+   "source": "youtube: glm-5.4 toward generalized coding",
+   "ok": true
+  },
+  {
+   "source": "tiktok: glm-5.4 toward generalized coding",
    "ok": true
   }
  ],
@@ -253,26 +261,14 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:ErVbAfqMblY",
-     "url": "https://www.youtube.com/watch?v=ErVbAfqMblY",
-     "title": "Meet GLM-5.4, Z.ai’s First Loop Transformer for Generalized Coding",
-     "channel": "AI Tomorrow Desk",
-     "views": 731,
-     "age_hours": 11,
-     "relevance": 0.75,
-     "velocity": 66
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:TUe-f0yf7dQ",
      "url": "https://www.youtube.com/watch?v=TUe-f0yf7dQ",
      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer (Nov 2026)",
      "channel": "AI Paper Slop",
-     "views": 108,
-     "age_hours": 4,
+     "views": 189,
+     "age_hours": 10,
      "relevance": 1,
-     "velocity": 27
+     "velocity": 19
     },
     {
      "platform": "youtube",
@@ -281,10 +277,10 @@
      "url": "https://www.youtube.com/watch?v=HVey00YZ5Xk",
      "title": "GLM-5.4 Is Here: The First Loop Transformer, and What Early Users Say",
      "channel": "hinter",
-     "views": 175,
-     "age_hours": 11,
+     "views": 210,
+     "age_hours": 17,
      "relevance": 0.57,
-     "velocity": 16
+     "velocity": 12
     },
     {
      "platform": "youtube",
@@ -293,7 +289,7 @@
      "url": "https://www.youtube.com/shorts/72dpz9eQ3B8",
      "title": "GLM-5.4: Z.ai's first Loop Transformer flagship runs 28 layers twice",
      "channel": "",
-     "views": 269,
+     "views": 275,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -305,29 +301,41 @@
      "url": "https://www.youtube.com/watch?v=wCQy-z6IQ9U",
      "title": "GLM-5.4, 같은 층을 두 번 쓰는 Loop Transformer",
      "channel": "Ki-jung Kim (akaslany)",
-     "views": 47,
-     "age_hours": 12,
+     "views": 53,
+     "age_hours": 19,
      "relevance": 0.5,
-     "velocity": 4
+     "velocity": 3
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VUGr-ayFcuA",
-     "url": "https://www.youtube.com/watch?v=VUGr-ayFcuA",
-     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Trans | A Power Provider for Meta Urged Regul",
-     "channel": "AI and Technology",
-     "views": 17,
-     "age_hours": 10,
-     "relevance": 0.88,
-     "velocity": 2
+     "kind": "shorts",
+     "id": "youtube:GLncP1snefo",
+     "url": "https://www.youtube.com/shorts/GLncP1snefo",
+     "title": "GLM-5.4 Explained: Z.ai's First Loop Transformer Model",
+     "channel": "",
+     "views": 54,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:grSOkevpw7c",
+     "url": "https://www.youtube.com/shorts/grSOkevpw7c",
+     "title": "🚀 Z.ai Just Dropped GLM-5.4 — The First Major Loop Transformer Model (And It Codes)",
+     "channel": "",
+     "views": 53,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T01:12:12.935Z"
+   "searched_at": "2026-11-24T07:12:47.404Z"
   },
   {
    "first_seen": "2026-11-20T19:09:45.006Z",
