@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T04:14:02.188Z",
+ "generated_at": "2026-11-24T05:36:16.022Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Claude Ship",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Claude Ship",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic claude ship launches",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic claude ship launches",
-   "ok": true
-  },
-  {
-   "source": "youtube: Jan-Sept 2026",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Jan-Sept 2026",
-   "ok": true
-  },
-  {
-   "source": "youtube: india 1.6b jan-sept 2026",
-   "ok": true
-  },
-  {
-   "source": "tiktok: india 1.6b jan-sept 2026",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
@@ -261,7 +228,7 @@
    "source_id": "simonw",
    "published_ts": "2026-11-23 23:40:49",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 96,
    "related_news": [
     {
      "source_id": "hn",
@@ -475,7 +442,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 19:14:46",
    "story_sources": 2,
-   "score_norm": 89,
+   "score_norm": 90,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -922,7 +889,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-23 19:50:36",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1091,109 +1058,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T01:39:50.663Z"
-  },
-  {
-   "first_seen": "2026-11-21T06:49:37.381Z",
-   "id": "39959420",
-   "ids": [
-    "39959420",
-    "39947260"
-   ],
-   "title": "Signal restricts screenshots to block AI agents from reading messages",
-   "url": "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-21 05:24:56",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Signal restricts screenshots to block AI from reading messages",
-     "url": "https://www.reuters.com/legal/litigation/signal-restricts-screenshots-block-ai-agents-reading-messages-2026-11-20/"
-    }
-   ],
-   "queries": [
-    "signal restricts screenshots block"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zdVeuLzQQTA",
-     "url": "https://www.youtube.com/shorts/zdVeuLzQQTA",
-     "title": "Signal Blocks Screenshots to Keep AI Agents Out of Chats",
-     "channel": "",
-     "views": 69,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2_4JWuHLXTs",
-     "url": "https://www.youtube.com/shorts/2_4JWuHLXTs",
-     "title": "Signal Now Blocks Screenshots to Stop Phone AI 🔒",
-     "channel": "",
-     "views": 33,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5PjqrgDJ9Hc",
-     "url": "https://www.youtube.com/shorts/5PjqrgDJ9Hc",
-     "title": "Signal Restricts Mobile Screenshots to Limit AI Access to Messages",
-     "channel": "",
-     "views": 22,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:k1Syd5N6B6k",
-     "url": "https://www.youtube.com/shorts/k1Syd5N6B6k",
-     "title": "Why Signal Just Blocked Your iPhone Screenshots",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZqrbPQ3f3NA",
-     "url": "https://www.youtube.com/shorts/ZqrbPQ3f3NA",
-     "title": "Signal Blocked Screenshots on iOS and Android to Stop AI From Reading Chats #shorts #privacy #signal",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:D1hEyF44dHQ",
-     "url": "https://www.youtube.com/shorts/D1hEyF44dHQ",
-     "title": "Signal restricts screenshots to limit AI assistants' access to private chats #Shorts",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-21T13:09:50.343Z"
   },
   {
    "first_seen": "2026-11-23T20:49:49.193Z",
