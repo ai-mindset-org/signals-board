@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T10:36:33.127Z",
+ "generated_at": "2026-11-24T12:39:29.252Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,35 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: openai cisco shirudo launch",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai cisco shirudo launch",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
    "id": "40002209",
    "ids": [
     "40002209",
-    "40006286"
+    "40006286",
+    "40011957"
    ],
    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
    "source_id": "techcrunch",
    "published_ts": "2026-11-23 22:05:50",
-   "story_sources": 2,
+   "story_sources": 3,
    "score_norm": 100,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
      "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
      "url": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code"
+    },
+    {
+     "source_id": "eu-itpro",
+     "title": "Anthropic's new Claude Ship service hands the reins to agents to fix and review code changes",
+     "url": "https://www.itpro.com/software-engineering/anthropics-new-claude-ship-service-hands-the-reins-to-agents-to-fix-and-review-code-changes-but-the-company-warns-it-may-miss-bugs-security-vulnerabilities-or-other-issues"
     }
    ],
    "queries": [
@@ -440,213 +437,6 @@
    "searched_at": "2026-11-21T20:10:18.885Z"
   },
   {
-   "first_seen": "2026-11-23T20:36:05.639Z",
-   "id": "40000186",
-   "ids": [
-    "40000186",
-    "39997838"
-   ],
-   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-23 19:14:46",
-   "story_sources": 2,
-   "score_norm": 91,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google Search’s AI Mode can now read your Wallet, with Drive next",
-     "url": "https://thenextweb.com/news/google-ai-mode-personal-intelligence-wallet-drive-gemini"
-    }
-   ],
-   "queries": [
-    "Google Search’s",
-    "google search mode drive"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:umdvsx0qYLo",
-     "url": "https://www.youtube.com/shorts/umdvsx0qYLo",
-     "title": "Google Doesn't Search the Internet",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T7Q9JE1iTnE",
-     "url": "https://www.youtube.com/shorts/T7Q9JE1iTnE",
-     "title": "Google Removes the Search Button: AI Mode Takes Over #shorts",
-     "channel": "",
-     "views": 121,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8hXhrItej6Q",
-     "url": "https://www.youtube.com/shorts/8hXhrItej6Q",
-     "title": "How Google Search AI Mode Changes SEO",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7nIIZgcbTtU",
-     "url": "https://www.youtube.com/shorts/7nIIZgcbTtU",
-     "title": "No AI, no Google Search at school? #parenting #AI",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vRGG3Jo7dXQ",
-     "url": "https://www.youtube.com/shorts/vRGG3Jo7dXQ",
-     "title": "Google AI Mode Now Has an Incognito Mode",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wD6cB4lr070",
-     "url": "https://www.youtube.com/shorts/wD6cB4lr070",
-     "title": "Google Search Now Connects Your Wallet and Drive | Nova Explains",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T08:38:51.068Z"
-  },
-  {
-   "first_seen": "2026-11-24T10:36:33.127Z",
-   "id": "40010564",
-   "ids": [
-    "40010564",
-    "40001811"
-   ],
-   "title": "OpenAI and Cisco launch Shirudo to shield live systems while patches catch up",
-   "url": "https://dailyai.com/2026/11/openai-and-cisco-launch-shirudo-to-shield-live-systems-while-patches-catch-up/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-24 06:53:53",
-   "story_sources": 2,
-   "score_norm": 86,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Cisco and OpenAI Launch Shirudo to Shield Linux Systems",
-     "url": "https://thedefiant.io/frontier/ai/cisco-and-openai-launch-shirudo-to-shield-linux-systems"
-    }
-   ],
-   "queries": [
-    "openai cisco shirudo launch"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:qL4OxO-gL3Y",
-     "url": "https://www.youtube.com/watch?v=qL4OxO-gL3Y",
-     "title": "Shirudo: The Shield That Patches Linux Without a Restart Explained",
-     "channel": "SecureTechIn",
-     "views": 6,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ELLXzhqWIgY",
-     "url": "https://www.youtube.com/shorts/ELLXzhqWIgY",
-     "title": "Shirudo: OpenAI and Cisco open-source eBPF Linux shield",
-     "channel": "",
-     "views": 45,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XlX0DXJLttI",
-     "url": "https://www.youtube.com/shorts/XlX0DXJLttI",
-     "title": "OpenAI and Cisco open-source Shirudo, a Linux shield",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ekLDGKWh-4w",
-     "url": "https://www.youtube.com/shorts/ekLDGKWh-4w",
-     "title": "Hackers Strike Before Patches Exist (OpenAI Shirudo) 🛡️",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mX-r1mT2zQ8",
-     "url": "https://www.youtube.com/shorts/mX-r1mT2zQ8",
-     "title": "Cisco + OpenAI Shirudo: AI Linux Shield #Shorts",
-     "channel": "",
-     "views": 27,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kXGgiPgXf0U",
-     "url": "https://www.youtube.com/shorts/kXGgiPgXf0U",
-     "title": "Cisco and OpenAI launch Shirudo to shield Linux systems while patches catch up #Shorts",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.91,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T10:36:37.399Z"
-  },
-  {
    "first_seen": "2026-11-21T17:49:46.527Z",
    "id": "39966094",
    "ids": [
@@ -752,143 +542,100 @@
    "searched_at": "2026-11-22T12:49:48.478Z"
   },
   {
-   "first_seen": "2026-11-24T09:13:00.497Z",
-   "id": "40009404",
+   "first_seen": "2026-11-23T20:36:05.639Z",
+   "id": "40000186",
    "ids": [
-    "40009404",
-    "40006283"
+    "40000186",
+    "39997838"
    ],
-   "title": "Amazon Agrees to Buy Decart AI Tech and Hire Its Team",
-   "url": "https://thedefiant.io/frontier/ai/amazon-agrees-to-buy-decart-ai-tech-and-hire-its-team",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-24 03:50:34",
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-23 19:14:46",
    "story_sources": 2,
-   "score_norm": 84,
+   "score_norm": 69,
    "related_news": [
     {
-     "source_id": "eu-siliconrepublic",
-     "title": "Amazon acquires Decart AI tech and team",
-     "url": "https://www.siliconrepublic.com/business/amazon-acquires-decart-ai-tech-and-team"
+     "source_id": "eu-tnw",
+     "title": "Google Search’s AI Mode can now read your Wallet, with Drive next",
+     "url": "https://thenextweb.com/news/google-ai-mode-personal-intelligence-wallet-drive-gemini"
     }
    ],
    "queries": [
-    "amazon decart acquires ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:cGNDrh93bFA",
-     "url": "https://www.youtube.com/watch?v=cGNDrh93bFA",
-     "title": "Why Amazon Wants Decart's AI Tech",
-     "channel": "TheTechTweaks",
-     "views": 308,
-     "age_hours": 24,
-     "relevance": 0.8,
-     "velocity": 13
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Yp00EyCFN38",
-     "url": "https://www.youtube.com/watch?v=Yp00EyCFN38",
-     "title": "Amazon Buys Decart AI Tech for Reported $7.5B to Take On Nvidia",
-     "channel": "NomicSignal",
-     "views": 73,
-     "age_hours": 6,
-     "relevance": 0.67,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:VI6o-g-rXgU",
-     "url": "https://www.youtube.com/watch?v=VI6o-g-rXgU",
-     "title": "Amazon acquires Decart for $7.5B, but why?",
-     "channel": "Agyata Business",
-     "views": 30,
-     "age_hours": 9,
-     "relevance": 0.75,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:BMAkoaM3YzU",
-     "url": "https://www.youtube.com/watch?v=BMAkoaM3YzU",
-     "title": "Amazon's $7.5 Billion AI Deal? Decart Acquisition Talks Explained",
-     "channel": "Financial Crashes",
-     "views": 39,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HXMKSLPuAVo",
-     "url": "https://www.youtube.com/watch?v=HXMKSLPuAVo",
-     "title": "Amazon is reportedly about to close a $7.5B deal for AI startup Decart",
-     "channel": "ArponNews",
-     "views": 12,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:O1ZutIZWjhc",
-     "url": "https://www.youtube.com/watch?v=O1ZutIZWjhc",
-     "title": "Amazon Reportedly Buying AI Startup Decart for $7.5B 🤯 #Shorts",
-     "channel": "AI & Tech News",
-     "views": 27,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T09:13:04.518Z"
-  },
-  {
-   "first_seen": "2026-11-24T08:15:07.564Z",
-   "id": "40008783",
-   "ids": [
-    "40008783",
-    "39995817"
-   ],
-   "title": "Sarvam AI Launches Dictation API For English, 22 Indian Languages",
-   "url": "https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-11-24 06:46:40",
-   "story_sources": 2,
-   "score_norm": 83,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Sarvam launches AI-powered dictation API for English, 22 Indian languages",
-     "url": "https://www.thehindubusinessline.com/info-tech/sarvam-launches-ai-powered-dictation-api-for-english-22-indian-languages/article71735921.ece"
-    }
-   ],
-   "queries": [
-    "Launches Dictation API For English",
-    "sarvam launches dictation api"
+    "Google Search’s",
+    "google search mode drive"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:JyTLTJAxtI8",
-     "url": "https://www.youtube.com/shorts/JyTLTJAxtI8",
-     "title": "Sarvam Dictate API: AI Speech to Text for 22 Indian Languages 🇮🇳",
+     "id": "youtube:umdvsx0qYLo",
+     "url": "https://www.youtube.com/shorts/umdvsx0qYLo",
+     "title": "Google Doesn't Search the Internet",
      "channel": "",
-     "views": 4,
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:T7Q9JE1iTnE",
+     "url": "https://www.youtube.com/shorts/T7Q9JE1iTnE",
+     "title": "Google Removes the Search Button: AI Mode Takes Over #shorts",
+     "channel": "",
+     "views": 121,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8hXhrItej6Q",
+     "url": "https://www.youtube.com/shorts/8hXhrItej6Q",
+     "title": "How Google Search AI Mode Changes SEO",
+     "channel": "",
+     "views": 16,
      "age_hours": null,
      "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7nIIZgcbTtU",
+     "url": "https://www.youtube.com/shorts/7nIIZgcbTtU",
+     "title": "No AI, no Google Search at school? #parenting #AI",
+     "channel": "",
+     "views": 13,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vRGG3Jo7dXQ",
+     "url": "https://www.youtube.com/shorts/vRGG3Jo7dXQ",
+     "title": "Google AI Mode Now Has an Incognito Mode",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wD6cB4lr070",
+     "url": "https://www.youtube.com/shorts/wD6cB4lr070",
+     "title": "Google Search Now Connects Your Wallet and Drive | Nova Explains",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -896,37 +643,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T08:15:15.283Z"
-  },
-  {
-   "first_seen": "2026-11-24T03:27:31.401Z",
-   "id": "40005844",
-   "ids": [
-    "40005844",
-    "39994135"
-   ],
-   "title": "Amazon to buy Israeli AI startup Decart’s tech in $7.5b deal",
-   "url": "https://www.techinasia.com/news/amazon-buy-israeli-ai-startup-decarts-tech-75b-deal",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-24 00:08:31",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Amazon signs $7.5B deal for Israeli AI startup Decart",
-     "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi"
-    }
-   ],
-   "queries": [
-    "amazon israeli decart 7.5b"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T09:36:49.742Z"
+   "searched_at": "2026-11-24T08:38:51.068Z"
   },
   {
    "first_seen": "2026-11-22T08:14:21.591Z",
@@ -1033,140 +750,61 @@
    "searched_at": "2026-11-22T08:14:29.370Z"
   },
   {
-   "first_seen": "2026-11-24T00:27:31.288Z",
-   "id": "40003732",
+   "first_seen": "2026-11-24T10:36:33.127Z",
+   "id": "40010564",
    "ids": [
-    "40003732",
-    "39998502"
+    "40010564",
+    "40001811"
    ],
-   "title": "DeepMind’s AI agents found faster quantum algorithms — and proved every one",
-   "url": "https://dailyai.com/2026/11/deepminds-ai-agents-found-faster-quantum-algorithms-and-proved-every-one/",
+   "title": "OpenAI and Cisco launch Shirudo to shield live systems while patches catch up",
+   "url": "https://dailyai.com/2026/11/openai-and-cisco-launch-shirudo-to-shield-live-systems-while-patches-catch-up/",
    "source_id": "x-dailyai",
-   "published_ts": "2026-11-23 19:50:36",
+   "published_ts": "2026-11-24 06:53:53",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 64,
    "related_news": [
     {
-     "source_id": "eu-tnw",
-     "title": "DeepMind’s AI agents found cheaper quantum algorithms, and proved them",
-     "url": "https://thenextweb.com/news/google-deepmind-gemini-agents-quantum-algorithms-lean"
+     "source_id": "x-thedefiant-io",
+     "title": "Cisco and OpenAI Launch Shirudo to Shield Linux Systems",
+     "url": "https://thedefiant.io/frontier/ai/cisco-and-openai-launch-shirudo-to-shield-linux-systems"
     }
    ],
    "queries": [
-    "deepmind ai agents found"
+    "openai cisco shirudo launch"
    ],
    "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:gPNiuyYirfw",
-     "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
-     "title": "DeepMind’s AI Just Did The Impossible",
-     "channel": "@TwoMinutePapers",
-     "views": 317000,
-     "age_hours": 264.1369516666667,
-     "relevance": 0.5,
-     "velocity": 1200
-    },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:jf9hepNqtpc",
-     "url": "https://www.youtube.com/watch?v=jf9hepNqtpc",
-     "title": "DeepMind’s New AI Is A Gift To Humanity",
-     "channel": "Tech Unfiltered",
-     "views": 2401,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 100
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tZHiYmE54H4",
-     "url": "https://www.youtube.com/shorts/tZHiYmE54H4",
-     "title": "Google DeepMind's AI agents discover faster quantum algorithms",
-     "channel": "",
+     "id": "youtube:qL4OxO-gL3Y",
+     "url": "https://www.youtube.com/watch?v=qL4OxO-gL3Y",
+     "title": "Shirudo: The Shield That Patches Linux Without a Restart Explained",
+     "channel": "SecureTechIn",
      "views": 6,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NtRbXZbWKYc",
-     "url": "https://www.youtube.com/shorts/NtRbXZbWKYc",
-     "title": "Google DeepMind: Finding faster quantum algorithms with agents and formal verification",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-24T06:43:02.194Z"
-  },
-  {
-   "first_seen": "2026-11-23T19:36:31.978Z",
-   "id": "39999187",
-   "ids": [
-    "39999187",
-    "39996077"
-   ],
-   "title": "AI server makers are raising prices by up to 45% — even on signed contracts",
-   "url": "https://dailyai.com/2026/11/ai-server-makers-are-raising-prices-by-up-to-45-even-on-signed-contracts/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-23 17:50:25",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "AI server makers raise prices up to 45% after deals are signed, FT reports",
-     "url": "https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft"
-    }
-   ],
-   "queries": [
-    "45 ai server makers"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ccQNKeqESTw",
-     "url": "https://www.youtube.com/shorts/ccQNKeqESTw",
-     "title": "AI servers just got up to 45% pricier after deals were signed",
-     "channel": "",
-     "views": 117,
-     "age_hours": null,
+     "age_hours": 2,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 3
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:QLRKMqxYLxo",
-     "url": "https://www.youtube.com/shorts/QLRKMqxYLxo",
-     "title": "AI SERVER PRICES UP TO 45% MORE",
+     "id": "youtube:ELLXzhqWIgY",
+     "url": "https://www.youtube.com/shorts/ELLXzhqWIgY",
+     "title": "Shirudo: OpenAI and Cisco open-source eBPF Linux shield",
      "channel": "",
-     "views": 65,
+     "views": 45,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:D8fFUktX7pI",
-     "url": "https://www.youtube.com/shorts/D8fFUktX7pI",
-     "title": "Server makers want up to 45% more #Shorts",
+     "id": "youtube:XlX0DXJLttI",
+     "url": "https://www.youtube.com/shorts/XlX0DXJLttI",
+     "title": "OpenAI and Cisco open-source Shirudo, a Linux shield",
      "channel": "",
-     "views": 16,
+     "views": 27,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -1174,11 +812,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:dqeyA5l9Y68",
-     "url": "https://www.youtube.com/shorts/dqeyA5l9Y68",
-     "title": "Report: AI server suppliers asking more after deals are signed; one person cites up to 45%",
+     "id": "youtube:ekLDGKWh-4w",
+     "url": "https://www.youtube.com/shorts/ekLDGKWh-4w",
+     "title": "Hackers Strike Before Patches Exist (OpenAI Shirudo) 🛡️",
      "channel": "",
-     "views": 14,
+     "views": 27,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -1186,25 +824,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:IJozB322-p8",
-     "url": "https://www.youtube.com/shorts/IJozB322-p8",
-     "title": "AI Server Makers Reportedly Raise Prices on Signed Deals, Up to 45%",
+     "id": "youtube:mX-r1mT2zQ8",
+     "url": "https://www.youtube.com/shorts/mX-r1mT2zQ8",
+     "title": "Cisco + OpenAI Shirudo: AI Linux Shield #Shorts",
      "channel": "",
-     "views": 10,
+     "views": 27,
      "age_hours": null,
-     "relevance": 0.7,
+     "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:VHux4cxMe1A",
-     "url": "https://www.youtube.com/shorts/VHux4cxMe1A",
-     "title": "AI Server Prices Up to 45%: What It Could Mean for AI Capex | Global Daily",
+     "id": "youtube:kXGgiPgXf0U",
+     "url": "https://www.youtube.com/shorts/kXGgiPgXf0U",
+     "title": "Cisco and OpenAI launch Shirudo to shield Linux systems while patches catch up #Shorts",
      "channel": "",
-     "views": 5,
+     "views": 17,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.91,
      "velocity": null
     }
    ],
@@ -1212,7 +850,154 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T07:50:10.048Z"
+   "searched_at": "2026-11-24T10:36:37.399Z"
+  },
+  {
+   "first_seen": "2026-11-24T09:13:00.497Z",
+   "id": "40009404",
+   "ids": [
+    "40009404",
+    "40006283"
+   ],
+   "title": "Amazon Agrees to Buy Decart AI Tech and Hire Its Team",
+   "url": "https://thedefiant.io/frontier/ai/amazon-agrees-to-buy-decart-ai-tech-and-hire-its-team",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-24 03:50:34",
+   "story_sources": 2,
+   "score_norm": 62,
+   "related_news": [
+    {
+     "source_id": "eu-siliconrepublic",
+     "title": "Amazon acquires Decart AI tech and team",
+     "url": "https://www.siliconrepublic.com/business/amazon-acquires-decart-ai-tech-and-team"
+    }
+   ],
+   "queries": [
+    "amazon decart acquires ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:cGNDrh93bFA",
+     "url": "https://www.youtube.com/watch?v=cGNDrh93bFA",
+     "title": "Why Amazon Wants Decart's AI Tech",
+     "channel": "TheTechTweaks",
+     "views": 308,
+     "age_hours": 24,
+     "relevance": 0.8,
+     "velocity": 13
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Yp00EyCFN38",
+     "url": "https://www.youtube.com/watch?v=Yp00EyCFN38",
+     "title": "Amazon Buys Decart AI Tech for Reported $7.5B to Take On Nvidia",
+     "channel": "NomicSignal",
+     "views": 73,
+     "age_hours": 6,
+     "relevance": 0.67,
+     "velocity": 12
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VI6o-g-rXgU",
+     "url": "https://www.youtube.com/watch?v=VI6o-g-rXgU",
+     "title": "Amazon acquires Decart for $7.5B, but why?",
+     "channel": "Agyata Business",
+     "views": 30,
+     "age_hours": 9,
+     "relevance": 0.75,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BMAkoaM3YzU",
+     "url": "https://www.youtube.com/watch?v=BMAkoaM3YzU",
+     "title": "Amazon's $7.5 Billion AI Deal? Decart Acquisition Talks Explained",
+     "channel": "Financial Crashes",
+     "views": 39,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HXMKSLPuAVo",
+     "url": "https://www.youtube.com/watch?v=HXMKSLPuAVo",
+     "title": "Amazon is reportedly about to close a $7.5B deal for AI startup Decart",
+     "channel": "ArponNews",
+     "views": 12,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:O1ZutIZWjhc",
+     "url": "https://www.youtube.com/watch?v=O1ZutIZWjhc",
+     "title": "Amazon Reportedly Buying AI Startup Decart for $7.5B 🤯 #Shorts",
+     "channel": "AI & Tech News",
+     "views": 27,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T09:13:04.518Z"
+  },
+  {
+   "first_seen": "2026-11-24T08:15:07.564Z",
+   "id": "40008783",
+   "ids": [
+    "40008783",
+    "39995817"
+   ],
+   "title": "Sarvam AI Launches Dictation API For English, 22 Indian Languages",
+   "url": "https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/",
+   "source_id": "in-inc42",
+   "published_ts": "2026-11-24 06:46:40",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "Sarvam launches AI-powered dictation API for English, 22 Indian languages",
+     "url": "https://www.thehindubusinessline.com/info-tech/sarvam-launches-ai-powered-dictation-api-for-english-22-indian-languages/article71735921.ece"
+    }
+   ],
+   "queries": [
+    "Launches Dictation API For English",
+    "sarvam launches dictation api"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JyTLTJAxtI8",
+     "url": "https://www.youtube.com/shorts/JyTLTJAxtI8",
+     "title": "Sarvam Dictate API: AI Speech to Text for 22 Indian Languages 🇮🇳",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T08:15:15.283Z"
   },
   {
    "first_seen": "2026-11-23T20:49:49.193Z",
@@ -1243,6 +1028,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-24T09:25:25.879Z"
+  },
+  {
+   "first_seen": "2026-11-24T03:27:31.401Z",
+   "id": "40005844",
+   "ids": [
+    "40005844",
+    "39994135"
+   ],
+   "title": "Amazon to buy Israeli AI startup Decart’s tech in $7.5b deal",
+   "url": "https://www.techinasia.com/news/amazon-buy-israeli-ai-startup-decarts-tech-75b-deal",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-24 00:08:31",
+   "story_sources": 2,
+   "score_norm": 52,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Amazon signs $7.5B deal for Israeli AI startup Decart",
+     "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi"
+    }
+   ],
+   "queries": [
+    "amazon israeli decart 7.5b"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T09:36:49.742Z"
   },
   {
    "first_seen": "2026-11-23T15:36:43.569Z",
@@ -1377,6 +1192,188 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-24T02:37:01.174Z"
+  },
+  {
+   "first_seen": "2026-11-24T00:27:31.288Z",
+   "id": "40003732",
+   "ids": [
+    "40003732",
+    "39998502"
+   ],
+   "title": "DeepMind’s AI agents found faster quantum algorithms — and proved every one",
+   "url": "https://dailyai.com/2026/11/deepminds-ai-agents-found-faster-quantum-algorithms-and-proved-every-one/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-23 19:50:36",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "DeepMind’s AI agents found cheaper quantum algorithms, and proved them",
+     "url": "https://thenextweb.com/news/google-deepmind-gemini-agents-quantum-algorithms-lean"
+    }
+   ],
+   "queries": [
+    "deepmind ai agents found"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:gPNiuyYirfw",
+     "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+     "title": "DeepMind’s AI Just Did The Impossible",
+     "channel": "@TwoMinutePapers",
+     "views": 317000,
+     "age_hours": 264.1369516666667,
+     "relevance": 0.5,
+     "velocity": 1200
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jf9hepNqtpc",
+     "url": "https://www.youtube.com/watch?v=jf9hepNqtpc",
+     "title": "DeepMind’s New AI Is A Gift To Humanity",
+     "channel": "Tech Unfiltered",
+     "views": 2401,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 100
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:tZHiYmE54H4",
+     "url": "https://www.youtube.com/shorts/tZHiYmE54H4",
+     "title": "Google DeepMind's AI agents discover faster quantum algorithms",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NtRbXZbWKYc",
+     "url": "https://www.youtube.com/shorts/NtRbXZbWKYc",
+     "title": "Google DeepMind: Finding faster quantum algorithms with agents and formal verification",
+     "channel": "",
+     "views": 2,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-24T06:43:02.194Z"
+  },
+  {
+   "first_seen": "2026-11-23T19:36:31.978Z",
+   "id": "39999187",
+   "ids": [
+    "39999187",
+    "39996077"
+   ],
+   "title": "AI server makers are raising prices by up to 45% — even on signed contracts",
+   "url": "https://dailyai.com/2026/11/ai-server-makers-are-raising-prices-by-up-to-45-even-on-signed-contracts/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-23 17:50:25",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "AI server makers raise prices up to 45% after deals are signed, FT reports",
+     "url": "https://thenextweb.com/news/ai-server-prices-dell-hpe-lenovo-supermicro-ft"
+    }
+   ],
+   "queries": [
+    "45 ai server makers"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ccQNKeqESTw",
+     "url": "https://www.youtube.com/shorts/ccQNKeqESTw",
+     "title": "AI servers just got up to 45% pricier after deals were signed",
+     "channel": "",
+     "views": 117,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QLRKMqxYLxo",
+     "url": "https://www.youtube.com/shorts/QLRKMqxYLxo",
+     "title": "AI SERVER PRICES UP TO 45% MORE",
+     "channel": "",
+     "views": 65,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:D8fFUktX7pI",
+     "url": "https://www.youtube.com/shorts/D8fFUktX7pI",
+     "title": "Server makers want up to 45% more #Shorts",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:dqeyA5l9Y68",
+     "url": "https://www.youtube.com/shorts/dqeyA5l9Y68",
+     "title": "Report: AI server suppliers asking more after deals are signed; one person cites up to 45%",
+     "channel": "",
+     "views": 14,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:IJozB322-p8",
+     "url": "https://www.youtube.com/shorts/IJozB322-p8",
+     "title": "AI Server Makers Reportedly Raise Prices on Signed Deals, Up to 45%",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.7,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VHux4cxMe1A",
+     "url": "https://www.youtube.com/shorts/VHux4cxMe1A",
+     "title": "AI Server Prices Up to 45%: What It Could Mean for AI Capex | Global Daily",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T07:50:10.048Z"
   }
  ]
 }
