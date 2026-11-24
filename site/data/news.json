@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T02:36:49.118Z",
+ "generated_at": "2026-11-24T03:14:29.973Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Google Search’s",
+   "source": "youtube: import 482 huawei ai",
    "ok": true
   },
   {
-   "source": "tiktok: Google Search’s",
-   "ok": true
-  },
-  {
-   "source": "youtube: google search mode drive",
-   "ok": true
-  },
-  {
-   "source": "tiktok: google search mode drive",
-   "ok": true
-  },
-  {
-   "source": "youtube: meta ai chief superintelligence",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta ai chief superintelligence",
+   "source": "tiktok: import 482 huawei ai",
    "ok": true
   }
  ],
@@ -859,7 +843,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-23 17:50:25",
    "story_sources": 2,
-   "score_norm": 61,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -978,7 +962,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-23T20:49:53.083Z"
+   "searched_at": "2026-11-24T03:14:33.821Z"
   },
   {
    "first_seen": "2026-11-21T06:49:37.381Z",
