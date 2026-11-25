@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:25:03.818Z",
+ "generated_at": "2026-11-25T08:15:03.831Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT 6.2 Astra Solves",
+   "source": "youtube: gpt-6 models demonstrate intrinsic",
    "ok": true
   },
   {
-   "source": "tiktok: GPT 6.2 Astra Solves",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt 6.2 astra solves",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt 6.2 astra solves",
+   "source": "tiktok: gpt-6 models demonstrate intrinsic",
    "ok": true
   }
  ],
@@ -949,6 +941,61 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T07:25:11.574Z"
+  },
+  {
+   "first_seen": "2026-11-25T08:15:03.831Z",
+   "id": "40028831",
+   "ids": [
+    "40028831",
+    "40021125"
+   ],
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source_id": "openai-blog",
+   "published_ts": "2026-11-24 13:00:00",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+    }
+   ],
+   "queries": [
+    "gpt-6 models demonstrate intrinsic"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9TzKIoiRLb8",
+     "url": "https://www.youtube.com/shorts/9TzKIoiRLb8",
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities | Top 3 AI News · Nov 25",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:su9Yt3uWvms",
+     "url": "https://www.youtube.com/shorts/su9Yt3uWvms",
+     "title": "OpenAI: GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T08:15:08.110Z"
   },
   {
    "first_seen": "2026-11-23T20:49:49.193Z",
