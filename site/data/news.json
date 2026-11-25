@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:36:07.593Z",
+ "generated_at": "2026-11-25T17:49:43.415Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Nvidia CEO Jensen Huang's",
+   "source": "youtube: claude mac windows can",
    "ok": true
   },
   {
-   "source": "tiktok: Nvidia CEO Jensen Huang's",
-   "ok": true
-  },
-  {
-   "source": "youtube: nvidia ceo jensen huang",
-   "ok": true
-  },
-  {
-   "source": "tiktok: nvidia ceo jensen huang",
+   "source": "tiktok: claude mac windows can",
    "ok": true
   }
  ],
@@ -80,6 +72,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T17:09:59.291Z"
+  },
+  {
+   "first_seen": "2026-11-25T17:49:43.415Z",
+   "id": "40038669",
+   "ids": [
+    "40038669",
+    "40020546"
+   ],
+   "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
+   "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-25 16:36:13",
+   "story_sources": 2,
+   "score_norm": 99,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "You can now install Claude artifacts as desktop apps on Mac and Windows",
+     "url": "https://claude.com/resources/articles/install-as-app"
+    }
+   ],
+   "queries": [
+    "claude mac windows can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uj6usfmWNk8",
+     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
+     "title": "Claude Can Now Build Real Mac and Windows Apps",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JY6QUVtC6lU",
+     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
+     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "channel": "",
+     "views": 619,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:R4ut8TSs2aM",
+     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
+     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
+     "channel": "",
+     "views": 601,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6QgCdcg9U3o",
+     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
+     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
+     "channel": "",
+     "views": 517,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5PSWerNtoEw",
+     "url": "https://www.youtube.com/shorts/5PSWerNtoEw",
+     "title": "Anthropic Claude Can Now Turn Its Artifacts Into Real Desktop Apps (Install as App)",
+     "channel": "",
+     "views": 359,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:W6UZe9rXO7c",
+     "url": "https://www.youtube.com/shorts/W6UZe9rXO7c",
+     "title": "Claude Can Now Turn a Chat Into a Real Mac App",
+     "channel": "",
+     "views": 342,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T17:49:47.672Z"
   },
   {
    "first_seen": "2026-11-24T01:12:05.503Z",
