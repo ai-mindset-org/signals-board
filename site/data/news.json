@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:20:02.739Z",
+ "generated_at": "2026-11-25T00:29:52.837Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic’s Siren",
+   "source": "youtube: tidal ai-generated start banning",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic’s Siren",
+   "source": "tiktok: tidal ai-generated start banning",
    "ok": true
   },
   {
-   "source": "youtube: anthropic siren claude tests",
+   "source": "youtube: ai lab staff reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic siren claude tests",
-   "ok": true
-  },
-  {
-   "source": "youtube: Ban Fully AI-Generated Music From December 9",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Ban Fully AI-Generated Music From December 9",
-   "ok": true
-  },
-  {
-   "source": "youtube: tidal ban fully ai-generated",
-   "ok": true
-  },
-  {
-   "source": "tiktok: tidal ban fully ai-generated",
+   "source": "tiktok: ai lab staff reportedly",
    "ok": true
   }
  ],
@@ -69,7 +53,7 @@
     }
    ],
    "queries": [
-    "tidal ai-generated banning music"
+    "tidal ai-generated start banning"
    ],
    "videos": [
     {
@@ -79,57 +63,9 @@
      "url": "https://www.youtube.com/shorts/_upJzzrCv7s",
      "title": "Tidal Is Banning 100% AI-Generated Music — Starting December 9th",
      "channel": "",
-     "views": 48,
+     "views": 899,
      "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:E9Uy3UwE9kw",
-     "url": "https://www.youtube.com/shorts/E9Uy3UwE9kw",
-     "title": "Why is Tidal Banning AI Music? #shorts #independentartist #musicnews",
-     "channel": "",
-     "views": 26,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:60Zaj-b8zEA",
-     "url": "https://www.youtube.com/shorts/60Zaj-b8zEA",
-     "title": "TIDAL is banning AI music starting December 9 #shorts",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RrZTpxdu9Pw",
-     "url": "https://www.youtube.com/shorts/RrZTpxdu9Pw",
-     "title": "AI Music Ban: Tidal Will Delete Millions of AI-Generated Songs",
-     "channel": "",
-     "views": 2,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:UZafZcDDIdE",
-     "url": "https://www.youtube.com/shorts/UZafZcDDIdE",
-     "title": "Tidal Bans AI-Generated Music",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -139,9 +75,33 @@
      "url": "https://www.youtube.com/shorts/ZdePf6l6g4E",
      "title": "Tidal Bans Fully AI-Generated Music #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 52,
      "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tELN6im93BU",
+     "url": "https://www.youtube.com/watch?v=tELN6im93BU",
+     "title": "Tidal bans AI-generated music + 9 more stories",
+     "channel": "ASAP News",
+     "views": 7,
+     "age_hours": 6,
      "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mcs8LzYhzz0",
+     "url": "https://www.youtube.com/shorts/mcs8LzYhzz0",
+     "title": "Tidal is banning AI music",
+     "channel": "",
+     "views": 11,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     }
    ],
@@ -149,7 +109,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T18:14:02.579Z"
+   "searched_at": "2026-11-25T00:29:56.892Z"
   },
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -475,7 +435,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-24 21:46:02",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -1500,7 +1460,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-24T18:14:06.159Z"
+   "searched_at": "2026-11-25T00:30:00.427Z"
   },
   {
    "first_seen": "2026-11-24T00:27:31.288Z",
