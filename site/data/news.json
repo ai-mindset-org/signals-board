@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:25:47.512Z",
+ "generated_at": "2026-11-25T10:24:05.376Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: google gmail drive february",
+   "source": "youtube: Anthropic’s Claude Ship Lets",
    "ok": true
   },
   {
-   "source": "tiktok: google gmail drive february",
+   "source": "tiktok: Anthropic’s Claude Ship Lets",
    "ok": true
   },
   {
-   "source": "youtube: An Anthropic",
+   "source": "youtube: anthropic claude ship lets",
    "ok": true
   },
   {
-   "source": "tiktok: An Anthropic",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic mathematician solved math",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic mathematician solved math",
+   "source": "tiktok: anthropic claude ship lets",
    "ok": true
   }
  ],
@@ -235,7 +227,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-25 06:54:54",
    "story_sources": 2,
-   "score_norm": 79,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -302,7 +294,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-25 04:18:10",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "hn",
@@ -671,22 +663,10 @@
      "url": "https://www.youtube.com/watch?v=AZfEcXAMV7c",
      "title": "Claude Ship Just Dropped: AI Now Approves Its Own Code (End of Developers?)",
      "channel": "Lavin",
-     "views": 3726,
-     "age_hours": 14,
+     "views": 5676,
+     "age_hours": 20,
      "relevance": 0.56,
-     "velocity": 266
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:J5ab82sKdr4",
-     "url": "https://www.youtube.com/watch?v=J5ab82sKdr4",
-     "title": "Claude Ship Explained: AI Now Approves Your Code",
-     "channel": "AI Tool Lab",
-     "views": 225,
-     "age_hours": 13,
-     "relevance": 0.67,
-     "velocity": 17
+     "velocity": 284
     },
     {
      "platform": "youtube",
@@ -695,9 +675,21 @@
      "url": "https://www.youtube.com/shorts/x8spi3us0y4",
      "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
      "channel": "",
-     "views": 443,
+     "views": 452,
      "age_hours": null,
      "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:EV3btGWYBrk",
+     "url": "https://www.youtube.com/shorts/EV3btGWYBrk",
+     "title": "Did Claude Ship Just Put AI Code Review Startups on Notice?",
+     "channel": "",
+     "views": 336,
+     "age_hours": null,
+     "relevance": 0.56,
      "velocity": null
     },
     {
@@ -707,10 +699,10 @@
      "url": "https://www.youtube.com/watch?v=w5INPp3hkck",
      "title": "Claude Ship: Claude Now Approves Your Code (You Set the Rules)",
      "channel": "Ronald Postelmans | AI for businesses",
-     "views": 139,
-     "age_hours": 15,
+     "views": 169,
+     "age_hours": 21,
      "relevance": 0.5,
-     "velocity": 9
+     "velocity": 8
     },
     {
      "platform": "youtube",
@@ -719,29 +711,29 @@
      "url": "https://www.youtube.com/shorts/qixTSoDOGmQ",
      "title": "Anthropic's Claude Ship lets Claude approve your team's pull requests, where your rules allow it",
      "channel": "",
-     "views": 232,
+     "views": 244,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:LU6aZ-ZVr8U",
-     "url": "https://www.youtube.com/shorts/LU6aZ-ZVr8U",
-     "title": "Anthropic launches Claude Ship, AI agents that approve code changes",
-     "channel": "",
-     "views": 203,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:2TQ0yi3KIOY",
+     "url": "https://www.youtube.com/watch?v=2TQ0yi3KIOY",
+     "title": "Claude Ship: It Can Now Review, Fix and Approve Code. Should It?",
+     "channel": "Jakes Jacob",
+     "views": 120,
+     "age_hours": 21,
+     "relevance": 0.63,
+     "velocity": 6
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T04:14:17.498Z"
+   "searched_at": "2026-11-25T10:24:13.008Z"
   },
   {
    "first_seen": "2026-11-24T04:14:02.188Z",
@@ -1006,7 +998,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-24 22:56:59",
    "story_sources": 2,
-   "score_norm": 58,
+   "score_norm": 57,
    "related_news": [
     {
      "source_id": "eu-tnw",
