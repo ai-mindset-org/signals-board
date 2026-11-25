@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:10:23.892Z",
+ "generated_at": "2026-11-25T23:49:48.306Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: amazon meta muse reportedly",
+   "source": "youtube: claude windows mac can",
    "ok": true
   },
   {
-   "source": "tiktok: amazon meta muse reportedly",
+   "source": "tiktok: claude windows mac can",
    "ok": true
   }
  ],
@@ -190,7 +190,7 @@
    "source_id": "zdnet-ai",
    "published_ts": "2026-11-25 18:54:05",
    "story_sources": 2,
-   "score_norm": 82,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -199,9 +199,21 @@
     }
    ],
    "queries": [
-    "claude mac windows can"
+    "claude windows mac can"
    ],
    "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JY6QUVtC6lU",
+     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
+     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
     {
      "platform": "youtube",
      "kind": "shorts",
@@ -217,13 +229,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:JY6QUVtC6lU",
-     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
-     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "id": "youtube:6QgCdcg9U3o",
+     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
+     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
      "channel": "",
-     "views": 619,
+     "views": 855,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -233,7 +245,7 @@
      "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
      "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
      "channel": "",
-     "views": 601,
+     "views": 635,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -241,23 +253,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:6QgCdcg9U3o",
-     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
-     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
+     "id": "youtube:WNxNDP6cbk0",
+     "url": "https://www.youtube.com/shorts/WNxNDP6cbk0",
+     "title": "Claude can now turn what it builds into Mac and Windows apps, with its own icon and window",
      "channel": "",
-     "views": 517,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5PSWerNtoEw",
-     "url": "https://www.youtube.com/shorts/5PSWerNtoEw",
-     "title": "Anthropic Claude Can Now Turn Its Artifacts Into Real Desktop Apps (Install as App)",
-     "channel": "",
-     "views": 359,
+     "views": 524,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -269,7 +269,7 @@
      "url": "https://www.youtube.com/shorts/W6UZe9rXO7c",
      "title": "Claude Can Now Turn a Chat Into a Real Mac App",
      "channel": "",
-     "views": 342,
+     "views": 467,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -279,7 +279,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T17:49:47.672Z"
+   "searched_at": "2026-11-25T23:49:52.603Z"
   },
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
@@ -470,7 +470,7 @@
    "source_id": "eu-t3n",
    "published_ts": "2026-11-25 20:59:48",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 74,
    "related_news": [
     {
      "source_id": "eu-golem",
