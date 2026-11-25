@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:43:48.901Z",
+ "generated_at": "2026-11-25T07:25:03.818Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: tidal ai-generated start banning",
+   "source": "youtube: GPT 6.2 Astra Solves",
    "ok": true
   },
   {
-   "source": "tiktok: tidal ai-generated start banning",
+   "source": "tiktok: GPT 6.2 Astra Solves",
+   "ok": true
+  },
+  {
+   "source": "youtube: gpt 6.2 astra solves",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gpt 6.2 astra solves",
    "ok": true
   }
  ],
@@ -322,7 +330,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-25 04:18:10",
    "story_sources": 2,
-   "score_norm": 70,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "hn",
@@ -530,7 +538,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-25 01:41:52",
    "story_sources": 2,
-   "score_norm": 64,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "hn",
@@ -918,10 +926,10 @@
      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
      "channel": "@aiexplained-official",
-     "views": 137000,
-     "age_hours": 114.81712666666667,
+     "views": 141000,
+     "age_hours": 120.82809305555556,
      "relevance": 0.5,
-     "velocity": 1193
+     "velocity": 1167
     },
     {
      "platform": "youtube",
@@ -930,7 +938,7 @@
      "url": "https://www.youtube.com/shorts/GvnlJnOG8_8",
      "title": "GPT Astra and Sol 6.2 for CAD and Hardware",
      "channel": "",
-     "views": 1800,
+     "views": 2100,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -940,7 +948,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-25T01:23:42.362Z"
+   "searched_at": "2026-11-25T07:25:11.574Z"
   },
   {
    "first_seen": "2026-11-23T20:49:49.193Z",
