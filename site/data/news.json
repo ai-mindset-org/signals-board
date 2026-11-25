@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T18:36:12.069Z",
+ "generated_at": "2026-11-25T21:21:36.510Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: amazon muse reportedly talks",
-   "ok": true
-  },
-  {
-   "source": "tiktok: amazon muse reportedly talks",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-25T18:36:12.069Z",
@@ -176,6 +167,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T07:12:47.404Z"
+  },
+  {
+   "first_seen": "2026-11-25T17:49:43.415Z",
+   "id": "40038669",
+   "ids": [
+    "40038669",
+    "40020546",
+    "40042219"
+   ],
+   "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+   "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-25 18:54:05",
+   "story_sources": 2,
+   "score_norm": 82,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
+     "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop"
+    }
+   ],
+   "queries": [
+    "claude mac windows can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uj6usfmWNk8",
+     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
+     "title": "Claude Can Now Build Real Mac and Windows Apps",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JY6QUVtC6lU",
+     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
+     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "channel": "",
+     "views": 619,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:R4ut8TSs2aM",
+     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
+     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
+     "channel": "",
+     "views": 601,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6QgCdcg9U3o",
+     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
+     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
+     "channel": "",
+     "views": 517,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5PSWerNtoEw",
+     "url": "https://www.youtube.com/shorts/5PSWerNtoEw",
+     "title": "Anthropic Claude Can Now Turn Its Artifacts Into Real Desktop Apps (Install as App)",
+     "channel": "",
+     "views": 359,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:W6UZe9rXO7c",
+     "url": "https://www.youtube.com/shorts/W6UZe9rXO7c",
+     "title": "Claude Can Now Turn a Chat Into a Real Mac App",
+     "channel": "",
+     "views": 342,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T17:49:47.672Z"
   },
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
@@ -353,109 +448,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T15:36:06.051Z"
-  },
-  {
-   "first_seen": "2026-11-25T17:49:43.415Z",
-   "id": "40038669",
-   "ids": [
-    "40038669",
-    "40020546"
-   ],
-   "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
-   "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-25 16:36:13",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "You can now install Claude artifacts as desktop apps on Mac and Windows",
-     "url": "https://claude.com/resources/articles/install-as-app"
-    }
-   ],
-   "queries": [
-    "claude mac windows can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uj6usfmWNk8",
-     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
-     "title": "Claude Can Now Build Real Mac and Windows Apps",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JY6QUVtC6lU",
-     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
-     "title": "Claude artifacts now install as real Mac and Windows apps",
-     "channel": "",
-     "views": 619,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:R4ut8TSs2aM",
-     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
-     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
-     "channel": "",
-     "views": 601,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6QgCdcg9U3o",
-     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
-     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
-     "channel": "",
-     "views": 517,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5PSWerNtoEw",
-     "url": "https://www.youtube.com/shorts/5PSWerNtoEw",
-     "title": "Anthropic Claude Can Now Turn Its Artifacts Into Real Desktop Apps (Install as App)",
-     "channel": "",
-     "views": 359,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:W6UZe9rXO7c",
-     "url": "https://www.youtube.com/shorts/W6UZe9rXO7c",
-     "title": "Claude Can Now Turn a Chat Into a Real Mac App",
-     "channel": "",
-     "views": 342,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T17:49:47.672Z"
   },
   {
    "first_seen": "2026-11-25T17:09:55.295Z",
@@ -1532,37 +1524,6 @@
    "searched_at": "2026-11-24T09:36:49.742Z"
   },
   {
-   "first_seen": "2026-11-23T15:36:43.569Z",
-   "id": "39992171",
-   "ids": [
-    "39992171",
-    "39994484"
-   ],
-   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
-   "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-23 13:16:44",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "India AI funding nearly doubles to $1.6 billion in 9M 2026: Tracxn",
-     "url": "https://www.thehindubusinessline.com/info-tech/india-ai-funding-nearly-doubles-to-16-billion-in-9m-2026-tracxn/article71734283.ece"
-    }
-   ],
-   "queries": [
-    "Jan-Sept 2026",
-    "india 1.6b jan-sept 2026"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T04:14:16.937Z"
-  },
-  {
    "first_seen": "2026-11-25T05:11:59.635Z",
    "id": "40027092",
    "ids": [
@@ -1574,7 +1535,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-25 04:18:10",
    "story_sources": 2,
-   "score_norm": 49,
+   "score_norm": 50,
    "related_news": [
     {
      "source_id": "hn",
@@ -1665,6 +1626,37 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T17:36:15.613Z"
+  },
+  {
+   "first_seen": "2026-11-23T15:36:43.569Z",
+   "id": "39992171",
+   "ids": [
+    "39992171",
+    "39994484"
+   ],
+   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+   "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
+   "source_id": "in-yourstory",
+   "published_ts": "2026-11-23 13:16:44",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "in-businessline",
+     "title": "India AI funding nearly doubles to $1.6 billion in 9M 2026: Tracxn",
+     "url": "https://www.thehindubusinessline.com/info-tech/india-ai-funding-nearly-doubles-to-16-billion-in-9m-2026-tracxn/article71734283.ece"
+    }
+   ],
+   "queries": [
+    "Jan-Sept 2026",
+    "india 1.6b jan-sept 2026"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T04:14:16.937Z"
   },
   {
    "first_seen": "2026-11-23T14:24:51.338Z",
