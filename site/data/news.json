@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:50:05.352Z",
+ "generated_at": "2026-11-25T13:36:27.295Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: tidal ai-generated start banning",
+   "source": "youtube: GPT 6.2 Astra Solves",
    "ok": true
   },
   {
-   "source": "tiktok: tidal ai-generated start banning",
+   "source": "tiktok: GPT 6.2 Astra Solves",
+   "ok": true
+  },
+  {
+   "source": "youtube: gpt 6.2 astra solves",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gpt 6.2 astra solves",
    "ok": true
   }
  ],
@@ -925,9 +933,9 @@
      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
      "channel": "@aiexplained-official",
      "views": 141000,
-     "age_hours": 120.82809305555556,
+     "age_hours": 127.01800694444445,
      "relevance": 0.5,
-     "velocity": 1167
+     "velocity": 1110
     },
     {
      "platform": "youtube",
@@ -936,7 +944,7 @@
      "url": "https://www.youtube.com/shorts/GvnlJnOG8_8",
      "title": "GPT Astra and Sol 6.2 for CAD and Hardware",
      "channel": "",
-     "views": 2100,
+     "views": 2500,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -946,7 +954,7 @@
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-25T07:25:11.574Z"
+   "searched_at": "2026-11-25T13:36:35.264Z"
   },
   {
    "first_seen": "2026-11-23T20:49:49.193Z",
