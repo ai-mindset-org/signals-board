@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:26:39.324Z",
+ "generated_at": "2026-11-25T05:11:59.635Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: 83 IPO",
+   "source": "youtube: Nvidia CEO Jensen Huang's",
    "ok": true
   },
   {
-   "source": "tiktok: 83 IPO",
+   "source": "tiktok: Nvidia CEO Jensen Huang's",
    "ok": true
   },
   {
-   "source": "youtube: anthropic 83 ipo falls",
+   "source": "youtube: nvidia ceo jensen huang",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic 83 ipo falls",
+   "source": "tiktok: nvidia ceo jensen huang",
+   "ok": true
+  },
+  {
+   "source": "youtube: york bans ai chatbot",
+   "ok": true
+  },
+  {
+   "source": "tiktok: york bans ai chatbot",
    "ok": true
   }
  ],
@@ -319,6 +327,110 @@
    "searched_at": "2026-11-24T07:12:47.404Z"
   },
   {
+   "first_seen": "2026-11-25T05:11:59.635Z",
+   "id": "40027092",
+   "ids": [
+    "40027092",
+    "40023165"
+   ],
+   "title": "Nvidia CEO Jensen Huang's return brings open-weight AI debate to forefront in Washington",
+   "url": "https://www.thehindu.com/sci-tech/technology/nvidia-ceo-jensen-huangs-return-brings-open-weight-ai-debate-to-forefront-in-washington/article71740982.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-25 04:18:10",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+     "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/"
+    }
+   ],
+   "queries": [
+    "Nvidia CEO Jensen Huang's",
+    "nvidia ceo jensen huang"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hQiUMK-QDjU",
+     "url": "https://www.youtube.com/watch?v=hQiUMK-QDjU",
+     "title": "Jensen Huang reinstated as Nvidia CEO: What to know",
+     "channel": "CNN",
+     "views": 936916,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 39038
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N6y8slSJG4o",
+     "url": "https://www.youtube.com/watch?v=N6y8slSJG4o",
+     "title": "JUST IN: Jensen Huang REINSTATED as Nvidia CEO",
+     "channel": "Fox News",
+     "views": 651549,
+     "age_hours": 24,
+     "relevance": 0.8,
+     "velocity": 27148
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5mNCHODJ_HA",
+     "url": "https://www.youtube.com/watch?v=5mNCHODJ_HA",
+     "title": "Jensen Huang reinstated as NVIDIA CEO",
+     "channel": "NBC News",
+     "views": 176076,
+     "age_hours": 24,
+     "relevance": 0.8,
+     "velocity": 7337
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:zMLjeopmWwo",
+     "url": "https://www.youtube.com/watch?v=zMLjeopmWwo",
+     "title": "BREAKING 'HOLY COW'!: Nvidia REINSTATES Jensen Huang as CEO",
+     "channel": "MS NOW",
+     "views": 174814,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 7284
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gvarVQIy78Y",
+     "url": "https://www.youtube.com/watch?v=gvarVQIy78Y",
+     "title": "Politicians react to Jensen Huang’s return as Nvidia CEO",
+     "channel": "CNN",
+     "views": 46454,
+     "age_hours": 7,
+     "relevance": 0.71,
+     "velocity": 6636
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:D3GNUTJAivc",
+     "url": "https://www.youtube.com/watch?v=D3GNUTJAivc",
+     "title": "Memes on Jensen Huang reinstatement as NVIDIA CEO",
+     "channel": "Victor Mochere",
+     "views": 98830,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 4118
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-25T05:12:09.143Z"
+  },
+  {
    "first_seen": "2026-11-23T20:36:05.639Z",
    "id": "40000186",
    "ids": [
@@ -434,7 +546,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-25 01:41:52",
    "story_sources": 2,
-   "score_norm": 65,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "hn",
@@ -1152,14 +1264,38 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:EN_G97Burgg",
+     "url": "https://www.youtube.com/watch?v=EN_G97Burgg",
+     "title": "New York pauses AI chatbot toy sales for 5 years",
+     "channel": "Eyewitness News ABC7NY",
+     "views": 1636,
+     "age_hours": 5,
+     "relevance": 0.57,
+     "velocity": 327
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:9_SxMWFQ29M",
      "url": "https://www.youtube.com/watch?v=9_SxMWFQ29M",
      "title": "JUST IN: Gov. Kathy Hochul Signs Bill Banning AI Chatbot Toys In New York",
      "channel": "Forbes Breaking News",
-     "views": 2296,
-     "age_hours": 5,
+     "views": 2679,
+     "age_hours": 12,
      "relevance": 0.57,
-     "velocity": 459
+     "velocity": 223
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:k0CBmGdOyWk",
+     "url": "https://www.youtube.com/watch?v=k0CBmGdOyWk",
+     "title": "New York to ban AI chatbot toys for kids after harmful replies",
+     "channel": "WNYT NewsChannel 13 Albany",
+     "views": 136,
+     "age_hours": 4,
+     "relevance": 0.57,
+     "velocity": 34
     },
     {
      "platform": "youtube",
@@ -1168,21 +1304,21 @@
      "url": "https://www.youtube.com/watch?v=BHJmXiYr7w4",
      "title": "New York bans AI chatbot toys for five years",
      "channel": "WGRZ-TV",
-     "views": 6,
-     "age_hours": 1,
+     "views": 171,
+     "age_hours": 7,
      "relevance": 1,
-     "velocity": 6
+     "velocity": 24
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:NcxqFvzoP4Y",
-     "url": "https://www.youtube.com/watch?v=NcxqFvzoP4Y",
-     "title": "Why New York Is Banning AI Toys for Kids",
-     "channel": "Signal AI",
+     "id": "youtube:vVuvZVUBslU",
+     "url": "https://www.youtube.com/watch?v=vVuvZVUBslU",
+     "title": "New York Bans Chatbot Toys. Muse Goes Live in UK. South Korea Installs Metal Detectors. Tenth Cir...",
+     "channel": "AI News Daily | Podcast by Pickert",
      "views": 1,
-     "age_hours": 2,
-     "relevance": 0.6,
+     "age_hours": 1,
+     "relevance": 0.57,
      "velocity": 1
     },
     {
@@ -1193,28 +1329,16 @@
      "title": "New York Passes Five AI Bills Including Unanimous Kids Chatbot Ban",
      "channel": "Unscarcity",
      "views": 0,
-     "age_hours": 19,
+     "age_hours": 24,
      "relevance": 0.57,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xHvecY9fwyI",
-     "url": "https://www.youtube.com/watch?v=xHvecY9fwyI",
-     "title": "New York Bans AI Chatbot Toys for Five Years Over Child Safety Concerns | VERTEX",
-     "channel": "VERTEX",
-     "views": 1,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T22:49:36.245Z"
+   "searched_at": "2026-11-25T05:12:12.691Z"
   },
   {
    "first_seen": "2026-11-24T03:27:31.401Z",
