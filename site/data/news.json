@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:37:13.918Z",
+ "generated_at": "2026-11-25T03:14:16.625Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: staff anthropic open ai",
+   "source": "youtube: An Anthropic",
    "ok": true
   },
   {
-   "source": "tiktok: staff anthropic open ai",
+   "source": "tiktok: An Anthropic",
+   "ok": true
+  },
+  {
+   "source": "youtube: anthropic mathematician solved math",
+   "ok": true
+  },
+  {
+   "source": "tiktok: anthropic mathematician solved math",
    "ok": true
   }
  ],
@@ -470,7 +478,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-24 21:46:02",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 62,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -850,7 +858,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-24 22:56:59",
    "story_sources": 2,
-   "score_norm": 60,
+   "score_norm": 59,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -946,88 +954,28 @@
     }
    ],
    "queries": [
-    "Solved Math’s Most Famous Problem Now Humans Are Struggling",
-    "solved math most famous"
+    "An Anthropic",
+    "anthropic mathematician solved math"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GXTC-G_oOtQ",
-     "url": "https://www.youtube.com/watch?v=GXTC-G_oOtQ",
-     "title": "Has AI Solved Math's Pinnacle Problem? | World Science Festival",
-     "channel": "World Science Festival",
-     "views": 404248,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 5615
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:C07_okYdkK8",
-     "url": "https://www.youtube.com/shorts/C07_okYdkK8",
-     "title": "AI May Have Just Solved a 167-Year-Old Math Problem",
+     "id": "youtube:TQCgoIYgEj0",
+     "url": "https://www.youtube.com/shorts/TQCgoIYgEj0",
+     "title": "Anthropic JUST Solved Mathematics… Now what?",
      "channel": "",
-     "views": 16000,
+     "views": 89,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:4fLVq6HJsKc",
-     "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-     "title": "DeepSeek Solved AI’s Memory Problem",
-     "channel": "@TwoMinutePapers",
-     "views": 324000,
-     "age_hours": 1046.171261111111,
-     "relevance": 0.6,
-     "velocity": 310
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WvyKrUzhe_M",
-     "url": "https://www.youtube.com/shorts/WvyKrUzhe_M",
-     "title": "Did Claude just prove the most famous unsolved problem in math problem?",
-     "channel": "",
-     "views": 6400,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kQ3FSDIWJKg",
-     "url": "https://www.youtube.com/shorts/kQ3FSDIWJKg",
-     "title": "Did a mathematician and an AI just solve math's most famous problem?",
-     "channel": "",
-     "views": 5500,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:80FPXUBOnA4",
-     "url": "https://www.youtube.com/watch?v=80FPXUBOnA4",
-     "title": "Did AI Just Solve Math's Most Famous Problem?",
-     "channel": "Versors",
-     "views": 10069,
-     "age_hours": 72,
-     "relevance": 0.71,
-     "velocity": 140
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T21:10:34.306Z"
+   "searched_at": "2026-11-25T03:14:24.753Z"
   },
   {
    "first_seen": "2026-11-24T08:15:07.564Z",
