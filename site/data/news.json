@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:09:55.295Z",
+ "generated_at": "2026-11-25T17:36:07.593Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: amazon meta muse reportedly",
+   "source": "youtube: Nvidia CEO Jensen Huang's",
    "ok": true
   },
   {
-   "source": "tiktok: amazon meta muse reportedly",
+   "source": "tiktok: Nvidia CEO Jensen Huang's",
+   "ok": true
+  },
+  {
+   "source": "youtube: nvidia ceo jensen huang",
+   "ok": true
+  },
+  {
+   "source": "tiktok: nvidia ceo jensen huang",
    "ok": true
   }
  ],
@@ -366,7 +374,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-25 04:18:10",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
@@ -386,22 +394,46 @@
      "url": "https://www.youtube.com/watch?v=hQiUMK-QDjU",
      "title": "Jensen Huang reinstated as Nvidia CEO: What to know",
      "channel": "CNN",
-     "views": 948460,
-     "age_hours": 24,
+     "views": 958415,
+     "age_hours": 48,
      "relevance": 0.67,
-     "velocity": 39519
+     "velocity": 19967
     },
     {
      "platform": "youtube",
      "kind": "видео",
      "id": "youtube:N6y8slSJG4o",
      "url": "https://www.youtube.com/watch?v=N6y8slSJG4o",
-     "title": "JUST IN: Jensen Huang REINSTATED as Nvidia CEO",
+     "title": "BREAKING: Nvidia reinstates Jensen Huang as CEO",
      "channel": "Fox News",
-     "views": 653450,
+     "views": 654707,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 13640
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JzBXDYLUJ8Q",
+     "url": "https://www.youtube.com/watch?v=JzBXDYLUJ8Q",
+     "title": "Trump posts ‘bizarre’ image on Jensen Huang’s return to Nvidia",
+     "channel": "CNN",
+     "views": 308178,
      "age_hours": 24,
-     "relevance": 0.8,
-     "velocity": 27227
+     "relevance": 0.5,
+     "velocity": 12841
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7crMftaSOFA",
+     "url": "https://www.youtube.com/shorts/7crMftaSOFA",
+     "title": "Jensen Huang thanks Nvidia for the ‘second chance’",
+     "channel": "",
+     "views": 356000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
@@ -410,22 +442,10 @@
      "url": "https://www.youtube.com/watch?v=5mNCHODJ_HA",
      "title": "Jensen Huang reinstated as NVIDIA CEO",
      "channel": "NBC News",
-     "views": 191319,
+     "views": 199749,
      "age_hours": 24,
      "relevance": 0.8,
-     "velocity": 7972
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:zMLjeopmWwo",
-     "url": "https://www.youtube.com/watch?v=zMLjeopmWwo",
-     "title": "BREAKING 'HOLY COW'!: Nvidia REINSTATES Jensen Huang as CEO",
-     "channel": "MS NOW",
-     "views": 175154,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 7298
+     "velocity": 8323
     },
     {
      "platform": "youtube",
@@ -434,29 +454,17 @@
      "url": "https://www.youtube.com/watch?v=GjjiD65_pJ8",
      "title": "BREAKING: Jensen Huang Makes SHOCK Return as CEO of Nvidia",
      "channel": "Megyn Kelly",
-     "views": 153226,
+     "views": 154457,
      "age_hours": 24,
      "relevance": 0.63,
-     "velocity": 6384
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:D3GNUTJAivc",
-     "url": "https://www.youtube.com/watch?v=D3GNUTJAivc",
-     "title": "Memes on Jensen Huang reinstatement as NVIDIA CEO",
-     "channel": "Victor Mochere",
-     "views": 110466,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 4603
+     "velocity": 6436
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-25T11:21:25.769Z"
+   "searched_at": "2026-11-25T17:36:15.613Z"
   },
   {
    "first_seen": "2026-11-25T01:23:34.185Z",
