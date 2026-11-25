@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T03:14:16.625Z",
+ "generated_at": "2026-11-25T04:14:09.722Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: An Anthropic",
+   "source": "youtube: Anthropic’s Claude Ship Lets",
    "ok": true
   },
   {
-   "source": "tiktok: An Anthropic",
+   "source": "tiktok: Anthropic’s Claude Ship Lets",
    "ok": true
   },
   {
-   "source": "youtube: anthropic mathematician solved math",
+   "source": "youtube: anthropic claude ship lets",
    "ok": true
   },
   {
-   "source": "tiktok: anthropic mathematician solved math",
+   "source": "tiktok: anthropic claude ship lets",
    "ok": true
   }
  ],
@@ -319,49 +319,6 @@
    "searched_at": "2026-11-24T07:12:47.404Z"
   },
   {
-   "first_seen": "2026-11-25T02:37:13.918Z",
-   "id": "40025200",
-   "ids": [
-    "40025200",
-    "40012980"
-   ],
-   "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
-   "url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-25 01:41:52",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Scoop – AI employees sound alarm: models too powerful to ever release",
-     "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
-    }
-   ],
-   "queries": [
-    "staff anthropic open ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-ozERE6DB-o",
-     "url": "https://www.youtube.com/shorts/-ozERE6DB-o",
-     "title": "Anthropic staff just became millionaires",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T02:37:18.245Z"
-  },
-  {
    "first_seen": "2026-11-23T20:36:05.639Z",
    "id": "40000186",
    "ids": [
@@ -466,6 +423,49 @@
    "searched_at": "2026-11-24T14:50:03.076Z"
   },
   {
+   "first_seen": "2026-11-25T02:37:13.918Z",
+   "id": "40025200",
+   "ids": [
+    "40025200",
+    "40012980"
+   ],
+   "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
+   "url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-25 01:41:52",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Scoop – AI employees sound alarm: models too powerful to ever release",
+     "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
+    }
+   ],
+   "queries": [
+    "staff anthropic open ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-ozERE6DB-o",
+     "url": "https://www.youtube.com/shorts/-ozERE6DB-o",
+     "title": "Anthropic staff just became millionaires",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T02:37:18.245Z"
+  },
+  {
    "first_seen": "2026-11-24T15:11:53.228Z",
    "id": "40014748",
    "ids": [
@@ -494,26 +494,14 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:9InrjFwtApI",
-     "url": "https://www.youtube.com/watch?v=9InrjFwtApI",
-     "title": "NEW! Anthropic launches CLAUDE SHIP",
-     "channel": "Graven - Développement",
-     "views": 2223,
-     "age_hours": 3,
-     "relevance": 0.75,
-     "velocity": 741
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
      "id": "youtube:AZfEcXAMV7c",
      "url": "https://www.youtube.com/watch?v=AZfEcXAMV7c",
      "title": "Claude Ship Just Dropped: AI Now Approves Its Own Code (End of Developers?)",
      "channel": "Lavin",
-     "views": 2902,
-     "age_hours": 8,
+     "views": 3726,
+     "age_hours": 14,
      "relevance": 0.56,
-     "velocity": 363
+     "velocity": 266
     },
     {
      "platform": "youtube",
@@ -522,22 +510,10 @@
      "url": "https://www.youtube.com/watch?v=J5ab82sKdr4",
      "title": "Claude Ship Explained: AI Now Approves Your Code",
      "channel": "AI Tool Lab",
-     "views": 168,
-     "age_hours": 7,
+     "views": 225,
+     "age_hours": 13,
      "relevance": 0.67,
-     "velocity": 24
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:w5INPp3hkck",
-     "url": "https://www.youtube.com/watch?v=w5INPp3hkck",
-     "title": "Claude Ship: Claude Now Approves Your Code (You Set the Rules)",
-     "channel": "Ronald Postelmans | AI for businesses",
-     "views": 105,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 12
+     "velocity": 17
     },
     {
      "platform": "youtube",
@@ -546,21 +522,45 @@
      "url": "https://www.youtube.com/shorts/x8spi3us0y4",
      "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
      "channel": "",
-     "views": 400,
+     "views": 443,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
     },
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:w5INPp3hkck",
+     "url": "https://www.youtube.com/watch?v=w5INPp3hkck",
+     "title": "Claude Ship: Claude Now Approves Your Code (You Set the Rules)",
+     "channel": "Ronald Postelmans | AI for businesses",
+     "views": 139,
+     "age_hours": 15,
+     "relevance": 0.5,
+     "velocity": 9
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:EV3btGWYBrk",
-     "url": "https://www.youtube.com/shorts/EV3btGWYBrk",
-     "title": "Did Claude Ship Just Put AI Code Review Startups on Notice?",
+     "id": "youtube:qixTSoDOGmQ",
+     "url": "https://www.youtube.com/shorts/qixTSoDOGmQ",
+     "title": "Anthropic's Claude Ship lets Claude approve your team's pull requests, where your rules allow it",
      "channel": "",
-     "views": 315,
+     "views": 232,
      "age_hours": null,
-     "relevance": 0.56,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:LU6aZ-ZVr8U",
+     "url": "https://www.youtube.com/shorts/LU6aZ-ZVr8U",
+     "title": "Anthropic launches Claude Ship, AI agents that approve code changes",
+     "channel": "",
+     "views": 203,
+     "age_hours": null,
+     "relevance": 0.67,
      "velocity": null
     }
    ],
@@ -568,7 +568,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T22:10:27.994Z"
+   "searched_at": "2026-11-25T04:14:17.498Z"
   },
   {
    "first_seen": "2026-11-24T16:12:57.767Z",
@@ -1022,97 +1022,6 @@
    "searched_at": "2026-11-24T14:24:09.938Z"
   },
   {
-   "first_seen": "2026-11-24T22:49:32.159Z",
-   "id": "40022658",
-   "ids": [
-    "40022658",
-    "40021780"
-   ],
-   "title": "New York bans AI chatbot toys for five years",
-   "url": "https://dailyai.com/2026/11/new-york-bans-ai-chatbot-toys-for-five-years/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-24 19:09:27",
-   "story_sources": 2,
-   "score_norm": 54,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "New York Ban AI Toys for 5 Years",
-     "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
-    }
-   ],
-   "queries": [
-    "york bans ai chatbot"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:9_SxMWFQ29M",
-     "url": "https://www.youtube.com/watch?v=9_SxMWFQ29M",
-     "title": "JUST IN: Gov. Kathy Hochul Signs Bill Banning AI Chatbot Toys In New York",
-     "channel": "Forbes Breaking News",
-     "views": 2296,
-     "age_hours": 5,
-     "relevance": 0.57,
-     "velocity": 459
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:BHJmXiYr7w4",
-     "url": "https://www.youtube.com/watch?v=BHJmXiYr7w4",
-     "title": "New York bans AI chatbot toys for five years",
-     "channel": "WGRZ-TV",
-     "views": 6,
-     "age_hours": 1,
-     "relevance": 1,
-     "velocity": 6
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:NcxqFvzoP4Y",
-     "url": "https://www.youtube.com/watch?v=NcxqFvzoP4Y",
-     "title": "Why New York Is Banning AI Toys for Kids",
-     "channel": "Signal AI",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.6,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rbFXkhVUoU4",
-     "url": "https://www.youtube.com/watch?v=rbFXkhVUoU4",
-     "title": "New York Passes Five AI Bills Including Unanimous Kids Chatbot Ban",
-     "channel": "Unscarcity",
-     "views": 0,
-     "age_hours": 19,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xHvecY9fwyI",
-     "url": "https://www.youtube.com/watch?v=xHvecY9fwyI",
-     "title": "New York Bans AI Chatbot Toys for Five Years Over Child Safety Concerns | VERTEX",
-     "channel": "VERTEX",
-     "views": 1,
-     "age_hours": 3,
-     "relevance": 1,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T22:49:36.245Z"
-  },
-  {
    "first_seen": "2026-11-24T17:10:34.699Z",
    "id": "40016952",
    "ids": [
@@ -1215,6 +1124,97 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T23:20:17.789Z"
+  },
+  {
+   "first_seen": "2026-11-24T22:49:32.159Z",
+   "id": "40022658",
+   "ids": [
+    "40022658",
+    "40021780"
+   ],
+   "title": "New York bans AI chatbot toys for five years",
+   "url": "https://dailyai.com/2026/11/new-york-bans-ai-chatbot-toys-for-five-years/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-24 19:09:27",
+   "story_sources": 2,
+   "score_norm": 53,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "New York Ban AI Toys for 5 Years",
+     "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot"
+    }
+   ],
+   "queries": [
+    "york bans ai chatbot"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:9_SxMWFQ29M",
+     "url": "https://www.youtube.com/watch?v=9_SxMWFQ29M",
+     "title": "JUST IN: Gov. Kathy Hochul Signs Bill Banning AI Chatbot Toys In New York",
+     "channel": "Forbes Breaking News",
+     "views": 2296,
+     "age_hours": 5,
+     "relevance": 0.57,
+     "velocity": 459
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:BHJmXiYr7w4",
+     "url": "https://www.youtube.com/watch?v=BHJmXiYr7w4",
+     "title": "New York bans AI chatbot toys for five years",
+     "channel": "WGRZ-TV",
+     "views": 6,
+     "age_hours": 1,
+     "relevance": 1,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:NcxqFvzoP4Y",
+     "url": "https://www.youtube.com/watch?v=NcxqFvzoP4Y",
+     "title": "Why New York Is Banning AI Toys for Kids",
+     "channel": "Signal AI",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.6,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rbFXkhVUoU4",
+     "url": "https://www.youtube.com/watch?v=rbFXkhVUoU4",
+     "title": "New York Passes Five AI Bills Including Unanimous Kids Chatbot Ban",
+     "channel": "Unscarcity",
+     "views": 0,
+     "age_hours": 19,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xHvecY9fwyI",
+     "url": "https://www.youtube.com/watch?v=xHvecY9fwyI",
+     "title": "New York Bans AI Chatbot Toys for Five Years Over Child Safety Concerns | VERTEX",
+     "channel": "VERTEX",
+     "views": 1,
+     "age_hours": 3,
+     "relevance": 1,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-24T22:49:36.245Z"
   },
   {
    "first_seen": "2026-11-24T03:27:31.401Z",
