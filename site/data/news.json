@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:23:54.536Z",
+ "generated_at": "2026-11-25T06:43:48.901Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,35 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic’s Siren",
+   "source": "youtube: tidal ai-generated start banning",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic’s Siren",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic siren claude tests",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic siren claude tests",
-   "ok": true
-  },
-  {
-   "source": "youtube: Ban Fully AI-Generated Music From December 9",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Ban Fully AI-Generated Music From December 9",
-   "ok": true
-  },
-  {
-   "source": "youtube: tidal ban fully ai-generated",
-   "ok": true
-  },
-  {
-   "source": "tiktok: tidal ban fully ai-generated",
+   "source": "tiktok: tidal ai-generated start banning",
    "ok": true
   }
  ],
@@ -79,7 +55,7 @@
      "url": "https://www.youtube.com/shorts/_upJzzrCv7s",
      "title": "Tidal Is Banning 100% AI-Generated Music — Starting December 9th",
      "channel": "",
-     "views": 899,
+     "views": 1000,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -91,7 +67,7 @@
      "url": "https://www.youtube.com/shorts/ZdePf6l6g4E",
      "title": "Tidal Bans Fully AI-Generated Music #Shorts",
      "channel": "",
-     "views": 52,
+     "views": 76,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -103,8 +79,8 @@
      "url": "https://www.youtube.com/watch?v=tELN6im93BU",
      "title": "Tidal bans AI-generated music + 9 more stories",
      "channel": "ASAP News",
-     "views": 7,
-     "age_hours": 6,
+     "views": 8,
+     "age_hours": 12,
      "relevance": 0.6,
      "velocity": 1
     },
@@ -115,7 +91,7 @@
      "url": "https://www.youtube.com/shorts/mcs8LzYhzz0",
      "title": "Tidal is banning AI music",
      "channel": "",
-     "views": 11,
+     "views": 14,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -125,7 +101,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T00:29:56.892Z"
+   "searched_at": "2026-11-25T06:43:52.985Z"
   },
   {
    "first_seen": "2026-11-22T10:35:44.984Z",
@@ -346,7 +322,7 @@
    "source_id": "in-thehindu-tech",
    "published_ts": "2026-11-25 04:18:10",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 70,
    "related_news": [
     {
      "source_id": "hn",
@@ -708,7 +684,7 @@
    "source_id": "crypto-decrypt",
    "published_ts": "2026-11-24 21:46:02",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 61,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -967,6 +943,36 @@
    "searched_at": "2026-11-25T01:23:42.362Z"
   },
   {
+   "first_seen": "2026-11-23T20:49:49.193Z",
+   "id": "40000811",
+   "ids": [
+    "40000811",
+    "39993384"
+   ],
+   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+   "source_id": "import-ai",
+   "published_ts": "2026-11-23 14:11:17",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "x-importai-substack",
+     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    }
+   ],
+   "queries": [
+    "import 482 huawei ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-24T09:25:25.879Z"
+  },
+  {
    "first_seen": "2026-11-24T23:20:02.739Z",
    "id": "40023015",
    "ids": [
@@ -978,7 +984,7 @@
    "source_id": "siliconangle-ai",
    "published_ts": "2026-11-24 22:56:59",
    "story_sources": 2,
-   "score_norm": 59,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -1059,81 +1065,6 @@
    "searched_at": "2026-11-25T05:24:02.283Z"
   },
   {
-   "first_seen": "2026-11-23T20:49:49.193Z",
-   "id": "40000811",
-   "ids": [
-    "40000811",
-    "39993384"
-   ],
-   "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
-   "url": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
-   "source_id": "import-ai",
-   "published_ts": "2026-11-23 14:11:17",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "x-importai-substack",
-     "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-     "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
-    }
-   ],
-   "queries": [
-    "import 482 huawei ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T09:25:25.879Z"
-  },
-  {
-   "first_seen": "2026-11-24T21:10:26.379Z",
-   "id": "40012313",
-   "ids": [
-    "40012313",
-    "40021124",
-    "40022745"
-   ],
-   "title": "An Anthropic mathematician just solved math’s most famous problem",
-   "url": "https://www.understandingai.org/p/an-anthropic-mathematician-just-solved",
-   "source_id": "understanding-ai",
-   "published_ts": "2026-11-24 21:43:33",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "The Most Famous Problem in Math Was Just Solved by AI–and This Human",
-     "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb"
-    }
-   ],
-   "queries": [
-    "An Anthropic",
-    "anthropic mathematician solved math"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:TQCgoIYgEj0",
-     "url": "https://www.youtube.com/shorts/TQCgoIYgEj0",
-     "title": "Anthropic JUST Solved Mathematics… Now what?",
-     "channel": "",
-     "views": 89,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T03:14:24.753Z"
-  },
-  {
    "first_seen": "2026-11-24T08:15:07.564Z",
    "id": "40008783",
    "ids": [
@@ -1176,6 +1107,51 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T14:24:09.938Z"
+  },
+  {
+   "first_seen": "2026-11-24T21:10:26.379Z",
+   "id": "40012313",
+   "ids": [
+    "40012313",
+    "40021124",
+    "40022745"
+   ],
+   "title": "An Anthropic mathematician just solved math’s most famous problem",
+   "url": "https://www.understandingai.org/p/an-anthropic-mathematician-just-solved",
+   "source_id": "understanding-ai",
+   "published_ts": "2026-11-24 21:43:33",
+   "story_sources": 2,
+   "score_norm": 55,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "The Most Famous Problem in Math Was Just Solved by AI–and This Human",
+     "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb"
+    }
+   ],
+   "queries": [
+    "An Anthropic",
+    "anthropic mathematician solved math"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:TQCgoIYgEj0",
+     "url": "https://www.youtube.com/shorts/TQCgoIYgEj0",
+     "title": "Anthropic JUST Solved Mathematics… Now what?",
+     "channel": "",
+     "views": 89,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T03:14:24.753Z"
   },
   {
    "first_seen": "2026-11-24T17:10:34.699Z",
@@ -1549,6 +1525,104 @@
    "searched_at": "2026-11-24T02:37:01.174Z"
   },
   {
+   "first_seen": "2026-11-24T13:36:41.048Z",
+   "id": "40011747",
+   "ids": [
+    "40011747",
+    "40013064",
+    "40014365"
+   ],
+   "title": "Anthropic Slips Below $83 IPO Price in Premarket Trade",
+   "url": "https://thedefiant.io/frontier/markets/anthropic-slips-below-83-ipo-price-in-premarket-trade",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-24 11:30:46",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Anthropic is below its IPO price",
+     "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa"
+    },
+    {
+     "source_id": "hn",
+     "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
+    }
+   ],
+   "queries": [
+    "Anthropic Slips Below 83 IPO Price",
+    "anthropic slips below 83"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:y4t-hNZWDuY",
+     "url": "https://www.youtube.com/watch?v=y4t-hNZWDuY",
+     "title": "Anthropic fell below its IPO price in 4 days. SpaceX took 21 #anthropic",
+     "channel": "TiziriTech",
+     "views": 12,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:B0L9el_pB_4",
+     "url": "https://www.youtube.com/watch?v=B0L9el_pB_4",
+     "title": "Anthropic Shares Slide Below $83 IPO Price, AI Boom Faces Investor Reality Check | NewsX World",
+     "channel": "NewsX World",
+     "views": 26,
+     "age_hours": 12,
+     "relevance": 0.63,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_dDRTgmCMGc",
+     "url": "https://www.youtube.com/watch?v=_dDRTgmCMGc",
+     "title": "Anthropic Sinks Below Its IPO Price - TMTL News - Evening TL;DR - 2026-11-24 #Shorts",
+     "channel": "TMTL",
+     "views": 6,
+     "age_hours": 6,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yD_69bcausk",
+     "url": "https://www.youtube.com/watch?v=yD_69bcausk",
+     "title": "U.S Stocks Close Mixed as Nvidia Drops 6% & Anthropic Slips Below $83 IPO Price; Retailers Surge",
+     "channel": "NEWS9 Live",
+     "views": 1,
+     "age_hours": 0.35,
+     "relevance": 0.75,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rjdjpnw7VZM",
+     "url": "https://www.youtube.com/watch?v=rjdjpnw7VZM",
+     "title": "Anthropic Stock: Why It Fell Below Its $83 IPO Price",
+     "channel": "TrendsNow",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T02:17:03.401Z"
+  },
+  {
    "first_seen": "2026-11-23T19:36:31.978Z",
    "id": "39999187",
    "ids": [
@@ -1668,104 +1742,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-25T00:30:00.427Z"
-  },
-  {
-   "first_seen": "2026-11-24T13:36:41.048Z",
-   "id": "40011747",
-   "ids": [
-    "40011747",
-    "40013064",
-    "40014365"
-   ],
-   "title": "Anthropic Slips Below $83 IPO Price in Premarket Trade",
-   "url": "https://thedefiant.io/frontier/markets/anthropic-slips-below-83-ipo-price-in-premarket-trade",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-24 11:30:46",
-   "story_sources": 2,
-   "score_norm": 46,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic is below its IPO price",
-     "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
-    }
-   ],
-   "queries": [
-    "Anthropic Slips Below 83 IPO Price",
-    "anthropic slips below 83"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:y4t-hNZWDuY",
-     "url": "https://www.youtube.com/watch?v=y4t-hNZWDuY",
-     "title": "Anthropic fell below its IPO price in 4 days. SpaceX took 21 #anthropic",
-     "channel": "TiziriTech",
-     "views": 12,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B0L9el_pB_4",
-     "url": "https://www.youtube.com/watch?v=B0L9el_pB_4",
-     "title": "Anthropic Shares Slide Below $83 IPO Price, AI Boom Faces Investor Reality Check | NewsX World",
-     "channel": "NewsX World",
-     "views": 26,
-     "age_hours": 12,
-     "relevance": 0.63,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_dDRTgmCMGc",
-     "url": "https://www.youtube.com/watch?v=_dDRTgmCMGc",
-     "title": "Anthropic Sinks Below Its IPO Price - TMTL News - Evening TL;DR - 2026-11-24 #Shorts",
-     "channel": "TMTL",
-     "views": 6,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yD_69bcausk",
-     "url": "https://www.youtube.com/watch?v=yD_69bcausk",
-     "title": "U.S Stocks Close Mixed as Nvidia Drops 6% & Anthropic Slips Below $83 IPO Price; Retailers Surge",
-     "channel": "NEWS9 Live",
-     "views": 1,
-     "age_hours": 0.35,
-     "relevance": 0.75,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rjdjpnw7VZM",
-     "url": "https://www.youtube.com/watch?v=rjdjpnw7VZM",
-     "title": "Anthropic Stock: Why It Fell Below Its $83 IPO Price",
-     "channel": "TrendsNow",
-     "views": 0,
-     "age_hours": 2,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T02:17:03.401Z"
   },
   {
    "first_seen": "2026-11-24T00:27:31.288Z",
