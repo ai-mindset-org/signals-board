@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:16:55.623Z",
+ "generated_at": "2026-11-25T02:37:13.918Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Anthropic Slips Below 83 IPO Price",
+   "source": "youtube: staff anthropic open ai",
    "ok": true
   },
   {
-   "source": "tiktok: Anthropic Slips Below 83 IPO Price",
-   "ok": true
-  },
-  {
-   "source": "youtube: anthropic slips below 83",
-   "ok": true
-  },
-  {
-   "source": "tiktok: anthropic slips below 83",
-   "ok": true
-  },
-  {
-   "source": "youtube: meta muse uk ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: meta muse uk ai",
+   "source": "tiktok: staff anthropic open ai",
    "ok": true
   }
  ],
@@ -325,6 +309,49 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T07:12:47.404Z"
+  },
+  {
+   "first_seen": "2026-11-25T02:37:13.918Z",
+   "id": "40025200",
+   "ids": [
+    "40025200",
+    "40012980"
+   ],
+   "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
+   "url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
+   "source_id": "siliconangle-ai",
+   "published_ts": "2026-11-25 01:41:52",
+   "story_sources": 2,
+   "score_norm": 66,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Scoop – AI employees sound alarm: models too powerful to ever release",
+     "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
+    }
+   ],
+   "queries": [
+    "staff anthropic open ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-ozERE6DB-o",
+     "url": "https://www.youtube.com/shorts/-ozERE6DB-o",
+     "title": "Anthropic staff just became millionaires",
+     "channel": "",
+     "views": 29,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T02:37:18.245Z"
   },
   {
    "first_seen": "2026-11-23T20:36:05.639Z",
