@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:15:03.831Z",
+ "generated_at": "2026-11-25T08:28:43.826Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: gpt-6 models demonstrate intrinsic",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-6 models demonstrate intrinsic",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
@@ -1213,7 +1204,8 @@
    "id": "40016952",
    "ids": [
     "40016952",
-    "40016085"
+    "40016085",
+    "40029050"
    ],
    "title": "Tidal to Ban Fully AI-Generated Music From December 9",
    "url": "https://thedefiant.io/frontier/ai/tidal-to-ban-fully-ai-generated-music-from-december-9",
@@ -1222,6 +1214,11 @@
    "story_sources": 2,
    "score_norm": 54,
    "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Tidal Bans AI-Generated Music",
+     "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/"
+    },
     {
      "source_id": "hn",
      "title": "Tidal Bans AI-Generated Music",
