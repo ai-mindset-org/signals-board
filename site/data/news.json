@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:28:43.826Z",
+ "generated_at": "2026-11-25T08:39:15.403Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: staff anthropic open ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: staff anthropic open ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
@@ -532,25 +541,12 @@
    "queries": [
     "staff anthropic open ai"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-ozERE6DB-o",
-     "url": "https://www.youtube.com/shorts/-ozERE6DB-o",
-     "title": "Anthropic staff just became millionaires",
-     "channel": "",
-     "views": 29,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-25T02:37:18.245Z"
+   "searched_at": "2026-11-25T08:39:19.574Z"
   },
   {
    "first_seen": "2026-11-24T16:12:57.767Z",
