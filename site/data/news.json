@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T17:49:43.415Z",
+ "generated_at": "2026-11-25T18:36:12.069Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,61 +9,61 @@
  },
  "search_report": [
   {
-   "source": "youtube: claude mac windows can",
+   "source": "youtube: amazon muse reportedly talks",
    "ok": true
   },
   {
-   "source": "tiktok: claude mac windows can",
+   "source": "tiktok: amazon muse reportedly talks",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-25T17:09:55.295Z",
-   "id": "40035153",
+   "first_seen": "2026-11-25T18:36:12.069Z",
+   "id": "40036909",
    "ids": [
-    "40035153",
-    "40037805"
+    "40036909",
+    "40039514"
    ],
-   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-11-25 14:10:18",
+   "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+   "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+   "source_id": "theverge",
+   "published_ts": "2026-11-25 14:12:33",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "x-dailyai",
-     "title": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
-     "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
+     "source_id": "eu-the-decoder",
+     "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+     "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
     }
    ],
    "queries": [
-    "amazon meta muse reportedly"
+    "amazon muse reportedly talks"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B_-o141t7F4",
-     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
-     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
-     "channel": "Digital Bullet",
-     "views": 0,
-     "age_hours": 1,
-     "relevance": 0.8,
+     "kind": "shorts",
+     "id": "youtube:EEIK4We0jT0",
+     "url": "https://www.youtube.com/shorts/EEIK4We0jT0",
+     "title": "Amazon's $68B reason to block Meta's AI shopper | #meta #muse #amazon",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
+     "kind": "shorts",
      "id": "youtube:arni3ch6yBI",
-     "url": "https://www.youtube.com/watch?v=arni3ch6yBI",
+     "url": "https://www.youtube.com/shorts/arni3ch6yBI",
      "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
-     "channel": "VexaForge",
+     "channel": "",
      "views": 0,
-     "age_hours": 2,
-     "relevance": 0.67,
+     "age_hours": null,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -71,110 +71,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T17:09:59.291Z"
-  },
-  {
-   "first_seen": "2026-11-25T17:49:43.415Z",
-   "id": "40038669",
-   "ids": [
-    "40038669",
-    "40020546"
-   ],
-   "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
-   "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-25 16:36:13",
-   "story_sources": 2,
-   "score_norm": 99,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "You can now install Claude artifacts as desktop apps on Mac and Windows",
-     "url": "https://claude.com/resources/articles/install-as-app"
-    }
-   ],
-   "queries": [
-    "claude mac windows can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uj6usfmWNk8",
-     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
-     "title": "Claude Can Now Build Real Mac and Windows Apps",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JY6QUVtC6lU",
-     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
-     "title": "Claude artifacts now install as real Mac and Windows apps",
-     "channel": "",
-     "views": 619,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:R4ut8TSs2aM",
-     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
-     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
-     "channel": "",
-     "views": 601,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6QgCdcg9U3o",
-     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
-     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
-     "channel": "",
-     "views": 517,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5PSWerNtoEw",
-     "url": "https://www.youtube.com/shorts/5PSWerNtoEw",
-     "title": "Anthropic Claude Can Now Turn Its Artifacts Into Real Desktop Apps (Install as App)",
-     "channel": "",
-     "views": 359,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:W6UZe9rXO7c",
-     "url": "https://www.youtube.com/shorts/W6UZe9rXO7c",
-     "title": "Claude Can Now Turn a Chat Into a Real Mac App",
-     "channel": "",
-     "views": 342,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T17:49:47.672Z"
+   "searched_at": "2026-11-25T18:36:16.003Z"
   },
   {
    "first_seen": "2026-11-24T01:12:05.503Z",
@@ -458,108 +355,162 @@
    "searched_at": "2026-11-25T15:36:06.051Z"
   },
   {
-   "first_seen": "2026-11-25T05:11:59.635Z",
-   "id": "40027092",
+   "first_seen": "2026-11-25T17:49:43.415Z",
+   "id": "40038669",
    "ids": [
-    "40027092",
-    "40023165"
+    "40038669",
+    "40020546"
    ],
-   "title": "Nvidia CEO Jensen Huang's return brings open-weight AI debate to forefront in Washington",
-   "url": "https://www.thehindu.com/sci-tech/technology/nvidia-ceo-jensen-huangs-return-brings-open-weight-ai-debate-to-forefront-in-washington/article71740982.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-25 04:18:10",
+   "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
+   "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-25 16:36:13",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "hn",
-     "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
-     "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/"
+     "title": "You can now install Claude artifacts as desktop apps on Mac and Windows",
+     "url": "https://claude.com/resources/articles/install-as-app"
     }
    ],
    "queries": [
-    "Nvidia CEO Jensen Huang's",
-    "nvidia ceo jensen huang"
+    "claude mac windows can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uj6usfmWNk8",
+     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
+     "title": "Claude Can Now Build Real Mac and Windows Apps",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JY6QUVtC6lU",
+     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
+     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "channel": "",
+     "views": 619,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:R4ut8TSs2aM",
+     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
+     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
+     "channel": "",
+     "views": 601,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6QgCdcg9U3o",
+     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
+     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
+     "channel": "",
+     "views": 517,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5PSWerNtoEw",
+     "url": "https://www.youtube.com/shorts/5PSWerNtoEw",
+     "title": "Anthropic Claude Can Now Turn Its Artifacts Into Real Desktop Apps (Install as App)",
+     "channel": "",
+     "views": 359,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:W6UZe9rXO7c",
+     "url": "https://www.youtube.com/shorts/W6UZe9rXO7c",
+     "title": "Claude Can Now Turn a Chat Into a Real Mac App",
+     "channel": "",
+     "views": 342,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T17:49:47.672Z"
+  },
+  {
+   "first_seen": "2026-11-25T17:09:55.295Z",
+   "id": "40035153",
+   "ids": [
+    "40035153",
+    "40037805"
+   ],
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-11-25 14:10:18",
+   "story_sources": 2,
+   "score_norm": 72,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
+     "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
+    }
+   ],
+   "queries": [
+    "amazon meta muse reportedly"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:hQiUMK-QDjU",
-     "url": "https://www.youtube.com/watch?v=hQiUMK-QDjU",
-     "title": "Jensen Huang reinstated as Nvidia CEO: What to know",
-     "channel": "CNN",
-     "views": 958415,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 19967
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:N6y8slSJG4o",
-     "url": "https://www.youtube.com/watch?v=N6y8slSJG4o",
-     "title": "BREAKING: Nvidia reinstates Jensen Huang as CEO",
-     "channel": "Fox News",
-     "views": 654707,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 13640
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JzBXDYLUJ8Q",
-     "url": "https://www.youtube.com/watch?v=JzBXDYLUJ8Q",
-     "title": "Trump posts ‘bizarre’ image on Jensen Huang’s return to Nvidia",
-     "channel": "CNN",
-     "views": 308178,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 12841
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7crMftaSOFA",
-     "url": "https://www.youtube.com/shorts/7crMftaSOFA",
-     "title": "Jensen Huang thanks Nvidia for the ‘second chance’",
-     "channel": "",
-     "views": 356000,
-     "age_hours": null,
-     "relevance": 0.5,
+     "id": "youtube:B_-o141t7F4",
+     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
+     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
+     "channel": "Digital Bullet",
+     "views": 0,
+     "age_hours": 1,
+     "relevance": 0.8,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:5mNCHODJ_HA",
-     "url": "https://www.youtube.com/watch?v=5mNCHODJ_HA",
-     "title": "Jensen Huang reinstated as NVIDIA CEO",
-     "channel": "NBC News",
-     "views": 199749,
-     "age_hours": 24,
-     "relevance": 0.8,
-     "velocity": 8323
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GjjiD65_pJ8",
-     "url": "https://www.youtube.com/watch?v=GjjiD65_pJ8",
-     "title": "BREAKING: Jensen Huang Makes SHOCK Return as CEO of Nvidia",
-     "channel": "Megyn Kelly",
-     "views": 154457,
-     "age_hours": 24,
-     "relevance": 0.63,
-     "velocity": 6436
+     "id": "youtube:arni3ch6yBI",
+     "url": "https://www.youtube.com/watch?v=arni3ch6yBI",
+     "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
+     "channel": "VexaForge",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T17:36:15.613Z"
+   "searched_at": "2026-11-25T17:09:59.291Z"
   },
   {
    "first_seen": "2026-11-25T01:23:34.185Z",
@@ -1610,6 +1561,110 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-24T04:14:16.937Z"
+  },
+  {
+   "first_seen": "2026-11-25T05:11:59.635Z",
+   "id": "40027092",
+   "ids": [
+    "40027092",
+    "40023165"
+   ],
+   "title": "Nvidia CEO Jensen Huang's return brings open-weight AI debate to forefront in Washington",
+   "url": "https://www.thehindu.com/sci-tech/technology/nvidia-ceo-jensen-huangs-return-brings-open-weight-ai-debate-to-forefront-in-washington/article71740982.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-25 04:18:10",
+   "story_sources": 2,
+   "score_norm": 49,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+     "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/"
+    }
+   ],
+   "queries": [
+    "Nvidia CEO Jensen Huang's",
+    "nvidia ceo jensen huang"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:hQiUMK-QDjU",
+     "url": "https://www.youtube.com/watch?v=hQiUMK-QDjU",
+     "title": "Jensen Huang reinstated as Nvidia CEO: What to know",
+     "channel": "CNN",
+     "views": 958415,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 19967
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N6y8slSJG4o",
+     "url": "https://www.youtube.com/watch?v=N6y8slSJG4o",
+     "title": "BREAKING: Nvidia reinstates Jensen Huang as CEO",
+     "channel": "Fox News",
+     "views": 654707,
+     "age_hours": 48,
+     "relevance": 0.67,
+     "velocity": 13640
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:JzBXDYLUJ8Q",
+     "url": "https://www.youtube.com/watch?v=JzBXDYLUJ8Q",
+     "title": "Trump posts ‘bizarre’ image on Jensen Huang’s return to Nvidia",
+     "channel": "CNN",
+     "views": 308178,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 12841
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7crMftaSOFA",
+     "url": "https://www.youtube.com/shorts/7crMftaSOFA",
+     "title": "Jensen Huang thanks Nvidia for the ‘second chance’",
+     "channel": "",
+     "views": 356000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5mNCHODJ_HA",
+     "url": "https://www.youtube.com/watch?v=5mNCHODJ_HA",
+     "title": "Jensen Huang reinstated as NVIDIA CEO",
+     "channel": "NBC News",
+     "views": 199749,
+     "age_hours": 24,
+     "relevance": 0.8,
+     "velocity": 8323
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GjjiD65_pJ8",
+     "url": "https://www.youtube.com/watch?v=GjjiD65_pJ8",
+     "title": "BREAKING: Jensen Huang Makes SHOCK Return as CEO of Nvidia",
+     "channel": "Megyn Kelly",
+     "views": 154457,
+     "age_hours": 24,
+     "relevance": 0.63,
+     "velocity": 6436
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-25T17:36:15.613Z"
   },
   {
    "first_seen": "2026-11-23T14:24:51.338Z",
