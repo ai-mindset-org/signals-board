@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:23:34.185Z",
+ "generated_at": "2026-11-25T02:16:55.623Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: GPT 6.2 Astra Solves",
+   "source": "youtube: Anthropic Slips Below 83 IPO Price",
    "ok": true
   },
   {
-   "source": "tiktok: GPT 6.2 Astra Solves",
+   "source": "tiktok: Anthropic Slips Below 83 IPO Price",
    "ok": true
   },
   {
-   "source": "youtube: gpt 6.2 astra solves",
+   "source": "youtube: anthropic slips below 83",
    "ok": true
   },
   {
-   "source": "tiktok: gpt 6.2 astra solves",
+   "source": "tiktok: anthropic slips below 83",
+   "ok": true
+  },
+  {
+   "source": "youtube: meta muse uk ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: meta muse uk ai",
    "ok": true
   }
  ],
@@ -902,7 +910,7 @@
    "source_id": "understanding-ai",
    "published_ts": "2026-11-24 21:43:33",
    "story_sources": 2,
-   "score_norm": 57,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "hn",
@@ -1552,24 +1560,12 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:I2XAug-Uz6M",
-     "url": "https://www.youtube.com/watch?v=I2XAug-Uz6M",
-     "title": "The Anthropic IPO Didn't Help",
-     "channel": "Big A",
-     "views": 863664,
-     "age_hours": 72,
-     "relevance": 0.5,
-     "velocity": 11995
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:AIkLDMR1T3g",
-     "url": "https://www.youtube.com/watch?v=AIkLDMR1T3g",
-     "title": "Anthropic CRASHES Below IPO Price! CEO Sold $280M in Shares!",
-     "channel": "VexaPulse",
-     "views": 20,
-     "age_hours": 6,
+     "id": "youtube:y4t-hNZWDuY",
+     "url": "https://www.youtube.com/watch?v=y4t-hNZWDuY",
+     "title": "Anthropic fell below its IPO price in 4 days. SpaceX took 21 #anthropic",
+     "channel": "TiziriTech",
+     "views": 12,
+     "age_hours": 4,
      "relevance": 0.5,
      "velocity": 3
     },
@@ -1580,8 +1576,8 @@
      "url": "https://www.youtube.com/watch?v=B0L9el_pB_4",
      "title": "Anthropic Shares Slide Below $83 IPO Price, AI Boom Faces Investor Reality Check | NewsX World",
      "channel": "NewsX World",
-     "views": 13,
-     "age_hours": 6,
+     "views": 26,
+     "age_hours": 12,
      "relevance": 0.63,
      "velocity": 2
     },
@@ -1592,29 +1588,41 @@
      "url": "https://www.youtube.com/watch?v=_dDRTgmCMGc",
      "title": "Anthropic Sinks Below Its IPO Price - TMTL News - Evening TL;DR - 2026-11-24 #Shorts",
      "channel": "TMTL",
-     "views": 0,
-     "age_hours": 0.31666666666666665,
+     "views": 6,
+     "age_hours": 6,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:o4chCvlkRYo",
-     "url": "https://www.youtube.com/watch?v=o4chCvlkRYo",
-     "title": "Anthropic Stock Briefly Slips Below Its IPO Price #Shorts",
-     "channel": "Innoworkspro",
+     "id": "youtube:yD_69bcausk",
+     "url": "https://www.youtube.com/watch?v=yD_69bcausk",
+     "title": "U.S Stocks Close Mixed as Nvidia Drops 6% & Anthropic Slips Below $83 IPO Price; Retailers Surge",
+     "channel": "NEWS9 Live",
+     "views": 1,
+     "age_hours": 0.35,
+     "relevance": 0.75,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:rjdjpnw7VZM",
+     "url": "https://www.youtube.com/watch?v=rjdjpnw7VZM",
+     "title": "Anthropic Stock: Why It Fell Below Its $83 IPO Price",
+     "channel": "TrendsNow",
      "views": 0,
-     "age_hours": 5,
-     "relevance": 0.63,
+     "age_hours": 2,
+     "relevance": 0.71,
      "velocity": null
     }
    ],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T19:49:57.737Z"
+   "searched_at": "2026-11-25T02:17:03.401Z"
   },
   {
    "first_seen": "2026-11-24T00:27:31.288Z",
@@ -1709,82 +1717,82 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KGd0X-K7i7k",
-     "url": "https://www.youtube.com/shorts/KGd0X-K7i7k",
-     "title": "Meta Muse AI Agent Showed Users Other People's Bank Balances, Meta Says It Hallucinated",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:dY0Ya5iI0lE",
+     "url": "https://www.youtube.com/watch?v=dY0Ya5iI0lE",
+     "title": "Meta Muse launches in the UK: What it means for brands",
+     "channel": "Azoma",
+     "views": 1203,
+     "age_hours": 9,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 134
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:3NalxhMSSQA",
-     "url": "https://www.youtube.com/shorts/3NalxhMSSQA",
-     "title": "Meta's AI agent Muse accessed a staffer's Signal message. She \"had never connected\" it. Via Reuters",
-     "channel": "",
-     "views": 289,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:C2-c6wf1KN8",
-     "url": "https://www.youtube.com/shorts/C2-c6wf1KN8",
-     "title": "Meta's AI Agent Muse Is Now in the UK: What It Does, Explained Like You're 5 🚨 #shorts",
-     "channel": "",
-     "views": 203,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iIiHEAC_ua4",
-     "url": "https://www.youtube.com/shorts/iIiHEAC_ua4",
-     "title": "Meta's New AI Agent Muse Launches in the UK #shorts",
-     "channel": "",
-     "views": 200,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xQratUeA-PM",
-     "url": "https://www.youtube.com/shorts/xQratUeA-PM",
-     "title": "Meta's AI agent Muse is now live in the UK #shorts",
-     "channel": "",
-     "views": 99,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
+     "kind": "видео",
      "id": "youtube:WN4K4Ms1w9Q",
-     "url": "https://www.youtube.com/shorts/WN4K4Ms1w9Q",
+     "url": "https://www.youtube.com/watch?v=WN4K4Ms1w9Q",
      "title": "Meta launches Muse AI agent to run errands in the UK",
-     "channel": "",
-     "views": 94,
-     "age_hours": null,
+     "channel": "NomicSignal",
+     "views": 107,
+     "age_hours": 14,
      "relevance": 0.63,
-     "velocity": null
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:E-AIvKAFjfc",
+     "url": "https://www.youtube.com/watch?v=E-AIvKAFjfc",
+     "title": "Meta launches its AI agent Muse in the UK for users",
+     "channel": "Max Herrera",
+     "views": 78,
+     "age_hours": 16,
+     "relevance": 0.71,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Jc1L-5o0RPM",
+     "url": "https://www.youtube.com/watch?v=Jc1L-5o0RPM",
+     "title": "Meta launches Muse AI agent in the UK for 18+",
+     "channel": "HydraLabs",
+     "views": 41,
+     "age_hours": 14,
+     "relevance": 0.71,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IgkPryAUAMo",
+     "url": "https://www.youtube.com/watch?v=IgkPryAUAMo",
+     "title": "Meta launches Muse AI agent to do your shopping",
+     "channel": "Bibop_News",
+     "views": 25,
+     "age_hours": 16,
+     "relevance": 0.71,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:GnFkdZBZKzE",
+     "url": "https://www.youtube.com/watch?v=GnFkdZBZKzE",
+     "title": "Meta: Muse: Meta's UK AI agent | Otto365 AI Brief #051",
+     "channel": "OTTO 365",
+     "views": 9,
+     "age_hours": 14,
+     "relevance": 0.63,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-24T19:50:01.251Z"
+   "searched_at": "2026-11-25T02:17:06.917Z"
   },
   {
    "first_seen": "2026-11-24T10:36:33.127Z",
