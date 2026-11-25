@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:49:37.521Z",
+ "generated_at": "2026-11-25T23:10:23.892Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Wegen ChatGPT-Abos",
+   "source": "youtube: amazon meta muse reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: Wegen ChatGPT-Abos",
-   "ok": true
-  },
-  {
-   "source": "youtube: wegen chatgpt-abos verbraucherzentrale openai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: wegen chatgpt-abos verbraucherzentrale openai",
+   "source": "tiktok: amazon meta muse reportedly",
    "ok": true
   }
  ],
@@ -524,13 +516,37 @@
     {
      "platform": "youtube",
      "kind": "видео",
+     "id": "youtube:5zsnyjp5Y2Y",
+     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
+     "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
+     "channel": "BEAMSTART",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:B_-o141t7F4",
      "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
      "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
      "channel": "Digital Bullet",
      "views": 0,
-     "age_hours": 1,
+     "age_hours": 7,
      "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sUz8XXEv1eA",
+     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
+     "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
+     "channel": "Two Bells",
+     "views": 0,
+     "age_hours": 1,
+     "relevance": 0.67,
      "velocity": null
     },
     {
@@ -541,7 +557,7 @@
      "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
      "channel": "VexaForge",
      "views": 0,
-     "age_hours": 2,
+     "age_hours": 8,
      "relevance": 0.67,
      "velocity": null
     }
@@ -550,7 +566,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T17:09:59.291Z"
+   "searched_at": "2026-11-25T23:10:28.012Z"
   },
   {
    "first_seen": "2026-11-25T01:23:34.185Z",
