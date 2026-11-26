@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:49:37.278Z",
+ "generated_at": "2026-11-26T13:11:53.519Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai chatgpt chat work",
+   "source": "youtube: amazon muse reportedly talks",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt chat work",
+   "source": "tiktok: amazon muse reportedly talks",
    "ok": true
   }
  ],
@@ -635,62 +635,6 @@
    "searched_at": "2026-11-26T09:12:43.351Z"
   },
   {
-   "first_seen": "2026-11-25T01:23:34.185Z",
-   "id": "40024536",
-   "ids": [
-    "40024536",
-    "40015003"
-   ],
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-24 16:53:59",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT 6.2 Astra Solves a Historical Mystery",
-     "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
-    }
-   ],
-   "queries": [
-    "GPT 6.2 Astra Solves",
-    "gpt 6.2 astra solves"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:KGA7B_c_S4s",
-     "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
-     "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
-     "channel": "@aiexplained-official",
-     "views": 141000,
-     "age_hours": 127.01800694444445,
-     "relevance": 0.5,
-     "velocity": 1110
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GvnlJnOG8_8",
-     "url": "https://www.youtube.com/shorts/GvnlJnOG8_8",
-     "title": "GPT Astra and Sol 6.2 for CAD and Hardware",
-     "channel": "",
-     "views": 2500,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-25T13:36:35.264Z"
-  },
-  {
    "first_seen": "2026-11-26T00:29:09.961Z",
    "id": "40042754",
    "ids": [
@@ -702,7 +646,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-25 20:03:27",
    "story_sources": 2,
-   "score_norm": 66,
+   "score_norm": 67,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -792,6 +736,62 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T12:49:41.778Z"
+  },
+  {
+   "first_seen": "2026-11-25T01:23:34.185Z",
+   "id": "40024536",
+   "ids": [
+    "40024536",
+    "40015003"
+   ],
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-24 16:53:59",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT 6.2 Astra Solves a Historical Mystery",
+     "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+    }
+   ],
+   "queries": [
+    "GPT 6.2 Astra Solves",
+    "gpt 6.2 astra solves"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:KGA7B_c_S4s",
+     "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+     "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+     "channel": "@aiexplained-official",
+     "views": 141000,
+     "age_hours": 127.01800694444445,
+     "relevance": 0.5,
+     "velocity": 1110
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GvnlJnOG8_8",
+     "url": "https://www.youtube.com/shorts/GvnlJnOG8_8",
+     "title": "GPT Astra and Sol 6.2 for CAD and Hardware",
+     "channel": "",
+     "views": 2500,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-25T13:36:35.264Z"
   },
   {
    "first_seen": "2026-11-23T20:36:05.639Z",
@@ -1818,73 +1818,73 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
+     "kind": "shorts",
      "id": "youtube:KgZvok9VOv4",
-     "url": "https://www.youtube.com/watch?v=KgZvok9VOv4",
+     "url": "https://www.youtube.com/shorts/KgZvok9VOv4",
      "title": "Amazon reportedly in talks to let Meta's Muse AI shop",
-     "channel": "Notable Byte - Tech and AI",
-     "views": 16,
-     "age_hours": 6,
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
      "relevance": 0.63,
-     "velocity": 3
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dNcBbyh0w44",
-     "url": "https://www.youtube.com/watch?v=dNcBbyh0w44",
-     "title": "Amazon and Meta Talk Over Muse Shopping Agent Block; Plus DeepMind, OpenAI, FCC",
-     "channel": "AI Shipped",
-     "views": 0,
-     "age_hours": 8,
+     "kind": "shorts",
+     "id": "youtube:EEIK4We0jT0",
+     "url": "https://www.youtube.com/shorts/EEIK4We0jT0",
+     "title": "Amazon's $68B reason to block Meta's AI shopper | #meta #muse #amazon",
+     "channel": "",
+     "views": 16,
+     "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
+     "kind": "shorts",
      "id": "youtube:5zsnyjp5Y2Y",
-     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
+     "url": "https://www.youtube.com/shorts/5zsnyjp5Y2Y",
      "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
-     "channel": "BEAMSTART",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:arni3ch6yBI",
+     "url": "https://www.youtube.com/shorts/arni3ch6yBI",
+     "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
+     "channel": "",
      "views": 2,
-     "age_hours": 10,
-     "relevance": 0.63,
-     "velocity": 0
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B_-o141t7F4",
-     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
-     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
-     "channel": "Digital Bullet",
-     "views": 1,
-     "age_hours": 15,
-     "relevance": 0.8,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
+     "kind": "shorts",
      "id": "youtube:sUz8XXEv1eA",
-     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
+     "url": "https://www.youtube.com/shorts/sUz8XXEv1eA",
      "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
-     "channel": "Two Bells",
+     "channel": "",
      "views": 1,
-     "age_hours": 8,
+     "age_hours": null,
      "relevance": 0.63,
-     "velocity": 0
+     "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:3y171nGstNA",
-     "url": "https://www.youtube.com/watch?v=3y171nGstNA",
-     "title": "Amazon and Meta in talks to end Muse block | Top 5 AI News",
-     "channel": "JunSun",
-     "views": 0,
-     "age_hours": 7,
+     "kind": "shorts",
+     "id": "youtube:WF0OOpt8KHY",
+     "url": "https://www.youtube.com/shorts/WF0OOpt8KHY",
+     "title": "Amazon and Meta in talks to end Muse block | Top 5 AI News #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
      "relevance": 0.75,
      "velocity": null
     }
@@ -1893,7 +1893,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T06:53:40.263Z"
+   "searched_at": "2026-11-26T13:11:57.523Z"
   },
   {
    "first_seen": "2026-11-24T08:15:07.564Z",
