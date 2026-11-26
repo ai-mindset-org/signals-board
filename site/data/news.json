@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:36:17.386Z",
+ "generated_at": "2026-11-26T22:10:36.782Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: apple chinese talkie pulls",
-   "ok": true
-  },
-  {
-   "source": "tiktok: apple chinese talkie pulls",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
@@ -244,7 +235,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-26 20:15:34",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 98,
    "related_news": [
     {
      "source_id": "crypto-cointelegraph",
@@ -1560,116 +1551,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T10:24:13.008Z"
-  },
-  {
-   "first_seen": "2026-11-24T04:14:02.188Z",
-   "id": "40002209",
-   "ids": [
-    "40002209",
-    "40006286",
-    "40011957"
-   ],
-   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-23 22:05:50",
-   "story_sources": 3,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Anthropic Launches Claude Ship to Fix and Approve Code",
-     "url": "https://thedefiant.io/frontier/ai/anthropic-launches-claude-ship-to-fix-and-approve-code"
-    },
-    {
-     "source_id": "eu-itpro",
-     "title": "Anthropic's new Claude Ship service hands the reins to agents to fix and review code changes",
-     "url": "https://www.itpro.com/software-engineering/anthropics-new-claude-ship-service-hands-the-reins-to-agents-to-fix-and-review-code-changes-but-the-company-warns-it-may-miss-bugs-security-vulnerabilities-or-other-issues"
-    }
-   ],
-   "queries": [
-    "Claude Ship",
-    "anthropic claude ship launches"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pZyB8vGhz-o",
-     "url": "https://www.youtube.com/watch?v=pZyB8vGhz-o",
-     "title": "Introducing Claude Ship (beta)",
-     "channel": "Chris Messina",
-     "views": 1845,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 97
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5GyV1tHPXZU",
-     "url": "https://www.youtube.com/watch?v=5GyV1tHPXZU",
-     "title": "Claude Ship : Claude Code Just Got a Powerful New Superpower",
-     "channel": "Codedigipt",
-     "views": 153,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 77
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:fblXxq9FgC0",
-     "url": "https://www.youtube.com/shorts/fblXxq9FgC0",
-     "title": "Claude Ship: Claude Can Now Approve Your Pull Requests",
-     "channel": "",
-     "views": 517,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:llJcWcF17nY",
-     "url": "https://www.youtube.com/shorts/llJcWcF17nY",
-     "title": "Claude Ship: AI Approves Your PRs",
-     "channel": "",
-     "views": 378,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:x8spi3us0y4",
-     "url": "https://www.youtube.com/shorts/x8spi3us0y4",
-     "title": "Anthropic Launches Claude Ship for Code Automation 🚀",
-     "channel": "",
-     "views": 339,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:EV3btGWYBrk",
-     "url": "https://www.youtube.com/shorts/EV3btGWYBrk",
-     "title": "Did Claude Ship Just Put AI Code Review Startups on Notice?",
-     "channel": "",
-     "views": 232,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T16:25:37.789Z"
   },
   {
    "first_seen": "2026-11-25T08:15:03.831Z",
