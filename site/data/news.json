@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T06:20:19.870Z",
+ "generated_at": "2026-11-26T06:43:38.133Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: claude windows mac can",
+   "source": "youtube: openai chatgpt chat work",
    "ok": true
   },
   {
-   "source": "tiktok: claude windows mac can",
+   "source": "tiktok: openai chatgpt chat work",
    "ok": true
   }
  ],
@@ -30,7 +30,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-25 20:03:27",
    "story_sources": 2,
-   "score_norm": 100,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -61,9 +61,33 @@
      "url": "https://www.youtube.com/shorts/VTfK7nGiliI",
      "title": "OpenAI merges ChatGPT Chat and Work, heavy users may hit limits sooner",
      "channel": "",
-     "views": 6,
+     "views": 24,
      "age_hours": null,
      "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:G4nBTCj6s80",
+     "url": "https://www.youtube.com/shorts/G4nBTCj6s80",
+     "title": "ChatGPT Merged Chat and Work — One Limit ⚠️",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vj1O49_OyWs",
+     "url": "https://www.youtube.com/shorts/vj1O49_OyWs",
+     "title": "OpenAI Merges ChatGPT Chat and Work, New Unified Usage Limits",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
      "velocity": null
     },
     {
@@ -73,7 +97,7 @@
      "url": "https://www.youtube.com/shorts/wwqWFuD9cxI",
      "title": "OpenAI Merges Chat & Work in ChatGPT",
      "channel": "",
-     "views": 1,
+     "views": 4,
      "age_hours": null,
      "relevance": 1,
      "velocity": null
@@ -81,13 +105,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:sOCsz30V8mc",
-     "url": "https://www.youtube.com/shorts/sOCsz30V8mc",
-     "title": "ChatGPT Just Merged Chat + Work — Heavy Users May Hit Limits Sooner!",
+     "id": "youtube:MOB7j2MZ3AA",
+     "url": "https://www.youtube.com/shorts/MOB7j2MZ3AA",
+     "title": "OpenAI Unifies Chat & Work: What Power Users Need to Know About Shared Limits",
      "channel": "",
-     "views": 1,
+     "views": 4,
      "age_hours": null,
-     "relevance": 0.9,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -95,7 +119,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T00:29:15.079Z"
+   "searched_at": "2026-11-26T06:43:42.440Z"
   },
   {
    "first_seen": "2026-11-24T01:12:05.503Z",
@@ -213,7 +237,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-25 14:12:33",
    "story_sources": 2,
-   "score_norm": 85,
+   "score_norm": 83,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -361,36 +385,6 @@
    "searched_at": "2026-11-25T12:50:09.432Z"
   },
   {
-   "first_seen": "2026-11-26T04:13:57.046Z",
-   "id": "40046787",
-   "ids": [
-    "40046787",
-    "40037285"
-   ],
-   "title": "Billions in data centre deals grind to halt after US AI chip curbs",
-   "url": "https://www.thehindubusinessline.com/money-and-banking/billions-in-data-centre-deals-grind-to-halt-after-us-ai-chip-curbs/article71745033.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-26 03:29:37",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
-    }
-   ],
-   "queries": [
-    "billions us data centre"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-26T04:14:01.480Z"
-  },
-  {
    "first_seen": "2026-11-25T09:25:47.512Z",
    "id": "40029995",
    "ids": [
@@ -488,6 +482,92 @@
    "searched_at": "2026-11-25T15:36:06.051Z"
   },
   {
+   "first_seen": "2026-11-26T04:13:57.046Z",
+   "id": "40046787",
+   "ids": [
+    "40046787",
+    "40037285"
+   ],
+   "title": "Billions in data centre deals grind to halt after US AI chip curbs",
+   "url": "https://www.thehindubusinessline.com/money-and-banking/billions-in-data-centre-deals-grind-to-halt-after-us-ai-chip-curbs/article71745033.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-26 03:29:37",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+    }
+   ],
+   "queries": [
+    "billions us data centre"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-26T04:14:01.480Z"
+  },
+  {
+   "first_seen": "2026-11-25T01:23:34.185Z",
+   "id": "40024536",
+   "ids": [
+    "40024536",
+    "40015003"
+   ],
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "source_id": "simonw",
+   "published_ts": "2026-11-24 16:53:59",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "GPT 6.2 Astra Solves a Historical Mystery",
+     "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+    }
+   ],
+   "queries": [
+    "GPT 6.2 Astra Solves",
+    "gpt 6.2 astra solves"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:KGA7B_c_S4s",
+     "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+     "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+     "channel": "@aiexplained-official",
+     "views": 141000,
+     "age_hours": 127.01800694444445,
+     "relevance": 0.5,
+     "velocity": 1110
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:GvnlJnOG8_8",
+     "url": "https://www.youtube.com/shorts/GvnlJnOG8_8",
+     "title": "GPT Astra and Sol 6.2 for CAD and Hardware",
+     "channel": "",
+     "views": 2500,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-25T13:36:35.264Z"
+  },
+  {
    "first_seen": "2026-11-25T17:49:43.415Z",
    "id": "40038669",
    "ids": [
@@ -500,7 +580,7 @@
    "source_id": "zdnet-ai",
    "published_ts": "2026-11-25 18:54:05",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 66,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -590,62 +670,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T06:20:24.143Z"
-  },
-  {
-   "first_seen": "2026-11-25T01:23:34.185Z",
-   "id": "40024536",
-   "ids": [
-    "40024536",
-    "40015003"
-   ],
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-24 16:53:59",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT 6.2 Astra Solves a Historical Mystery",
-     "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
-    }
-   ],
-   "queries": [
-    "GPT 6.2 Astra Solves",
-    "gpt 6.2 astra solves"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:KGA7B_c_S4s",
-     "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
-     "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
-     "channel": "@aiexplained-official",
-     "views": 141000,
-     "age_hours": 127.01800694444445,
-     "relevance": 0.5,
-     "velocity": 1110
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GvnlJnOG8_8",
-     "url": "https://www.youtube.com/shorts/GvnlJnOG8_8",
-     "title": "GPT Astra and Sol 6.2 for CAD and Hardware",
-     "channel": "",
-     "views": 2500,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-25T13:36:35.264Z"
   },
   {
    "first_seen": "2026-11-23T20:36:05.639Z",
@@ -750,73 +774,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T14:50:03.076Z"
-  },
-  {
-   "first_seen": "2026-11-25T17:09:55.295Z",
-   "id": "40035153",
-   "ids": [
-    "40035153",
-    "40037805"
-   ],
-   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-11-25 14:10:18",
-   "story_sources": 2,
-   "score_norm": 62,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
-     "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
-    }
-   ],
-   "queries": [
-    "amazon meta muse reportedly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5zsnyjp5Y2Y",
-     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
-     "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
-     "channel": "BEAMSTART",
-     "views": 2,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B_-o141t7F4",
-     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
-     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
-     "channel": "Digital Bullet",
-     "views": 1,
-     "age_hours": 13,
-     "relevance": 0.8,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sUz8XXEv1eA",
-     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
-     "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
-     "channel": "Two Bells",
-     "views": 1,
-     "age_hours": 7,
-     "relevance": 0.67,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-26T05:12:01.533Z"
   },
   {
    "first_seen": "2026-11-24T16:12:57.767Z",
@@ -927,37 +884,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T10:36:56.252Z"
-  },
-  {
-   "first_seen": "2026-11-25T22:49:37.521Z",
-   "id": "40043363",
-   "ids": [
-    "40043363",
-    "40038346"
-   ],
-   "title": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
-   "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html",
-   "source_id": "eu-golem",
-   "published_ts": "2026-11-25 16:58:06",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "eu-t3n",
-     "title": "Wegen ChatGPT-Abos: Verbraucherzentrale verklagt OpenAI",
-     "url": "https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-    }
-   ],
-   "queries": [
-    "Wegen ChatGPT-Abos",
-    "wegen chatgpt-abos verbraucherzentrale openai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-26T05:12:08.574Z"
   },
   {
    "first_seen": "2026-11-25T02:37:13.918Z",
@@ -1262,6 +1188,73 @@
    "searched_at": "2026-11-24T16:25:37.789Z"
   },
   {
+   "first_seen": "2026-11-25T17:09:55.295Z",
+   "id": "40035153",
+   "ids": [
+    "40035153",
+    "40037805"
+   ],
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-11-25 14:10:18",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
+     "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
+    }
+   ],
+   "queries": [
+    "amazon meta muse reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5zsnyjp5Y2Y",
+     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
+     "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
+     "channel": "BEAMSTART",
+     "views": 2,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:B_-o141t7F4",
+     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
+     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
+     "channel": "Digital Bullet",
+     "views": 1,
+     "age_hours": 13,
+     "relevance": 0.8,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sUz8XXEv1eA",
+     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
+     "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
+     "channel": "Two Bells",
+     "views": 1,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 0
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T05:12:01.533Z"
+  },
+  {
    "first_seen": "2026-11-25T08:15:03.831Z",
    "id": "40028831",
    "ids": [
@@ -1315,6 +1308,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T08:15:08.110Z"
+  },
+  {
+   "first_seen": "2026-11-25T22:49:37.521Z",
+   "id": "40043363",
+   "ids": [
+    "40043363",
+    "40038346"
+   ],
+   "title": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
+   "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html",
+   "source_id": "eu-golem",
+   "published_ts": "2026-11-25 16:58:06",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Wegen ChatGPT-Abos: Verbraucherzentrale verklagt OpenAI",
+     "url": "https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Wegen ChatGPT-Abos",
+    "wegen chatgpt-abos verbraucherzentrale openai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-26T05:12:08.574Z"
   },
   {
    "first_seen": "2026-11-24T23:20:02.739Z",
