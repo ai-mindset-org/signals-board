@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:35:52.933Z",
+ "generated_at": "2026-11-26T23:49:35.986Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: fcc spacex starmind 2040",
+   "source": "youtube: The Return",
    "ok": true
   },
   {
-   "source": "tiktok: fcc spacex starmind 2040",
+   "source": "tiktok: The Return",
+   "ok": true
+  },
+  {
+   "source": "youtube: 196 return ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: 196 return ai",
    "ok": true
   }
  ],
@@ -368,110 +376,6 @@
    "searched_at": "2026-11-26T18:37:17.608Z"
   },
   {
-   "first_seen": "2026-11-24T01:12:05.503Z",
-   "id": "40004429",
-   "ids": [
-    "40004429",
-    "39988956"
-   ],
-   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-   "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-23 23:40:49",
-   "story_sources": 2,
-   "score_norm": 96,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-     "url": "https://z.ai/blog/glm-5.4"
-    }
-   ],
-   "queries": [
-    "Our First Loop Transformer",
-    "glm-5.4 toward generalized coding"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:TUe-f0yf7dQ",
-     "url": "https://www.youtube.com/watch?v=TUe-f0yf7dQ",
-     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer (Nov 2026)",
-     "channel": "AI Paper Slop",
-     "views": 189,
-     "age_hours": 10,
-     "relevance": 1,
-     "velocity": 19
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:HVey00YZ5Xk",
-     "url": "https://www.youtube.com/watch?v=HVey00YZ5Xk",
-     "title": "GLM-5.4 Is Here: The First Loop Transformer, and What Early Users Say",
-     "channel": "hinter",
-     "views": 210,
-     "age_hours": 17,
-     "relevance": 0.57,
-     "velocity": 12
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:72dpz9eQ3B8",
-     "url": "https://www.youtube.com/shorts/72dpz9eQ3B8",
-     "title": "GLM-5.4: Z.ai's first Loop Transformer flagship runs 28 layers twice",
-     "channel": "",
-     "views": 275,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wCQy-z6IQ9U",
-     "url": "https://www.youtube.com/watch?v=wCQy-z6IQ9U",
-     "title": "GLM-5.4, 같은 층을 두 번 쓰는 Loop Transformer",
-     "channel": "Ki-jung Kim (akaslany)",
-     "views": 53,
-     "age_hours": 19,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GLncP1snefo",
-     "url": "https://www.youtube.com/shorts/GLncP1snefo",
-     "title": "GLM-5.4 Explained: Z.ai's First Loop Transformer Model",
-     "channel": "",
-     "views": 54,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:grSOkevpw7c",
-     "url": "https://www.youtube.com/shorts/grSOkevpw7c",
-     "title": "🚀 Z.ai Just Dropped GLM-5.4 — The First Major Loop Transformer Model (And It Codes)",
-     "channel": "",
-     "views": 53,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T07:12:47.404Z"
-  },
-  {
    "first_seen": "2026-11-26T18:49:44.018Z",
    "id": "40060718",
    "ids": [
@@ -595,17 +499,17 @@
      "url": "https://www.youtube.com/watch?v=baMoWDFwZh0",
      "title": "2026 ZKast #196 - Why AI Success is a Leadership Problem, Not a Tech Problem | Incompass at Davos",
      "channel": "Zeus Kerravala",
-     "views": 9352,
-     "age_hours": 19,
+     "views": 9515,
+     "age_hours": 24,
      "relevance": 0.67,
-     "velocity": 492
+     "velocity": 396
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T17:36:11.086Z"
+   "searched_at": "2026-11-26T23:49:43.463Z"
   },
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
