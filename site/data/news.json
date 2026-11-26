@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:11:53.519Z",
+ "generated_at": "2026-11-26T13:23:10.703Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: amazon muse reportedly talks",
-   "ok": true
-  },
-  {
-   "source": "tiktok: amazon muse reportedly talks",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
@@ -2175,37 +2166,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T17:36:15.613Z"
-  },
-  {
-   "first_seen": "2026-11-23T15:36:43.569Z",
-   "id": "39992171",
-   "ids": [
-    "39992171",
-    "39994484"
-   ],
-   "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
-   "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn",
-   "source_id": "in-yourstory",
-   "published_ts": "2026-11-23 13:16:44",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "India AI funding nearly doubles to $1.6 billion in 9M 2026: Tracxn",
-     "url": "https://www.thehindubusinessline.com/info-tech/india-ai-funding-nearly-doubles-to-16-billion-in-9m-2026-tracxn/article71734283.ece"
-    }
-   ],
-   "queries": [
-    "Jan-Sept 2026",
-    "india 1.6b jan-sept 2026"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T04:14:16.937Z"
   },
   {
    "first_seen": "2026-11-26T04:13:57.046Z",
