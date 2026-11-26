@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:49:48.306Z",
+ "generated_at": "2026-11-26T00:29:09.961Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,61 +9,101 @@
  },
  "search_report": [
   {
-   "source": "youtube: claude windows mac can",
+   "source": "youtube: openai chatgpt chat work",
    "ok": true
   },
   {
-   "source": "tiktok: claude windows mac can",
+   "source": "tiktok: openai chatgpt chat work",
+   "ok": true
+  },
+  {
+   "source": "youtube: Levent Alpöge Prove",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Levent Alpöge Prove",
+   "ok": true
+  },
+  {
+   "source": "youtube: claude levent alpöge prove",
+   "ok": true
+  },
+  {
+   "source": "tiktok: claude levent alpöge prove",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-25T18:36:12.069Z",
-   "id": "40036909",
+   "first_seen": "2026-11-26T00:29:09.961Z",
+   "id": "40042754",
    "ids": [
-    "40036909",
-    "40039514"
+    "40042754",
+    "40044683"
    ],
-   "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-   "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-   "source_id": "theverge",
-   "published_ts": "2026-11-25 14:12:33",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-25 20:03:27",
    "story_sources": 2,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "eu-the-decoder",
-     "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-     "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
+     "source_id": "x-dailyai",
+     "title": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
+     "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
     }
    ],
    "queries": [
-    "amazon muse reportedly talks"
+    "openai chatgpt chat work"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:EEIK4We0jT0",
-     "url": "https://www.youtube.com/shorts/EEIK4We0jT0",
-     "title": "Amazon's $68B reason to block Meta's AI shopper | #meta #muse #amazon",
+     "id": "youtube:KzQT9an13c0",
+     "url": "https://www.youtube.com/shorts/KzQT9an13c0",
+     "title": "ChatGPT is merging Chat and Work",
      "channel": "",
-     "views": 1,
+     "views": 1200,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.75,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:arni3ch6yBI",
-     "url": "https://www.youtube.com/shorts/arni3ch6yBI",
-     "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
+     "id": "youtube:VTfK7nGiliI",
+     "url": "https://www.youtube.com/shorts/VTfK7nGiliI",
+     "title": "OpenAI merges ChatGPT Chat and Work, heavy users may hit limits sooner",
      "channel": "",
-     "views": 0,
+     "views": 6,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wwqWFuD9cxI",
+     "url": "https://www.youtube.com/shorts/wwqWFuD9cxI",
+     "title": "OpenAI Merges Chat & Work in ChatGPT",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:sOCsz30V8mc",
+     "url": "https://www.youtube.com/shorts/sOCsz30V8mc",
+     "title": "ChatGPT Just Merged Chat + Work — Heavy Users May Hit Limits Sooner!",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.9,
      "velocity": null
     }
    ],
@@ -71,7 +111,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T18:36:16.003Z"
+   "searched_at": "2026-11-26T00:29:15.079Z"
   },
   {
    "first_seen": "2026-11-24T01:12:05.503Z",
@@ -178,100 +218,51 @@
    "searched_at": "2026-11-24T07:12:47.404Z"
   },
   {
-   "first_seen": "2026-11-25T17:49:43.415Z",
-   "id": "40038669",
+   "first_seen": "2026-11-25T18:36:12.069Z",
+   "id": "40036909",
    "ids": [
-    "40038669",
-    "40020546",
-    "40042219"
+    "40036909",
+    "40039514"
    ],
-   "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
-   "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
-   "source_id": "zdnet-ai",
-   "published_ts": "2026-11-25 18:54:05",
+   "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+   "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+   "source_id": "theverge",
+   "published_ts": "2026-11-25 14:12:33",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 83,
    "related_news": [
     {
-     "source_id": "eu-tnw",
-     "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
-     "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop"
+     "source_id": "eu-the-decoder",
+     "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+     "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/"
     }
    ],
    "queries": [
-    "claude windows mac can"
+    "amazon muse reportedly talks"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:JY6QUVtC6lU",
-     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
-     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "id": "youtube:EEIK4We0jT0",
+     "url": "https://www.youtube.com/shorts/EEIK4We0jT0",
+     "title": "Amazon's $68B reason to block Meta's AI shopper | #meta #muse #amazon",
      "channel": "",
-     "views": 1200,
+     "views": 1,
      "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:uj6usfmWNk8",
-     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
-     "title": "Claude Can Now Build Real Mac and Windows Apps",
+     "id": "youtube:arni3ch6yBI",
+     "url": "https://www.youtube.com/shorts/arni3ch6yBI",
+     "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
      "channel": "",
-     "views": 1000,
+     "views": 0,
      "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6QgCdcg9U3o",
-     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
-     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
-     "channel": "",
-     "views": 855,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:R4ut8TSs2aM",
-     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
-     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
-     "channel": "",
-     "views": 635,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WNxNDP6cbk0",
-     "url": "https://www.youtube.com/shorts/WNxNDP6cbk0",
-     "title": "Claude can now turn what it builds into Mac and Windows apps, with its own icon and window",
-     "channel": "",
-     "views": 524,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:W6UZe9rXO7c",
-     "url": "https://www.youtube.com/shorts/W6UZe9rXO7c",
-     "title": "Claude Can Now Turn a Chat Into a Real Mac App",
-     "channel": "",
-     "views": 467,
-     "age_hours": null,
-     "relevance": 0.57,
+     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -279,7 +270,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T23:49:52.603Z"
+   "searched_at": "2026-11-25T18:36:16.003Z"
   },
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
@@ -459,106 +450,100 @@
    "searched_at": "2026-11-25T15:36:06.051Z"
   },
   {
-   "first_seen": "2026-11-25T22:49:37.521Z",
-   "id": "40043363",
+   "first_seen": "2026-11-25T17:49:43.415Z",
+   "id": "40038669",
    "ids": [
-    "40043363",
-    "40038346"
+    "40038669",
+    "40020546",
+    "40042219"
    ],
-   "title": "Wegen ChatGPT-Abos: Verbraucherzentrale verklagt OpenAI",
-   "url": "https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-   "source_id": "eu-t3n",
-   "published_ts": "2026-11-25 20:59:48",
+   "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+   "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-25 18:54:05",
    "story_sources": 2,
-   "score_norm": 74,
+   "score_norm": 67,
    "related_news": [
     {
-     "source_id": "eu-golem",
-     "title": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
-     "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html"
+     "source_id": "eu-tnw",
+     "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
+     "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop"
     }
    ],
    "queries": [
-    "Wegen ChatGPT-Abos",
-    "wegen chatgpt-abos verbraucherzentrale openai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-25T22:49:45.502Z"
-  },
-  {
-   "first_seen": "2026-11-25T17:09:55.295Z",
-   "id": "40035153",
-   "ids": [
-    "40035153",
-    "40037805"
-   ],
-   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-11-25 14:10:18",
-   "story_sources": 2,
-   "score_norm": 72,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
-     "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
-    }
-   ],
-   "queries": [
-    "amazon meta muse reportedly"
+    "claude windows mac can"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5zsnyjp5Y2Y",
-     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
-     "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
-     "channel": "BEAMSTART",
-     "views": 0,
-     "age_hours": 2,
-     "relevance": 0.67,
+     "kind": "shorts",
+     "id": "youtube:JY6QUVtC6lU",
+     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
+     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B_-o141t7F4",
-     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
-     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
-     "channel": "Digital Bullet",
-     "views": 0,
-     "age_hours": 7,
-     "relevance": 0.8,
+     "kind": "shorts",
+     "id": "youtube:uj6usfmWNk8",
+     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
+     "title": "Claude Can Now Build Real Mac and Windows Apps",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sUz8XXEv1eA",
-     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
-     "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
-     "channel": "Two Bells",
-     "views": 0,
-     "age_hours": 1,
-     "relevance": 0.67,
+     "kind": "shorts",
+     "id": "youtube:6QgCdcg9U3o",
+     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
+     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
+     "channel": "",
+     "views": 855,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:arni3ch6yBI",
-     "url": "https://www.youtube.com/watch?v=arni3ch6yBI",
-     "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
-     "channel": "VexaForge",
-     "views": 0,
-     "age_hours": 8,
-     "relevance": 0.67,
+     "kind": "shorts",
+     "id": "youtube:R4ut8TSs2aM",
+     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
+     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
+     "channel": "",
+     "views": 635,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WNxNDP6cbk0",
+     "url": "https://www.youtube.com/shorts/WNxNDP6cbk0",
+     "title": "Claude can now turn what it builds into Mac and Windows apps, with its own icon and window",
+     "channel": "",
+     "views": 524,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:W6UZe9rXO7c",
+     "url": "https://www.youtube.com/shorts/W6UZe9rXO7c",
+     "title": "Claude Can Now Turn a Chat Into a Real Mac App",
+     "channel": "",
+     "views": 467,
+     "age_hours": null,
+     "relevance": 0.57,
      "velocity": null
     }
    ],
@@ -566,7 +551,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T23:10:28.012Z"
+   "searched_at": "2026-11-25T23:49:52.603Z"
   },
   {
    "first_seen": "2026-11-25T01:23:34.185Z",
@@ -837,6 +822,37 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T10:36:56.252Z"
+  },
+  {
+   "first_seen": "2026-11-25T22:49:37.521Z",
+   "id": "40043363",
+   "ids": [
+    "40043363",
+    "40038346"
+   ],
+   "title": "Wegen ChatGPT-Abos: Verbraucherzentrale verklagt OpenAI",
+   "url": "https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+   "source_id": "eu-t3n",
+   "published_ts": "2026-11-25 20:59:48",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "eu-golem",
+     "title": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
+     "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html"
+    }
+   ],
+   "queries": [
+    "Wegen ChatGPT-Abos",
+    "wegen chatgpt-abos verbraucherzentrale openai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-25T22:49:45.502Z"
   },
   {
    "first_seen": "2026-11-25T02:37:13.918Z",
@@ -1139,6 +1155,85 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T16:25:37.789Z"
+  },
+  {
+   "first_seen": "2026-11-25T17:09:55.295Z",
+   "id": "40035153",
+   "ids": [
+    "40035153",
+    "40037805"
+   ],
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-11-25 14:10:18",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
+     "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
+    }
+   ],
+   "queries": [
+    "amazon meta muse reportedly"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5zsnyjp5Y2Y",
+     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
+     "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
+     "channel": "BEAMSTART",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:B_-o141t7F4",
+     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
+     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
+     "channel": "Digital Bullet",
+     "views": 0,
+     "age_hours": 7,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sUz8XXEv1eA",
+     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
+     "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
+     "channel": "Two Bells",
+     "views": 0,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:arni3ch6yBI",
+     "url": "https://www.youtube.com/watch?v=arni3ch6yBI",
+     "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
+     "channel": "VexaForge",
+     "views": 0,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T23:10:28.012Z"
   },
   {
    "first_seen": "2026-11-25T08:15:03.831Z",
@@ -1824,6 +1919,110 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-24T02:37:01.174Z"
+  },
+  {
+   "first_seen": "2026-11-26T00:29:09.961Z",
+   "id": "40044690",
+   "ids": [
+    "40044690",
+    "40038254"
+   ],
+   "title": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
+   "url": "https://www.lesswrong.com/posts/ENdfwPYrhLrAP8znD/claude-and-levent-alpoege-prove-the-riemann-hypothesis",
+   "source_id": "lesswrong-feed",
+   "published_ts": "2026-11-25 17:30:54",
+   "story_sources": 2,
+   "score_norm": 48,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Claude and Levent Alpöge Prove the Riemann Hypothesis",
+     "url": "https://thezvi.substack.com/p/claude-and-levent-alpoge-prove-the"
+    }
+   ],
+   "queries": [
+    "Levent Alpöge Prove",
+    "claude levent alpöge prove"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2BbNv2VwBl8",
+     "url": "https://www.youtube.com/shorts/2BbNv2VwBl8",
+     "title": "Claude Proves Riemann Hypothesis?",
+     "channel": "",
+     "views": 279000,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:bKJo5-BY-QY",
+     "url": "https://www.youtube.com/shorts/bKJo5-BY-QY",
+     "title": "MATHPOCALYPSE: Riemann Hypothesis \"solved\" by Claude AI and Anthropic mathematician",
+     "channel": "",
+     "views": 191000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:tuFLvWqGaKo",
+     "url": "https://www.youtube.com/watch?v=tuFLvWqGaKo",
+     "title": "Could This ONE Line Break Claude’s Riemann Hypothesis Proof?",
+     "channel": "Lexical",
+     "views": 123356,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 5140
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:8JqJ4OyqBh4",
+     "url": "https://www.youtube.com/watch?v=8JqJ4OyqBh4",
+     "title": "Nov 24 -- Updates on the Riemann Hypothesis (Levent resurfaces!)",
+     "channel": "Alvaro Lozano-Robledo",
+     "views": 44622,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 4057
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:k9Bg2intTXU",
+     "url": "https://www.youtube.com/shorts/k9Bg2intTXU",
+     "title": "If Claude Can Prove Riemann, Why Learn Math?",
+     "channel": "",
+     "views": 80000,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "с борда",
+     "id": "youtube:xjX3jESpZqs",
+     "url": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+     "title": "Claude JUST solved the Riemann Hypothesis...",
+     "channel": "@WesRoth",
+     "views": 221000,
+     "age_hours": 113.87976944444445,
+     "relevance": 0.75,
+     "velocity": 1941
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-26T00:29:22.529Z"
   },
   {
    "first_seen": "2026-11-24T13:36:41.048Z",
