@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T14:12:42.434Z",
+ "generated_at": "2026-11-26T15:22:14.752Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: apple chinese talkie pulls",
+   "ok": true
+  },
+  {
+   "source": "tiktok: apple chinese talkie pulls",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
@@ -229,7 +238,7 @@
    "source_id": "in-techgenyz",
    "published_ts": "2026-11-26 11:21:34",
    "story_sources": 3,
-   "score_norm": 85,
+   "score_norm": 84,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -560,24 +569,12 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:8xzzO1E2cfM",
-     "url": "https://www.youtube.com/watch?v=8xzzO1E2cfM",
-     "title": "Talkie: The Chinese AI Chatbot Exposing Kids to Abuse | Misaligned",
-     "channel": "The Bureau Investigates",
-     "views": 1502,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 63
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:gMe7AGjXyuc",
-     "url": "https://www.youtube.com/shorts/gMe7AGjXyuc",
-     "title": "AI News: Apple Pulls Talkie from Its App Store, EU Fund Target and Meta Moderation",
+     "id": "youtube:9qpw2Jy26tI",
+     "url": "https://www.youtube.com/shorts/9qpw2Jy26tI",
+     "title": "Apple Pulls Talkie Worldwide | AI News 26 Nov #AINews",
      "channel": "",
-     "views": 24,
+     "views": 86,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -589,7 +586,7 @@
      "url": "https://www.youtube.com/shorts/QiGIVuuCUWI",
      "title": "Apple pulls AI companion app Talkie from App Store over child safety",
      "channel": "",
-     "views": 21,
+     "views": 47,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -597,33 +594,33 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:9qpw2Jy26tI",
-     "url": "https://www.youtube.com/shorts/9qpw2Jy26tI",
-     "title": "Apple Pulls Talkie Worldwide | AI News 26 Nov #AINews",
+     "id": "youtube:gMe7AGjXyuc",
+     "url": "https://www.youtube.com/shorts/gMe7AGjXyuc",
+     "title": "AI News: Apple Pulls Talkie from Its App Store, EU Fund Target and Meta Moderation",
      "channel": "",
-     "views": 0,
+     "views": 28,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_8YWAdqbNhw",
-     "url": "https://www.youtube.com/watch?v=_8YWAdqbNhw",
-     "title": "AI News: Apple Pulls Talkie from Its App Store, EU Fund Target and Meta Moderation",
-     "channel": "BriefReplay AI",
+     "kind": "shorts",
+     "id": "youtube:egdHUq9sxuE",
+     "url": "https://www.youtube.com/shorts/egdHUq9sxuE",
+     "title": "Apple Pulls AI Roleplay App Talkie Worldwide After TBIJ Probe Into Kids' Chats",
+     "channel": "",
      "views": 4,
-     "age_hours": 17,
+     "age_hours": null,
      "relevance": 0.5,
-     "velocity": 0
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T09:12:43.351Z"
+   "searched_at": "2026-11-26T15:22:19.553Z"
   },
   {
    "first_seen": "2026-11-26T00:29:09.961Z",
@@ -637,7 +634,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-25 20:03:27",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -2034,6 +2031,49 @@
    "searched_at": "2026-11-24T09:36:49.742Z"
   },
   {
+   "first_seen": "2026-11-26T04:13:57.046Z",
+   "id": "40046787",
+   "ids": [
+    "40046787",
+    "40037285"
+   ],
+   "title": "Billions in data centre deals grind to halt after US AI chip curbs",
+   "url": "https://www.thehindubusinessline.com/money-and-banking/billions-in-data-centre-deals-grind-to-halt-after-us-ai-chip-curbs/article71745033.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-26 03:29:37",
+   "story_sources": 2,
+   "score_norm": 50,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+    }
+   ],
+   "queries": [
+    "billions us data centre"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:LvMeCfUnE94",
+     "url": "https://www.youtube.com/watch?v=LvMeCfUnE94",
+     "title": "Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom",
+     "channel": "Bloomberg Television",
+     "views": 5367,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 224
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T10:23:42.252Z"
+  },
+  {
    "first_seen": "2026-11-25T05:11:59.635Z",
    "id": "40027092",
    "ids": [
@@ -2136,49 +2176,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T17:36:15.613Z"
-  },
-  {
-   "first_seen": "2026-11-26T04:13:57.046Z",
-   "id": "40046787",
-   "ids": [
-    "40046787",
-    "40037285"
-   ],
-   "title": "Billions in data centre deals grind to halt after US AI chip curbs",
-   "url": "https://www.thehindubusinessline.com/money-and-banking/billions-in-data-centre-deals-grind-to-halt-after-us-ai-chip-curbs/article71745033.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-26 03:29:37",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
-    }
-   ],
-   "queries": [
-    "billions us data centre"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:LvMeCfUnE94",
-     "url": "https://www.youtube.com/watch?v=LvMeCfUnE94",
-     "title": "Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom",
-     "channel": "Bloomberg Television",
-     "views": 5367,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 224
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-26T10:23:42.252Z"
   },
   {
    "first_seen": "2026-11-26T00:29:09.961Z",
