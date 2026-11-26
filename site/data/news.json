@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:14:07.841Z",
+ "generated_at": "2026-11-26T18:27:21.034Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: 42 ags character.ai state",
+   "ok": true
+  },
+  {
+   "source": "tiktok: 42 ags character.ai state",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
@@ -36,37 +45,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:8oU24UYhNpQ",
-     "url": "https://www.youtube.com/shorts/8oU24UYhNpQ",
-     "title": "42 States Want to Stop Character.AI Selling Chats #Shorts",
+     "id": "youtube:sfP4D_JYVVw",
+     "url": "https://www.youtube.com/shorts/sfP4D_JYVVw",
+     "title": "42 states want to stop Character.AI from selling 21 million private chats",
      "channel": "",
-     "views": 11,
+     "views": 17,
      "age_hours": null,
-     "relevance": 0.63,
+     "relevance": 0.56,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:pvtxGmLeDQo",
-     "url": "https://www.youtube.com/shorts/pvtxGmLeDQo",
-     "title": "Is Character.AI Selling Your Chats? Auction Dec 1 (Part 3)",
+     "id": "youtube:FojxvzMk7xs",
+     "url": "https://www.youtube.com/shorts/FojxvzMk7xs",
+     "title": "42 state AGs are trying to stop Character.AI | Daily AI Brief #10 #Shorts",
      "channel": "",
-     "views": 11,
+     "views": 16,
      "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-64NbeLBaB8",
-     "url": "https://www.youtube.com/shorts/-64NbeLBaB8",
-     "title": "Character.AI: 21 million users' chats for sale",
-     "channel": "",
-     "views": 8,
-     "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.67,
      "velocity": null
     },
     {
@@ -76,7 +73,7 @@
      "url": "https://www.youtube.com/shorts/VRKQs0MvVjA",
      "title": "AI, Nov 25: 42 state AGs fight sale of Character.AI chats, plus 5 more AI stories #Shorts",
      "channel": "",
-     "views": 2,
+     "views": 16,
      "age_hours": null,
      "relevance": 0.56,
      "velocity": null
@@ -84,33 +81,45 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:VM77X1lU3q8",
-     "url": "https://www.youtube.com/shorts/VM77X1lU3q8",
-     "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+     "id": "youtube:8oU24UYhNpQ",
+     "url": "https://www.youtube.com/shorts/8oU24UYhNpQ",
+     "title": "42 States Want to Stop Character.AI Selling Chats #Shorts",
      "channel": "",
-     "views": 0,
+     "views": 14,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.63,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Ewa-sic43uc",
-     "url": "https://www.youtube.com/watch?v=Ewa-sic43uc",
-     "title": "42 State Attorneys General Ask Court to Stop Character.AI Selling Chats",
-     "channel": "AIPopDB",
+     "kind": "shorts",
+     "id": "youtube:oknEOWvkWRE",
+     "url": "https://www.youtube.com/shorts/oknEOWvkWRE",
+     "title": "42 State AGs Fight Character.AI Sale of 21M Users' Chats #Shorts",
+     "channel": "",
      "views": 4,
-     "age_hours": 14,
+     "age_hours": null,
      "relevance": 0.67,
-     "velocity": 0
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:HXzDsOGZMuQ",
+     "url": "https://www.youtube.com/shorts/HXzDsOGZMuQ",
+     "title": "42 States Fight Character.AI's Auction of Users' Private Chats",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T12:16:30.291Z"
+   "searched_at": "2026-11-26T18:27:25.368Z"
   },
   {
    "first_seen": "2026-11-26T11:10:42.724Z",
