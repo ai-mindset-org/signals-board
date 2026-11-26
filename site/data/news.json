@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:12:39.185Z",
+ "generated_at": "2026-11-26T09:49:53.278Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: apple chinese talkie pulls",
+   "source": "youtube: Tom Blomfield",
    "ok": true
   },
   {
-   "source": "tiktok: apple chinese talkie pulls",
+   "source": "tiktok: Tom Blomfield",
+   "ok": true
+  },
+  {
+   "source": "youtube: monzo tom blomfield anthropic",
+   "ok": true
+  },
+  {
+   "source": "tiktok: monzo tom blomfield anthropic",
    "ok": true
   }
  ],
@@ -225,7 +233,7 @@
    "source_id": "techcrunch",
    "published_ts": "2026-11-25 20:03:27",
    "story_sources": 2,
-   "score_norm": 94,
+   "score_norm": 95,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -328,7 +336,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-25 14:12:33",
    "story_sources": 2,
-   "score_norm": 81,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -595,6 +603,37 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T15:36:06.051Z"
+  },
+  {
+   "first_seen": "2026-11-26T09:49:53.278Z",
+   "id": "40051258",
+   "ids": [
+    "40051258",
+    "40032277"
+   ],
+   "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
+   "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
+   "source_id": "eu-sifted",
+   "published_ts": "2026-11-26 05:00:18",
+   "story_sources": 2,
+   "score_norm": 75,
+   "related_news": [
+    {
+     "source_id": "eu-tech-eu",
+     "title": "Tom Blomfield has left Anthropic after less than six months",
+     "url": "https://tech.eu/2026/11/25/tom-blomfield-leaves-anthropic-after-less-than-six-months/"
+    }
+   ],
+   "queries": [
+    "Tom Blomfield",
+    "monzo tom blomfield anthropic"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-26T09:50:00.534Z"
   },
   {
    "first_seen": "2026-11-26T04:13:57.046Z",
