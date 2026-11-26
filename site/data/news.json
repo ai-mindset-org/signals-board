@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:20:28.771Z",
+ "generated_at": "2026-11-26T17:36:03.352Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: fcc spacex starmind 2040",
+   "source": "youtube: The Return",
    "ok": true
   },
   {
-   "source": "tiktok: fcc spacex starmind 2040",
+   "source": "tiktok: The Return",
+   "ok": true
+  },
+  {
+   "source": "youtube: 196 return ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: 196 return ai",
    "ok": true
   }
  ],
@@ -548,6 +556,50 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T15:36:06.051Z"
+  },
+  {
+   "first_seen": "2026-11-26T17:36:03.352Z",
+   "id": "40059455",
+   "ids": [
+    "40059455",
+    "40058863"
+   ],
+   "title": "AI #196: The Return",
+   "url": "https://thezvi.substack.com/p/ai-196-the-return",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-11-26 15:01:21",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "AI #196: The Return",
+     "url": "https://www.lesswrong.com/posts/MaGJRAwTKshpHxqpK/ai-196-the-return"
+    }
+   ],
+   "queries": [
+    "The Return",
+    "196 return ai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:baMoWDFwZh0",
+     "url": "https://www.youtube.com/watch?v=baMoWDFwZh0",
+     "title": "2026 ZKast #196 - Why AI Success is a Leadership Problem, Not a Tech Problem | Incompass at Davos",
+     "channel": "Zeus Kerravala",
+     "views": 9352,
+     "age_hours": 19,
+     "relevance": 0.67,
+     "velocity": 492
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T17:36:11.086Z"
   },
   {
    "first_seen": "2026-11-26T16:36:54.724Z",
@@ -1359,6 +1411,109 @@
    "searched_at": "2026-11-25T08:15:08.110Z"
   },
   {
+   "first_seen": "2026-11-26T00:29:09.961Z",
+   "id": "40042754",
+   "ids": [
+    "40042754",
+    "40044683"
+   ],
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-25 20:03:27",
+   "story_sources": 2,
+   "score_norm": 59,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
+     "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
+    }
+   ],
+   "queries": [
+    "openai chatgpt chat work"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VTfK7nGiliI",
+     "url": "https://www.youtube.com/shorts/VTfK7nGiliI",
+     "title": "OpenAI merges ChatGPT Chat and Work, heavy users may hit limits sooner",
+     "channel": "",
+     "views": 40,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vj1O49_OyWs",
+     "url": "https://www.youtube.com/shorts/vj1O49_OyWs",
+     "title": "OpenAI Merges ChatGPT Chat and Work, New Unified Usage Limits",
+     "channel": "",
+     "views": 28,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:G4nBTCj6s80",
+     "url": "https://www.youtube.com/shorts/G4nBTCj6s80",
+     "title": "ChatGPT Merged Chat and Work — One Limit ⚠️",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Vlmoy0am6nY",
+     "url": "https://www.youtube.com/shorts/Vlmoy0am6nY",
+     "title": "ChatGPT Limits Just Changed! Chat + Work Share ONE Limit! 🤯",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:F0U-sfhMAUo",
+     "url": "https://www.youtube.com/shorts/F0U-sfhMAUo",
+     "title": "ChatGPT Merges Chat and Work, Limits May Bite",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wwqWFuD9cxI",
+     "url": "https://www.youtube.com/shorts/wwqWFuD9cxI",
+     "title": "OpenAI Merges Chat & Work in ChatGPT",
+     "channel": "",
+     "views": 5,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T12:49:41.778Z"
+  },
+  {
    "first_seen": "2026-11-25T22:49:37.521Z",
    "id": "40043363",
    "ids": [
@@ -1573,109 +1728,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T11:36:34.168Z"
-  },
-  {
-   "first_seen": "2026-11-26T00:29:09.961Z",
-   "id": "40042754",
-   "ids": [
-    "40042754",
-    "40044683"
-   ],
-   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-25 20:03:27",
-   "story_sources": 2,
-   "score_norm": 58,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
-     "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
-    }
-   ],
-   "queries": [
-    "openai chatgpt chat work"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VTfK7nGiliI",
-     "url": "https://www.youtube.com/shorts/VTfK7nGiliI",
-     "title": "OpenAI merges ChatGPT Chat and Work, heavy users may hit limits sooner",
-     "channel": "",
-     "views": 40,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:vj1O49_OyWs",
-     "url": "https://www.youtube.com/shorts/vj1O49_OyWs",
-     "title": "OpenAI Merges ChatGPT Chat and Work, New Unified Usage Limits",
-     "channel": "",
-     "views": 28,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:G4nBTCj6s80",
-     "url": "https://www.youtube.com/shorts/G4nBTCj6s80",
-     "title": "ChatGPT Merged Chat and Work — One Limit ⚠️",
-     "channel": "",
-     "views": 20,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Vlmoy0am6nY",
-     "url": "https://www.youtube.com/shorts/Vlmoy0am6nY",
-     "title": "ChatGPT Limits Just Changed! Chat + Work Share ONE Limit! 🤯",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:F0U-sfhMAUo",
-     "url": "https://www.youtube.com/shorts/F0U-sfhMAUo",
-     "title": "ChatGPT Merges Chat and Work, Limits May Bite",
-     "channel": "",
-     "views": 6,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wwqWFuD9cxI",
-     "url": "https://www.youtube.com/shorts/wwqWFuD9cxI",
-     "title": "OpenAI Merges Chat & Work in ChatGPT",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-26T12:49:41.778Z"
   },
   {
    "first_seen": "2026-11-25T18:36:12.069Z",
