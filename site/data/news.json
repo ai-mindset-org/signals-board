@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T04:13:57.046Z",
+ "generated_at": "2026-11-26T05:11:57.550Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: billions us data centre",
+   "source": "youtube: amazon meta muse reportedly",
    "ok": true
   },
   {
-   "source": "tiktok: billions us data centre",
+   "source": "tiktok: amazon meta muse reportedly",
+   "ok": true
+  },
+  {
+   "source": "youtube: Wegen ChatGPT-Abos",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Wegen ChatGPT-Abos",
+   "ok": true
+  },
+  {
+   "source": "youtube: wegen chatgpt-abos verbraucherzentrale openai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: wegen chatgpt-abos verbraucherzentrale openai",
    "ok": true
   }
  ],
@@ -281,36 +297,6 @@
    "searched_at": "2026-11-26T00:49:25.648Z"
   },
   {
-   "first_seen": "2026-11-26T04:13:57.046Z",
-   "id": "40046787",
-   "ids": [
-    "40046787",
-    "40037285"
-   ],
-   "title": "Billions in data centre deals grind to halt after US AI chip curbs",
-   "url": "https://www.thehindubusinessline.com/money-and-banking/billions-in-data-centre-deals-grind-to-halt-after-us-ai-chip-curbs/article71745033.ece",
-   "source_id": "in-businessline",
-   "published_ts": "2026-11-26 03:29:37",
-   "story_sources": 2,
-   "score_norm": 79,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
-    }
-   ],
-   "queries": [
-    "billions us data centre"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-26T04:14:01.480Z"
-  },
-  {
    "first_seen": "2026-11-24T18:13:58.347Z",
    "id": "40017962",
    "ids": [
@@ -389,6 +375,36 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T12:50:09.432Z"
+  },
+  {
+   "first_seen": "2026-11-26T04:13:57.046Z",
+   "id": "40046787",
+   "ids": [
+    "40046787",
+    "40037285"
+   ],
+   "title": "Billions in data centre deals grind to halt after US AI chip curbs",
+   "url": "https://www.thehindubusinessline.com/money-and-banking/billions-in-data-centre-deals-grind-to-halt-after-us-ai-chip-curbs/article71745033.ece",
+   "source_id": "in-businessline",
+   "published_ts": "2026-11-26 03:29:37",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Billions in Data Center Deals Grind to Halt After AI Chip Curbs",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs"
+    }
+   ],
+   "queries": [
+    "billions us data centre"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-26T04:14:01.480Z"
   },
   {
    "first_seen": "2026-11-25T09:25:47.512Z",
@@ -890,7 +906,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-25T22:49:45.502Z"
+   "searched_at": "2026-11-26T05:12:08.574Z"
   },
   {
    "first_seen": "2026-11-25T17:09:55.295Z",
@@ -923,10 +939,10 @@
      "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
      "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
      "channel": "BEAMSTART",
-     "views": 0,
-     "age_hours": 2,
+     "views": 2,
+     "age_hours": 8,
      "relevance": 0.67,
-     "velocity": null
+     "velocity": 0
     },
     {
      "platform": "youtube",
@@ -935,10 +951,10 @@
      "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
      "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
      "channel": "Digital Bullet",
-     "views": 0,
-     "age_hours": 7,
+     "views": 1,
+     "age_hours": 13,
      "relevance": 0.8,
-     "velocity": null
+     "velocity": 0
     },
     {
      "platform": "youtube",
@@ -947,29 +963,17 @@
      "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
      "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
      "channel": "Two Bells",
-     "views": 0,
-     "age_hours": 1,
+     "views": 1,
+     "age_hours": 7,
      "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:arni3ch6yBI",
-     "url": "https://www.youtube.com/watch?v=arni3ch6yBI",
-     "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
-     "channel": "VexaForge",
-     "views": 0,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": null
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T23:10:28.012Z"
+   "searched_at": "2026-11-26T05:12:01.533Z"
   },
   {
    "first_seen": "2026-11-25T02:37:13.918Z",
