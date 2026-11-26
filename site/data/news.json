@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:16:26.142Z",
+ "generated_at": "2026-11-26T12:39:56.078Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,59 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: 42 ags character.ai state",
+   "source": "youtube: claude windows mac can",
    "ok": true
   },
   {
-   "source": "tiktok: 42 ags character.ai state",
-   "ok": true
-  },
-  {
-   "source": "youtube: FCC Approves 1 Million",
-   "ok": true
-  },
-  {
-   "source": "tiktok: FCC Approves 1 Million",
-   "ok": true
-  },
-  {
-   "source": "youtube: spacex starmind fcc approves",
-   "ok": true
-  },
-  {
-   "source": "tiktok: spacex starmind fcc approves",
-   "ok": true
-  },
-  {
-   "source": "youtube: Adoption Into Competitive Advantage",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Adoption Into Competitive Advantage",
-   "ok": true
-  },
-  {
-   "source": "youtube: cio100 opens diani call",
-   "ok": true
-  },
-  {
-   "source": "tiktok: cio100 opens diani call",
-   "ok": true
-  },
-  {
-   "source": "youtube: Turns Its Charging Case Into",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Turns Its Charging Case Into",
-   "ok": true
-  },
-  {
-   "source": "youtube: nothing ear turns charging",
-   "ok": true
-  },
-  {
-   "source": "tiktok: nothing ear turns charging",
+   "source": "tiktok: claude windows mac can",
    "ok": true
   }
  ],
@@ -603,7 +555,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-26 08:00:42",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -1852,7 +1804,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-25 14:12:33",
    "story_sources": 2,
-   "score_norm": 57,
+   "score_norm": 58,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -2892,7 +2844,7 @@
      "url": "https://www.youtube.com/shorts/U5ADwdhBAig",
      "title": "Claude apps turn anything you build in chat into real desktop software. Free on Mac and Windows.",
      "channel": "",
-     "views": 1600,
+     "views": 3500,
      "age_hours": null,
      "relevance": 0.63,
      "velocity": null
@@ -2900,37 +2852,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:JY6QUVtC6lU",
-     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
-     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "id": "youtube:TpuD-z9QRlw",
+     "url": "https://www.youtube.com/shorts/TpuD-z9QRlw",
+     "title": "Claude can now build apps you install on your Mac",
      "channel": "",
-     "views": 1300,
+     "views": 1500,
      "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jWfzOlmTVIE",
-     "url": "https://www.youtube.com/shorts/jWfzOlmTVIE",
-     "title": "Build Mac and Windows Apps in Claude With No Code",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uj6usfmWNk8",
-     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
-     "title": "Claude Can Now Build Real Mac and Windows Apps",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.71,
+     "relevance": 0.67,
      "velocity": null
     },
     {
@@ -2940,7 +2868,7 @@
      "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
      "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
      "channel": "",
-     "views": 876,
+     "views": 882,
      "age_hours": null,
      "relevance": 0.57,
      "velocity": null
@@ -2948,21 +2876,45 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:R4ut8TSs2aM",
-     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
-     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
+     "id": "youtube:pzIncOCu8EA",
+     "url": "https://www.youtube.com/shorts/pzIncOCu8EA",
+     "title": "How to Install Claude Code (Windows + Mac) in 1 Command",
      "channel": "",
-     "views": 673,
+     "views": 491,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.5,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WR7avQAPk1I",
+     "url": "https://www.youtube.com/shorts/WR7avQAPk1I",
+     "title": "Claude Can Now Turn Your Idea Into a Real Mac or Windows App",
+     "channel": "",
+     "views": 281,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:VnBO7qjZAJA",
+     "url": "https://www.youtube.com/watch?v=VnBO7qjZAJA",
+     "title": "How to Use Claude Artifacts as Real Apps on Mac & Windows (New)",
+     "channel": "AIVZA",
+     "views": 122,
+     "age_hours": 24,
+     "relevance": 0.71,
+     "velocity": 5
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T06:20:24.143Z"
+   "searched_at": "2026-11-26T12:40:00.184Z"
   },
   {
    "first_seen": "2026-11-24T19:49:50.077Z",
