@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:10:36.782Z",
+ "generated_at": "2026-11-26T23:35:52.933Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: fcc spacex starmind 2040",
+   "ok": true
+  },
+  {
+   "source": "tiktok: fcc spacex starmind 2040",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
@@ -151,10 +160,10 @@
      "url": "https://www.youtube.com/watch?v=gBLJYK-js9E",
      "title": "SpaceX Wins Conditional FCC Approval For 1 Million Orbital Compute Satellites",
      "channel": "AIM Network",
-     "views": 1627,
-     "age_hours": 5,
+     "views": 2313,
+     "age_hours": 11,
      "relevance": 0.56,
-     "velocity": 325
+     "velocity": 210
     },
     {
      "platform": "youtube",
@@ -163,7 +172,7 @@
      "url": "https://www.youtube.com/shorts/NT0pbeGZ7KU",
      "title": "FCC Approves SpaceX Starmind: 1 Million Data Center Satellites in Space! 🚀",
      "channel": "",
-     "views": 2000,
+     "views": 2200,
      "age_hours": null,
      "relevance": 0.67,
      "velocity": null
@@ -171,37 +180,25 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:jWIi7GY2lX0",
-     "url": "https://www.youtube.com/shorts/jWIi7GY2lX0",
-     "title": "FCC Approves 1 Million SpaceX Satellites. On a Deadline",
+     "id": "youtube:5UYuIWncUr8",
+     "url": "https://www.youtube.com/shorts/5UYuIWncUr8",
+     "title": "SpaceX Wins FCC Approval for 1M AI Satellites",
      "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:OOsA-vauYNQ",
-     "url": "https://www.youtube.com/shorts/OOsA-vauYNQ",
-     "title": "SpaceX just got approval for data centers in space",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:UOhOqP1tf1A",
-     "url": "https://www.youtube.com/shorts/UOhOqP1tf1A",
-     "title": "SpaceX Gets OK for 1 Million Data Centers in Space",
-     "channel": "",
-     "views": 1000,
+     "views": 403,
      "age_hours": null,
      "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iykWDAC4Fcc",
+     "url": "https://www.youtube.com/shorts/iykWDAC4Fcc",
+     "title": "SpaceX Starmind: FCC Approves 1 Million Satellites",
+     "channel": "",
+     "views": 322,
+     "age_hours": null,
+     "relevance": 0.83,
      "velocity": null
     },
     {
@@ -211,17 +208,29 @@
      "url": "https://www.youtube.com/watch?v=XNwUObU_95A",
      "title": "SpaceX Starmind Approved: FCC Authorizes 1 Million Orbital Data Center Satellites 🚀",
      "channel": "Electrickaos",
-     "views": 133,
-     "age_hours": 21,
+     "views": 144,
+     "age_hours": 24,
      "relevance": 0.7,
      "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2DW-O3rbdW0",
+     "url": "https://www.youtube.com/shorts/2DW-O3rbdW0",
+     "title": "FCC Approves SpaceX Starmind: Up to 1 Million AI Satellites 🛰️⚡🌍 #Shorts",
+     "channel": "",
+     "views": 125,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T17:20:34.661Z"
+   "searched_at": "2026-11-26T23:35:57.574Z"
   },
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -235,7 +244,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-26 20:15:34",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "crypto-cointelegraph",
@@ -327,7 +336,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-26 17:57:18",
    "story_sources": 2,
-   "score_norm": 98,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -474,7 +483,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-26 17:28:56",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 86,
    "related_news": [
     {
      "source_id": "eu-tnw",
