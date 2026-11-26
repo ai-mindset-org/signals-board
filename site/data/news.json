@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:11:33.902Z",
+ "generated_at": "2026-11-26T20:36:25.699Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,8 +7,117 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Scott Aaronson",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Scott Aaronson",
+   "ok": true
+  },
+  {
+   "source": "youtube: scott aaronson ai labs",
+   "ok": true
+  },
+  {
+   "source": "tiktok: scott aaronson ai labs",
+   "ok": true
+  }
+ ],
  "stories": [
+  {
+   "first_seen": "2026-11-26T20:36:25.699Z",
+   "id": "40062272",
+   "ids": [
+    "40062272",
+    "40046761"
+   ],
+   "title": "Scott Aaronson says AI labs are sitting on cryptography ‘bombshells’",
+   "url": "https://thenextweb.com/news/scott-aaronson-ai-labs-cryptography-rsa-rumours",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-26 20:15:34",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "crypto-cointelegraph",
+     "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+     "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "queries": [
+    "Scott Aaronson",
+    "scott aaronson ai labs"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Z1rmYAXyXkk",
+     "url": "https://www.youtube.com/shorts/Z1rmYAXyXkk",
+     "title": "Scott Aaronson on AI encryption rumors",
+     "channel": "",
+     "views": 731,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:syDqonVWwHI",
+     "url": "https://www.youtube.com/watch?v=syDqonVWwHI",
+     "title": "The Daily Pill, November 26, 2026: Scott Aaronson is \"virtually certain\" the AI labs are sitting ...",
+     "channel": "Parzival of Algorithmic Progress",
+     "views": 39,
+     "age_hours": 9,
+     "relevance": 0.71,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:UdpofF6Bejg",
+     "url": "https://www.youtube.com/shorts/UdpofF6Bejg",
+     "title": "AI Labs Hold Undisclosed Cryptographic Breakthroughs, Scott Aaronson Warns",
+     "channel": "",
+     "views": 42,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VmmDCl2H1GA",
+     "url": "https://www.youtube.com/shorts/VmmDCl2H1GA",
+     "title": "Scott Aaronson Says AI Labs Have Cryptography \"Bombshells.\" Nobody Has Shown One Yet",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XJLztXRYQ6s",
+     "url": "https://www.youtube.com/shorts/XJLztXRYQ6s",
+     "title": "AI Labs Are SITTING on a Crypto Bombshell, Says Scott Aaronson",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T20:36:33.524Z"
+  },
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
    "id": "40053257",
@@ -235,7 +344,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-26 17:57:18",
    "story_sources": 2,
-   "score_norm": 99,
+   "score_norm": 98,
    "related_news": [
     {
      "source_id": "eu-tnw",
