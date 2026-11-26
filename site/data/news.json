@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:12:27.010Z",
+ "generated_at": "2026-11-26T16:36:54.724Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: 42 character.ai attorneys general",
+   "ok": true
+  },
+  {
+   "source": "tiktok: 42 character.ai attorneys general",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T11:10:42.724Z",
@@ -454,7 +463,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-26 09:54:40",
    "story_sources": 2,
-   "score_norm": 71,
+   "score_norm": 72,
    "related_news": [
     {
      "source_id": "engadget",
@@ -1195,6 +1204,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T16:25:37.789Z"
+  },
+  {
+   "first_seen": "2026-11-26T16:36:54.724Z",
+   "id": "40058044",
+   "ids": [
+    "40058044",
+    "40038807"
+   ],
+   "title": "42 attorneys general fight Character.AI’s plan to auction users’ chats",
+   "url": "https://thenextweb.com/news/character-ai-chats-auction-attorneys-general-bankruptcy",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-26 16:12:38",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "x-techcrunch",
+     "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+     "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    }
+   ],
+   "queries": [
+    "42 character.ai attorneys general"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:3k9gcWDfQvc",
+     "url": "https://www.youtube.com/shorts/3k9gcWDfQvc",
+     "title": "42 state attorneys general oppose Character.ai data sale",
+     "channel": "",
+     "views": 27,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:ivDo4AIDB38",
+     "url": "https://www.youtube.com/shorts/ivDo4AIDB38",
+     "title": "Character.AI Is Auctioning Off Your Chats",
+     "channel": "",
+     "views": 12,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:AvFI9KF2afQ",
+     "url": "https://www.youtube.com/shorts/AvFI9KF2afQ",
+     "title": "State AGs fight Character.AI's plan to auction user chats #Shorts",
+     "channel": "",
+     "views": 9,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MrLvaFUZl5Q",
+     "url": "https://www.youtube.com/shorts/MrLvaFUZl5Q",
+     "title": "42 State Attorneys General Move to Block Character AI's Sale of Users' Private Chats",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uaX1y7B_a14",
+     "url": "https://www.youtube.com/shorts/uaX1y7B_a14",
+     "title": "Character.AI: 42 States Fight Sale of 21M Private Chats",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:saRxUMIFMdQ",
+     "url": "https://www.youtube.com/shorts/saRxUMIFMdQ",
+     "title": "Character.AI Wants to Auction 21M Users' Private Chats 🚨💬",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T16:36:58.681Z"
   },
   {
    "first_seen": "2026-11-25T08:15:03.831Z",
