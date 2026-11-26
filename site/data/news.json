@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:29:09.961Z",
+ "generated_at": "2026-11-26T00:49:20.921Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai chatgpt chat work",
+   "source": "youtube: amazon muse reportedly talks",
    "ok": true
   },
   {
-   "source": "tiktok: openai chatgpt chat work",
-   "ok": true
-  },
-  {
-   "source": "youtube: Levent Alpöge Prove",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Levent Alpöge Prove",
-   "ok": true
-  },
-  {
-   "source": "youtube: claude levent alpöge prove",
-   "ok": true
-  },
-  {
-   "source": "tiktok: claude levent alpöge prove",
+   "source": "tiktok: amazon muse reportedly talks",
    "ok": true
   }
  ],
@@ -243,26 +227,50 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:EEIK4We0jT0",
-     "url": "https://www.youtube.com/shorts/EEIK4We0jT0",
-     "title": "Amazon's $68B reason to block Meta's AI shopper | #meta #muse #amazon",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
+     "kind": "видео",
+     "id": "youtube:dNcBbyh0w44",
+     "url": "https://www.youtube.com/watch?v=dNcBbyh0w44",
+     "title": "Amazon and Meta Talk Over Muse Shopping Agent Block; Plus DeepMind, OpenAI, FCC",
+     "channel": "AI Shipped",
+     "views": 0,
+     "age_hours": 2,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:arni3ch6yBI",
-     "url": "https://www.youtube.com/shorts/arni3ch6yBI",
-     "title": "Amazon May Let Meta's Muse AI Shop Again — Talks to Lift the Ban",
-     "channel": "",
+     "kind": "видео",
+     "id": "youtube:5zsnyjp5Y2Y",
+     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
+     "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
+     "channel": "BEAMSTART",
      "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
+     "age_hours": 4,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:B_-o141t7F4",
+     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
+     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
+     "channel": "Digital Bullet",
+     "views": 1,
+     "age_hours": 9,
+     "relevance": 0.8,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sUz8XXEv1eA",
+     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
+     "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
+     "channel": "Two Bells",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.63,
      "velocity": null
     }
    ],
@@ -270,7 +278,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-25T18:36:16.003Z"
+   "searched_at": "2026-11-26T00:49:25.648Z"
   },
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
