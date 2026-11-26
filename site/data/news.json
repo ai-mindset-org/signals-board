@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T06:53:36.237Z",
+ "generated_at": "2026-11-26T09:12:39.185Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,83 +9,71 @@
  },
  "search_report": [
   {
-   "source": "youtube: amazon muse reportedly talks",
+   "source": "youtube: apple chinese talkie pulls",
    "ok": true
   },
   {
-   "source": "tiktok: amazon muse reportedly talks",
+   "source": "tiktok: apple chinese talkie pulls",
    "ok": true
   }
  ],
  "stories": [
   {
-   "first_seen": "2026-11-26T00:29:09.961Z",
-   "id": "40042754",
+   "first_seen": "2026-11-26T09:12:39.185Z",
+   "id": "40050663",
    "ids": [
-    "40042754",
-    "40044683"
+    "40050663",
+    "40048587"
    ],
-   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-25 20:03:27",
+   "title": "Apple pulls Chinese AI chatbot Talkie over child safety",
+   "url": "https://www.techinasia.com/news/apple-pulls-chinese-ai-chatbot-talkie-child-safety",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-26 08:00:42",
    "story_sources": 2,
-   "score_norm": 97,
+   "score_norm": 100,
    "related_news": [
     {
-     "source_id": "x-dailyai",
-     "title": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
-     "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
+     "source_id": "in-express-tech",
+     "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-10979117/"
     }
    ],
    "queries": [
-    "openai chatgpt chat work"
+    "apple chinese talkie pulls"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:KzQT9an13c0",
-     "url": "https://www.youtube.com/shorts/KzQT9an13c0",
-     "title": "ChatGPT is merging Chat and Work",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
+     "kind": "видео",
+     "id": "youtube:8xzzO1E2cfM",
+     "url": "https://www.youtube.com/watch?v=8xzzO1E2cfM",
+     "title": "Talkie: The Chinese AI Chatbot Exposing Kids to Abuse | Misaligned",
+     "channel": "The Bureau Investigates",
+     "views": 1502,
+     "age_hours": 24,
+     "relevance": 0.5,
+     "velocity": 63
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:VTfK7nGiliI",
-     "url": "https://www.youtube.com/shorts/VTfK7nGiliI",
-     "title": "OpenAI merges ChatGPT Chat and Work, heavy users may hit limits sooner",
+     "id": "youtube:gMe7AGjXyuc",
+     "url": "https://www.youtube.com/shorts/gMe7AGjXyuc",
+     "title": "AI News: Apple Pulls Talkie from Its App Store, EU Fund Target and Meta Moderation",
      "channel": "",
      "views": 24,
      "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:G4nBTCj6s80",
-     "url": "https://www.youtube.com/shorts/G4nBTCj6s80",
-     "title": "ChatGPT Merged Chat and Work — One Limit ⚠️",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:vj1O49_OyWs",
-     "url": "https://www.youtube.com/shorts/vj1O49_OyWs",
-     "title": "OpenAI Merges ChatGPT Chat and Work, New Unified Usage Limits",
+     "id": "youtube:QiGIVuuCUWI",
+     "url": "https://www.youtube.com/shorts/QiGIVuuCUWI",
+     "title": "Apple pulls AI companion app Talkie from App Store over child safety",
      "channel": "",
-     "views": 8,
+     "views": 21,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -93,33 +81,33 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:wwqWFuD9cxI",
-     "url": "https://www.youtube.com/shorts/wwqWFuD9cxI",
-     "title": "OpenAI Merges Chat & Work in ChatGPT",
+     "id": "youtube:9qpw2Jy26tI",
+     "url": "https://www.youtube.com/shorts/9qpw2Jy26tI",
+     "title": "Apple Pulls Talkie Worldwide | AI News 26 Nov #AINews",
      "channel": "",
-     "views": 4,
+     "views": 0,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MOB7j2MZ3AA",
-     "url": "https://www.youtube.com/shorts/MOB7j2MZ3AA",
-     "title": "OpenAI Unifies Chat & Work: What Power Users Need to Know About Shared Limits",
-     "channel": "",
+     "kind": "видео",
+     "id": "youtube:_8YWAdqbNhw",
+     "url": "https://www.youtube.com/watch?v=_8YWAdqbNhw",
+     "title": "AI News: Apple Pulls Talkie from Its App Store, EU Fund Target and Meta Moderation",
+     "channel": "BriefReplay AI",
      "views": 4,
-     "age_hours": null,
+     "age_hours": 17,
      "relevance": 0.5,
-     "velocity": null
+     "velocity": 0
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T06:43:42.440Z"
+   "searched_at": "2026-11-26T09:12:43.351Z"
   },
   {
    "first_seen": "2026-11-24T01:12:05.503Z",
@@ -226,6 +214,109 @@
    "searched_at": "2026-11-24T07:12:47.404Z"
   },
   {
+   "first_seen": "2026-11-26T00:29:09.961Z",
+   "id": "40042754",
+   "ids": [
+    "40042754",
+    "40044683"
+   ],
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source_id": "techcrunch",
+   "published_ts": "2026-11-25 20:03:27",
+   "story_sources": 2,
+   "score_norm": 94,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "OpenAI merges Chat and Work tabs — heavy users may hit limits sooner",
+     "url": "https://dailyai.com/2026/11/openai-merges-chatgpts-chat-and-work-tabs-and-heavy-users-may-hit-limits-sooner/"
+    }
+   ],
+   "queries": [
+    "openai chatgpt chat work"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:KzQT9an13c0",
+     "url": "https://www.youtube.com/shorts/KzQT9an13c0",
+     "title": "ChatGPT is merging Chat and Work",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VTfK7nGiliI",
+     "url": "https://www.youtube.com/shorts/VTfK7nGiliI",
+     "title": "OpenAI merges ChatGPT Chat and Work, heavy users may hit limits sooner",
+     "channel": "",
+     "views": 24,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:G4nBTCj6s80",
+     "url": "https://www.youtube.com/shorts/G4nBTCj6s80",
+     "title": "ChatGPT Merged Chat and Work — One Limit ⚠️",
+     "channel": "",
+     "views": 10,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:vj1O49_OyWs",
+     "url": "https://www.youtube.com/shorts/vj1O49_OyWs",
+     "title": "OpenAI Merges ChatGPT Chat and Work, New Unified Usage Limits",
+     "channel": "",
+     "views": 8,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wwqWFuD9cxI",
+     "url": "https://www.youtube.com/shorts/wwqWFuD9cxI",
+     "title": "OpenAI Merges Chat & Work in ChatGPT",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:MOB7j2MZ3AA",
+     "url": "https://www.youtube.com/shorts/MOB7j2MZ3AA",
+     "title": "OpenAI Unifies Chat & Work: What Power Users Need to Know About Shared Limits",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T06:43:42.440Z"
+  },
+  {
    "first_seen": "2026-11-25T18:36:12.069Z",
    "id": "40036909",
    "ids": [
@@ -237,7 +328,7 @@
    "source_id": "theverge",
    "published_ts": "2026-11-25 14:12:33",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 81,
    "related_news": [
     {
      "source_id": "eu-the-decoder",
@@ -517,7 +608,7 @@
    "source_id": "in-businessline",
    "published_ts": "2026-11-26 03:29:37",
    "story_sources": 2,
-   "score_norm": 75,
+   "score_norm": 71,
    "related_news": [
     {
      "source_id": "hn",
@@ -590,110 +681,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T13:36:35.264Z"
-  },
-  {
-   "first_seen": "2026-11-25T17:49:43.415Z",
-   "id": "40038669",
-   "ids": [
-    "40038669",
-    "40020546",
-    "40042219"
-   ],
-   "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
-   "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
-   "source_id": "zdnet-ai",
-   "published_ts": "2026-11-25 18:54:05",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
-     "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop"
-    }
-   ],
-   "queries": [
-    "claude windows mac can"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:U5ADwdhBAig",
-     "url": "https://www.youtube.com/shorts/U5ADwdhBAig",
-     "title": "Claude apps turn anything you build in chat into real desktop software. Free on Mac and Windows.",
-     "channel": "",
-     "views": 1600,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JY6QUVtC6lU",
-     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
-     "title": "Claude artifacts now install as real Mac and Windows apps",
-     "channel": "",
-     "views": 1300,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jWfzOlmTVIE",
-     "url": "https://www.youtube.com/shorts/jWfzOlmTVIE",
-     "title": "Build Mac and Windows Apps in Claude With No Code",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:uj6usfmWNk8",
-     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
-     "title": "Claude Can Now Build Real Mac and Windows Apps",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6QgCdcg9U3o",
-     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
-     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
-     "channel": "",
-     "views": 876,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:R4ut8TSs2aM",
-     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
-     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
-     "channel": "",
-     "views": 673,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-26T06:20:24.143Z"
   },
   {
    "first_seen": "2026-11-23T20:36:05.639Z",
@@ -798,6 +785,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-24T14:50:03.076Z"
+  },
+  {
+   "first_seen": "2026-11-25T17:49:43.415Z",
+   "id": "40038669",
+   "ids": [
+    "40038669",
+    "40020546",
+    "40042219"
+   ],
+   "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+   "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+   "source_id": "zdnet-ai",
+   "published_ts": "2026-11-25 18:54:05",
+   "story_sources": 2,
+   "score_norm": 64,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "Claude can now turn its artifacts into Mac and Windows desktop apps",
+     "url": "https://thenextweb.com/news/claude-install-as-app-artifacts-mac-windows-desktop"
+    }
+   ],
+   "queries": [
+    "claude windows mac can"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:U5ADwdhBAig",
+     "url": "https://www.youtube.com/shorts/U5ADwdhBAig",
+     "title": "Claude apps turn anything you build in chat into real desktop software. Free on Mac and Windows.",
+     "channel": "",
+     "views": 1600,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:JY6QUVtC6lU",
+     "url": "https://www.youtube.com/shorts/JY6QUVtC6lU",
+     "title": "Claude artifacts now install as real Mac and Windows apps",
+     "channel": "",
+     "views": 1300,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jWfzOlmTVIE",
+     "url": "https://www.youtube.com/shorts/jWfzOlmTVIE",
+     "title": "Build Mac and Windows Apps in Claude With No Code",
+     "channel": "",
+     "views": 1200,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:uj6usfmWNk8",
+     "url": "https://www.youtube.com/shorts/uj6usfmWNk8",
+     "title": "Claude Can Now Build Real Mac and Windows Apps",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:6QgCdcg9U3o",
+     "url": "https://www.youtube.com/shorts/6QgCdcg9U3o",
+     "title": "Claude Can Now Turn Its Chats Into Real Apps on Your Computer",
+     "channel": "",
+     "views": 876,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:R4ut8TSs2aM",
+     "url": "https://www.youtube.com/shorts/R4ut8TSs2aM",
+     "title": "Claude artifacts can now install as Mac and Windows apps (beta)",
+     "channel": "",
+     "views": 673,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T06:20:24.143Z"
   },
   {
    "first_seen": "2026-11-24T16:12:57.767Z",
@@ -1212,73 +1303,6 @@
    "searched_at": "2026-11-24T16:25:37.789Z"
   },
   {
-   "first_seen": "2026-11-25T17:09:55.295Z",
-   "id": "40035153",
-   "ids": [
-    "40035153",
-    "40037805"
-   ],
-   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-   "source_id": "x-techcrunch",
-   "published_ts": "2026-11-25 14:10:18",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
-     "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
-    }
-   ],
-   "queries": [
-    "amazon meta muse reportedly"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5zsnyjp5Y2Y",
-     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
-     "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
-     "channel": "BEAMSTART",
-     "views": 2,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B_-o141t7F4",
-     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
-     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
-     "channel": "Digital Bullet",
-     "views": 1,
-     "age_hours": 13,
-     "relevance": 0.8,
-     "velocity": 0
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sUz8XXEv1eA",
-     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
-     "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
-     "channel": "Two Bells",
-     "views": 1,
-     "age_hours": 7,
-     "relevance": 0.67,
-     "velocity": 0
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-26T05:12:01.533Z"
-  },
-  {
    "first_seen": "2026-11-25T08:15:03.831Z",
    "id": "40028831",
    "ids": [
@@ -1334,35 +1358,71 @@
    "searched_at": "2026-11-25T08:15:08.110Z"
   },
   {
-   "first_seen": "2026-11-25T22:49:37.521Z",
-   "id": "40043363",
+   "first_seen": "2026-11-25T17:09:55.295Z",
+   "id": "40035153",
    "ids": [
-    "40043363",
-    "40038346"
+    "40035153",
+    "40037805"
    ],
-   "title": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
-   "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html",
-   "source_id": "eu-golem",
-   "published_ts": "2026-11-25 16:58:06",
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source_id": "x-techcrunch",
+   "published_ts": "2026-11-25 14:10:18",
    "story_sources": 2,
    "score_norm": 59,
    "related_news": [
     {
-     "source_id": "eu-t3n",
-     "title": "Wegen ChatGPT-Abos: Verbraucherzentrale verklagt OpenAI",
-     "url": "https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+     "source_id": "x-dailyai",
+     "title": "Amazon and Meta are in talks to end the blockade of Meta’s AI shopping agent",
+     "url": "https://dailyai.com/2026/11/amazon-and-meta-in-talks-to-end-the-blockade-of-metas-ai-shopping-agent/"
     }
    ],
    "queries": [
-    "Wegen ChatGPT-Abos",
-    "wegen chatgpt-abos verbraucherzentrale openai"
+    "amazon meta muse reportedly"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:5zsnyjp5Y2Y",
+     "url": "https://www.youtube.com/watch?v=5zsnyjp5Y2Y",
+     "title": "Amazon Meta Talks Could Unlock Muse AI Agent for Smarter Shopping",
+     "channel": "BEAMSTART",
+     "views": 2,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:B_-o141t7F4",
+     "url": "https://www.youtube.com/watch?v=B_-o141t7F4",
+     "title": "Amazon and Meta in Talks for AI Shopping! 🤖🛒",
+     "channel": "Digital Bullet",
+     "views": 1,
+     "age_hours": 13,
+     "relevance": 0.8,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sUz8XXEv1eA",
+     "url": "https://www.youtube.com/watch?v=sUz8XXEv1eA",
+     "title": "Amazon and Meta reportedly in talks to let AI shopper Muse back",
+     "channel": "Two Bells",
+     "views": 1,
+     "age_hours": 7,
+     "relevance": 0.67,
+     "velocity": 0
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T05:12:08.574Z"
+   "searched_at": "2026-11-26T05:12:01.533Z"
   },
   {
    "first_seen": "2026-11-24T23:20:02.739Z",
@@ -1578,6 +1638,37 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-24T09:25:25.879Z"
+  },
+  {
+   "first_seen": "2026-11-25T22:49:37.521Z",
+   "id": "40043363",
+   "ids": [
+    "40043363",
+    "40038346"
+   ],
+   "title": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
+   "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html",
+   "source_id": "eu-golem",
+   "published_ts": "2026-11-25 16:58:06",
+   "story_sources": 2,
+   "score_norm": 58,
+   "related_news": [
+    {
+     "source_id": "eu-t3n",
+     "title": "Wegen ChatGPT-Abos: Verbraucherzentrale verklagt OpenAI",
+     "url": "https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    }
+   ],
+   "queries": [
+    "Wegen ChatGPT-Abos",
+    "wegen chatgpt-abos verbraucherzentrale openai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-26T05:12:08.574Z"
   },
   {
    "first_seen": "2026-11-24T08:15:07.564Z",
@@ -1994,109 +2085,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-26T00:29:22.529Z"
-  },
-  {
-   "first_seen": "2026-11-23T14:24:51.338Z",
-   "id": "39988800",
-   "ids": [
-    "39988800",
-    "39992753"
-   ],
-   "title": "Meta’s AI chief says superintelligence is arriving — and control is hard to imagine",
-   "url": "https://dailyai.com/2026/11/meta-ai-chief-superintelligence-arriving-control-hard-to-imagine/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-23 08:51:58",
-   "story_sources": 2,
-   "score_norm": 49,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Meta’s AI chief says superintelligence is arriving and control is at risk",
-     "url": "https://thenextweb.com/news/metas-ai-chief-says-superintelligence-is-arriving-and-control-is-at-risk"
-    }
-   ],
-   "queries": [
-    "meta ai chief superintelligence"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:pLuURt1EyUM",
-     "url": "https://www.youtube.com/watch?v=pLuURt1EyUM",
-     "title": "META AI CHIEF FEARS LOSS OF HUMAN CONTROL, RESEARCHERS QUESTION PROBE SUFFERING – w/ Cameron Berg",
-     "channel": "Mario Nawfal",
-     "views": 3060,
-     "age_hours": 0.55,
-     "relevance": 0.5,
-     "velocity": 3060
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_OUo4xvQyMQ",
-     "url": "https://www.youtube.com/watch?v=_OUo4xvQyMQ",
-     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
-     "channel": "The Good Takeoff",
-     "views": 14885,
-     "age_hours": 9,
-     "relevance": 1,
-     "velocity": 1654
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:6VsZGXQK4TY",
-     "url": "https://www.youtube.com/shorts/6VsZGXQK4TY",
-     "title": "META’S CHIEF AI OFFICER WARNS THAT AI IS APPROACHING A POINT WHERE HUMANITY CANNOT CONTROL IT",
-     "channel": "",
-     "views": 5500,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XQKqQFIpMyc",
-     "url": "https://www.youtube.com/shorts/XQKqQFIpMyc",
-     "title": "Meta's AI Chief Says Superintelligence Is Arriving",
-     "channel": "",
-     "views": 1700,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:tD88krQtjG4",
-     "url": "https://www.youtube.com/shorts/tD88krQtjG4",
-     "title": "Meta's AI Chief says Superintelligence Is Arriving!",
-     "channel": "",
-     "views": 216,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:L1xU2VhSMxQ",
-     "url": "https://www.youtube.com/watch?v=L1xU2VhSMxQ",
-     "title": "Riemann Hypothesis Proved with AI? Meta's AI Chief: Superintelligence Is Arriving #AI #Math",
-     "channel": "硅谷工具箱",
-     "views": 140,
-     "age_hours": 24,
-     "relevance": 0.63,
-     "velocity": 6
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-24T02:37:01.174Z"
   },
   {
    "first_seen": "2026-11-24T13:36:41.048Z",
