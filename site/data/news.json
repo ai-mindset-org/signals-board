@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:49:44.018Z",
+ "generated_at": "2026-11-26T19:20:12.805Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: GPT-6.2 Astra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: GPT-6.2 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt-6.2 astra 40 openai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-6.2 astra 40 openai",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai chatgpt chat work",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai chatgpt chat work",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
@@ -499,7 +474,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-11-26 15:01:21",
    "story_sources": 2,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
@@ -1079,110 +1054,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T13:36:35.264Z"
-  },
-  {
-   "first_seen": "2026-11-23T20:36:05.639Z",
-   "id": "40000186",
-   "ids": [
-    "40000186",
-    "39997838"
-   ],
-   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "source_id": "techcrunch",
-   "published_ts": "2026-11-23 19:14:46",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Google Search’s AI Mode can now read your Wallet, with Drive next",
-     "url": "https://thenextweb.com/news/google-ai-mode-personal-intelligence-wallet-drive-gemini"
-    }
-   ],
-   "queries": [
-    "Google Search’s",
-    "google search mode drive"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:umdvsx0qYLo",
-     "url": "https://www.youtube.com/shorts/umdvsx0qYLo",
-     "title": "Google Doesn't Search the Internet",
-     "channel": "",
-     "views": 1100,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:T7Q9JE1iTnE",
-     "url": "https://www.youtube.com/shorts/T7Q9JE1iTnE",
-     "title": "Google Removes the Search Button: AI Mode Takes Over #shorts",
-     "channel": "",
-     "views": 127,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZF0GIQ-eVY8",
-     "url": "https://www.youtube.com/shorts/ZF0GIQ-eVY8",
-     "title": "Google AI Mode Can Read Your Drive and Wallet: Check This #Shorts",
-     "channel": "",
-     "views": 68,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:EL8Qrin9XIs",
-     "url": "https://www.youtube.com/shorts/EL8Qrin9XIs",
-     "title": "Google AI Mode Can Now Tap Into Your Drive and Wallet #shorts",
-     "channel": "",
-     "views": 18,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Zv9MThtQkWM",
-     "url": "https://www.youtube.com/shorts/Zv9MThtQkWM",
-     "title": "Google's AI Search Just Got an Incognito Mode",
-     "channel": "",
-     "views": 15,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:zxdMRIrhvKw",
-     "url": "https://www.youtube.com/shorts/zxdMRIrhvKw",
-     "title": "Drive and Gemini Are Coming to Google Search AI Mode",
-     "channel": "",
-     "views": 12,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T14:50:03.076Z"
   },
   {
    "first_seen": "2026-11-24T16:12:57.767Z",
