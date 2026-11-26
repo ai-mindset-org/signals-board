@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:39:56.078Z",
+ "generated_at": "2026-11-26T12:49:37.278Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: claude windows mac can",
+   "source": "youtube: openai chatgpt chat work",
    "ok": true
   },
   {
-   "source": "tiktok: claude windows mac can",
+   "source": "tiktok: openai chatgpt chat work",
    "ok": true
   }
  ],
@@ -717,37 +717,13 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:KzQT9an13c0",
-     "url": "https://www.youtube.com/shorts/KzQT9an13c0",
-     "title": "ChatGPT is merging Chat and Work",
-     "channel": "",
-     "views": 1200,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
      "id": "youtube:VTfK7nGiliI",
      "url": "https://www.youtube.com/shorts/VTfK7nGiliI",
      "title": "OpenAI merges ChatGPT Chat and Work, heavy users may hit limits sooner",
      "channel": "",
-     "views": 24,
+     "views": 40,
      "age_hours": null,
      "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:G4nBTCj6s80",
-     "url": "https://www.youtube.com/shorts/G4nBTCj6s80",
-     "title": "ChatGPT Merged Chat and Work — One Limit ⚠️",
-     "channel": "",
-     "views": 10,
-     "age_hours": null,
-     "relevance": 0.5,
      "velocity": null
     },
     {
@@ -757,9 +733,45 @@
      "url": "https://www.youtube.com/shorts/vj1O49_OyWs",
      "title": "OpenAI Merges ChatGPT Chat and Work, New Unified Usage Limits",
      "channel": "",
-     "views": 8,
+     "views": 28,
      "age_hours": null,
      "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:G4nBTCj6s80",
+     "url": "https://www.youtube.com/shorts/G4nBTCj6s80",
+     "title": "ChatGPT Merged Chat and Work — One Limit ⚠️",
+     "channel": "",
+     "views": 20,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Vlmoy0am6nY",
+     "url": "https://www.youtube.com/shorts/Vlmoy0am6nY",
+     "title": "ChatGPT Limits Just Changed! Chat + Work Share ONE Limit! 🤯",
+     "channel": "",
+     "views": 19,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:F0U-sfhMAUo",
+     "url": "https://www.youtube.com/shorts/F0U-sfhMAUo",
+     "title": "ChatGPT Merges Chat and Work, Limits May Bite",
+     "channel": "",
+     "views": 6,
+     "age_hours": null,
+     "relevance": 0.86,
      "velocity": null
     },
     {
@@ -769,21 +781,9 @@
      "url": "https://www.youtube.com/shorts/wwqWFuD9cxI",
      "title": "OpenAI Merges Chat & Work in ChatGPT",
      "channel": "",
-     "views": 4,
+     "views": 5,
      "age_hours": null,
      "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:MOB7j2MZ3AA",
-     "url": "https://www.youtube.com/shorts/MOB7j2MZ3AA",
-     "title": "OpenAI Unifies Chat & Work: What Power Users Need to Know About Shared Limits",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 0.5,
      "velocity": null
     }
    ],
@@ -791,7 +791,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T06:43:42.440Z"
+   "searched_at": "2026-11-26T12:49:41.778Z"
   },
   {
    "first_seen": "2026-11-23T20:36:05.639Z",
