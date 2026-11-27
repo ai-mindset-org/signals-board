@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T06:20:21.275Z",
+ "generated_at": "2026-11-27T06:43:45.570Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: The Return",
-   "ok": true
-  },
-  {
-   "source": "tiktok: The Return",
-   "ok": true
-  },
-  {
-   "source": "youtube: 196 return ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: 196 return ai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -222,343 +205,30 @@
    "searched_at": "2026-11-26T18:27:25.368Z"
   },
   {
-   "first_seen": "2026-11-24T18:13:58.347Z",
-   "id": "40017962",
-   "ids": [
-    "40017962",
-    "40014797",
-    "40018455"
-   ],
-   "title": "Tidal will start banning AI-generated music next month",
-   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-   "source_id": "theverge",
-   "published_ts": "2026-11-24 17:17:09",
-   "story_sources": 2,
-   "score_norm": 79,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Tidal is banning AI-generated music entirely",
-     "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/"
-    }
-   ],
-   "queries": [
-    "tidal ai-generated start banning"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_upJzzrCv7s",
-     "url": "https://www.youtube.com/shorts/_upJzzrCv7s",
-     "title": "Tidal Is Banning 100% AI-Generated Music — Starting December 9th",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6xyc7YeSmOw",
-     "url": "https://www.youtube.com/watch?v=6xyc7YeSmOw",
-     "title": "TIDAL Is Banning Fully AI-Generated Music. Where Is the Line?",
-     "channel": "Fine Print AI",
-     "views": 4,
-     "age_hours": 1,
-     "relevance": 0.57,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jPi6NuLVHgM",
-     "url": "https://www.youtube.com/shorts/jPi6NuLVHgM",
-     "title": "Tidal will start banning AI-generated music next month",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mcs8LzYhzz0",
-     "url": "https://www.youtube.com/shorts/mcs8LzYhzz0",
-     "title": "Tidal is banning AI music",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T12:50:09.432Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:37:12.398Z",
-   "id": "40060318",
-   "ids": [
-    "40060318",
-    "40058943",
-    "40067254",
-    "40060746"
-   ],
-   "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
-   "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-26 17:01:29",
-   "story_sources": 2,
-   "score_norm": 78,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
-     "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
-    }
-   ],
-   "queries": [
-    "sap 10 000 weighs"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:N6pS4rDY9iw",
-     "url": "https://www.youtube.com/watch?v=N6pS4rDY9iw",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 13,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 7
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
-     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "Runday AI",
-     "views": 32,
-     "age_hours": 7,
-     "relevance": 0.78,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:qCPZQ7D9yX0",
-     "url": "https://www.youtube.com/watch?v=qCPZQ7D9yX0",
-     "title": "SAP weighs at least 10,000 job cuts in AI restructuring, Bloomberg reports #Shorts",
-     "channel": "RuntimeWire",
-     "views": 20,
-     "age_hours": 6,
-     "relevance": 0.78,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IoAEtCm9l90",
-     "url": "https://www.youtube.com/watch?v=IoAEtCm9l90",
-     "title": "SAP weighs 10,000 job cuts for AI while its business grows #sap",
-     "channel": "TiziriTech",
-     "views": 2,
-     "age_hours": 0.6166666666666667,
-     "relevance": 0.56,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YXD-6IvejbU",
-     "url": "https://www.youtube.com/watch?v=YXD-6IvejbU",
-     "title": "SAP Weighs 10,000 AI Job Cuts. What It Means for You",
-     "channel": "The Business Lens",
-     "views": 2,
-     "age_hours": 2,
-     "relevance": 0.63,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A-iWjCDb_vI",
-     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T00:50:32.804Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:49:44.018Z",
-   "id": "40060718",
-   "ids": [
-    "40060718",
-    "40056617"
-   ],
-   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
-   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-26 17:28:56",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster",
-     "url": "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "gpt-6.2 astra 40 openai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-HnnDxJavrA",
-     "url": "https://www.youtube.com/shorts/-HnnDxJavrA",
-     "title": "OPENAI JUST UNLEASHED GPT-6.2 ASTRA! 🤯",
-     "channel": "",
-     "views": 55,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8xsDDnIdi0E",
-     "url": "https://www.youtube.com/shorts/8xsDDnIdi0E",
-     "title": "GPT-6.2 Astra: OpenAI's Most Powerful GPT",
-     "channel": "",
-     "views": 44,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:y2WLl_VlGzg",
-     "url": "https://www.youtube.com/shorts/y2WLl_VlGzg",
-     "title": "OpenAI GPT-6.2 Astra and Sol launched #Shorts",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:L8Qn6kQDZHs",
-     "url": "https://www.youtube.com/shorts/L8Qn6kQDZHs",
-     "title": "OpenAI Launches GPT-6.2 Astra",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wAsSAunJSbk",
-     "url": "https://www.youtube.com/shorts/wAsSAunJSbk",
-     "title": "GPT-6.2 Astra limits now run out 40% faster",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7Bd7myUbjMI",
-     "url": "https://www.youtube.com/shorts/7Bd7myUbjMI",
-     "title": "GPT-6.2 Astra users now hit limits 40 percent faster",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T00:50:40.275Z"
-  },
-  {
-   "first_seen": "2026-11-26T17:36:03.352Z",
-   "id": "40059455",
-   "ids": [
-    "40059455",
-    "40058863"
-   ],
-   "title": "AI #196: The Return",
-   "url": "https://thezvi.substack.com/p/ai-196-the-return",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-11-26 15:01:21",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "AI #196: The Return",
-     "url": "https://www.lesswrong.com/posts/MaGJRAwTKshpHxqpK/ai-196-the-return"
-    }
-   ],
-   "queries": [
-    "The Return",
-    "196 return ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-27T06:20:30.718Z"
-  },
-  {
    "first_seen": "2026-11-26T09:12:39.185Z",
    "id": "40050663",
    "ids": [
     "40050663",
-    "40048587"
+    "40048587",
+    "40068420",
+    "40051280"
    ],
-   "title": "Apple pulls Chinese AI chatbot Talkie over child safety",
-   "url": "https://www.techinasia.com/news/apple-pulls-chinese-ai-chatbot-talkie-child-safety",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-26 08:00:42",
-   "story_sources": 2,
-   "score_norm": 77,
+   "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-10980524/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-27 04:00:36",
+   "story_sources": 3,
+   "score_norm": 100,
    "related_news": [
     {
-     "source_id": "in-express-tech",
-     "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-10979117/"
+     "source_id": "sea-techinasia",
+     "title": "Apple pulls Chinese AI chatbot Talkie over child safety",
+     "url": "https://www.techinasia.com/news/apple-pulls-chinese-ai-chatbot-talkie-child-safety"
+    },
+    {
+     "source_id": "eu-tnw",
+     "title": "Apple removes MiniMax’s Talkie AI app from App Store over child safety",
+     "url": "https://thenextweb.com/news/apple-removes-minimax-talkie-app-store-child-safety"
     }
    ],
    "queries": [
@@ -643,6 +313,86 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-27T03:38:27.707Z"
+  },
+  {
+   "first_seen": "2026-11-24T18:13:58.347Z",
+   "id": "40017962",
+   "ids": [
+    "40017962",
+    "40014797",
+    "40018455"
+   ],
+   "title": "Tidal will start banning AI-generated music next month",
+   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+   "source_id": "theverge",
+   "published_ts": "2026-11-24 17:17:09",
+   "story_sources": 2,
+   "score_norm": 79,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "Tidal is banning AI-generated music entirely",
+     "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/"
+    }
+   ],
+   "queries": [
+    "tidal ai-generated start banning"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_upJzzrCv7s",
+     "url": "https://www.youtube.com/shorts/_upJzzrCv7s",
+     "title": "Tidal Is Banning 100% AI-Generated Music — Starting December 9th",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:6xyc7YeSmOw",
+     "url": "https://www.youtube.com/watch?v=6xyc7YeSmOw",
+     "title": "TIDAL Is Banning Fully AI-Generated Music. Where Is the Line?",
+     "channel": "Fine Print AI",
+     "views": 4,
+     "age_hours": 1,
+     "relevance": 0.57,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:jPi6NuLVHgM",
+     "url": "https://www.youtube.com/shorts/jPi6NuLVHgM",
+     "title": "Tidal will start banning AI-generated music next month",
+     "channel": "",
+     "views": 38,
+     "age_hours": null,
+     "relevance": 1,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:mcs8LzYhzz0",
+     "url": "https://www.youtube.com/shorts/mcs8LzYhzz0",
+     "title": "Tidal is banning AI music",
+     "channel": "",
+     "views": 17,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-25T12:50:09.432Z"
   },
   {
    "first_seen": "2026-11-26T09:49:53.278Z",
@@ -979,102 +729,100 @@
    "searched_at": "2026-11-26T16:36:58.681Z"
   },
   {
-   "first_seen": "2026-11-26T11:10:42.724Z",
-   "id": "40052567",
+   "first_seen": "2026-11-26T18:49:44.018Z",
+   "id": "40060718",
    "ids": [
-    "40052567",
-    "40038452",
-    "40057344",
-    "40040314",
-    "40044996"
+    "40060718",
+    "40056617"
    ],
-   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
-   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
    "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-26 13:41:07",
+   "published_ts": "2026-11-26 17:28:56",
    "story_sources": 2,
-   "score_norm": 69,
+   "score_norm": 68,
    "related_news": [
     {
-     "source_id": "engadget",
-     "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
-     "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+     "source_id": "eu-tnw",
+     "title": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster",
+     "url": "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits"
     }
    ],
    "queries": [
-    "fcc spacex starmind 2040"
+    "GPT-6.2 Astra",
+    "gpt-6.2 astra 40 openai"
    ],
    "videos": [
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gBLJYK-js9E",
-     "url": "https://www.youtube.com/watch?v=gBLJYK-js9E",
-     "title": "SpaceX Wins Conditional FCC Approval For 1 Million Orbital Compute Satellites",
-     "channel": "AIM Network",
-     "views": 2939,
-     "age_hours": 17,
-     "relevance": 0.56,
-     "velocity": 173
-    },
-    {
-     "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:NT0pbeGZ7KU",
-     "url": "https://www.youtube.com/shorts/NT0pbeGZ7KU",
-     "title": "FCC Approves SpaceX Starmind: 1 Million Data Center Satellites in Space! 🚀",
+     "id": "youtube:-HnnDxJavrA",
+     "url": "https://www.youtube.com/shorts/-HnnDxJavrA",
+     "title": "OPENAI JUST UNLEASHED GPT-6.2 ASTRA! 🤯",
      "channel": "",
-     "views": 2300,
+     "views": 55,
      "age_hours": null,
-     "relevance": 0.67,
+     "relevance": 0.75,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:iykWDAC4Fcc",
-     "url": "https://www.youtube.com/shorts/iykWDAC4Fcc",
-     "title": "SpaceX Starmind: FCC Approves 1 Million Satellites",
+     "id": "youtube:8xsDDnIdi0E",
+     "url": "https://www.youtube.com/shorts/8xsDDnIdi0E",
+     "title": "GPT-6.2 Astra: OpenAI's Most Powerful GPT",
      "channel": "",
-     "views": 1000,
+     "views": 44,
      "age_hours": null,
-     "relevance": 0.83,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:2DW-O3rbdW0",
-     "url": "https://www.youtube.com/shorts/2DW-O3rbdW0",
-     "title": "FCC Approves SpaceX Starmind: Up to 1 Million AI Satellites 🛰️⚡🌍 #Shorts",
+     "id": "youtube:y2WLl_VlGzg",
+     "url": "https://www.youtube.com/shorts/y2WLl_VlGzg",
+     "title": "OpenAI GPT-6.2 Astra and Sol launched #Shorts",
      "channel": "",
-     "views": 248,
+     "views": 16,
      "age_hours": null,
-     "relevance": 0.78,
+     "relevance": 0.5,
      "velocity": null
     },
     {
      "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sDNr6I9EO4I",
-     "url": "https://www.youtube.com/watch?v=sDNr6I9EO4I",
-     "title": "The FCC Just Approved 1 Million SpaceX Satellites",
-     "channel": "Explain That To Me",
-     "views": 51,
-     "age_hours": 24,
-     "relevance": 0.8,
-     "velocity": 2
+     "kind": "shorts",
+     "id": "youtube:L8Qn6kQDZHs",
+     "url": "https://www.youtube.com/shorts/L8Qn6kQDZHs",
+     "title": "OpenAI Launches GPT-6.2 Astra",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:8YMt__W9KV0",
-     "url": "https://www.youtube.com/shorts/8YMt__W9KV0",
-     "title": "FCC Approves SpaceX Starmind: 1 Million AI Data Center Satellites in Orbit",
+     "id": "youtube:wAsSAunJSbk",
+     "url": "https://www.youtube.com/shorts/wAsSAunJSbk",
+     "title": "GPT-6.2 Astra limits now run out 40% faster",
      "channel": "",
-     "views": 66,
+     "views": 1,
      "age_hours": null,
-     "relevance": 0.7,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7Bd7myUbjMI",
+     "url": "https://www.youtube.com/shorts/7Bd7myUbjMI",
+     "title": "GPT-6.2 Astra users now hit limits 40 percent faster",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.88,
      "velocity": null
     }
    ],
@@ -1082,7 +830,143 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-27T05:36:47.523Z"
+   "searched_at": "2026-11-27T00:50:40.275Z"
+  },
+  {
+   "first_seen": "2026-11-26T18:37:12.398Z",
+   "id": "40060318",
+   "ids": [
+    "40060318",
+    "40058943",
+    "40067254",
+    "40060746"
+   ],
+   "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
+   "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-26 17:01:29",
+   "story_sources": 2,
+   "score_norm": 68,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+     "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
+    }
+   ],
+   "queries": [
+    "sap 10 000 weighs"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N6pS4rDY9iw",
+     "url": "https://www.youtube.com/watch?v=N6pS4rDY9iw",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 13,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 7
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_btztNBmCyw",
+     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
+     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
+     "channel": "Runday AI",
+     "views": 32,
+     "age_hours": 7,
+     "relevance": 0.78,
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:qCPZQ7D9yX0",
+     "url": "https://www.youtube.com/watch?v=qCPZQ7D9yX0",
+     "title": "SAP weighs at least 10,000 job cuts in AI restructuring, Bloomberg reports #Shorts",
+     "channel": "RuntimeWire",
+     "views": 20,
+     "age_hours": 6,
+     "relevance": 0.78,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IoAEtCm9l90",
+     "url": "https://www.youtube.com/watch?v=IoAEtCm9l90",
+     "title": "SAP weighs 10,000 job cuts for AI while its business grows #sap",
+     "channel": "TiziriTech",
+     "views": 2,
+     "age_hours": 0.6166666666666667,
+     "relevance": 0.56,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YXD-6IvejbU",
+     "url": "https://www.youtube.com/watch?v=YXD-6IvejbU",
+     "title": "SAP Weighs 10,000 AI Job Cuts. What It Means for You",
+     "channel": "The Business Lens",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A-iWjCDb_vI",
+     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T00:50:32.804Z"
+  },
+  {
+   "first_seen": "2026-11-26T17:36:03.352Z",
+   "id": "40059455",
+   "ids": [
+    "40059455",
+    "40058863"
+   ],
+   "title": "AI #196: The Return",
+   "url": "https://thezvi.substack.com/p/ai-196-the-return",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-11-26 15:01:21",
+   "story_sources": 2,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "AI #196: The Return",
+     "url": "https://www.lesswrong.com/posts/MaGJRAwTKshpHxqpK/ai-196-the-return"
+    }
+   ],
+   "queries": [
+    "The Return",
+    "196 return ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-27T06:20:30.718Z"
   },
   {
    "first_seen": "2026-11-25T01:23:34.185Z",
@@ -1520,6 +1404,112 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T10:24:13.008Z"
+  },
+  {
+   "first_seen": "2026-11-26T11:10:42.724Z",
+   "id": "40052567",
+   "ids": [
+    "40052567",
+    "40038452",
+    "40057344",
+    "40040314",
+    "40044996"
+   ],
+   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-26 13:41:07",
+   "story_sources": 2,
+   "score_norm": 60,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+     "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+    }
+   ],
+   "queries": [
+    "fcc spacex starmind 2040"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gBLJYK-js9E",
+     "url": "https://www.youtube.com/watch?v=gBLJYK-js9E",
+     "title": "SpaceX Wins Conditional FCC Approval For 1 Million Orbital Compute Satellites",
+     "channel": "AIM Network",
+     "views": 2939,
+     "age_hours": 17,
+     "relevance": 0.56,
+     "velocity": 173
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NT0pbeGZ7KU",
+     "url": "https://www.youtube.com/shorts/NT0pbeGZ7KU",
+     "title": "FCC Approves SpaceX Starmind: 1 Million Data Center Satellites in Space! 🚀",
+     "channel": "",
+     "views": 2300,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iykWDAC4Fcc",
+     "url": "https://www.youtube.com/shorts/iykWDAC4Fcc",
+     "title": "SpaceX Starmind: FCC Approves 1 Million Satellites",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2DW-O3rbdW0",
+     "url": "https://www.youtube.com/shorts/2DW-O3rbdW0",
+     "title": "FCC Approves SpaceX Starmind: Up to 1 Million AI Satellites 🛰️⚡🌍 #Shorts",
+     "channel": "",
+     "views": 248,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sDNr6I9EO4I",
+     "url": "https://www.youtube.com/watch?v=sDNr6I9EO4I",
+     "title": "The FCC Just Approved 1 Million SpaceX Satellites",
+     "channel": "Explain That To Me",
+     "views": 51,
+     "age_hours": 24,
+     "relevance": 0.8,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8YMt__W9KV0",
+     "url": "https://www.youtube.com/shorts/8YMt__W9KV0",
+     "title": "FCC Approves SpaceX Starmind: 1 Million AI Data Center Satellites in Orbit",
+     "channel": "",
+     "views": 66,
+     "age_hours": null,
+     "relevance": 0.7,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T05:36:47.523Z"
   },
   {
    "first_seen": "2026-11-25T08:15:03.831Z",
