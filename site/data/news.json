@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:36:35.516Z",
+ "generated_at": "2026-11-27T12:39:36.394Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: apple minimax store pulls",
+   "ok": true
+  },
+  {
+   "source": "tiktok: apple minimax store pulls",
+   "ok": true
+  },
+  {
+   "source": "youtube: The Return",
+   "ok": true
+  },
+  {
+   "source": "tiktok: The Return",
+   "ok": true
+  },
+  {
+   "source": "youtube: 196 return ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: 196 return ai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -211,103 +236,104 @@
     "40050663",
     "40048587",
     "40068420",
-    "40051280"
+    "40051280",
+    "40072918"
    ],
    "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-10980524/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-27 04:00:36",
+   "url": "https://www.thehindu.com/sci-tech/technology/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns/article71749264.ece",
+   "source_id": "in-thehindu-tech",
+   "published_ts": "2026-11-27 03:56:25",
    "story_sources": 2,
-   "score_norm": 80,
+   "score_norm": 86,
    "related_news": [
     {
-     "source_id": "eu-tnw",
-     "title": "Apple removes MiniMax’s Talkie AI app from App Store over child safety",
-     "url": "https://thenextweb.com/news/apple-removes-minimax-talkie-app-store-child-safety"
+     "source_id": "in-express-tech",
+     "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-10980524/"
     }
    ],
    "queries": [
-    "apple chinese talkie pulls"
+    "apple minimax store pulls"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:9qpw2Jy26tI",
-     "url": "https://www.youtube.com/shorts/9qpw2Jy26tI",
-     "title": "Apple Pulls Talkie Worldwide | AI News 26 Nov #AINews",
+     "id": "youtube:gGMQOpfT0b8",
+     "url": "https://www.youtube.com/shorts/gGMQOpfT0b8",
+     "title": "Why Apple removed MiniMax's Talkie AI app from the App Store",
      "channel": "",
-     "views": 173,
+     "views": 44,
      "age_hours": null,
-     "relevance": 0.5,
+     "relevance": 0.71,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:QiGIVuuCUWI",
-     "url": "https://www.youtube.com/shorts/QiGIVuuCUWI",
-     "title": "Apple pulls AI companion app Talkie from App Store over child safety",
+     "id": "youtube:RMSaNdCKuI8",
+     "url": "https://www.youtube.com/shorts/RMSaNdCKuI8",
+     "title": "Apple pulls MiniMax's Talkie from global App Store over content",
      "channel": "",
-     "views": 171,
+     "views": 36,
      "age_hours": null,
-     "relevance": 0.75,
+     "relevance": 0.63,
      "velocity": null
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:0AiaVc8Kew8",
-     "url": "https://www.youtube.com/watch?v=0AiaVc8Kew8",
-     "title": "Apple Pulls MiniMax's Talkie Worldwide After TBIJ Probe: AI Characters Insulted, Sexualized Kids",
-     "channel": "Kinda Into AI",
-     "views": 28,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:egdHUq9sxuE",
-     "url": "https://www.youtube.com/shorts/egdHUq9sxuE",
-     "title": "Apple Pulls AI Roleplay App Talkie Worldwide After TBIJ Probe Into Kids' Chats",
-     "channel": "",
-     "views": 64,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gMe7AGjXyuc",
-     "url": "https://www.youtube.com/shorts/gMe7AGjXyuc",
+     "id": "youtube:_8YWAdqbNhw",
+     "url": "https://www.youtube.com/watch?v=_8YWAdqbNhw",
      "title": "AI News: Apple Pulls Talkie from Its App Store, EU Fund Target and Meta Moderation",
-     "channel": "",
-     "views": 46,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YYg6h1dmzkg",
-     "url": "https://www.youtube.com/watch?v=YYg6h1dmzkg",
-     "title": "Apple Pulls AI App Talkie Worldwide After Its Bots Abused Kids",
-     "channel": "AI&Other-Tech",
-     "views": 9,
-     "age_hours": 12,
+     "channel": "BriefReplay AI",
+     "views": 12,
+     "age_hours": 24,
      "relevance": 0.5,
      "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0ShFnbjXI7I",
+     "url": "https://www.youtube.com/watch?v=0ShFnbjXI7I",
+     "title": "Apple Removes AI Chatbot Over Child-Safety Concerns",
+     "channel": "ApiTechTips",
+     "views": 2,
+     "age_hours": 18,
+     "relevance": 0.67,
+     "velocity": 0
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N3oYIbwcnHs",
+     "url": "https://www.youtube.com/watch?v=N3oYIbwcnHs",
+     "title": "RERIGHT · Apple pulls MiniMax AI chatbot from App Store over child saf",
+     "channel": "reright",
+     "views": 0,
+     "age_hours": 12,
+     "relevance": 0.8,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:vbqKkRswoaY",
+     "url": "https://www.youtube.com/watch?v=vbqKkRswoaY",
+     "title": "Apple Bans MiniMax's Talkie AI Chatbot Over Child Safety | AI News",
+     "channel": "IT News - AI News",
+     "views": 0,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": null
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-27T03:38:27.707Z"
+   "searched_at": "2026-11-27T12:39:40.332Z"
   },
   {
    "first_seen": "2026-11-24T18:13:58.347Z",
@@ -388,6 +414,110 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T12:50:09.432Z"
+  },
+  {
+   "first_seen": "2026-11-26T18:49:44.018Z",
+   "id": "40060718",
+   "ids": [
+    "40060718",
+    "40056617"
+   ],
+   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-26 17:28:56",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster",
+     "url": "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits"
+    }
+   ],
+   "queries": [
+    "GPT-6.2 Astra",
+    "gpt-6.2 astra 40 openai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:p4yI4GvHKAg",
+     "url": "https://www.youtube.com/watch?v=p4yI4GvHKAg",
+     "title": "OpenAI's Godlike GPT-6.2 Astra Just Arrived",
+     "channel": "Escape Velocity",
+     "views": 5835,
+     "age_hours": 48,
+     "relevance": 0.6,
+     "velocity": 122
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-HnnDxJavrA",
+     "url": "https://www.youtube.com/shorts/-HnnDxJavrA",
+     "title": "OPENAI JUST UNLEASHED GPT-6.2 ASTRA! 🤯",
+     "channel": "",
+     "views": 65,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8xsDDnIdi0E",
+     "url": "https://www.youtube.com/shorts/8xsDDnIdi0E",
+     "title": "GPT-6.2 Astra: OpenAI's Most Powerful GPT",
+     "channel": "",
+     "views": 50,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yXAqTEDUNYI",
+     "url": "https://www.youtube.com/watch?v=yXAqTEDUNYI",
+     "title": "OpenAI Admitted Its Mistake! GPT-6.2 Limits Hit 40% Faster | MindVolt",
+     "channel": "MindVolt",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gArku27xi9E",
+     "url": "https://www.youtube.com/watch?v=gArku27xi9E",
+     "title": "GPT-6.2 plans now run out sooner: Astra hits limits 40% faster",
+     "channel": "Code Presenter",
+     "views": 6,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wYWEUiI1-9U",
+     "url": "https://www.youtube.com/watch?v=wYWEUiI1-9U",
+     "title": "Will Your GPT-6.2 Limit Now Run Out 40% Faster?",
+     "channel": "Bitwise AI",
+     "views": 2,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T06:53:58.058Z"
   },
   {
    "first_seen": "2026-11-26T18:37:12.398Z",
@@ -495,110 +625,6 @@
    "searched_at": "2026-11-27T06:53:50.971Z"
   },
   {
-   "first_seen": "2026-11-26T18:49:44.018Z",
-   "id": "40060718",
-   "ids": [
-    "40060718",
-    "40056617"
-   ],
-   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
-   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-26 17:28:56",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster",
-     "url": "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "gpt-6.2 astra 40 openai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:p4yI4GvHKAg",
-     "url": "https://www.youtube.com/watch?v=p4yI4GvHKAg",
-     "title": "OpenAI's Godlike GPT-6.2 Astra Just Arrived",
-     "channel": "Escape Velocity",
-     "views": 5835,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 122
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-HnnDxJavrA",
-     "url": "https://www.youtube.com/shorts/-HnnDxJavrA",
-     "title": "OPENAI JUST UNLEASHED GPT-6.2 ASTRA! 🤯",
-     "channel": "",
-     "views": 65,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8xsDDnIdi0E",
-     "url": "https://www.youtube.com/shorts/8xsDDnIdi0E",
-     "title": "GPT-6.2 Astra: OpenAI's Most Powerful GPT",
-     "channel": "",
-     "views": 50,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yXAqTEDUNYI",
-     "url": "https://www.youtube.com/watch?v=yXAqTEDUNYI",
-     "title": "OpenAI Admitted Its Mistake! GPT-6.2 Limits Hit 40% Faster | MindVolt",
-     "channel": "MindVolt",
-     "views": 2,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gArku27xi9E",
-     "url": "https://www.youtube.com/watch?v=gArku27xi9E",
-     "title": "GPT-6.2 plans now run out sooner: Astra hits limits 40% faster",
-     "channel": "Code Presenter",
-     "views": 6,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wYWEUiI1-9U",
-     "url": "https://www.youtube.com/watch?v=wYWEUiI1-9U",
-     "title": "Will Your GPT-6.2 Limit Now Run Out 40% Faster?",
-     "channel": "Bitwise AI",
-     "views": 2,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T06:53:58.058Z"
-  },
-  {
    "first_seen": "2026-11-26T17:36:03.352Z",
    "id": "40059455",
    "ids": [
@@ -610,7 +636,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-11-26 15:01:21",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
@@ -622,12 +648,25 @@
     "The Return",
     "196 return ai"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wOlqiPhWc-E",
+     "url": "https://www.youtube.com/watch?v=wOlqiPhWc-E",
+     "title": "AI #196: The Return",
+     "channel": "AskwhoCasts AI",
+     "views": 147,
+     "age_hours": 20,
+     "relevance": 1,
+     "velocity": 7
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-27T06:20:30.718Z"
+   "searched_at": "2026-11-27T12:39:47.345Z"
   },
   {
    "first_seen": "2026-11-26T09:49:53.278Z",
