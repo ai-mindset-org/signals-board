@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:20:04.845Z",
+ "generated_at": "2026-11-27T19:49:41.452Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: sap 10 000 prepares",
+   "source": "youtube: Papa John’s",
    "ok": true
   },
   {
-   "source": "tiktok: sap 10 000 prepares",
+   "source": "tiktok: Papa John’s",
+   "ok": true
+  },
+  {
+   "source": "youtube: papa john uk pizza",
+   "ok": true
+  },
+  {
+   "source": "tiktok: papa john uk pizza",
    "ok": true
   }
  ],
@@ -641,7 +649,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-27T13:36:43.206Z"
+   "searched_at": "2026-11-27T19:49:49.161Z"
   },
   {
    "first_seen": "2026-11-26T00:29:09.961Z",
@@ -954,6 +962,112 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-27T05:36:47.523Z"
+  },
+  {
+   "first_seen": "2026-11-26T18:37:12.398Z",
+   "id": "40060318",
+   "ids": [
+    "40060318",
+    "40058943",
+    "40067254",
+    "40060746",
+    "40077587"
+   ],
+   "title": "SAP prepares to cut at least 10,000 jobs in AI overhaul",
+   "url": "https://www.techinasia.com/news/sap-prepares-cut-10000-jobs-ai-overhaul",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-27 00:38:29",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "SAP is reportedly cutting at least 10,000 jobs in AI push",
+     "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+    }
+   ],
+   "queries": [
+    "sap 10 000 prepares"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jpY923t5hTY",
+     "url": "https://www.youtube.com/watch?v=jpY923t5hTY",
+     "title": "SAP Reportedly Preparing To Cut At Least 10,000 Jobs | SAP Plans Layoffs Amid AI Push | N18G",
+     "channel": "CNBC-TV18",
+     "views": 4805,
+     "age_hours": 10,
+     "relevance": 0.78,
+     "velocity": 481
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wc435uTiRvI",
+     "url": "https://www.youtube.com/watch?v=wc435uTiRvI",
+     "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
+     "channel": "Bloomberg Television",
+     "views": 265,
+     "age_hours": 0.9666666666666667,
+     "relevance": 0.75,
+     "velocity": 265
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DJSeyj07IZ0",
+     "url": "https://www.youtube.com/watch?v=DJSeyj07IZ0",
+     "title": "SAP Is Preparing To Eliminate At Least 10,000 Jobs | AI Impact On Software Jobs | @SakshiTV",
+     "channel": "Sakshi TV",
+     "views": 711,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 89
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A-iWjCDb_vI",
+     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 375,
+     "age_hours": 21,
+     "relevance": 0.67,
+     "velocity": 18
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N6pS4rDY9iw",
+     "url": "https://www.youtube.com/watch?v=N6pS4rDY9iw",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 359,
+     "age_hours": 21,
+     "relevance": 0.67,
+     "velocity": 17
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_btztNBmCyw",
+     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
+     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
+     "channel": "Runday AI",
+     "views": 271,
+     "age_hours": 24,
+     "relevance": 0.56,
+     "velocity": 11
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T19:20:11.230Z"
   },
   {
    "first_seen": "2026-11-26T09:12:39.185Z",
@@ -1331,112 +1445,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T10:24:13.008Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:37:12.398Z",
-   "id": "40060318",
-   "ids": [
-    "40060318",
-    "40058943",
-    "40067254",
-    "40060746",
-    "40077587"
-   ],
-   "title": "SAP prepares to cut at least 10,000 jobs in AI overhaul",
-   "url": "https://www.techinasia.com/news/sap-prepares-cut-10000-jobs-ai-overhaul",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-27 00:38:29",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "SAP is reportedly cutting at least 10,000 jobs in AI push",
-     "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
-    }
-   ],
-   "queries": [
-    "sap 10 000 prepares"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jpY923t5hTY",
-     "url": "https://www.youtube.com/watch?v=jpY923t5hTY",
-     "title": "SAP Reportedly Preparing To Cut At Least 10,000 Jobs | SAP Plans Layoffs Amid AI Push | N18G",
-     "channel": "CNBC-TV18",
-     "views": 4805,
-     "age_hours": 10,
-     "relevance": 0.78,
-     "velocity": 481
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wc435uTiRvI",
-     "url": "https://www.youtube.com/watch?v=wc435uTiRvI",
-     "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
-     "channel": "Bloomberg Television",
-     "views": 265,
-     "age_hours": 0.9666666666666667,
-     "relevance": 0.75,
-     "velocity": 265
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:DJSeyj07IZ0",
-     "url": "https://www.youtube.com/watch?v=DJSeyj07IZ0",
-     "title": "SAP Is Preparing To Eliminate At Least 10,000 Jobs | AI Impact On Software Jobs | @SakshiTV",
-     "channel": "Sakshi TV",
-     "views": 711,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 89
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A-iWjCDb_vI",
-     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 375,
-     "age_hours": 21,
-     "relevance": 0.67,
-     "velocity": 18
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:N6pS4rDY9iw",
-     "url": "https://www.youtube.com/watch?v=N6pS4rDY9iw",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 359,
-     "age_hours": 21,
-     "relevance": 0.67,
-     "velocity": 17
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
-     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "Runday AI",
-     "views": 271,
-     "age_hours": 24,
-     "relevance": 0.56,
-     "velocity": 11
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T19:20:11.230Z"
   },
   {
    "first_seen": "2026-11-25T22:49:37.521Z",
