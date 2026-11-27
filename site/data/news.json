@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:10:12.704Z",
+ "generated_at": "2026-11-27T17:20:29.368Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -412,86 +412,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-27T13:36:43.206Z"
-  },
-  {
-   "first_seen": "2026-11-24T18:13:58.347Z",
-   "id": "40017962",
-   "ids": [
-    "40017962",
-    "40014797",
-    "40018455"
-   ],
-   "title": "Tidal will start banning AI-generated music next month",
-   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-   "source_id": "theverge",
-   "published_ts": "2026-11-24 17:17:09",
-   "story_sources": 2,
-   "score_norm": 79,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "Tidal is banning AI-generated music entirely",
-     "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/"
-    }
-   ],
-   "queries": [
-    "tidal ai-generated start banning"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_upJzzrCv7s",
-     "url": "https://www.youtube.com/shorts/_upJzzrCv7s",
-     "title": "Tidal Is Banning 100% AI-Generated Music — Starting December 9th",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:6xyc7YeSmOw",
-     "url": "https://www.youtube.com/watch?v=6xyc7YeSmOw",
-     "title": "TIDAL Is Banning Fully AI-Generated Music. Where Is the Line?",
-     "channel": "Fine Print AI",
-     "views": 4,
-     "age_hours": 1,
-     "relevance": 0.57,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jPi6NuLVHgM",
-     "url": "https://www.youtube.com/shorts/jPi6NuLVHgM",
-     "title": "Tidal will start banning AI-generated music next month",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:mcs8LzYhzz0",
-     "url": "https://www.youtube.com/shorts/mcs8LzYhzz0",
-     "title": "Tidal is banning AI music",
-     "channel": "",
-     "views": 17,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T12:50:09.432Z"
   },
   {
    "first_seen": "2026-11-26T18:49:44.018Z",
