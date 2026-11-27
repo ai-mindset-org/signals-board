@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:13:46.720Z",
+ "generated_at": "2026-11-27T05:36:43.163Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: fcc spacex starmind 2040",
+   "ok": true
+  },
+  {
+   "source": "tiktok: fcc spacex starmind 2040",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -298,7 +307,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-26 17:01:29",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "hn",
@@ -390,109 +399,6 @@
    "searched_at": "2026-11-27T00:50:32.804Z"
   },
   {
-   "first_seen": "2026-11-26T09:12:39.185Z",
-   "id": "40050663",
-   "ids": [
-    "40050663",
-    "40048587"
-   ],
-   "title": "Apple pulls Chinese AI chatbot Talkie over child safety",
-   "url": "https://www.techinasia.com/news/apple-pulls-chinese-ai-chatbot-talkie-child-safety",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-26 08:00:42",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
-     "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-10979117/"
-    }
-   ],
-   "queries": [
-    "apple chinese talkie pulls"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9qpw2Jy26tI",
-     "url": "https://www.youtube.com/shorts/9qpw2Jy26tI",
-     "title": "Apple Pulls Talkie Worldwide | AI News 26 Nov #AINews",
-     "channel": "",
-     "views": 173,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:QiGIVuuCUWI",
-     "url": "https://www.youtube.com/shorts/QiGIVuuCUWI",
-     "title": "Apple pulls AI companion app Talkie from App Store over child safety",
-     "channel": "",
-     "views": 171,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:0AiaVc8Kew8",
-     "url": "https://www.youtube.com/watch?v=0AiaVc8Kew8",
-     "title": "Apple Pulls MiniMax's Talkie Worldwide After TBIJ Probe: AI Characters Insulted, Sexualized Kids",
-     "channel": "Kinda Into AI",
-     "views": 28,
-     "age_hours": 16,
-     "relevance": 0.5,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:egdHUq9sxuE",
-     "url": "https://www.youtube.com/shorts/egdHUq9sxuE",
-     "title": "Apple Pulls AI Roleplay App Talkie Worldwide After TBIJ Probe Into Kids' Chats",
-     "channel": "",
-     "views": 64,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gMe7AGjXyuc",
-     "url": "https://www.youtube.com/shorts/gMe7AGjXyuc",
-     "title": "AI News: Apple Pulls Talkie from Its App Store, EU Fund Target and Meta Moderation",
-     "channel": "",
-     "views": 46,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YYg6h1dmzkg",
-     "url": "https://www.youtube.com/watch?v=YYg6h1dmzkg",
-     "title": "Apple Pulls AI App Talkie Worldwide After Its Bots Abused Kids",
-     "channel": "AI&Other-Tech",
-     "views": 9,
-     "age_hours": 12,
-     "relevance": 0.5,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T03:38:27.707Z"
-  },
-  {
    "first_seen": "2026-11-26T18:49:44.018Z",
    "id": "40060718",
    "ids": [
@@ -504,7 +410,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-26 17:28:56",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -608,7 +514,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-11-26 15:01:21",
    "story_sources": 2,
-   "score_norm": 76,
+   "score_norm": 77,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
@@ -639,6 +545,109 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T23:49:43.463Z"
+  },
+  {
+   "first_seen": "2026-11-26T09:12:39.185Z",
+   "id": "40050663",
+   "ids": [
+    "40050663",
+    "40048587"
+   ],
+   "title": "Apple pulls Chinese AI chatbot Talkie over child safety",
+   "url": "https://www.techinasia.com/news/apple-pulls-chinese-ai-chatbot-talkie-child-safety",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-26 08:00:42",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "Apple pulls MiniMax AI chatbot from App Store over child safety concerns",
+     "url": "https://indianexpress.com/article/technology/artificial-intelligence/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns-10979117/"
+    }
+   ],
+   "queries": [
+    "apple chinese talkie pulls"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:9qpw2Jy26tI",
+     "url": "https://www.youtube.com/shorts/9qpw2Jy26tI",
+     "title": "Apple Pulls Talkie Worldwide | AI News 26 Nov #AINews",
+     "channel": "",
+     "views": 173,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:QiGIVuuCUWI",
+     "url": "https://www.youtube.com/shorts/QiGIVuuCUWI",
+     "title": "Apple pulls AI companion app Talkie from App Store over child safety",
+     "channel": "",
+     "views": 171,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:0AiaVc8Kew8",
+     "url": "https://www.youtube.com/watch?v=0AiaVc8Kew8",
+     "title": "Apple Pulls MiniMax's Talkie Worldwide After TBIJ Probe: AI Characters Insulted, Sexualized Kids",
+     "channel": "Kinda Into AI",
+     "views": 28,
+     "age_hours": 16,
+     "relevance": 0.5,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:egdHUq9sxuE",
+     "url": "https://www.youtube.com/shorts/egdHUq9sxuE",
+     "title": "Apple Pulls AI Roleplay App Talkie Worldwide After TBIJ Probe Into Kids' Chats",
+     "channel": "",
+     "views": 64,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gMe7AGjXyuc",
+     "url": "https://www.youtube.com/shorts/gMe7AGjXyuc",
+     "title": "AI News: Apple Pulls Talkie from Its App Store, EU Fund Target and Meta Moderation",
+     "channel": "",
+     "views": 46,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YYg6h1dmzkg",
+     "url": "https://www.youtube.com/watch?v=YYg6h1dmzkg",
+     "title": "Apple Pulls AI App Talkie Worldwide After Its Bots Abused Kids",
+     "channel": "AI&Other-Tech",
+     "views": 9,
+     "age_hours": 12,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T03:38:27.707Z"
   },
   {
    "first_seen": "2026-11-26T09:49:53.278Z",
@@ -989,7 +998,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-26 13:41:07",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "engadget",
@@ -1008,10 +1017,10 @@
      "url": "https://www.youtube.com/watch?v=gBLJYK-js9E",
      "title": "SpaceX Wins Conditional FCC Approval For 1 Million Orbital Compute Satellites",
      "channel": "AIM Network",
-     "views": 2313,
-     "age_hours": 11,
+     "views": 2939,
+     "age_hours": 17,
      "relevance": 0.56,
-     "velocity": 210
+     "velocity": 173
     },
     {
      "platform": "youtube",
@@ -1020,21 +1029,9 @@
      "url": "https://www.youtube.com/shorts/NT0pbeGZ7KU",
      "title": "FCC Approves SpaceX Starmind: 1 Million Data Center Satellites in Space! 🚀",
      "channel": "",
-     "views": 2200,
+     "views": 2300,
      "age_hours": null,
      "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5UYuIWncUr8",
-     "url": "https://www.youtube.com/shorts/5UYuIWncUr8",
-     "title": "SpaceX Wins FCC Approval for 1M AI Satellites",
-     "channel": "",
-     "views": 403,
-     "age_hours": null,
-     "relevance": 0.57,
      "velocity": null
     },
     {
@@ -1044,22 +1041,10 @@
      "url": "https://www.youtube.com/shorts/iykWDAC4Fcc",
      "title": "SpaceX Starmind: FCC Approves 1 Million Satellites",
      "channel": "",
-     "views": 322,
+     "views": 1000,
      "age_hours": null,
      "relevance": 0.83,
      "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XNwUObU_95A",
-     "url": "https://www.youtube.com/watch?v=XNwUObU_95A",
-     "title": "SpaceX Starmind Approved: FCC Authorizes 1 Million Orbital Data Center Satellites 🚀",
-     "channel": "Electrickaos",
-     "views": 144,
-     "age_hours": 24,
-     "relevance": 0.7,
-     "velocity": 6
     },
     {
      "platform": "youtube",
@@ -1068,9 +1053,33 @@
      "url": "https://www.youtube.com/shorts/2DW-O3rbdW0",
      "title": "FCC Approves SpaceX Starmind: Up to 1 Million AI Satellites 🛰️⚡🌍 #Shorts",
      "channel": "",
-     "views": 125,
+     "views": 248,
      "age_hours": null,
      "relevance": 0.78,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sDNr6I9EO4I",
+     "url": "https://www.youtube.com/watch?v=sDNr6I9EO4I",
+     "title": "The FCC Just Approved 1 Million SpaceX Satellites",
+     "channel": "Explain That To Me",
+     "views": 51,
+     "age_hours": 24,
+     "relevance": 0.8,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8YMt__W9KV0",
+     "url": "https://www.youtube.com/shorts/8YMt__W9KV0",
+     "title": "FCC Approves SpaceX Starmind: 1 Million AI Data Center Satellites in Orbit",
+     "channel": "",
+     "views": 66,
+     "age_hours": null,
+     "relevance": 0.7,
      "velocity": null
     }
    ],
@@ -1078,7 +1087,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T23:35:57.574Z"
+   "searched_at": "2026-11-27T05:36:47.523Z"
   },
   {
    "first_seen": "2026-11-25T01:23:34.185Z",
