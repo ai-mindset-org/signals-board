@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T06:53:45.263Z",
+ "generated_at": "2026-11-27T07:12:54.965Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: sap 10 000 prepares",
-   "ok": true
-  },
-  {
-   "source": "tiktok: sap 10 000 prepares",
-   "ok": true
-  },
-  {
-   "source": "youtube: GPT-6.2 Astra",
-   "ok": true
-  },
-  {
-   "source": "tiktok: GPT-6.2 Astra",
-   "ok": true
-  },
-  {
-   "source": "youtube: gpt-6.2 astra 40 openai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: gpt-6.2 astra 40 openai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -2836,109 +2811,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T02:17:06.917Z"
-  },
-  {
-   "first_seen": "2026-11-24T10:36:33.127Z",
-   "id": "40010564",
-   "ids": [
-    "40010564",
-    "40001811"
-   ],
-   "title": "OpenAI and Cisco launch Shirudo to shield live systems while patches catch up",
-   "url": "https://dailyai.com/2026/11/openai-and-cisco-launch-shirudo-to-shield-live-systems-while-patches-catch-up/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-24 06:53:53",
-   "story_sources": 2,
-   "score_norm": 37,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Cisco and OpenAI Launch Shirudo to Shield Linux Systems",
-     "url": "https://thedefiant.io/frontier/ai/cisco-and-openai-launch-shirudo-to-shield-linux-systems"
-    }
-   ],
-   "queries": [
-    "openai cisco shirudo launch"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ELLXzhqWIgY",
-     "url": "https://www.youtube.com/shorts/ELLXzhqWIgY",
-     "title": "Shirudo: OpenAI and Cisco open-source eBPF Linux shield",
-     "channel": "",
-     "views": 94,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XlX0DXJLttI",
-     "url": "https://www.youtube.com/shorts/XlX0DXJLttI",
-     "title": "OpenAI and Cisco open-source Shirudo, a Linux shield",
-     "channel": "",
-     "views": 61,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Bz4eCBcVmW4",
-     "url": "https://www.youtube.com/watch?v=Bz4eCBcVmW4",
-     "title": "OpenAI and Cisco Want to Shield Linux Before the Patch",
-     "channel": "Just Announced",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:kXGgiPgXf0U",
-     "url": "https://www.youtube.com/shorts/kXGgiPgXf0U",
-     "title": "Cisco and OpenAI launch Shirudo to shield Linux systems while patches catch up #Shorts",
-     "channel": "",
-     "views": 28,
-     "age_hours": null,
-     "relevance": 0.91,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:aQc-UP-H1lM",
-     "url": "https://www.youtube.com/shorts/aQc-UP-H1lM",
-     "title": "Cisco partners with OpenAI to release Shirudo #Shorts",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:xPyTv_am1T8",
-     "url": "https://www.youtube.com/shorts/xPyTv_am1T8",
-     "title": "Shirudo: OpenAI's Linux shield patches nothing #Shorts",
-     "channel": "",
-     "views": 19,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T16:36:50.342Z"
   },
   {
    "first_seen": "2026-11-26T04:13:57.046Z",
