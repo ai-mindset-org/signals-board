@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:36:38.140Z",
+ "generated_at": "2026-11-27T17:10:12.704Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -286,7 +286,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-27 00:38:29",
    "story_sources": 3,
-   "score_norm": 90,
+   "score_norm": 91,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -976,62 +976,6 @@
    "searched_at": "2026-11-26T16:36:58.681Z"
   },
   {
-   "first_seen": "2026-11-25T01:23:34.185Z",
-   "id": "40024536",
-   "ids": [
-    "40024536",
-    "40015003"
-   ],
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-   "source_id": "simonw",
-   "published_ts": "2026-11-24 16:53:59",
-   "story_sources": 2,
-   "score_norm": 67,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT 6.2 Astra Solves a Historical Mystery",
-     "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
-    }
-   ],
-   "queries": [
-    "GPT 6.2 Astra Solves",
-    "gpt 6.2 astra solves"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:KGA7B_c_S4s",
-     "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
-     "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
-     "channel": "@aiexplained-official",
-     "views": 141000,
-     "age_hours": 127.01800694444445,
-     "relevance": 0.5,
-     "velocity": 1110
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:GvnlJnOG8_8",
-     "url": "https://www.youtube.com/shorts/GvnlJnOG8_8",
-     "title": "GPT Astra and Sol 6.2 for CAD and Hardware",
-     "channel": "",
-     "views": 2500,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-25T13:36:35.264Z"
-  },
-  {
    "first_seen": "2026-11-26T11:10:42.724Z",
    "id": "40052567",
    "ids": [
@@ -1624,111 +1568,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T11:36:27.033Z"
-  },
-  {
-   "first_seen": "2026-11-24T17:10:34.699Z",
-   "id": "40016952",
-   "ids": [
-    "40016952",
-    "40016085",
-    "40029050"
-   ],
-   "title": "Tidal to Ban Fully AI-Generated Music From December 9",
-   "url": "https://thedefiant.io/frontier/ai/tidal-to-ban-fully-ai-generated-music-from-december-9",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-24 17:01:34",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Tidal Bans AI-Generated Music",
-     "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/"
-    }
-   ],
-   "queries": [
-    "Ban Fully AI-Generated Music From December 9",
-    "tidal ban fully ai-generated"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_upJzzrCv7s",
-     "url": "https://www.youtube.com/shorts/_upJzzrCv7s",
-     "title": "Tidal Is Banning 100% AI-Generated Music — Starting December 9th",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7Ou6WW79JyE",
-     "url": "https://www.youtube.com/shorts/7Ou6WW79JyE",
-     "title": "Tidal Bans Fully AI-Generated Music Starting Dec. 9 #Shorts",
-     "channel": "",
-     "views": 387,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:RrZTpxdu9Pw",
-     "url": "https://www.youtube.com/shorts/RrZTpxdu9Pw",
-     "title": "AI Music Ban: Tidal Will Delete Millions of AI-Generated Songs",
-     "channel": "",
-     "views": 273,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZdePf6l6g4E",
-     "url": "https://www.youtube.com/shorts/ZdePf6l6g4E",
-     "title": "Tidal Bans Fully AI-Generated Music #Shorts",
-     "channel": "",
-     "views": 86,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:jPi6NuLVHgM",
-     "url": "https://www.youtube.com/shorts/jPi6NuLVHgM",
-     "title": "Tidal will start banning AI-generated music next month",
-     "channel": "",
-     "views": 38,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:E-cd7tpnfFw",
-     "url": "https://www.youtube.com/shorts/E-cd7tpnfFw",
-     "title": "Tidal Bans Fully AI-Generated Music",
-     "channel": "",
-     "views": 32,
-     "age_hours": null,
-     "relevance": 0.8,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T11:36:34.168Z"
   },
   {
    "first_seen": "2026-11-25T18:36:12.069Z",
