@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:49:26.600Z",
+ "generated_at": "2026-11-27T23:09:57.765Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: OpenAI Countersues Apple",
-   "ok": true
-  },
-  {
-   "source": "tiktok: OpenAI Countersues Apple",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai countersues apple trade",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai countersues apple trade",
-   "ok": true
-  },
-  {
-   "source": "youtube: Poland Signs Palantir Deal",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Poland Signs Palantir Deal",
-   "ok": true
-  },
-  {
-   "source": "youtube: poland signs palantir deal",
-   "ok": true
-  },
-  {
-   "source": "tiktok: poland signs palantir deal",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-27T21:49:26.600Z",
@@ -521,7 +488,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-27 11:57:39",
    "story_sources": 2,
-   "score_norm": 78,
+   "score_norm": 79,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -1107,7 +1074,7 @@
    "source_id": "eu-tech-eu",
    "published_ts": "2026-11-27 11:00:00",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "hn",
@@ -1244,7 +1211,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-27 07:07:31",
    "story_sources": 2,
-   "score_norm": 62,
+   "score_norm": 63,
    "related_news": [
     {
      "source_id": "hn",
@@ -1532,86 +1499,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-26T05:12:08.574Z"
-  },
-  {
-   "first_seen": "2026-11-24T23:20:02.739Z",
-   "id": "40023015",
-   "ids": [
-    "40023015",
-    "40017660"
-   ],
-   "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
-   "url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-24 22:56:59",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Anthropic’s new Siren test tempts Claude to break out of its sandbox",
-     "url": "https://thenextweb.com/news/anthropic-siren-claude-sandbox-escape-test"
-    }
-   ],
-   "queries": [
-    "Anthropic’s Siren",
-    "anthropic siren claude tests"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "с борда",
-     "id": "youtube:I0Fasi1-teQ",
-     "url": "https://www.youtube.com/watch?v=I0Fasi1-teQ",
-     "title": "I’m Crashing Out About Anthropic",
-     "channel": "@matthew_berman",
-     "views": 152000,
-     "age_hours": 77.0106661111111,
-     "relevance": 0.67,
-     "velocity": 1974
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:PMGpek1hoVU",
-     "url": "https://www.youtube.com/shorts/PMGpek1hoVU",
-     "title": "Anthropic Siren: Claude peeked outside in 21-32% of 1,700 tests",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WZdAqKFb-ns",
-     "url": "https://www.youtube.com/shorts/WZdAqKFb-ns",
-     "title": "Anthropic's Siren Test Checks Whether Claude Models Will Break Out of an Insecure Sandbox",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.9,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:ZyvU83bnh54",
-     "url": "https://www.youtube.com/shorts/ZyvU83bnh54",
-     "title": "Anthropic released Siren, a benchmark that tests whether AI agents",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-25T11:36:27.033Z"
   },
   {
    "first_seen": "2026-11-25T18:36:12.069Z",
