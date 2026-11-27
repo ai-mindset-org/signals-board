@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T00:29:44.743Z",
+ "generated_at": "2026-11-27T00:50:27.269Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: sap 10 000 weighs",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sap 10 000 weighs",
+   "ok": true
+  },
+  {
+   "source": "youtube: GPT-6.2 Astra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: GPT-6.2 Astra",
+   "ok": true
+  },
+  {
+   "source": "youtube: gpt-6.2 astra 40 openai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gpt-6.2 astra 40 openai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -127,22 +152,82 @@
    "videos": [
     {
      "platform": "youtube",
-     "kind": "shorts",
+     "kind": "видео",
+     "id": "youtube:N6pS4rDY9iw",
+     "url": "https://www.youtube.com/watch?v=N6pS4rDY9iw",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 13,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 7
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
      "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/shorts/_btztNBmCyw",
+     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
      "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
+     "channel": "Runday AI",
+     "views": 32,
+     "age_hours": 7,
      "relevance": 0.78,
-     "velocity": null
+     "velocity": 5
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:qCPZQ7D9yX0",
+     "url": "https://www.youtube.com/watch?v=qCPZQ7D9yX0",
+     "title": "SAP weighs at least 10,000 job cuts in AI restructuring, Bloomberg reports #Shorts",
+     "channel": "RuntimeWire",
+     "views": 20,
+     "age_hours": 6,
+     "relevance": 0.78,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:IoAEtCm9l90",
+     "url": "https://www.youtube.com/watch?v=IoAEtCm9l90",
+     "title": "SAP weighs 10,000 job cuts for AI while its business grows #sap",
+     "channel": "TiziriTech",
+     "views": 2,
+     "age_hours": 0.6166666666666667,
+     "relevance": 0.56,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:YXD-6IvejbU",
+     "url": "https://www.youtube.com/watch?v=YXD-6IvejbU",
+     "title": "SAP Weighs 10,000 AI Job Cuts. What It Means for You",
+     "channel": "The Business Lens",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.63,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A-iWjCDb_vI",
+     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 1,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T18:37:17.608Z"
+   "searched_at": "2026-11-27T00:50:32.804Z"
   },
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
@@ -275,23 +360,11 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:hpa0elQQdq4",
-     "url": "https://www.youtube.com/shorts/hpa0elQQdq4",
-     "title": "GPT-6.2 Astra is Intentionally Worse",
-     "channel": "",
-     "views": 5600,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
      "id": "youtube:-HnnDxJavrA",
      "url": "https://www.youtube.com/shorts/-HnnDxJavrA",
      "title": "OPENAI JUST UNLEASHED GPT-6.2 ASTRA! 🤯",
      "channel": "",
-     "views": 40,
+     "views": 55,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -303,7 +376,7 @@
      "url": "https://www.youtube.com/shorts/8xsDDnIdi0E",
      "title": "GPT-6.2 Astra: OpenAI's Most Powerful GPT",
      "channel": "",
-     "views": 35,
+     "views": 44,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -315,7 +388,7 @@
      "url": "https://www.youtube.com/shorts/y2WLl_VlGzg",
      "title": "OpenAI GPT-6.2 Astra and Sol launched #Shorts",
      "channel": "",
-     "views": 15,
+     "views": 16,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
@@ -323,13 +396,37 @@
     {
      "platform": "youtube",
      "kind": "shorts",
-     "id": "youtube:zNNAJ3HHhzw",
-     "url": "https://www.youtube.com/shorts/zNNAJ3HHhzw",
-     "title": "GPT-6.2 Astra Limits Hit 40% Faster After Billing Error #shorts",
+     "id": "youtube:L8Qn6kQDZHs",
+     "url": "https://www.youtube.com/shorts/L8Qn6kQDZHs",
+     "title": "OpenAI Launches GPT-6.2 Astra",
+     "channel": "",
+     "views": 7,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:wAsSAunJSbk",
+     "url": "https://www.youtube.com/shorts/wAsSAunJSbk",
+     "title": "GPT-6.2 Astra limits now run out 40% faster",
      "channel": "",
      "views": 1,
      "age_hours": null,
-     "relevance": 0.78,
+     "relevance": 0.71,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:7Bd7myUbjMI",
+     "url": "https://www.youtube.com/shorts/7Bd7myUbjMI",
+     "title": "GPT-6.2 Astra users now hit limits 40 percent faster",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.88,
      "velocity": null
     }
    ],
@@ -337,7 +434,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-26T18:49:51.892Z"
+   "searched_at": "2026-11-27T00:50:40.275Z"
   },
   {
    "first_seen": "2026-11-26T17:36:03.352Z",
@@ -351,7 +448,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-11-26 15:01:21",
    "story_sources": 2,
-   "score_norm": 87,
+   "score_norm": 88,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
