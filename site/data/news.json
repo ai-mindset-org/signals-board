@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T06:43:45.570Z",
+ "generated_at": "2026-11-27T06:53:45.263Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: sap 10 000 prepares",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sap 10 000 prepares",
+   "ok": true
+  },
+  {
+   "source": "youtube: GPT-6.2 Astra",
+   "ok": true
+  },
+  {
+   "source": "tiktok: GPT-6.2 Astra",
+   "ok": true
+  },
+  {
+   "source": "youtube: gpt-6.2 astra 40 openai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: gpt-6.2 astra 40 openai",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -729,6 +754,111 @@
    "searched_at": "2026-11-26T16:36:58.681Z"
   },
   {
+   "first_seen": "2026-11-26T18:37:12.398Z",
+   "id": "40060318",
+   "ids": [
+    "40060318",
+    "40058943",
+    "40067254",
+    "40060746"
+   ],
+   "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
+   "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-26 17:01:29",
+   "story_sources": 2,
+   "score_norm": 69,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+     "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
+    }
+   ],
+   "queries": [
+    "sap 10 000 prepares"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A-iWjCDb_vI",
+     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 60,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:N6pS4rDY9iw",
+     "url": "https://www.youtube.com/shorts/N6pS4rDY9iw",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "",
+     "views": 98,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YXD-6IvejbU",
+     "url": "https://www.youtube.com/shorts/YXD-6IvejbU",
+     "title": "SAP Weighs 10,000 AI Job Cuts. What It Means for You",
+     "channel": "",
+     "views": 92,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_btztNBmCyw",
+     "url": "https://www.youtube.com/shorts/_btztNBmCyw",
+     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
+     "channel": "",
+     "views": 90,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WKXP_yWTgJI",
+     "url": "https://www.youtube.com/shorts/WKXP_yWTgJI",
+     "title": "SAP weighs cutting 10,000 jobs",
+     "channel": "",
+     "views": 21,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gKHv_xwYp9w",
+     "url": "https://www.youtube.com/shorts/gKHv_xwYp9w",
+     "title": "SAP Plans to Cut at Least 10,000 Jobs in AI Restructuring, Bloomberg Reports",
+     "channel": "",
+     "views": 14,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T06:53:50.971Z"
+  },
+  {
    "first_seen": "2026-11-26T18:49:44.018Z",
    "id": "40060718",
    "ids": [
@@ -755,12 +885,24 @@
    "videos": [
     {
      "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:p4yI4GvHKAg",
+     "url": "https://www.youtube.com/watch?v=p4yI4GvHKAg",
+     "title": "OpenAI's Godlike GPT-6.2 Astra Just Arrived",
+     "channel": "Escape Velocity",
+     "views": 5835,
+     "age_hours": 48,
+     "relevance": 0.6,
+     "velocity": 122
+    },
+    {
+     "platform": "youtube",
      "kind": "shorts",
      "id": "youtube:-HnnDxJavrA",
      "url": "https://www.youtube.com/shorts/-HnnDxJavrA",
      "title": "OPENAI JUST UNLEASHED GPT-6.2 ASTRA! 🤯",
      "channel": "",
-     "views": 55,
+     "views": 65,
      "age_hours": null,
      "relevance": 0.75,
      "velocity": null
@@ -772,162 +914,45 @@
      "url": "https://www.youtube.com/shorts/8xsDDnIdi0E",
      "title": "GPT-6.2 Astra: OpenAI's Most Powerful GPT",
      "channel": "",
-     "views": 44,
+     "views": 50,
      "age_hours": null,
      "relevance": 0.5,
      "velocity": null
     },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:y2WLl_VlGzg",
-     "url": "https://www.youtube.com/shorts/y2WLl_VlGzg",
-     "title": "OpenAI GPT-6.2 Astra and Sol launched #Shorts",
-     "channel": "",
-     "views": 16,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:L8Qn6kQDZHs",
-     "url": "https://www.youtube.com/shorts/L8Qn6kQDZHs",
-     "title": "OpenAI Launches GPT-6.2 Astra",
-     "channel": "",
-     "views": 7,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:wAsSAunJSbk",
-     "url": "https://www.youtube.com/shorts/wAsSAunJSbk",
-     "title": "GPT-6.2 Astra limits now run out 40% faster",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7Bd7myUbjMI",
-     "url": "https://www.youtube.com/shorts/7Bd7myUbjMI",
-     "title": "GPT-6.2 Astra users now hit limits 40 percent faster",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.88,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T00:50:40.275Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:37:12.398Z",
-   "id": "40060318",
-   "ids": [
-    "40060318",
-    "40058943",
-    "40067254",
-    "40060746"
-   ],
-   "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
-   "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-26 17:01:29",
-   "story_sources": 2,
-   "score_norm": 68,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
-     "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
-    }
-   ],
-   "queries": [
-    "sap 10 000 weighs"
-   ],
-   "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:N6pS4rDY9iw",
-     "url": "https://www.youtube.com/watch?v=N6pS4rDY9iw",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 13,
+     "id": "youtube:yXAqTEDUNYI",
+     "url": "https://www.youtube.com/watch?v=yXAqTEDUNYI",
+     "title": "OpenAI Admitted Its Mistake! GPT-6.2 Limits Hit 40% Faster | MindVolt",
+     "channel": "MindVolt",
+     "views": 2,
      "age_hours": 2,
      "relevance": 0.67,
-     "velocity": 7
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
-     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "Runday AI",
-     "views": 32,
-     "age_hours": 7,
-     "relevance": 0.78,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:qCPZQ7D9yX0",
-     "url": "https://www.youtube.com/watch?v=qCPZQ7D9yX0",
-     "title": "SAP weighs at least 10,000 job cuts in AI restructuring, Bloomberg reports #Shorts",
-     "channel": "RuntimeWire",
-     "views": 20,
-     "age_hours": 6,
-     "relevance": 0.78,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IoAEtCm9l90",
-     "url": "https://www.youtube.com/watch?v=IoAEtCm9l90",
-     "title": "SAP weighs 10,000 job cuts for AI while its business grows #sap",
-     "channel": "TiziriTech",
-     "views": 2,
-     "age_hours": 0.6166666666666667,
-     "relevance": 0.56,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:YXD-6IvejbU",
-     "url": "https://www.youtube.com/watch?v=YXD-6IvejbU",
-     "title": "SAP Weighs 10,000 AI Job Cuts. What It Means for You",
-     "channel": "The Business Lens",
-     "views": 2,
-     "age_hours": 2,
-     "relevance": 0.63,
      "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:A-iWjCDb_vI",
-     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 1,
-     "age_hours": 2,
-     "relevance": 0.67,
+     "id": "youtube:gArku27xi9E",
+     "url": "https://www.youtube.com/watch?v=gArku27xi9E",
+     "title": "GPT-6.2 plans now run out sooner: Astra hits limits 40% faster",
+     "channel": "Code Presenter",
+     "views": 6,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wYWEUiI1-9U",
+     "url": "https://www.youtube.com/watch?v=wYWEUiI1-9U",
+     "title": "Will Your GPT-6.2 Limit Now Run Out 40% Faster?",
+     "channel": "Bitwise AI",
+     "views": 2,
+     "age_hours": 3,
+     "relevance": 0.5,
      "velocity": 1
     }
    ],
@@ -935,7 +960,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-27T00:50:32.804Z"
+   "searched_at": "2026-11-27T06:53:58.058Z"
   },
   {
    "first_seen": "2026-11-26T17:36:03.352Z",
@@ -949,7 +974,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-11-26 15:01:21",
    "story_sources": 2,
-   "score_norm": 67,
+   "score_norm": 68,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
@@ -1133,6 +1158,112 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-25T10:36:56.252Z"
+  },
+  {
+   "first_seen": "2026-11-26T11:10:42.724Z",
+   "id": "40052567",
+   "ids": [
+    "40052567",
+    "40038452",
+    "40057344",
+    "40040314",
+    "40044996"
+   ],
+   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-26 13:41:07",
+   "story_sources": 2,
+   "score_norm": 61,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+     "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+    }
+   ],
+   "queries": [
+    "fcc spacex starmind 2040"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gBLJYK-js9E",
+     "url": "https://www.youtube.com/watch?v=gBLJYK-js9E",
+     "title": "SpaceX Wins Conditional FCC Approval For 1 Million Orbital Compute Satellites",
+     "channel": "AIM Network",
+     "views": 2939,
+     "age_hours": 17,
+     "relevance": 0.56,
+     "velocity": 173
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NT0pbeGZ7KU",
+     "url": "https://www.youtube.com/shorts/NT0pbeGZ7KU",
+     "title": "FCC Approves SpaceX Starmind: 1 Million Data Center Satellites in Space! 🚀",
+     "channel": "",
+     "views": 2300,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iykWDAC4Fcc",
+     "url": "https://www.youtube.com/shorts/iykWDAC4Fcc",
+     "title": "SpaceX Starmind: FCC Approves 1 Million Satellites",
+     "channel": "",
+     "views": 1000,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2DW-O3rbdW0",
+     "url": "https://www.youtube.com/shorts/2DW-O3rbdW0",
+     "title": "FCC Approves SpaceX Starmind: Up to 1 Million AI Satellites 🛰️⚡🌍 #Shorts",
+     "channel": "",
+     "views": 248,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:sDNr6I9EO4I",
+     "url": "https://www.youtube.com/watch?v=sDNr6I9EO4I",
+     "title": "The FCC Just Approved 1 Million SpaceX Satellites",
+     "channel": "Explain That To Me",
+     "views": 51,
+     "age_hours": 24,
+     "relevance": 0.8,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8YMt__W9KV0",
+     "url": "https://www.youtube.com/shorts/8YMt__W9KV0",
+     "title": "FCC Approves SpaceX Starmind: 1 Million AI Data Center Satellites in Orbit",
+     "channel": "",
+     "views": 66,
+     "age_hours": null,
+     "relevance": 0.7,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T05:36:47.523Z"
   },
   {
    "first_seen": "2026-11-25T17:09:55.295Z",
@@ -1404,112 +1535,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T10:24:13.008Z"
-  },
-  {
-   "first_seen": "2026-11-26T11:10:42.724Z",
-   "id": "40052567",
-   "ids": [
-    "40052567",
-    "40038452",
-    "40057344",
-    "40040314",
-    "40044996"
-   ],
-   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
-   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-26 13:41:07",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
-     "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
-    }
-   ],
-   "queries": [
-    "fcc spacex starmind 2040"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gBLJYK-js9E",
-     "url": "https://www.youtube.com/watch?v=gBLJYK-js9E",
-     "title": "SpaceX Wins Conditional FCC Approval For 1 Million Orbital Compute Satellites",
-     "channel": "AIM Network",
-     "views": 2939,
-     "age_hours": 17,
-     "relevance": 0.56,
-     "velocity": 173
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NT0pbeGZ7KU",
-     "url": "https://www.youtube.com/shorts/NT0pbeGZ7KU",
-     "title": "FCC Approves SpaceX Starmind: 1 Million Data Center Satellites in Space! 🚀",
-     "channel": "",
-     "views": 2300,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iykWDAC4Fcc",
-     "url": "https://www.youtube.com/shorts/iykWDAC4Fcc",
-     "title": "SpaceX Starmind: FCC Approves 1 Million Satellites",
-     "channel": "",
-     "views": 1000,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2DW-O3rbdW0",
-     "url": "https://www.youtube.com/shorts/2DW-O3rbdW0",
-     "title": "FCC Approves SpaceX Starmind: Up to 1 Million AI Satellites 🛰️⚡🌍 #Shorts",
-     "channel": "",
-     "views": 248,
-     "age_hours": null,
-     "relevance": 0.78,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:sDNr6I9EO4I",
-     "url": "https://www.youtube.com/watch?v=sDNr6I9EO4I",
-     "title": "The FCC Just Approved 1 Million SpaceX Satellites",
-     "channel": "Explain That To Me",
-     "views": 51,
-     "age_hours": 24,
-     "relevance": 0.8,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8YMt__W9KV0",
-     "url": "https://www.youtube.com/shorts/8YMt__W9KV0",
-     "title": "FCC Approves SpaceX Starmind: 1 Million AI Data Center Satellites in Orbit",
-     "channel": "",
-     "views": 66,
-     "age_hours": null,
-     "relevance": 0.7,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T05:36:47.523Z"
   },
   {
    "first_seen": "2026-11-25T08:15:03.831Z",
@@ -1884,50 +1909,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T13:11:57.523Z"
-  },
-  {
-   "first_seen": "2026-11-24T08:15:07.564Z",
-   "id": "40008783",
-   "ids": [
-    "40008783",
-    "39995817"
-   ],
-   "title": "Sarvam AI Launches Dictation API For English, 22 Indian Languages",
-   "url": "https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/",
-   "source_id": "in-inc42",
-   "published_ts": "2026-11-24 06:46:40",
-   "story_sources": 2,
-   "score_norm": 56,
-   "related_news": [
-    {
-     "source_id": "in-businessline",
-     "title": "Sarvam launches AI-powered dictation API for English, 22 Indian languages",
-     "url": "https://www.thehindubusinessline.com/info-tech/sarvam-launches-ai-powered-dictation-api-for-english-22-indian-languages/article71735921.ece"
-    }
-   ],
-   "queries": [
-    "Launches Dictation API For English",
-    "sarvam launches dictation api"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:JyTLTJAxtI8",
-     "url": "https://www.youtube.com/shorts/JyTLTJAxtI8",
-     "title": "Sarvam Dictate API: AI Speech to Text for 22 Indian Languages 🇮🇳",
-     "channel": "",
-     "views": 65,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-24T14:24:09.938Z"
   },
   {
    "first_seen": "2026-11-24T22:49:32.159Z",
