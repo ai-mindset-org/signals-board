@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T12:39:36.394Z",
+ "generated_at": "2026-11-27T13:11:31.723Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,27 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: apple minimax store pulls",
+   "source": "youtube: sap 10 000 prepares",
    "ok": true
   },
   {
-   "source": "tiktok: apple minimax store pulls",
-   "ok": true
-  },
-  {
-   "source": "youtube: The Return",
-   "ok": true
-  },
-  {
-   "source": "tiktok: The Return",
-   "ok": true
-  },
-  {
-   "source": "youtube: 196 return ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: 196 return ai",
+   "source": "tiktok: sap 10 000 prepares",
    "ok": true
   }
  ],
@@ -228,6 +212,111 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T18:27:25.368Z"
+  },
+  {
+   "first_seen": "2026-11-26T18:37:12.398Z",
+   "id": "40060318",
+   "ids": [
+    "40060318",
+    "40058943",
+    "40067254",
+    "40060746"
+   ],
+   "title": "SAP prepares to cut at least 10,000 jobs in AI overhaul",
+   "url": "https://www.techinasia.com/news/sap-prepares-cut-10000-jobs-ai-overhaul",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-27 00:38:29",
+   "story_sources": 2,
+   "score_norm": 96,
+   "related_news": [
+    {
+     "source_id": "x-dailyai",
+     "title": "SAP weighs cutting at least 10,000 jobs in an AI restructuring",
+     "url": "https://dailyai.com/2026/11/sap-weighs-cutting-at-least-10000-jobs-in-an-ai-restructuring/"
+    }
+   ],
+   "queries": [
+    "sap 10 000 prepares"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jpY923t5hTY",
+     "url": "https://www.youtube.com/watch?v=jpY923t5hTY",
+     "title": "SAP Reportedly Preparing To Cut At Least 10,000 Jobs | SAP Plans Layoffs Amid AI Push | N18G",
+     "channel": "CNBC-TV18",
+     "views": 821,
+     "age_hours": 4,
+     "relevance": 0.78,
+     "velocity": 205
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:DJSeyj07IZ0",
+     "url": "https://www.youtube.com/watch?v=DJSeyj07IZ0",
+     "title": "SAP Is Preparing To Eliminate At Least 10,000 Jobs | AI Impact On Software Jobs | @SakshiTV",
+     "channel": "Sakshi TV",
+     "views": 82,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 82
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N6pS4rDY9iw",
+     "url": "https://www.youtube.com/watch?v=N6pS4rDY9iw",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 271,
+     "age_hours": 14,
+     "relevance": 0.67,
+     "velocity": 19
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A-iWjCDb_vI",
+     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 153,
+     "age_hours": 14,
+     "relevance": 0.67,
+     "velocity": 11
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_btztNBmCyw",
+     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
+     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
+     "channel": "Runday AI",
+     "views": 207,
+     "age_hours": 19,
+     "relevance": 0.56,
+     "velocity": 11
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:N4YhJT0Mrvs",
+     "url": "https://www.youtube.com/watch?v=N4YhJT0Mrvs",
+     "title": "SAP weighs cutting at least 10,000 jobs, 9% of staff",
+     "channel": "ClipperPrime News",
+     "views": 85,
+     "age_hours": 15,
+     "relevance": 0.63,
+     "velocity": 6
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T13:11:35.945Z"
   },
   {
    "first_seen": "2026-11-26T09:12:39.185Z",
@@ -518,111 +607,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-27T06:53:58.058Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:37:12.398Z",
-   "id": "40060318",
-   "ids": [
-    "40060318",
-    "40058943",
-    "40067254",
-    "40060746"
-   ],
-   "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
-   "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-26 17:01:29",
-   "story_sources": 2,
-   "score_norm": 77,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
-     "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
-    }
-   ],
-   "queries": [
-    "sap 10 000 prepares"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A-iWjCDb_vI",
-     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 60,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:N6pS4rDY9iw",
-     "url": "https://www.youtube.com/shorts/N6pS4rDY9iw",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "",
-     "views": 98,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YXD-6IvejbU",
-     "url": "https://www.youtube.com/shorts/YXD-6IvejbU",
-     "title": "SAP Weighs 10,000 AI Job Cuts. What It Means for You",
-     "channel": "",
-     "views": 92,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/shorts/_btztNBmCyw",
-     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "",
-     "views": 90,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WKXP_yWTgJI",
-     "url": "https://www.youtube.com/shorts/WKXP_yWTgJI",
-     "title": "SAP weighs cutting 10,000 jobs",
-     "channel": "",
-     "views": 21,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gKHv_xwYp9w",
-     "url": "https://www.youtube.com/shorts/gKHv_xwYp9w",
-     "title": "SAP Plans to Cut at Least 10,000 Jobs in AI Restructuring, Bloomberg Reports",
-     "channel": "",
-     "views": 14,
-     "age_hours": null,
-     "relevance": 0.78,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T06:53:50.971Z"
   },
   {
    "first_seen": "2026-11-26T17:36:03.352Z",
@@ -1544,61 +1528,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T10:24:13.008Z"
-  },
-  {
-   "first_seen": "2026-11-25T08:15:03.831Z",
-   "id": "40028831",
-   "ids": [
-    "40028831",
-    "40021125"
-   ],
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-   "source_id": "openai-blog",
-   "published_ts": "2026-11-24 13:00:00",
-   "story_sources": 2,
-   "score_norm": 60,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
-    }
-   ],
-   "queries": [
-    "gpt-6 models demonstrate intrinsic"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:9TzKIoiRLb8",
-     "url": "https://www.youtube.com/shorts/9TzKIoiRLb8",
-     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities | Top 3 AI News · Nov 25",
-     "channel": "",
-     "views": 4,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:su9Yt3uWvms",
-     "url": "https://www.youtube.com/shorts/su9Yt3uWvms",
-     "title": "OpenAI: GPT-6 models demonstrate intrinsic protein-design capabilities",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 1,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T08:15:08.110Z"
   },
   {
    "first_seen": "2026-11-25T22:49:37.521Z",
