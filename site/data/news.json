@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T13:36:35.605Z",
+ "generated_at": "2026-11-27T14:11:54.156Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,24 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: Papa John’s",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Papa John’s",
-   "ok": true
-  },
-  {
-   "source": "youtube: papa john uk pizza",
-   "ok": true
-  },
-  {
-   "source": "tiktok: papa john uk pizza",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-27T13:36:35.605Z",
@@ -2612,109 +2595,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-26T12:16:37.263Z"
-  },
-  {
-   "first_seen": "2026-11-24T19:49:50.077Z",
-   "id": "40019643",
-   "ids": [
-    "40019643",
-    "40014046"
-   ],
-   "title": "Meta’s AI shopping agent Muse goes live in the UK",
-   "url": "https://dailyai.com/2026/11/metas-ai-shopping-agent-muse-goes-live-in-the-uk/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-24 14:03:45",
-   "story_sources": 2,
-   "score_norm": 44,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "Meta’s AI agent Muse lands in the UK in time for Christmas shopping",
-     "url": "https://thenextweb.com/news/meta-muse-uk-launch"
-    }
-   ],
-   "queries": [
-    "meta muse uk ai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dY0Ya5iI0lE",
-     "url": "https://www.youtube.com/watch?v=dY0Ya5iI0lE",
-     "title": "Meta Muse launches in the UK: What it means for brands",
-     "channel": "Azoma",
-     "views": 1203,
-     "age_hours": 9,
-     "relevance": 0.5,
-     "velocity": 134
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:WN4K4Ms1w9Q",
-     "url": "https://www.youtube.com/watch?v=WN4K4Ms1w9Q",
-     "title": "Meta launches Muse AI agent to run errands in the UK",
-     "channel": "NomicSignal",
-     "views": 107,
-     "age_hours": 14,
-     "relevance": 0.63,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:E-AIvKAFjfc",
-     "url": "https://www.youtube.com/watch?v=E-AIvKAFjfc",
-     "title": "Meta launches its AI agent Muse in the UK for users",
-     "channel": "Max Herrera",
-     "views": 78,
-     "age_hours": 16,
-     "relevance": 0.71,
-     "velocity": 5
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:Jc1L-5o0RPM",
-     "url": "https://www.youtube.com/watch?v=Jc1L-5o0RPM",
-     "title": "Meta launches Muse AI agent in the UK for 18+",
-     "channel": "HydraLabs",
-     "views": 41,
-     "age_hours": 14,
-     "relevance": 0.71,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:IgkPryAUAMo",
-     "url": "https://www.youtube.com/watch?v=IgkPryAUAMo",
-     "title": "Meta launches Muse AI agent to do your shopping",
-     "channel": "Bibop_News",
-     "views": 25,
-     "age_hours": 16,
-     "relevance": 0.71,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GnFkdZBZKzE",
-     "url": "https://www.youtube.com/watch?v=GnFkdZBZKzE",
-     "title": "Meta: Muse: Meta's UK AI agent | Otto365 AI Brief #051",
-     "channel": "OTTO 365",
-     "views": 9,
-     "age_hours": 14,
-     "relevance": 0.63,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T02:17:06.917Z"
   },
   {
    "first_seen": "2026-11-26T04:13:57.046Z",
