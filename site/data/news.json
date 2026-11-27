@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:11:15.683Z",
+ "generated_at": "2026-11-27T21:20:41.802Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: dutch meta groups ask",
+   "ok": true
+  },
+  {
+   "source": "tiktok: dutch meta groups ask",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -951,6 +960,61 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T16:36:58.681Z"
+  },
+  {
+   "first_seen": "2026-11-27T21:20:41.802Z",
+   "id": "40073045",
+   "ids": [
+    "40073045",
+    "40081996"
+   ],
+   "title": "Dutch groups ask court to halt sales of Meta’s AI glasses",
+   "url": "https://dailyai.com/2026/11/dutch-groups-ask-court-to-halt-sales-of-metas-ai-glasses/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-27 07:07:31",
+   "story_sources": 2,
+   "score_norm": 65,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Meta defends AI glasses in court as Dutch groups demand ban",
+     "url": "https://nltimes.nl/2026/11/26/meta-defends-ai-glasses-court-dutch-groups-demand-ban"
+    }
+   ],
+   "queries": [
+    "dutch meta groups ask"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XjfatIh0ReY",
+     "url": "https://www.youtube.com/shorts/XjfatIh0ReY",
+     "title": "Meta Faces Dutch Court Battle Over AI Smart Glasses!",
+     "channel": "",
+     "views": 173,
+     "age_hours": null,
+     "relevance": 0.63,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:H_R-ZVFPvv4",
+     "url": "https://www.youtube.com/shorts/H_R-ZVFPvv4",
+     "title": "Meta AI Glasses: Dutch groups demand a sales ban",
+     "channel": "",
+     "views": 4,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T21:20:45.702Z"
   },
   {
    "first_seen": "2026-11-26T11:10:42.724Z",
