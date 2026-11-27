@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T05:36:43.163Z",
+ "generated_at": "2026-11-27T06:20:21.275Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,19 @@
  },
  "search_report": [
   {
-   "source": "youtube: fcc spacex starmind 2040",
+   "source": "youtube: The Return",
    "ok": true
   },
   {
-   "source": "tiktok: fcc spacex starmind 2040",
+   "source": "tiktok: The Return",
+   "ok": true
+  },
+  {
+   "source": "youtube: 196 return ai",
+   "ok": true
+  },
+  {
+   "source": "tiktok: 196 return ai",
    "ok": true
   }
  ],
@@ -526,25 +534,12 @@
     "The Return",
     "196 return ai"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:baMoWDFwZh0",
-     "url": "https://www.youtube.com/watch?v=baMoWDFwZh0",
-     "title": "2026 ZKast #196 - Why AI Success is a Leadership Problem, Not a Tech Problem | Incompass at Davos",
-     "channel": "Zeus Kerravala",
-     "views": 9515,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 396
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-26T23:49:43.463Z"
+   "searched_at": "2026-11-27T06:20:30.718Z"
   },
   {
    "first_seen": "2026-11-26T09:12:39.185Z",
