@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T08:15:01.644Z",
+ "generated_at": "2026-11-27T11:36:35.516Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -390,6 +390,246 @@
    "searched_at": "2026-11-25T12:50:09.432Z"
   },
   {
+   "first_seen": "2026-11-26T18:37:12.398Z",
+   "id": "40060318",
+   "ids": [
+    "40060318",
+    "40058943",
+    "40067254",
+    "40060746"
+   ],
+   "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
+   "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-26 17:01:29",
+   "story_sources": 2,
+   "score_norm": 77,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+     "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
+    }
+   ],
+   "queries": [
+    "sap 10 000 prepares"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A-iWjCDb_vI",
+     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 60,
+     "age_hours": 8,
+     "relevance": 0.67,
+     "velocity": 8
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:N6pS4rDY9iw",
+     "url": "https://www.youtube.com/shorts/N6pS4rDY9iw",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "",
+     "views": 98,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:YXD-6IvejbU",
+     "url": "https://www.youtube.com/shorts/YXD-6IvejbU",
+     "title": "SAP Weighs 10,000 AI Job Cuts. What It Means for You",
+     "channel": "",
+     "views": 92,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_btztNBmCyw",
+     "url": "https://www.youtube.com/shorts/_btztNBmCyw",
+     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
+     "channel": "",
+     "views": 90,
+     "age_hours": null,
+     "relevance": 0.56,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:WKXP_yWTgJI",
+     "url": "https://www.youtube.com/shorts/WKXP_yWTgJI",
+     "title": "SAP weighs cutting 10,000 jobs",
+     "channel": "",
+     "views": 21,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:gKHv_xwYp9w",
+     "url": "https://www.youtube.com/shorts/gKHv_xwYp9w",
+     "title": "SAP Plans to Cut at Least 10,000 Jobs in AI Restructuring, Bloomberg Reports",
+     "channel": "",
+     "views": 14,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T06:53:50.971Z"
+  },
+  {
+   "first_seen": "2026-11-26T18:49:44.018Z",
+   "id": "40060718",
+   "ids": [
+    "40060718",
+    "40056617"
+   ],
+   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-26 17:28:56",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster",
+     "url": "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits"
+    }
+   ],
+   "queries": [
+    "GPT-6.2 Astra",
+    "gpt-6.2 astra 40 openai"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:p4yI4GvHKAg",
+     "url": "https://www.youtube.com/watch?v=p4yI4GvHKAg",
+     "title": "OpenAI's Godlike GPT-6.2 Astra Just Arrived",
+     "channel": "Escape Velocity",
+     "views": 5835,
+     "age_hours": 48,
+     "relevance": 0.6,
+     "velocity": 122
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:-HnnDxJavrA",
+     "url": "https://www.youtube.com/shorts/-HnnDxJavrA",
+     "title": "OPENAI JUST UNLEASHED GPT-6.2 ASTRA! 🤯",
+     "channel": "",
+     "views": 65,
+     "age_hours": null,
+     "relevance": 0.75,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:8xsDDnIdi0E",
+     "url": "https://www.youtube.com/shorts/8xsDDnIdi0E",
+     "title": "GPT-6.2 Astra: OpenAI's Most Powerful GPT",
+     "channel": "",
+     "views": 50,
+     "age_hours": null,
+     "relevance": 0.5,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:yXAqTEDUNYI",
+     "url": "https://www.youtube.com/watch?v=yXAqTEDUNYI",
+     "title": "OpenAI Admitted Its Mistake! GPT-6.2 Limits Hit 40% Faster | MindVolt",
+     "channel": "MindVolt",
+     "views": 2,
+     "age_hours": 2,
+     "relevance": 0.67,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gArku27xi9E",
+     "url": "https://www.youtube.com/watch?v=gArku27xi9E",
+     "title": "GPT-6.2 plans now run out sooner: Astra hits limits 40% faster",
+     "channel": "Code Presenter",
+     "views": 6,
+     "age_hours": 5,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wYWEUiI1-9U",
+     "url": "https://www.youtube.com/watch?v=wYWEUiI1-9U",
+     "title": "Will Your GPT-6.2 Limit Now Run Out 40% Faster?",
+     "channel": "Bitwise AI",
+     "views": 2,
+     "age_hours": 3,
+     "relevance": 0.5,
+     "velocity": 1
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-27T06:53:58.058Z"
+  },
+  {
+   "first_seen": "2026-11-26T17:36:03.352Z",
+   "id": "40059455",
+   "ids": [
+    "40059455",
+    "40058863"
+   ],
+   "title": "AI #196: The Return",
+   "url": "https://thezvi.substack.com/p/ai-196-the-return",
+   "source_id": "x-thezvi-substack",
+   "published_ts": "2026-11-26 15:01:21",
+   "story_sources": 2,
+   "score_norm": 76,
+   "related_news": [
+    {
+     "source_id": "lesswrong-feed",
+     "title": "AI #196: The Return",
+     "url": "https://www.lesswrong.com/posts/MaGJRAwTKshpHxqpK/ai-196-the-return"
+    }
+   ],
+   "queries": [
+    "The Return",
+    "196 return ai"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-27T06:20:30.718Z"
+  },
+  {
    "first_seen": "2026-11-26T09:49:53.278Z",
    "id": "40051258",
    "ids": [
@@ -516,246 +756,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T15:36:06.051Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:49:44.018Z",
-   "id": "40060718",
-   "ids": [
-    "40060718",
-    "40056617"
-   ],
-   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
-   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-26 17:28:56",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster",
-     "url": "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits"
-    }
-   ],
-   "queries": [
-    "GPT-6.2 Astra",
-    "gpt-6.2 astra 40 openai"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:p4yI4GvHKAg",
-     "url": "https://www.youtube.com/watch?v=p4yI4GvHKAg",
-     "title": "OpenAI's Godlike GPT-6.2 Astra Just Arrived",
-     "channel": "Escape Velocity",
-     "views": 5835,
-     "age_hours": 48,
-     "relevance": 0.6,
-     "velocity": 122
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:-HnnDxJavrA",
-     "url": "https://www.youtube.com/shorts/-HnnDxJavrA",
-     "title": "OPENAI JUST UNLEASHED GPT-6.2 ASTRA! 🤯",
-     "channel": "",
-     "views": 65,
-     "age_hours": null,
-     "relevance": 0.75,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:8xsDDnIdi0E",
-     "url": "https://www.youtube.com/shorts/8xsDDnIdi0E",
-     "title": "GPT-6.2 Astra: OpenAI's Most Powerful GPT",
-     "channel": "",
-     "views": 50,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yXAqTEDUNYI",
-     "url": "https://www.youtube.com/watch?v=yXAqTEDUNYI",
-     "title": "OpenAI Admitted Its Mistake! GPT-6.2 Limits Hit 40% Faster | MindVolt",
-     "channel": "MindVolt",
-     "views": 2,
-     "age_hours": 2,
-     "relevance": 0.67,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gArku27xi9E",
-     "url": "https://www.youtube.com/watch?v=gArku27xi9E",
-     "title": "GPT-6.2 plans now run out sooner: Astra hits limits 40% faster",
-     "channel": "Code Presenter",
-     "views": 6,
-     "age_hours": 5,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wYWEUiI1-9U",
-     "url": "https://www.youtube.com/watch?v=wYWEUiI1-9U",
-     "title": "Will Your GPT-6.2 Limit Now Run Out 40% Faster?",
-     "channel": "Bitwise AI",
-     "views": 2,
-     "age_hours": 3,
-     "relevance": 0.5,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T06:53:58.058Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:37:12.398Z",
-   "id": "40060318",
-   "ids": [
-    "40060318",
-    "40058943",
-    "40067254",
-    "40060746"
-   ],
-   "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
-   "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-26 17:01:29",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
-     "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
-    }
-   ],
-   "queries": [
-    "sap 10 000 prepares"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A-iWjCDb_vI",
-     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 60,
-     "age_hours": 8,
-     "relevance": 0.67,
-     "velocity": 8
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:N6pS4rDY9iw",
-     "url": "https://www.youtube.com/shorts/N6pS4rDY9iw",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "",
-     "views": 98,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:YXD-6IvejbU",
-     "url": "https://www.youtube.com/shorts/YXD-6IvejbU",
-     "title": "SAP Weighs 10,000 AI Job Cuts. What It Means for You",
-     "channel": "",
-     "views": 92,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/shorts/_btztNBmCyw",
-     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "",
-     "views": 90,
-     "age_hours": null,
-     "relevance": 0.56,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WKXP_yWTgJI",
-     "url": "https://www.youtube.com/shorts/WKXP_yWTgJI",
-     "title": "SAP weighs cutting 10,000 jobs",
-     "channel": "",
-     "views": 21,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:gKHv_xwYp9w",
-     "url": "https://www.youtube.com/shorts/gKHv_xwYp9w",
-     "title": "SAP Plans to Cut at Least 10,000 Jobs in AI Restructuring, Bloomberg Reports",
-     "channel": "",
-     "views": 14,
-     "age_hours": null,
-     "relevance": 0.78,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-27T06:53:50.971Z"
-  },
-  {
-   "first_seen": "2026-11-26T17:36:03.352Z",
-   "id": "40059455",
-   "ids": [
-    "40059455",
-    "40058863"
-   ],
-   "title": "AI #196: The Return",
-   "url": "https://thezvi.substack.com/p/ai-196-the-return",
-   "source_id": "x-thezvi-substack",
-   "published_ts": "2026-11-26 15:01:21",
-   "story_sources": 2,
-   "score_norm": 73,
-   "related_news": [
-    {
-     "source_id": "lesswrong-feed",
-     "title": "AI #196: The Return",
-     "url": "https://www.lesswrong.com/posts/MaGJRAwTKshpHxqpK/ai-196-the-return"
-    }
-   ],
-   "queries": [
-    "The Return",
-    "196 return ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-27T06:20:30.718Z"
   },
   {
    "first_seen": "2026-11-26T00:29:09.961Z",
@@ -2190,104 +2190,6 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-26T00:29:22.529Z"
-  },
-  {
-   "first_seen": "2026-11-24T13:36:41.048Z",
-   "id": "40011747",
-   "ids": [
-    "40011747",
-    "40013064",
-    "40014365"
-   ],
-   "title": "Anthropic Slips Below $83 IPO Price in Premarket Trade",
-   "url": "https://thedefiant.io/frontier/markets/anthropic-slips-below-83-ipo-price-in-premarket-trade",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-24 11:30:46",
-   "story_sources": 2,
-   "score_norm": 47,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Anthropic is below its IPO price",
-     "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa"
-    },
-    {
-     "source_id": "hn",
-     "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
-    }
-   ],
-   "queries": [
-    "Anthropic Slips Below 83 IPO Price",
-    "anthropic slips below 83"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:y4t-hNZWDuY",
-     "url": "https://www.youtube.com/watch?v=y4t-hNZWDuY",
-     "title": "Anthropic fell below its IPO price in 4 days. SpaceX took 21 #anthropic",
-     "channel": "TiziriTech",
-     "views": 12,
-     "age_hours": 4,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:B0L9el_pB_4",
-     "url": "https://www.youtube.com/watch?v=B0L9el_pB_4",
-     "title": "Anthropic Shares Slide Below $83 IPO Price, AI Boom Faces Investor Reality Check | NewsX World",
-     "channel": "NewsX World",
-     "views": 26,
-     "age_hours": 12,
-     "relevance": 0.63,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_dDRTgmCMGc",
-     "url": "https://www.youtube.com/watch?v=_dDRTgmCMGc",
-     "title": "Anthropic Sinks Below Its IPO Price - TMTL News - Evening TL;DR - 2026-11-24 #Shorts",
-     "channel": "TMTL",
-     "views": 6,
-     "age_hours": 6,
-     "relevance": 0.5,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:yD_69bcausk",
-     "url": "https://www.youtube.com/watch?v=yD_69bcausk",
-     "title": "U.S Stocks Close Mixed as Nvidia Drops 6% & Anthropic Slips Below $83 IPO Price; Retailers Surge",
-     "channel": "NEWS9 Live",
-     "views": 1,
-     "age_hours": 0.35,
-     "relevance": 0.75,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:rjdjpnw7VZM",
-     "url": "https://www.youtube.com/watch?v=rjdjpnw7VZM",
-     "title": "Anthropic Stock: Why It Fell Below Its $83 IPO Price",
-     "channel": "TrendsNow",
-     "views": 0,
-     "age_hours": 2,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T02:17:03.401Z"
   },
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
