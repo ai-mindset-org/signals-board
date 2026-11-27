@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:49:35.986Z",
+ "generated_at": "2026-11-27T00:29:44.743Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,25 +7,143 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: The Return",
-   "ok": true
-  },
-  {
-   "source": "tiktok: The Return",
-   "ok": true
-  },
-  {
-   "source": "youtube: 196 return ai",
-   "ok": true
-  },
-  {
-   "source": "tiktok: 196 return ai",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
+  {
+   "first_seen": "2026-11-26T20:36:25.699Z",
+   "id": "40062272",
+   "ids": [
+    "40062272",
+    "40046761"
+   ],
+   "title": "Scott Aaronson says AI labs are sitting on cryptography ‘bombshells’",
+   "url": "https://thenextweb.com/news/scott-aaronson-ai-labs-cryptography-rsa-rumours",
+   "source_id": "eu-tnw",
+   "published_ts": "2026-11-26 20:15:34",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "crypto-cointelegraph",
+     "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+     "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    }
+   ],
+   "queries": [
+    "Scott Aaronson",
+    "scott aaronson ai labs"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:Z1rmYAXyXkk",
+     "url": "https://www.youtube.com/shorts/Z1rmYAXyXkk",
+     "title": "Scott Aaronson on AI encryption rumors",
+     "channel": "",
+     "views": 731,
+     "age_hours": null,
+     "relevance": 0.6,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:syDqonVWwHI",
+     "url": "https://www.youtube.com/watch?v=syDqonVWwHI",
+     "title": "The Daily Pill, November 26, 2026: Scott Aaronson is \"virtually certain\" the AI labs are sitting ...",
+     "channel": "Parzival of Algorithmic Progress",
+     "views": 39,
+     "age_hours": 9,
+     "relevance": 0.71,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:UdpofF6Bejg",
+     "url": "https://www.youtube.com/shorts/UdpofF6Bejg",
+     "title": "AI Labs Hold Undisclosed Cryptographic Breakthroughs, Scott Aaronson Warns",
+     "channel": "",
+     "views": 42,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:VmmDCl2H1GA",
+     "url": "https://www.youtube.com/shorts/VmmDCl2H1GA",
+     "title": "Scott Aaronson Says AI Labs Have Cryptography \"Bombshells.\" Nobody Has Shown One Yet",
+     "channel": "",
+     "views": 30,
+     "age_hours": null,
+     "relevance": 0.86,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:XJLztXRYQ6s",
+     "url": "https://www.youtube.com/shorts/XJLztXRYQ6s",
+     "title": "AI Labs Are SITTING on a Crypto Bombshell, Says Scott Aaronson",
+     "channel": "",
+     "views": 0,
+     "age_hours": null,
+     "relevance": 0.71,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T20:36:33.524Z"
+  },
+  {
+   "first_seen": "2026-11-26T18:37:12.398Z",
+   "id": "40060318",
+   "ids": [
+    "40060318",
+    "40058943"
+   ],
+   "title": "SAP weighs cutting at least 10,000 jobs in an AI restructuring",
+   "url": "https://dailyai.com/2026/11/sap-weighs-cutting-at-least-10000-jobs-in-an-ai-restructuring/",
+   "source_id": "x-dailyai",
+   "published_ts": "2026-11-26 17:57:18",
+   "story_sources": 2,
+   "score_norm": 100,
+   "related_news": [
+    {
+     "source_id": "eu-tnw",
+     "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
+     "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg"
+    }
+   ],
+   "queries": [
+    "sap 10 000 weighs"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:_btztNBmCyw",
+     "url": "https://www.youtube.com/shorts/_btztNBmCyw",
+     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
+     "channel": "",
+     "views": 1,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T18:37:17.608Z"
+  },
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
    "id": "40053257",
@@ -130,252 +248,6 @@
    "searched_at": "2026-11-26T18:27:25.368Z"
   },
   {
-   "first_seen": "2026-11-26T11:10:42.724Z",
-   "id": "40052567",
-   "ids": [
-    "40052567",
-    "40038452",
-    "40057344",
-    "40040314",
-    "40044996"
-   ],
-   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
-   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-26 13:41:07",
-   "story_sources": 3,
-   "score_norm": 100,
-   "related_news": [
-    {
-     "source_id": "engadget",
-     "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
-     "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
-    },
-    {
-     "source_id": "in-businessline",
-     "title": "1 million satellites in space? FCC clears SpaceX plan for orbital AI data centres",
-     "url": "https://www.thehindubusinessline.com/news/science/1-million-satellites-in-space-fcc-clears-spacex-plan-for-orbital-ai-data-centres/article71745020.ece"
-    }
-   ],
-   "queries": [
-    "fcc spacex starmind 2040"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gBLJYK-js9E",
-     "url": "https://www.youtube.com/watch?v=gBLJYK-js9E",
-     "title": "SpaceX Wins Conditional FCC Approval For 1 Million Orbital Compute Satellites",
-     "channel": "AIM Network",
-     "views": 2313,
-     "age_hours": 11,
-     "relevance": 0.56,
-     "velocity": 210
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:NT0pbeGZ7KU",
-     "url": "https://www.youtube.com/shorts/NT0pbeGZ7KU",
-     "title": "FCC Approves SpaceX Starmind: 1 Million Data Center Satellites in Space! 🚀",
-     "channel": "",
-     "views": 2200,
-     "age_hours": null,
-     "relevance": 0.67,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:5UYuIWncUr8",
-     "url": "https://www.youtube.com/shorts/5UYuIWncUr8",
-     "title": "SpaceX Wins FCC Approval for 1M AI Satellites",
-     "channel": "",
-     "views": 403,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:iykWDAC4Fcc",
-     "url": "https://www.youtube.com/shorts/iykWDAC4Fcc",
-     "title": "SpaceX Starmind: FCC Approves 1 Million Satellites",
-     "channel": "",
-     "views": 322,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:XNwUObU_95A",
-     "url": "https://www.youtube.com/watch?v=XNwUObU_95A",
-     "title": "SpaceX Starmind Approved: FCC Authorizes 1 Million Orbital Data Center Satellites 🚀",
-     "channel": "Electrickaos",
-     "views": 144,
-     "age_hours": 24,
-     "relevance": 0.7,
-     "velocity": 6
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:2DW-O3rbdW0",
-     "url": "https://www.youtube.com/shorts/2DW-O3rbdW0",
-     "title": "FCC Approves SpaceX Starmind: Up to 1 Million AI Satellites 🛰️⚡🌍 #Shorts",
-     "channel": "",
-     "views": 125,
-     "age_hours": null,
-     "relevance": 0.78,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-26T23:35:57.574Z"
-  },
-  {
-   "first_seen": "2026-11-26T20:36:25.699Z",
-   "id": "40062272",
-   "ids": [
-    "40062272",
-    "40046761"
-   ],
-   "title": "Scott Aaronson says AI labs are sitting on cryptography ‘bombshells’",
-   "url": "https://thenextweb.com/news/scott-aaronson-ai-labs-cryptography-rsa-rumours",
-   "source_id": "eu-tnw",
-   "published_ts": "2026-11-26 20:15:34",
-   "story_sources": 2,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "crypto-cointelegraph",
-     "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
-     "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-    }
-   ],
-   "queries": [
-    "Scott Aaronson",
-    "scott aaronson ai labs"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:Z1rmYAXyXkk",
-     "url": "https://www.youtube.com/shorts/Z1rmYAXyXkk",
-     "title": "Scott Aaronson on AI encryption rumors",
-     "channel": "",
-     "views": 731,
-     "age_hours": null,
-     "relevance": 0.6,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:syDqonVWwHI",
-     "url": "https://www.youtube.com/watch?v=syDqonVWwHI",
-     "title": "The Daily Pill, November 26, 2026: Scott Aaronson is \"virtually certain\" the AI labs are sitting ...",
-     "channel": "Parzival of Algorithmic Progress",
-     "views": 39,
-     "age_hours": 9,
-     "relevance": 0.71,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:UdpofF6Bejg",
-     "url": "https://www.youtube.com/shorts/UdpofF6Bejg",
-     "title": "AI Labs Hold Undisclosed Cryptographic Breakthroughs, Scott Aaronson Warns",
-     "channel": "",
-     "views": 42,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:VmmDCl2H1GA",
-     "url": "https://www.youtube.com/shorts/VmmDCl2H1GA",
-     "title": "Scott Aaronson Says AI Labs Have Cryptography \"Bombshells.\" Nobody Has Shown One Yet",
-     "channel": "",
-     "views": 30,
-     "age_hours": null,
-     "relevance": 0.86,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:XJLztXRYQ6s",
-     "url": "https://www.youtube.com/shorts/XJLztXRYQ6s",
-     "title": "AI Labs Are SITTING on a Crypto Bombshell, Says Scott Aaronson",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.71,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-26T20:36:33.524Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:37:12.398Z",
-   "id": "40060318",
-   "ids": [
-    "40060318",
-    "40058943"
-   ],
-   "title": "SAP weighs cutting at least 10,000 jobs in an AI restructuring",
-   "url": "https://dailyai.com/2026/11/sap-weighs-cutting-at-least-10000-jobs-in-an-ai-restructuring/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-26 17:57:18",
-   "story_sources": 2,
-   "score_norm": 97,
-   "related_news": [
-    {
-     "source_id": "eu-tnw",
-     "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring, Bloomberg says",
-     "url": "https://thenextweb.com/news/sap-job-cuts-10000-ai-restructuring-bloomberg"
-    }
-   ],
-   "queries": [
-    "sap 10 000 weighs"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/shorts/_btztNBmCyw",
-     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.78,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-26T18:37:17.608Z"
-  },
-  {
    "first_seen": "2026-11-26T18:49:44.018Z",
    "id": "40060718",
    "ids": [
@@ -387,7 +259,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-26 17:28:56",
    "story_sources": 2,
-   "score_norm": 86,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "eu-tnw",
@@ -479,7 +351,7 @@
    "source_id": "x-thezvi-substack",
    "published_ts": "2026-11-26 15:01:21",
    "story_sources": 2,
-   "score_norm": 85,
+   "score_norm": 87,
    "related_news": [
     {
      "source_id": "lesswrong-feed",
@@ -590,6 +462,112 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T12:50:09.432Z"
+  },
+  {
+   "first_seen": "2026-11-26T11:10:42.724Z",
+   "id": "40052567",
+   "ids": [
+    "40052567",
+    "40038452",
+    "40057344",
+    "40040314",
+    "40044996"
+   ],
+   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-26 13:41:07",
+   "story_sources": 2,
+   "score_norm": 78,
+   "related_news": [
+    {
+     "source_id": "engadget",
+     "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+     "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+    }
+   ],
+   "queries": [
+    "fcc spacex starmind 2040"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gBLJYK-js9E",
+     "url": "https://www.youtube.com/watch?v=gBLJYK-js9E",
+     "title": "SpaceX Wins Conditional FCC Approval For 1 Million Orbital Compute Satellites",
+     "channel": "AIM Network",
+     "views": 2313,
+     "age_hours": 11,
+     "relevance": 0.56,
+     "velocity": 210
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:NT0pbeGZ7KU",
+     "url": "https://www.youtube.com/shorts/NT0pbeGZ7KU",
+     "title": "FCC Approves SpaceX Starmind: 1 Million Data Center Satellites in Space! 🚀",
+     "channel": "",
+     "views": 2200,
+     "age_hours": null,
+     "relevance": 0.67,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:5UYuIWncUr8",
+     "url": "https://www.youtube.com/shorts/5UYuIWncUr8",
+     "title": "SpaceX Wins FCC Approval for 1M AI Satellites",
+     "channel": "",
+     "views": 403,
+     "age_hours": null,
+     "relevance": 0.57,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iykWDAC4Fcc",
+     "url": "https://www.youtube.com/shorts/iykWDAC4Fcc",
+     "title": "SpaceX Starmind: FCC Approves 1 Million Satellites",
+     "channel": "",
+     "views": 322,
+     "age_hours": null,
+     "relevance": 0.83,
+     "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:XNwUObU_95A",
+     "url": "https://www.youtube.com/watch?v=XNwUObU_95A",
+     "title": "SpaceX Starmind Approved: FCC Authorizes 1 Million Orbital Data Center Satellites 🚀",
+     "channel": "Electrickaos",
+     "views": 144,
+     "age_hours": 24,
+     "relevance": 0.7,
+     "velocity": 6
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:2DW-O3rbdW0",
+     "url": "https://www.youtube.com/shorts/2DW-O3rbdW0",
+     "title": "FCC Approves SpaceX Starmind: Up to 1 Million AI Satellites 🛰️⚡🌍 #Shorts",
+     "channel": "",
+     "views": 125,
+     "age_hours": null,
+     "relevance": 0.78,
+     "velocity": null
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-26T23:35:57.574Z"
   },
   {
    "first_seen": "2026-11-26T09:49:53.278Z",
@@ -731,7 +709,7 @@
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-26 08:00:42",
    "story_sources": 2,
-   "score_norm": 72,
+   "score_norm": 75,
    "related_news": [
     {
      "source_id": "in-express-tech",
@@ -1985,36 +1963,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-25T11:21:29.379Z"
-  },
-  {
-   "first_seen": "2026-11-24T03:27:31.401Z",
-   "id": "40005844",
-   "ids": [
-    "40005844",
-    "39994135"
-   ],
-   "title": "Amazon to buy Israeli AI startup Decart’s tech in $7.5b deal",
-   "url": "https://www.techinasia.com/news/amazon-buy-israeli-ai-startup-decarts-tech-75b-deal",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-24 00:08:31",
-   "story_sources": 2,
-   "score_norm": 52,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Amazon signs $7.5B deal for Israeli AI startup Decart",
-     "url": "https://www.calcalistech.com/ctechnews/article/g0mtcg4mi"
-    }
-   ],
-   "queries": [
-    "amazon israeli decart 7.5b"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-24T09:36:49.742Z"
   },
   {
    "first_seen": "2026-11-25T05:11:59.635Z",
