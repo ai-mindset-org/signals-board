@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:11:36.617Z",
+ "generated_at": "2026-11-28T07:36:01.854Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: sap 10 000 plans",
+   "ok": true
+  },
+  {
+   "source": "tiktok: sap 10 000 plans",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-28T02:49:14.421Z",
@@ -1916,10 +1925,10 @@
      "url": "https://www.youtube.com/watch?v=gFOS1tHqqeE",
      "title": "SAP Plans 10,000 Job Cuts as AI Push Accelerates: Another Major Tech Layoff Wave?",
      "channel": "Mint",
-     "views": 34760,
-     "age_hours": 14,
+     "views": 40198,
+     "age_hours": 20,
      "relevance": 0.56,
-     "velocity": 2483
+     "velocity": 2010
     },
     {
      "platform": "youtube",
@@ -1928,10 +1937,46 @@
      "url": "https://www.youtube.com/watch?v=wc435uTiRvI",
      "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
      "channel": "Bloomberg Television",
-     "views": 5493,
-     "age_hours": 7,
+     "views": 9830,
+     "age_hours": 13,
      "relevance": 0.63,
-     "velocity": 785
+     "velocity": 756
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:AaSYXwZHZic",
+     "url": "https://www.youtube.com/watch?v=AaSYXwZHZic",
+     "title": "SAP Plans to Cut 10,000 Jobs | Major Layoffs in Europe's Tech Industry | @SakshiTV",
+     "channel": "Sakshi TV",
+     "views": 14516,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 605
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gHGugsnNItE",
+     "url": "https://www.youtube.com/watch?v=gHGugsnNItE",
+     "title": "SAPలో 10 వేల ఉద్యోగాల కోత | SAP Plans 10,000 Job Cuts Amid AI Expansion | IT Layoffs 2026 | BIG TV",
+     "channel": "BIG TV Telugu Live",
+     "views": 1709,
+     "age_hours": 5,
+     "relevance": 0.56,
+     "velocity": 342
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nl5TuIYU70E",
+     "url": "https://www.youtube.com/watch?v=nl5TuIYU70E",
+     "title": "SAP Layoffs 2026: 10,000 Jobs at Risk as AI Reshapes the IT Industry | AI Replacing Humans?",
+     "channel": "Edge News",
+     "views": 1503,
+     "age_hours": 5,
+     "relevance": 0.56,
+     "velocity": 301
     },
     {
      "platform": "youtube",
@@ -1940,53 +1985,17 @@
      "url": "https://www.youtube.com/watch?v=jpY923t5hTY",
      "title": "SAP Reportedly Preparing To Cut At Least 10,000 Jobs | SAP Plans Layoffs Amid AI Push | N18G",
      "channel": "CNBC-TV18",
-     "views": 5209,
-     "age_hours": 16,
+     "views": 5618,
+     "age_hours": 22,
      "relevance": 0.89,
-     "velocity": 326
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fdWMy-Y-ZC4",
-     "url": "https://www.youtube.com/watch?v=fdWMy-Y-ZC4",
-     "title": "Non-Stop Layoff Spree: Software Giant SAP Pivots To AI, Plans AT LEAST 10,000 Job Cuts",
-     "channel": "The Reform Room",
-     "views": 568,
-     "age_hours": 13,
-     "relevance": 0.78,
-     "velocity": 44
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A-iWjCDb_vI",
-     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 536,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 22
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
-     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "Runday AI",
-     "views": 285,
-     "age_hours": 24,
-     "relevance": 0.56,
-     "velocity": 12
+     "velocity": 255
     }
    ],
    "verdict": {
     "code": "covered",
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-28T01:22:21.216Z"
+   "searched_at": "2026-11-28T07:36:05.823Z"
   },
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
