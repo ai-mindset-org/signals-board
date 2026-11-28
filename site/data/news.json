@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:49:45.432Z",
+ "generated_at": "2026-11-28T10:10:10.716Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,11 +9,27 @@
  },
  "search_report": [
   {
-   "source": "youtube: openai apple countersues alleged",
+   "source": "youtube: openai apple countersues accuses",
    "ok": true
   },
   {
-   "source": "tiktok: openai apple countersues alleged",
+   "source": "tiktok: openai apple countersues accuses",
+   "ok": true
+  },
+  {
+   "source": "youtube: Poland Signs Palantir Deal",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Poland Signs Palantir Deal",
+   "ok": true
+  },
+  {
+   "source": "youtube: poland signs palantir deal",
+   "ok": true
+  },
+  {
+   "source": "tiktok: poland signs palantir deal",
    "ok": true
   }
  ],
@@ -335,7 +351,7 @@
    "source_id": "in-express-tech",
    "published_ts": "2026-11-28 05:42:05",
    "story_sources": 3,
-   "score_norm": 83,
+   "score_norm": 82,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -349,8 +365,7 @@
     }
    ],
    "queries": [
-    "OpenAI Countersues Apple",
-    "openai countersues apple trade"
+    "openai apple countersues accuses"
    ],
    "videos": [
     {
@@ -360,10 +375,10 @@
      "url": "https://www.youtube.com/watch?v=xmqTNKoRg_g",
      "title": "OpenAI countersues Apple for stealing trade secrets",
      "channel": "CNBC Television",
-     "views": 2990,
-     "age_hours": 7,
-     "relevance": 0.83,
-     "velocity": 427
+     "views": 4297,
+     "age_hours": 13,
+     "relevance": 1,
+     "velocity": 331
     },
     {
      "platform": "youtube",
@@ -372,10 +387,10 @@
      "url": "https://www.youtube.com/watch?v=z4XHbnDl3ng",
      "title": "OpenAI countersues Apple over stolen files and threats",
      "channel": "Whats up with AI?",
-     "views": 325,
-     "age_hours": 6,
+     "views": 345,
+     "age_hours": 13,
      "relevance": 0.5,
-     "velocity": 54
+     "velocity": 27
     },
     {
      "platform": "youtube",
@@ -384,21 +399,33 @@
      "url": "https://www.youtube.com/watch?v=SshGyw_vs4E",
      "title": "OpenAI countersues Apple over AI device secrets #shorts",
      "channel": "PiBrief",
-     "views": 161,
-     "age_hours": 3,
-     "relevance": 0.67,
-     "velocity": 54
+     "views": 207,
+     "age_hours": 9,
+     "relevance": 0.57,
+     "velocity": 23
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:CIWdEFmyFYw",
-     "url": "https://www.youtube.com/watch?v=CIWdEFmyFYw",
-     "title": "OpenAI Countersues Apple Over Trade Secrets",
-     "channel": "The CSEians",
-     "views": 3,
-     "age_hours": 1,
-     "relevance": 1,
+     "id": "youtube:7IrlN-v2Phs",
+     "url": "https://www.youtube.com/watch?v=7IrlN-v2Phs",
+     "title": "OpenAI Accuses Apple of Squeezing Its Suppliers",
+     "channel": "BigGo Finance",
+     "views": 39,
+     "age_hours": 9,
+     "relevance": 0.6,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:aBK1dn74ODo",
+     "url": "https://www.youtube.com/watch?v=aBK1dn74ODo",
+     "title": "OpenAI Sues Apple: What Changes for iPhone Users",
+     "channel": "Synth Ops",
+     "views": 31,
+     "age_hours": 11,
+     "relevance": 0.5,
      "velocity": 3
     },
     {
@@ -408,21 +435,9 @@
      "url": "https://www.youtube.com/watch?v=av4edayWrTQ",
      "title": "OpenAI just sued Apple back",
      "channel": "Model Tribune",
-     "views": 18,
-     "age_hours": 6,
+     "views": 21,
+     "age_hours": 13,
      "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:dWTiN7OHGhw",
-     "url": "https://www.youtube.com/watch?v=dWTiN7OHGhw",
-     "title": "OpenAI Countersues Apple Over Trade Secret Claims, Alleging a Trap for Departing Staf #Shorts",
-     "channel": "World Finance News Now",
-     "views": 3,
-     "age_hours": 2,
-     "relevance": 0.67,
      "velocity": 2
     }
    ],
@@ -430,7 +445,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-28T03:49:49.383Z"
+   "searched_at": "2026-11-28T10:10:14.643Z"
   },
   {
    "first_seen": "2026-11-26T18:49:44.018Z",
@@ -1388,7 +1403,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-27 11:57:39",
    "story_sources": 2,
-   "score_norm": 50,
+   "score_norm": 51,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -1408,34 +1423,10 @@
      "url": "https://www.youtube.com/watch?v=kGutuf8XRMo",
      "title": "#Poland signs #AI software deal with U.S. company #Palantir",
      "channel": "TVP WORLD",
-     "views": 1699,
-     "age_hours": 8,
+     "views": 2236,
+     "age_hours": 14,
      "relevance": 0.86,
-     "velocity": 212
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ESzUcFc5gz4",
-     "url": "https://www.youtube.com/watch?v=ESzUcFc5gz4",
-     "title": "What Does a $300M Poland AI Deal Really Change for Palantir? #Palantir #PLTR #DefenseAI",
-     "channel": "Asset Guardian Global",
-     "views": 8,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ga9ATVNhN_0",
-     "url": "https://www.youtube.com/watch?v=ga9ATVNhN_0",
-     "title": "Why Did Palantir Jump on a $300M Poland Deal? | Can European Defense AI Expand Revenue?",
-     "channel": "Asset Guardian Global",
-     "views": 7,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 4
+     "velocity": 160
     },
     {
      "platform": "youtube",
@@ -1444,7 +1435,7 @@
      "url": "https://www.youtube.com/watch?v=V2c0ifNmrbE",
      "title": "Poland to Sign Palantir AI Military Software Deal",
      "channel": "Global60s",
-     "views": 57,
+     "views": 58,
      "age_hours": 24,
      "relevance": 0.86,
      "velocity": 2
@@ -1456,8 +1447,8 @@
      "url": "https://www.youtube.com/watch?v=x9vcctURiWw",
      "title": "Poland Signs Palantir Military Software Deal, Pledging Data and Human Control",
      "channel": "The Center Right Brief",
-     "views": 12,
-     "age_hours": 13,
+     "views": 18,
+     "age_hours": 19,
      "relevance": 0.86,
      "velocity": 1
     },
@@ -1468,8 +1459,32 @@
      "url": "https://www.youtube.com/watch?v=blJtHHaYdyg",
      "title": "Poland signs roughly $300 million five-year Palantir AI agreement, minister says #Shorts",
      "channel": "Alpha Explorer",
-     "views": 5,
-     "age_hours": 8,
+     "views": 9,
+     "age_hours": 14,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:uebCfNfQkh4",
+     "url": "https://www.youtube.com/watch?v=uebCfNfQkh4",
+     "title": "Poland Buys Palantir Military AI: Who Controls the Data and the Decisions?",
+     "channel": "The Center Right Brief",
+     "views": 16,
+     "age_hours": 19,
+     "relevance": 0.57,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ga9ATVNhN_0",
+     "url": "https://www.youtube.com/watch?v=ga9ATVNhN_0",
+     "title": "Why Did Palantir Jump on a $300M Poland Deal? | Can European Defense AI Expand Revenue?",
+     "channel": "Asset Guardian Global",
+     "views": 7,
+     "age_hours": 9,
      "relevance": 0.57,
      "velocity": 1
     }
@@ -1478,7 +1493,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-28T03:49:56.317Z"
+   "searched_at": "2026-11-28T10:10:21.500Z"
   },
   {
    "first_seen": "2026-11-26T00:29:09.961Z",
@@ -1613,6 +1628,113 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-28T03:26:27.118Z"
+  },
+  {
+   "first_seen": "2026-11-26T18:37:12.398Z",
+   "id": "40060318",
+   "ids": [
+    "40060318",
+    "40058943",
+    "40067254",
+    "40060746",
+    "40077587",
+    "40080916"
+   ],
+   "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+   "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-27 14:57:25",
+   "story_sources": 2,
+   "score_norm": 46,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "SAP is reportedly cutting at least 10,000 jobs in AI push",
+     "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+    }
+   ],
+   "queries": [
+    "sap 10 000 plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gFOS1tHqqeE",
+     "url": "https://www.youtube.com/watch?v=gFOS1tHqqeE",
+     "title": "SAP Plans 10,000 Job Cuts as AI Push Accelerates: Another Major Tech Layoff Wave?",
+     "channel": "Mint",
+     "views": 40198,
+     "age_hours": 20,
+     "relevance": 0.56,
+     "velocity": 2010
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wc435uTiRvI",
+     "url": "https://www.youtube.com/watch?v=wc435uTiRvI",
+     "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
+     "channel": "Bloomberg Television",
+     "views": 9830,
+     "age_hours": 13,
+     "relevance": 0.63,
+     "velocity": 756
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:AaSYXwZHZic",
+     "url": "https://www.youtube.com/watch?v=AaSYXwZHZic",
+     "title": "SAP Plans to Cut 10,000 Jobs | Major Layoffs in Europe's Tech Industry | @SakshiTV",
+     "channel": "Sakshi TV",
+     "views": 14516,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 605
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gHGugsnNItE",
+     "url": "https://www.youtube.com/watch?v=gHGugsnNItE",
+     "title": "SAPలో 10 వేల ఉద్యోగాల కోత | SAP Plans 10,000 Job Cuts Amid AI Expansion | IT Layoffs 2026 | BIG TV",
+     "channel": "BIG TV Telugu Live",
+     "views": 1709,
+     "age_hours": 5,
+     "relevance": 0.56,
+     "velocity": 342
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:nl5TuIYU70E",
+     "url": "https://www.youtube.com/watch?v=nl5TuIYU70E",
+     "title": "SAP Layoffs 2026: 10,000 Jobs at Risk as AI Reshapes the IT Industry | AI Replacing Humans?",
+     "channel": "Edge News",
+     "views": 1503,
+     "age_hours": 5,
+     "relevance": 0.56,
+     "velocity": 301
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jpY923t5hTY",
+     "url": "https://www.youtube.com/watch?v=jpY923t5hTY",
+     "title": "SAP Reportedly Preparing To Cut At Least 10,000 Jobs | SAP Plans Layoffs Amid AI Push | N18G",
+     "channel": "CNBC-TV18",
+     "views": 5618,
+     "age_hours": 22,
+     "relevance": 0.89,
+     "velocity": 255
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-28T07:36:05.823Z"
   },
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
@@ -1889,113 +2011,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T12:40:00.184Z"
-  },
-  {
-   "first_seen": "2026-11-26T18:37:12.398Z",
-   "id": "40060318",
-   "ids": [
-    "40060318",
-    "40058943",
-    "40067254",
-    "40060746",
-    "40077587",
-    "40080916"
-   ],
-   "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
-   "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-27 14:57:25",
-   "story_sources": 2,
-   "score_norm": 45,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "SAP is reportedly cutting at least 10,000 jobs in AI push",
-     "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
-    }
-   ],
-   "queries": [
-    "sap 10 000 plans"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gFOS1tHqqeE",
-     "url": "https://www.youtube.com/watch?v=gFOS1tHqqeE",
-     "title": "SAP Plans 10,000 Job Cuts as AI Push Accelerates: Another Major Tech Layoff Wave?",
-     "channel": "Mint",
-     "views": 40198,
-     "age_hours": 20,
-     "relevance": 0.56,
-     "velocity": 2010
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wc435uTiRvI",
-     "url": "https://www.youtube.com/watch?v=wc435uTiRvI",
-     "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
-     "channel": "Bloomberg Television",
-     "views": 9830,
-     "age_hours": 13,
-     "relevance": 0.63,
-     "velocity": 756
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:AaSYXwZHZic",
-     "url": "https://www.youtube.com/watch?v=AaSYXwZHZic",
-     "title": "SAP Plans to Cut 10,000 Jobs | Major Layoffs in Europe's Tech Industry | @SakshiTV",
-     "channel": "Sakshi TV",
-     "views": 14516,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 605
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gHGugsnNItE",
-     "url": "https://www.youtube.com/watch?v=gHGugsnNItE",
-     "title": "SAPలో 10 వేల ఉద్యోగాల కోత | SAP Plans 10,000 Job Cuts Amid AI Expansion | IT Layoffs 2026 | BIG TV",
-     "channel": "BIG TV Telugu Live",
-     "views": 1709,
-     "age_hours": 5,
-     "relevance": 0.56,
-     "velocity": 342
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:nl5TuIYU70E",
-     "url": "https://www.youtube.com/watch?v=nl5TuIYU70E",
-     "title": "SAP Layoffs 2026: 10,000 Jobs at Risk as AI Reshapes the IT Industry | AI Replacing Humans?",
-     "channel": "Edge News",
-     "views": 1503,
-     "age_hours": 5,
-     "relevance": 0.56,
-     "velocity": 301
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jpY923t5hTY",
-     "url": "https://www.youtube.com/watch?v=jpY923t5hTY",
-     "title": "SAP Reportedly Preparing To Cut At Least 10,000 Jobs | SAP Plans Layoffs Amid AI Push | N18G",
-     "channel": "CNBC-TV18",
-     "views": 5618,
-     "age_hours": 22,
-     "relevance": 0.89,
-     "velocity": 255
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-28T07:36:05.823Z"
   },
   {
    "first_seen": "2026-11-26T12:16:26.142Z",
