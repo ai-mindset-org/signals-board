@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T01:49:40.607Z",
+ "generated_at": "2026-11-28T02:15:41.284Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,24 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: Papa John’s",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Papa John’s",
+   "ok": true
+  },
+  {
+   "source": "youtube: papa john uk pizza",
+   "ok": true
+  },
+  {
+   "source": "tiktok: papa john uk pizza",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-27T21:49:26.600Z",
@@ -1044,12 +1061,25 @@
     "Papa John’s",
     "papa john uk pizza"
    ],
-   "videos": [],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:-IsyRhxToBc",
+     "url": "https://www.youtube.com/watch?v=-IsyRhxToBc",
+     "title": "The History of Papa John's Pizza.",
+     "channel": "e chang",
+     "views": 129,
+     "age_hours": 24,
+     "relevance": 0.75,
+     "velocity": 5
+    }
+   ],
    "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-27T19:49:49.161Z"
+   "searched_at": "2026-11-28T02:15:49.017Z"
   },
   {
    "first_seen": "2026-11-26T16:36:54.724Z",
