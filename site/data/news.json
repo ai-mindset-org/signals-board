@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T03:49:41.846Z",
+ "generated_at": "2026-11-28T04:24:12.973Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,40 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: OpenAI Countersues Apple",
-   "ok": true
-  },
-  {
-   "source": "tiktok: OpenAI Countersues Apple",
-   "ok": true
-  },
-  {
-   "source": "youtube: openai countersues apple trade",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai countersues apple trade",
-   "ok": true
-  },
-  {
-   "source": "youtube: Poland Signs Palantir Deal",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Poland Signs Palantir Deal",
-   "ok": true
-  },
-  {
-   "source": "youtube: poland signs palantir deal",
-   "ok": true
-  },
-  {
-   "source": "tiktok: poland signs palantir deal",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-28T02:49:14.421Z",
@@ -352,7 +319,7 @@
    "source_id": "x-thedefiant-io",
    "published_ts": "2026-11-27 19:22:28",
    "story_sources": 2,
-   "score_norm": 77,
+   "score_norm": 78,
    "related_news": [
     {
      "source_id": "engadget",
@@ -721,6 +688,36 @@
    "searched_at": "2026-11-25T15:36:06.051Z"
   },
   {
+   "first_seen": "2026-11-28T00:28:13.804Z",
+   "id": "40076762",
+   "ids": [
+    "40076762",
+    "40083877"
+   ],
+   "title": "Australia passes bill that would let people sue AI chatbot providers",
+   "url": "https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
+   "source_id": "x-cryptoslate",
+   "published_ts": "2026-11-27 15:40:45",
+   "story_sources": 2,
+   "score_norm": 71,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Australia Passes Bill to Let People Sue AI Chatbot Providers",
+     "url": "https://thedefiant.io/frontier/regulation/australia-passes-bill-to-let-people-sue-ai-chatbot-providers"
+    }
+   ],
+   "queries": [
+    "australia passes bill would"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-28T00:28:18.384Z"
+  },
+  {
    "first_seen": "2026-11-26T00:29:09.961Z",
    "id": "40042754",
    "ids": [
@@ -822,36 +819,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T18:49:55.527Z"
-  },
-  {
-   "first_seen": "2026-11-28T00:28:13.804Z",
-   "id": "40076762",
-   "ids": [
-    "40076762",
-    "40083877"
-   ],
-   "title": "Australia passes bill that would let people sue AI chatbot providers",
-   "url": "https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
-   "source_id": "x-cryptoslate",
-   "published_ts": "2026-11-27 15:40:45",
-   "story_sources": 2,
-   "score_norm": 70,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Australia Passes Bill to Let People Sue AI Chatbot Providers",
-     "url": "https://thedefiant.io/frontier/regulation/australia-passes-bill-to-let-people-sue-ai-chatbot-providers"
-    }
-   ],
-   "queries": [
-    "australia passes bill would"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-28T00:28:18.384Z"
   },
   {
    "first_seen": "2026-11-26T16:36:54.724Z",
@@ -1757,110 +1724,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-28T03:26:27.118Z"
-  },
-  {
-   "first_seen": "2026-11-25T05:11:59.635Z",
-   "id": "40027092",
-   "ids": [
-    "40027092",
-    "40023165"
-   ],
-   "title": "Nvidia CEO Jensen Huang's return brings open-weight AI debate to forefront in Washington",
-   "url": "https://www.thehindu.com/sci-tech/technology/nvidia-ceo-jensen-huangs-return-brings-open-weight-ai-debate-to-forefront-in-washington/article71740982.ece",
-   "source_id": "in-thehindu-tech",
-   "published_ts": "2026-11-25 04:18:10",
-   "story_sources": 2,
-   "score_norm": 50,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
-     "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/"
-    }
-   ],
-   "queries": [
-    "Nvidia CEO Jensen Huang's",
-    "nvidia ceo jensen huang"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:hQiUMK-QDjU",
-     "url": "https://www.youtube.com/watch?v=hQiUMK-QDjU",
-     "title": "Jensen Huang reinstated as Nvidia CEO: What to know",
-     "channel": "CNN",
-     "views": 958415,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 19967
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:N6y8slSJG4o",
-     "url": "https://www.youtube.com/watch?v=N6y8slSJG4o",
-     "title": "BREAKING: Nvidia reinstates Jensen Huang as CEO",
-     "channel": "Fox News",
-     "views": 654707,
-     "age_hours": 48,
-     "relevance": 0.67,
-     "velocity": 13640
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:JzBXDYLUJ8Q",
-     "url": "https://www.youtube.com/watch?v=JzBXDYLUJ8Q",
-     "title": "Trump posts ‘bizarre’ image on Jensen Huang’s return to Nvidia",
-     "channel": "CNN",
-     "views": 308178,
-     "age_hours": 24,
-     "relevance": 0.5,
-     "velocity": 12841
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:7crMftaSOFA",
-     "url": "https://www.youtube.com/shorts/7crMftaSOFA",
-     "title": "Jensen Huang thanks Nvidia for the ‘second chance’",
-     "channel": "",
-     "views": 356000,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:5mNCHODJ_HA",
-     "url": "https://www.youtube.com/watch?v=5mNCHODJ_HA",
-     "title": "Jensen Huang reinstated as NVIDIA CEO",
-     "channel": "NBC News",
-     "views": 199749,
-     "age_hours": 24,
-     "relevance": 0.8,
-     "velocity": 8323
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:GjjiD65_pJ8",
-     "url": "https://www.youtube.com/watch?v=GjjiD65_pJ8",
-     "title": "BREAKING: Jensen Huang Makes SHOCK Return as CEO of Nvidia",
-     "channel": "Megyn Kelly",
-     "views": 154457,
-     "age_hours": 24,
-     "relevance": 0.63,
-     "velocity": 6436
-    }
-   ],
-   "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
-   },
-   "searched_at": "2026-11-25T17:36:15.613Z"
   },
   {
    "first_seen": "2026-11-26T00:29:09.961Z",
