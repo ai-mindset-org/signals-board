@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T10:10:10.716Z",
+ "generated_at": "2026-11-28T12:14:31.119Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,32 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: openai apple countersues accuses",
-   "ok": true
-  },
-  {
-   "source": "tiktok: openai apple countersues accuses",
-   "ok": true
-  },
-  {
-   "source": "youtube: Poland Signs Palantir Deal",
-   "ok": true
-  },
-  {
-   "source": "tiktok: Poland Signs Palantir Deal",
-   "ok": true
-  },
-  {
-   "source": "youtube: poland signs palantir deal",
-   "ok": true
-  },
-  {
-   "source": "tiktok: poland signs palantir deal",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-28T02:49:14.421Z",
@@ -346,17 +321,17 @@
     "40082437",
     "40087250"
    ],
-   "title": "OpenAI countersues Apple, accuses iPhone maker of stealing trade secrets",
-   "url": "https://indianexpress.com/article/technology/openai-countersues-apple-accuses-iphone-maker-of-stealing-trade-secrets-10982117/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-28 05:42:05",
+   "title": "OpenAI Countersues Apple in Trade Secrets Dispute",
+   "url": "https://thedefiant.io/frontier/ai/openai-countersues-apple-in-trade-secrets-dispute",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-27 19:22:28",
    "story_sources": 3,
    "score_norm": 82,
    "related_news": [
     {
-     "source_id": "x-thedefiant-io",
-     "title": "OpenAI Countersues Apple in Trade Secrets Dispute",
-     "url": "https://thedefiant.io/frontier/ai/openai-countersues-apple-in-trade-secrets-dispute"
+     "source_id": "in-express-tech",
+     "title": "OpenAI countersues Apple, accuses iPhone maker of stealing trade secrets",
+     "url": "https://indianexpress.com/article/technology/openai-countersues-apple-accuses-iphone-maker-of-stealing-trade-secrets-10982117/"
     },
     {
      "source_id": "engadget",
@@ -1373,7 +1348,7 @@
    "source_id": "x-cryptoslate",
    "published_ts": "2026-11-27 15:40:45",
    "story_sources": 2,
-   "score_norm": 56,
+   "score_norm": 57,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
@@ -1645,7 +1620,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-27 14:57:25",
    "story_sources": 2,
-   "score_norm": 46,
+   "score_norm": 47,
    "related_news": [
     {
      "source_id": "hn",
