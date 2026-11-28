@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T01:22:17.101Z",
+ "generated_at": "2026-11-28T01:49:40.607Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: sap 10 000 plans",
-   "ok": true
-  },
-  {
-   "source": "tiktok: sap 10 000 plans",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-27T21:49:26.600Z",
@@ -1030,6 +1021,37 @@
    "searched_at": "2026-11-26T18:49:55.527Z"
   },
   {
+   "first_seen": "2026-11-27T13:36:35.605Z",
+   "id": "40074075",
+   "ids": [
+    "40074075",
+    "40072514"
+   ],
+   "title": "Papa John’s pizza order first UK cardless payment by AI agent",
+   "url": "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/",
+   "source_id": "eu-tech-eu",
+   "published_ts": "2026-11-27 11:00:00",
+   "story_sources": 2,
+   "score_norm": 70,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+     "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer"
+    }
+   ],
+   "queries": [
+    "Papa John’s",
+    "papa john uk pizza"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-27T19:49:49.161Z"
+  },
+  {
    "first_seen": "2026-11-26T16:36:54.724Z",
    "id": "40058044",
    "ids": [
@@ -1131,37 +1153,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T16:36:58.681Z"
-  },
-  {
-   "first_seen": "2026-11-27T13:36:35.605Z",
-   "id": "40074075",
-   "ids": [
-    "40074075",
-    "40072514"
-   ],
-   "title": "Papa John’s pizza order first UK cardless payment by AI agent",
-   "url": "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/",
-   "source_id": "eu-tech-eu",
-   "published_ts": "2026-11-27 11:00:00",
-   "story_sources": 2,
-   "score_norm": 69,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Pizza history: AI agent's cardless purchase is a first for UK",
-     "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer"
-    }
-   ],
-   "queries": [
-    "Papa John’s",
-    "papa john uk pizza"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-27T19:49:49.161Z"
   },
   {
    "first_seen": "2026-11-27T21:20:41.802Z",
@@ -1508,36 +1499,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T11:21:06.295Z"
-  },
-  {
-   "first_seen": "2026-11-25T02:37:13.918Z",
-   "id": "40025200",
-   "ids": [
-    "40025200",
-    "40012980"
-   ],
-   "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
-   "url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
-   "source_id": "siliconangle-ai",
-   "published_ts": "2026-11-25 01:41:52",
-   "story_sources": 2,
-   "score_norm": 61,
-   "related_news": [
-    {
-     "source_id": "hn",
-     "title": "Scoop – AI employees sound alarm: models too powerful to ever release",
-     "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
-    }
-   ],
-   "queries": [
-    "staff anthropic open ai"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-25T08:39:19.574Z"
   },
   {
    "first_seen": "2026-11-25T22:49:37.521Z",
