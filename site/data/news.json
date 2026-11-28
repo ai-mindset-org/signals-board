@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T12:14:31.119Z",
+ "generated_at": "2026-11-28T12:49:44.349Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,16 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: australia passes bill would",
+   "ok": true
+  },
+  {
+   "source": "tiktok: australia passes bill would",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-28T02:49:14.421Z",
@@ -1364,7 +1373,7 @@
     "code": "gap",
     "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-28T06:41:08.472Z"
+   "searched_at": "2026-11-28T12:49:48.696Z"
   },
   {
    "first_seen": "2026-11-27T15:36:40.619Z",
