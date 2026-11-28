@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:25:28.005Z",
+ "generated_at": "2026-11-28T08:49:45.432Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -9,19 +9,11 @@
  },
  "search_report": [
   {
-   "source": "youtube: Papa John’s",
+   "source": "youtube: openai apple countersues alleged",
    "ok": true
   },
   {
-   "source": "tiktok: Papa John’s",
-   "ok": true
-  },
-  {
-   "source": "youtube: papa john uk pizza",
-   "ok": true
-  },
-  {
-   "source": "tiktok: papa john uk pizza",
+   "source": "tiktok: openai apple countersues alleged",
    "ok": true
   }
  ],
@@ -63,10 +55,10 @@
      "url": "https://www.youtube.com/watch?v=z4XHbnDl3ng",
      "title": "OpenAI countersues Apple over stolen files and threats",
      "channel": "Whats up with AI?",
-     "views": 323,
-     "age_hours": 5,
+     "views": 344,
+     "age_hours": 11,
      "relevance": 0.5,
-     "velocity": 65
+     "velocity": 31
     },
     {
      "platform": "youtube",
@@ -75,10 +67,10 @@
      "url": "https://www.youtube.com/watch?v=av4edayWrTQ",
      "title": "OpenAI just sued Apple back",
      "channel": "Model Tribune",
-     "views": 18,
-     "age_hours": 5,
+     "views": 21,
+     "age_hours": 11,
      "relevance": 0.5,
-     "velocity": 4
+     "velocity": 2
     },
     {
      "platform": "youtube",
@@ -87,45 +79,45 @@
      "url": "https://www.youtube.com/watch?v=dWTiN7OHGhw",
      "title": "OpenAI Countersues Apple Over Trade Secret Claims, Alleging a Trap for Departing Staf #Shorts",
      "channel": "World Finance News Now",
-     "views": 3,
-     "age_hours": 1,
+     "views": 13,
+     "age_hours": 7,
      "relevance": 0.71,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7cweXLv842g",
-     "url": "https://www.youtube.com/watch?v=7cweXLv842g",
-     "title": "OpenAI Countersues Apple, Accuses It of Stealing Secrets",
-     "channel": "Midnight Signal AI",
-     "views": 4,
-     "age_hours": 2,
-     "relevance": 0.5,
      "velocity": 2
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:EeQdsIz8DKE",
-     "url": "https://www.youtube.com/watch?v=EeQdsIz8DKE",
-     "title": "OpenAI countersues Apple over trade secrets",
-     "channel": "WorldNewsin60",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 0.8,
+     "id": "youtube:uefw69F2TUA",
+     "url": "https://www.youtube.com/watch?v=uefw69F2TUA",
+     "title": "OpenAI Countersues Apple: Trade-Secret Theft & Supplier Pressure Claims ⚖️ #Shorts",
+     "channel": "Gen AI Guru",
+     "views": 7,
+     "age_hours": 5,
+     "relevance": 0.57,
      "velocity": 1
     },
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:ewaWvDZ57UI",
-     "url": "https://www.youtube.com/watch?v=ewaWvDZ57UI",
-     "title": "OpenAI countersues Apple over alleged trade-secret theft and supplier pressure #Shorts",
-     "channel": "Alpha Explorer",
+     "id": "youtube:S7EvVGymts4",
+     "url": "https://www.youtube.com/watch?v=S7EvVGymts4",
+     "title": "OpenAI Countersues Apple: Accuses It of Stealing Secrets",
+     "channel": "Daily Dose of AI News",
      "views": 3,
      "age_hours": 5,
-     "relevance": 0.71,
+     "relevance": 0.5,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:HxMzJYXctFc",
+     "url": "https://www.youtube.com/watch?v=HxMzJYXctFc",
+     "title": "OpenAI countersues Apple over hardware trade secrets",
+     "channel": "NomicSignal",
+     "views": 5,
+     "age_hours": 8,
+     "relevance": 0.67,
      "velocity": 1
     }
    ],
@@ -133,7 +125,7 @@
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-28T02:49:18.768Z"
+   "searched_at": "2026-11-28T08:49:49.597Z"
   },
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -1366,7 +1358,7 @@
    "source_id": "x-cryptoslate",
    "published_ts": "2026-11-27 15:40:45",
    "story_sources": 2,
-   "score_norm": 55,
+   "score_norm": 56,
    "related_news": [
     {
      "source_id": "x-thedefiant-io",
