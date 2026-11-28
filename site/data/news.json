@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T06:50:42.351Z",
+ "generated_at": "2026-11-28T07:11:36.617Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -10,48 +10,35 @@
  "search_report": [],
  "stories": [
   {
-   "first_seen": "2026-11-27T21:49:26.600Z",
-   "id": "40081273",
+   "first_seen": "2026-11-28T02:49:14.421Z",
+   "id": "40085316",
    "ids": [
-    "40081273",
-    "40082437",
-    "40087250"
+    "40085316",
+    "40080910",
+    "40087344"
    ],
-   "title": "OpenAI countersues Apple, accuses iPhone maker of stealing trade secrets",
-   "url": "https://indianexpress.com/article/technology/openai-countersues-apple-accuses-iphone-maker-of-stealing-trade-secrets-10982117/",
-   "source_id": "in-express-tech",
-   "published_ts": "2026-11-28 05:42:05",
+   "title": "OpenAI countersues Apple over alleged trade secret theft",
+   "url": "https://www.techinasia.com/news/openai-countersues-apple-alleged-trade-secret-theft",
+   "source_id": "sea-techinasia",
+   "published_ts": "2026-11-28 02:28:09",
    "story_sources": 3,
    "score_norm": 100,
    "related_news": [
     {
-     "source_id": "x-thedefiant-io",
-     "title": "OpenAI Countersues Apple in Trade Secrets Dispute",
-     "url": "https://thedefiant.io/frontier/ai/openai-countersues-apple-in-trade-secrets-dispute"
+     "source_id": "eu-lemonde-pixels",
+     "title": "OpenAI countersues Apple in dispute over trade secret  thefts",
+     "url": "https://www.lemonde.fr/en/pixels/article/2026/11/28/openai-countersues-apple-in-dispute-over-trade-secret-thefts_6790291_13.html"
     },
     {
-     "source_id": "engadget",
-     "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
-     "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/"
+     "source_id": "eu-the-decoder",
+     "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+     "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/"
     }
    ],
    "queries": [
-    "OpenAI Countersues Apple",
-    "openai countersues apple trade"
+    "openai apple countersues alleged"
    ],
    "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xmqTNKoRg_g",
-     "url": "https://www.youtube.com/watch?v=xmqTNKoRg_g",
-     "title": "OpenAI countersues Apple for stealing trade secrets",
-     "channel": "CNBC Television",
-     "views": 2990,
-     "age_hours": 7,
-     "relevance": 0.83,
-     "velocity": 427
-    },
     {
      "platform": "youtube",
      "kind": "видео",
@@ -59,34 +46,10 @@
      "url": "https://www.youtube.com/watch?v=z4XHbnDl3ng",
      "title": "OpenAI countersues Apple over stolen files and threats",
      "channel": "Whats up with AI?",
-     "views": 325,
-     "age_hours": 6,
+     "views": 323,
+     "age_hours": 5,
      "relevance": 0.5,
-     "velocity": 54
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SshGyw_vs4E",
-     "url": "https://www.youtube.com/watch?v=SshGyw_vs4E",
-     "title": "OpenAI countersues Apple over AI device secrets #shorts",
-     "channel": "PiBrief",
-     "views": 161,
-     "age_hours": 3,
-     "relevance": 0.67,
-     "velocity": 54
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:CIWdEFmyFYw",
-     "url": "https://www.youtube.com/watch?v=CIWdEFmyFYw",
-     "title": "OpenAI Countersues Apple Over Trade Secrets",
-     "channel": "The CSEians",
-     "views": 3,
-     "age_hours": 1,
-     "relevance": 1,
-     "velocity": 3
+     "velocity": 65
     },
     {
      "platform": "youtube",
@@ -96,9 +59,9 @@
      "title": "OpenAI just sued Apple back",
      "channel": "Model Tribune",
      "views": 18,
-     "age_hours": 6,
+     "age_hours": 5,
      "relevance": 0.5,
-     "velocity": 3
+     "velocity": 4
     },
     {
      "platform": "youtube",
@@ -108,16 +71,52 @@
      "title": "OpenAI Countersues Apple Over Trade Secret Claims, Alleging a Trap for Departing Staf #Shorts",
      "channel": "World Finance News Now",
      "views": 3,
+     "age_hours": 1,
+     "relevance": 0.71,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7cweXLv842g",
+     "url": "https://www.youtube.com/watch?v=7cweXLv842g",
+     "title": "OpenAI Countersues Apple, Accuses It of Stealing Secrets",
+     "channel": "Midnight Signal AI",
+     "views": 4,
      "age_hours": 2,
-     "relevance": 0.67,
+     "relevance": 0.5,
      "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:EeQdsIz8DKE",
+     "url": "https://www.youtube.com/watch?v=EeQdsIz8DKE",
+     "title": "OpenAI countersues Apple over trade secrets",
+     "channel": "WorldNewsin60",
+     "views": 1,
+     "age_hours": 1,
+     "relevance": 0.8,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ewaWvDZ57UI",
+     "url": "https://www.youtube.com/watch?v=ewaWvDZ57UI",
+     "title": "OpenAI countersues Apple over alleged trade-secret theft and supplier pressure #Shorts",
+     "channel": "Alpha Explorer",
+     "views": 3,
+     "age_hours": 5,
+     "relevance": 0.71,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-28T03:49:49.383Z"
+   "searched_at": "2026-11-28T02:49:18.768Z"
   },
   {
    "first_seen": "2026-11-26T20:36:25.699Z",
@@ -315,29 +314,48 @@
    "searched_at": "2026-11-26T18:27:25.368Z"
   },
   {
-   "first_seen": "2026-11-28T02:49:14.421Z",
-   "id": "40085316",
+   "first_seen": "2026-11-27T21:49:26.600Z",
+   "id": "40081273",
    "ids": [
-    "40085316",
-    "40080910"
+    "40081273",
+    "40082437",
+    "40087250"
    ],
-   "title": "OpenAI countersues Apple over alleged trade secret theft",
-   "url": "https://www.techinasia.com/news/openai-countersues-apple-alleged-trade-secret-theft",
-   "source_id": "sea-techinasia",
-   "published_ts": "2026-11-28 02:28:09",
-   "story_sources": 2,
-   "score_norm": 90,
+   "title": "OpenAI countersues Apple, accuses iPhone maker of stealing trade secrets",
+   "url": "https://indianexpress.com/article/technology/openai-countersues-apple-accuses-iphone-maker-of-stealing-trade-secrets-10982117/",
+   "source_id": "in-express-tech",
+   "published_ts": "2026-11-28 05:42:05",
+   "story_sources": 3,
+   "score_norm": 83,
    "related_news": [
     {
-     "source_id": "eu-the-decoder",
-     "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
-     "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/"
+     "source_id": "x-thedefiant-io",
+     "title": "OpenAI Countersues Apple in Trade Secrets Dispute",
+     "url": "https://thedefiant.io/frontier/ai/openai-countersues-apple-in-trade-secrets-dispute"
+    },
+    {
+     "source_id": "engadget",
+     "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+     "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/"
     }
    ],
    "queries": [
-    "openai apple countersues alleged"
+    "OpenAI Countersues Apple",
+    "openai countersues apple trade"
    ],
    "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xmqTNKoRg_g",
+     "url": "https://www.youtube.com/watch?v=xmqTNKoRg_g",
+     "title": "OpenAI countersues Apple for stealing trade secrets",
+     "channel": "CNBC Television",
+     "views": 2990,
+     "age_hours": 7,
+     "relevance": 0.83,
+     "velocity": 427
+    },
     {
      "platform": "youtube",
      "kind": "видео",
@@ -345,10 +363,34 @@
      "url": "https://www.youtube.com/watch?v=z4XHbnDl3ng",
      "title": "OpenAI countersues Apple over stolen files and threats",
      "channel": "Whats up with AI?",
-     "views": 323,
-     "age_hours": 5,
+     "views": 325,
+     "age_hours": 6,
      "relevance": 0.5,
-     "velocity": 65
+     "velocity": 54
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SshGyw_vs4E",
+     "url": "https://www.youtube.com/watch?v=SshGyw_vs4E",
+     "title": "OpenAI countersues Apple over AI device secrets #shorts",
+     "channel": "PiBrief",
+     "views": 161,
+     "age_hours": 3,
+     "relevance": 0.67,
+     "velocity": 54
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:CIWdEFmyFYw",
+     "url": "https://www.youtube.com/watch?v=CIWdEFmyFYw",
+     "title": "OpenAI Countersues Apple Over Trade Secrets",
+     "channel": "The CSEians",
+     "views": 3,
+     "age_hours": 1,
+     "relevance": 1,
+     "velocity": 3
     },
     {
      "platform": "youtube",
@@ -358,9 +400,9 @@
      "title": "OpenAI just sued Apple back",
      "channel": "Model Tribune",
      "views": 18,
-     "age_hours": 5,
+     "age_hours": 6,
      "relevance": 0.5,
-     "velocity": 4
+     "velocity": 3
     },
     {
      "platform": "youtube",
@@ -370,52 +412,16 @@
      "title": "OpenAI Countersues Apple Over Trade Secret Claims, Alleging a Trap for Departing Staf #Shorts",
      "channel": "World Finance News Now",
      "views": 3,
-     "age_hours": 1,
-     "relevance": 0.71,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7cweXLv842g",
-     "url": "https://www.youtube.com/watch?v=7cweXLv842g",
-     "title": "OpenAI Countersues Apple, Accuses It of Stealing Secrets",
-     "channel": "Midnight Signal AI",
-     "views": 4,
      "age_hours": 2,
-     "relevance": 0.5,
+     "relevance": 0.67,
      "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:EeQdsIz8DKE",
-     "url": "https://www.youtube.com/watch?v=EeQdsIz8DKE",
-     "title": "OpenAI countersues Apple over trade secrets",
-     "channel": "WorldNewsin60",
-     "views": 1,
-     "age_hours": 1,
-     "relevance": 0.8,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ewaWvDZ57UI",
-     "url": "https://www.youtube.com/watch?v=ewaWvDZ57UI",
-     "title": "OpenAI countersues Apple over alleged trade-secret theft and supplier pressure #Shorts",
-     "channel": "Alpha Explorer",
-     "views": 3,
-     "age_hours": 5,
-     "relevance": 0.71,
-     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-28T02:49:18.768Z"
+   "searched_at": "2026-11-28T03:49:49.383Z"
   },
   {
    "first_seen": "2026-11-26T18:49:44.018Z",
@@ -595,103 +601,6 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-26T09:50:00.534Z"
-  },
-  {
-   "first_seen": "2026-11-25T09:25:47.512Z",
-   "id": "40029995",
-   "ids": [
-    "40029995",
-    "40018685",
-    "40037812"
-   ],
-   "title": "Google will make AI agents use new gateways to reach Gmail and Drive from February",
-   "url": "https://dailyai.com/2026/11/google-will-make-ai-agents-use-new-gateways-to-reach-gmail-and-drive-from-february/",
-   "source_id": "x-dailyai",
-   "published_ts": "2026-11-25 06:54:54",
-   "story_sources": 2,
-   "score_norm": 76,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "Google will make AI agents use new gateways to reach Gmail and Drive from February",
-     "url": "https://dailyai.com/2026/11/google-to-ai-agents-gmail-drive-mcp-gateways/"
-    },
-    {
-     "source_id": "eu-tnw",
-     "title": "Google will make AI agents use new gateways to reach Gmail and Drive",
-     "url": "https://thenextweb.com/news/google-workspace-ai-agents-mcp-servers-rules"
-    }
-   ],
-   "queries": [
-    "google gmail drive february"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:WHB9CLKl5PY",
-     "url": "https://www.youtube.com/shorts/WHB9CLKl5PY",
-     "title": "Google's AI Mode Now Knows Your Drive + Wallet",
-     "channel": "",
-     "views": 24,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:giOrRRYkAK0",
-     "url": "https://www.youtube.com/shorts/giOrRRYkAK0",
-     "title": "Google Search AI Now Integrates Drive and Wallet 🚀",
-     "channel": "",
-     "views": 13,
-     "age_hours": null,
-     "relevance": 0.5,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:pgVmEv8xvbM",
-     "url": "https://www.youtube.com/shorts/pgVmEv8xvbM",
-     "title": "Google Workspace MCP Now Powers AI in Gmail and Drive",
-     "channel": "",
-     "views": 5,
-     "age_hours": null,
-     "relevance": 0.57,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:r2H0heWPTKs",
-     "url": "https://www.youtube.com/shorts/r2H0heWPTKs",
-     "title": "Google is putting AI agents on a leash in Gmail and Drive #Shorts",
-     "channel": "",
-     "views": 1,
-     "age_hours": null,
-     "relevance": 0.63,
-     "velocity": null
-    },
-    {
-     "platform": "youtube",
-     "kind": "shorts",
-     "id": "youtube:w0RE9aMeIcE",
-     "url": "https://www.youtube.com/shorts/w0RE9aMeIcE",
-     "title": "Google Just Changed How AI Agents Use Gmail",
-     "channel": "",
-     "views": 0,
-     "age_hours": null,
-     "relevance": 0.83,
-     "velocity": null
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-25T15:36:06.051Z"
   },
   {
    "first_seen": "2026-11-26T00:29:09.961Z",
@@ -898,36 +807,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T16:36:58.681Z"
-  },
-  {
-   "first_seen": "2026-11-28T00:28:13.804Z",
-   "id": "40076762",
-   "ids": [
-    "40076762",
-    "40083877"
-   ],
-   "title": "Australia passes bill that would let people sue AI chatbot providers",
-   "url": "https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
-   "source_id": "x-cryptoslate",
-   "published_ts": "2026-11-27 15:40:45",
-   "story_sources": 2,
-   "score_norm": 66,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Australia Passes Bill to Let People Sue AI Chatbot Providers",
-     "url": "https://thedefiant.io/frontier/regulation/australia-passes-bill-to-let-people-sue-ai-chatbot-providers"
-    }
-   ],
-   "queries": [
-    "australia passes bill would"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-28T06:41:08.472Z"
   },
   {
    "first_seen": "2026-11-26T11:10:42.724Z",
@@ -1325,110 +1204,6 @@
    "searched_at": "2026-11-26T11:21:06.295Z"
   },
   {
-   "first_seen": "2026-11-27T15:36:40.619Z",
-   "id": "40076269",
-   "ids": [
-    "40076269",
-    "40073728"
-   ],
-   "title": "Poland Signs Palantir Deal for Military AI Software",
-   "url": "https://thedefiant.io/frontier/ai/poland-signs-palantir-deal-for-military-ai-software",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-27 11:57:39",
-   "story_sources": 2,
-   "score_norm": 59,
-   "related_news": [
-    {
-     "source_id": "x-dailyai",
-     "title": "Poland signs a $300 million Palantir deal for battlefield AI",
-     "url": "https://dailyai.com/2026/11/poland-signs-a-300-million-palantir-deal-for-battlefield-ai/"
-    }
-   ],
-   "queries": [
-    "Poland Signs Palantir Deal",
-    "poland signs palantir deal"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:kGutuf8XRMo",
-     "url": "https://www.youtube.com/watch?v=kGutuf8XRMo",
-     "title": "#Poland signs #AI software deal with U.S. company #Palantir",
-     "channel": "TVP WORLD",
-     "views": 1699,
-     "age_hours": 8,
-     "relevance": 0.86,
-     "velocity": 212
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ESzUcFc5gz4",
-     "url": "https://www.youtube.com/watch?v=ESzUcFc5gz4",
-     "title": "What Does a $300M Poland AI Deal Really Change for Palantir? #Palantir #PLTR #DefenseAI",
-     "channel": "Asset Guardian Global",
-     "views": 8,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:ga9ATVNhN_0",
-     "url": "https://www.youtube.com/watch?v=ga9ATVNhN_0",
-     "title": "Why Did Palantir Jump on a $300M Poland Deal? | Can European Defense AI Expand Revenue?",
-     "channel": "Asset Guardian Global",
-     "views": 7,
-     "age_hours": 2,
-     "relevance": 0.57,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:V2c0ifNmrbE",
-     "url": "https://www.youtube.com/watch?v=V2c0ifNmrbE",
-     "title": "Poland to Sign Palantir AI Military Software Deal",
-     "channel": "Global60s",
-     "views": 57,
-     "age_hours": 24,
-     "relevance": 0.86,
-     "velocity": 2
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:x9vcctURiWw",
-     "url": "https://www.youtube.com/watch?v=x9vcctURiWw",
-     "title": "Poland Signs Palantir Military Software Deal, Pledging Data and Human Control",
-     "channel": "The Center Right Brief",
-     "views": 12,
-     "age_hours": 13,
-     "relevance": 0.86,
-     "velocity": 1
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:blJtHHaYdyg",
-     "url": "https://www.youtube.com/watch?v=blJtHHaYdyg",
-     "title": "Poland signs roughly $300 million five-year Palantir AI agreement, minister says #Shorts",
-     "channel": "Alpha Explorer",
-     "views": 5,
-     "age_hours": 8,
-     "relevance": 0.57,
-     "velocity": 1
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-28T03:49:56.317Z"
-  },
-  {
    "first_seen": "2026-11-25T22:49:37.521Z",
    "id": "40043363",
    "ids": [
@@ -1563,155 +1338,138 @@
    "searched_at": "2026-11-26T13:11:57.523Z"
   },
   {
-   "first_seen": "2026-11-26T18:37:12.398Z",
-   "id": "40060318",
+   "first_seen": "2026-11-28T00:28:13.804Z",
+   "id": "40076762",
    "ids": [
-    "40060318",
-    "40058943",
-    "40067254",
-    "40060746",
-    "40077587",
-    "40080916"
+    "40076762",
+    "40083877"
    ],
-   "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
-   "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
-   "source_id": "eu-the-decoder",
-   "published_ts": "2026-11-27 14:57:25",
+   "title": "Australia passes bill that would let people sue AI chatbot providers",
+   "url": "https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
+   "source_id": "x-cryptoslate",
+   "published_ts": "2026-11-27 15:40:45",
    "story_sources": 2,
-   "score_norm": 53,
+   "score_norm": 55,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "SAP is reportedly cutting at least 10,000 jobs in AI push",
-     "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+     "source_id": "x-thedefiant-io",
+     "title": "Australia Passes Bill to Let People Sue AI Chatbot Providers",
+     "url": "https://thedefiant.io/frontier/regulation/australia-passes-bill-to-let-people-sue-ai-chatbot-providers"
     }
    ],
    "queries": [
-    "sap 10 000 plans"
+    "australia passes bill would"
    ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:gFOS1tHqqeE",
-     "url": "https://www.youtube.com/watch?v=gFOS1tHqqeE",
-     "title": "SAP Plans 10,000 Job Cuts as AI Push Accelerates: Another Major Tech Layoff Wave?",
-     "channel": "Mint",
-     "views": 34760,
-     "age_hours": 14,
-     "relevance": 0.56,
-     "velocity": 2483
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:wc435uTiRvI",
-     "url": "https://www.youtube.com/watch?v=wc435uTiRvI",
-     "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
-     "channel": "Bloomberg Television",
-     "views": 5493,
-     "age_hours": 7,
-     "relevance": 0.63,
-     "velocity": 785
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:jpY923t5hTY",
-     "url": "https://www.youtube.com/watch?v=jpY923t5hTY",
-     "title": "SAP Reportedly Preparing To Cut At Least 10,000 Jobs | SAP Plans Layoffs Amid AI Push | N18G",
-     "channel": "CNBC-TV18",
-     "views": 5209,
-     "age_hours": 16,
-     "relevance": 0.89,
-     "velocity": 326
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:fdWMy-Y-ZC4",
-     "url": "https://www.youtube.com/watch?v=fdWMy-Y-ZC4",
-     "title": "Non-Stop Layoff Spree: Software Giant SAP Pivots To AI, Plans AT LEAST 10,000 Job Cuts",
-     "channel": "The Reform Room",
-     "views": 568,
-     "age_hours": 13,
-     "relevance": 0.78,
-     "velocity": 44
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:A-iWjCDb_vI",
-     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
-     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
-     "channel": "Sitcomexe",
-     "views": 536,
-     "age_hours": 24,
-     "relevance": 0.67,
-     "velocity": 22
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:_btztNBmCyw",
-     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
-     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
-     "channel": "Runday AI",
-     "views": 285,
-     "age_hours": 24,
-     "relevance": 0.56,
-     "velocity": 12
-    }
-   ],
+   "videos": [],
    "verdict": {
-    "code": "covered",
-    "text": "уже залетает – смотреть подачу и делать свой угол"
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
    },
-   "searched_at": "2026-11-28T01:22:21.216Z"
+   "searched_at": "2026-11-28T06:41:08.472Z"
   },
   {
-   "first_seen": "2026-11-27T13:36:35.605Z",
-   "id": "40074075",
+   "first_seen": "2026-11-27T15:36:40.619Z",
+   "id": "40076269",
    "ids": [
-    "40074075",
-    "40072514"
+    "40076269",
+    "40073728"
    ],
-   "title": "Papa John’s pizza order first UK cardless payment by AI agent",
-   "url": "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/",
-   "source_id": "eu-tech-eu",
-   "published_ts": "2026-11-27 11:00:00",
+   "title": "Poland Signs Palantir Deal for Military AI Software",
+   "url": "https://thedefiant.io/frontier/ai/poland-signs-palantir-deal-for-military-ai-software",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-27 11:57:39",
    "story_sources": 2,
-   "score_norm": 51,
+   "score_norm": 49,
    "related_news": [
     {
-     "source_id": "hn",
-     "title": "Pizza history: AI agent's cardless purchase is a first for UK",
-     "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer"
+     "source_id": "x-dailyai",
+     "title": "Poland signs a $300 million Palantir deal for battlefield AI",
+     "url": "https://dailyai.com/2026/11/poland-signs-a-300-million-palantir-deal-for-battlefield-ai/"
     }
    ],
    "queries": [
-    "Papa John’s",
-    "papa john uk pizza"
+    "Poland Signs Palantir Deal",
+    "poland signs palantir deal"
    ],
    "videos": [
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:-IsyRhxToBc",
-     "url": "https://www.youtube.com/watch?v=-IsyRhxToBc",
-     "title": "The History of Papa John's Pizza.",
-     "channel": "e chang",
-     "views": 129,
+     "id": "youtube:kGutuf8XRMo",
+     "url": "https://www.youtube.com/watch?v=kGutuf8XRMo",
+     "title": "#Poland signs #AI software deal with U.S. company #Palantir",
+     "channel": "TVP WORLD",
+     "views": 1699,
+     "age_hours": 8,
+     "relevance": 0.86,
+     "velocity": 212
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ESzUcFc5gz4",
+     "url": "https://www.youtube.com/watch?v=ESzUcFc5gz4",
+     "title": "What Does a $300M Poland AI Deal Really Change for Palantir? #Palantir #PLTR #DefenseAI",
+     "channel": "Asset Guardian Global",
+     "views": 8,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:ga9ATVNhN_0",
+     "url": "https://www.youtube.com/watch?v=ga9ATVNhN_0",
+     "title": "Why Did Palantir Jump on a $300M Poland Deal? | Can European Defense AI Expand Revenue?",
+     "channel": "Asset Guardian Global",
+     "views": 7,
+     "age_hours": 2,
+     "relevance": 0.57,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:V2c0ifNmrbE",
+     "url": "https://www.youtube.com/watch?v=V2c0ifNmrbE",
+     "title": "Poland to Sign Palantir AI Military Software Deal",
+     "channel": "Global60s",
+     "views": 57,
      "age_hours": 24,
-     "relevance": 0.75,
-     "velocity": 5
+     "relevance": 0.86,
+     "velocity": 2
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:x9vcctURiWw",
+     "url": "https://www.youtube.com/watch?v=x9vcctURiWw",
+     "title": "Poland Signs Palantir Military Software Deal, Pledging Data and Human Control",
+     "channel": "The Center Right Brief",
+     "views": 12,
+     "age_hours": 13,
+     "relevance": 0.86,
+     "velocity": 1
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:blJtHHaYdyg",
+     "url": "https://www.youtube.com/watch?v=blJtHHaYdyg",
+     "title": "Poland signs roughly $300 million five-year Palantir AI agreement, minister says #Shorts",
+     "channel": "Alpha Explorer",
+     "views": 5,
+     "age_hours": 8,
+     "relevance": 0.57,
+     "velocity": 1
     }
    ],
    "verdict": {
     "code": "early",
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
-   "searched_at": "2026-11-28T02:15:49.017Z"
+   "searched_at": "2026-11-28T03:49:56.317Z"
   },
   {
    "first_seen": "2026-11-26T00:29:09.961Z",
@@ -2124,6 +1882,113 @@
    "searched_at": "2026-11-26T12:40:00.184Z"
   },
   {
+   "first_seen": "2026-11-26T18:37:12.398Z",
+   "id": "40060318",
+   "ids": [
+    "40060318",
+    "40058943",
+    "40067254",
+    "40060746",
+    "40077587",
+    "40080916"
+   ],
+   "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+   "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+   "source_id": "eu-the-decoder",
+   "published_ts": "2026-11-27 14:57:25",
+   "story_sources": 2,
+   "score_norm": 45,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "SAP is reportedly cutting at least 10,000 jobs in AI push",
+     "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+    }
+   ],
+   "queries": [
+    "sap 10 000 plans"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:gFOS1tHqqeE",
+     "url": "https://www.youtube.com/watch?v=gFOS1tHqqeE",
+     "title": "SAP Plans 10,000 Job Cuts as AI Push Accelerates: Another Major Tech Layoff Wave?",
+     "channel": "Mint",
+     "views": 34760,
+     "age_hours": 14,
+     "relevance": 0.56,
+     "velocity": 2483
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:wc435uTiRvI",
+     "url": "https://www.youtube.com/watch?v=wc435uTiRvI",
+     "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
+     "channel": "Bloomberg Television",
+     "views": 5493,
+     "age_hours": 7,
+     "relevance": 0.63,
+     "velocity": 785
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:jpY923t5hTY",
+     "url": "https://www.youtube.com/watch?v=jpY923t5hTY",
+     "title": "SAP Reportedly Preparing To Cut At Least 10,000 Jobs | SAP Plans Layoffs Amid AI Push | N18G",
+     "channel": "CNBC-TV18",
+     "views": 5209,
+     "age_hours": 16,
+     "relevance": 0.89,
+     "velocity": 326
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:fdWMy-Y-ZC4",
+     "url": "https://www.youtube.com/watch?v=fdWMy-Y-ZC4",
+     "title": "Non-Stop Layoff Spree: Software Giant SAP Pivots To AI, Plans AT LEAST 10,000 Job Cuts",
+     "channel": "The Reform Room",
+     "views": 568,
+     "age_hours": 13,
+     "relevance": 0.78,
+     "velocity": 44
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:A-iWjCDb_vI",
+     "url": "https://www.youtube.com/watch?v=A-iWjCDb_vI",
+     "title": "SAP is reportedly cutting 10,000 jobs for AI. It cut 10,000 last time too",
+     "channel": "Sitcomexe",
+     "views": 536,
+     "age_hours": 24,
+     "relevance": 0.67,
+     "velocity": 22
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:_btztNBmCyw",
+     "url": "https://www.youtube.com/watch?v=_btztNBmCyw",
+     "title": "SAP Weighs Cutting 10,000 Jobs for AI, Explained #Shorts",
+     "channel": "Runday AI",
+     "views": 285,
+     "age_hours": 24,
+     "relevance": 0.56,
+     "velocity": 12
+    }
+   ],
+   "verdict": {
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
+   },
+   "searched_at": "2026-11-28T01:22:21.216Z"
+  },
+  {
    "first_seen": "2026-11-26T12:16:26.142Z",
    "id": "40053430",
    "ids": [
@@ -2231,6 +2096,50 @@
     "text": "уже залетает – смотреть подачу и делать свой угол"
    },
    "searched_at": "2026-11-26T12:16:37.263Z"
+  },
+  {
+   "first_seen": "2026-11-27T13:36:35.605Z",
+   "id": "40074075",
+   "ids": [
+    "40074075",
+    "40072514"
+   ],
+   "title": "Papa John’s pizza order first UK cardless payment by AI agent",
+   "url": "https://tech.eu/2026/11/27/papa-johns-pizza-order-first-uk-cardless-payment-by-ai-agent/",
+   "source_id": "eu-tech-eu",
+   "published_ts": "2026-11-27 11:00:00",
+   "story_sources": 2,
+   "score_norm": 43,
+   "related_news": [
+    {
+     "source_id": "hn",
+     "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+     "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer"
+    }
+   ],
+   "queries": [
+    "Papa John’s",
+    "papa john uk pizza"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:-IsyRhxToBc",
+     "url": "https://www.youtube.com/watch?v=-IsyRhxToBc",
+     "title": "The History of Papa John's Pizza.",
+     "channel": "e chang",
+     "views": 129,
+     "age_hours": 24,
+     "relevance": 0.75,
+     "velocity": 5
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-28T02:15:49.017Z"
   },
   {
    "first_seen": "2026-11-26T04:13:57.046Z",
