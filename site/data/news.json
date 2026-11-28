@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:09:57.765Z",
+ "generated_at": "2026-11-28T00:28:13.804Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,7 +7,32 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [],
+ "search_report": [
+  {
+   "source": "youtube: australia passes bill would",
+   "ok": true
+  },
+  {
+   "source": "tiktok: australia passes bill would",
+   "ok": true
+  },
+  {
+   "source": "youtube: Los Angeles",
+   "ok": true
+  },
+  {
+   "source": "tiktok: Los Angeles",
+   "ok": true
+  },
+  {
+   "source": "youtube: los angeles google overviews",
+   "ok": true
+  },
+  {
+   "source": "tiktok: los angeles google overviews",
+   "ok": true
+  }
+ ],
  "stories": [
   {
    "first_seen": "2026-11-27T21:49:26.600Z",
@@ -324,7 +349,7 @@
    "source_id": "eu-the-decoder",
    "published_ts": "2026-11-27 14:57:25",
    "story_sources": 3,
-   "score_norm": 96,
+   "score_norm": 97,
    "related_news": [
     {
      "source_id": "sea-techinasia",
@@ -421,6 +446,36 @@
    "searched_at": "2026-11-27T19:20:11.230Z"
   },
   {
+   "first_seen": "2026-11-28T00:28:13.804Z",
+   "id": "40076762",
+   "ids": [
+    "40076762",
+    "40083877"
+   ],
+   "title": "Australia passes bill that would let people sue AI chatbot providers",
+   "url": "https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
+   "source_id": "x-cryptoslate",
+   "published_ts": "2026-11-27 15:40:45",
+   "story_sources": 2,
+   "score_norm": 90,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Australia Passes Bill to Let People Sue AI Chatbot Providers",
+     "url": "https://thedefiant.io/frontier/regulation/australia-passes-bill-to-let-people-sue-ai-chatbot-providers"
+    }
+   ],
+   "queries": [
+    "australia passes bill would"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-28T00:28:18.384Z"
+  },
+  {
    "first_seen": "2026-11-27T18:26:00.277Z",
    "id": "40079330",
    "ids": [
@@ -432,7 +487,7 @@
    "source_id": "eu-tnw",
    "published_ts": "2026-11-27 18:00:27",
    "story_sources": 2,
-   "score_norm": 88,
+   "score_norm": 89,
    "related_news": [
     {
      "source_id": "x-dailyai",
@@ -448,14 +503,50 @@
     {
      "platform": "youtube",
      "kind": "видео",
-     "id": "youtube:lHIh0XlHBEc",
-     "url": "https://www.youtube.com/watch?v=lHIh0XlHBEc",
-     "title": "AIT News LIVE: Los Angeles schools switch off Google’s AI Overviews on student laptops",
-     "channel": "AIT",
-     "views": null,
+     "id": "youtube:xeSlJ_mBta8",
+     "url": "https://www.youtube.com/watch?v=xeSlJ_mBta8",
+     "title": "Getting Fat in Los Angeles!",
+     "channel": "Landon Bridges",
+     "views": 15580,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 3895
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:Kvt3DGGVBU8",
+     "url": "https://www.youtube.com/watch?v=Kvt3DGGVBU8",
+     "title": "Los Angeles, Neighborhood by Neighborhood (Part 6)",
+     "channel": "Every Town Mapped",
+     "views": 685,
+     "age_hours": 4,
+     "relevance": 0.5,
+     "velocity": 171
+    },
+    {
+     "platform": "youtube",
+     "kind": "shorts",
+     "id": "youtube:iMgRs1Co2pE",
+     "url": "https://www.youtube.com/shorts/iMgRs1Co2pE",
+     "title": "Seasonal Sashimi in Los Angeles",
+     "channel": "",
+     "views": 1000,
      "age_hours": null,
-     "relevance": 1,
+     "relevance": 0.5,
      "velocity": null
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:3WpKL_zG6E4",
+     "url": "https://www.youtube.com/watch?v=3WpKL_zG6E4",
+     "title": "LA Schools Block Google AI Overviews",
+     "channel": "The CSEians",
+     "views": 3,
+     "age_hours": 1,
+     "relevance": 0.67,
+     "velocity": 3
     },
     {
      "platform": "youtube",
@@ -464,17 +555,17 @@
      "url": "https://www.youtube.com/watch?v=VZii3SYaiz0",
      "title": "LA Schools Block Google AI Overviews: What Happens Next",
      "channel": "BreakingStory HQ",
-     "views": 4,
-     "age_hours": 9,
+     "views": 7,
+     "age_hours": 15,
      "relevance": 0.5,
      "velocity": 0
     }
    ],
    "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+    "code": "covered",
+    "text": "уже залетает – смотреть подачу и делать свой угол"
    },
-   "searched_at": "2026-11-27T18:26:09.144Z"
+   "searched_at": "2026-11-28T00:28:25.686Z"
   },
   {
    "first_seen": "2026-11-27T15:36:40.619Z",
@@ -1074,7 +1165,7 @@
    "source_id": "eu-tech-eu",
    "published_ts": "2026-11-27 11:00:00",
    "story_sources": 2,
-   "score_norm": 68,
+   "score_norm": 69,
    "related_news": [
     {
      "source_id": "hn",
@@ -1211,7 +1302,7 @@
    "source_id": "x-dailyai",
    "published_ts": "2026-11-27 07:07:31",
    "story_sources": 2,
-   "score_norm": 63,
+   "score_norm": 64,
    "related_news": [
     {
      "source_id": "hn",
