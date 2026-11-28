@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T12:49:44.349Z",
+ "generated_at": "2026-11-28T13:35:46.101Z",
  "source": {
   "name": "clawdigest",
   "endpoint": "/api/trending?hours=24&limit=20&category=ai",
@@ -7,16 +7,7 @@
   "hours": 24,
   "min_sources": 2
  },
- "search_report": [
-  {
-   "source": "youtube: australia passes bill would",
-   "ok": true
-  },
-  {
-   "source": "tiktok: australia passes bill would",
-   "ok": true
-  }
- ],
+ "search_report": [],
  "stories": [
   {
    "first_seen": "2026-11-28T02:49:14.421Z",
@@ -24,13 +15,14 @@
    "ids": [
     "40085316",
     "40080910",
-    "40087344"
+    "40087344",
+    "40091101"
    ],
    "title": "OpenAI countersues Apple over alleged trade secret theft",
    "url": "https://www.techinasia.com/news/openai-countersues-apple-alleged-trade-secret-theft",
    "source_id": "sea-techinasia",
    "published_ts": "2026-11-28 02:28:09",
-   "story_sources": 3,
+   "story_sources": 4,
    "score_norm": 100,
    "related_news": [
     {
@@ -42,6 +34,11 @@
      "source_id": "eu-the-decoder",
      "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/"
+    },
+    {
+     "source_id": "hn",
+     "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+     "url": "https://www.bbc.com/news/articles/cm15ekqvlezeo"
     }
    ],
    "queries": [
@@ -321,115 +318,6 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T18:27:25.368Z"
-  },
-  {
-   "first_seen": "2026-11-27T21:49:26.600Z",
-   "id": "40081273",
-   "ids": [
-    "40081273",
-    "40082437",
-    "40087250"
-   ],
-   "title": "OpenAI Countersues Apple in Trade Secrets Dispute",
-   "url": "https://thedefiant.io/frontier/ai/openai-countersues-apple-in-trade-secrets-dispute",
-   "source_id": "x-thedefiant-io",
-   "published_ts": "2026-11-27 19:22:28",
-   "story_sources": 3,
-   "score_norm": 82,
-   "related_news": [
-    {
-     "source_id": "in-express-tech",
-     "title": "OpenAI countersues Apple, accuses iPhone maker of stealing trade secrets",
-     "url": "https://indianexpress.com/article/technology/openai-countersues-apple-accuses-iphone-maker-of-stealing-trade-secrets-10982117/"
-    },
-    {
-     "source_id": "engadget",
-     "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
-     "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/"
-    }
-   ],
-   "queries": [
-    "openai apple countersues accuses"
-   ],
-   "videos": [
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:xmqTNKoRg_g",
-     "url": "https://www.youtube.com/watch?v=xmqTNKoRg_g",
-     "title": "OpenAI countersues Apple for stealing trade secrets",
-     "channel": "CNBC Television",
-     "views": 4297,
-     "age_hours": 13,
-     "relevance": 1,
-     "velocity": 331
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:z4XHbnDl3ng",
-     "url": "https://www.youtube.com/watch?v=z4XHbnDl3ng",
-     "title": "OpenAI countersues Apple over stolen files and threats",
-     "channel": "Whats up with AI?",
-     "views": 345,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 27
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:SshGyw_vs4E",
-     "url": "https://www.youtube.com/watch?v=SshGyw_vs4E",
-     "title": "OpenAI countersues Apple over AI device secrets #shorts",
-     "channel": "PiBrief",
-     "views": 207,
-     "age_hours": 9,
-     "relevance": 0.57,
-     "velocity": 23
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:7IrlN-v2Phs",
-     "url": "https://www.youtube.com/watch?v=7IrlN-v2Phs",
-     "title": "OpenAI Accuses Apple of Squeezing Its Suppliers",
-     "channel": "BigGo Finance",
-     "views": 39,
-     "age_hours": 9,
-     "relevance": 0.6,
-     "velocity": 4
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:aBK1dn74ODo",
-     "url": "https://www.youtube.com/watch?v=aBK1dn74ODo",
-     "title": "OpenAI Sues Apple: What Changes for iPhone Users",
-     "channel": "Synth Ops",
-     "views": 31,
-     "age_hours": 11,
-     "relevance": 0.5,
-     "velocity": 3
-    },
-    {
-     "platform": "youtube",
-     "kind": "видео",
-     "id": "youtube:av4edayWrTQ",
-     "url": "https://www.youtube.com/watch?v=av4edayWrTQ",
-     "title": "OpenAI just sued Apple back",
-     "channel": "Model Tribune",
-     "views": 21,
-     "age_hours": 13,
-     "relevance": 0.5,
-     "velocity": 2
-    }
-   ],
-   "verdict": {
-    "code": "early",
-    "text": "снимают, но мало смотрят – успеваем со своей подачей"
-   },
-   "searched_at": "2026-11-28T10:10:14.643Z"
   },
   {
    "first_seen": "2026-11-26T18:49:44.018Z",
@@ -815,6 +703,115 @@
     "text": "снимают, но мало смотрят – успеваем со своей подачей"
    },
    "searched_at": "2026-11-26T16:36:58.681Z"
+  },
+  {
+   "first_seen": "2026-11-27T21:49:26.600Z",
+   "id": "40081273",
+   "ids": [
+    "40081273",
+    "40082437",
+    "40087250"
+   ],
+   "title": "OpenAI Countersues Apple in Trade Secrets Dispute",
+   "url": "https://thedefiant.io/frontier/ai/openai-countersues-apple-in-trade-secrets-dispute",
+   "source_id": "x-thedefiant-io",
+   "published_ts": "2026-11-27 19:22:28",
+   "story_sources": 3,
+   "score_norm": 67,
+   "related_news": [
+    {
+     "source_id": "in-express-tech",
+     "title": "OpenAI countersues Apple, accuses iPhone maker of stealing trade secrets",
+     "url": "https://indianexpress.com/article/technology/openai-countersues-apple-accuses-iphone-maker-of-stealing-trade-secrets-10982117/"
+    },
+    {
+     "source_id": "engadget",
+     "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+     "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/"
+    }
+   ],
+   "queries": [
+    "openai apple countersues accuses"
+   ],
+   "videos": [
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:xmqTNKoRg_g",
+     "url": "https://www.youtube.com/watch?v=xmqTNKoRg_g",
+     "title": "OpenAI countersues Apple for stealing trade secrets",
+     "channel": "CNBC Television",
+     "views": 4297,
+     "age_hours": 13,
+     "relevance": 1,
+     "velocity": 331
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:z4XHbnDl3ng",
+     "url": "https://www.youtube.com/watch?v=z4XHbnDl3ng",
+     "title": "OpenAI countersues Apple over stolen files and threats",
+     "channel": "Whats up with AI?",
+     "views": 345,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 27
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:SshGyw_vs4E",
+     "url": "https://www.youtube.com/watch?v=SshGyw_vs4E",
+     "title": "OpenAI countersues Apple over AI device secrets #shorts",
+     "channel": "PiBrief",
+     "views": 207,
+     "age_hours": 9,
+     "relevance": 0.57,
+     "velocity": 23
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:7IrlN-v2Phs",
+     "url": "https://www.youtube.com/watch?v=7IrlN-v2Phs",
+     "title": "OpenAI Accuses Apple of Squeezing Its Suppliers",
+     "channel": "BigGo Finance",
+     "views": 39,
+     "age_hours": 9,
+     "relevance": 0.6,
+     "velocity": 4
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:aBK1dn74ODo",
+     "url": "https://www.youtube.com/watch?v=aBK1dn74ODo",
+     "title": "OpenAI Sues Apple: What Changes for iPhone Users",
+     "channel": "Synth Ops",
+     "views": 31,
+     "age_hours": 11,
+     "relevance": 0.5,
+     "velocity": 3
+    },
+    {
+     "platform": "youtube",
+     "kind": "видео",
+     "id": "youtube:av4edayWrTQ",
+     "url": "https://www.youtube.com/watch?v=av4edayWrTQ",
+     "title": "OpenAI just sued Apple back",
+     "channel": "Model Tribune",
+     "views": 21,
+     "age_hours": 13,
+     "relevance": 0.5,
+     "velocity": 2
+    }
+   ],
+   "verdict": {
+    "code": "early",
+    "text": "снимают, но мало смотрят – успеваем со своей подачей"
+   },
+   "searched_at": "2026-11-28T10:10:14.643Z"
   },
   {
    "first_seen": "2026-11-26T11:10:42.724Z",
@@ -1346,36 +1343,6 @@
    "searched_at": "2026-11-26T13:11:57.523Z"
   },
   {
-   "first_seen": "2026-11-28T00:28:13.804Z",
-   "id": "40076762",
-   "ids": [
-    "40076762",
-    "40083877"
-   ],
-   "title": "Australia passes bill that would let people sue AI chatbot providers",
-   "url": "https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
-   "source_id": "x-cryptoslate",
-   "published_ts": "2026-11-27 15:40:45",
-   "story_sources": 2,
-   "score_norm": 57,
-   "related_news": [
-    {
-     "source_id": "x-thedefiant-io",
-     "title": "Australia Passes Bill to Let People Sue AI Chatbot Providers",
-     "url": "https://thedefiant.io/frontier/regulation/australia-passes-bill-to-let-people-sue-ai-chatbot-providers"
-    }
-   ],
-   "queries": [
-    "australia passes bill would"
-   ],
-   "videos": [],
-   "verdict": {
-    "code": "gap",
-    "text": "никто ещё не снял – окно снять первыми"
-   },
-   "searched_at": "2026-11-28T12:49:48.696Z"
-  },
-  {
    "first_seen": "2026-11-27T15:36:40.619Z",
    "id": "40076269",
    "ids": [
@@ -1612,6 +1579,36 @@
     "text": "никто ещё не снял – окно снять первыми"
    },
    "searched_at": "2026-11-28T03:26:27.118Z"
+  },
+  {
+   "first_seen": "2026-11-28T00:28:13.804Z",
+   "id": "40076762",
+   "ids": [
+    "40076762",
+    "40083877"
+   ],
+   "title": "Australia passes bill that would let people sue AI chatbot providers",
+   "url": "https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
+   "source_id": "x-cryptoslate",
+   "published_ts": "2026-11-27 15:40:45",
+   "story_sources": 2,
+   "score_norm": 47,
+   "related_news": [
+    {
+     "source_id": "x-thedefiant-io",
+     "title": "Australia Passes Bill to Let People Sue AI Chatbot Providers",
+     "url": "https://thedefiant.io/frontier/regulation/australia-passes-bill-to-let-people-sue-ai-chatbot-providers"
+    }
+   ],
+   "queries": [
+    "australia passes bill would"
+   ],
+   "videos": [],
+   "verdict": {
+    "code": "gap",
+    "text": "никто ещё не снял – окно снять первыми"
+   },
+   "searched_at": "2026-11-28T12:49:48.696Z"
   },
   {
    "first_seen": "2026-11-26T18:37:12.398Z",
